@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-12-18
+Version Consolidée au 1981-12-31
 
 # Partie législative ancienne
 
@@ -80908,10 +80908,9 @@ dispositions des articles L. 322-1 et suivants comportent notamment :
 l'article L. 322-2 ;
 
 2. Des mesures temporaires assurant, par voie de conventions de coopération, certaines garanties de ressources aux
-travailleurs /R/licenciés/R/DECR.0705 22-08-1979 : privés de tout ou partie de leur rémunération par suite de circonstances
-économiques//.
+travailleurs privés de tout ou partie de leur rémunération par suite de circonstances économiques ;
 
-3. L'octroi d'aides favorisant la mobilité géographique et professionnelle des travailleurs ;
+3. L'octroi d'aides favorisant l'embauche et la mobilité géographique et professionnelle des travailleurs ;
 
 4. L'étude de la situation de l'emploi dans les régions ou les professions atteintes ou menacées d'un grave déséquilibre de
 l'emploi.
@@ -80957,6 +80956,10 @@ l'emploi.
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-1177 1981-12-30 ART. 1 JORF 31 DECEMBRE 1981
 
 	**Liens**:
 
@@ -81054,12 +81057,8 @@ l'emploi.
 
 	**Cite**:
 
+	  - Code du travail - art. L322-1 (M)
 	  - Code du travail - art. L322-2 (M)
-	  - Code du travail L322-1 ET S., L322-2
-
-	**Anciens textes**:
-
-	  - Décret n°1970-03-16 ART. 1
 
 
 ###### Article R322-21
