@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-05-07
+Version Consolidée au 1979-06-26
 
 # Partie législative ancienne
 
@@ -72384,6 +72384,38 @@ ministre chargé du travail qui statue.
 	  - TXT_SOURCE: Arrêté du 18 septembre 1984 - art. 1 (V)
 
 
+#### Chapitre IV : Cumuls d'emploi et travail clandestin
+
+##### Section 2 : Travail clandestin.
+
+###### Article R324-1
+
+Tout entrepreneur travaillant sur un chantier ayant donné lieu à la délivrance d'un permis de construire doit pendant la
+durée de l'affichage du permis afficher [*obligation*] sur ce chantier son nom, sa raison ou sa dénomination sociale ainsi
+que son adresse.
+
+L'affichage est assuré sur un panneau dont les indications sont lisibles de la voie publique [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. R362-5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R362-6 (V)
+	  - TXT_ASSOCIE: Code du travail R362-5 (SANCTION)
+
+	**Cité par**:
+
+	  - Décret n°95-182 du 21 février 1995 - art. 12 (Ab)
+	  - Code du travail - art. D341-5-11 (V)
+	  - Code du travail - art. R362-5 (VT)
+
+
 ### Titre IV : MAIN-D'OEUVRE ETRANGERE
 
 #### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
@@ -73314,6 +73346,32 @@ F (1).
 	**Anciens textes**:
 
 	  - Code du travail R362-3 (1973)
+
+
+###### Article R362-5
+
+Les infractions aux dispositions de l'article R. 324-1 [*affichage du nom, de la raison ou de la dénomination sociale de
+l'entrepreneur sur le chantier*] seront punies d'une amende de 3.000 F à 6.000 F.
+
+Le tribunal pourra ordonner, aux frais du condamné, l'affichage du jugement sur le chantier ainsi qu'à la porte du principal
+établissement de l'entreprise.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L324-1 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. R324-1 (M)
 
 
 #### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
