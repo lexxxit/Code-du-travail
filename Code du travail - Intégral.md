@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-12-28
+Version Consolidée au 1975-01-03
 
 # Partie législative ancienne
 
@@ -44371,6 +44371,287 @@ consultées, ainsi que les organismes paritaires compétents.
 	  - Code du travail L970-1 A L970-5
 
 
+### PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .
+
+###### Article L980-1
+
+Toutes les personnes qui suivent un stage de formation professionnelle continue en vertu du présent livre sont
+obligatoirement affiliées à un régime de sécurité sociale.
+
+Les stagiaires qui, avant leur stage, relevaient, à quelque titre que ce soit, d'un régime de sécurité sociale, restent
+affiliés à ce régime pendant la durée de leur stage.
+
+Ceux qui ne relevaient d'aucun régime sont affiliés au régime général de sécurité sociale.
+
+Toutefois, des exceptions pourront, par décret, être apportées à la règle posée par les deux alinéas ci-dessus lorsque le
+stage de formation suivi prépare exclusivement et directement à une profession relevant d'un régime de sécurité sociale plus
+favorable que le régime général.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Cité par**:
+
+	  - Décret n°86-554 du 13 mars 1986 - art. 3 (V)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 25 (V)
+	  - Décret n°98-1036 du 18 novembre 1998 - art. 4 (V)
+	  - Arrêté du 20 novembre 2006 - art. 12 (Ab)
+	  - Arrêté du 20 novembre 2006 - art. 12 (V)
+	  - Code de l'éducation - art. L341-1 (V)
+	  - Code du travail - art. L950-2 (T)
+	  - Code du travail - art. L980-6 (T)
+	  - Code du travail - art. L990-3 (T)
+	  - Code du travail - art. L991-3 (T)
+	  - Code du travail - art. R117-25 (VT)
+	  - Code du travail - art. R831-18 (VT)
+	  - Code du travail - art. R980-1 (T)
+	  - Code du travail - art. R980-2 (T)
+	  - Code du travail - art. R980-3 (T)
+	  - Code du travail - art. R980-4 (M)
+	  - Code du travail - art. R981-2 (M)
+	  - Code rural - art. L811-2 (V)
+	  - Code rural - art. L813-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-1 (AbD)
+	  - Code du travail - art. L962-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. R980-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R980-2 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-3 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-4 (T)
+
+	**Cite**:
+
+	  - Code du travail L900-1 A L980-7
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L980-2
+
+Lorsque les stagiaires de formation professionnelle relevant d'un régime de sécurité sociale de salariés sont rémunérés par
+leur employeur, l'Etat participe aux cotisations de sécurité sociale incombant aux employeurs dans la même proportion qu'aux
+rémunérations.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Cité par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 30 (M)
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 45 (Ab)
+	  - Loi n°de du 31 décembre 1986 - art. 9 (V)
+	  - Loi n°87-588 du 30 juillet 1987 - art. 70 (M)
+	  - Loi n°89-18 du 13 janvier 1989 - art. 46 (Ab)
+	  - Arrêté du 14 janvier 1991 - art. 3 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 230 F (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter GB (M)
+	  - Code du travail - art. L950-2 (T)
+	  - Code du travail - art. L980-17 (Ab)
+	  - Code du travail - art. L980-3 (T)
+	  - Code du travail - art. L980-4 (T)
+	  - Code du travail - art. L980-5 (T)
+	  - Code du travail - art. L980-7 (T)
+	  - Code du travail - art. L980-8 (T)
+	  - Code du travail - art. L980-8-1 (T)
+	  - Code du travail - art. L990-3 (T)
+	  - Code du travail - art. L991-3 (T)
+	  - Code du travail - art. R980-1 (T)
+	  - Code du travail - art. R980-2 (M)
+	  - Code du travail - art. R980-4 (M)
+	  - Code rural - art. D811-158 (V)
+	  - Code rural - art. R811-158 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-2 (AbD)
+	  - Code du travail - art. L962-2 (M)
+	  - Code du travail - art. L981-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. R980-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R980-2 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-3 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L980-3
+
+Lorsque les stagiaires sont rémunérés par l'Etat pendant la durée du stage ou lorsqu'ils ne bénéficient d'aucune
+rémunération, les cotisations de sécurité sociale sont intégralement prises en charge par l'Etat.
+
+Ces cotisations sont calculées sur la base de taux forfaitaires fixés par voie réglementaire et revisés annuellement compte
+tenu de l'évolution du plafond retenu pour le calcul des cotisations du régime général de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°78-698 du 6 juillet 1978 - art. 3 (P)
+	  - Arrêté du 24 janvier 1980 - art. 1 (V)
+	  - Décret n°80-102 du 24 janvier 1980 - art. 1 (V)
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 30 (M)
+	  - Code de la sécurité sociale. - art. L381-31 (V)
+	  - Code du travail - art. L950-2 (T)
+	  - Code du travail - art. L980-5 (T)
+	  - Code du travail - art. L980-7 (T)
+	  - Code du travail - art. R980-1 (T)
+	  - Code du travail - art. R980-3 (T)
+	  - Code du travail - art. R980-4 (M)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-3 (AbD)
+	  - Code du travail - art. L962-3 (M)
+	  - Code du travail - art. L981-2 (AbD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. R980-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R980-2 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-3 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L980-5
+
+Les droits aux prestations de sécurité sociale des travailleurs salariés qui ont bénéficié d'un congé non rémunéré au titre
+de la formation professionnelle continue sont garantis dans des conditions identiques à celles qui leur étaient appliquées
+antérieurement aux congés ci-dessus désignés.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-5 (AbD)
+	  - Code du travail - art. L962-5 (M)
+	  - Code du travail - art. L981-5 (AbD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. R980-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R980-2 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-3 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-4 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R980-3 (T)
+	  - Code du travail - art. R980-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L980-6
+
+Tous les litiges auxquels peuvent donner lieu le versement et la prise en charge des cotisations de sécurité sociale en
+application du présent titre relèvent de la compétence des tribunaux de l'ordre judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Cité par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 30 (M)
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 45 (Ab)
+	  - Loi n°de du 31 décembre 1986 - art. 9 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 230 F (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter GB (M)
+	  - Code du travail - art. L950-2 (T)
+	  - Code du travail - art. L980-7 (T)
+	  - Code du travail - art. L980-8 (T)
+	  - Code du travail - art. L980-8-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-6 (AbD)
+	  - Code du travail - art. L962-6 (M)
+	  - Code du travail - art. L981-6 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L980-1 A L980-7
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L980-7
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les mesures d'application du présent titre autres que celles
+qui portent fixation des taux forfaitaires prévus à l'article L. 980-3.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Cité par**:
+
+	  - Code du travail - art. L950-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-7 (AbD)
+	  - Code du travail - art. L962-7 (M)
+	  - Code du travail - art. L981-10 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L980-3 (T)
+	  - Code du travail L980-1 A L980-7
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
 
 ### Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
@@ -44482,6 +44763,56 @@ lorsque le litige porte sur le montant de la participation consentie par l'emplo
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L951-9 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+### Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .
+
+###### Article L980-4
+
+Les dispositions de l'article L. 416-2 du livre IV du code de la sécurité sociale [*couverture des risques accidents du
+travail et maladies professionnelles*] sont applicables à l'ensemble des stagiaires de la formation professionnelle continue,
+réserve faite des fonctionnaires de l'état et des agents titulaires des collectivités locales qui restent régis par les
+dispositions qui leur sont propres.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 34 JORF 25 FEVRIER 1984
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-1056 du 30 novembre 1984
+	  - TXT_SOURCE: Décret n°84-1056 du 30 novembre 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-1056 du 30 novembre 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°84-1056 du 30 novembre 1984 - art. 3 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R980-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-1-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R980-2 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-3 (T)
+	  - TXT_SOURCE: Code du travail - art. R980-4 (T)
+
+	**Cité par**:
+
+	  - Décret n°84-1056 du 30 novembre 1984 - art. 1 (Ab)
+	  - Code du travail - art. L980-5 (T)
+	  - Code du travail - art. R980-3 (T)
+	  - Code du travail - art. R980-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L962-4 (AbD)
+	  - Code du travail - art. L962-4 (M)
+	  - Code du travail - art. L981-3 (AbD)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L416 AL. 2
 
 	**Codifié par**:
 
