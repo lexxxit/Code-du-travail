@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-03-01
+Version Consolidée au 1982-03-28
 
 # Partie législative ancienne
 
@@ -13904,6 +13904,507 @@ auxquelles il avait été dérogé redeviennent applicables.
 	  - Décret n°73-1046 1973-11-15
 
 
+##### Section 2 : Travail à temps choisi
+
+##### Paragraphe 1 : Horaires individualisés.
+
+###### Article L212-4-1
+
+Dans les entreprises industrielles, commerciales et agricoles, dans les offices publics et ministériels, dans les professions
+libérales, dans les sociétés civiles, dans les syndicats professionnels et associations de quelque nature que ce soit, et
+pour répondre aux demandes de certains travailleurs, les employeurs sont autorisés à déroger à la règle de l'horaire
+collectif de travail et à pratiquer des horaires individualisés sous réserve que le comité d'entreprise ou, s'il n'en existe
+pas, les délégués du personnel n'y soient pas opposés et que l'inspecteur du travail et de la main-d'oeuvre compétent ou, le
+cas échéant, le fonctionnaire de contrôle assimilé soit préalablement informé.
+
+Dans les entreprises qui ne disposent pas d'une représentation du personnel, la pratique des horaires individualisés est
+autorisée par l'inspecteur du travail après qu'ait été constaté l'accord du personnel.
+
+Les horaires individualisés peuvent entraîner dans la limite d'un nombre d'heures fixé par décret, des reports d'heures d'une
+semaine à une autre sans que ces heures aient d'effet sur le nombre et le paiement des heures supplémentaires, pourvu
+qu'elles résultent d'un libre choix du salarié concerné.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 10 (M)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 8 (Ab)
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 11 (VT)
+	  - Code du travail - art. Annexe à l'article R438-1 (VT)
+	  - Code du travail - art. D212-4-1 (VT)
+	  - Code du travail - art. D212-4-2 (VT)
+	  - Code du travail - art. L212-4-12 (AbD)
+	  - Code du travail - art. L212-4-2 (AbD)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-8 (Ab)
+	  - Code du travail - art. L832-1 (AbD)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 4 JORF 28 MARS 1982
+	  - Ordonnance 82-271 1982-03-26 ART. 1 JORF 28 MARS 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3122-23 (VD)
+	  - Code du travail - art. L3122-24 (VD)
+	  - Code du travail - art. L3122-25 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail D212-4-1 : LIMITE DU NOMBRE D'HEURES DE REPORT
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### Paragraphe 2 : Travail à temps partiel.
+
+###### Article L212-4-2
+
+Dans les entreprises, professions et organismes mentionnés à l'article L. 212-4-1, des horaires de travail à temps partiel
+peuvent être pratiqués.
+
+Sont considérés comme horaires à temps partiel les horaires inférieurs d'au moins un cinquième à la durée légale du travail
+ou à la durée du travail fixée conventionnellement pour la branche ou l'entreprise.
+
+Sont considérés comme salariés à temps partiel les salariés dont la durée de travail mensuelle est inférieure d'au moins un
+cinquième à celle qui résulte de l'application, sur cette même période, de la durée légale du travail ou de la durée du
+travail fixée conventionnellement pour la branche ou l'entreprise.
+
+Pour la détermination de la limite supérieure applicable aux horaires à temps partiel, la durée du travail à retenir est
+arrondie au nombre entier d'heures immédiatement supérieur à celui qui résulte de l'application des deux alinéas précédents.
+
+Les horaires de travail à temps partiel peuvent être pratiqués après avis du comité d'entreprise ou, à défaut, des délégués
+du personnel ; cet avis est transmis dans un délai de quinze jours à l'inspecteur du travail.
+
+En l'absence de représentation du personnel, les horaires de travail à temps partiel peuvent être pratiqués, sous réserve que
+l'inspecteur du travail en ait été préalablement informé.
+
+Le refus par un salarié d'effectuer un travail à temps partiel ne constitue ni une faute ni un motif de licenciement.
+
+Les salariés employés à temps partiel bénéficient des droits reconnus aux salariés à temps complet par la loi, les
+conventions et les accords collectifs d'entreprise ou d'établissement sous réserve, en ce qui concerne les droits
+conventionnels, de modalités spécifiques prévues par une convention ou un accord collectif.
+
+Les périodes d'essai des salariés à temps partiel ne peuvent avoir une durée calendaire supérieure à celle des salariés à
+temps complet.
+
+Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, leur rémunération est proportionnelle à
+celle du salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans l'établissement ou
+l'entreprise.
+
+Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est décomptée pour les salariés employés à temps
+partiel comme s'ils avaient été occupés à temps complet.
+
+L'indemnité de licenciement et l'indemnité de départ à la retraite des salariés ayant été occupés à temps complet et à temps
+partiel dans la même entreprise sont calculées proportionnellement aux périodes d'emploi effectuées selon l'une et l'autre de
+ces deux modalités depuis leur entrée dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°51-727 du 6 juin 1951 - art. 1 bis (Ab)
+	  - Décret n°72-230 du 24 mars 1972 - art. 1 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 1 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 2 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 3 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 4 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 5 (Ab)
+	  - Décret n°76-1282 du 29 décembre 1976 - art. 2-1 (Ab)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
+	  - Loi n°81-64 du 28 janvier 1981 - art. 5 (V)
+	  - Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - Arrêté du 20 décembre 1982 - art. 1 (V)
+	  - Décret n°85-300 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-347 du 19 mars 1985 - art. 3 (Ab)
+	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
+	  - Décret n°90-607 du 12 juillet 1990 - art. 6 (V)
+	  - Décret n°91-1146 du 7 novembre 1991 - art. 1 (V)
+	  - Décret n°93-238 du 22 février 1993 - art. 1 bis (V)
+	  - Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 43 (V)
+	  - Décret n°94-774 du 30 août 1994 - art. 1 (Ab)
+	  - Décret n°94-774 du 30 août 1994 - art. 7 (Ab)
+	  - Loi n°95-95 du 1 février 1995 - art. 63 (Ab)
+	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
+	  - Décret n°95-925 du 19 août 1995 - art. 5 (Ab)
+	  - Décret n°95-950 du 25 août 1995 - art. 1 (V)
+	  - Décret n°95-950 du 25 août 1995 - art. 7 (V)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 1 (Ab)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 7 (Ab)
+	  - Décret n°98-1024 du 12 novembre 1998 - art. 3 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 13 (V)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 2 (Ab)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 24 (V)
+	  - Décret n°2006-1501 du 29 novembre 2006 - art. 3 (V)
+	  - CODE DES COMMUNES. - art. R233-99 (Ab)
+	  - CODE DES COMMUNES. - art. R263-22 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 nonies (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 YL (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 ZY bis (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies V 5 (P)
+	  - Code de la construction et de l'habitation. - art. R*313-1 (V)
+	  - Code de la sécurité sociale. - art. L241-3-1 (M)
+	  - Code de la sécurité sociale. - art. L242-8 (M)
+	  - Code de la sécurité sociale. - art. L351-15 (V)
+	  - Code de la sécurité sociale. - art. R241-0-1 (V)
+	  - Code de la sécurité sociale. - art. R242-7 (V)
+	  - Code de la sécurité sociale. - art. R242-8 (V)
+	  - Code de la sécurité sociale. - art. R243-6 (V)
+	  - Code du travail - art. Annexe à l'article R438-1 (VT)
+	  - Code du travail - art. D981-10 (M)
+	  - Code du travail - art. L122-32-12 (AbD)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-4 (M)
+	  - Code du travail - art. L212-4-7 (AbD)
+	  - Code du travail - art. L223-9 (AbD)
+	  - Code du travail - art. L322-12 (Ab)
+	  - Code du travail - art. L322-4-15-4 (M)
+	  - Code du travail - art. L322-4-8 (M)
+	  - Code du travail - art. L412-5 (M)
+	  - Code du travail - art. L421-2 (M)
+	  - Code du travail - art. L431-2 (M)
+	  - Code du travail - art. R212-1 (Ab)
+	  - Code du travail - art. R814-2 (VT)
+	  - Code du travail - art. R831-2 (VT)
+	  - Code du travail - art. R950-1 (M)
+	  - Code du travail maritime - art. 24-1 (V)
+	  - Code général des collectivités territoriales - art. D2333-102 (V)
+	  - Code général des collectivités territoriales - art. R2531-20 (V)
+	  - Code rural - art. L741-24 (Ab)
+	  - Code rural - art. R*741-50 (M)
+	  - Code rural - art. R*741-56 (Ab)
+	  - Code rural - art. R741-4 (V)
+	  - Code rural ancien - art. 1031-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°75-466 du 9 juin 1975
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 2 JORF 28 MARS 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-1 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-4-3
+
+Le contrat de travail des salariés à temps partiel est un contrat écrit [*condition de forme*] ; il mentionne, notamment, la
+qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou, le cas échéant, mensuelle du travail.
+Sauf pour les salariés des associations d'aide à domicile, il mentionne la répartition de la durée du travail entre les jours
+de la semaine ou, le cas échéant, les semaines du mois. Il définit en outre les conditions de la modification éventuelle de
+cette répartition, qui doit être notifiée au salarié sept jours au moins avant la date à laquelle cette modification doit
+intervenir [*délai*].
+
+Le contrat de travail détermine également, dans le cadre éventuellement prévu par une convention ou un accord collectif
+d'entreprise ou d'établissement, les limites dans lesquelles peuvent être effectuées des heures complémentaires au-delà du
+temps de travail fixé par le contrat. Toutefois, le nombre d'heures complémentaires effectuées par un salarié à temps partiel
+au cours de la même semaine ou d'un même mois ne peut être supérieur au tiers de la durée hebdomadaire ou mensuelle de
+travail prévue dans son contrat.
+
+Lorsque pendant une période de douze semaines consécutives l'horaire moyen réellement effectué par un salarié a dépassé de
+deux heures au moins par semaine, ou de l'équivalent mensuel de cette durée, l'horaire prévu dans son contrat, celui-ci est
+modifié, sous réserve d'un préavis de sept jours et sauf opposition du salarié intéressé, en ajoutant à l'horaire
+antérieurement fixé la différence entre cet horaire et l'horaire moyen réellement effectué.
+
+Les heures complémentaires ne peuvent avoir pour effet de porter la durée du travail effectuée par un salarié au niveau de la
+durée légale du travail ou de la durée fixée conventionnellement. Le refus d'effectuer les heures complémentaires proposées
+par l'employeur au-delà des limites fixées par le contrat ne constitue pas une faute ou un motif de licenciement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 55-10 (Ab)
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 11 (Ab)
+	  - Loi n°92-1446 du 31 décembre 1992 - art. 3 (V)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 5 (M)
+	  - Arrêté du 12 avril 1994 - art. 3 (V)
+	  - Décret n°94-774 du 30 août 1994 - art. 1 (Ab)
+	  - Décret n°94-774 du 30 août 1994 - art. 7 (Ab)
+	  - Décret n°95-925 du 19 août 1995 - art. 5 (Ab)
+	  - Décret n°95-950 du 25 août 1995 - art. 1 (V)
+	  - Décret n°95-950 du 25 août 1995 - art. 7 (V)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 1 (Ab)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 7 (Ab)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 14 (V)
+	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
+	  - CODE DES COMMUNES. - art. R*121-26 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 YL (P)
+	  - Code de la sécurité sociale. - art. D133-5 (M)
+	  - Code de la sécurité sociale. - art. D133-7 (V)
+	  - Code de la sécurité sociale. - art. D241-23 (Ab)
+	  - Code de la sécurité sociale. - art. L133-5-1 (M)
+	  - Code de la sécurité sociale. - art. L133-5-2 (V)
+	  - Code de la sécurité sociale. - art. L133-5-3 (AbD)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
+	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
+	  - Code de la sécurité sociale. - art. L242-9 (M)
+	  - Code de la sécurité sociale. - art. R351-40 (V)
+	  - Code du travail - art. D322-22-3 (M)
+	  - Code du travail - art. L122-32-16-1 (AbD)
+	  - Code du travail - art. L128-1 (VT)
+	  - Code du travail - art. L129-2 (M)
+	  - Code du travail - art. L129-6 (AbD)
+	  - Code du travail - art. L212-16 (VT)
+	  - Code du travail - art. L212-17 (AbD)
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-4 (VD)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L322-12 (Ab)
+	  - Code du travail - art. L322-4 (M)
+	  - Code du travail - art. L812-1 (V)
+	  - Code du travail - art. L932-1 (AbD)
+	  - Code du travail - art. R212-1 (Ab)
+	  - Code du travail - art. R261-3-1 (VT)
+	  - Code du travail - art. R814-2 (VT)
+	  - Code du travail - art. R831-2 (M)
+	  - Code général des collectivités territoriales - art. D4134-26 (V)
+	  - Code général des collectivités territoriales - art. R2123-7 (V)
+	  - Code général des collectivités territoriales - art. R2123-8 (T)
+	  - Code général des collectivités territoriales - art. R3123-6 (V)
+	  - Code général des collectivités territoriales - art. R4135-6 (M)
+	  - Code général des impôts, CGI. - art. 81 quater (Ab)
+	  - Code rural - art. R*741-50 (M)
+	  - Code rural - art. R*741-56 (Ab)
+	  - Code rural - art. R712-8 (V)
+	  - Code rural ancien - art. 1000-6 (Ab)
+	  - Code rural et de la pêche maritime - art. L712-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°98-497 du 22 juin 1998
+
+	**Modifié par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 3 JORF 28 MARS 1982
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-4-4
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les salariés à temps partiel entrent en compte dans
+l'effectif du personnel des entreprises ou établissements dont ils relèvent, en vue de l'application à ces entreprises ou
+établissements des obligations subordonnées par la législation du travail à des conditions d'effectif minimum de salariés. En
+ce qui concerne l'application des dispositions relatives à la représentation du personnel et à l'exercice des droits
+syndicaux, les salariés à temps partiel dont la durée de travail est égale ou supérieure à vingt heures par semaine ou à
+quatre-vingt-cinq heures par mois sont pris en compte intégralement dans l'effectif de l'entreprise [*calcul*]. Pour les
+salariés dont la durée du travail est inférieure à ces seuils, l'effectif est calculé en divisant la masse totale des
+horaires inscrits dans ces contrats de travail par la durée légale du travail ou la durée conventionnelle mentionnée à
+l'article L. 212-4-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°75-466 du 9 juin 1975 - art. 1 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 2 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 3 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 4 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 5 (Ab)
+	  - Loi n°81-64 du 28 janvier 1981 - art. 4 (V)
+	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 24 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter C (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter E (M)
+	  - Code du travail - art. L212-16 (VT)
+	  - Code du travail - art. L212-17 (AbD)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L932-1 (AbD)
+	  - Code du travail - art. R261-3-1 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 4 JORF 28 MARS 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L212-4-8 (Ab)
+
+
+###### Article L212-4-5
+
+Les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi à temps complet et les salariés à temps complet
+qui souhaitent occuper ou reprendre un emploi à temps partiel dans le même établissement, ou à défaut, dans la même
+entreprise ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi
+équivalent. L'employeur porte à la connaissance de ces salariés la liste des emplois disponibles correspondants.
+
+Le chef d'entreprise communique au moins une fois par an au comité d'entreprise ou, à défaut, aux délégués du personnel un
+bilan du travail à temps partiel réalisé dans l'entreprise portant notamment sur le nombre, le sexe et la qualification des
+salariés concernés. Lors de la réunion où est discuté ce bilan, le chef d'entreprise explique les raisons qui l'ont amené à
+refuser à des salariés à temps complet de passer à temps partiel et à des salariés à temps partiel de travailler à temps
+complet. Ce bilan est également communiqué aux délégués syndicaux de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 5 JORF 28 MARS 1982
+
+	**Cité par**:
+
+	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L432-4-2 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L212-4-9 (AbD)
+
+
+###### Article L212-4-6
+
+Le temps de travail mensuel d'un salarié à temps partiel ne peut être réduit de plus d'un tiers [*pourcentage*] par
+l'utilisation du crédit d'heures auquel il peut prétendre pour l'exercice de mandats détenus par lui au sein d'une
+entreprise. Le solde éventuel de ce crédit d'heures payées peut être utilisé en dehors des heures de travail de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 6 JORF 28 MARS 1982
+
+	**Transféré par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 12 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Cité par**:
+
+	  - Loi n°2004-626 du 30 juin 2004 - art. 5 (V)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L223-9 (AbD)
+	  - Code du travail - art. R261-3-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L212-4-10 (AbD)
+	  - Code du travail - art. L212-4-10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-4-7
+
+Des décrets déterminent en tant que de besoin les modalités d'application des articles L. 212-4-2 à L. 212-4-6 soit pour
+l'ensemble des professions ou des branches d'activité, soit pour une profession ou une branche particulière.
+
+Si, dans une branche ou une profession, la pratique du travail à temps partiel a provoqué un déséquilibre grave et durable
+des conditions d'emploi, des décrets, pris après consultation des organisations d'employeurs et de salariés intéressées,
+peuvent instituer des limitations du recours au travail à temps partiel dans la branche ou la profession concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 6 JORF 28 MARS 1982
+
+	**Transféré par**:
+
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 12 () JORF 20 janvier 2000 en vigueur le 1er février 2000
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L212-4-11 (Ab)
+	  - Code du travail - art. L212-4-11 (AbD)
+	  - Code du travail - art. L3123-7 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-4 (M)
+	  - Code du travail - art. L212-4-5 (M)
+	  - Code du travail - art. L212-4-6 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### SECTION 3 : HEURES SUPPLEMENTAIRES.
 
 ###### Article L212-5
@@ -20622,329 +21123,6 @@ croûte ainsi que des périodes d'inaction dans les industries et commerces dét
 	**Anciens textes**:
 
 	  - Loi n°1942-08-28 art. 1
-
-
-##### AMENAGEMENT DU TEMPS DE TRAVAIL .
-
-##### TRAVAIL A TEMPS PARTIEL.
-
-###### Article L212-4-2
-
-Des horaires de travail à temps partiel inférieurs à la durée normale de travail dans l'établissement ou l'atelier et à la
-durée légale du travail peuvent être pratiqués, après avis, lorsqu'ils existent, du comité d'entreprise, ou, à défaut, des
-délégués du personnel [*consultation*] ; cet avis est transmis dans un délai de quinze jours à l'autorité administrative
-compétente. Ils sont proposés aux salariés de l'établissement ou de l'entreprise qui demandent à en bénéficier, avant d'être
-offerts aux demandeurs d'emploi.
-
-Les salariés employés à temps partiel bénéficient des droits accordés par la loi et les conventions collectives aux salariés
-occupés à temps complet, sous réserve d'adaptation éventuellement prévue par un accord collectif en ce qui concerne les
-droits conventionnels.
-
-Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, leur rémunération [*montant*] est
-proportionnelle à celle du salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans
-l'établissement ou l'entreprise.
-
-Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est décomptée pour les salariés employés à temps
-partiel comme s'ils avaient été occupés à temps complet.
-
-L'indemnité de licenciement et l'indemnité de départ à la retraite des salariés ayant été occupés à temps complet et à temps
-partiel dans la même entreprise sont calculées proportionnellement aux périodes d'emploi effectuées selon l'une et l'autre de
-ces deux modalités depuis leur entrée dans l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°51-727 du 6 juin 1951 - art. 1 bis (Ab)
-	  - Décret n°72-230 du 24 mars 1972 - art. 1 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 1 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 2 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 3 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 4 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 5 (Ab)
-	  - Décret n°76-1282 du 29 décembre 1976 - art. 2-1 (Ab)
-	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
-	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
-	  - Loi n°81-64 du 28 janvier 1981 - art. 5 (V)
-	  - Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
-	  - Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
-	  - Arrêté du 20 décembre 1982 - art. 1 (V)
-	  - Décret n°85-300 du 5 mars 1985 - art. 1 (V)
-	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
-	  - Décret n°85-347 du 19 mars 1985 - art. 3 (Ab)
-	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
-	  - Décret n°90-607 du 12 juillet 1990 - art. 6 (V)
-	  - Décret n°91-1146 du 7 novembre 1991 - art. 1 (V)
-	  - Décret n°93-238 du 22 février 1993 - art. 1 bis (V)
-	  - Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
-	  - Loi n°93-1313 du 20 décembre 1993 - art. 43 (V)
-	  - Décret n°94-774 du 30 août 1994 - art. 1 (Ab)
-	  - Décret n°94-774 du 30 août 1994 - art. 7 (Ab)
-	  - Loi n°95-95 du 1 février 1995 - art. 63 (Ab)
-	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
-	  - Décret n°95-925 du 19 août 1995 - art. 5 (Ab)
-	  - Décret n°95-950 du 25 août 1995 - art. 1 (V)
-	  - Décret n°95-950 du 25 août 1995 - art. 7 (V)
-	  - Décret n°95-1188 du 6 novembre 1995 - art. 1 (Ab)
-	  - Décret n°95-1188 du 6 novembre 1995 - art. 7 (Ab)
-	  - Décret n°98-1024 du 12 novembre 1998 - art. 3 (V)
-	  - Décret n°2000-118 du 14 février 2000 - art. 13 (V)
-	  - Décret n°2002-400 du 25 mars 2002 - art. 2 (Ab)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 24 (V)
-	  - Décret n°2006-1501 du 29 novembre 2006 - art. 3 (V)
-	  - CODE DES COMMUNES. - art. R233-99 (Ab)
-	  - CODE DES COMMUNES. - art. R263-22 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 nonies (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 YL (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 ZY bis (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies V 5 (P)
-	  - Code de la construction et de l'habitation. - art. R*313-1 (V)
-	  - Code de la sécurité sociale. - art. L241-3-1 (M)
-	  - Code de la sécurité sociale. - art. L242-8 (M)
-	  - Code de la sécurité sociale. - art. L351-15 (V)
-	  - Code de la sécurité sociale. - art. R241-0-1 (V)
-	  - Code de la sécurité sociale. - art. R242-7 (V)
-	  - Code de la sécurité sociale. - art. R242-8 (V)
-	  - Code de la sécurité sociale. - art. R243-6 (V)
-	  - Code du travail - art. Annexe à l'article R438-1 (VT)
-	  - Code du travail - art. D981-10 (M)
-	  - Code du travail - art. L122-32-12 (AbD)
-	  - Code du travail - art. L212-4-3 (M)
-	  - Code du travail - art. L212-4-4 (M)
-	  - Code du travail - art. L212-4-7 (AbD)
-	  - Code du travail - art. L223-9 (AbD)
-	  - Code du travail - art. L322-12 (Ab)
-	  - Code du travail - art. L322-4-15-4 (M)
-	  - Code du travail - art. L322-4-8 (M)
-	  - Code du travail - art. L412-5 (M)
-	  - Code du travail - art. L421-2 (M)
-	  - Code du travail - art. L431-2 (M)
-	  - Code du travail - art. R212-1 (Ab)
-	  - Code du travail - art. R814-2 (VT)
-	  - Code du travail - art. R831-2 (VT)
-	  - Code du travail - art. R950-1 (M)
-	  - Code du travail maritime - art. 24-1 (V)
-	  - Code général des collectivités territoriales - art. D2333-102 (V)
-	  - Code général des collectivités territoriales - art. R2531-20 (V)
-	  - Code rural - art. L741-24 (Ab)
-	  - Code rural - art. R*741-50 (M)
-	  - Code rural - art. R*741-56 (Ab)
-	  - Code rural - art. R741-4 (V)
-	  - Code rural ancien - art. 1031-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°75-466 du 9 juin 1975
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L212-4-3
-
-Le contrat de travail des salariés à temps partiel est un contrat écrit [*condition de forme*] ; il mentionne, notamment, la
-durée hebdomadaire du travail, les conditions dans lesquelles sa répartition est établie ainsi que les limites dans
-lesquelles peuvent être effectuées des heures complémentaires au-delà du temps de travail régulier prévu par le contrat et
-dans le cadre éventuellement déterminé par un accord collectif [*mentions obligatoires*]. Le refus d'effectuer les heures
-complémentaires proposées par l'employeur au-delà des limites fixées par le contrat ne constitue pas une faute ou un motif de
-licenciement.
-
-La durée totale de travail des salariés à temps partiel, heures complémentaires comprises, ne peut excéder [*maximum*], la
-durée légale du travail ni la durée normale de travail dans l'établissement ou l'atelier.
-
-Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les mesures d'application des articles L. 212-4-1 à L.
-212-4-3.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 55-10 (Ab)
-	  - Décret n°92-1205 du 16 novembre 1992 - art. 11 (Ab)
-	  - Loi n°92-1446 du 31 décembre 1992 - art. 3 (V)
-	  - Loi n°93-1313 du 20 décembre 1993 - art. 5 (M)
-	  - Arrêté du 12 avril 1994 - art. 3 (V)
-	  - Décret n°94-774 du 30 août 1994 - art. 1 (Ab)
-	  - Décret n°94-774 du 30 août 1994 - art. 7 (Ab)
-	  - Décret n°95-925 du 19 août 1995 - art. 5 (Ab)
-	  - Décret n°95-950 du 25 août 1995 - art. 1 (V)
-	  - Décret n°95-950 du 25 août 1995 - art. 7 (V)
-	  - Décret n°95-1188 du 6 novembre 1995 - art. 1 (Ab)
-	  - Décret n°95-1188 du 6 novembre 1995 - art. 7 (Ab)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 14 (V)
-	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
-	  - CODE DES COMMUNES. - art. R*121-26 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 YL (P)
-	  - Code de la sécurité sociale. - art. D133-5 (M)
-	  - Code de la sécurité sociale. - art. D133-7 (V)
-	  - Code de la sécurité sociale. - art. D241-23 (Ab)
-	  - Code de la sécurité sociale. - art. L133-5-1 (M)
-	  - Code de la sécurité sociale. - art. L133-5-2 (V)
-	  - Code de la sécurité sociale. - art. L133-5-3 (AbD)
-	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
-	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
-	  - Code de la sécurité sociale. - art. L242-9 (M)
-	  - Code de la sécurité sociale. - art. R351-40 (V)
-	  - Code du travail - art. D322-22-3 (M)
-	  - Code du travail - art. L122-32-16-1 (AbD)
-	  - Code du travail - art. L128-1 (VT)
-	  - Code du travail - art. L129-2 (M)
-	  - Code du travail - art. L129-6 (AbD)
-	  - Code du travail - art. L212-16 (VT)
-	  - Code du travail - art. L212-17 (AbD)
-	  - Code du travail - art. L212-4-3 (M)
-	  - Code du travail - art. L212-4-4 (VD)
-	  - Code du travail - art. L212-4-7 (T)
-	  - Code du travail - art. L322-12 (Ab)
-	  - Code du travail - art. L322-4 (M)
-	  - Code du travail - art. L812-1 (V)
-	  - Code du travail - art. L932-1 (AbD)
-	  - Code du travail - art. R212-1 (Ab)
-	  - Code du travail - art. R261-3-1 (VT)
-	  - Code du travail - art. R814-2 (VT)
-	  - Code du travail - art. R831-2 (M)
-	  - Code général des collectivités territoriales - art. D4134-26 (V)
-	  - Code général des collectivités territoriales - art. R2123-7 (V)
-	  - Code général des collectivités territoriales - art. R2123-8 (T)
-	  - Code général des collectivités territoriales - art. R3123-6 (V)
-	  - Code général des collectivités territoriales - art. R4135-6 (M)
-	  - Code général des impôts, CGI. - art. 81 quater (Ab)
-	  - Code rural - art. R*741-50 (M)
-	  - Code rural - art. R*741-56 (Ab)
-	  - Code rural - art. R712-8 (V)
-	  - Code rural ancien - art. 1000-6 (Ab)
-	  - Code rural et de la pêche maritime - art. L712-1 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
-	  - TXT_SOURCE: Décret n°98-497 du 22 juin 1998
-
-	**Cite**:
-
-	  - Code du travail - art. L212-4-1 (AbD)
-	  - Code du travail - art. L212-4-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L212-4-4
-
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles les salariés à temps partiel entrent en compte dans
-l'effectif du personnel des entreprises ou établissements dont ils relèvent, en vue de l'application à ces entreprises ou
-établissements des obligations subordonnées par la législation du travail à des conditions d'effectif minimum de salariés. En
-ce qui concerne l'application des dispositions relatives à la représentation du personnel et à l'exercice des droits
-syndicaux, l'effectif des salariés est calculé en divisant la masse totale des horaires inscrits dans les contrats de travail
-des salariés de l'entreprise par la durée légale du travail ou la durée normale si celle-ci lui est inférieure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°75-466 du 9 juin 1975 - art. 1 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 2 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 3 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 4 (Ab)
-	  - Décret n°75-466 du 9 juin 1975 - art. 5 (Ab)
-	  - Loi n°81-64 du 28 janvier 1981 - art. 4 (V)
-	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 24 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter C (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter D (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter E (M)
-	  - Code du travail - art. L212-16 (VT)
-	  - Code du travail - art. L212-17 (AbD)
-	  - Code du travail - art. L212-4-2 (M)
-	  - Code du travail - art. L212-4-7 (T)
-	  - Code du travail - art. L932-1 (AbD)
-	  - Code du travail - art. R261-3-1 (VT)
-
-	**Modifié par**:
-
-	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°81-64 du 28 janvier 1981 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L212-4-8 (Ab)
-
-
-###### Article L212-4-5
-
-Les salariés à temps complet qui souhaitent occuper ou reprendre un emploi à temps partiel et les salariés à temps partiel
-qui souhaitent occuper ou reprendre un emploi à temps complet dans le même établissement ou, à défaut, dans la même
-entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Créé par**:
-
-	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
-	  - Code du travail - art. L212-4-3 (M)
-	  - Code du travail - art. L212-4-7 (T)
-	  - Code du travail - art. L432-4-2 (AbD)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L212-4-9 (AbD)
 
 
 ##### HEURES SUPPLEMENTAIRES .
@@ -31373,7 +31551,106 @@ service que les adhérents du syndicat propriétaire de la marque ou du label.
 	  - TXT_ASSOCIE: Code du travail - art. L481-3 (AbD)
 
 
+### Titre II : Les délégués du personnel
+
+###### Article L420-9
+
+Sont éligibles, à l'exception des conjoint, ascendants, descendants, frères, soeurs et alliés au même degré du chef
+d'entreprise, les électeurs âgés de dix huit ans accomplis, s'exprimant en français et ayant travaillé dans l'entreprise sans
+interruption depuis un an au moins [*condition d'ancienneté*].
+
+Ne peuvent être désignés les salariés qui ont été déchus de leurs fonctions syndicales en application des ordonnances du 27
+juillet 1944 modifiée et du 26 septembre 1944.
+
+Les salariés occupant un emploi à temps partiel simultanément dans plusieurs entreprises ne sont éligibles que dans l'une de
+ces entreprises ; ils choisissent celle où ils font acte de candidature.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1946-09-30 ART. 5
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 1946 - art. 5 (V)
+	  - Code du travail - art. L420-10 (T)
+	  - Code du travail - art. L420-13 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 7 JORF 28 MARS 1982
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L423-8 (M)
+
+	**Cite**:
+
+	  - Ordonnance 1944-07-27
+	  - Ordonnance 1944-09-26
+
+
 ### Titre III : Les comités d'entreprise
+
+#### Chapitre III : Composition et élections.
+
+###### Article L433-4
+
+Sont éligibles, à l'exception des conjoint, ascendants, descendants, frères, soeurs ou alliés au même degré du chef
+d'entreprise, les électeurs âgés de dix huit ans accomplis, s'exprimant en français et travaillant dans l'entreprise sans
+interruption depuis un an au moins.
+
+Ne peuvent être désignés les salariés qui ont été condamnés pour indignité nationale ou qui ont été déchus de leurs fonctions
+syndicales en application des ordonnances des 27 juillet modifiée et 26 septembre 1944.
+
+Les salariés occupant un emploi à temps partiel simultanément dans plusieurs entreprises ne sont éligibles que dans l'une de
+ces entreprises ; ils choisissent celle où ils font acte de candidature.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1945-06-08 ART. 5
+
+	**Cité par**:
+
+	  - Loi n°46-628 du 8 avril 1946 - art. 20 (Ab)
+	  - Décret n°88-254 du 17 mars 1988 - art. 6 (Ab)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 19 (M)
+	  - Loi n°2005-296 du 31 mars 2005 - art. 4 (V)
+	  - Code du travail - art. L132-2-2 (AbD)
+	  - Code du travail - art. L433-1 (M)
+	  - Code du travail - art. L433-5 (T)
+	  - Code du travail - art. L433-6 (AbD)
+	  - Code du travail - art. L433-7 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-271 1982-03-26 ART. 7 JORF 28 MARS 1982
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2324-14 (VD)
+	  - Code du travail - art. L433-5 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L433-3 (T)
+
+	**Cite**:
+
+	  - Ordonnance 1944-07-27
+	  - Ordonnance 1944-09-26
+
 
 #### Chapitre VII : Amélioration des conditions de travail.
 
@@ -34742,47 +35019,6 @@ L. 5 et L. 6 du code électoral.
 	  - Code du travail - art. L423-7 (M)
 
 
-###### Article L420-9
-
-Sont éligibles, à l'exception des conjoint, ascendants, descendants, frères, soeurs et alliés au même degré du chef
-d'entreprise, les électeurs âgés de /M/vingt et un ans/M/LOI 0598 09-07-1975 : dix huit ans// accomplis, /M/sachant lire et
-écrire en Français/M/Loi  0630 11-07-1975 : s'exprimant en Français// et ayant travaillé dans l'entreprise sans interruption
-depuis un an au moins.
-
-Ne peuvent être désignés les salariés qui ont été déchus de leurs fonctions syndicales en application des ordonnances du 27
-juillet 1944 modifiée et du 26 septembre 1944.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté  1946-09-30 ART. 5
-
-	**Anciens textes**:
-
-	  - Loi n°46-730 1946-04-16 ART. 7
-	  - Loi n°72-497 1972-06-27 ART. 3
-
-	**Cité par**:
-
-	  - Arrêté du 30 septembre 1946 - art. 5 (V)
-	  - Code du travail - art. L420-10 (T)
-	  - Code du travail - art. L420-13 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L423-8 (M)
-
-	**Cite**:
-
-	  - Ordonnance  1944-07-27
-	  - Ordonnance  1944-09-26
-
-
 ###### Article L420-10
 
 Dans les entreprises de travail temporaire les conditions d'ancienneté prévues aux articles L. 420-8 et L. 420-9 sont fixées
@@ -35906,53 +36142,6 @@ l'entreprise et n'ayant encouru aucune des condamnations prévues aux articles L
 	  - Code du travail - art. L433-5 (T)
 	  - Code du travail - art. L433-7 (T)
 	  - Code du travail - art. R433-4 (VT)
-
-
-###### Article L433-4
-
-Sont éligibles, à l'exception des conjoint, ascendants, descendants, frères, soeurs ou alliés au même degré du chef
-d'entreprise, les électeurs âgés de /R/vingt et un ans/R/LOI 0598 09-07-1975 : dix huit ans// accomplis /R/sachant lire et
-écrire en Français/R/LOI  0630 11-07-1975 : s'exprimant en Français// et travaillant dans l'entreprise sans interruption
-depuis un an au moins.
-
-Ne peuvent être désignés les salariés qui ont été condamnés pour indignité nationale ou qui ont été déchus de leurs fonctions
-syndicales en application des ordonnances des 27 juillet modifiée et 26 septembre 1944.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté  1945-06-08 ART. 5
-
-	**Cité par**:
-
-	  - Loi n°46-628 du 8 avril 1946 - art. 20 (Ab)
-	  - Décret n°88-254 du 17 mars 1988 - art. 6 (Ab)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 19 (M)
-	  - Loi n°2005-296 du 31 mars 2005 - art. 4 (V)
-	  - Code du travail - art. L132-2-2 (AbD)
-	  - Code du travail - art. L433-1 (M)
-	  - Code du travail - art. L433-5 (T)
-	  - Code du travail - art. L433-6 (AbD)
-	  - Code du travail - art. L433-7 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L2324-14 (VD)
-	  - Code du travail - art. L433-5 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L433-3 (T)
-
-	**Cite**:
-
-	  - Ordonnance  1944-07-27
-	  - Ordonnance  1944-09-26
 
 
 ###### Article L433-5
@@ -51334,6 +51523,32 @@ professionnelle, ou remboursées par lui en application du présent livre sont i
 	**Cite**:
 
 	  - Code du travail L940-1 AL. 2 ET 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L940-5
+
+Le fonds de la formation professionnelle et de la promotion sociale peut, en sus des missions définies à l'article L. 940-4,
+assurer le financement des actions définies au 1° de l'article 1er de l'ordonnance n° 82-273 du 26 mars 1982.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-273 1982-03-26 ART. 3 JORF 28 MARS 1982
+
+	**Cite**:
+
+	  - Ordonnance n°82-273 du 26 mars 1982 - art. 1, v. init.
+	  - Code du travail - art. L940-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L941-5 (Ab)
+	  - Code du travail - art. L941-5 (M)
 
 	**Codifié par**:
 
