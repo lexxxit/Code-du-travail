@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-05-23
+Version Consolidée au 1980-05-31
 
 # Partie législative ancienne
 
@@ -5741,6 +5741,71 @@ du travail au 1er mai 2008.
 
 	  - Code du travail 44
 	  - Loi n°71-467 1971-06-24 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L143-3
+
+Les dispositions du présent article s'appliquent à toutes les personnes apprenties, salariées ou travaillant à quelque titre
+ou en quelque lieu que ce soit pour un ou plusieurs employeurs et quels que soient le montant et la nature de leurs
+rémunérations, la forme, ou la validité de leur contrat.
+
+Lors du paiement de leur rémunération l'employeur doit remettre aux personnes ci-dessus mentionnées une pièce justificative
+dite bulletin de paie.
+
+Lors de la paie du salaire, il ne peut être exigé aucune formalité de signature ou d'émargement autre que celle établissant
+que la somme reçue correspond bien au montant net figurant sur le bulletin de paie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 art. 1 JORF 31 mai 1980
+
+	**Cité par**:
+
+	  - Loi n°86-966 du 18 août 1986 - art. 10 (Ab)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 5 (M)
+	  - Décret n°95-182 du 21 février 1995 - art. 4 (Ab)
+	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
+	  - Décret n°2003-1295 du 26 décembre 2003 - art. Annexe I (VT)
+	  - Décret n°2004-942 du 3 septembre 2004 - art. 18 (V)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 922 (Ab)
+	  - Code de l'action sociale et des familles - art. L262-33-1 (VT)
+	  - Code de la sécurité sociale. - art. L114-15 (V)
+	  - Code de la sécurité sociale. - art. L133-5 (M)
+	  - Code de la sécurité sociale. - art. L133-5-1 (M)
+	  - Code de la sécurité sociale. - art. L133-5-2 (V)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
+	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
+	  - Code de la sécurité sociale. - art. L243-12 (V)
+	  - Code de la sécurité sociale. - art. L531-8 (VD)
+	  - Code de la sécurité sociale. - art. R313-10 (V)
+	  - Code de la sécurité sociale. - art. R323-10 (VD)
+	  - Code du travail - art. D341-5-3 (V)
+	  - Code du travail - art. L120-3 (AbD)
+	  - Code du travail - art. L128-1 (VT)
+	  - Code du travail - art. L129-2 (M)
+	  - Code du travail - art. L129-6 (AbD)
+	  - Code du travail - art. L143-5 (Ab)
+	  - Code du travail - art. L324-10 (AbD)
+	  - Code du travail - art. L324-13-1 (AbD)
+	  - Code du travail - art. L324-14 (AbD)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. L620-9 (VT)
+	  - Code du travail - art. L812-1 (V)
+	  - Code du travail - art. R143-2 (VT)
+	  - Code du travail - art. R324-4 (VT)
+	  - Code du travail - art. R324-7 (M)
+	  - Code du travail maritime - art. 31 (V)
+	  - Code rural - art. R712-10 (V)
+	  - Code rural - art. R712-9 (V)
+	  - Code rural ancien - art. 1000-6 (Ab)
+	  - Code rural et de la pêche maritime - art. L712-1 (VD)
 
 	**Codifié par**:
 
@@ -13649,7 +13714,74 @@ Les heures de travail récupérées sont rémunérées comme des heures normales
 	  - Ordonnance 82-41 1982-01-16 art. 13 JORF 17 janvier en vigueur le 1er février 1982
 
 
+###### Article L222-9
+
+Les dispositions de la présente section sont applicables aux salariés définis à l'article 1144 (1° à 7°, 9° et 10°) (1) du
+code rural.
+
+**Nota:**
+
+(1) l'article 1144 a été abrogé et codifié par l'article 6 I de l'ordonnance n° 2000-550 du 15 juin 2000 sous les articles
+L722-20, L722-1 à L722-3 et L751-1 du code rural. 
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°80-386 1980-05-30 ART. 2 JORF 31 MAI 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
 #### Chapitre III : Congés annuels
+
+##### Section 1 : Droit au congé.
+
+###### Article L223-1
+
+Tout ouvrier, employé ou apprenti des établissements industriels, commerciaux, artisanaux, agricoles, même s'ils ont la forme
+coopérative, et tout salarié des professions libérales, des offices ministériels, des syndicats professionnels, des sociétés
+civiles, associations et groupements de quelque nature que ce soit, a droit chaque année à un congé payé à la charge de
+l'employeur dans les conditions fixées par les articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 art. 3 I JORF 31 mai 1980
+
+	**Cité par**:
+
+	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (Ab)
+	  - Loi n°2008-111 du 8 février 2008 - art. 1 (V)
+	  - Code du tourisme. - art. L411-1 (V)
+	  - Code du travail - art. L122-32-25 (AbD)
+	  - Code du travail - art. L227-1 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail 54 F
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ##### Section 2 : Durée du congé.
 
@@ -13726,6 +13858,53 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 54 g al. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L223-7-1
+
+Pour les salariés définis à l'article 1144 (1) (1° à 7°, 9° et 10°) du code rural, il peut être dérogé aux dispositions de la
+deuxième phrase du premier alinéa de l'article L. 223-7.
+
+Des autorisations d'absence de plus de vingt-quatre heures au titre du congé annuel ne peuvent être exigées par ces salariés
+durant les périodes de grands travaux. La durée de ces périodes ne peut excéder chaque année cinq mois consécutifs ou non.
+
+**Nota:**
+
+(1) l'article 1144 a été abrogé et codifié par l'article 6 I de l'ordonnance n° 2000-550 du 15 juin 2000 sous les articles
+L722-20, L722-1 à L722-3 et L751-1 du code rural. 
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°80-386 1980-05-30 ART. 3 II JORF 31 MAI 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L223-7 (M)
+	  - Code rural 1144
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
+
+	**Cité par**:
+
+	  - Code rural ancien - art. 986 (Ab)
 
 	**Codifié par**:
 
@@ -13837,6 +14016,60 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 54 j al. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L223-13
+
+Les dispositions qui précèdent ne portent pas atteinte aux stipulations contractuelles ou aux usages qui assureraient des
+indemnités d'un montant plus élevé.
+
+Pour la fixation de l'indemnité, il doit être tenu compte des avantages accessoires et des prestations en nature dont le
+salarié ne continuerait pas à jouir pendant la durée de son congé.
+
+La valeur de ces avantages et prestations ne peut être inférieure à celle qui est fixée  par l'autorité administrative
+compétente.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 ART. 3 III JORF 31 MAI 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)
+	  - Code du travail - art. D223-3 (VT)
+	  - Code du travail - art. L122-32-25 (AbD)
+	  - Code du travail - art. R233-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L223-12 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3141-23 (VD)
+	  - Code du travail - art. L3141-25 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
 
 	**Codifié par**:
 
@@ -18760,45 +18993,6 @@ dérogation.
 
 ### CONGES ANNUELS
 
-#### DUREE DU CONGE *PAYE*.
-
-###### Article L223-13
-
-Les dispositions qui précèdent ne portent pas atteinte aux stipulations contractuelles ou aux usages qui assureraient des
-indemnités d'un montant plus élevé.
-
-Pour la fixation de l'indemnité [*calcul*], il doit être tenu compte des avantages accessoires et des prestations en nature
-dont le salarié ne continuerait pas à jouir pendant la durée de son congé.
-
-La valeur de ces avantages ne peut être inférieure [*minimum*] à celle qui est fixée par le préfet par région ou par groupe
-de localités, sur proposition du directeur régional du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)
-	  - Code du travail - art. D223-3 (VT)
-	  - Code du travail - art. L122-32-25 (AbD)
-	  - Code du travail - art. R233-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L223-12 (AbD)
-
-	**Anciens textes**:
-
-	  - Code du travail 2054 J AL. 7, 8 et 9
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 #### DUREE DU CONGE .
 
 ###### Article L223-3
@@ -19867,6 +20061,57 @@ avantage en nature.
 	**Anciens textes**:
 
 	  - Ordonnance  1960-11-29 ART. 1 ET 3
+
+
+## Livre II : REGLEMENT DU TRAVAIL
+
+### Titre II : CONGES
+
+#### Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.
+
+###### Article L226-1
+
+Tout salarié bénéficie, sur justification et à l'occasion de certains événements familiaux, d'une autorisation exceptionnelle
+d'absence de :
+
+Quatre [*nombre*] jours pour le mariage du salarié ;
+
+Deux jours pour le décès d'un conjoint ou d'un enfant ;
+
+Un jour pour le mariage d'un enfant ;
+
+Un jour pour le décès du père ou de la mère.
+
+Ces jours d'absence n'entraînent pas de réduction de la rémunération. Ils sont assimilés à des jours de travail effectif pour
+la détermination de la durée du congé annuel.
+
+Les dispositions du présent article sont applicables aux salariés [*agricoles, apprentis et employés de maison d'un
+exploitant agricole*] définis à l'article 1144 (1° à 7°, 9° et 10°) du code rural.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°78-49 du 19 janvier 1978 - art. 4 () JORF 20 janvier 1978
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 ART. 5 JORF 31 MAI 1980
+
+	**Cité par**:
+
+	  - Loi n°99-944 du 15 novembre 1999 - art. 8 (AbD)
+	  - Code du travail - art. L771-2 (M)
+	  - Code du travail - art. L772-2 (AbD)
+	  - Code du travail - art. L773-2 (M)
+
+	**Cite**:
+
+	  - Code rural 1144
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ## REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .
@@ -45157,6 +45402,48 @@ attachés à la personne même du propriétaire.
 	  - Loi   1958-02-21 ART. 1 ET 2
 
 
+###### Article L771-2
+
+Sont applicables aux salariés mentionnés à l'article L. 771-1, dans leurs rapports avec leurs employeurs, les dispositions
+suivantes du présent code :
+
+- Livre 1er, titre II, chapitre VI cautionnements ;
+
+- Livre 1er, titre IV, chapitre III, section I : mode de paiement des salaires ;
+
+- Livre II, titre II, /M/chapitre 1er et II repos hebdomadaire et jours fériés ;
+
+Chapitre Ier (Repos hebdomadaire) ; chapitre II (Jours fériés) ; chapitre VI (Congés pour événements familiaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 art. 6 JORF 31 mai 1980
+
+	**Cite**:
+
+	  - Code du travail - art. L226-1 (M)
+	  - Code du travail - art. L771-1 (M)
+	  - Code du travail L771-1, L126-1 à L126-4, L143-1 à L143-5, L221-1 à L222-8, L226-1
+
+	**Cité par**:
+
+	  - Code du travail - art. L611-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7211-3 (VD)
+
+	**Anciens textes**:
+
+	  - Loi n°1939-01-13 ART. 3
+
+
 ###### Article L771-3
 
 Le salarié congédié par l'employeur ne peut être obligé à quitter son logement avant un délai minimum de trois mois ou sans
@@ -45375,6 +45662,75 @@ Sont considérés comme employés de maison [*définition*] les salariés employ
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L7221-1 (VD)
+
+
+###### Article L772-2
+
+Les dispositions des articles L. 222-5 à L. 222-8 [*1er mai*], L. 226-1 [*congés pour évènements familiaux*] L. 771-8 et L.
+771-9 [*hygiène et sécurité des concierges et employés d'immeubles à usage d'habitation*] sont applicables aux employés de
+maison.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-996 1971-12-15 art. 1, art. 2 et art. 4
+	  - Loi n°71-996 du 15 décembre 1971 - art. 1, v. init.
+	  - Code du travail - art. L143-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°75-882 du 22 septembre 1975
+	  - TXT_SOURCE: Décret n°75-882 du 22 septembre 1975 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°75-882 du 22 septembre 1975 - art. 4 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 art. 7 I JORF 31 mai 1980
+
+	**Cite**:
+
+	  - Code du travail - art. L226-1 (M)
+	  - Code du travail - art. L771-8 (M)
+	  - Code du travail - art. L771-9 (M)
+	  - Code du travail L222-5 A L222-8, L226-1, L771-8, L771-9
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7221-2 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R797-1 (VT)
+
+
+###### Article L772-3
+
+Un décret en conseil d'Etat détermine les modalités d'adaptation du chapitre III du titre II du livre II du présent code
+[*relatif aux congés payés*] aux employés de maison.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°80-386 1980-05-30 ART. 7 II JORF 31 MAI
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7221-2 (VD)
+
+	**Cite**:
+
+	  - Code du travail L223-1 A L223-17
 
 
 #### Chapitre III : Assistantes maternelles
@@ -47272,42 +47628,6 @@ ci au regard des besoins de placement des artistes du spectacle.
 
 ### CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
 
-###### Article L771-2
-
-Sont applicables aux salariés mentionnés à l'article L. 771-1, dans leurs rapports avec leurs employeurs, les dispositions
-suivantes du présent code :
-
-- Livre 1er, titre II, chapitre VI cautionnements ;
-
-- Livre 1er, titre IV, chapitre III, section I : mode de paiement des salaires ;
-
-- Livre II, titre II, /M/chapitre 1er et II repos hebdomadaire et jours fériés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L226-1 (M)
-	  - Code du travail - art. L771-1 (M)
-	  - Code du travail L143-1 A L143-5
-
-	**Cité par**:
-
-	  - Code du travail - art. L611-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L7211-3 (VD)
-
-	**Anciens textes**:
-
-	  - Loi   1939-01-13 ART. 3
-
-
 ###### Article L771-4
 
 La durée du congé annuel payé est fixée conformément aux dispositions des articles L. 223-2 à L. 223-10.
@@ -47371,46 +47691,6 @@ employeurs, ainsi qu'aux contrats qui en sont l'accessoire.
 	**Anciens textes**:
 
 	  - Loi n°1939-01-13 ART. 7
-
-
-### EMPLOYES DE MAISON .
-
-###### Article L772-2
-
-Les dispositions des articles L. 771-8 et L. 771-9 [*hygiène et sécurité des concierges et employés d'immeubles à usage
-d'habitation*] sont applicables aux employés de maison.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-996 1971-12-15 ART. 1, 2 ET 4
-	  - Loi n°71-996 du 15 décembre 1971 - art. 1, v. init.
-	  - Code du travail - art. L143-5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°75-882 du 22 septembre 1975
-	  - TXT_SOURCE: Décret n°75-882 du 22 septembre 1975 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°75-882 du 22 septembre 1975 - art. 4 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L7221-2 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L771-8 (M)
-	  - Code du travail - art. L771-9 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R797-1 (VT)
 
 
 ### ASSISTANTES MATERNELLES.
