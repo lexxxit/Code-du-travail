@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-11-21
+Version Consolidée au 1973-11-21 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -5696,13 +5696,16 @@ F (1).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°72-985 1972-10-24 art. 31
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. L831-2
+	  - Code du travail - art. L831-4
+	  - Code du travail - art. R831-1
+	  - Code du travail - art. R831-2
 
 	**Liens**:
 
@@ -5909,13 +5912,13 @@ l'agriculture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°48-567 1948-03-30 ART. 1
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. D8322-1 (V)
 
 
 ### Titre VII : Dispositions particulières à certaines professions
@@ -5929,13 +5932,17 @@ Les modalités d'application des dispositions des articles R. 761-4 et suivants 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°48-592 1948-03-30 ART. 2 AL. 2 ET ART. 1 II
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. D7522-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R761-4
 
 
 ## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
