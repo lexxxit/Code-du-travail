@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-06-04
+Version Consolidée au 1976-06-04 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -97291,9 +97291,13 @@ si l'effectif de la commission est doublé ou triplé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. D323-3-1
 
 	**Cité par**:
 
@@ -97307,9 +97311,9 @@ travaux à titre consultatif toute les personnes susceptibles de l'éclairer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -97595,18 +97599,23 @@ un des centres mentionnés à l'article R. 323-34.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. D323-5 (VT)
 	  - Code du travail - art. D323-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D5213-15 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-1
+	  - Code du travail - art. R323-34
 
 
 ###### Article D323-5
@@ -97645,17 +97654,17 @@ de reclassement professionnel au plus tard dans le mois qui suit la fin du stage
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. D323-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D5213-18 (Ab)
 
 
 ###### Article D323-8
@@ -97690,13 +97699,13 @@ aux intéressés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. D5213-20 (V)
 
 
 ###### Article D323-10
