@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-07-29
+Version Consolidée au 1978-07-29 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -84997,14 +84997,13 @@ Cinq représentants des salariés [*nombre*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°58-615 1958-07-18 ART. 4
-	  - Décret n°68-763 1968-08-23 ART. 1
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. R2522-8 (V)
 
 	**Cité par**:
 
@@ -85100,13 +85099,9 @@ Cinq représentants des salariés [*nombre*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°58-615 1958-07-18 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 #### Chapitre IV : Médiation
