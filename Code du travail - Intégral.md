@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-09-15 00:00:01 +0100
+Version Consolidée au 1974-09-29
 
 # Partie législative ancienne
 
@@ -1584,6 +1584,501 @@ du travail au 1er mai 2008.
 
 #### Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
+##### Section 2 : Résiliation du contrat de travail à durée indéterminée
+
+###### Article L122-4
+
+Le contrat de travail conclu sans détermination de durée peut cesser à l'initiative d'une des parties contractantes sous
+réserve de l'application des règles ci-après définies.
+
+Ces règles ne sont pas applicables pendant la période d'essai.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
+	  - Code du travail - art. L117-10 (AbD)
+	  - Code du travail - art. L721-6 (M)
+	  - Code du travail - art. R721-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1231-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-11
+
+Les dispositions des articles L. 122-6 [*droit au délai-congé*], L. 122-9 [*droit à une indemnité de licenciement*] et L.
+122-10 sont applicables aux personnels mentionnés aux articles L. 351-18 [*agents civils de l'état et autres établissements
+publics*] et L. 351-19 et aux salariés qui sont soumis au même statut législatif ou réglementaire particulier que celui
+d'entreprises publiques dès lors que les intéressés remplissent les conditions prévues auxdits articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail L122-8 (1973)
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 16 (V)
+	  - Décret n°78-517 du 30 mars 1978 - art. 16 (Ab)
+	  - Décret n°78-526 du 3 avril 1978 - art. 17 (V)
+	  - CODE DES COMMUNES. - art. R*422-36 (V)
+	  - Code du travail - art. L721-6 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-10 (Ab)
+	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L351-18 (T)
+	  - Code du travail - art. L351-19 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1234-14 (VD)
+
+
+###### Article L122-12
+
+La cessation de l'entreprise, sauf cas de force majeure ne libère pas l'employeur de l'obligation de respecter le délai-congé
+et de verser, s'il y a lieu, l'indemnité [*de licenciement*] prévue à l'article L. 122-9.
+
+S'il survient une modification dans la situation juridique de l'employeur, notamment par succession, vente, fusion,
+transformation du fonds, mise en société, tous les contrats de travail en cours au jour de la modification subsistent entre
+le nouvel employeur et le personnel de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 40-1 (V)
+	  - Décret n°84-591 du 4 juillet 1984 - art. 7 (M)
+	  - Décret n°84-1110 du 11 décembre 1984 - art. 7 (M)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 68 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 15 (V)
+	  - Loi n°89-924 du 23 décembre 1989 - art. 6 (M)
+	  - Décret n°90-1089 du 7 décembre 1990 - art. 16 (Ab)
+	  - Loi n°91-1406 du 31 décembre 1991 - art. 31 (V)
+	  - Loi n°96-314 du 12 avril 1996 - art. 53 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
+	  - Décret n°2000-84 du 31 janvier 2000 - art. 11 (V)
+	  - Loi n°2000-719 du 1 août 2000 - art. 18 (V)
+	  - Décret n°2002-254 du 22 février 2002 - art. 26 (Ab)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 14 (Ab)
+	  - Loi n°2003-706 du 1 août 2003 - art. 49 (VD)
+	  - Loi n°2003-721 du 1 août 2003 - art. 50 (M)
+	  - Décret n°2004-565 du 17 juin 2004 - art. 1 (V)
+	  - Décret n°2004-683 du 9 juillet 2004 - art. 28 (Ab)
+	  - Loi n°2004-669 du 9 juillet 2004 - art. 137 (V)
+	  - Décret n°2004-1232 du 20 novembre 2004 - art. 7 (V)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 149 (V)
+	  - Loi n°2005-357 du 20 avril 2005 - art. 7 (VT)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 35 (V)
+	  - Décret n°2007-648 du 30 avril 2007 - art. 1 (V)
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 86 (VD)
+	  - Loi n°2008-126 du 13 février 2008 - art. 7 (VD)
+	  - Code du travail - art. L117-18 (AbD)
+	  - Code du travail - art. L122-12-1 (AbD)
+	  - Code du travail - art. L412-16 (AbD)
+	  - Code du travail - art. L412-18 (AbD)
+	  - Code du travail - art. L425-1 (AbD)
+	  - Code du travail - art. L433-14 (AbD)
+	  - Code du travail - art. L435-5 (AbD)
+	  - Code du travail - art. L436-1 (AbD)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. L721-6 (M)
+	  - Code du travail - art. R322-16-2 (VT)
+	  - Code du travail - art. R831-8 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-9 (Ab)
+
+
+###### Article L122-13
+
+La réalisation d'un contrat de travail à durée indéterminée, à l'initiative du salarié, ouvre droit, si elle est abusive, à
+dommages-intérêts [*sanction*].
+
+En cas de litige, le juge se prononce [*au vu des éléments fournis par les parties ou de toutes mesures d'instruction
+utiles*] conformément aux dispositions de l'article L. 122-14-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail - art. L122-10 (Ab)
+	  - Code du travail L122-10 (1973)
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
+	  - Code du travail - art. L721-6 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-14-7 (M)
+	  - Code du travail - art. L1237-2 (VD)
+
+
+###### Article L122-14-2
+
+L'employeur est tenu [*obligation*] à la demande écrite du salarié d'énoncer la ou les causes réelles et sérieuses du
+licenciement. Les délais et les conditions de la demande et de l'énonciation sont fixés par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail 24
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
+	  - Arrêté du 31 décembre 1986 - art. 1 (V)
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-5 (Ab)
+	  - Code du travail - art. L122-14-6 (Ab)
+	  - Code du travail - art. L122-41 (AbD)
+	  - Code du travail - art. L773-19 (AbD)
+	  - Code du travail - art. R122-3 (VT)
+
+
+###### Article L122-14-3
+
+En cas de litige, le juge à qui il appartient [*attribution*] d'apprécier la régularité de la procédure suivie et le
+caractère réel et sérieux des motifs invoqués par l'employeur, forme sa conviction au vu des éléments fournis par les parties
+et au besoin après toutes mesures d'instruction qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail 24
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-13 (AbD)
+	  - Code du travail - art. L511-1 (AbD)
+	  - Code du travail - art. R516-45 (VT)
+
+
+###### Article L122-14-5
+
+Les dispositions des articles L. 122-14 [*entretien avec l'employeur*] L. 122-14-2 [*énonciation des causes réelles et
+sérieuses du licenciement*] et L. 122-14-4 ne sont pas applicables [*non*] aux salariés qui font l'objet d'un licenciement
+collectif justifié par un motif économique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-680 1973-07-13 art. 3 JORF 18 juillet 1973
+
+	**Abrogé par**:
+
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 5 () JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code de la propriété intellectuelle - art. L335-5 (M)
+	  - Code de la propriété intellectuelle - art. L521-4 (M)
+	  - Code de la propriété intellectuelle - art. L716-11-1 (M)
+	  - Code du travail - art. L263-5 (AbD)
+	  - Code du travail - art. L511-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (Ab)
+	  - Code du travail - art. L122-14-2 (M)
+	  - Code du travail - art. L122-14-4 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-14-6 (Ab)
+	  - Code du travail 24
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1235-14 (VD)
+	  - Code du travail - art. L1235-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-14-6
+
+Les dispositions des articles L. 122-14 [*entretien avec l'employeur*] L. 122-14-2 [*énonciation des causes réelles ou
+sérieuses du licenciement*] et L. 122-14-4 ne sont pas applicables [*non*] aux licenciements opérés par les employeurs qui
+occupent habituellement moins de onze salariés [*effectifs*].
+
+Les dispositions de l'article L. 122-14-4 ne sont pas applicables aux salariés qui ont moins de deux ans d'ancienneté dans
+l'entreprise, et celles des articles L. 122-14 et L. 122-14-2 ne le sont pas à ceux qui ont moins d'un an d'ancienneté.
+
+Les salariés visés aux alinéas précédents peuvent prétendre, en cas de licenciement abusif, à une indemnité calculée en
+fonction du préjudice subi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-680 1973-07-13 art. 3 JORF 18 juillet 1973
+
+	**Transféré par**:
+
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 5 () JORF 31 décembre 1986
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (Ab)
+	  - Code du travail - art. L122-14-2 (M)
+	  - Code du travail - art. L122-14-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-14-5 (Ab)
+	  - Code du travail - art. L122-14-5 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-41 (AbD)
+	  - Code du travail - art. L122-8 (AbD)
+	  - Code du travail - art. L124-13-1 (AbD)
+	  - Code du travail - art. L263-5 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 24
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-14-7
+
+Les règles posées à la présente section en matière de licenciement ne dérogent pas aux dispositions législative ou
+réglementaires qui assurent une protection particulière à certains salariés définis par lesdites dispositions.
+
+Ces règles sont applicables au cas où le salarié est lié par des contrats de travail à plusieurs employeurs.
+
+Les parties ne peuvent [*interdiction*] renoncer par avance au droit de s'en prévaloir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail - art. L122-13 (Ab)
+	  - Code du travail - art. L122-14 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+
+###### Article L122-14-8
+
+Lorsqu'un salarié, mis par la société au service de laquelle il était engagé à la disposition d'une filiale étrangère à
+laquelle il est lié par un contrat de travail, est licencié par cette filiale la société mère doit [*obligation*] assurer son
+rapatriement et lui procurer un nouvel emploi compatible avec l'importance de ses précédentes fonctions au sein de la société
+mère.
+
+Si la société mère entend néanmoins congédier ce salarié, les dispositions de la présente section sont applicables. Le temps
+passé par le salarié au service de la filiale est pris en compte pour le calcul du délai-congé et de l'indemnité de
+licenciement.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1231-5 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L800-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+
+###### Article L122-14-9
+
+Dans les dispositions législatives ou réglementaires qui font référence à l'article 23 du livre 1er de l'ancien code du
+travail, cette référence est remplacée par une référence aux dispositions correspondantes de la présente section, sous
+réserve de ce qui est dit à l'article L. 122-14-10 [*relatif aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-10 (M)
+	  - Code du travail 1023
+
+
+###### Article L122-14-10
+
+Les dispositions de la présente section ne sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle
+que sous réserve des règles prévues par la loi du 6 mai 1939 tendant à rendre applicable dans lesdits départements l'article
+23 du livre 1er de l'ancien code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-14-9 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cite**:
+
+	  - Loi n°1939-05-06
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+
+
+###### Article L122-14-11
+
+Un décret en Conseil d'Etat fixe les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail 24
+
+	**Créé par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1224-4 (VD)
+	  - Code du travail - art. L1231-6 (VD)
+	  - Code du travail - art. L1232-5 (VD)
+	  - Code du travail - art. L1232-6 (VD)
+	  - Code du travail - art. L1233-14 (VD)
+	  - Code du travail - art. L1233-18 (VD)
+	  - Code du travail - art. L1233-38 (VD)
+	  - Code du travail - art. L1233-44 (VD)
+	  - Code du travail - art. L1233-59 (VD)
+	  - Code du travail - art. L1234-18 (VD)
+	  - Code du travail - art. L1235-17 (VD)
+	  - Code du travail - art. L1235-6 (VD)
+	  - Code du travail - art. L1235-9 (VD)
+	  - Code du travail - art. L1237-1 (VD)
+	  - Code du travail - art. L1237-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### Section 3 : Conséquences de la rupture du contrat.
 
 ###### Article L122-15
@@ -1851,6 +2346,74 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 25 a dernier alinéa
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-21
+
+En matière de contrat de travail [*antérieurement au décret 74-808:
+
+louage de service*] si un employeur, un salarié ou un apprenti se trouve astreint aux obligations imposées par le service
+préparatoire ou se trouve appelé au service national en exécution d'un engagement pour la durée de la guerre, ou rappelé au
+service national à un titre quelconque, le contrat de travail ou d'apprentissage ne peut être rompu de ce fait
+[*interdiction*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail 25
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 1986 - art. Annexe (V)
+	  - Code civil - art. 2508 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3142-64 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-22
+
+Alors même que, pour une autre cause légitime, le contrat serait dénoncé par l'une des parties, la durée de la période passée
+au service national est exclue des délais impartis pour la validité de la dénonciation, sauf toutefois dans le cas ou le
+contrat de travail a pour objet une entreprise temporaire prenant fin pendant cette période.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail 26
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3142-65 (VD)
 
 	**Codifié par**:
 
@@ -5354,6 +5917,306 @@ ouvriers ou qu'il n'ait un traitement et des conditions stipulés par un acte ex
 	  - Décret n°73-1046 1973-11-15
 
 
+##### RESILIATION DU CONTRAT DE TRAVAIL A DUREE INDETERMINEE .
+
+###### Article L122-5
+
+Dans le cas de résiliation à l'initiative du salarié, l'existence et la durée du délai-congé résultent soit de la loi, soit
+de la convention collective, soit du règlement de travail en agriculture prévu aux articles 983 à 991 du code rural. En
+l'absence de dispositions légales, de convention collective ou de règlement de travail relatifs au délai-congé, cette
+existence et cette durée résultent des usages pratiqués dans la localité et la profession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13 ART. 3
+	  - Code du travail 24 C
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 ART. 4 JORF 29 septembre 1979
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-2 (M)
+	  - Code du travail - art. L122-6 (AbD)
+	  - Code du travail - art. L321-13 (VT)
+	  - Code du travail - art. L321-13-1 (M)
+	  - Code du travail - art. L322-4-6-2 (Ab)
+	  - Code du travail - art. L323-26 (Ab)
+	  - Code du travail - art. L721-6 (M)
+	  - Code du travail - art. R721-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1237-1 (VD)
+
+	**Cite**:
+
+	  - Code rural 983 A 991
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-6
+
+Dans le cas de licenciement pour un motif autre qu'une faute grave, le salarié a droit ;
+
+1. S'il justifie chez le même employeur d'une ancienneté de services continus inférieure à six mois à un délai-congé
+déterminé comme il est dit à l'article L. 122-5 ;
+
+2. S'il justifie chez le même employeur d'une ancienneté de services continus comprise entre six mois et moins de deux ans à
+un délai-congé d'un mois ;
+
+3. S'il justifie chez le même employeur d'une ancienneté de services continus d'au moins deux ans, à un délai-congé de deux
+mois.
+
+Les dispositions des 2. et 3. ci-dessus ne sont applicables qu'à défaut de loi, de contrat de travail, de convention
+collective, de règlement de travail en agriculture ou d'usages conduisant soit à un délai-congé, soit à une condition
+d'ancienneté de services, plus favorable pour le travailleur intéressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail L122-5 AL. 2
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
+	  - Loi n°98-1194 du 23 décembre 1998 - art. 41 (V)
+	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
+	  - CODE DES COMMUNES. - art. L422-6 (V)
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code du travail - art. L12-10-1 (AbD)
+	  - Code du travail - art. L122-10 (AbD)
+	  - Code du travail - art. L122-11 (AbD)
+	  - Code du travail - art. L122-14-13 (VT)
+	  - Code du travail - art. L122-2 (M)
+	  - Code du travail - art. L122-3 (M)
+	  - Code du travail - art. L122-7 (AbD)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L321-4-2 (VT)
+	  - Code du travail - art. L322-4-20 (AbD)
+	  - Code du travail - art. L323-7 (AbD)
+	  - Code du travail - art. L761-4 (AbD)
+	  - Code du travail - art. R122-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1234-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-7
+
+Toute clause d'un contrat individuel ou d'un règlement intérieur fixant un délai-congé inférieur à celui qui résulte des
+dispositions de l'article L. 122-6 ou une condition d'ancienneté de services supérieure à celle qu'énoncent ces dispositions
+est nulle de plein droit [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-6 (V)
+	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. R122-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1234-2 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail 1024 E
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-8
+
+L'inobservation du délai-congé [*sanction*] ouvre droit, sauf faute grave du salarié, à une indemnité compensatrice ne se
+confondant ni avec l'indemnité de licenciement de l'article L. 122-9 ni avec la réparation prévue aux articles L. 122-14-4 et
+L. 122-14-6.
+
+L'inobservation du délai-congé n'a pas, dans ce cas, pour conséquence d'avancer la date à laquelle le contrat prend fin.
+
+En conséquence, la dispense par l'employeur de l'exécution du travail pendant le délai-congé ne doit entraîner jusqu'à
+l'expiration de ce délai aucune diminution des salaires et avantages que le salarié aurait reçus s'il avait accompli son
+travail.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Loi n°80-1058 du 23 décembre 1980 - art. 8 (Ab)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 18 (M)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
+	  - CODE DES COMMUNES. - art. L422-6 (V)
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code du travail - art. L122-3-1 (M)
+	  - Code du travail - art. L122-32-6 (AbD)
+	  - Code du travail - art. L122-9-1 (AbD)
+	  - Code du travail - art. L143-10 (AbD)
+	  - Code du travail - art. L341-6-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-6 (Ab)
+	  - Code du travail - art. L122-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-9
+
+Le salarié lié par contrat de travail à durée indéterminée et qui est licencié alors qu'il compte deux ans d'ancienneté
+ininterrompue au service du même employeur [*condition*] a droit, sauf en cas de faute grave à une indemnité minimum de
+licenciement, dont le taux et les modalités de calcul en fonction de la rémunération perçue antérieurement à la rupture du
+contrat de travail sont fixés par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail - art. L122-7 (Ab)
+	  - Code du travail L122-7 AL. 1 (1973)
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
+	  - Loi n°80-1058 du 23 décembre 1980 - art. 8 (Ab)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 24 (VT)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 6-2 (VT)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 18 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 45 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 66 (V)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 52 (V)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V)
+	  - Loi n°99-586 du 12 juillet 1999 - art. 63 (Ab)
+	  - Loi n°2001-2 du 3 janvier 2001 - art. 9 (V)
+	  - Loi n°2002-6 du 4 janvier 2002 - art. 3 (M)
+	  - Loi - art. 126 (V)
+	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
+	  - Loi n°2005-846 du 26 juillet 2005 - art. 1 (V)
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code de la sécurité sociale. - art. L161-9 (M)
+	  - Code du travail - art. L122-10 (AbD)
+	  - Code du travail - art. L122-11 (AbD)
+	  - Code du travail - art. L122-12 (AbD)
+	  - Code du travail - art. L122-14-13 (VT)
+	  - Code du travail - art. L122-14-4 (AbD)
+	  - Code du travail - art. L122-32-6 (AbD)
+	  - Code du travail - art. L122-45-2 (AbD)
+	  - Code du travail - art. L122-8 (AbD)
+	  - Code du travail - art. L122-9-1 (AbD)
+	  - Code du travail - art. L123-5 (AbD)
+	  - Code du travail - art. L321-4-2 (VT)
+	  - Code du travail - art. L341-6-1 (M)
+	  - Code du travail - art. L721-6 (M)
+	  - Code du travail - art. R122-1 (M)
+	  - Code du travail - art. R122-2 (VT)
+	  - Décret n°1986-11-19 du 19 novembre 1986 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-785 du 3 mai 2002
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1234-9 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-10
+
+Pour l'application des 2. et 3. de l'article L. 122-6 [*ancienneté de services continus d'au moins six mois*] et pour celle
+de l'article L. 122-8 les circonstances qui, en vertu soit de dispositions législatives ou réglementaires, soit de
+conventions collectives, soit d'usages, soit de stipulations contractuelles, entraînent la suspension du contrat de travail,
+ne sont pas regardées comme interrompant l'ancienneté du salarié. Toutefois, la période de suspension n'entre pas en compte
+dans la durée d'ancienneté exigée pour bénéficier des dispositions rappelées ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-680 1973-07-13
+	  - Code du travail - art. L122-7 (Ab)
+	  - Code du travail L122-7 AL. 2 (1973)
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
+
+	**Cité par**:
+
+	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
+	  - Code du travail - art. L122-11 (AbD)
+	  - Code du travail - art. L122-23 (AbD)
+	  - Code du travail - art. L263-5 (M)
+	  - Code du travail - art. L721-6 (M)
+	  - Code du travail - art. R122-3 (M)
+	  - Code du travail maritime - art. 102-2 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail L122-6 PAR. 2 ET 3
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1234-11 (VD)
+	  - Code du travail - art. L1234-8 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES)
 
 ##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
@@ -5882,508 +6745,6 @@ travailleurs et lorsqu'il est en outre satisfait aux autres conditions auxquelle
 	**Anciens textes**:
 
 	  - Code du travail 1022 b AL. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### LOUAGE DE SERVICES.
-
-###### Article L122-4
-
-Le louage de services fait sans détermination du durée, peut toujours cesser par la volonté d'une des parties contractantes.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
-	  - Code du travail - art. L117-10 (AbD)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R721-5 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1231-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 24 b
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-##### DELAI-CONGE.
-
-###### Article L122-5
-
-L'existence et la durée du délai-congé résultent des usages pratiqués dans la localité et la profession ou, à défaut de ces
-usages, des conventions collectives, et en agriculture, des règlements de travail pris en application des articles 983 à 991
-du code rural. Il peut être dérogé par convention collective ou par règlement de travail au délai résultant des usages.
-
-Par dérogation aux dispositions précédentes qui demeurent applicables dans le cas où le salarié prend l'initiative de rompre
-son contrat de travail, les salariés justifiant chez leurs employeurs d'une ancienneté de services d'au moins six mois
-continu [*durée*] qui sauf pour faute grave, sont licenciés, ont droit à un délai-congé d'un mois, à moins que les règlements
-de travail, les conventions collectives de travail, ou à défaut, les usages, ne prévoient, soit un délai-congé d'une durée
-supérieure, soit, pour prétendre à ce préavis, une condition d'ancienneté inférieure à six mois.
-
-Toute clause d'un contrat individuel ou d'un règlement intérieur fixant un délai-congé inférieur à celui qui résulte des deux
-précédents alinéas, ou une condition d'ancienneté supérieure à six mois est nulle [*sanction*] de plein droit.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. L122-2 (M)
-	  - Code du travail - art. L122-6 (AbD)
-	  - Code du travail - art. L321-13 (VT)
-	  - Code du travail - art. L321-13-1 (M)
-	  - Code du travail - art. L322-4-6-2 (Ab)
-	  - Code du travail - art. L323-26 (Ab)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R721-5 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1237-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1024 C
-
-	**Cite**:
-
-	  - Code rural 983 A 991
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-6
-
-Sans préjudice de l'application des dispositions des deux premiers alinéas de l'article L. 122-5, tout travailleur salarié
-relevant des activités mentionnées aux articles L. 131-1 et L. 131-2, lié par un contrat de travail à durée indéterminée et
-qui est licencié alors qu'il compte deux ans d'ancienneté ininterrompue au service du même employeur, a droit sauf en cas de
-faute grave, au choix de l'employeur :
-
-Soit à un délai-congé de deux mois ;
-
-Soit à un délai-congé d'un mois accompagné d'une indemnité spéciale dont le taux et les modalités de calcul sont déterminées
-par décret. Le montant de cette indemnité s'ajoute à celui de l'indemnité de licenciement prévue à l'article L. 122-7 ou, le
-cas échéant, à l'indemnité de licenciement applicable en vertu d'une convention collective de travail, d'un règlement de
-travail, du contrat de travail ou des usages.
-
-Les dispositions du deuxième alinéa de l'article L. 122-7 [*suspension du contrat de travail*] sont applicables au décompte
-de l'ancienneté du travailleur salarié pour l'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
-	  - Loi n°98-1194 du 23 décembre 1998 - art. 41 (V)
-	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
-	  - CODE DES COMMUNES. - art. L422-6 (V)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code du travail - art. L12-10-1 (AbD)
-	  - Code du travail - art. L122-10 (AbD)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L122-14-13 (VT)
-	  - Code du travail - art. L122-2 (M)
-	  - Code du travail - art. L122-3 (M)
-	  - Code du travail - art. L122-7 (AbD)
-	  - Code du travail - art. L122-8 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L321-4-2 (VT)
-	  - Code du travail - art. L322-4-20 (AbD)
-	  - Code du travail - art. L323-7 (AbD)
-	  - Code du travail - art. L761-4 (AbD)
-	  - Code du travail - art. R122-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-5 (M)
-	  - Code du travail - art. L131-1 (M)
-	  - Code du travail - art. L131-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-1 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-7
-
-Tout travailleur salarié relevant des activités mentionnées aux articles L. 131-1 et L. 131-2, lié par un contrat de travail
-à durée indéterminée et qui est licencié alors qu'il compte deux ans d'ancienneté ininterrompue au service du même employeur,
-a droit, sauf en cas de faute grave, à une indemnité minimum de licenciement dont le taux et les modalités de calcul en
-fonction de la rémunération perçue antérieurement à la rupture du contrat de travail sont fixées par décret.
-
-Les circonstances qui, en vertu soit des dispositions législatives ou réglementaires, soit de conventions collectives, soit
-d'usages, soit de stipulations contractuelles, entraînent la suspension du contrat de travail ne sont pas regardées comme
-interrompant l'ancienneté du salarié pour l'application du présent article. Toutefois la période de suspension n'entre pas en
-compte dans la durée d'ancienneté exigée pour bénéficier des dispositions qui précèdent.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L422-6 (V)
-	  - Code du travail - art. L122-6 (Ab)
-	  - Code du travail - art. L122-8 (M)
-	  - Code du travail - art. R122-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L122-10 (Ab)
-	  - Code du travail - art. L122-9 (Ab)
-	  - Code du travail - art. L1234-2 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L131-1 (M)
-	  - Code du travail - art. L131-2 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-8
-
-Les dispositions des articles L. 122-6 et L. 122-7 sont applicables aux personnels mentionnés aux articles L. 351-18 à L.
-351-20 et aux salariés qui sont soumis au même statut législatif ou réglementaire particulier que celui d'entreprises
-publiques dès lors que les intéressés remplissent les conditions prévues auxdits articles.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°80-1058 du 23 décembre 1980 - art. 8 (Ab)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 18 (M)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
-	  - CODE DES COMMUNES. - art. L422-6 (V)
-	  - Code civil - art. 2101 (T)
-	  - Code civil - art. 2104 (T)
-	  - Code civil - art. 2331 (V)
-	  - Code civil - art. 2375 (V)
-	  - Code du travail - art. L122-3-1 (M)
-	  - Code du travail - art. L122-32-6 (AbD)
-	  - Code du travail - art. L122-9-1 (AbD)
-	  - Code du travail - art. L143-10 (AbD)
-	  - Code du travail - art. L341-6-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L122-11 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-6 (Ab)
-	  - Code du travail - art. L122-7 (Ab)
-	  - Code du travail L122-6, L122-7, L351-18 à L351-20
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-9
-
-Lorsque l'employeur prend l'initiative du congé, il doit le notifier par écrit. La date de présentation de cet écrit
-constitue le point de départ du délai-congé d'un mois ou de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
-	  - Loi n°80-1058 du 23 décembre 1980 - art. 8 (Ab)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 24 (VT)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 6-2 (VT)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 18 (M)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 45 (V)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 66 (V)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 52 (V)
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V)
-	  - Loi n°99-586 du 12 juillet 1999 - art. 63 (Ab)
-	  - Loi n°2001-2 du 3 janvier 2001 - art. 9 (V)
-	  - Loi n°2002-6 du 4 janvier 2002 - art. 3 (M)
-	  - Loi - art. 126 (V)
-	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
-	  - Loi n°2005-846 du 26 juillet 2005 - art. 1 (V)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
-	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
-	  - Code civil - art. 2101 (T)
-	  - Code civil - art. 2104 (T)
-	  - Code civil - art. 2331 (V)
-	  - Code civil - art. 2375 (V)
-	  - Code de la sécurité sociale. - art. L161-9 (M)
-	  - Code du travail - art. L122-10 (AbD)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L122-12 (AbD)
-	  - Code du travail - art. L122-14-13 (VT)
-	  - Code du travail - art. L122-14-4 (AbD)
-	  - Code du travail - art. L122-32-6 (AbD)
-	  - Code du travail - art. L122-45-2 (AbD)
-	  - Code du travail - art. L122-8 (AbD)
-	  - Code du travail - art. L122-9-1 (AbD)
-	  - Code du travail - art. L123-5 (AbD)
-	  - Code du travail - art. L321-4-2 (VT)
-	  - Code du travail - art. L341-6-1 (M)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R122-1 (M)
-	  - Code du travail - art. R122-2 (VT)
-	  - Décret n°1986-11-19 du 19 novembre 1986 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2002-785 du 3 mai 2002
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L122-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-9 (VD)
-	  - Code du travail L122-14-1 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-10
-
-La résiliation du contrat par la volonté d'un seul des contractants peut donner lieu à des dommages-intérêts.
-
-Les dommages-intérêts qui peuvent être accordés pour inobservation du délai-congé ne se confondent pas avec ceux auxquels
-peut donner lieu la résiliation abusive du contrat par la volonté d'une des parties contractantes.
-
-Le jugement doit, en tout cas, mentionner expressément le motif allégué par la partie qui a rompu le contrat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L122-23 (AbD)
-	  - Code du travail - art. L263-5 (M)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R122-3 (M)
-	  - Code du travail maritime - art. 102-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L122-13 (Ab)
-	  - Code du travail - art. L1234-11 (VD)
-	  - Code du travail - art. L1234-8 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L122-7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-11
-
-Pour la fixation de l'indemnité prévue au premier alinéa de l'article précédent [*résiliation unilatérale*], il est tenu
-compte des usages, de la nature des services engagés, de l'ancienneté des services combinée avec l'âge du salarié, des
-retenues opérées et des versements effectués en vue d'une pension de retraite et, en général, de toutes les circonstances qui
-peuvent justifier l'existence et déterminer l'étendue du préjudice causé.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°76-700 du 13 juillet 1976 - art. 16 (V)
-	  - Décret n°78-517 du 30 mars 1978 - art. 16 (Ab)
-	  - Décret n°78-526 du 3 avril 1978 - art. 17 (V)
-	  - CODE DES COMMUNES. - art. R*422-36 (V)
-	  - Code du travail - art. L721-6 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L122-8 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-14 (VD)
-
-	**Cite**:
-
-	  - Code du travail L122-10 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-12
-
-S'il survient une modification dans la situation juridique de l'employeur, notamment par succession, vente, fusion,
-transformation du fonds, mise en société, tous les contrats de travail en cours au jour de la modification subsistent entre
-le nouvel entrepreneur et le personnel de l'entreprise.
-
-La cessation de l'entreprise, sauf le cas de force majeure, ne libère pas l'entrepreneur de l'obligation de respecter le
-délai-congé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
-	  - Loi n°83-675 du 26 juillet 1983 - art. 40-1 (V)
-	  - Décret n°84-591 du 4 juillet 1984 - art. 7 (M)
-	  - Décret n°84-1110 du 11 décembre 1984 - art. 7 (M)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 68 (V)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 15 (V)
-	  - Loi n°89-924 du 23 décembre 1989 - art. 6 (M)
-	  - Décret n°90-1089 du 7 décembre 1990 - art. 16 (Ab)
-	  - Loi n°91-1406 du 31 décembre 1991 - art. 31 (V)
-	  - Loi n°96-314 du 12 avril 1996 - art. 53 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
-	  - Décret n°2000-84 du 31 janvier 2000 - art. 11 (V)
-	  - Loi n°2000-719 du 1 août 2000 - art. 18 (V)
-	  - Décret n°2002-254 du 22 février 2002 - art. 26 (Ab)
-	  - Décret n°2002-400 du 25 mars 2002 - art. 14 (Ab)
-	  - Loi n°2003-706 du 1 août 2003 - art. 49 (VD)
-	  - Loi n°2003-721 du 1 août 2003 - art. 50 (M)
-	  - Décret n°2004-565 du 17 juin 2004 - art. 1 (V)
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 28 (Ab)
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 137 (V)
-	  - Décret n°2004-1232 du 20 novembre 2004 - art. 7 (V)
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 149 (V)
-	  - Loi n°2005-357 du 20 avril 2005 - art. 7 (VT)
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 35 (V)
-	  - Décret n°2007-648 du 30 avril 2007 - art. 1 (V)
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 86 (VD)
-	  - Loi n°2008-126 du 13 février 2008 - art. 7 (VD)
-	  - Code du travail - art. L117-18 (AbD)
-	  - Code du travail - art. L122-12-1 (AbD)
-	  - Code du travail - art. L412-16 (AbD)
-	  - Code du travail - art. L412-18 (AbD)
-	  - Code du travail - art. L425-1 (AbD)
-	  - Code du travail - art. L433-14 (AbD)
-	  - Code du travail - art. L435-5 (AbD)
-	  - Code du travail - art. L436-1 (AbD)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R322-16-2 (VT)
-	  - Code du travail - art. R831-8 (VT)
-
-
-###### Article L122-13
-
-Les parties ne peuvent renoncer, à l'avance, au droit éventuel de demander des dommages-intérêts en vertu des dispositions
-ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
-	  - Code du travail - art. L721-6 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L122-10 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L122-14-7 (M)
-	  - Code du travail - art. L1237-2 (VD)
-	  - Code du travail L122-14-7 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-14
-
-Les dispositions des articles précédents sont applicables même au cas où le salarié est lié par des contrats de louage de
-services à plusieurs employeurs.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
-	  - Décret n°82-397 du 11 mai 1982 - art. 15 (Ab)
-	  - Décret n°83-1160 du 26 décembre 1983 - art. 65 (V)
-	  - Décret n°93-852 du 17 juin 1993 - art. Annexe, art. 12 (Ab)
-	  - Arrêté du 30 décembre 1993 - art. 3 (V)
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 25 (V)
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 78 (V)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 1 (VT)
-	  - Arrêté du 31 décembre 1986 - art. 1 (V)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code de la sécurité sociale. - art. D412-79 (V)
-	  - Code du travail - art. D122-1 (VT)
-	  - Code du travail - art. D122-2 (VT)
-	  - Code du travail - art. L12-10-1 (AbD)
-	  - Code du travail - art. L122-14-1 (AbD)
-	  - Code du travail - art. L122-14-14 (AbD)
-	  - Code du travail - art. L122-14-16 (AbD)
-	  - Code du travail - art. L122-14-17 (AbD)
-	  - Code du travail - art. L122-14-18 (AbD)
-	  - Code du travail - art. L122-14-5 (AbD)
-	  - Code du travail - art. L122-14-6 (Ab)
-	  - Code du travail - art. L122-41 (AbD)
-	  - Code du travail - art. L321-4-2 (M)
-	  - Code du travail - art. L321-6 (M)
-	  - Code du travail - art. L321-6-1 (Ab)
-	  - Code du travail - art. L322-4-20 (AbD)
-	  - Code du travail - art. L412-18 (AbD)
-	  - Code du travail - art. L425-1 (AbD)
-	  - Code du travail - art. L436-1 (AbD)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. L773-19 (AbD)
-	  - Code du travail - art. L773-27 (AbD)
-	  - Code du travail - art. R122-2 (M)
-	  - Code du travail - art. R122-2-1 (VT)
-	  - Code du travail - art. R241-31-2 (VT)
-	  - Code du travail - art. R321-10 (VT)
-	  - Code du travail - art. R412-6 (VT)
-	  - Code du travail - art. R436-1 (VT)
-	  - Code du travail - art. R436-10 (VT)
-	  - Code du travail maritime - art. 102-10 (V)
-	  - Code rural - art. R717-51 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°89-861 du 27 novembre 1989
-	  - TXT_SOURCE: Code du travail - art. D122-1 (V)
-	  - TXT_SOURCE: Code du travail - art. D122-2 (V)
-	  - TXT_SOURCE: Code du travail - art. D122-3 (V)
-	  - TXT_SOURCE: Code du travail - art. D122-4 (V)
-	  - TXT_SOURCE: Code du travail - art. D122-5 (V)
-	  - TXT_SOURCE: Code du travail - art. D122-5-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L122-14-7 (M)
-	  - Code du travail L122-14-7 al. 2
 
 	**Codifié par**:
 
@@ -7032,12 +7393,14 @@ considérées comme marchandage.
 
 ###### Article L125-3
 
-Sous réserve de l'application, le cas échéant, des dispositions des articles L. 125-1, L. 125-2, R. 125-1 et L. 260-3 du
-présent code et de celles du code des marchés publics, un employeur qui ne répond pas à la définition d'entrepreneur de
-travail temporaire au sens de l'article L. 124-1 du présent code peut mettre un ou plusieurs de ses salariés permanents à la
-disposition provisoire d'un tiers. Les articles L. 124-7, L. 124-9, L. 420-3 dernier alinéa, L. 124-13, L. 124-14, L. 341-3
-du présent code sont alors applicables ainsi que les articles 23 à 31 de la loi n. 72-1 du 3 janvier 1972 sur le travail
-temporaire.
+Toute opération à but lucratif ayant pour objet exclusif le prêt de main-d'oeuvre est interdite sous peine des sanctions
+prévues à l'article L. 152-2 dès lors qu'elle n'est pas effectuée dans le cadre des dispositions du livre 1er, titre II,
+chapitre IV du présent code relatives au travail temporaire.
+
+Les articles L. 124-7, L. 124-9, L. 124-13, L. 124-14,
+
+L. 341-3, L. 420-3, dernier alinéa, ainsi que les articles 23 à 31 de la loi n. 72-1 du 3 janvier 1972 sur le travail
+temporaire restent applicables aux opérations de prêts de main-d'oeuvre à but non lucratif.
 
 **Liens relatifs à cet article**
 
@@ -7047,13 +7410,12 @@ temporaire.
 	  - Code du travail - art. L124-13 (M)
 	  - Code du travail - art. L124-14 (Ab)
 	  - Code du travail - art. L124-7 (M)
-	  - Code du travail - art. L124-9 (AbD)
-	  - Code du travail - art. L125-1 (M)
-	  - Code du travail - art. L125-2 (M)
-	  - Code du travail - art. L200-3 (M)
 	  - Code du travail - art. L341-3 (M)
-	  - Code du travail - art. R125-1 (M)
-	  - Code du travail L420-3  AL. FINAL
+	  - Code du travail L124-1 A D124-2
+
+	**Modifié par**:
+
+	  - Loi n°73-608 1973-07-06 ART. 2 JORF 7 JUILLET 1973
 
 	**Cité par**:
 
@@ -9429,6 +9791,351 @@ d'un plafond identique à celui établi pour une période de trente jours de ré
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L143-11-1
+
+Tout employeur ayant la qualité de commerçant ou de personne morale de droit privé même non commerçante et occupant un ou
+plusieurs salariés dans les conditions fixées à l'article L. 351-10 du code travail, doit [*obligation*] assurer ceux-ci
+contre le risque de non-paiement des sommes qui leur sont dues en exécution du contrat de travail à la date [*point de
+départ*] de la décision prononçant le règlement judiciaire ou la liquidation des biens .
+
+Sont également couvertes par l'assurance prévue à l'alinéa ci-dessus les sommes dues en application d'un contrat
+d'intéressement ou d'association résultant /M/de l'ordonnance n° 59-126 du 7 janvier 1959 ou d'un accord de participation
+résultant de l'ordonnance n° 67-693 du 17 août 1967/M/DECRET 808 1974-09-19 :
+
+des dispositions du livre IV, titre IV, chapitre 1er du code du travail ou d'un accord de participation résultant des
+dispositions du livre IV, titre IV, chapitre II du code du travail// dès lors qu'elles sont exigibles. Il en est de même des
+arrérages de préretraite ou de complément de retraite, échus ou à échoir, qui seraient dus à un salarié ou ancien salarié à
+la suite d'un accord d'entreprise, d'une convention collective ou d'un accord professionnel ou interprofessionnel par un
+employeur mis en état de règlement judiciaire ou de liquidation des biens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 59-126 1959-01-07
+	  - Ordonnance 67-693 1967-08-17
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail L441-1 A L441-11
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 239 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 40 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 78 (Ab)
+	  - Arrêté du 6 mars 1987 - art. Annexe, 5 (V)
+	  - Arrêté - art. ANNEXE, art. 5 (V)
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 52 (V)
+	  - Décret n°97-139 du 13 février 1997 - art. 2 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 120 (Ab)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
+	  - Décret n°2007-3 du 1 janvier 2007 - art. 2 (V)
+	  - Code de commerce - art. L641-13 (V)
+	  - Code de commerce. - art. L621-32 (T)
+	  - Code de commerce. - art. L622-17 (V)
+	  - Code de commerce. - art. R625-3 (V)
+	  - Code du travail - art. D143-3 (VT)
+	  - Code du travail - art. L143-11-1 (AbD)
+	  - Code du travail - art. L143-11-11 (VT)
+	  - Code du travail - art. L143-11-2 (AbD)
+	  - Code du travail - art. L143-11-3 (AbD)
+	  - Code du travail - art. L143-11-4 (VT)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-11-7 (V)
+	  - Code du travail - art. L143-11-9 (V)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. L227-1 (VT)
+	  - Code du travail - art. L321-5-2 (Ab)
+	  - Code du travail - art. R124-22 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L143-11-2
+
+Le régime d'assurance prévue à l'article L. 143-11-1 est mis en oeuvre par une association créée par les organisations
+nationales professionnelles d'employeurs les plus représentatives et agréée par le ministre chargé du travail.
+
+Cette association passe une convention de gestion avec les institutions mentionnées à l'article L. 351-11 du code du travail.
+
+En cas de dissolution de cette association, le ministre chargé du travail confie aux institutions prévues à l'alinéa
+précédent la gestion du régime d'assurance institué à l'article L. 143-11-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-1194 du 27 décembre 1973 - art. 2 (V) JORF 30 DECEMBRE 1973
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 40 (Ab)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-11-6 (T)
+	  - Code du travail - art. L143-11-7 (M)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. R124-22 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L351-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L143-11-4 (AbD)
+	  - Code du travail - art. L3253-9 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L143-11-4
+
+L'assurance est financée par des cotisations des employeurs qui sont assises sur les rémunérations servant de base au calcul
+des contributions au régime d'assurance-chômage défini par la section II du chapitre Ier du titre V du livre III du code du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-1194 du 27 décembre 1973 - art. 4 (V) JORF 30 décembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°74-808 1974-09-19 JORF 29 SEPTEMBRE
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 124 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 125 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 228 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 24 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 45-1 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 50 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 53 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 142 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 197 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 42 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 76 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 78 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 79 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 80 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 81 (Ab)
+	  - Arrêté du 16 août 1999 - art. Annexe (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 15 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 118 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 120 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 121 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 122 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 201 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 245 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 246 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 293 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 96 (Ab)
+	  - Loi n°2008-126 du 13 février 2008 - art. 5 (V)
+	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Code de commerce - art. Annexe 8-5 (VT)
+	  - Code de commerce - art. L622-19 (V)
+	  - Code de commerce - art. L626-5 (V)
+	  - Code de commerce - art. R622-21 (VD)
+	  - Code de commerce - art. R631-33 (V)
+	  - Code de commerce - art. R641-34 (V)
+	  - Code de commerce - art. R643-6 (V)
+	  - Code de commerce. - art. L621-125 (T)
+	  - Code de commerce. - art. L621-126 (T)
+	  - Code de commerce. - art. L621-127 (T)
+	  - Code de commerce. - art. L621-38 (T)
+	  - Code de commerce. - art. L621-43 (T)
+	  - Code de commerce. - art. L621-46 (Ab)
+	  - Code de commerce. - art. L621-60 (Ab)
+	  - Code de commerce. - art. L621-78 (T)
+	  - Code de commerce. - art. L622-24 (VD)
+	  - Code de commerce. - art. L622-26 (M)
+	  - Code de commerce. - art. L625-1 (V)
+	  - Code de commerce. - art. L625-4 (VD)
+	  - Code de commerce. - art. L626-20 (VT)
+	  - Code de commerce. - art. L627-5 (T)
+	  - Code de commerce. - art. L631-18 (V)
+	  - Code de commerce. - art. L641-14 (VD)
+	  - Code de commerce. - art. L662-4 (V)
+	  - Code de commerce. - art. L926-3 (VD)
+	  - Code de commerce. - art. L926-4 (M)
+	  - Code de commerce. - art. L936-8 (VD)
+	  - Code de commerce. - art. L936-9 (M)
+	  - Code de commerce. - art. L956-4 (VD)
+	  - Code de commerce. - art. L956-5 (M)
+	  - Code de commerce. - art. R625-3 (V)
+	  - Code de commerce. - art. R625-4 (V)
+	  - Code de commerce. - art. R625-6 (V)
+	  - Code de commerce. - art. R641-35 (Ab)
+	  - Code du travail - art. L118-6 (AbD)
+	  - Code du travail - art. L143-11-10 (VT)
+	  - Code du travail - art. L143-11-12 (VT)
+	  - Code du travail - art. L143-11-13 (VT)
+	  - Code du travail - art. L143-11-15 (VT)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-11-7 (V)
+	  - Code du travail - art. L143-11-7-1 (Ab)
+	  - Code du travail - art. L143-11-8 (VT)
+	  - Code du travail - art. L143-11-9 (V)
+	  - Code du travail - art. L143-13-2 (Ab)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. R124-22 (VT)
+
+	**Transféré par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 130 () JORF 26 janvier 1985
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L143-11-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L143-11-6 (AbD)
+	  - Code du travail - art. L143-11-6 (T)
+	  - Code du travail - art. L3253-14 (VD)
+
+	**Cite**:
+
+	  - Code du travail L351-10 A L351-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L143-11-5
+
+Lorsqu'il ne peut, faute de disponibilités, payer en tout ou en partie dans le délai de dix jours prévu à l'article 51 de la
+Loi n. 67-563 du 13 juillet 1967 les créances garanties par le privilège établi aux articles L. 143-10 et L. 143-11 ainsi
+qu'aux articles L. 742-6 et L. 751-15, le syndic remet, avant l'expiration de ce délai, aux institutions prévues à l'article
+L. 143-11-2 un relevé de ces créances précisant la qualité de salarié des créanciers concernés et le montant des sommes
+éventuellement versées, visé par le juge-commissaire. Dans les cinq jours, ces institutions versent au syndic les sommes
+restées impayées figurant sur ce relevé, même si leur créance est contestée, à charge pour le syndic de les reverser à chaque
+salarié créancier. Les créances de cette nature, présentées après l'expiration du délai de dix jours susvisé, font l'objet
+d'un relevé complémentaire établi selon les mêmes modalités et sont réglées dans les mêmes conditions de délai.
+
+Lorsqu'il ne peut, faute de disponibilités, payer en tout ou en partie les autres créances résultant du contrat de travail
+ainsi que celles échues visées au deuxième alinéa de l'article L. 143-11-1, le syndic doit, dans le délai de trois mois à
+compter du jugement prononçant le règlement judiciaire ou la liquidation des biens [*point de départ*] remettre aux
+institutions prévues à l'article L. 143-11-2 un relevé des créances salariales établi conformément à l'article 42 de la loi
+n. 67-563 du 13 juillet 1967, les créances de salaires étant vérifiées par priorité tant par le syndic que par le juge-
+commissaire avant toute autre créance. Cette obligation s'impose au syndic alors même qu'il serait dispensé, par application
+de l'article 45 de la loi du 13 juillet 1967 précitée, de procéder à la vérification des créances chirographaires.
+
+Nonobstant les dispositions du dernier alinéa de l'article 42 de la loi du 13 juillet 1967 précitée, même en cas de
+contestation de leur admission par un tiers, les créances restées impayées figurant sur les relevés prévus à l'alinéa
+précédent sont réglées, selon les modalités prévues à l'alinéa 1er ci-dessus dans un délai de huit jours à compter de la
+réception de ces relevés.
+
+Les relevés des créances prévus au présent article, ainsi que ceux des créances à échoir visées au deuxième alinéa de
+l'article L. 143-11-1, sont établis par le syndic, après consultation du comité d'entreprise ou, à défaut, des délégués du
+personnel, en cas de règlement judiciaire, déduction faite des prélèvements légaux ou conventionnels y afférents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13 ART. 42, 45 ET 51
+	  - Loi n°67-563 du 13 juillet 1967 - art. 42 (Ab)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L143-11-2 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+
+	**Créé par**:
+
+	  - Loi n°73-1194 du 27 décembre 1973 - art. 5 (V) JORF 30 DECEMBRE 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°74-808 1974-09-19 JORF 29 SEPTEMBRE
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Code du travail - art. L122-32-11 (AbD)
+	  - Code du travail - art. L143-11-13 (VT)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-11-6 (T)
+	  - Code du travail - art. L143-11-7 (M)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. R124-22 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L143-11-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3253-7 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L143-11-6
+
+Les institutions prévues à l'article L. 143-11-2 sont subrogées dans les droits des personnes auxquelles elles ont payé leurs
+créances dans les conditions prévues à l'article L. 143-11-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-1194 du 27 décembre 1973 - art. 6 (V) JORF 30 décembre 1973
+
+	**Transféré par**:
+
+	  - Loi n°75-1251 1975-12-27 ART. 1 JORF 30 décembre 1975
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Loi n°2008-126 du 13 février 2008 - art. 7 (VD)
+	  - Loi n°2008-126 du 13 février 2008 - art. 5 (V)
+	  - Code de la sécurité sociale. - art. L142-2 (VD)
+	  - Code de la sécurité sociale. - art. L213-1 (VD)
+	  - Code de la sécurité sociale. - art. L243-7 (V)
+	  - Code du travail - art. D143-2 (M)
+	  - Code du travail - art. L122-32-11 (AbD)
+	  - Code du travail - art. L143-11-4 (VT)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. R124-22 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-11-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L143-11-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L143-11-8 (M)
+	  - Code du travail - art. L3253-18 (VD)
+	  - Code du travail L143-11-7 (1975)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### PENALITES
 
 #### CONTRAT DE TRAVAIL
@@ -9650,30 +10357,213 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
+#### Section 2 : Agence nationale pour l'amélioration des conditions de travail.
+
+###### Article L200-5
+
+L'agence pour l'amélioration des conditions de travail est un établissement public national à caractère administratif placé
+sous la tutelle du ministre chargé du travail.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. L231-2 (AbD)
+	  - Code du travail - art. L800-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail R4642-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L200-6
+
+L'agence pour l'amélioration des conditions de travail a pour mission [*attributions*] :
+
+De rassembler et de diffuser les informations concernant, en France et à l'étranger, toute action tendant à améliorer les
+conditions de travail ;
+
+De coordonner la recherche des causes des accidents du travail, et de faire connaître les remèdes susceptibles d'en diminuer
+le nombre et la gravité ;
+
+De servir de correspondant à toute institution étrangère ou internationale traitant de l'amélioration des conditions de
+travail ;
+
+De contribuer au développement et à l'encouragement de recherches, d'expériences ou réalisations en matière d'amélioration
+des conditions de travail ;
+
+D'établir à ces différentes fins toutes les liaisons utiles avec les organisations professionnelles, les entreprises, les
+établissements d'enseignement et, plus généralement, tout organisme traitant des problèmes d'amélioration des conditions de
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L200-7
+
+L'agence pour l'amélioration des conditions de travail est administrée par un conseil d'administration qui comprend en nombre
+égal :
+
+Des représentants des organisations d'employeurs les plus représentatives sur le plan national ;
+
+Des représentants des organisations syndicales de travailleurs les plus représentatives sur le plan national ;
+
+Des représentants des ministres intéressés et des personnes qualifiées dans les domaines définis à l'article L. 437-1 (1).
+
+En outre, participent au conseil d'administration, à titre consultatif, un représentant de chacune des commissions chargées
+des affaires sociales au Parlement, ainsi qu'un représentant de la section chargée des affaires sociales au Conseil
+économique et social.
+
+Le conseil d'administration de l'agence élit parmi ses membres un président.
+
+Celui-ci est assisté par un directeur qui est nommé par le ministre chargé du travail.
+
+**Nota:**
+
+(1) l'article L437-1 a été abrogé par l'article 12 de la loi n° 82-1097 du 23 décembre 1982. 
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L437-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4642-2 (VD)
+	  - Code du travail L4642-2, R4642-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L200-8
+
+Le conseil d'administration délibère notamment sur le budget de l'agence, ainsi que sur le programme des actions que celle-ci
+doit mener.
+
+Les crédits budgétaires nécessaires à la mise en place et au fonctionnement de l'agence sont inscrits au budget de l'Etat au
+titre du ministère chargé du travail.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. R200-17-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail R4642-4, R4642-5
+
+
+###### Article L200-9
+
+Un décret en Conseil d'Etat détermine les mesures d'application des articles L. 200-5 à L. 200-8.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4642-3 (VD)
+
+	**Cite**:
+
+	  - Code du travail L200-5 A L200-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### Titre Ier : Conditions du travail
 
 #### Chapitre Ier : Age d'admission
 
+##### Section 1 : Dispositions générales.
+
 ###### Article L211-1
 
-Les enfants de l'un ou de l'autre sexe ne peuvent être ni employés ni admis à aucun titre dans les établissements mentionnés
-au premier alinéa de l'article L. 200-1 avant d'être règulièrement libérés de l'obligation scolaire.
+Sous réserve de ce qui est dit à l'article L. 117-3 (1er alinéa, 2ème phrase) les enfants de l'un et l'autre sexe ne peuvent
+être ni employés, ni admis à aucun titre dans les établissements mentionnés au 1er alinéa de l'article L. 200-1 avant d'être
+régulièrement libérés de l'obligation scolaire.
 
-Toutefois et sans préjudice de la règle prévue à l'article L. 117-3, les dispositions précédentes ne font pas obstacle à ce
-que les adolescents accomplissent pendant la dernière année de la scolarité, des stages de formation pratique dans les
-entreprises selon les conditions déterminées par les textes relatifs à l'instruction obligatoire.
+Les dispositions de l'alinéa précédent ne font pas obstacle à ce que les élèves qui suivent un enseignement alterné
+accomplissent des stages d'initiation ou d'application en milieu professionnel durant les deux dernières années de leur
+scolarité obligatoire.
 
-Ces dispositions ne font pas non plus obstacle à ce que les adolescents de plus de quatorze ans effectuent des travaux légers
-pendant leurs vacances scolaires à condition que soit assuré aux intéressés un repos effectif d'une durée au moins égale à la
-moitié de chaque période de congé. Les employeurs sont tenus d'adresser une déclaration préalable à l'inspecteur du travail
-qui dispose d'un délai de huit jours pour notifier son désaccord éventuel.
+Ces stages ne peuvent être effectués qu'auprès d'entreprises commerciales ou artisanales ou de petites ou moyennes
+entreprises ayant fait l'objet d'un agrément.
 
-Des décrets règleront les modalités d'application de l'alinéa précédent, notamment la nature des travaux, la durée de la
+Ces dispositions ne font pas non plus obstacle à ce que les adolescents de plus de quatorze ans [*age*] effectuent des
+travaux légers pendant leurs vacances scolaires à condition que soit assuré aux intéressés un repos effectif d'une durée au
+moins égale à la moitié de chaque période de congé. Les employeurs sont tenus d'adresser une déclaration préalable à
+l'inspecteur du travail qui dispose d'un délai de huit jours pour notifier son désaccord éventuel.
+
+Des décrets régleront les modalités d'application de l'alinéa précédent, notamment la nature des travaux, la durée de la
 période pendant laquelle ils pourront être effectués ainsi que, en tant que de besoin, les conditions particulières dans
 lesquelles sera assurée la couverture en matière de sécurité sociale des jeunes gens concernés par ledit alinéa.
 
-Les dispositions du premier alinéa ci-dessus ne sont pas applicables dans les établissements mentionnés au deuxième alinéa de
-l'article L. 200-1.
+Les dispositions du premier alinéa ci-dessus ne sont pas applicables [*non*] dans les établissements mentionnés au deuxième
+alinéa de l'article L. 200-1.
 
 **Liens relatifs à cet article**
 
@@ -9683,6 +10573,7 @@ l'article L. 200-1.
 	  - Décret n°97-370 du 14 avril 1997 - art. 2 (Ab)
 	  - Décret n°97-370 du 14 avril 1997 - art. 3 (Ab)
 	  - Décret n°2003-812 du 26 août 2003 - art. 1 (Ab)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 9 (Ab)
 	  - Code de l'éducation - art. D331-1 (M)
 	  - Code de l'éducation - art. L331-5 (V)
 	  - Code du travail - art. L112-3 (Ab)
@@ -9691,30 +10582,10 @@ l'article L. 200-1.
 	  - Code rural - art. R715-1 (V)
 	  - Code rural - art. R715-2 (V)
 	  - Code rural ancien - art. 983 (Ab)
-	  - Loi n°2006-396 du 31 mars 2006 - art. 9 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L117-3 (M)
-	  - Code du travail - art. L200-1 (AbD)
-
-	**Anciens textes**:
-
-	  - Code du travail 2
-	  - Loi n°68-1168 1968-12-23 art. 1, art. 2
-	  - Ordonnance 1967-09-27
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
-
-	**Modifié par**:
-
-	  - Décret n°73-1046 1973-11-15 art. 10 JORF 21 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°73-4 1973-01-02 JORF 3 janvier 1973 rectificatif JORF 11 juillet 1973
 
 	**Liens**:
 
@@ -9737,8 +10608,11 @@ l'article L. 200-1.
 	  - TXT_ASSOCIE: Code du travail - art. R261-1 (V)
 	  - TXT_ASSOCIE: Code du travail - art. R261-1-1 (V)
 
+	**Cite**:
 
-##### Section 1 : Dispositions générales.
+	  - Code du travail - art. L117-3 (M)
+	  - Code du travail - art. L200-1 (AbD)
+
 
 ###### Article L211-2
 
@@ -14213,6 +15087,54 @@ Il peut assortir sa décision d'une astreinte qui sera liquidée au profit du Tr
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L263-4
+
+En cas de récidive, les infractions aux dispositions auxquelles se réfère l'article L. 263-2 sont passibles d'un
+emprisonnement de deux mois à un an et d'une amende de 2000 à 60000 F ou de l'une de ces deux peines seulement.
+
+Toutefois, aucune infraction nouvelle ne pourra être relevée pour la même cause pendant le cours du délai qui aura
+éventuellement été accordé en vertu des dispositions de l'article précédent.
+
+En cas de récidive constatée par le procès-verbal dressé conformément aux articles L. 611-10 et L. 611-13, après une
+condamnation prononcée en vertu de l'article précédent, le tribunal correctionnel pourra ordonner la fermeture totale ou
+partielle, définitive ou temporaire de l'établissement dans lequel n'auraient pas été faits les travaux de sécurité ou de
+salubrité imposés par la loi ou les règlements.
+
+Le jugement est susceptible d'appel, la Cour statue d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 19
+	  - Code du travail 175
+
+	**Cité par**:
+
+	  - Loi n°73-1195 du 27 décembre 1973 - art. 13 (V)
+	  - Code du travail - art. L231-5 (AbD)
+	  - Code du travail - art. L231-9 (M)
+	  - Code du travail - art. L263-10 (M)
+	  - Code du travail - art. L263-2 (AbD)
+	  - Code du travail - art. L263-5 (AbD)
+	  - Code du travail - art. L263-6 (AbD)
+	  - Code du travail - art. L362-1 (AbD)
+	  - Code du travail - art. L742-5 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-6 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L611-10 (M)
+	  - Code du travail - art. L611-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L263-5
 
 Les décisions du juge des référés prévues à l'article L. 263-1 ainsi que les condamnations prononcées en application de
@@ -16403,6 +17325,77 @@ réclamation est suspensive.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L231-8
+
+Dans les entreprises qui occupent plus de 300 [*effectif*] salariés les dispositions des articles L. 436-1 et L. 436-2
+[*conditions de licenciement*] sont applicables aux salariés qui siègent en qualité de représentants du personnel dans les
+institutions prévues au 3. de l'article L. 231-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+	  - Arrêté du 12 décembre 1985 - art. Annexe (V)
+	  - Code du travail - art. L122-1 (M)
+	  - Code du travail - art. L122-3-7 (T)
+	  - Code du travail - art. L231-12 (AbD)
+	  - Code du travail - art. L231-8-2 (AbD)
+	  - Code du travail - art. L231-9 (AbD)
+	  - Code du travail - art. L742-5 (VT)
+	  - Code du travail - art. R711-6 (VT)
+	  - Code du travail - art. R711-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L436-1 (T)
+	  - Code du travail - art. L436-2 (T)
+	  - Code du travail L231-2 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L231-9
+
+Si un salarié membre des institutions visées au 3. de l'article L. 231-2 constate qu'il existe une cause de danger imminent,
+il en avise immédiatement le chef d'établissement, directeur, gérant ou préposé et il consigne cet avis sur le registre des
+procès-verbaux et des rapports du comité.
+
+Si le chef d'établissement, directeur, gérant ou préposé n'estime pas devoir interrompre les travaux signalés comme
+s'effectuant dans des conditions de sécurité insuffisantes, il doit [*obligation*], sous peine d'encourir les sanctions
+prévues aux articles L. 263-2 et L. 263-4, communiquer, dans le délai de vingt-quatre heures, l'avis prévu à l'alinéa
+précédent, assorti de ses propres observations, à l'inspecteur du travail [*contrôle*] .
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-612 du 9 juin 1977 - art. 18 (Ab)
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+	  - Arrêté du 12 décembre 1985 - art. Annexe (V)
+	  - Arrêté du 8 août 1986 - art. 1 (V)
+	  - Code du travail - art. L236-7 (AbD)
+	  - Code du travail - art. L742-5 (VT)
+	  - Code du travail - art. R231-7 (Ab)
+	  - Code du travail - art. R236-9 (VT)
+	  - Code du travail - art. R711-6 (VT)
+	  - Code du travail - art. R711-7 (VT)
+	  - Code du travail - art. R742-8-12 (V)
+	  - Code du travail - art. R742-8-9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L263-2 (M)
+	  - Code du travail - art. L263-4 (M)
+	  - Code du travail L231-2 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### HYGIENE .
 
 ###### Article L232-3
@@ -16427,75 +17420,20 @@ avantage en nature.
 
 #### SECURITE .
 
-###### Article L233-6
-
-L'acheteur auquel un appareil, une machine ou un élément de machine dangereux ou bien un produit, un appareil ou dispositif
-de protection a été livré dans des conditions contraires aux dispositions de l'article L. 233-5 et des décrets pris pour son
-application, peut, nonobstant toute clause contraire, dans le délai d'une année à compter du jour de la livraison, demander
-la résolution de la vente ; le tribunal qui prononce cette résolution peut, en outre, accorder des dommages-intérêts à
-l'acheteur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L231-7 (AbD)
-
-	**Cite**:
-
-	  - Code du travail - art. L233-5 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 2066 d
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### DISPOSITIONS PARTICULIERES AUX FEMMES ET AUX JEUNES TRAVAILLEURS  .
-
-###### Article L234-1
-
-Les chefs d'établissement industriels et commerciaux dans lesquels sont employés des jeunes travailleurs de moins de dix-huit
-ans [*âge limite*], ou des femmes doivent [*obligation*] veiller au maintien des bonnes moeurs et à l'observation de la
-décence publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail 2071
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R263-1 : SANCTIONS PENALES
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-### SECURITE .
-
 ###### Article L233-5
 
-Il est interdit de vendre à un utilisateur ainsi que d'exposer, de mettre en vente ou louer des appareils, machines ou
-éléments de machines dangereux qui ne soient pas montés, disposés ou protégés dans des conditions assurant la sécurité des
-travailleurs.
+Il est interdit d'exposer, de mettre en vente ou de vendre, de louer, de céder à quelque titre que ce soit ou d'utiliser :
 
-Il est interdit d'exposer, de mettre en vente ou de vendre des produits, appareils ou dispositifs de protection contre les
-dangers de tous ordres auxquels sont soumis les travailleurs, sans que l'efficacité de ces produits, appareils ou dispositifs
-ait été reconnue.
+- des appareils, machines et éléments de machines dangereux qui ne sont pas montés, disposés ou protégés dans des conditions
+assurant la sécurité et l'hygiène des travailleurs ;
 
-Les appareils, machines ou éléments de machines dangereux mentionnés à l'alinéa premier, ainsi que les produits, appareils ou
-dispositifs de protection mentionnés à l'alinéa 2, sont déterminés par des décrets pris après consultation des organisations
-professionnelles intéressées et après avis de la commission de sécurité du travail ou de la commission d'hygiène
-industrielle.
+- des produits, appareils ou dispositifs de protection contre les dangers de tous ordres auxquels sont soumis les
+travailleurs et dont l'efficacité n'a pas été reconnue.
 
-Ces décrets fixent les conditions dans lesquelles est reconnue l'efficacité des produits, dispositifs ou appareils mentionnés
-aux alinéas 1 et 2 du présent article.
+Des décrets, pris après consultation des organisations professionnelles intéressées et après avis de la commission de
+sécurité du travail ou de la commission d'hygiène industrielle, déterminent les appareils, machines ou éléments de machines,
+les produits, appareils ou dispositifs de protection auxquels sont applicables les dispositions qui précèdent et fixent les
+conditions auxquelles ces produits, appareils ou dispositifs de protection doivent satisfaire pour être reconnus efficaces.
 
 **Liens relatifs à cet article**
 
@@ -16603,6 +17541,7 @@ aux alinéas 1 et 2 du présent article.
 	  - TXT_SOURCE: Code du travail - art. R233-105 (Ab)
 	  - TXT_SOURCE: Code du travail - art. R233-106 (Ab)
 	  - TXT_SOURCE: Code du travail - art. R233-107 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R233-49 (Ab)
 	  - TXT_SOURCE: Code du travail - art. R233-83 (M)
 	  - TXT_SOURCE: Code du travail - art. R233-83-1 (M)
 	  - TXT_SOURCE: Code du travail - art. R233-84 (M)
@@ -16620,6 +17559,56 @@ aux alinéas 1 et 2 du présent article.
 	  - TXT_SOURCE: Code du travail - art. R233-97 (Ab)
 	  - TXT_SOURCE: Code du travail - art. R233-98 (Ab)
 	  - TXT_SOURCE: Code du travail - art. R233-99 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L233-6
+
+L'acheteur auquel un appareil, une machine ou un élément de machine dangereux ou bien un produit, un appareil ou dispositif
+de protection a été livré dans des conditions contraires aux dispositions de l'article L. 233-5 et des décrets pris pour son
+application, peut, nonobstant toute clause contraire, dans le délai d'une année à compter du jour de la livraison, demander
+la résolution de la vente ; le tribunal qui prononce cette résolution peut, en outre, accorder des dommages-intérêts à
+l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L231-7 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L233-5 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 2066 d
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### DISPOSITIONS PARTICULIERES AUX FEMMES ET AUX JEUNES TRAVAILLEURS  .
+
+###### Article L234-1
+
+Les chefs d'établissement industriels et commerciaux dans lesquels sont employés des jeunes travailleurs de moins de dix-huit
+ans [*âge limite*], ou des femmes doivent [*obligation*] veiller au maintien des bonnes moeurs et à l'observation de la
+décence publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail 2071
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R263-1 : SANCTIONS PENALES
 
 	**Codifié par**:
 
@@ -18353,11 +19342,107 @@ Miquelon.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L341-3
+
+Le contrat de travail temporaire régi par le chapitre IV du titre II du livre Ier du présent code ne peut pas être assimilé
+au contrat de travail prévu à l'article précédent et qui permet l'entrée en France d'un étranger pour exercer une activité
+salariée.
+
+Un contrat de travail temporaire ne  peut permettre à un étranger d'obtenir en vue du premier exercice d'une activité
+salariée en France le titre prévu à l'article L. 341-6 lorsque la possession de celui-ci est exigée en vertu de traités ou
+d'accords internationaux.
+
+Sous réserve des accords internationaux, il est interdit à une entreprise de travail temporaire de mettre [*mis*] à la
+disposition de quelque personne que ce soit des travailleurs étrangers si la prestation de service doit s'effectuer hors du
+territoire français.
+
+**Nota:**
+
+Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°72-1 1972-01-03 art. 39
+	  - Loi n°73-608 1973-07-06
+
+	**Cité par**:
+
+	  - Code du travail - art. L125-3 (AbD)
+	  - Code du travail - art. L364-1 (AbD)
+	  - Code du travail - art. L831-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-2 (M)
+	  - Code du travail - art. L341-6 (M)
+	  - Code du travail L124-1 A L124-19
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L364-1 (M)
+	  - TXT_ASSOCIE: Code du travail L364-1 : SANCTIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5221-4 (VD)
+
+
 ### Titre IV : MAIN-D'OEUVRE ETRANGERE
 
 #### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 ##### SECTION 1 : TRAVAILLEURS ETRANGERS.
+
+###### Article L341-7-1
+
+Il est interdit à tout employeur de se faire rembourser par un travailleur étranger soit la redevance forfaitaire qu'il a
+versée à l'office national d'immigration [*ONI*] au titre de ce travailleur, soit les frais de voyage qu'il a réglés pour la
+venue de celui-ci en France.
+
+Il est également interdit à toute personne, sous réserve des dispositions de l'article L. 762-10 [*agents artistiques*],
+d'exiger d'un travailleur étranger des versements d'argent ou d'opérer sur le salaire du travailleur des retenues sous la
+dénomination de frais ou sous d'autres dénominations en vue ou à l'occasion de son introduction en France ou de son
+embauchage.
+
+**Nota:**
+
+[*Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-608 1973-07-06 art. 4 JORF 7 juillet 1973 en vigueur le 29 septembre 1974
+
+	**Cité par**:
+
+	  - Code du travail - art. L364-4 (AbD)
+	  - Code du travail - art. L831-1 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L364-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5222-2 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L762-10 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L341-8
 
@@ -18971,6 +20056,37 @@ commandes pour des ventes au détail [*condition*].
 	**Cité par**:
 
 	  - Code du travail - art. R323-72 (Ab)
+
+
+#### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
+
+###### Article L364-4
+
+Les infractions aux dispositions de l'article L. 341-7-1 sont punies des peines prévues à l'article L. 152-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Code du travail - art. L364-8 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L152-3 (M)
+	  - Code du travail - art. L341-7-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L341-7-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5224-4 (VD)
 
 
 ## Livre III : PLACEMENT
@@ -23763,9 +24879,242 @@ service que les adhérents du syndicat propriétaire de la marque ou du label.
 	  - TXT_ASSOCIE: Code du travail - art. L481-3 (AbD)
 
 
+### Titre III : Les comités d'entreprise
+
+#### Chapitre VII : Amélioration des conditions de travail.
+
+###### Article L437-1
+
+Sans préjudice de l'application des règles figurant à l'article L. 432-4 du code du travail, le comité d'entreprise est
+associé à la recherche de solutions aux problèmes concernant la durée et les horaires de travail, notamment le travail de
+nuit, l'organisation matérielle, l'ambiance et les facteurs physiques du travail soit directement, soit par l'intermédiaire
+d'une commission spéciale qu'il crée à cet effet conformément aux articles L. 434-3 et R. 432-7 du code du travail.
+
+Le comité d'entreprise est à ce titre obligatoirement consulté avant l'introduction de nouvelles méthodes d'organisation du
+travail, avant toute transformation importante de postes de travail découlant de la modification de l'outillage ou de
+l'organisation du travail, avant les modifications des cadences et des normes de productivité, liées ou non à la rémunération
+du travail, ainsi qu'avant la réalisation de tout aménagement important intéressant l'ambiance et la sécurité du travail. En
+outre, le comité d'entreprise est consulté sur les mesures prises en vue de faciliter la mise ou la remise au travail des
+travailleurs handicapés, et notamment sur celles qui interviennent après attribution de l'aide financière prévue au troisième
+alinéa de l'article L. 323-9 .
+
+La création de la commission spéciale prévue à l'alinéa 1er du présent article est obligatoire dans les entreprises qui
+occupent plus de 300 salariés [*effectifs*]. Cette commission se réunit au moins deux fois par an [*périodicité*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 25 () JORF 1er juillet date d'entrée en vigueur 17 août 1976
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
+	  - Décret n°82-397 du 11 mai 1982 - art. 27 (M)
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+	  - Code du travail - art. Annexe à l'article R438-1 (VT)
+	  - Code du travail - art. L200-7 (AbD)
+	  - Code du travail - art. L437-2 (Ab)
+	  - Code du travail - art. R241-45 (Ab)
+	  - Code du travail - art. R437-1 (Ab)
+	  - Code du travail - art. R822-45 (VT)
+
+	**Abrogé par**:
+
+	  - Loi n°82-1097 1982-12-23 art. 12 JORF 26 décembre 1982 en vigueur le 1er juillet 1985
+
+	**Cite**:
+
+	  - Code du travail - art. L323-9 (Ab)
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L434-3 (T)
+	  - Code du travail - art. R432-7 (M)
+
+
+###### Article L437-2
+
+Au moins une fois par an [*périodicité*], le chef d'entreprise présente au comité d'entreprise ou à la commission prévue à
+l'article L. 437-1 :
+
+1. Un rapport écrit concernant les actions qui ont été menées au cours de l'année écoulée dans les domaines définis à
+l'article L. 437-1 ;
+
+2. Un programme détaillé comportant une évaluation chiffrée des actions qu'il se propose de mener dans les mêmes domaines
+pour l'année à venir.
+
+Le comité d'entreprise émet un avis sur le rapport et sur le programme ci-dessus prévu ; il peut, à ce titre, proposer des
+priorités ou demander des actions qui n'ont pas été envisagées par le chef d'entreprise.
+
+Lorsque certaines des actions qui avaient été prévues par le chef d'entreprise ou demandées par le comité d'entreprise n'ont
+pas été exécutées au cours de l'année concernée par le rapport, celui-ci doit énoncer les motifs de cette inexécution. Cette
+même règle est applicable en ce qui concerne les priorités prévues ci-dessus.
+
+Le procès-verbal de la réunion du comité d'entreprise ou de la commission spéciale consacrée à l'examen du rapport et du
+programme, ou le procès-verbal prévu à l'article L. 433-13 du code du travail, est obligatoirement joint à toute demande
+présentée par le chef d'entreprise en vue d'obtenir des marchés publics, des subventions, des primes de toute nature ou des
+avantages sociaux ou fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+	  - Arrêté du 4 avril 1984 - art. 4 (M)
+	  - Code des marchés publics - art. 251 (Ab)
+	  - Code des marchés publics - art. 41 (Ab)
+	  - Code du travail - art. Annexe à l'article R438-1 (VT)
+	  - Code du travail - art. L438-8 (AbD)
+	  - Code du travail - art. R437-1 (Ab)
+	  - Code du travail - art. R743-8 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L433-13 (M)
+	  - Code du travail - art. L437-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°82-1097 1982-12-23 art. 12 JORF 26 décembre 1982 en vigueur le 1er juillet 1985
+
+
+###### Article L437-3
+
+Le temps passé par les membres titulaires ou par leurs suppléants aux séances de la commission prévue à l'article L. 437-1
+est payé comme temps de travail. Il n'est pas déduit des vingt heures prévues au premier alinéa de l'article L. 434-1 du Code
+du travail [*crédit d'heures de délégation*] au bénéfice des membres titulaires du comité d'entreprise.
+
+Le temps passé par les membres titulaires ou, en cas d'empêchement, par leurs suppléants pour les visites de l'entreprise qui
+précèdent ou suivent les séances du comité d'entreprise ou de la commission prévue à l'article L. 437-1 et qui ont pour objet
+l'amélioration des conditions de travail est rémunéré comme temps de travail ; ce temps n'est pas déduit des vingt heures
+prévues au premier alinéa de l'article L. 434-1 au bénéfice des membres titulaires du comité d'entreprise. Le nombre d'heures
+consacré aux visites de l'entreprise sera déterminé par accord entre l'employeur et les salariés ; toutefois, un décret en
+fixera le minimum en fonction de la surface couverte développée de l'établissement, des effectifs occupés et de la nature de
+l'activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°74-481 1974-05-16
+	  - TXT_ASSOCIE: Code du travail - art. D437-1 (V)
+
+	**Cité par**:
+
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+	  - Code du travail - art. D437-1 (VT)
+	  - Code du travail - art. D437-3 (VT)
+	  - Code du travail - art. R743-9 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L434-1 ET L437-1
+
+	**Abrogé par**:
+
+	  - Décret n°82-1097 1982-12-23 art. 12 JORF 26 décembre 1982 en vigueur le 1er juillet 1985
+
+
+###### Article L437-4
+
+Des décrets en Conseil d'Etat fixent les mesures d'adaptation nécessaires à l'application des articles L. 437-1 à L. 437-3
+ci-dessus dans les entreprises qui sont tenues de constituer un comité d'entreprise ou des organismes de représentation du
+personnel qui en tiennent lieu en vertu soit des dispositions législatives ou réglementaires autres que celles figurant au
+code du travail, soit de stipulations conventionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+
+	**Cite**:
+
+	  - Code du travail L437-1 A L437-3
+
+	**Abrogé par**:
+
+	  - Décret n°82-1097 1982-12-23 art. 12 JORF 26 décembre 1982 en vigueur le 1er juillet 1985
+
+
 ### Titre IV : Intéressement et participation
 
 #### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.
+
+###### Article L441-3
+
+Tout contrat conclu en application de l'article L. 441-1 doit préciser notamment [*contenu*] :
+
+- la période pour laquelle il est conclu ;
+
+- les modalités d'intéressement retenues ;
+
+- les critères et les modes de calcul servant de base à l'intéressement ;
+
+- les modalités de répartition de la part consacrée à l'intéressement ;
+
+- l'époque des versements qui, dans le cas de participation collective aux résultats d'exploitation, doit obligatoirement
+être différente de celle concernant la rémunération du travail ;
+
+- les conditions dans lesquelles le comité d'entreprise ou une commission spécialisée créée par lui ou, à défaut, les
+délégués régulièrement élus du personnel disposent des moyens d'information nécessaires sur les conditions d'application des
+clauses du contrat.
+
+Les procédures contractuelles suivant lesquelles sont réglés les différends qui peuvent surgir dans l'application du contrat
+ou lors de sa révision.
+
+Quand il existe un comité d'entreprise, le contrat doit lui être soumis pour avis au moins quinze jours avant la
+signature// .
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : les dispositions de la présente ordonnance sont applicables au
+premier jour du premier exercice suivant.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-126 1959-01-07 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+	**Cité par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 4 (MMN)
+	  - Code du travail - art. R441-1 (Ab)
+	  - Code du travail - art. R441-10 (Ab)
+	  - Code du travail - art. R441-3 (VT)
+	  - Code du travail - art. R441-7 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L441-1 (M)
+
 
 ###### Article L441-4
 
@@ -23820,23 +25169,15 @@ premier exercice suivant la publication de l'ordonnance.*]
 	  - Code du travail L131-1 A L136-4
 
 
-###### Article L441-5
+###### Article L441-7
 
-Une commission départementale dont la composition est fixée par les décrets prévus à l'article L. 441-2 examine si le contrat
-répond aux conditions prévues par le présent chapitre et s'il y a lieu d'admettre l'entreprise au bénéfice des exonérations
-prévues à l'article L. 441-10.
+Dans le cas où l'une des prescriptions prévues par le présent chapitre cesse d'être respectée, l'homologation peut être
+retirée après observations des parties signataires de l'accord.
 
-La commission s'assure notamment que l'entreprise satisfait aux obligations prévues à l'article L. 441-4, qu'elle a effectué
-régulièrement le versement des impôts et des cotisations de sécurité sociale dont elle est redevable et qu'elle satisfait aux
-obligations résultant de la législation sur les comités d'entreprise et les délégués du personnel.
+**Nota:**
 
-La commission peut, si elle le désire, être éclairée sur la portée ou sur un point particulier du contrat, consulter
-l'employeur et les organisations syndicales signataires qui peuvent, de leur côté, demander à être entendus.
-
-La décision de la commission est notifiée à l'entreprise.
-
-Au cas où la commission estime que la demande peut être acceptée sous réserve de certaines modifications, elle peut ajourner
-sa décision pendant un délai de quinze jours après en avoir avisé les intéressés.
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : Le présent article n'est plus applicable à partir du premier jour du
+premier exercice suivant la publication de l'ordonnance.*]
 
 **Liens relatifs à cet article**
 
@@ -23844,144 +25185,27 @@ sa décision pendant un délai de quinze jours après en avoir avisé les intér
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
 	**Anciens textes**:
 
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 5 (T)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 6 bis (MMN)
 
 	**Cité par**:
 
-	  - Décret n°87-544 du 17 juillet 1987 - art. 3 (MMN)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 undecies (T)
-	  - Code du travail - art. L441-4 (AbD)
-	  - Code du travail - art. L441-6 (AbD)
-	  - Code du travail - art. L441-7 (M)
-	  - Code du travail - art. L441-8 (Ab)
-	  - Code du travail - art. R441-14 (Ab)
-	  - Code du travail - art. R441-2 (M)
-	  - Code du travail - art. R441-5 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 undecies (M)
+	  - Code du travail - art. L442-2 (M)
+	  - Code du travail - art. R441-7 (M)
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. L3315-1 (VD)
+	  - Code du travail - art. L3313-4 (VD)
 
 	**Cite**:
 
-	  - Code du travail - art. L441-10 (Ab)
-	  - Code du travail - art. L441-2 (M)
-	  - Code du travail L441-1 A L441-11
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R441-5 (M)
-
-
-###### Article L441-6
-
-En cas de refus de la commission départementale, et dans les quinze jours de la notification de la décision, l'entreprise
-peut demander que le dossier soit transmis à une commission nationale instituée auprès du ministre chargé du travail. La
-commission peut être également saisie à la demande de la commission départementale.
-
-Le dossier transmis à la commission nationale doit obligatoirement comporter l'avis de l'employeur et des organisations
-syndicales signataires.
-
-La commission nationale présidée par un membre du Conseil d'Etat ou un magistrat de la Cour des comptes et dont la
-composition est fixée par les décrets prévus à l'article L. 441-2 examine si le contrat répond aux conditions du présent
-chapitre et, s'il y a lieu d'admettre l'entreprise au bénéfice des exonérations prévues à l'article L. 441-10.
-
-La décision est, après avis de cette commission, prise conjointement par le ministre chargé de l'économie et des finances et
-le ministre chargé du travail. Cette décision est notifiée à l'entreprise.
-
-Dans le cas de dispositions particulières prévues au dernier alinéa de l'article L. 441-2 ci-dessus, une commission
-spécialisée peut être instituée auprès du commissaire général du Plan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 6 (T)
-
-	**Cité par**:
-
-	  - Décret n°2003-1295 du 26 décembre 2003 - art. Annexe I (VT)
-	  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 38 (V)
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 17 (V)
-	  - Code du travail - art. D440-1 (Ab)
-	  - Code du travail - art. L441-2 (AbD)
-	  - Code du travail - art. L441-3 (AbD)
-	  - Code du travail - art. L441-4 (AbD)
-	  - Code du travail - art. L441-7 (M)
-	  - Code du travail - art. L441-8 (Ab)
-	  - Code du travail - art. R441-15 (Ab)
-	  - Code du travail - art. R441-6 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L441-10 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R441-6 (M)
-
-
-###### Article L441-8
-
-Il est constitué auprès du ministre chargé du travail un comité national consultatif.
-
-Ce comité siège sous la présidence du ministre chargé du travail et comporte [*composition*] des représentants des
-administrations intéressées et des représentants des organisations syndicales d'employeurs et de travailleurs les plus
-représentatives sur le plan national. Les représentants de ces deux dernières catégories sont en nombre égal. Le comité peut
-faire appel à toute personne ayant une connaissance particulière ou une expérience effective des questions concernant
-l'intéressement du personnel à l'entreprise.
-
-Il peut demander à être informé des travaux des commissions départementales et de la commission nationale prévues
-respectivement aux articles L. 441-5 et L. 441-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 6 ter (MMN)
-
-	**Cité par**:
-
-	  - Code du travail - art. D440-1 (Ab)
-	  - Code du travail - art. L227-1 (M)
-	  - Code du travail - art. L441-2 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L441-5 (Ab)
-	  - Code du travail - art. L441-6 (Ab)
-
-
-###### Article L441-9
-
-Peuvent également bénéficier des exonérations mentionnées à l'article L. 441-10 des formules de rémunération collective non
-prévues à l'article L. 441-2 et permettant de réaliser, suivant les conditions de participation et de contrôle déterminées,
-une association effective des travailleurs à l'entreprise.
-
-Le comité consultatif est appelé à examiner ces formules et peut proposer au ministre chargé du travail de transmettre les
-dossiers de demandes d'exonérations correspondantes à la commission nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L441-10 (Ab)
-	  - Code du travail - art. L441-2 (M)
+	  - Code du travail L441-1 A L441-10
 
 
 ###### Article L441-10
@@ -24031,20 +25255,6 @@ premier exercice suivant la publication de l'ordonnance.*]
 	**Anciens textes**:
 
 	  - Ordonnance  1959-01-07 ART. 10
-
-
-###### Article L441-11
-
-Le bénéfice des exonérations est accordé pour une durée égale à celle de la validité du contrat d'association ou
-d'interessement, sans toutefois que cette durée puisse excéder trois ans [*limite*].
-
-Sur demande des employeurs intéressés l'exonération peut être renouvelée pour une même durée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
 
 
 #### Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises
@@ -24231,6 +25441,76 @@ premier exercice suivant la publication de l'ordonnance.*]
 	  - Code du travail - art. L3324-3 (VD)
 
 
+###### Article L442-4
+
+La répartition entre les salariés est calculée proportionnellement au salaire perçu dans la limite de plafonds fixés par
+décret. Toutefois, les accords prévus à l'article L. 442-5 peuvent décider que cette répartition sera calculée, dans la
+limite de la moitié de la réserve, suivant la durée de présence dans l'entreprise au cours de l'exercice, et, pour le solde,
+proportionnellement au salaire perçu dans la limite des plafonds prévus au présent alinéa .
+
+Bénéficient de la répartition les salariés comptant dans l'entreprise soit trois mois de présence au cours de l'exercice,
+soit six mois d'ancienneté .
+
+Pour l'application des dispositions qui précèdent le salarié lié par un contrat de travail temporaire est réputé compter au
+moins trois mois de présence dans son entreprise de travail temporaire s'il a été mis à la dispositions d'utilisateurs par
+cette entreprise pendant une durée totale de soixante jours au moins au cours de l'exercice.
+
+Les sommes qui, en raison des règles définies par le présent article n'auraient pu être mises en distribution, demeurent dans
+la réserve spéciale de participation des travailleurs pour être réparties au cours des exercices ultérieurs.
+
+Elles ne peuvent ouvrir droit au bénéfice des dispositions des articles L. 442-8 et L. 442-9 ci-après qu'au titre des
+exercices au cours desquels elles seront réparties.
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : les dispositions de la présente ordonnance sont applicables au
+premier jour du premier exercice suivant.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 59-126 1959-01-07
+	  - Ordonnance 67-693 1967-08-17
+	  - Ordonnance 67-694 1967-08-17
+	  - Loi n°68-1172 du 27 décembre 1968 - art. 62, v. init.
+	  - Loi n°72-1 1972-01-03 ART. 17
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 10 (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+	**Cité par**:
+
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 16 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1600-0 D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
+	  - Code de la sécurité sociale. - art. L136-2 (V)
+	  - Code de la sécurité sociale. - art. L136-7 (V)
+	  - Code de la sécurité sociale. - art. L651-1 (M)
+	  - Code du travail - art. L442-15 (M)
+	  - Code du travail - art. L442-6 (Ab)
+	  - Code du travail - art. L443-1-1 (AbD)
+	  - Code du travail - art. L444-12 (Ab)
+	  - Code du travail - art. L444-6 (AbD)
+	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L442-5 (M)
+	  - Code du travail - art. L442-8 (Ab)
+	  - Code du travail - art. L442-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R442-36 (Ab)
+
+
 ###### Article L442-8
 
 I.- Les sommes portées à la réserve spéciale de participation au cours d'un exercice sont déductibles pour l'assiette de
@@ -24369,6 +25649,77 @@ exercice suivant la publication de l'ordonnance.)
 
 	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 15 (T)
 	  - Ordonnance  1967-08-17 ART. 8
+
+
+###### Article L442-12
+
+Lorsque les parties intéressées n'ont pas, dans un délai d'un an, qui commence à courir à la clôture de l'exercice au titre
+duquel sont nés les droits des salariés, signé l'accord prévu à l'article L. 442-5 cette situation est constatée par
+l'inspecteur du travail et les dispositions de l'article L. 442-5 (2.) sont applicables de plein droit.
+
+Les sommes ainsi attribuées aux salariés sont versées à des comptes courants qui, sous réserve des cas prévus par décret en
+application de l'article L. 442-7 ci-dessus, sont bloqués pour huit ans [*durée*] ; elles portent l'intérêt à un taux fixé
+par décret. Le décret n. 68-104 du 31 janvier 1968 a fixé ce taux à 5 p. 100 à compter du premier jour du quatrième mois
+suivant la clôture de l'exercice au titre duquel la participation est attribuée. Un décret en Conseil d'Etat fixe les autres
+modalités de gestion de ces sommes.
+
+La provision prévue à l'article L. 442-9 ci-dessus ne peut être constituée .
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : les dispositions de la présente ordonnance sont applicables au
+premier jour du premier exercice suivant.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°68-104 1968-01-31
+	  - Code du travail - art. L442-5 (M)
+	  - Code du travail - art. L442-7 (M)
+	  - Code du travail - art. L442-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+	**Anciens textes**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 12 (T)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 17 (T)
+	  - Ordonnance  1967-08-17 ART. 11
+
+	**Cité par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 19 (T)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 21 (T)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 22 (M)
+	  - Arrêté du 17 juillet 1987 - art. 3 (Ab)
+	  - Arrêté du 10 octobre 2001 - art. 1 (V)
+	  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
+	  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
+	  - Code de la sécurité sociale. - art. L651-1 (M)
+	  - Code du travail - art. D442-2 (VT)
+	  - Code du travail - art. R442-12 (Ab)
+	  - Code du travail - art. R442-13 (Ab)
+	  - Code du travail - art. R442-14 (M)
+	  - Code du travail - art. R442-15 (Ab)
+	  - Code du travail - art. R442-16 (M)
+	  - Code du travail - art. R442-24 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3323-5 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R442-12 (Ab)
+	  - TXT_ASSOCIE: Code du travail D440-3
 
 
 ###### Article L442-13
@@ -24796,6 +26147,56 @@ premier exercice suivant la publication de l'ordonnance.*]
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L3332-17 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L443-2 (Ab)
+
+
+###### Article L443-7
+
+Les sommes versées annuellement par l'entreprise ne doivent pas dépasser trois mille francs par bénéficiaire.
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : Le présent article n'est plus applicable à partir du premier jour du
+premier exercice suivant la publication de l'ordonnance.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°66-537 du 24 juillet 1966 - art. 208-14 (Ab)
+	  - Loi n°66-537 du 24 juillet 1966 - art. 208-18 (Ab)
+	  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 37 (MMN)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 44 (T)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 82 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
+	  - Code de commerce. - art. L225-192 (Ab)
+	  - Code de commerce. - art. L225-196 (Ab)
+	  - Code de la sécurité sociale. - art. L137-5 (VT)
+	  - Code du travail - art. L227-1 (VT)
+	  - Code du travail - art. L442-5 (M)
+	  - Code du travail - art. L443-1-2 (AbD)
+	  - Code du travail - art. L443-2 (M)
+	  - Code du travail - art. L443-5 (AbD)
+	  - Code du travail - art. L443-8 (AbD)
+	  - Code du travail - art. L444-3 (AbD)
+	  - Code du travail - art. L444-6 (AbD)
+	  - Code du travail - art. L444-9 (AbD)
+	  - Code du travail - art. R443-1 (Ab)
+	  - Code du travail - art. R443-2 (M)
+	  - Code du travail - art. R443-9 (M)
+	  - Code du travail - art. R471-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
 
 	**Liens**:
 
@@ -27918,79 +29319,40 @@ habituelle d'interruption de l'activité du salarié.
 	  - TXT_ASSOCIE: Code du travail R436-1 A R436-7
 
 
-#### AMELIORATION DES CONDITIONS DE TRAVAIL .
-
-###### Article L437-1
-
-Sans préjudice de l'application des règles figurant à l'article L. 432-4 du code du travail, le comité d'entreprise est
-associé à la recherche de solutions aux problèmes concernant la durée et les horaires de travail, notamment le travail de
-nuit, l'organisation matérielle, l'ambiance et les facteurs physiques du travail soit directement, soit par l'intermédiaire
-d'une commission spéciale qu'il crée à cet effet conformément aux articles L. 434-3 et R. 432-7 du code du travail.
-
-Le comité d'entreprise est à ce titre obligatoirement consulté avant l'introduction de nouvelles méthodes d'organisation du
-travail, avant toute transformation importante de postes de travail découlant de la modification de l'outillage ou de
-l'organisation du travail, avant les modifications des cadences et des normes de productivité, liées ou non à la rémunération
-du travail, ainsi qu'avant la réalisation de tout aménagement important intéressant l'ambiance et la sécurité du travail.
-
-La création de la commission spéciale prévue à l'alinéa 1er du présent article est obligatoire dans les entreprises qui
-occupent plus de 300 salariés [*effectifs*]. Cette commission se réunit au moins deux fois par an [*périodicité*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
-	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
-	  - Décret n°82-397 du 11 mai 1982 - art. 27 (M)
-	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
-	  - Code du travail - art. Annexe à l'article R438-1 (VT)
-	  - Code du travail - art. L200-7 (AbD)
-	  - Code du travail - art. L437-2 (Ab)
-	  - Code du travail - art. R241-45 (Ab)
-	  - Code du travail - art. R437-1 (Ab)
-	  - Code du travail - art. R822-45 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L432-4 (T)
-	  - Code du travail - art. L434-3 (T)
-	  - Code du travail - art. R432-7 (M)
-
-
 ### INTERESSEMENT ET PARTICIPATION
 
 #### ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .
 
 ###### Article L441-1
 
-Dans les entreprises industrielles ou commerciales énumérées aux chapitres Ier et V du titre III du Livre Ier du présent
-code, l'association ou l'intéressement des travailleurs à leur entreprise pourra résulter :
+L'association ou l'intéressement des travailleurs à l'entreprise peut être assuré dans toute entreprise, quelles que soient
+la nature de son activité et de sa forme juridique, par un contrat conclu pour une durée de trois ans et passé :
 
-- soit d'un contrat ayant les effets d'une convention collective du travail conclu entre l'employeur et les représentants,
-membres du personnel de l'entreprise, de syndicats affiliés aux organisations syndicales les plus représentatives dans la
-branche d'activité au sens du titre III du Livre Ier du présent code ;
+Soit dans le cadre d'une convention collective ou d'un accord national, professionnel ou interprofessionnel ;
 
-- soit de l'application d'un contrat-type dont l'adoption peut être proposée par le chef d'entreprise au personnel qui doit
-le ratifier à la majorité des deux tiers . Les contrats-types proposés à la ratification du personnel d'une entreprise
-doivent avoir été préalablement conclus selon la procédure prévue aux articles L. 133-1 et suivants du présent code.
+Soit entre le chef d'entreprise et les représentants des syndicats affiliés aux organisations les plus représentatives dans
+la branche d'activité au sens des articles L. 133-1 et suivants du code du travail, ces représentants étant obligatoirement
+membres du personnel de l'entreprise ;
+
+Soit au sein du comité d'entreprise.
+
+Dans les entreprises employant moins de cinquante salariés, ils peuvent également résulter de l'application d'un contrat
+proposé, après avis des délégués du personnel, s'il en existe, par le chef d'entreprise au personnel et ratifié à la majorité
+des deux tiers de celui-ci.
+
+Toutefois, les dispositions du présent chapitre ne sont applicables [*condition*] aux entreprises publiques et aux sociétés
+nationales que si elles entrent dans le champ d'application défini au chapitre Ier du titre III du livre Ier.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-126 1959-01-07
-	  - Ordonnance 67-693 1967-08-17
-	  - Ordonnance 67-694 1967-08-17
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 1 (T)
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 2 (MMN)
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
+
+	**Anciens textes**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 1 (T)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 2 (MMN)
 
 	**Cité par**:
 
@@ -28020,38 +29382,35 @@ doivent avoir été préalablement conclus selon la procédure prévue aux artic
 
 	**Cite**:
 
-	  - Code du travail L133-1 ET S.
+	  - Code du travail - art. L133-1 (M)
+	  - Code du travail L131-1 A L131-3
 
 
 ###### Article L441-2
 
-Les contrats prévus à l'article précédent doivent pour ouvrir droit aux exonérations fiscales prévues à l'article L. 441-10 :
+Les contrats conclus en application de l'article L. 441-1 doivent, pour ouvrir droit aux exonérations prévues aux articles L.
+441-7 et L. 441-15 ci-après :
 
-1  Prévoir une participation de l'ensemble des travailleurs de l'entreprise sous forme :
+1. Prévoir une participation de l'ensemble des travailleurs de l'entreprise sous forme :
 
-- soit d'une participation collective aux résultats de l'entreprise ou de l'établissement ;
+Soit d'une participation collective aux résultats ;
 
-- soit d'une participation au capital ou à une opération d'auto-financement ;
+Soit d'une participation au capital ou à une opération d'autofinancement ;
 
-- soit d'une participation à l'accroissement de la productivité.
+Soit d'une participation à l'accroissement de la productivité ;
 
-Ces participations sont réparties entre les diverses catégories de personnel et les divers agents.
+Soit de tout autre mode de rémunération collective permettant de réaliser une association effective des travailleurs à
+l'entreprise ;
 
-2  Instituer un système d'information du personnel et de vérification des modalités d'exécution de l'accord.
+2. Instituer un système d'information du personnel et de vérification des modalités d'exécution de l'accord ;
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis du comité
-consultatif prévu à l'article L. 441-8 ci-après. Ces décrets précisent notamment la périodicité des réunions de l'organisme
-appelé à suivre l'application du contrat et les conditions dans lesquelles il prend connaissance des documents de base
-servant à la détermination de la participation des travailleurs ainsi que de toute autre pièce dont la communication a été
-prévue au contrat.
+3. Avoir été déposés au greffe du tribunal d'instance du lieu où ils ont été conclus ;
+
+4. Avoir été homologués par l'autorité administrative.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-126 1959-01-07
-	  - Ordonnance 67-693 1967-08-17
-	  - Ordonnance 67-694 1967-08-17
 
 	**Codifié par**:
 
@@ -28081,130 +29440,62 @@ prévue au contrat.
 	**Cite**:
 
 	  - Code du travail - art. L441-1 (M)
-	  - Code du travail - art. L441-10 (Ab)
-	  - Code du travail - art. L441-8 (Ab)
+	  - Code du travail L441-1, L441-4 ET L441-10
 
+	**Liens**:
 
-###### Article L441-3
-
-Tout contrat conclu en application de l'article L. 441-1 doit préciser notamment [*contenu*] :
-
-- la période pour laquelle il est conclu ;
-
-- les modalités d'intéressement retenues ;
-
-- les critères et les modes de calcul servant de base à l'intéressement ;
-
-- les modalités de répartition de la part consacrée à l'intéressement ;
-
-- l'époque des versements qui, dans le cas de participation collective aux résultats d'exploitation, doit obligatoirement
-être différente de celle concernant la rémunération du travail ;
-
-- les conditions dans lesquelles le comité d'entreprise ou une commission spécialisée créée par lui ou, à défaut, les
-délégués régulièrement élus du personnel disposent des moyens d'information nécessaires sur les conditions d'application des
-clauses du contrat.
-
-Les procédures contractuelles suivant lesquelles sont réglés les différends qui peuvent surgir dans l'application du contrat
-ou lors de sa révision.
-
-Quand il existe un comité d'entreprise, le contrat doit lui être soumis pour avis au moins quinze jours avant la signature ou
-avant sa ratification. S'il s'agit d'un contrat-type proposé au personnel de l'entreprise.
-
-Il doit être déposé au secrétariat du conseil de prud'hommes ou, à défaut, au greffe du tribunal d'instance du lieu où il a
-été conclu. Le dépôt est fait aux soins de la partie la plus diligente et à frais communs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 59-126 1959-01-07 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°87-544 du 17 juillet 1987 - art. 4 (MMN)
-	  - Code du travail - art. R441-1 (Ab)
-	  - Code du travail - art. R441-10 (Ab)
-	  - Code du travail - art. R441-3 (VT)
-	  - Code du travail - art. R441-7 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L441-1 (M)
-
-
-###### Article L441-7
-
-Dans le cas où l'une des conditions prévues par le présent chapitre cesse d'être remplie, le bénéfice des exonérations
-accordées suivant la procédure instituée aux articles L. 441-5 et L. 441-6 peut, à la demande d'une organisation syndicale
-signataire ou de la commission départementale prévue à l'article L. 441-5, être retiré par l'autorité qui a accordé des
-exonérations.
-
-La procédure prévue à l'article L. 441-6 est applicable aux décisions de la commission départementale en application du
-présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 6 bis (MMN)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 undecies (M)
-	  - Code du travail - art. L442-2 (M)
-	  - Code du travail - art. R441-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3313-4 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L441-5 (Ab)
-	  - Code du travail - art. L441-6 (Ab)
-	  - Code du travail L441-1 A L441-10
+	  - TXT_ASSOCIE: Code du travail - art. R441-5 (M)
 
 
 #### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
 
 ##### REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .
 
-###### Article L442-4
+###### Article L442-5
 
-La répartition entre les salariés est calculée proportionnellement au salaire perçu dans la limite de plafonds fixés par
-décret.
+/R/La nature et les modalités de gestion des droits reconnus aux salariés sur les sommes définies à l'article L. 442-2 ci-
+dessus sont fixées par accord entre les parties intéressées dans les conditions prévues à l'article L. 442-11/R/DECR.0808
+19-09-1974 : Les conditions dans lesquelles les salariés, sont informés de l'application des dispositions du présent chapitre
+ainsi que la nature et les modalités de gestion des droits reconnus aux salariés sur les sommes définies à l'article L. 442-2
+ci-dessus sont déterminées par voie d'accord entre les parties intéressées conclu dans les conditions prévues à l'article L.
+442-11.
 
-Peuvent seuls bénéficier de la répartition les salariés comptant dans l'entreprise soit trois mois de présence au cours de
-l'exercice
+Pour être applicables, ces accords doivent avoir fait l'objet d'une déclaration de conformité par l'autorité
+administrative// .
 
-Pour l'application des dispositions qui précèdent le salarié lié par un contrat de travail temporaire est réputé compter au
-moins trois mois de présence dans son entreprise de travail temporaire s'il a été mis à la dispositions d'utilisateurs par
-cette entreprise pendant une durée totale de soixante jours au moins au cours de l'exercice.
+Ces accords peuvent prévoir :
 
-Les sommes qui, en raison des règles définies par le présent article n'auraient pu être mises en distribution, demeurent dans
-la réserve spéciale de participation des travailleurs pour être réparties au cours des exercices ultérieurs.
+1. L'attribution d'actions ou de coupures d'actions [*valeurs mobilières*] de l'entreprise, ces actions ou coupures d'actions
+provenant d'une incorporation de réserves au capital ou d'un rachat préalable effectué par l'entreprise elle-même dans les
+conditions fixées par l'article 217-1 de la loi n. 66-537 du 24 juillet 1966 sur les sociétés commerciales, modifiées par
+l'ordonnance n. 67-695 du 17 août 1967 ;
 
-Elles ne peuvent ouvrir droit au bénéfice des dispositions des articles L. 442-8 et L. 442-9 ci-après qu'au titre des
-exercices au cours desquels elles seront réparties.
+2. L'affectation des sommes constituant la réserve spéciale prévue à l'article L. 442-2 ci-dessus à un fonds que l'entreprise
+doit consacrer à des investissements. Les salariés ont sur l'entreprise un droit de créance égal au montant des sommes
+versées au fonds. Cette créance peut notamment prendre la forme d'obligations, d'obligations participantes ou de comptes
+courants bloqués ;
+
+3. Le versement soit à des organismes de placement étrangers à l'entreprise, désignés par décret, soit à des comptes ouverts
+au nom des intéressés en application de plans d'épargne d'entreprise remplissant les conditions fixées par le chapitre III du
+présent titre.
+
+Les salariés qui ont adhéré à un plan d'épargne d'entreprise bénéficiant des avantages fiscaux prévus audit chapitre peuvent
+obtenir de l'entreprise que les sommes qui leur sont attribuées par celle-ci, au titre de la participation aux fruits de
+l'expansion, soient affectées à la réalisation de ce plan, si ce dernier le prévoit ; le plan est, en ce cas, alimenté par
+les sommes ainsi affectées et, s'il y a lieu et suivant les modalités qu'il fixe, par les versements complémentaires de
+l'entreprise et les versements opérés volontairement par les salariés.
+
+Les entreprises sont autorisées à payer directement aux salariés les sommes leur revenant lorsque celles-ci n'atteignent
+pas /R/20 F par personne/R/DECR.0808 19-09-1974 : un montant fixé par décret// .
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Ordonnance 59-126 1959-01-07
-	  - Ordonnance 67-693 1967-08-17
-	  - Ordonnance 67-694 1967-08-17
-	  - Loi n°68-1172 du 27 décembre 1968 - art. 62, v. init.
-	  - Loi n°72-1 1972-01-03 ART. 17
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 10 (MMN)
+	  - Loi n°66-537 1966-07-24 ART. 217-1
+	  - Ordonnance 67-695 1967-08-17
+	  - Code du travail - art. L442-2 (Ab)
+	  - Code du travail L443-1 A L443-10
 
 	**Codifié par**:
 
@@ -28212,28 +29503,62 @@ exercices au cours desquels elles seront réparties.
 
 	**Cité par**:
 
+	  - Loi n°78-763 du 19 juillet 1978 - art. 35 (V)
+	  - Loi n°79-594 du 13 juillet 1979 - art. 32 (M)
+	  - Loi n°80-834 du 24 octobre 1980 - art. 11 (V)
+	  - Décret n°80-935 du 26 novembre 1980 - art. 5 (V)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 12 (T)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 15 (T)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 17 (T)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 18 (MMN)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 21 (T)
+	  - Arrêté du 17 juillet 1987 - art. 5 (Ab)
+	  - Décret n°89-623 du 6 septembre 1989 - art. 7 (M)
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 16 (V)
+	  - Arrêté du 10 octobre 2001 - art. 2 (V)
+	  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
+	  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (V)
+	  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1600-0 D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 bis AA (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
-	  - Code de la sécurité sociale. - art. L136-2 (V)
 	  - Code de la sécurité sociale. - art. L136-7 (V)
 	  - Code de la sécurité sociale. - art. L651-1 (M)
-	  - Code du travail - art. L442-15 (M)
-	  - Code du travail - art. L442-6 (Ab)
+	  - Code du travail - art. L133-12 (M)
+	  - Code du travail - art. L133-17 (AbD)
+	  - Code du travail - art. L442-10 (AbD)
+	  - Code du travail - art. L442-11 (Ab)
+	  - Code du travail - art. L442-12 (AbD)
+	  - Code du travail - art. L442-13 (AbD)
+	  - Code du travail - art. L442-15 (AbD)
+	  - Code du travail - art. L442-4 (AbD)
+	  - Code du travail - art. L442-6 (AbD)
+	  - Code du travail - art. L442-7 (AbD)
+	  - Code du travail - art. L442-8 (AbD)
 	  - Code du travail - art. L443-1-1 (AbD)
-	  - Code du travail - art. L444-12 (Ab)
-	  - Code du travail - art. L444-6 (AbD)
+	  - Code du travail - art. L444-9 (AbD)
+	  - Code du travail - art. R442-10 (M)
+	  - Code du travail - art. R442-11 (Ab)
+	  - Code du travail - art. R442-12 (M)
+	  - Code du travail - art. R442-13 (M)
+	  - Code du travail - art. R442-14 (Ab)
+	  - Code du travail - art. R442-16 (M)
+	  - Code du travail - art. R442-7 (M)
+	  - Code du travail - art. R443-1-1 (M)
 	  - Code général des impôts, CGI. - art. 1600-0 J (VT)
+	  - Code monétaire et financier - art. L542-1 (V)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code du travail - art. L442-5 (M)
-	  - Code du travail - art. L442-8 (Ab)
-	  - Code du travail - art. L442-9 (Ab)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 11 (T)
+	  - Ordonnance 1967-08-18 ART. 4
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R442-36 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R442-10 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R442-9 (Ab)
 
 
 ###### Article L442-6
@@ -28472,69 +29797,6 @@ Soit au sein du comité d'entreprise.
 	  - Code du travail L133-1 ET 5
 
 
-###### Article L442-12
-
-Lorsque les parties intéressées n'ont pas, dans un délai d'un an, qui commence à courir à la clôture de l'exercice au titre
-duquel sont nés les droits des salariés, signé l'accord prévu à l'article L. 442-5 cette situation est constatée par
-l'inspecteur du travail et les dispositions de l'article L. 442-5 (2.) sont applicables de plein droit.
-
-Les sommes ainsi attribuées aux salariés sont versées à des comptes courants qui, sous réserve des cas prévus par décret en
-application de l'article L. 442-7 ci-dessus, sont bloqués pour huit ans [*durée*] ; elles portent l'intérêt à un taux fixé
-par décret. Le décret n. 68-104 du 31 janvier 1968 a fixé ce taux à 5 p. 100 à compter du premier jour du quatrième mois
-suivant la clôture de l'exercice au titre duquel la participation est attribuée. Un décret en Conseil d'Etat fixe les autres
-modalités de gestion de ces sommes.
-
-La provision prévue à l'article L. 442-9 ci-dessus ne peut dépasser un montant égal à la moitié des sommes portées à la
-réserve spéciale de participation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°68-104 1968-01-31
-	  - Code du travail - art. L442-5 (M)
-	  - Code du travail - art. L442-7 (M)
-	  - Code du travail - art. L442-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 12 (T)
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 17 (T)
-	  - Ordonnance  1967-08-17 ART. 11
-
-	**Cité par**:
-
-	  - Décret n°87-544 du 17 juillet 1987 - art. 19 (T)
-	  - Décret n°87-544 du 17 juillet 1987 - art. 21 (T)
-	  - Décret n°87-544 du 17 juillet 1987 - art. 22 (M)
-	  - Arrêté du 17 juillet 1987 - art. 3 (Ab)
-	  - Arrêté du 10 octobre 2001 - art. 1 (V)
-	  - Loi n°2004-804 du 9 août 2004 - art. 5 (V)
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
-	  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
-	  - Code de la sécurité sociale. - art. L651-1 (M)
-	  - Code du travail - art. D442-2 (VT)
-	  - Code du travail - art. R442-12 (Ab)
-	  - Code du travail - art. R442-13 (Ab)
-	  - Code du travail - art. R442-14 (M)
-	  - Code du travail - art. R442-15 (Ab)
-	  - Code du travail - art. R442-16 (M)
-	  - Code du travail - art. R442-24 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3323-5 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R442-12 (Ab)
-	  - TXT_ASSOCIE: Code du travail D440-3
-
-
 ##### REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS AUX FRUITS DE L'EXPANSION DES ENTREPRISES DE PLUS  DE CENT SALARIES .
 
 ###### Article L442-15
@@ -28633,44 +29895,6 @@ la date d'acquisition des titres, à moins que les salariés aient, auparavant, 
 
 	  - TXT_ASSOCIE: Code du travail - art. L443-2 (Ab)
 	  - TXT_ASSOCIE: Code du travail - art. R443-8 (Ab)
-
-
-###### Article L443-7
-
-Les sommes versées annuellement par l'entreprise ne doivent pas dépasser dix pour cent du montant du salaire annuel ni 2.000
-F par bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-14 (Ab)
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-18 (Ab)
-	  - Loi n°78-763 du 19 juillet 1978 - art. 40 (V)
-	  - Décret n°87-544 du 17 juillet 1987 - art. 37 (MMN)
-	  - Décret n°87-544 du 17 juillet 1987 - art. 44 (T)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 82 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
-	  - Code de commerce. - art. L225-192 (Ab)
-	  - Code de commerce. - art. L225-196 (Ab)
-	  - Code de la sécurité sociale. - art. L137-5 (VT)
-	  - Code du travail - art. L227-1 (VT)
-	  - Code du travail - art. L442-5 (M)
-	  - Code du travail - art. L443-1-2 (AbD)
-	  - Code du travail - art. L443-2 (M)
-	  - Code du travail - art. L443-5 (AbD)
-	  - Code du travail - art. L443-8 (AbD)
-	  - Code du travail - art. L444-3 (AbD)
-	  - Code du travail - art. L444-6 (AbD)
-	  - Code du travail - art. L444-9 (AbD)
-	  - Code du travail - art. R443-1 (Ab)
-	  - Code du travail - art. R443-2 (M)
-	  - Code du travail - art. R443-9 (M)
-	  - Code du travail - art. R471-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
 
 
 ### EDUCATION OUVRIERE ET FORMATION SYNDICALE
@@ -31973,6 +33197,39 @@ deux organismes s'il y a lieu.
 	**Anciens textes**:
 
 	  - Code du travail 2185
+
+
+###### Article L611-15
+
+Les infractions aux dispositions des articles L. 125-1, L. 125-3, L. 341-3 (alinéa 2) et L. 341-7-1 ou les faits
+éventuellement constitutifs du préjudice causé au salarié sont constatés par les fonctionnaires chargés du contrôle de
+l'application du droit du travail et par les officiers et agents de police judiciaire.
+
+Les agents de la direction générale des impôts et de la direction générale des douanes sont, en outre, compétents pour
+constater, au moyen de procès-verbaux [*condition de forme*] transmis directement au parquet, les infractions aux
+dispositions de l'article L. 125-1 [*marchandage*] . Pour effectuer cette constatation, les agents précités disposent des
+pouvoirs d'investigation accordés par les textes particuliers qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L125-1 (M)
+	  - Code du travail - art. L125-3 (M)
+	  - Code du travail L341-3 AL. 2 ET L341-7-1
+
+	**Cité par**:
+
+	  - Code du travail - art. L125-3-2 (AbD)
+	  - Code du travail - art. L325-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8271-14 (VD)
 
 
 ### OBLIGATIONS DES EMPLOYEURS .
@@ -36682,6 +37939,64 @@ publication de la présente ordonnance, les dispositions de l'article L742-7.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L5549-3 (V)
+
+
+#### Chapitre III : Personnel des entreprises de manutention des ports.
+
+###### Article L743-1
+
+Dans les ports où il existe, en application du livre IV du code des ports maritimes, un bureau central de la main-d'oeuvre,
+les dispositions du chapitre VII, du titre III, du livre IV [*amélioration des conditions de travail*] sont mises en oeuvre
+par une commission paritaire spéciale qui est substituée, pour l'application desdites dispositions, au comité d'entreprise ou
+à la commission prévue à l'article L. 437-1.
+
+La commission paritaire spéciale est rattachée à l'organisme constitué par les entreprises de chaque port en application de
+l'article 7 de la loi n 72-1169 du 23 décembre 1972 garantissant aux travailleurs salariés une rémunération mensuelle
+minimale.
+
+Un décret en Conseil d'Etat détermine la composition de cette commission, ainsi que les règles applicables à la constitution
+de celle-ci et à son fonctionnement.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 : 
+
+Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction
+issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeurent en vigueur, dans leur rédaction en vigueur à la date de
+publication de la présente ordonnance, les dispositions de l'article L743-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des ports maritimes LIVRE :IV, TITRE III, CHAP. VII
+	  - Code du travail
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4 JORF 30 décembre
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-21 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R743-10 (Ab)
+	  - Code du travail - art. R743-6 (Ab)
+	  - Code du travail - art. R743-8 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R743-6 (V)
 
 
 ### Titre V : Voyageurs, représentants et placiers.
@@ -49685,6 +51000,29 @@ les collèges d'enseignement technique [*C.E.T.*] où fonctionnent déjà des "s
 	  - Code du travail R119-6 A R119-25
 
 
+###### Article R119-44
+
+Pour l'application de l'article R. 119-9 [*autorisation pour continuer la formation des apprentis selon les mêmes modalités
+que pendant l'année 1971-1972*], la période du 1er juillet 1972 au 30 juin 1973 est remplacée par celle du 1er janvier 1973
+au 30 juin 1973. [*abrogé par le décret 74-808 : La demande d'autorisation prévue par le deuxième alinéa dudit article doit
+être adressée au préfet dans le mois suivant la date de publication du présent décret.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+	  - Décret n°72-1208 du 27 décembre 1972 - art. 14 ()
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R119-9 (Ab)
+
+
 ###### Article R119-45
 
 Pour l'application de l'article R. 119-29, la date du 31 décembre 1974  est substituée à celle du 31 décembre 1973.
@@ -49870,6 +51208,39 @@ d'enseignement, technique ou agricole.
 	  - Code du travail - art. R119-64 (Ab)
 
 
+###### Article R119-61
+
+Les commissions sont valables pour une durée de trois ans, sauf en ce qui concerne les personnels visés à l'article R. 119-64
+[*antérieurement au décret 74-808 : R. 119-68*]. Elles sont renouvelables sans limitation de durée. Elles sont retirées soit
+sur la demande de l'intéressé, soit lorsque celui-ci cesse de remplir l'une des conditions mentionnées à l'article R. 119-59,
+soit, s'il y a faute ou insuffisance professionnelle, selon les formes prévues à l'article R. 119-62.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-50 1973-01-09 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°75-810 du 28 août 1975 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R119-59 (Ab)
+	  - Code du travail - art. R119-62 (Ab)
+	  - Code du travail - art. R119-64 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-67 (M)
+	  - Code du travail - art. R119-68 (VT)
+
+
 ##### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
 
 ###### Article R119-65
@@ -49932,6 +51303,169 @@ général les procédés de fabrication dont ils pourraient prendre connaissance
 #### Chapitre II : Contrat de travail
 
 ##### Section 1 : Règles générales.
+
+###### Article R122-1
+
+L'indemnité minimum de licenciement prévue à l'article L. 122-9 ne peut être inférieure à une somme calculée, par année de
+service dans l'entreprise, sur la base de vingt heures de salaire pour les travailleurs rémunérés à l'heure et de un dixième
+de mois pour les travailleurs rémunérés au mois. Le salaire servant de base au calcul de l'indemnité est le salaire moyen des
+trois derniers mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail LIVRE I, TITRE II, CHAP. II, PAR. 1 BIS
+	  - Décret n°73-808 1973-08-10 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°80-897 du 18 novembre 1980 - art. 19 (V)
+	  - Code du travail - art. R351-56 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cite**:
+
+	  - Code du travail - art. L122-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R122-2 (M)
+
+
+###### Article R122-2
+
+La lettre recommandée prévue à l'article L. 122-14 indique l'objet de l'entretien [*licenciement*] entre le salarié et
+l'employeur.
+
+Elle précise [*mentions*] en outre, la date, l'heure et le lieu de cet entretien et rappelle que le salarié peut se faire
+assister pour cet entretien par une personne de son choix appartenant au personnel de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail LIVRE I, TITRE II, CHAP. II, PAR. 1 BIS
+	  - Décret n°73-808 1973-08-10 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 24 (V)
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (Ab)
+
+
+###### Article R122-3
+
+Le salarié qui entend user de la faculté ouverte par l'article L. 122-14-2 doit formuler sa demande par lettre recommandée,
+avec demande d'avis de réception, avant l'expiration d'un délai de dix jours à compter de la date [*point de départ*] à
+laquelle il quitte effectivement son emploi.
+
+L'employeur doit faire connaître les causes réelles et sérieuses du licenciement par lettre recommandée avec demande d'avis
+de réception envoyée au plus tard [*limite*] dix jours après la présentation de la lettre du salarié prévue à l'alinéa ci-
+dessus.
+
+Les délais [*calcul*] prévus au présent article, lesquels ne sont pas des délais francs, expirent le dernier jour à vingt-
+quatre heures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail LIVRE I, TITRE II, CHAP. II, PAR. 1 BIS
+	  - Décret n°73-808 1973-08-10 ART. 3, 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 24 (V)
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
+	  - Code du travail - art. R122-3-1 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cite**:
+
+	  - Code du travail - art. L122-2 (T)
+
+
+###### Article R122-3-1
+
+Dans le cas où les délais prévus tant par le livre Ier, titre II, chapitre II, section II du code du travail (partie
+législative) que par l'article R. 122-3 expirent normalement un samedi, un dimanche ou un jour férié ou chômé, ils sont
+prorogés jusqu'au premier jour ouvrable suivant.
+
+**Nota:**
+
+[*Nota - Décret 78-389 du 17 mars 1978 art. 24 : dispositions applicables au personnel navigant des entreprises d'armement
+maritime.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-808 1973-08-10 ART. 5
+	  - Code du travail livre 1, titre 2, chapitre 2, paragraphe 1 bis
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 24 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R122-3 (M)
+	  - Code du travail L122-4 A L122-17
+
+
+###### Article R122-4
+
+Lorsque les contestations auxquelles peuvent donner lieu l'application des articles L. 122-4 à L. 122-14-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°74-808 1974-09-19 art. 37 JORF 29 septembre 1974
+
+	**Anciens textes**:
+
+	  - Code du travail 23 al. 11
+
+	**Cite**:
+
+	  - Code du travail L122-4 à L122-14-8
+
 
 ###### Article R122-5
 
@@ -57626,6 +59160,60 @@ des conditions d'hygiène correspondant, dans toute la mesure du possible, à ce
 	  - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
+###### Article R232-28
+
+Les cabinets d'aisances ne doivent pas communiquer directement avec les locaux fermés où le personnel est appelé à séjourner.
+Il doivent être aménagés et ventilés de manière à ne dégager aucune odeur.
+
+Ils doivent être convenablement éclairés ;
+
+Le sol et les parois sont en matériaux imperméables ;
+
+Les peintures sont d'un ton clair ;
+
+Les portes sont pleines et munies d'un loquet.
+
+Il doit y avoir au moins un cabinet et un urinoir pour vingt-cinq [*nombre*] hommes, un cabinet pour vingt-cinq femmes. Dans
+les établissements occupant plus de cinquante femmes des cabinets à siège sont prévus pour les femmes en état de grossesse.
+
+Dans les établissements occupant un personnel mixte, les cabinets d'aisance sont nettement séparés pour le personnel masculin
+et le personnel féminin.
+
+Les cabinets d'aisance et les urinoirs doivent être complètement nettoyés au moins une fois par jour [*fréquence*].
+
+Les effluents sont évacués conformément aux règlements sanitaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R232-44 (M)
+	  - TXT_ASSOCIE: Décret n°65-48 1965-01-08 ART. 186 : dérogation dans les chantiers du bâtiment et des travaux public de courte durée
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+
+	**Cité par**:
+
+	  - Code du travail - art. R232-51 (T)
+	  - Décret n°65-48 du 8 janvier 1965 - art. 186 (M)
+	  - Décret n°65-48 du 8 janvier 1965 - art. 205 (Ab)
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 17 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1913-07-10 ART. 4
+	  - Décret n°1946-08-05
+	  - Décret n°1947-08-01
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
+
+
 ##### SECTION 4 : SIEGES.
 
 ###### Article R232-29
@@ -57711,6 +59299,42 @@ seraient pas ventilés par une cheminée doivent être pourvus d'un mode de vent
 	**Cite**:
 
 	  - Code du travail - art. L231-1 (M)
+
+
+###### Article R232-32
+
+Les locaux affectés au couchage doivent avoir une hauteur moyenne de 2, 60 mètres au moins [*dimensions*]. Une hauteur
+moindre, mais supérieure à 2, 40 mètres, pourra être tolérée dans ceux des locaux qui ont été établis avant le 4 août 1904
+[*date limite*].
+
+Quand le plafond fait corps avec le toit, il doit être imperméable et revêtu d'un enduit sans interstices.
+
+A défaut d'une maçonnerie épaisse de 30 cm au moins, les parois extérieures doivent comprendre une couche d'air ou de
+matériaux isolants d'une épaisseur suffisante pour protéger les occupants contre les variations brusques de température.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1913-08-13 ART. 2
+
+	**Cité par**:
+
+	  - Décret n°65-48 du 8 janvier 1965 - art. 194 (M)
+	  - Décret n°65-48 du 8 janvier 1965 - art. 195 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. R232-44 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
 ###### Article R232-33
@@ -58352,6 +59976,43 @@ En cas de récidive dans le délai d'un an, les contrevenants seront passibles d
 	  - Décret n°72-985 1972-10-24 art. 14
 
 
+###### Article R260-2
+
+L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux prescriptions
+mentionnées aux articles R. 260-1, R. 261-1 /M/R. 261-2/M/DECR.0808 19-09-1974 : R. 261-5//, R. 261-6, R. 261-7.
+
+En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
+relevé de nouvelles infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R260-1 (Ab)
+	  - Code du travail - art. R261-1 (M)
+	  - Code du travail - art. R261-2 (Ab)
+	  - Code du travail - art. R261-5 (M)
+	  - Code du travail - art. R261-6 (M)
+	  - Code du travail - art. R261-7 (M)
+	  - Code du travail - art. R261-8 (M)
+	  - Code du travail - art. R262-1 (M)
+	  - Code du travail - art. R262-3 (M)
+	  - Code du travail - art. R262-6 (M)
+	  - Code du travail - art. R262-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R260-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 16
+
+
 #### Chapitre Ier : Conditions du travail
 
 ##### Section 1 : Age d'admission
@@ -58393,31 +60054,6 @@ En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.
 	**Anciens textes**:
 
 	  - Décret n°72-985 1972-10-24 art. 15
-
-
-##### Paragraphe 2 : Emploi des enfants dans les spectacles et les professions ambulantes.
-
-###### Article R261-2
-
-Les infractions à l'article L. 211-13 et aux règlements pris pour son application seront passibles d'une amende de 80 F à 160
-F.
-
-En cas de récidive dans le délai d'un an, les contrevenants seront passibles d'une amende de 160 F à 600 F [*montant*] .
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°57-821 du 23 juillet 1957 - art. 9 (Ab)
-	  - Code du travail - art. R260-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L211-13 (M)
 
 
 ##### Section 2 : Durée du travail
@@ -58792,6 +60428,40 @@ portée à 12.000 F (1).
 	**Anciens textes**:
 
 	  - Décret n°72-985 1972-10-24 art. 15
+
+
+##### Section 4 : Repos des femmes en couches.
+
+###### Article R262-7
+
+Seront passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions aux articles L. 224-1 à L. 224-5 ainsi
+qu'aux règlements pris pour leur application, et aux articles R. 224-1 à R. 224-23 [*congé maternité*]. En cas de récidive
+dans le délai d'un an, l'amende pourra être portée à 12.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Cite**:
+
+	  - Code du travail L224-1 à L224-5, R224-1 à R224-23
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ##### Section 5 : Congés non rémunérés.
@@ -59611,6 +61281,46 @@ de formation d'apprentis que prévoit l'article L. 117-9.
 
 ##### DISPOSITIONS FINANCIERES .
 
+###### Article R119-2
+
+En application des articles L. 118-1 et L. 118-2 sont admis en exonération de la taxe d'apprentissage et sont pris en compte
+pour déterminer les sommes consacrées par une entreprise au financement de l'apprentissage au sens de l'article précédent :
+
+a) Une partie du salaire versé aux apprentis, égale par apprenti :
+
+/M/A 15 p. 100 du S.M.I.C. pendant le premier semestre d'apprentissage ;
+
+A 10 p. 100 du S.M.I.C. pendant le ou les semestres suivants /M/DECR.0808 19-09-1974 : A 11 p. 100 du S.M.I.C.// ;
+
+b) Les concours financiers apportés aux centres de formation d'apprentis institués par les articles L. 116-1 à L. 116-8 ;
+
+c) A défaut, le versement au trésor public prévu à l'article 4-1 de la loi n. 71-578 du 16 juillet 1971.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+	  - Décret n°74-36 1974-01-17 JORF 19 janvier
+	  - Décret n°72-280 1972-04-12 ART. 59
+
+	**Cite**:
+
+	  - Loi n°71-578 1971-07-16 ART. 4-1
+	  - Code du travail - art. L118-1 (M)
+	  - Code du travail - art. L118-2 (M)
+	  - Code du travail L116-1 A L116-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-27 (Ab)
+	  - Code du travail - art. R119-3 (VT)
+
+
 ###### Article R119-3
 
 Les concours financiers mentionnés à l'article R. 119-2 b ci-dessus sont destinés soit à assurer le fonctionnement ou
@@ -59689,18 +61399,23 @@ dont ils auront obtenu l'exonération et celles pour lesquelles ils auraient pu 
 
 ###### Article R119-5
 
-Le concours financier prévu à l'article précédent est versé par le centre dans lequel est inscrit l'apprenti intéressé à la
-fin de chaque semestre de formation, pour les salaires payés au cours du semestre, sous réserve d'une assiduité satisfaisante
-de l'apprenti aux cours et autres activités pédagogiques organisées par le centre de formation d'apprentis et à la condition
-qu'aucune insuffisance grave n'ait été constatée dans la formation pratique reçue dans l'entreprise.
+Le concours financier prévu à l'article précédent est versé par le centre dans lequel est inscrit l'apprenti intéressé, au
+début de chaque année, pour les salaires payés au cours de l'année précédente, sous réserve de la constatation de l'assiduité
+aux cours et autres activités pédagogiques organisées par le centre de formation d'apprentis et à la condition qu'aucune
+insuffisance grave n'ait été constatée dans les formations pratiques reçues dans l'entreprise. Toutefois, sur sa demande,
+l'employeur peut bénéficier en cours d'année d'une avance forfaitaire.
 
 Les sommes nécessaires sont prélevées par l'organisme gestionnaire du centre sur le reliquat du produit des versements qu'il
-reçoit des employeurs en application de l'article 60 après prélèvement des sommes nécessaires au fonctionnement et,
+reçoit des employeurs en application de l'article R. 119-3 après prélèvement des sommes nécessaires au fonctionnement et,
 éventuellement, à l'équipement du centre, dans les limites des prévisions budgétaires établies en application de la
 convention passée entre l'Etat et l'organisme gestionnaire. Si ce reliquat est insuffisant, le centre peut recevoir une
 subvention de l'Etat dans les limites et selon les conditions fixées par la convention créant le centre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
 
 	**Cité par**:
 
@@ -59709,14 +61424,6 @@ subvention de l'Etat dans les limites et selon les conditions fixées par la con
 	  - Code du travail - art. R119-33-1 (M)
 	  - Code du travail - art. R119-4 (M)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K ter (P)
-
-	**Anciens textes**:
-
-	  - Décret n°72-280 1972-04-12 ART. 62
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
 
 
 ##### MESURES PROVISOIRES D'ADAPTATION EN MATIERE D'APPRENTISSAGE
@@ -59819,94 +61526,6 @@ Les noms et qualifications professionnelles de la ou des personnes responsables 
 
 
 ### CONTRAT DE TRAVAIL
-
-#### LOUAGE DE SERVICE .
-
-###### Article R122-1
-
-L'indemnité spéciale prévue à l'article L. 122-6 a le même taux que l'indemnité minimum de licenciement prévue à l'article L.
-122-7.
-
-Ce taux ne peut être inférieur à une somme calculée sur la base soit de dix heures de salaire, soit de un vingtième de mois,
-par année de service dans l'entreprise.
-
-Le salaire servant de base au calcul est le salaire moyen des trois derniers mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°80-897 du 18 novembre 1980 - art. 19 (V)
-	  - Code du travail - art. R351-56 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-6 (Ab)
-	  - Code du travail - art. L122-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R122-2 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail LIVRE I, TITRE II, CHAP. II, PAR. I BIS
-
-
-###### Article R122-2
-
-La signification de licenciement prévue par l'article L. 122-9 est faite par lettre recommandée avec demande d'avis de
-réception [*condition de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail LIVRE I, TITRE II, CHAP. II, PAR. I BIS
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 24 (V)
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-9 (Ab)
-
-
-###### Article R122-3
-
-Le tribunal saisi de l'action en dommages-intérêts prévue par l'article L. 122-10 peut faire une enquête sur les
-circonstances de la rupture afin d'apprécier s'il y a abus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L122-10 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R122-3-1 (VT)
-	  - Décret n°78-389 du 17 mars 1978 - art. 24 (V)
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail LIVRE I, TITRE II, CHAP. II, PAR. I BIS
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 
 #### TRAVAIL TEMPORAIRE
 
@@ -62876,6 +64495,109 @@ résultant de la loi 85-835 du 7 août 1985.*]
 	  - Code du travail maritime - art. 6 (M)
 
 
+#### Chapitre II : Emploi
+
+##### Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés
+
+###### Article R362-2
+
+Les infractions aux dispositions de l'article L. 323-17 [*obligation pour l'établissement dont l'effectif est supérieur à
+5000 salariés d'assurer le réentraînement au travail et la réeducation professionnelle des malades et blessés du groupe*]
+sont passibles d'une amende de 1.300 F à 3.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-84 1973-01-25
+	  - Code du travail R362-1 (1973)
+	  - Loi n°72-8 1972-07-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-17 (M)
+
+
+##### Section 3 : Cumuls d'emploi et travail clandestin.
+
+###### Article R362-3
+
+Toute infraction aux dispositions de l'article L. 324-9 [*interdiction du travail clandestin*] sera punie d'un emprisonnement
+de dix jours à un mois [*durée*] et d'une amende de 3.000 F à 6.000 F [*1*] [*montant*] ou de l'une de ces deux peines
+seulement.
+
+Une copie du procès-verbal sera transmise au préfet.
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°92-508 du 11 juin 1992 - art. 2 () JORF 12 juin 1992
+
+	**Cite**:
+
+	  - Code du travail - art. L324-9 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail R362-2 (1973)
+	  - Loi n°1940-10-11 ART. 9 ET 10
+	  - Loi n°1972-07-11
+
+
+###### Article R362-4
+
+Les infractions aux articles L. 324-1, L. 324-2 et L. 324-3 sont punies d'un emprisonnement de dix jours à un mois [*durée*]
+et d'une amende de 3.000 F à 6.000 F (1) [*montant*], ou de l'une de ces deux peines seulement.
+
+En cas de récidive dans un délai d'un an, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende à 12.000
+F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L324-1 (Ab)
+	  - Code du travail - art. L324-2 (M)
+	  - Code du travail - art. L324-3 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail R362-3 (1973)
+
+
 #### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 ##### Paragraphe 2 : Protection de la main-d'oeuvre nationale
@@ -63963,23 +65685,6 @@ l'organisation interentreprises. Le cas échéant, il y joint les observations q
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R241-12
-
-Le médecin du travail peut être convoqué [*conditions*] avec voix consultative aux séances du comité ou des commissions
-spéciales lorsque l'ordre du jour comporte des questions relatives à la médecine du travail, à l'hygiène industrielle ou à la
-sécurité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R241-10 (VT)
 
 
 ### SERVICE SOCIAL DU TRAVAIL .
@@ -70706,6 +72411,46 @@ collectivités locales et leurs établissements publics de catégories assimilé
 	  - Décret n°65-1112 1965-12-16 ART. 3
 
 
+###### Article R323-97
+
+Pour chaque catégorie d'emplois des collectivités ou organismes mentionnés à l'article /M/R. 323-94/M/DECR.0808 19-09-1974 :
+
+R. 323-93// une priorité d'emploi est en exécution de l'article L. 323-19, réservée aux handicapés à concurrence d'un certain
+pourcentage déterminé conformément au principe posé à l'alinéa 2 dudit article.
+
+Entrent en compte pour l'application de ce pourcentage les emplois attribués à quelque titre que ce soit à des handicapés
+notamment par voie de concours aussi bien qu'au titre des emplois réservés.
+
+Les arrêtés fixant par catégorie d'emplois les pourcentages prévus à l'alinéa ci-dessus sont pris par les ministres
+[*autorités compétentes*] chargés du travail, de la fonction publique, des anciens combattants et victimes de guerre, de
+l'économie et des finances, après accord des ministres intéressés. Toutefois, lorsqu'ils concernent les communes ils sont
+pris par les ministres chargés du travail, des anciens combattants et victimes de guerre, de l'intérieur et, le cas échéant,
+des départements et territoires d'outre-mer [*DOM - TOM*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-93 (M)
+	  - Code du travail L323-19 AL. 2
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-99 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°65-1112 1965-12-16 ART. 4
+
+
 ###### Article R323-114
 
 Il est institué auprès du Conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés une
@@ -74301,23 +76046,6 @@ A Paris, le juge départiteur est celui de l'arrondissement où siège le consei
 	  - Code du travail R515-4 (1974)
 
 
-###### Article R515-6
-
-Les séances du bureau de jugement sont publiques. Le conseil peut ordonner le huis clos.
-
-Le prononcé du jugement doit toujours avoir lieu en audience publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail R515-4 (1974)
-
-
 ##### Chapitre VIII : Récusations.
 
 ###### Article R518-3
@@ -74627,6 +76355,43 @@ des délégués syndicaux est fixé par établissement selon les critères d'eff
 
 ### LES DELEGUES DU PERSONNEL .
 
+###### Article R420-1
+
+Le nombre des délégués du personnel prévu par l'article L. 420-5 est fixé comme suit :
+
+- de onze à vingt-cinq salariés : un délégué titulaire et un suppléant ;
+
+- de vingt-six à cinquante salariés : deux délégués titulaires et deux suppléants ;
+
+- de cinquante et un à cent salariés : trois délégués titulaires et trois suppléants ;
+
+- de cent un à deux cent cinquante salariés ; cinq délégués titulaires et cinq suppléants ;
+
+- de deux cent cinquante et un à cinq cents salariés ; sept délégués titulaires et sept suppléants ;
+
+- de cinq cent un à mille salariés : neuf délégués titulaires, neuf suppléants, plus un délégué titulaire et un suppléant par
+tranche supplémentaire de cinq cents salariés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-730 1946-04-16 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°83-470 1983-06-08 ART. 2 JORF 11 JUIN 1983
+	  - TXT_ASSOCIE: Code du travail - art. L420-6 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L420-6 (T)
+
+
 ###### Article R420-2
 
 Les étrangers titulaires de la carte de résident privilégié prévue à l'article 16 de l'ordonnance du 2 novembre 1945 sont
@@ -74753,6 +76518,85 @@ R. 436-1 à R. 436-7 .
 	**Cite**:
 
 	  - Code du travail R436-1 A R436-7
+
+
+###### Article R420-6
+
+Les salariés des professions agricoles définies à l'article L. 131-1 bénéficient, sous réserve des prescriptions édictées à
+l'article R. 420-7, des dispositions des articles L. 420-1 et suivants et R. 436-1 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-430 du 7 mars 1959 - art. 1 (V)
+	  - Loi n°1946-04-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°83-470 1983-06-08 ART. 2 JORF 11 JUIN 1983
+
+	**Cite**:
+
+	  - Code du travail - art. L131-1 (M)
+	  - Code du travail - art. R420-7 (P)
+	  - Code du travail R436-1 ET S
+
+
+###### Article R420-7
+
+Les attributions conférées au ministre chargé du travail et aux inspecteurs du travail par les articles L. 420-1 et suivants
+et R. 436-1 et suivants sont exercées, en ce qui concerne les professions agricoles définies à l'article R. 420-6 par le
+ministre de l'agriculture et par les inspecteurs des lois sociales en agriculture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-430 du 7 mars 1959 - art. 2 (V)
+	  - Loi n°1946-04-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°83-470 1983-06-08 ART. 2 JORF 11 JUIN 1983
+
+	**Cité par**:
+
+	  - Code du travail - art. R420-6 (P)
+
+	**Cite**:
+
+	  - Code du travail R436-1 S
+
+
+###### Article R420-8
+
+Dans les exploitations agricoles, les emplacements destinés à l'affichage des renseignements que les délégués ont pour rôle
+de porter à la connaissance du personnel sont déterminés après accord entre les exploitants et les délégués. En cas de
+désaccord, l'inspecteur des lois sociales statue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-430 du 7 mars 1959 - art. 3 (V)
+	  - Loi n°1946-04-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°83-470 1983-06-08 ART. 2 JORF 11 JUIN 1983
 
 
 ### LES COMITES D'ENTREPRISE
@@ -76462,6 +78306,25 @@ En cas de récidive dans le délai d'un an, l'amende pourra être portée à 300
 	  - Décret n°72-985 1972-10-24 art. 11
 
 
+#### Chapitre II : OBLIGATIONS DES EMPLOYEURS
+
+###### Article R632-2
+
+L'amende prévue par l'article R. 632-1 est appliquée autant de fois qu'il y a de personnes employées dans des conditions
+susceptibles d'être sanctionnées au titre des dispositions de cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
+	  - TXT_ASSOCIE: Code du travail - art. R632-1 (V)
+
+
 ## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL
 
 ### OBLIGATIONS DES EMPLOYEURS .
@@ -76759,6 +78622,29 @@ le registre du délégué.
 
 ##### Paragraphe 2 : Circonscriptions.
 
+###### Article R712-9
+
+Un délégué et un délégué suppléant exercent leurs fonctions dans une circonscription souterraine dont les limites sont
+déterminées par arrêté du préfet, rendu sous l'autorité du ministre chargé du travail après rapport des ingénieurs des
+mines ; l'exploitant doit être entendu et les ouvriers intéressés remplissant les conditions exigées par l'article L. 712-10
+ainsi que les syndicats auxquels ils peuvent appartenir doivent être appelés, par voie d'affiches placées aux lieux habituels
+pour les avis aux ouvriers, à présenter leurs observations.
+
+L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins aprés que les intéressés auront été appelés
+à présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R712-10 (VT)
+	  - Code du travail - art. R712-13 (VT)
+
+
 ###### Article R712-10
 
 Les exploitations autres que celles qui sont mentionnées à l'article L. 712-7 sont subdivisées en deux, trois, etc.,
@@ -76791,6 +78677,28 @@ fond dans cet ensemble d'exploitations ne soit pas supérieur à cinq cents.
 
 	  - Code du travail - art. L712-7
 	  - Code du travail - art. R712-9
+
+
+###### Article R712-11
+
+A toute époque, le préfet peut, par suite de changements survenus dans les travaux, modifier le nombre et les limites des
+circonscriptions sur le rapport des ingénieurs des mines, l'exploitant et le délégué entendus et les ouvriers intéressés
+remplissant les conditions exigées par l'article L. 712-10 ainsi que les syndicats auxquels ils peuvent appartenir ayant été
+appelés, par voie d'affiches placées aux lieux habituels pour les avis aux ouvriers, à présenter leurs observations.
+
+L'arrêté prévu au paragraphe précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été
+appelés à présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R712-22 (VT)
+	  - Code du travail - art. R712-59 (VT)
 
 
 ###### Article R712-12
@@ -76867,6 +78775,29 @@ d'urgence et en dernier ressort.
 	**Abrogé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+
+###### Article R712-16
+
+Dans les dix jours qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-17 les organisations
+syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée, la liste des candidats qu'elles désirent
+présenter aux élections de délégués mineurs. A la lettre précitée sont jointes les pièces établissant que les candidats
+satisfont aux conditions fixées par l'article L. 712-11.
+
+Dans les sept jours qui suivent, l'ingénieur en chef des mines constate l'éligibilité ou la non-éligibilité des candidats.
+
+En cas de réclamation des intéressés le recours doit être formé dans les trois jours qui suivent le délai prévu à l'alinéa
+précédent devant le tribunal d'instance qui statue d'urgence et en dernier ressort.
+
+Tout groupe de personnes non présenté par une organisation syndicale qui désirerait éventuellement se présenter ensemble en
+une liste de candidats au second tour du scrutin prévu par l'article L. 712-17 doit, dans les mêmes formes que celles prévues
+aux alinéas précédents, notifier sa candidature à l'ingénieur en chef des mines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
 
 
 ###### Article R712-17
@@ -77890,6 +79821,29 @@ jours, elle pourra être rattachée, par le même arrêté, à la circonscriptio
 	  - Code du travail - art. R712-37
 
 
+###### Article R712-59
+
+Par application des articles L. 712-9, R. 712-11, R. 712-22 et des articles R. 712-38, R. 712-40 et R. 712-56, il doit être
+procédé à de nouvelles élections pour les circonscriptions souterraines ou de la surface qui sont créées ou modifiées entre
+les élections générales de délégués. Ces élections partielles ont lieu au scrutin de liste avec représentation
+proportionnelle lorsque cette création ou modification intéresse au moins [*minimum limite*] trois circonscriptions voisines
+de même nature, dans le cas contraire elles sont faites au scrutin de liste majoritaire à deux tours [*mode de scrutin*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1949-03-11 ART. 38
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
 ###### Article R712-60
 
 En cas de suppression pure et simple d'une circonscription souterraine ou de la surface, il n'est pas procédé à de nouvelles
@@ -77903,186 +79857,256 @@ circonscription avait été élu au scrutin de liste avec représentation propor
 	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-### Titre Ier : Energie
+##### Paragraphe 2 : Application de l'alinéa final de l'article L. 712-13.
 
-#### Industries extractives
+###### Article R712-61
 
-##### Chapitre II : Délégués mineurs
+La décision du préfet déclarant démissionnaire un délégué mineur ou un délégué permanent de la surface en raison d'une
+invalidité permanente supérieure à 60 p. 100 ou d'une affection silicotique doit être notifiée à l'intéressé par lettre
+recommandée avec demande d'avis de réception [*condition de forme*].
 
-##### Section 1 : Délégués mineurs du fond
+La démission prend effet quinze jours après cette notification [*date mise en vigueur*]. Celle-ci doit mentionner que le
+délégué peut, s'il s'y croit fondé, demander au préfet, dans ce délai de quinze jours et par lettre recommandée avec demande
+d'avis de réception, son maintien en fonctions jusqu'à la fin de son mandat.
 
-##### Paragraphe 1 : Fonctions des délégués mineurs.
+La demande du délégué doit être motivée ; elle est, le cas échéant, assortie de la désignation d'un médecin choisi par le
+délégué pour sièger au sein de la commission médicale prévue à l'article R. 712-63 pour l'examen de sa demande.
 
-###### Article R712-3
-
-Sur la demande du délégué arrivant à une recette, l'exploitant ou son représentant devra mettre sans retard à sa disposition,
-après l'achèvement de la manoeuvre en cours, les moyens de descente ou de remontée.
-
-Exceptionnellement, l'exploitant ou son représentant ne sera pas tenu à cette obligation lorsqu'il estimera que des raisons
-de sécurité s'opposent au transport immédiat du délégué. Il devra dans ce cas inscrire sur le registre prévu à l'article R.
-712-5 les motifs du retard apporté à la descente du délégué.
-
-Le délégué ne devra pas abuser du droit précisé ci-dessus pour entraver le fonctionnement normal des services de
-l'exploitation.
-
-Entre le moment où le délégué aura annoncé son intention de descendre et celui où la personne chargée par l'exploitant de
-l'accompagner sera mise à sa disposition à la recette, il ne devra pas s'écouler un délai supérieur à quarante minutes
-pendant le poste de nuit et vingt minutes pendant les autres postes.
-
-Si le délégué se présente aux heures réglementaires pour la descente du personnel, l'exploitant doit avoir pris toutes
-mesures pour que la mise à sa disposition de la personne chargée de l'accompagner ne le retarde pas dans sa visite et ce,
-sans que le délégué ait eu besoin de prévenir d'avance.
-
-L'exploitant est tenu de mettre à la disposition du délégué qui en fait la demande les appareils de mesure dont la liste sera
-donnée par un arrêté du ministre chargé des mines.
+La demande mentionnée à l'alinéa précédent suspend l'application de la décision préfectorale.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-871 1973-08-29 ART. 1
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R712-62
+
+Le préfet doit [*obligation*] se prononcer sur la demande [*de maintien en fonctions*] au plus tard dans les six semaines qui
+suivent sa réception, sur rapport complémentaire de l'ingénieur en chef des mines et après avis d'une commission médicale
+dont la composition est fixée à l'article R. 712-63.
+
+A l'expiration de ce délai de six semaines, la décision du préfet prononçant la démission d'office du délégué est regardée
+comme retirée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-871 1973-08-29 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R712-63
+
+La commission médicale, présidée par le médecin inspecteur régional du travail et de la main-d'oeuvre compétent pour le
+département, comprend :
+
+Le médecin du travail de l'exploitation à laquelle appartient le délégué ;
+
+Un médecin compétent pour le cas à examiner, désigné par le préfet ; éventuellement le médecin désigné par le délégué.
+
+Le médecin compétent est choisi sur une liste dressée par le conseil départemental de l'ordre des médecins ou, lorsqu'il
+s'agit d'un délégué mineur atteint de silicose, parmi les médecins agréés en matière de pneumoconiose résidant dans le
+département ou les départements limitrophes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-871 1973-08-29 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail R712-61 ET R712-62
 
 	**Abrogé par**:
 
-	  - Décret n°74-808 1974-09-19 VI JORF 29 septembre
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code du travail - art. R712-5 (V)
+	  - Code du travail - art. R712-61 (VT)
+	  - Code du travail - art. R712-62 (VT)
 
 
-###### Article R712-8
+###### Article R712-64
 
-Les exploitations de mines et carrières sont tenues de mettre à la disposition du délégué le registre des travaux
-d'avancement journalier de chaque circonscription minière ainsi que les plans et registres intéressant la sécurité et
-l'hygiène, dans les conditions précisées par arrêtés pris par le ministre chargé des mines.
+La commission est compétente pour les délégués dont la circonscription est située dans le département, même si les délégués
+habitent en dehors de celui-ci.
+
+Elle doit être convoquée par le préfet au moins quinze jours à l'avance.
+
+La commission doit avoir connaissance du dossier de l'intéressé et du rapport de l'ingénieur en chef des mines.
+
+Elle se prononce notamment sur la compatibilité de l'invalidité ou de l'affection avec le maintien en fonctions du délégué.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Le président transmet l'avis de la commission au préfet au plus tard dans les quarante-huit heures qui suivent la date de la
+réunion.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
 
 	**Abrogé par**:
 
-	  - Décret n°74-808 1974-09-19 VI JORF 29 septembre
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
-##### Paragraphe 2 : Circonscriptions .
+###### Article R712-65
 
-###### Article R712-9
+Le préfet notifie sa décision au délégué par lettre recommandée avec demande d'avis de réception [*formalités*].
 
-Un délégué et un délégué suppléant exercent leurs fonctions dans une circonscription souterraine dont les limites sont
-déterminées par arrêté du préfet, rendu sous l'autorité du ministre chargé du travail après rapport des ingénieurs des
-mines ; l'exploitant doit être entendu et les ouvriers intéressés remplissant les conditions exigées par l'article L. 712-11
-ainsi que les syndicats auxquels ils peuvent appartenir doivent être appelés, par voie d'affiches placées aux lieux habituels
-pour les avis aux ouvriers, à présenter leurs observations.
+Le rejet de la demande doit être motivé ; il prend effet quinze jours après sa notification [*date entrée en vigueur*].
 
-L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins aprés que les intéressés auront été appelés
-à présenter leurs observations.
+Celle-ci doit mentionner que le délégué peut, s'il s'y croit fondé, adresser, dans ce délai de quinze jours et par lettre
+recommandée avec demande d'avis de réception, un recours au ministre chargé du travail contre la décision préfectorale.
+
+Ce recours suspend l'application de la décision préfectorale.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-871 1973-08-29 ART. 5
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Liens**:
 
-	  - Code du travail - art. L712-11 (M)
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R712-66
+
+Le ministre doit [*obligation*] faire connaître sa décision dans les six semaines qui suivent la réception du recours, après
+avoir pris l'avis d'une commission médicale nationale, dont la composition est fixée à l'article R. 712-67.
+
+A l'expiration de ce délai de six semaines, la décision du préfet prononçant la démission d'office du délégué est regardée
+comme retirée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-871 1973-08-29 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R712-67
+
+La commission médicale nationale, présidée par un médecin inspecteur régional du travail et de la main-d'oeuvre désigné par
+le ministre, comprend [*composition*] :
+
+Le médecin conseil national de la caisse autonome nationale de la sécurité sociale dans les mines ou, à défaut, un médecin de
+cette caisse désigné par lui ;
+
+Trois médecins compétents pour le cas à examiner, désignés par le ministre.
+
+Les médecins compétents sont choisis selon la nature des cas, soit parmi les médecins agréés en matière de pneumoconiose,
+soit parmi les spécialistes inscrits sur une liste établie par le conseil national de l'ordre des médecins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-871 1973-08-29 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 	**Cité par**:
 
-	  - Code du travail - art. R712-10 (VT)
-	  - Code du travail - art. R712-13 (VT)
+	  - Code du travail - art. R712-66 (VT)
+
+
+###### Article R712-68
+
+La commission est convoquée par son président au moins huit jours à l'avance [*délai minimum*].
+
+Elle doit avoir connaissance de tous les éléments du dossier de l'intéressé et peut recueillir tous les compléments
+d'information qu'elle estime utiles.
+
+Elle se prononce notamment sur la compatibilité de l'invalidité ou de l'affection avec le maintien en fonctions du délégué.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+Le président transmet l'avis de la commission au ministre dans les quarante-huit heures qui suivent la date de la réunion.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code du travail 121
-	  - Décret-loi 1938-05-02
-
-
-###### Article R712-11
-
-A toute époque, le préfet peut, par suite de changements survenus dans les travaux, modifier le nombre et les limites des
-circonscriptions sur le rapport des ingénieurs des mines, l'exploitant et le délégué entendus et les ouvriers intéressés
-remplissant les conditions exigées par l'article L. 712-11 ainsi que les syndicats auxquels ils peuvent appartenir ayant été
-appelés, par voie d'affiches placées aux lieux habituels pour les avis aux ouvriers, à présenter leurs observations.
-
-L'arrêté prévu au paragraphe précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été
-appelés à présenter leurs observations.
-
-**Liens relatifs à cet article**
+	  - Décret n°73-871 1973-08-29 ART. 8
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Liens**:
 
-	  - Code du travail - art. L712-11 (M)
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
-	**Cité par**:
 
-	  - Code du travail - art. R712-22 (VT)
-	  - Code du travail - art. R712-59 (VT)
+###### Article R712-69
+
+La décision du ministre est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception [*conditions de
+forme*].
+
+Elle est immédiatement exécutoire.
+
+**Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Code du travail 123
-	  - Décret-loi 1938-05-02
-
-
-##### Paragraphe 3 : Elections.
-
-###### Article R712-16
-
-Dans les dix jours qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-17 les organisations
-syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée, la liste des candidats qu'elles désirent
-présenter aux élections de délégués mineurs. A la lettre précitée sont jointes les pièces établissant que les candidats
-satisfont aux conditions fixées par l'article L. 712-12.
-
-Dans les sept jours qui suivent, l'ingénieur en chef des mines constate l'éligibilité ou la non-éligibilité des candidats.
-
-En cas de réclamation des intéressés le recours doit être formé dans les trois jours qui suivent le délai prévu à l'alinéa
-précédent devant le tribunal d'instance qui statue d'urgence et en dernier ressort.
-
-Tout groupe de personnes non présenté par une organisation syndicale qui désirerait éventuellement se présenter ensemble en
-une liste de candidats au second tour du scrutin prévu par l'article L. 712-17 doit, dans les mêmes formes que celles prévues
-aux alinéas précédents, notifier sa candidature à l'ingénieur en chef des mines.
-
-**Liens relatifs à cet article**
+	  - Décret n°73-871 1973-08-29 ART. 9
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Liens**:
 
-	  - Code du travail - art. L712-12 (AbD)
-	  - Code du travail - art. L712-17 (AbD)
-	  - Code du travail - art. R712-17 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 140
-	  - Loi n°1949-03-07
-
-
-##### Paragraphe 4 : Dispositions spéciales.
-
-###### Article R712-24
-
-Le délégué dresse mensuellement un état des journées employées aux visites, tant par lui-même que par son suppléant. Cet état
-est vérifié par les ingénieurs des mines et arrêté par le préfet.
-
-La somme due à chaque délégué lui est payée par le Trésor sur mandat bimensuel délivré par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ### Titre II : Industries de transformation et d'élaboration
@@ -78090,105 +80114,6 @@ La somme due à chaque délégué lui est payée par le Trésor sur mandat bimen
 #### Chapitre Ier : Travailleurs à domicile
 
 ##### Section 1 : Dispositions générales.
-
-###### Article R721-1
-
-Le donneur d'ouvrage doit tenir un registre d'ordre indiquant :
-
-1. Le nom et l'adresse de l'établissement ou les nom, prénom et adresse du donneur d'ouvrage, ainsi que le numéro
-d'inscription au registre du commerce ou au registre des métiers ;
-
-2. Les nom, prénoms, adresse, numéro d'immatriculation à la sécurité sociale, nationalité des travailleurs à domicile qu'il
-occupe et, le cas échéant, des personnes mentionnées à l'article L. 721-1 (2.) qui travaillent avec eux ;
-
-3. Si le donneur d'ouvrage a recours à un ou plusieurs intermédiaires, leur nom, prénoms et adresse, ainsi que la nature des
-tâches qui leur sont confiées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°74-808 1974-09-19 VI JORF 29 septembre
-
-	**Cité par**:
-
-	  - Code du travail - art. L611-1 (M)
-
-	**Cite**:
-
-	  - Code du travail L721-1 AL. 2
-
-
-###### Article R721-2
-
-Lors de la remise à un travailleur de travaux à exécuter à domicile il est établi, en deux exemplaires au moins, un bulletin
-ou carnet sur lequel doivent figurer les indications suivantes :
-
-1. Le nom et l'adresse de l'établissement ou les noms, prénoms et adresse du donneur d'ouvrage ;
-
-2. La référence de l'organisme ou des organismes auxquels le donneur d'ouvrage verse les cotisations de sécurité sociale et
-le numéro d'immatriculation sous lequel ces cotisations sont versées ;
-
-3. Le numéro d'inscription au registre du commerce ou au registre des métiers ;
-
-4. La nature et la quantité du travail, la date à laquelle il est donné, les temps d'exécution, les prix de façon ou les
-salaires applicables ;
-
-5. La nature et la valeur des fournitures imposées au travailleur ainsi que les frais d'atelier et accessoires ;
-
-6. Le cas échéant, la date à laquelle le travail doit être livré.
-
-Lors de la livraison du travail achevé une mention est portée au bulletin ou carnet indiquant :
-
-1. La date de la livraison ;
-
-2. Le montant :
-
-a) Des prix de façon acquis par le travailleur ;
-
-b) Des frais d'ateliers qui s'y ajoutent ;
-
-c) De l'allocation de congés payés ;
-
-d) Des retenues que la loi fait obligation aux employeurs d'opérer ;
-
-e) Le cas échéant, des divers frais accessoires laissés à la charge de l'intéressé par le donneur d'ouvrage, dans les limites
-prévues à l'article L. 144-1 du présent code.
-
-3. La somme nette payée ou à payer au travailleur compte tenu des éléments énumérés aux alinéas 2.,a, b, et c ci-dessus, et
-après déduction des frais et retenues visés aux alinéas 2., d et e ci-dessus.
-
-Les inscriptions relatives à chaque travail sont portées sous un numéro d'ordre qui doit figurer sur tous les exemplaires du
-bulletin ou carnet.
-
-Un exemplaire de ce bulletin ou carnet est remis au travailleur et reste sa propriété ; un exemplaire doit, en outre, être
-conservé pendant au moins cinq années par le donneur d'ouvrage et le cas échéant par l'intermédiaire et présenté par eux à
-toute réquisition de l'inspecteur du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°57-834 du 26 juillet 1957 - art. 8 (V)
-	  - Code du travail - art. L125-2 (AbD)
-	  - Code du travail - art. R721-3 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°74-808 1974-09-19 art. 48 VI JORF 29 SEPTEMBRE 1974
-
-	**Cite**:
-
-	  - Code du travail - art. L144-1 (AbD)
-
 
 ###### Article R721-3
 
@@ -82837,46 +84762,49 @@ relevé de nouvelles infractions.
 
 ## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
 
-### ENERGIE - INDUSTRIES EXTRACTIVES
+### BATIMENT ET TRAVAUX PUBLICS
 
-#### DELEGUES MINEURS
+#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
 
-##### DISPOSITIONS COMMUNES AUX DELEGUES MINEURS DU FOND ET AUX  DELEGUES DE LA SURFACE .
+###### Article R731-4
 
-###### Article R712-59
+L'indemnité journalière est due pour chaque heure perdue à partir de la troisième au cours d'une même semaine. Toutefois,
+lorsque la journée qui suit l'arrêt de travail est entièrement chômée, elle est indemnisée dès la première heure.
 
-Par application des articles R. 712-11, L. 712-9, L. 712-10, R. 712-13 et R. 712-22, il doit être procédé à de nouvelles
-élections pour les circonscriptions souterraines ou de la surface qui sont créées ou modifiées entre les élections générales
-de délégués. Ces élections partielles ont lieu au scrutin de liste avec représentation proportionnelle lorsque cette création
-ou modification intéresse au moins [*minimum limite*] trois circonscriptions voisines de même nature, dans le cas contraire
-elles sont faites au scrutin de liste majoritaire à deux tours [*mode de scrutin*].
+La limite d'indemnisation en fonction du salaire prévue à l'article L. 731-5 est fixée aux trois quarts du salaire
+[*plafond*].
+
+Le nombre maximum d'heures de travail prévu au même article L. 731-5 est fixé à huit heures par jour.
+
+Le nombre maximum des indemnités journalières prévu audit article est fixé à soixante.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code du travail - art. L712-10 (M)
-	  - Code du travail - art. L712-9 (AbD)
-	  - Code du travail - art. R712-11 (M)
-	  - Code du travail - art. R712-13 (V)
-	  - Code du travail - art. R712-22 (V)
-
 	**Anciens textes**:
 
-	  - Décret  1949-03-11 ART. 38
+	  - Décret n°63-131 1963-02-16 ART. 1
+	  - Décret n°69-624 1969-06-14 ART. 2
+	  - Loi n°1946-10-21 ART. 5 AL. 1 ET AL. 3
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Cité par**:
+
+	  - Arrêté du 18 février 2003 - art. 4 (V)
+	  - Arrêté du 18 février 2003 - art. 5 (M)
+	  - Code du travail - art. R731-17 (VT)
+	  - Code du travail - art. R731-20 (VT)
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L731-5 (AbD)
 
+	**Cite**:
 
-### BATIMENT ET TRAVAUX PUBLICS
+	  - Code du travail 731-5
 
-#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
 
 ###### Article R731-20
 
@@ -83783,6 +85711,38 @@ organismes publics pour les affaires qui sont de leur compétence.
 	  - Code rural et de la pêche maritime - art. R811-3 (Ab)
 
 
+###### Article R910-14
+
+Il est institué dans chaque circonscription d'action régionale un comité régional de la formation professionnelle, de la
+promotion sociale et de l'emploi destiné à associer des représentants des milieux professionnels à la mise en oeuvre des
+dispositions du livre IX du présent code.
+
+Les attributions, la composition et les modalités de fonctionnement des comités régionaux sont fixés par décret du Premier
+ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R237-10 (M)
+	  - Code de l'éducation - art. R313-49 (M)
+	  - Code du travail - art. R910-11 (Ab)
+	  - Code rural - art. R*811-12 (Ab)
+	  - Code rural et de la pêche maritime - art. R811-3 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L900-1 A L990-7
+
+	**Anciens textes**:
+
+	  - Décret n°67-55 1967-01-18 ART. 12
+
+
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
 
 ### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .
@@ -84010,38 +85970,6 @@ administrative régionale.
 	**Cité par**:
 
 	  - Code de l'éducation - art. R237-10 (M)
-
-
-###### Article R910-14
-
-Il est institué dans chaque circonscription d'action régionale un comité régional de la formation professionnelle, de la
-promotion sociale et de l'emploi destiné à associer des représentants des milieux professionnels à la mise en oeuvre des
-dispositions de la loi n. 66-892 du 3 décembre 1966.
-
-Les attributions, la composition et les modalités de fonctionnement des comités régionaux sont fixés par décret du Premier
-ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R237-10 (M)
-	  - Code de l'éducation - art. R313-49 (M)
-	  - Code du travail - art. R910-11 (Ab)
-	  - Code rural - art. R*811-12 (Ab)
-	  - Code rural et de la pêche maritime - art. R811-3 (Ab)
-
-	**Cite**:
-
-	  - Code du travail L900-1 A L990-7
-
-	**Anciens textes**:
-
-	  - Décret n°67-55 1967-01-18 ART. 12
 
 
 ###### Article R910-15
@@ -87166,6 +89094,35 @@ de départ*] du début du mois qui suit celui au cours duquel un apprenti a atte
 	  - Code du travail - art. D811 (M)
 
 
+### Titre II : CONTRAT DE TRAVAIL
+
+#### Chapitre IV : Travail temporaire.
+
+###### Article D124-2
+
+L'indemnité de précarité d'emploi est prise en compte pour la détermination de la rémunération totale visée au premier alinéa
+de l'article L. 223-11 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D124-1 (Ab)
+	  - Code du travail - art. D124-1 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L124-5 (M)
+
+	**Cite**:
+
+	  - Code du travail L223-11 AL. 1
+
+
 ### Titre III : Conventions collectives de travail
 
 #### Chapitre IV : Conventions collectives dans les entreprises publiques.
@@ -87458,6 +89415,40 @@ rémunération.
 	  - Code du travail - art. D3231-14 (V)
 
 
+##### Section 3 : Dispositions spéciales aux salariés agricoles.
+
+###### Article D141-11
+
+Pour les salariés auxquels l'employeur fournit la nourriture et le logement ou l'une de ces prestations en nature, le salaire
+minimum en espèces garanti [*SMIG*] est déterminé en déduisant du salaire minimum de croissance les sommes fixées par
+convention collective.
+
+A défaut d'une telle convention collective, la prestation journalière de nourriture est évaluée à deux fois et demie le taux
+horaire du minimum garanti déterminé en application des dispositions de l'article L. 141-8 et la prestation mensuelle de
+logement à huit fois ce même taux.
+
+L'évaluation des autres prestations en nature est fixée par convention collective.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-504 1968-06-01
+	  - Décret n°73-641 1973-07-11 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°95-182 du 21 février 1995 - art. 4 (V)
+
+
 #### Chapitre Ier : Salaire minimum de croissance
 
 ##### Rémunération mensuelle minimale
@@ -87682,40 +89673,186 @@ formation.
 	  - Code du travail - art. L117-9 (M)
 
 
-### SALAIRE
+### CONTRAT DE TRAVAIL
 
-#### SALAIRE MINIMUM DE CROISSANCE *SMIC* ET REMUNERATION MENSUELLE MINIMALE
+#### TRAVAIL TEMPORAIRE .
 
-##### DISPOSITIONS SPECIALES AUX SALARIES AGRICOLES .
+###### Article D124-1
 
-###### Article D141-11
-
-Pour les salariés auxquels l'employeur fournit la nourriture et le logement ou l'une de ces prestations en nature, le salaire
-minimum en espèces garanti [*SMIG*] est déterminé en déduisant de la rémunération calculée conformément à l'article 1er ci-
-dessus la valeur desdites prestations.
-
-La prestation journalière de nourriture est évaluée à deux fois et demie le minimum garanti et la prestation mensuelle de
-logement à huit fois ce même taux ; l'évaluation des autres prestations en nature est fixée par convention collective.
+A défaut de sa détermination par voie de convention collective à la date du 5 janvier 1973, le taux minimum de l'indemnité de
+précarité d'emploi prévue à l'article L. 124-5 susvisé du code du travail est fixé à 4 p. 100 du salaire brut perçu pour
+chaque mission effectivement accomplie par le salarié lié par un contrat de travail temporaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-504 1968-06-01
-	  - Décret n°73-641 1973-07-11 ART. 1
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Décret n°95-182 du 21 février 1995 - art. 4 (V)
+	  - Code du travail - art. D124-2 (T)
+	  - Code du travail - art. L124-5 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-5 (M)
 
 
 ## Livre II : Réglementation du travail
 
 ### Titre Ier : Conditions du travail
+
+#### Chapitre Ier : Age d'admission.
+
+###### Article D211-1
+
+L'emploi des mineurs de seize ans est autorisé uniquement pendant les périodes de vacances scolaires comportant au moins
+quatorze jours ouvrables ou non, sous réserve que les intéressés jouissent d'un repos continu d'une durée qui ne peut être
+inférieure à la moitié de la durée totale desdites vacances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-1168 du 23 décembre 1972, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D211-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D4153-2 (V)
+
+
+###### Article D211-2
+
+La durée du travail des intéressés [*mineurs de seize ans*] ne peut, en aucun cas, excéder quarante heures par semaine, ni
+huit [*nombre maximum*] heures par jour.
+
+Leur rémunération ne peut être inférieure [*nombre maximum*] au salaire minimum de croissance [*SMIC*], compte tenu d'un
+abattement au plus égal à 20 p. 100 [*taux*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-1168 1972-12-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. D211-3 (VT)
+
+
+###### Article D211-3
+
+L'emploi des enfants visés aux articles précédents ne peut être autorisé que pour des travaux dont l'exécution n'entraîne, eu
+égard au sexe et à l'âge des intéressés, aucune fatigue anormale, tant à raison de la nature propre des tâches considérées
+qu'à raison des conditions particulières dans lesquelles elles doivent être accomplies. Est notamment interdit l'emploi des
+enfants à tous travaux répétitifs ou exécutés dans une ambiance ou à un rythme qui leur confère une pénibilité caractérisée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-1168 1972-12-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D211-4
+
+Tout chef d'entreprise qui se propose d'occuper un mineur de seize ans pendant la période des vacances scolaires doit en
+faire par écrit la demande [*formalité obligatoire*] à l'inspecteur du travail dans un délai de quinze jours au moins
+précédant la date prévue pour l'embauchage.
+
+Cette demande indique [*mentions*] les nom, prénoms, âge et domicile de l'enfant, la durée du contrat, la nature et les
+conditions de travail auquel il est envisagé de l'occuper. Elle précise notamment l'horaire de travail et le montant de la
+rémunération. Elle doit porter l'accord écrit et signé du représentant légal de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-1168 1972-12-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D211-5
+
+Si l'inspecteur du travail n'a pas manifesté son opposition motivée à l'embauchage dans un délai de huit jours francs à
+compter de l'expédition de la demande, le cachet de la poste faisant foi, l'autorisation est réputée accordée [*accord
+tacite*].
+
+Si dans ce même délai, l'inspecteur du travail a fait connaître qu'il subordonnait son autorisation à une ou plusieurs
+modifications ou adjonctions dans le libellé de la demande, cette décision vaut autorisation d'embauchage, sous réserve que
+l'employeur respecte, dans l'exécution du contrat, les obligations résultant des modifications ou adjonctions requises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-1168 1972-12-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D211-6
+
+L'autorisation d'emploi peut être retirée à tout moment s'il est constaté que l'enfant est occupé soit dans des conditions
+non conformes à celles au respect desquelles l'octroi de l'autorisation a été subordonné, soit en contravention aux textes
+relatifs à la réglementation du travail et notamment à ceux qui protègent la main-d'oeuvre juvénile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-1168 1972-12-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 
 #### Chapitre II : DUREE DU TRAVAIL
 
@@ -91060,6 +93197,79 @@ subventions qui auraient été attribuées pour des indemnités irrégulièremen
 
 ## EMPLOI
 
+### FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .
+
+###### Article D322-1
+
+Auprès du comité supérieur de l'emploi siège une commission de la main-d'oeuvre étrangère. Cette commission peut être
+consultée par le ministre chargé du travail, sur l'emploi des travailleurs étrangers ainsi que sur les questions qui s'y
+rattachent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°73-478 1973-05-17 ART. 1 JORF 18 MAI 1973
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-640 1984-07-17 ART. 5 JORF 20 JUILLET 1984
+
+
+###### Article D322-2
+
+La commission de la main-d'oeuvre étrangère est présidée par le ministre chargé du travail ou son représentant.
+
+Elle comprend :
+
+Le directeur général du travail et de l'emploi et le directeur de la population et des migrations ;
+
+Un représentant du ministre de l'économie et des finances ;
+
+Un représentant du ministre de l'aménagement du territoire,
+
+de l'équipement, du logement et du tourisme ;
+
+Un représentant du ministre du développement industriel et scientifique ;
+
+Un représentant du ministre de la santé publique et de la sécurité sociale ;
+
+Un représentant du ministre de l'agriculture et du développement rural ;
+
+Le directeur de l'office national d'immigration ;
+
+Le directeur du fonds d'action sociale en faveur des travailleurs migrants ;
+
+Cinq [*nombre*] représentants des organisations professionnelles d'employeurs et cinq représentants des organisations
+syndicales des travailleurs, nommés par arrêté du ministre chargé du travail, sur proposition des organisations syndicales
+nationales les plus représentatives des employeurs et des travailleurs.
+
+Le ministre chargé du travail peut, en outre, appeler à participer aux travaux de la commission, avec voix consultative et
+selon la nature des questions étudiées, des représentants d'administrations ou d'organismes intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°73-478 1973-05-17 ART. 2 ET 3 JORF 18 MAI 1973
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-640 1984-07-17 ART. 5 JORF 20 JUILLET 1984
+
+	**Cité par**:
+
+	  - Code du travail - art. D322-4 (VT)
+
+
 ### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS
 
 #### TRAVAILLEURS HANDICAPES
@@ -92473,6 +94683,25 @@ médicales concernant le malade et relatives à ladite maladie.
 	**Cite**:
 
 	  - Code de la sécurité sociale.
+
+
+##### Paragraphe 3 : Personnel - Locaux et matériels.
+
+###### Article D711-17
+
+L'exploitant doit fournir le personnel, notamment infirmier, les locaux et le matériel nécessaires à la délivrance des soins
+d'urgence et au fonctionnement du service médical. Des arrêtés du ministre chargé des mines précisent les conditions
+d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ##### Paragraphe 4 : Incompatibilités.
@@ -94221,41 +96450,2360 @@ L'autorité administrative compétente qui peut prendre les mesures définies pa
 	  - TXT_ASSOCIE: Code du travail - art. L783-7 (Ab)
 
 
-## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer
 
-### ENERGIE - INDUSTRIES EXTRACTIVES
+### Titre Ier : Conventions relatives au travail
 
-#### MINES ET CARRIERES
+#### Chapitre Ier : Apprentissage
 
-##### HYGIENE ET SECURITE - SERVICES MEDICAUX
+##### Section 1 : Des centres de formation d'apprentis
 
-##### PERSONNEL - LOCAUX ET MATERIELS .
+##### Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis
 
-###### Article D711-17
+##### Dispositions générales.
 
-L'exploitant doit fournir le personnel, notamment infirmier,
+###### Article D811-1
 
-les locaux et le matériel nécessaire à la délivrance des soins d'urgence et au fonctionnement du service médical. Des arrêtés
-du ministre chargé de l'industrie précisent les conditions d'application du présent article.
+Les articles L. 115-1 à L. 119-4 du code du travail et ceux du présent chapitre sont applicables aux contrats d'apprentissage
+conclus dans les départements d'outre-mer à compter du 1er octobre 1973 [*date point de départ*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Arrêté 1967-01-03 JORF 13 JANVIER
+	  - Loi n°71-576 1971-07-16
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail L115-1 A L119-4
+
+
+###### Article D811-3
+
+Les conventions [*contenu*] doivent définir l'aire normale de recrutement des apprentis et la ou les spécialisations
+professionnelles du centre. Elles fixent le nombre minimal et maximal d'apprentis admis annuellement au centre pour
+l'ensemble des formations qui y seront assurées et qui conduiront chacune à un diplôme déterminé de l'enseignement
+technologique.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+##### De l'organisation des centres.
+
+###### Article D811-4
+
+Quelle que soit sa nature juridique, chaque centre doit être organisé de manière à constituer, sur le plan fonctionnel, une
+unité administrative et pédagogique indépendante.
+
+La convention portant création d'un centre peut prévoir la création d'annexes locales assurant tout ou partie de certaines
+formations.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-66 (Ab)
+	  - Code du travail - art. D811-72 (Ab)
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D811-66 (Ab)
 
 
-## Livre VIII : Dispositions spéciales aux départements d'outre-mer
+###### Article D811-5
 
-### Titre Ier : Conventions relatives au travail
+Chaque centre est placé sous l'autorité d'un directeur qui doit satisfaire aux conditions fixées à l'article D. 811-24.
+
+Le directeur ne peut cumuler [*interdiction*] ses fonctions avec des activités administratives ou financières au sein de
+l'organisme gestionnaire du centre ; il est responsable du fonctionnement pédagogique et administratif de ce centre, sous
+réserve des pouvoirs d'ordre administratif et financier appartenant à l'organisme gestionnaire et qui sont précisés par la
+convention de création du centre.
+
+Le directeur est soumis au pouvoir disciplinaire prévu à l'article L. 116-6.
+
+Le personnel du centre est recruté à titre permanent ou à titre temporaire sur proposition du directeur ; il est placé sous
+l'autorité de celui-ci.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-24 (Ab)
+	  - Code du travail - art. L116-6 (AbD)
+
+	**Anciens textes**:
+
+	  - Loi n°67-576 1967-07-161
+
+
+###### Article D811-6
+
+Un conseil de perfectionnement est constitué auprès du directeur et de l'organisme gestionnaire.
+
+Lorsque la création d'un centre ne résulte pas d'un accord conclu entre les organisations syndicales d'employeurs et de
+salariés les plus représentatives sur le plan national, la composition et les attributions du conseil de perfectionnement
+sont fixées par les articles D. 811-7 et D. 811-8.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail D811-7 ET D811-8
+
+
+###### Article D811-7
+
+Le conseil de perfectionnement comprend, dans les proportions fixées par la convention portant création du centre :
+
+Des représentants des organisations professionnelles d'employeurs et de salariés intéressés par le fonctionnement du centre ;
+
+Des représentants de l'organisme gestionnaire ;
+
+Des représentants élus par le personnel d'enseignement et d'encadrement du centre ;
+
+Des représentants élus des apprentis ;
+
+Eventuellement, des personnes qualifiées en raison de leur expérience pédagogique et professionnelle désignées par
+l'organisme gestionnaire sur la proposition des membres du conseil de perfectionnement précédemment énumérés.
+
+Les modalités d'application du présent article sont, en tant que de besoin, fixées par le règlement intérieur prévu à
+l'article D. 811-8.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-8 (Ab)
+
+
+###### Article D811-8
+
+Le conseil de perfectionnement se réunit au moins [*minimum*] trois fois par an [*périodicité*]. Il est obligatoirement
+consulté :
+
+Sur les questions générales relatives à l'organisation et au déroulement des formations du centre ;
+
+Sur l'ouverture et la fermeture des sections ;
+
+Ainsi que sur le règlement intérieur du centre, qui est établi par l'autorité compétente de l'organisme gestionnaire.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-7 (Ab)
+	  - Code du travail - art. D811-72 (Ab)
+
+
+##### Du fonctionnement pédagogique des centres.
+
+###### Article D811-9
+
+En application des dispositions de l'article L. 116-3, la convention [*contenu*] fixe la durée totale de chacune des
+formations assurées et la distribution des heures d'enseignement par matière et par année dans le cadre des dispositions des
+conventions types, et de leurs annexes pédagogiques.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L116-3 (M)
+
+
+###### Article D811-10
+
+Dans les centres de formation d'apprentis, les enseignements destinés à ceux-ci ne peuvent être dispensés avant sept heures
+et après dix-neuf heures [*horaires*].
+
+Toutefois, un arrêté du ministre de l'agriculture peut prévoir un horaire particulier pour certaines formations agricoles.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-72 (Ab)
+
+
+###### Article D811-11
+
+Le centre de formation d'apprentis doit assurer la coordination entre la formation qu'il dispense et celle qui est assurée
+dans l'entreprise. A cet effet, le directeur [*attributions*] :
+
+1- Etablit pour chaque métier, en liaison avec les représentants des entreprises intéressées et après avis du conseil de
+perfectionnement des progressions conformes aux annexes pédagogiques des conventions types ;
+
+2- Désigne parmi le personnel du centre et pour chaque apprenti, un formateur qui est plus spécialement chargé de suivre la
+formation de cet apprenti, de vérifier son assiduité et d'assurer une liaison avec le responsable de la formation pratique
+dans l'entreprise occupant ledit apprenti ;
+
+3- Etablit et met [*mis*] à la disposition du responsable de la formation pratique dans l'entreprise les documents
+pédagogiques nécessaires à cet effet ;
+
+4- Apporte son aide aux apprentis, dont le contrat est rompu, pour la recherche d'un employeur susceptible de contribuer à
+l'achèvement de leur formation.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-72 (Ab)
+
+
+###### Article D811-12
+
+Les conventions portant création de centres de formation d'apprentis à caractère interprofessionnel prévoient sur demande du
+ministre intéressé ou du comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, la
+création, dans les conditions définies pr ledit comité, d'une section "Métiers divers" destinée à accueillir temporairement,
+au moins pour les enseignements généraux, les apprentis des métiers à faible effectif, dans la limite des places disponibles
+et selon les règles prévues à l'article D. 811-13.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-13 (Ab)
+
+
+###### Article D811-13
+
+Les apprentis inscrits dans la section "Métiers divers" d'un centre interprofessionnel de formation d'apprentis reçoivent
+l'enseignement général dans ce centre.
+
+Si les enseignements technologiques correspondant à leur métier ne peuvent être organisés par le centre, ces apprentis sont
+inscrits, à la diligence du directeur du centre et au moins pour ces enseignements, dans le centre le plus proche qui
+dispense de tels enseignements, ou dans un centre spécialisé.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-12 (Ab)
+
+
+##### De l'organisation financière des centres.
+
+###### Article D811-14
+
+La convention de création prévoit les conditions dans lesquelles est établi chaque année le budget du centre. Ce budget doit
+être distinct de celui de l'organisme gestionnaire.
+
+Pour les organismes soumis aux règles de la comptabilité publique ou à la tutelle de l'Etat, ce budget est constitué par une
+section particuliére du budget général de l'organisme.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-2 (Ab)
+
+
+###### Article D811-15
+
+La convention indique, le cas échéant, le mode de calcul de la subvention de l'Etat qu'il y aurait lieu de verser si les
+autres ressources, et notamment les participations financières attendues des entreprises assujetties à la taxe
+d'apprentissage étaient, pour une année considérée, insuffisantes ; la décision d'octroi de subvention, valable pour une
+durée d'un an, sera révisée en fonction des participations réelles recueillies.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-16
+
+La convention [*contenu*] peut prévoir le blocage temporaire et, éventuellement, le reversement à un organisme répartiteur de
+ressources provenant de la taxe d'apprentissage ou, à défaut au Trésor, des contributions recueillies par le centre au-delà
+d'un montant maximal qu'elle fixe.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+##### Paragraphe 2 : De la conclusion et du renouvellement des conventions.
+
+###### Article D811-17
+
+Les conventions portant création d'un centre de formation d'apprentis sont conclues par le préfet du département, après avis
+du comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi et par l'une des personnes
+physiques ou morales énumérées à l'article L. 116-2.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L116-2 (M)
+
+
+###### Article D811-18
+
+Lorsque plusieurs personnes physiques ou morales de droit public ou de droit privé décident de créer conjointement un centre
+de formation d'apprentis, sans pour autant constituer une personne morale nouvelle pour en assurer la gestion, elles
+désignent parmi elles un représentant commun qui est chargé de passer avec l'Etat une convention de création. Ce représentant
+commun est de droit le gestionnaire du centre.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-19
+
+La demande de conclusion d'une convention est adressée au préfet du département où le centre envisagé doit avoir son siège
+[*compétence territoriale*] . Cette demande et le projet de convention sont soumis par ses soins au comité départemental de
+la formation professionnelle, de la promotion sociale et de l'emploi intéressé.
+
+Ce comité examine le projet, compte tenu :
+
+1. Des besoins de formation professionnelle reconnus et prévus dans le champ d'application de la nouvelle convention
+envisagée ;
+
+2. De sa cohérence avec la carte scolaire ;
+
+3. Des recommandations émises par les commissions professionnelles consultatives et par les organisations professionnelles
+locales ;
+
+4. Des garanties offertes par l'organisme gestionnaire, notamment en ce qui concerne les locaux propres au centre ou mis à sa
+disposition, l'équipement et le personnel ;
+
+5. Des modalités de financement envisagées, et notamment de la contribution des entreprises, des collectivités et
+établissements publics et de l'Etat.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-20
+
+La convention portant création d'un centre de formation d'apprentis est conclue pour une durée de cinq ans, à partir d'une
+date d'effet expressément fixée par celle-ci [*point de départ*]. Elle est renouvelée dans les conditions prévues à l'article
+D. 811-22.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-22 (Ab)
+
+
+###### Article D811-21
+
+Au cours de la période de validité de la convention, la liste des formations du centre et les autres clauses de la convention
+peuvent être modifiées pour tenir compte notamment de l'évolution des besoins de formation professionnelle. Ces modifications
+font l'objet d'un avenant passé dans les mêmes formes que la convention elle-même, lorsqu'elles entraînent une diminution de
+l'effectif global minimal, un dépassement de l'effectif global maximal, un changement notable de l'aire de recrutement ou du
+champ d'action professionnel du centre, une transformation des conditions de participation de l'Etat. Dans tous les autres
+cas, ces modifications sont autorisées par le préfet du département après avis de vice-recteur ou du chef de service
+départemental d'agronomie, sur demande de l'organisme gestionnaire.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-2 (Ab)
+
+
+###### Article D811-22
+
+Dix-huit mois au moins [*délai minimum*] avant la date d'expiration de la convention, les parties se concertent afin de
+préparer son renouvellement en tenant compte s'il y a lieu, des adaptations rendues nécessaires par l'évolution des besoins
+de formation. S'il apparait que la convention ne peut être renouvelée, le recrutement de nouveaux apprentis est interrompu ;
+la convention en vigueur est prorogée de plein droit jusqu'à l'achèvement des formations en cours, lorsque cet achèvement se
+place après la date d'expiration de la convention.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-20 (Ab)
+
+
+##### Paragraphe 3 : Du personnel des centres de formation d'apprentis.
+
+###### Article D811-23
+
+Nul ne peut être employé à quelque titre que ce soit dans un centre de formation d'apprentis [*interdiction*] s'il est sous
+le coup d'une des incapacités prévues à l'article 4 du code de l'enseignement technique.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code de l'enseignement technique - art. 4 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-66 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D811-66 (Ab)
+
+
+###### Article D811-24
+
+Le directeur d'un centre de formation d'apprentis doit [*conditions obligatoires*] être âgé de vingt-cinq ans au moins.
+
+Il doit en outre :
+
+1. Etre titulaire d'un baccalauréat d'enseignement général ou d'un baccalauréat de technicien, du brevet professionnel ou du
+brevet de maîtrise ou de tout autre diplôme donnant droit de postuler au moins un emploi de professeur d'enseignement général
+de collège d'enseignement secondaire, de collège d'enseignement technique ou de collège agricole, ou un emploi de professeur
+d'enseignement technique théorique de collège d'enseignement technique ou de collège agricole ;
+
+2. Avoir rempli, pendant quatre ans au moins, des fonctions d'enseignement dans un établissement d'enseignement technique
+public ou privé, dans un cours professionnel ou dans un centre de formation d'apprentis créé en vertu des articles L. 115-1 à
+L. 116-8, à raison d'au moins 200 heures par an [*nombre minimum*] .
+
+Il peut être dérogé à la condition ci-dessus, par décision du préfet, au profit des titulaires d'un diplôme de l'enseignement
+supérieur qui justifient de quatre ans d'activité professionnelle.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-5 (Ab)
+	  - Code du travail - art. D811-74 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L115-1 A L115-8
+
+
+###### Article D811-25
+
+Toute personne appelée à enseigner dans un centre de formation d'apprentis doit, s'il s'agit d'exercer :
+
+1. Des fonctions d'enseignement général, être titulaire [*condition *] ,selon la discipline enseignée :
+
+Soit d'un baccalauréat d'enseignement général ou d'un baccalauréat de technicien ou de tout autre diplôme donnant droit de
+postuler un emploi de professeur d'enseignement général de collège d'enseignement secondaire, de collège d'enseignement
+technique ou d'établissement d'enseignement agricole ;
+
+Soit, dans le cas des enseignements d'éducation physique ou sportive, d'un des diplômes prévus aux articles 1er (2.) et 6 de
+la loi n. 63-807 du 6 août 1963.
+
+2. Des fonctions d'enseignement technologique, être titulaire d'un certificat d'aptitude professionnelle, [*cap*] ,ou d'un
+diplôme de niveau au moins égal à ceux qui sont délivrés par les centres de formation professionnelle pour adultes, sous
+réserve que ce diplôme ait été homologué, lorsqu'il y a lieu en application des dispositions de l'article 8 de la loi n.
+71-577 du 16 juillet 1971.
+
+Toutefois, les personnes appelées à n'exercer que des fonctions d'enseignement pratique doivent seulement soit remplir les
+conditions requises pour dispenser un enseignement pratique dans un collège d'enseignement technique ou dans un établissement
+d'enseignement agricole, soit avoir exercé des fonctions de moniteur de centre public de formation professionnelle des
+adultes ou de moniteur dans le cadre du service militaire adapté soit encore avoir exercé leur métier pendant les cinq années
+qui précèdent l'entrée en fonctions. Dans ce dernier cas, le comité départemental est obligatoirement consulté.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-807 1963-08-06 ART. 1 ET 6
+	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-74 (Ab)
+	  - Code du travail - art. D811-77 (Ab)
+
+
+###### Article D811-26
+
+Pour toute personne appelée à diriger un centre de formation d'apprentis ou à y enseigner, l'organisme gestionnaire du centre
+dans le premier cas et le directeur du centre dans le second sont tenus d'adresser soit au vice-recteur, soit au chef du
+service d'agronomie un dossier établissant que l'intéressé satisfait aux conditions posées aux articles précédents.
+
+S'il apparaît que ces conditions ne sont pas remplies, le vice-recteur ou le chef du service d'agronomie peut, dans le délai
+d'un mois, faire opposition motivée à l'entrée ou au maintien en fonctions de l'intéressé [*sanction*] .
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-27
+
+Les jurys des examens [*composition*] de l'enseignement technologique auxquels préparent les centres de formation d'apprentis
+comprennent obligatoirement un ou plusieurs membres du personnel enseignant de ces centres selon des modalités fixées par
+arrêté du ministre compétent.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+##### Paragraphe 4 : Du contrôle des centres de formation d'apprentis.
+
+###### Article D811-28
+
+Sans préjudice des contrôles que l'Etat exerce en vertu de la réglementation en vigueur sur les organismes ou entreprises
+recevant des subventions sur fonds publics, les agents compétents pour effectuer des inspections administratives et
+financières ont accès dans les locaux des centres pour l'accomplissement de toute mission dont les charge le préfet du
+département.
+
+Ils peuvent, en outre, se faire communiquer toutes pièces permettant de contrôler l'activité ainsi que le fonctionnement
+administratif et financier du centre.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-66 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D811-66 (Ab)
+
+
+###### Article D811-29
+
+Le contrôle pédagogique de la formation donnée aux apprentis tant dans les centres que sur les lieux de travail, s'exerce
+dans les conditions fixées par les articles R. 119-48 à R. 119-64 relatifs à l'inspection de l'apprentissage. Toutefois, dans
+les départements d'outre-mer, le service de l'inspection de l'apprentissage est organisé dans le cadre du département et non
+de l'académie.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail R119-49 A R119-64
+
+
+###### Article D811-30
+
+Dans le cas où, à la suite des contrôles exercés, la convention est dénoncée par l'Etat en application de l'article L. 116-4
+(alinéa 2), tout recrutement est interrompu. Le préfet prend des mesures nécessaires pour assurer l'achèvement des formations
+en cours. Il peut fixer la date de la fermeture définitive du centre et imposer à l'organisme gestionnaire des mesures
+particulières de fonctionnement pendant la période comprise entre la date d'effet de la dénonciation de la convention et de
+la fermeture du centre. Ces mesures peuvent concerner notamment :
+
+- La désignation d'un membre de l'enseignement public comme  responsable pédagogique du centre pendant cette période ;
+
+- Le transfert d'une partie des apprentis dans un autre centre ;
+
+- La cessation des fonctions de certains membres du personnel ;
+
+- Et, en général, toutes dispositions d'ordre administratif ou pédagogique de nature à remédier aux insuffisances ou
+manquements constatés.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-64 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L116-4 AL. 2
+
+
+###### Article D811-31
+
+Si les mesures prévues à l'article précédent ne sont pas suffisantes ou si les circonstances de la dénonciation impliquent
+l'impossibilité pour l'organisme gestionnaire d'assurer de façon satisfaisante la liquidation du centre et l'achèvement des
+formations, le préfet désigne un administrateur provisoire, lequel est entièrement substitué, pour les besoins de cette
+liquidation et de cet achèvement, au directeur du centre et aux organes de direction de l'organisme gestionnaire.
+L'administrateur provisoire agit pour le compte de l'organisme gestionnaire, sous l'autorité du préfet. Il établit et clôture
+le compte de liquidation.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-64 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L811-30
+
+
+##### Section 2 : Du contrat d'apprentissage
+
+##### De l'agrément de l'employeur.
+
+###### Article D811-33
+
+La demande, accompagnée de l'avis du comité d'entreprise, s'il en existe un, est adressée au secrétariat du comité
+départemental de la formation professionnelle, de la promotion sociale et de l'emploi :
+
+S'il s'agit d'entreprises inscrites au répertoire des métiers, par l'intermédiaire de la chambre des métiers qui y joint son
+avis ;
+
+Dans tous les autres cas, directement ou par l'intermédiaire soit de la chambre de commerce et d'industrie, soit de la
+chambre d'agriculture qui y joint alors son avis.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-34
+
+L'agrément ne peut être accordé par le comité départemental que si [*condition préalable*] la ou les personnes responsables
+de la formation des apprentis présentent des garanties de moralité et sont titulaires d'un diplôme de l'enseignement
+technologique ou justifient d'un temps d'exercice du métier d'au moins trois années [*durée minimum*] à un niveau minimal de
+qualification qui est déterminé par le comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi. Celui-ci peut demander à l'intéressé de suivre des stages de formation qui seront organisés à cet effet.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-35 (Ab)
+
+
+###### Article D811-35
+
+L'employeur informe le comité départemental de tout changement concernant la ou les personnes responsables de la formation
+des apprentis. Si un nouveau responsable ne satisfait pas aux conditions exigées par l'article précédent, l'agrément peut
+être suspendu jusqu'au remplacement de l'intéressé [*sanction*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-34 (Ab)
+
+
+###### Article D811-36
+
+L'agrément devient caduc [*sanction*] et un nouvel agrément doit être demandé lorsqu'un employeur a cessé de former des
+apprentis pendant cinq années consécutives [*durée*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+##### De la durée de l'apprentissage.
+
+###### Article D811-37
+
+Par application des dispositions de l'article L. 115-2, la durée de l'apprentissage, normalement fixée à deux ans, peut être
+portée à trois ans ou exceptionnellement ramenée à un an pour certaines branches professionnelles, ou types de métiers
+déterminés, par arrêté du préfet du département après avis du comité départemental de la formation professionnelle, de la
+promotion sociale et de l'emploi.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L115-2 (M)
+
+
+###### Article D811-38
+
+La durée du contrat est réduite d'un an pour les jeunes gens qui, après avoir suivi pendant une année au moins une formation
+à temps complet dans un établissement d'enseignement technologique, entrent en apprentissage en vue d'achever cette
+formation.
+
+Dans ce cas, l'avis circonstancié d'orientation prévu à l'article L. 117-3 doit avoir été délivré depuis moins de trois mois
+[*délai*].
+
+Ces apprentis sont considérés, notamment en ce qui concerne la rémunération minimale, comme ayant déjà effectué une première
+année d'apprentissage.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L117-3 (M)
+
+
+###### Article D811-39
+
+La date du début de l'apprentissage peut être fixée en dehors des périodes déterminées par l'article L. 117-13 sur demande de
+dérogation adressée au vice-recteur ou au chef du service départemental d'agronomie.
+
+Cette demande doit mentionner expressément le motif invoqué à son appui. Elle est transmise par l'intermédiaire du directeur
+du centre de formation d'apprentis, qui y joint son avis. Faute de réponse dans le délai de deux semaines à compter du jour
+où il a été saisi, la dérogation est réputée accordée.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-42 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L117-13 (M)
+
+
+##### Du contenu des contrats d'apprentissage.
+
+###### Article D811-43
+
+Le contrat doit fixer le salaire dû à l'apprenti pour chacun des semestres de l'apprentissage. Ce salaire ne pourra être
+inférieur aux taux fixés à l'article D. 811-52 [*limites*] sans préjudice de l'application des conventions collectives ou
+accords de salaires plus favorables.
+
+Si des avantages en nature sont accordés, le contrat doit viser les conditions dans lesquelles ils sont déduits du salaire
+dans les limites fixées à l'article D. 811-55.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-47 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. D811-52 (M)
+	  - Code du travail - art. D811-55 (Ab)
+
+
+##### De l'enregistrement du contrat d'apprentissage.
+
+###### Article D811-44
+
+L'employeur, s'il relève du secteur des métiers doit transmettre [*obligation*] les exemplaires originaux du contrat à la
+chambre de métiers, si elle existe, qui rassemble les contrats de ses ressortissants, à charge pour elle de recueillir le
+visa du directeur du centre de formation d'apprentis valant attestation de l'inscription de l'apprenti et d'en suivre
+l'enregistrement auprès de la direction départementale du travail.
+
+Dans tous les autres cas, l'employeur doit faire viser les exemplaires du contrat par le directeur du centre de formation
+d'apprentis, ce visa valant attestation de l'inscription de l'apprenti. Le directeur du centre transmet lesdits contrats,
+
+selon le cas, à la direction départementale du travail et de main-d'oeuvre, à l'inspection départementale des lois sociales
+en agriculture, si elle existe, ou à l'administration chargée du contrôle de la législation du travail et des lois sociales
+pour les branches d'activités qui ne relèvent pas des directions ou des inspections susénoncées.
+
+Les originaux du contrat doivent parvenir au service chargé de l'enregistrement au plus tard dans le délai d'un mois à
+compter de la date du début de l'apprentissage.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-48 (Ab)
+
+
+###### Article D811-45
+
+Si le contrat ne satisfait pas à toutes les conditions fixées par les articles L. 117-1 à L. 117-13 et par le présent
+chapitre, une décision motivée portant refus d'enregistrement doit être adressée aux parties sous la forme d'une lettre
+recommandée avec demande d'avis de réception. Avis de ce refus est donné au directeur du centre de formation d'apprentis et,
+le cas échéant, à la chambre des métiers.
+
+Faute de décision de refus d'enregistrement dans le délai d'un mois à compter de la date de réception du contrat par le
+service compétent, l'enregistrement est de droit.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-48 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L117-1 A L117-13
+
+
+###### Article D811-46
+
+La résiliation unilatérale du contrat par l'une des parties pendant les deux premiers mois de son exécution [*période*] ou la
+résiliation convenue d'un commun accord doit être constatée par écrit [*condition de forme*] et notifiée au directeur du
+centre de formation d'apprentis ou à la chambre de métiers ainsi qu'au service ayant enregistré le contrat.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+##### Cas de l'apprenti employé par un ascendant.
+
+###### Article D811-47
+
+Lorsque l'apprenti est employé par un ascendant, la déclaration prévue par l'article L. 117-15 doit comporter les mentions
+énumérées aux articles D. 811-42 et D. 811-43 et préciser le lien de parenté existant entre l'apprenti et l'employeur. 
+
+La déclaration doit également désigner la caisse d'épargne, l'établissement bancaire ou le centre de chèques postaux où un
+compte a été ouvert au nom de l'apprenti pour recevoir la partie du salaire que l'ascendant employeur est tenu de verser
+audit compte. Cette partie est au moins égale à 25 p. 100 [*pourcentage*] du salaire fixé au contrat.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-42 (M)
+	  - Code du travail - art. D811-43 (Ab)
+	  - Code du travail - art. L117-15 (M)
+
+
+###### Article D811-48
+
+La déclaration est souscrite par l'ascendant employeur et est revêtue de la signature de l'apprenti [*condition de forme*] ;
+elle est visée par le directeur du centre de formation d'apprentis et soumise à enregistrement dans les conditions prévues
+par les articles D. 811-44 et D. 811-45.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-44 (Ab)
+	  - Code du travail - art. D811-45 (Ab)
+
+
+##### Constatation de l'aptitude de l'apprenti.
+
+###### Article D811-49
+
+L'aptitude d'un apprenti à exercer le métier qu'il a commencé à apprendre peut faire l'objet d'une vérification à
+l'initiative soit de l'employeur, soit de l'apprenti ou de son représentant légal, soit du directeur du centre de formation
+d'apprentis. Cette vérification peut aussi être ordonnée par le juge saisi d'une demande de résiliation.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-50
+
+Selon la nature de l'inaptitude alléguée, cette vérification prend la forme d'un examen individuel soit par un centre
+d'information et d'orientation public ou par un centre créé en application de l'article 39 du code de l'artisanat, soit par
+un médecin attaché à l'un de ces centres, ou à défaut, par un médecin du travail, un médecin de la santé scolaire, ou un
+médecin attaché à un établissement scolaire. Dans tous les cas, l'avis circonstancié du directeur du centre de formation
+d'apprentis est transmis, sous pli confidentiel, à la personne chargée de l'examen.
+
+Les conclusions de cet examen sont adressées au juge du contrat lorsque la vérification a été ordonnée par lui, et, dans tous
+les cas, aux parties, au directeur du centre et au service qui a enregistré le contrat.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code de l'artisanat - art. 39 (M)
+
+
+##### Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.
+
+###### Article D811-51
+
+Outre les attributions qui leur sont expressément dévolues par les dispositions des articles L. 115-1 à L. 119-2 et par
+celles des sections I et II du présent chapitre, les chambres de commerce et d'industrie, les chambres de métiers et les
+chambres d'agriculture peuvent, soit individuellement, soit en commun, organiser des services d'apprentissage chargés de
+contribuer [*attributions*] :
+
+Au placement des jeunes en apprentissage ;
+
+A la préparation des dossiers d'agrément et des contrats d'apprentissage ;
+
+A la transmission des dossiers d'agrément au comité départemental de la formation professionnelle, de la promotion sociale et
+de l'emploi et à la transmission des contrats d'apprentissage au service chargé du contrôle de l'application de la
+législation du travail et des lois sociales dans la branche d'activité dont relève l'employeur ;
+
+A l'élaboration de documents statistiques sur l'apprentissage, notamment à la demande du comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi ;
+
+A la réalisation d'enquêtes sur le devenir professionnel des jeunes formés par la voie de l'apprentissage ;
+
+Au fonctionnement des divers services sociaux organisés en faveur des apprentis.
+
+Les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture adressent au comité
+départemental de la formation professionnelle, de la promotion sociale et de l'emploi tous avis et suggestions qu'il leur
+paraît nécessaire de formuler sur l'apprentissage dans le département.
+
+Ces compagnies, ou les services communs qu'elles ont créés, assurent une liaison constante avec les services de l'office
+national d'information sur les enseignements et les professions et de l'Agence nationale de l'emploi [*ANPE*] .
+
+Conformément à l'article 39 du code de l'artisanat, les chambres de métiers peuvent créer des centres d'information et
+d'orientation professionnelle pour les jeunes qui désirent entrer en apprentissage ; ces centres sont habilités à délivrer
+l'avis d'orientation prévu à l'article L. 117-3 et à constater l'aptitude d'un apprenti à exercer le métier auquel il se
+prépare.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L117-3 (M)
+	  - Code du travail L115-1 A L119-2
+	  - Code de l'artisanat - art. 39 (M)
+
+
+##### Section 4 : Dispositions financières.
+
+###### Article D811-53
+
+Les pourcentages fixés à l'article précédent sont uniformément majorés de cinq points à compter du début du mois qui suit
+celui au cours duquel un apprenti a atteint l'âge de dix-huit ans [*majorité*] .
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-52 (M)
+
+
+###### Article D811-55
+
+Sauf si un taux moins élevé est prévu par une convention collective ou un contrat particulier, les avantages en nature dont
+bénéficie l'apprenti peuvent être déduits du salaire dans la limite de 75 p. 100 de la déduction autorisée, en ce qui
+concerne les autres travailleurs, par la réglementation applicable en matière de sécurité sociale.
+
+Ces déductions ne peuvent excéder [*limite*] , chaque mois, un montant égal au trois quarts du salaire.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-43 (Ab)
+
+
+###### Article D811-56
+
+Le montant de la fraction de taxe d'apprentissage obligatoirement réservée au développement de l'apprentissage en application
+de l'article L. 118-3 est fixé à 30 p. 100 de la taxe due en raison des salaires versés pendant l'année considérée
+[*période*].
+
+Ce pourcentage est ramené à 20 p. 100 pour la taxe due au titre de l'année 1973.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L118-3 (M)
+
+
+###### Article D811-57
+
+En application des articles L. 118-1 et L. 118-2 sont admis en exonération de la taxe d'apprentissage et sont pris en compte
+pour déterminer [*calcul*] les sommes consacrées par une entreprise au financement de l'apprentissage, au sens de l'article
+précédent :
+
+a) Une partie du salaire versé aux apprentis, égale par apprenti à 20 p. 100 du SMIC ;
+
+b) Les concours financiers apportés aux centres de formation d'apprentis institués par les articles L. 115-1 à L. 116-8 ;
+
+c) A défaut, le versement au Trésor public prévu à l'article L. 118-3.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-58 (Ab)
+	  - Code du travail - art. D811-59 (Ab)
+	  - Code du travail - art. D811-60 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L118-1 (M)
+	  - Code du travail - art. L118-2 (M)
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail L115-1 A L116-8
+
+
+###### Article D811-58
+
+Les concours financiers mentionnés à l'article D. 811-57 b ci-dessus sont destinés soit à assurer le fonctionnement ou
+l'équipement des centres de formation d'apprentis, soit à leur permettre d'opérer des versements au titre de l'article L.
+118-1 b, au profit des employeurs mentionnés à l'article D. 811-59.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-57 (Ab)
+	  - Code du travail - art. D811-59 (Ab)
+	  - Code du travail - art. L118-1 (M)
+
+
+###### Article D811-59
+
+Les employeurs qui ne sont pas assujettis à la taxe d'apprentissage bénéficient du concours prévu à l'article L. 118-1 b. Ce
+concours est égal aux sommes dont l'employeur aurait pu solliciter l'exonération s'il avait été assujetti à ladite taxe.
+
+Les employeurs qui sont redevables d'une taxe dont le montant total est inférieur à la somme des exonérations prévues à
+l'article D. 811-57 a peuvent également bénéficier de ce concours. Celui-ci est alors égal à [*calcul*] la différence entre
+les sommes dont ils auront obtenu exonération et celles pour lesquelles ils auraient pu l'obtenir si le montant de la taxe
+due avait été suffisant.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-57 (Ab)
+	  - Code du travail - art. L118-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-58 (Ab)
+	  - Code du travail - art. D811-60 (Ab)
+	  - Code du travail - art. D811-80 (Ab)
+
+
+###### Article D811-60
+
+Le concours financier prévu à l'article D. 811-59 est versé par le centre dans lequel est inscrit l'apprenti intéressé à la
+fin de chaque année de formation, pour les salaires payés au cours de l'année, sous réserve d'une assiduité satisfaisante de
+l'apprenti aux cours et autres activités pédagogiques organisés par le centre de formation d'apprentis et à la condition
+qu'aucune insuffisance grave n'ait été constatée dans la formation pratique reçue dans l'entreprise.
+
+Les sommes nécessaires sont prélevées par l'organisme gestionnaire du centre sur le reliquat du produit des versements qu'il
+reçoit des employeurs en application de l'article D. 811-57 après prélèvement des sommes nécessaires au fonctionnement et,
+éventuellement, à l'équipement du centre, dans les limites des prévisions budgétaires établies en application de la
+convention passée entre l'Etat et l'organisme gestionnaire. Si ce reliquat est insuffisant, le centre peut recevoir une
+subvention de l'Etat dans les limites et selon les conditions fixées par la convention créant le centre.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-57 (Ab)
+	  - Code du travail - art. D811-59 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-80 (Ab)
+
+
+##### Section 5 : Dispositions provisoires
+
+##### Paragraphe 1 : Des accords provisoires
+
+##### Dispositions générales.
+
+###### Article D811-61
+
+Les accords provisoires, prévus à l'article L. 119-3, peuvent être passés par le préfet de département soit avec des
+organismes gestionnaires de cours professionnels existant à la date d'entrée en vigueur du présent chapitre soit avec tout
+autre organisme public ou privé qui, à la même date, contribue déjà à la formation des apprentis.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-62 (Ab)
+	  - Code du travail - art. D811-63 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L119-3 (AbD)
+	  - Code du travail D811-1 A D811-80
+
+
+###### Article D811-64
+
+Le préfet peut dénoncer les accords provisoires [*sanction*] , après mise en demeure non suivie d'effet, pour méconnaissance
+des obligations résultant desdits accords ou pour insuffisance grave de la formation. Dans ce cas, sont applicables les
+articles D. 811-30 et D. 811-31.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-30 (Ab)
+	  - Code du travail - art. D811-31 (Ab)
+
+
+##### Des accords simples.
+
+###### Article D811-65
+
+Les accords simples [*contenu*] doivent fixer :
+
+La date à partir de laquelle l'organisme cessera d'être habilité à recevoir de nouveaux apprentis ;
+
+La liste des formations maintenues et, éventuellement, le calendrier de leur suppression ;
+
+L'aire géographique de recrutement normal des apprentis ;
+
+Eventuellement, la liste des annexes locales ;
+
+Le nombre minimal et maximal d'apprentis à admettre annuellement pour l'ensemble des formations.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-66
+
+Les articles D. 811-4, D. 811-23 et D. 811-28 sont applicables dans le cas des accords simples.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-23 (Ab)
+	  - Code du travail - art. D811-28 (Ab)
+	  - Code du travail - art. D811-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D811-23 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. D811-28 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. D811-4 (Ab)
+
+
+###### Article D811-67
+
+L'accord simple définit les modalités de financement des formations. Lorsque l'accord prévoit une subvention à la charge de
+l'Etat, les règles d'attribution et de calcul de cette subvention sont celles qui étaient applicables à la date du 17 juillet
+1971.
+
+L'organisme gestionnaire peut aussi recevoir des subventions des collectivités locales ainsi que des versements des
+employeurs assujettis à la taxe d'apprentissage.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+##### Des accords de transformation.
+
+###### Article D811-69
+
+L'accord de transformation [*contenu*] fixe l'aire géographique normale de recrutement des apprentis, la liste des formations
+à maintenir, à créer et à supprimer, l'effectif minimal et maximal d'apprentis pouvant être accueillis chaque année ainsi que
+les taux d'encadrement des apprentis.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-70
+
+L'accord de transformation [*contenu*] fixe le calendrier selon lequel l'horaire annuel des formations organisées par le
+centre sera progressivement porté au minimum de 360 [*nombre*] heures prévu à l'article L. 116-3.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L116-3 (M)
+
+
+###### Article D811-71
+
+Les organismes bénéficiaires d'un accord de transformation doivent s'engager à respecter [*obligation*] progressivement les
+règles édictées par les annexes pédagogiques à la convention type prévues à l'article R. 811-2.
+
+L'accord détermine à titre provisoire, et sous réserve de révision annuelle, les matières enseignées et l'horaire consacré à
+chacune d'elles.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. R811-2 (V)
+
+
+###### Article D811-72
+
+Les articles D. 811-4, D. 811-8, D. 811-10, D. 811-11, D. 811-28 à D. 811-31 et, sous réserve des dispositions prévues à
+l'article D. 811-74, les articles D. 811-23 à D. 811-26 sont applicables dans le cas d'accords de transformation.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-10 (Ab)
+	  - Code du travail - art. D811-11 (Ab)
+	  - Code du travail - art. D811-4 (Ab)
+	  - Code du travail - art. D811-74 (Ab)
+	  - Code du travail - art. D811-8 (Ab)
+	  - Code du travail D811-23 A D811-26
+
+
+###### Article D811-73
+
+L'accord de transformation détermine les modalités de fonctionnement financier applicables pendant la durée de sa validité
+conformément aux dispositions des articles D. 811-14 à D. 811-16.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail D811-14 A D811-16
+
+
+##### Dispositions relatives au personnel.
+
+###### Article D811-74
+
+Conformément aux dispositions du dernier alinéa de l'article L. 119-3, les personnels en fonctions à la date du 1er octobre
+1973 dans les cours professionnels ou organismes de formation d'apprentis de toute nature, qui ne satisfont pas aux règles
+définies par les articles D. 811-24 et D. 811-25 mais qui possèdent les qualifications qui étaient exigées avant ladite date,
+compte tenu de la date de leur recrutement ou de leur nomination pour occuper les postes auxquels ils sont parvenus, sont
+autorisés de plein droit à continuer d'assurer leurs fonctions pendant la durée des accords provisoires concernant ces cours
+et organismes.
+
+Conformément à l'article L. 116-5 (alinéa 2) ils seront ultérieurement admis par le comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi, sur leur demande, à exercer leurs fonctions dans les centres de
+formation d'apprentis issus des organismes bénéficiant d'un accord de transformation. Le comité départemental pourra
+toutefois subordonner cette admission à la condition que l'intéressé ait accompli avec succès, dans le délai maximum de deux
+ans, le stage prévu audit article.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-24 (Ab)
+	  - Code du travail - art. D811-25 (Ab)
+	  - Code du travail - art. L119-3 (AbD)
+	  - Code du travail L116-5 AL. 2
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-72 (Ab)
+	  - Code du travail - art. D811-78 (Ab)
+
+
+###### Article D811-75
+
+Les personnels de l'Etat en fonctions dans des cours professionnels agricoles ou dans les cours polyvalents ruraux peuvent
+être maintenus dans leurs fonctions pendant la durée des accords provisoires concernant ces cours, ainsi qu'à partir du
+moment où ceux-ci sont transformés en centres de formation d'apprentis ou encore en sections ou annexes de centre
+interprofessionnel. Dans ce cas, les intéressés sont, durant ces périodes, placés en position de détachement en application
+de l'article L. 116-5 (alinéa 3).
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail L116-5 AL. 3
+
+
+###### Article D811-76
+
+Les personnels de direction et d'enseignement relevant des chambres de métiers et qui sont déjà en fonctions dans des cours
+professionnels ou organismes de formation existant avant le 1er octobre 1973 [*date limite*] sont maintenus en fonctions de
+plein droit pendant la durée des accords provisoires concernant ces cours ou organismes, ainsi qu'à partir de la
+transformation de ceux-ci en centres de formation d'apprentis ou en annexes de centres de formation d'apprentis, sous réserve
+qu'ils satisfassent aux conditions posées aux articles L. 116-5 (alinéa 1 et 2) et L. 119-3 (dernier alinéa).
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L119-3 (AbD)
+	  - Code du travail L116-5 AL. 1 ET 2
+
+
+###### Article D811-77
+
+Le préfet de département peut, après avis du comité départemental de la formation professionnelle, de la promotion sociale et
+de l'emploi, déroger, dans le cadre des accords provisoires, aux conditions de recrutement du personnel enseignant prévues à
+l'article D. 811-25.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-25 (Ab)
+
+
+###### Article D811-78
+
+Les accords de transformation comportent l'engagement de l'organisme gestionnaire de recruter en priorité, pour la
+satisfaction des besoins non couverts par application de l'article D. 811-68, le personnel à temps plein en provenance des
+cours professionnels ou autres organismes de formation d'apprentis qui doivent cesser toute activité, sous réserve que ce
+personnel possède les compétences requises et qu'il satisfasse aux exigences de qualification définies à l'article D. 811-74.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-68 (M)
+	  - Code du travail - art. D811-74 (Ab)
+
+
+##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
+
+###### Article D811-80
+
+Sont admis en exonération de la taxe d'apprentissage et pris en compte pour la détermination de la fraction de taxe prévue à
+l'article L. 118-3 :
+
+a) Les concours financiers versés aux organismes bénéficiant d'un accord provisoire ;
+
+b) Les salaires versés aux apprentis inscrits dans ces organismes, dans les limites fixées à l'article D. 811-57 a.
+
+Les employeurs dont les apprentis sont inscrits dans ces organismes peuvent bénéficier du concours prévu aux articles D.
+811-59 et D. 811-60.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-59 (Ab)
+	  - Code du travail - art. D811-60 (Ab)
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail D811-57 a , D811-59, D811-60
+
 
 #### Chapitre IV : Salaire
 
@@ -94281,70 +98829,6 @@ chaque département d'outre-mer.
 	**Cite**:
 
 	  - Code du travail
-
-
-###### Article D814-2
-
-Dans chaque département d'outre-mer la commission départementale présidée par le préfet ou son représentant est composée
-comme suit :
-
-Trois [*nombre*] représentants de l'administration du travail, de l'agriculture et des affaires économiques ;
-
-Trois représentants des organisations syndicales d'employeurs ;
-
-Trois représentants des organisations syndicales de travailleurs ;
-
-Les membres de la commission départementale doivent être de nationalité française et jouir de leurs droits civils et
-politiques.
-
-La commission peut s'adjoindre à titre consultatif un représentant des organisations familiales.
-
-Elles est chargée de suivre l'évolution du coût de la vie en liaison avec l'Institut national de la statistique et des études
-économiques [*INSEE*] qui aura à cet effet communication des éléments ayant servi à établir l'indice d'ensemble des prix à la
-consommation familiale dans le département.
-
-Les membres de la commission autres que les représentants de l'administration sont désignés par arrêté du préfet sur
-proposition des organisations syndicales intéressées.
-
-Des membres suppléants désignés dans les mêmes conditions sont appelés à remplacer les titulaires en cas d'absence de ces
-derniers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°74-808 1974-09-19 VI JORF 29 septembre
-
-
-###### Article D814-3
-
-L'institut national de la statistique et des études économiques [*INSEE*] est chargé d'établir et de suivre l'indice
-d'ensemble des prix à la consommation familiale dans chacun des départements d'outre-mer.
-
-Lorsqu'une augmentation égale ou supérieure à 5 p. 100 [*pourcentage*] de l'indice d'ensemble des prix à la consommation
-familiale du département a été enregistrée le salaire minimum de croissance [*SMIC*] est modifié proportionnellement à
-l'augmentation constatée.
-
-Toutefois, deux modifications successives ne peuvent intervenir, sauf circonstances exceptionnelles pendant une période de
-quatre mois.
-
-Un arrêté conjoint du ministre chargé des affaires économiques, du ministre chargé du travail et des ministres intéressés
-fait connaître le nouveau salaire minimum de croissance déterminé conformément aux alinéas qui précèdent ainsi que l'indice
-de référence utilisé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°74-808 1974-09-19 VI JORF 29 septembre
 
 
 ### Titre II : Réglementation du travail
@@ -95271,6 +99755,198 @@ Sont obligatoires les clauses de la convention type qui correspondent aux dispos
 	  - Code du travail D811-3 A D811-11, D811-14 ET D811-21
 
 
+##### CONTRAT D'APPRENTISSAGE
+
+##### AGREMENT DE L'EMPLOYEUR .
+
+###### Article D811-32
+
+L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
+l'établissement. Cette demande [*contenu*] précise notamment :
+
+Le nombre d'apprentis que l'employeur est susceptible d'accueillir simultanément ;
+
+Sur la base d'une liste établie par le comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi, les éléments de nature à établir que l'équipement de l'entreprise, ses techniques d'exploitation et les conditions
+d'emploi de la main-d'oeuvre sont susceptibles de permettre,
+
+dans des conditions satisfaisantes, la formation pratique des apprentis ;
+
+Les noms et qualifications professionnelles de la ou des personnes responsables de la formation des apprentis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L117-5 (M)
+
+
+##### AVIS D'ORIENTATION .
+
+###### Article D811-40
+
+L'avis d'orientation [*contenu*] prévu par l'article L. 117-3 (alinéa 2) est délivré, à la suite d'un examen individuel, par
+un centre public d'information et d'orientation ou par un centre créé en application de l'article 39 du code de l'artisanat.
+Il porte notamment sur l'aptitude de l'apprenti à suivre la formation envisagée. Il doit être accompagné d'un certificat
+établi par le médecin du centre ou par un médecin du travail ou de la santé scolaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-42 (M)
+
+	**Cite**:
+
+	  - Code du travail L117-3 AL.  2
+	  - Code de l'artisanat - art. 39 (M)
+
+
+##### CONTENU DES CONTRATS D'APPRENTISSAGE .
+
+###### Article D811-41
+
+Le contrat d'apprentissage est constaté par un écrit sous seing privé et est établi au moins en trois exemplaires originaux
+[*nombre minimum*]. Chacun des exemplaires originaux doit être signé par l'employeur et par l'apprenti ainsi que par le
+représentant légal de celui-ci [*condition de forme*] .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D811-42
+
+Doivent obligatoirement figurer dans le contrat d'apprentissage les mentions suivantes :
+
+Les nom et prénoms de l'employeur ou la raison sociale de l'entreprise, l'adresse du siège de l'entreprise et celle de
+l'établissement où s'effectue l'apprentissage ;
+
+La désignation de la formation assurée par la mention du diplôme de l'enseignement technologique auquel conduit cette
+formation ;
+
+La date de l'agrément accordé par le comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi ;
+
+Les nom, prénoms, date de naissance et domicile de l'apprenti ;
+
+Les nom, prénoms, domicile de ses père et mère ou de son représentant légal ;
+
+La désignation de l'organisme qui a délivré l'avis d'orientation prévu à l'article D. 811-40 ;
+
+La mention du dernier établissement scolaire fréquenté et la date de fin des études ;
+
+La date de début de l'apprentissage et la durée du contrat ;
+
+La dénomination et l'adresse du centre de formation d'apprentis auquel a été inscrit le titulaire du contrat ainsi que
+l'identification de la section assurant la formation définie au contrat ;
+
+Lorsqu'une dérogation a été demandée en application de l'article D. 811-39, l'indication de la date de la décision intervenue
+ou, en cas de décision implicite, de celle à laquelle la demande de dérogation a été reçue par l'autorité désignée audit
+article ;
+
+Lorsque le contrat constitue la prorogation d'un contrat antérieur, la date de l'avis circonstancié du directeur du centre de
+formation d'apprentis que prévoit l'article L. 117-9.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. D811-39 (Ab)
+	  - Code du travail - art. D811-40 (M)
+	  - Code du travail - art. L117-9 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-47 (Ab)
+
+
+##### DISPOSITIONS FINANCIERES .
+
+###### Article D811-52
+
+Le salaire minimum de l'apprenti, prévu par l'article L. 117-10, est fixé comme suit :
+
+20 p. 100 du salaire minimum de croissance pour chacun des deux premiers semestres ;
+
+35 p. 100 pour chacun des troisième et quatrième semestres ;
+
+50 p. 100 pendant la troisième année lorsque la durée de l'apprentissage a été portée à trois ans.
+
+Lorsque cette durée a été ramenée à un an, le salaire minimum de l'apprenti est fixé, pour chacun des deux semestres, à 25 p.
+100 du salaire minimum de croissance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-43 (Ab)
+	  - Code du travail - art. D811-53 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L117-10 (M)
+
+
+###### Article D811-54
+
+Lorsque le contrat d'apprentissage est prorogé par application de l'article L. 117-9 ou de l'article L. 117-13, le salaire
+minimal applicable pendant la prolongation est celui afférent à la troisième année de la durée normale de la formation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L117-13 (M)
+	  - Code du travail - art. L117-9 (M)
+
+
 ##### DISPOSITIONS PROVISOIRES
 
 ##### ACCORDS PROVISOIRES .
@@ -95394,6 +100070,32 @@ exécutés jusqu'à leur terme.
 ### Titre Ier : Des institutions de la formation professionnelle
 
 #### Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.
+
+###### Article D910-7
+
+Sans préjudice des attributions particulières, qui lui sont conférées par les dispositions législatives et réglementaires en
+vigueur, le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, institué par
+l'article L. 910-1 contribue à la mise en oeuvre, dans le département, de la politique de formation professionnelle, de la
+promotion sociale et de l'emploi définie au plan régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D237-12 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L910-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-276 1972-04-12 ART. 1
+
 
 ###### Article D910-8
 
@@ -95907,6 +100609,164 @@ Trois conseillers de l'enseignement technique.
 	  - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
+### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18
+
+#### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.
+
+###### Article D981-1
+
+Les stagiaires qui suivent dans un département d'outre-mer un stage défini aux 1., 3. ou 5. de /R/l'article L. 940-2/R/loi
+0754 : l'article L. 900-2// [*conversion, prévention, promotion professionnelle, préformation, formation, préparation à la
+vie professionnelle ou spécialisation*] et qui reçoivent de ce fait, en application de ladite loi, une rémunération ont droit
+au remboursement de la totalité des frais de transport exposés à l'occasion des déplacements effectués en fonction des
+nécessités des stages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D980-1 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L940-2 (M)
+
+
+###### Article D981-2
+
+Les stagiaires résidant dans un département d'outre-mer qui suivent, dans ce même département, un stage défini au 1., 3. ou
+5. de /R/l'article L. 940-2/R/loi 0754 : l'article L. 900-2// et qui reçoivent de ce fait, en application de ladite loi, une
+rémunération ont droit :
+
+Au remboursement de la totalité des frais de transport exposés au début et à la fin du stage pour rejoindre l'établissement
+ou le centre de formation et en revenir, à condition que la distance à parcourir à partir de leur domicile soit supérieure à
+25 kilomètres.
+
+Au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur famille, à condition que la
+distance à parcourir soit supérieure à 25 kilomètres, à raison :
+
+Pour les stagiaires âgés de moins de dix-huit ans et bénéficiant des dispositions de l'article L. 960-13, d'un voyage
+mensuel ; Pour les autres stagiaires, lorsqu'ils sont célibataires, d'un voyage si la durée du stage est supérieure à huit
+mois. Pour les autres stagiaires, lorsqu'ils sont mariés ou chargés de famille, d'un voyage si la durée du stage est comprise
+entre trois et huit mois et de deux voyages si cette durée est supérieure à huit mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D980-2 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. D981-12 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L940-2 (M)
+	  - Code du travail - art. L960-13 (P)
+
+
+###### Article D981-3
+
+Les stagiaires résidant en Guadeloupe, Guyane ou Martinique [*départements d'outre-mer*] qui suivent un stage défini au 1. ou
+3. de /R/l'article L. 940-2/R/loi  0754 : l'article L. 900-2// [*conversion, prévention, promotion professionnelle*], dans
+l'un des deux autres départements, ont droit au remboursement de la totalité des frais de transport exposés au début et à la
+fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir.
+
+Ces stagiaires ont également droit au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur
+famille, à raison d'un voyage si la durée du stage est supérieure à six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet
+
+	**Cité par**:
+
+	  - Code du travail - art. D981-4 (M)
+	  - Code du travail - art. D981-4-1 (Ab)
+	  - Code du travail - art. D981-5 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L940-2 (M)
+
+
+###### Article D981-4
+
+Les stagiaires résidant dans un département d'outre-mer et qui suivent un stage défini aux 1. ou 3. de /R/l'article L. 940-2/
+R/loi 0754 : l'article L. 900-2// en France métropolitaine ont droit au remboursement de la totalité des frais de transport
+exposés au début et à la fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir, sur décision
+individuelle du Premier ministre prise après avis du groupe permanent de hauts fonctionnaires prévu à l'article L. 910-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17, ART. 1-III JORF 18 juillet
+
+	**Cité par**:
+
+	  - Code du travail - art. D981-13 (Ab)
+	  - Code du travail - art. D981-4-1 (Ab)
+	  - Code du travail - art. D981-6 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L910-1 (M)
+	  - Code du travail - art. L940-2 (M)
+
+
+###### Article D981-5
+
+Le remboursement des frais de transport est effectué dans les conditions prévues aux articles R. 960-11 à R. 960-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D981-14 (Ab)
+	  - Code du travail - art. D981-3 (M)
+	  - Code du travail - art. D981-6 (M)
+
+	**Cite**:
+
+	  - Code du travail R960-11 A R960-14
+
+
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
 
 ### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE
@@ -96010,32 +100870,6 @@ Le préfet de région peut également instituer une délégation permanente du c
 
 
 #### ATTRIBUTIONS, COMPOSITION, FONCTIONNEMENT DES COMITES  DEPARTEMENTAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .
-
-###### Article D910-7
-
-Sans préjudice des attributions particulières, qui lui sont conférées par les dispositions législatives et réglementaires en
-vigueur, le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, institué par
-l'article L. 115-2 contribue à la mise en oeuvre, dans le département, de la politique de formation professionnelle, de la
-promotion sociale et de l'emploi définie au plan régional.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D237-12 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L115-2 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°72-276 1972-04-12 ART. 1
-
 
 ###### Article D910-10
 
