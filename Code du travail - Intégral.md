@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-02-06
+Version Consolidée au 1982-02-27
 
 # Partie législative ancienne
 
@@ -103442,6 +103442,199 @@ de départ*] du début du mois qui suit celui au cours duquel un apprenti a atte
 
 #### Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
+##### Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
+
+###### Article D121-1
+
+I - En application de l'article L. 122-2, des contrats à durée déterminée peuvent être conclus lorsque l'employeur s'engage à
+assurer un complément de formation professionnelle aux salariés des catégories ci-après :
+
+a) Candidats effectuant un stage en vue d'accéder à un établissement d'enseignement ;
+
+b) Elèves ou anciens élèves d'un établissement d'enseignement effectuant un stage d'application ;
+
+c) Etrangers venant en France en vue d'acquérir un complément de formation professionnelle ;
+
+d) Bénéficiaires d'une aide financière individuelle à la formation par la recherche ;
+
+e) Salariés liés par un contrat de rééducation professionnelle au sens des dispositions de l'article L. 323-15 du présent
+code ou des textes relatifs à la rééducation professionnelle des victimes d'accidents du travail et des assurés sociaux.
+
+II - La durée maximale du contrat [*à durée déterminée*] ne peut être supérieure à un an pour les catégories visées aux a et
+b ci-dessus. Toutefois, dans le cas visé au b, lorsque la durée du stage est fixée par voie réglementaire, le contrat peut
+être conclu pour cette durée.
+
+La durée maximale du contrat est également d'un an pour les étrangers visés au c lorsqu'ils ne sont pas soumis au régime de
+l'autorisation de travail prévue à l'article R. 341-7-1 du présent code. Pour les étrangers soumis à ce régime, la durée
+maximale du contrat est celle pour laquelle l'autorisation provisoire a été accordée. Si l'autorisation est renouvelée, la
+durée maximale est prolongée d'autant et le terme du contrat peut être reporté autant de fois que l'autorisation est
+renouvelée.
+
+Pour les catégories de salariés visées au d, la durée du contrat ne peut être supérieure à celle de la période donnant lieu à
+l'octroi de l'aide financière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-223 1983-03-22 ART. 2 JORF 25 MARS 1983
+
+	**Cite**:
+
+	  - Code du travail - art. L122-2 (T)
+	  - Code du travail - art. L323-15 (M)
+	  - Code du travail - art. R341-7-1 (Ab)
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. D718-7 (V)
+
+
+###### Article D121-2
+
+En application de l'article L. 122-3 (2°), les secteurs d'activité dans lesquels des contrats à durée déterminée peuvent être
+conclus pour les emplois pour lesquels il est d'usage constant de ne pas recourir au contrat à durée indéterminée en raison
+de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois sont les suivants :
+
+- les exploitations forestières ;
+
+- la manutention portuaire ;
+
+- la réparation navale ;
+
+- le déménagement ;
+
+- l'hôtellerie et la restauration ;
+
+- les spectacles ;
+
+- l'action culturelle ;
+
+- l'audiovisuel ;
+
+- l'information ;
+
+- la production cinématographique ;
+
+- l'enseignement ;
+
+- les activités d'enquête et de sondage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3 (T)
+
+	**Abrogé par**:
+
+	  - Décret n°83-223 1983-02-22 ART. 2 JORF 25 MARS 1983
+
+
+###### Article D121-3
+
+I-Le contrat de travail conclu en application de la section I du chapitre II du titre II du livre Ier du présent code doit
+comporter, outre la définition précise de son objet prévue à l'article L. 122-3-1, les indications suivantes    :
+
+- lorsqu'il est conclu dans le cas visé à l'article L. 122-1 (1°), le nom et la qualification du salarié remplacé ;
+
+- lorsqu'il comporte un terme précis, la date d'échéance du terme et, le cas échéant, une clause prévoyant le report du
+terme ;
+
+- lorsqu'il ne comporte pas de terme précis la durée minimale pour laquelle il est conclu ;
+
+- la désignation du poste de travail ou de l'emploi occupé ;
+
+- la durée de la période d'essai éventuellement prévue. 
+
+II-Il doit mentionner, en outre : 
+
+a) Lorsque le contrat comporte un terme précis, la date avant laquelle le salarié doit demander à l'employeur s'il envisage
+ou non de prolonger les relations contractuelles au-delà du terme ; 
+
+b) Lorsque le contrat comporte une clause de report du terme, la durée du délai prévu à l'article L. 122-3-8 (II) ; 
+
+c) Lorsque le contrat est conclu pour la durée du remplacement d'un salarié absent, la durée du délai prévu à l'article L.
+122-3-8 (III).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-223 1983-03-22 ART. 2 JORF 25 MARS 1983
+
+	**Cite**:
+
+	  - Code du travail - art. L122-1 (T)
+	  - Code du travail - art. L122-3-1 (M)
+	  - Code du travail - art. L122-3-8 (M)
+
+
+###### Article D121-4
+
+L'indemnité minimale de fin de contrat [*à durée déterminée*] prévue à l'article L. 122-3-5 est égale à 5 p. 100 du montant
+de la rémunération totale brute due au salarié pendant la durée du contrat et s'ajoute à celle-ci.
+
+En cas de rupture anticipée, cette indemnité, lorsqu'elle est due, est calculée sur la base de la rémunération déjà perçue et
+de celle qu'il aurait perçue jusqu'au terme du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-223 1983-03-22 ART. 2 JORF 25 MARS 1983
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D121-3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3-5 (M)
+
+
+###### Article D121-5
+
+Les notifications prévues à l'article L. 122-3-8 doivent être faites par lettre recommandée avec demande d'avis de réception
+[*condition de forme*].
+
+Il en est de même de la demande écrite du salarié prévue au premier paragraphe du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-223 1983-03-22 ART. 2 JORF 25 MARS 1983
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R321-2 (M)
+
+
 ##### Section 2 : Résiliation du contrat de travail à durée indéterminée.
 
 ###### Article D122-1
@@ -103995,6 +104188,42 @@ de chômage.
 
 #### Chapitre IV : Travail temporaire.
 
+###### Article D124-1
+
+L'indemnité minimale de précarité d'emploi prévue à l'article L. 124-4, qui s'ajoute à la rémunération totale brute du
+salarié lié par un contrat de travail temporaire, laquelle ne peut être inférieure à celle définie à l'article L. 124-3 (5°),
+est égale à 15 p. 100 de cette rémunération totale brute [*pourcentage, montant*]. Elle est perçue par le salarié à l'issue
+de chaque mission effectivement accomplie.
+
+Ce taux est ramené à 10 p. 100 si l'entrepreneur de travail temporaire propose par écrit au salarié, dans un délai de trois
+jours ouvrables, un nouveau contrat de travail d'une durée au moins égale à la moitié de celle du contrat de travail
+précédent. Le nouveau contrat ne peut comporter de modifications substantielles entraînant une situation moins favorable pour
+le salarié en ce qui concerne la qualification, la rémunération, l'horaire de travail et le temps de transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-198 1982-02-26 JORF 27 février 1982 rectificatif JORF 2 Mars 1982
+
+	**Abrogé par**:
+
+	  - Décret n°91-399 du 25 avril 1991 - art. 2 () JORF 27 avril 1991
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D124-2 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-4 (M)
+
+
 ###### Article D124-2
 
 L'indemnité de précarité d'emploi est prise en compte pour la détermination de la rémunération totale visée au premier alinéa
@@ -104018,6 +104247,67 @@ de l'article L. 223-11 du code du travail.
 	**Cite**:
 
 	  - Code du travail L223-11 AL. 1
+
+
+###### Article D124-3
+
+La demande d'accord préalable prévue à l'article L. 124-2 (4°, a) est adressée par l'établissement utilisateur au directeur
+départemental du travail et de l'emploi.
+
+Cette demande doit être faite par lettre recommandée avec demande d'avis de réception [*conditions de forme*] et comporter
+[*mentions obligatoires*] :
+
+1° Le nom, l'adresse et l'activité de l'établissement utilisateur ;
+
+2° La qualification du ou des salariés temporaires auxquels l'utilisateur se propose de recourir et l'emploi qui leur sera
+attribué.
+
+3° Le nom, la qualification et l'emploi du ou des salariés licenciés pour motif économique au cours des douze mois précédents
+dans les emplois où il est envisagé de recourir à un ou des salariés temporaires ;
+
+4° Les justifications du recours au salarié temporaire.
+
+Le directeur départemental du travail et de l'emploi avise l'utilisateur de sa décision par lettre recommandée avec demande
+d'avis de réception ou par notification accompagnée d'un reçu que l'utilisateur date et signe.
+
+Cette décision doit parvenir à l'utilisateur dans un délai de sept jours à compter de la date de présentation de la lettre
+recommandée adressée par l'utilisateur. A défaut de réception d'une décision du directeur départemental du travail et de
+l'emploi dans ce délai, l'accord demandé est réputé acquis [*accord tacite*].
+
+Les attributions conférées ci-dessus au directeur départemental du travail et de l'emploi sont exercées dans les branches
+d'activité échappant à la compétence de ce directeur par les fonctionnaires chargés du contrôle de l'emploi dans lesdites
+branches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-197 1982-02-26 JORF 27 FEVRIER 1982 RECTIFICATIF JORF 2 MARS 1982
+
+	**Transféré par**:
+
+	  - Décret n°86-531 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code du travail - art. D124-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D124-4 (Ab)
+	  - Code du travail - art. D124-4 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail D124-4 : POSSIBILITE DE DELEGATION DE SIGNATURE
 
 
 ### Titre III : Conventions collectives de travail
@@ -104590,31 +104880,6 @@ formation.
 	  - Code du travail - art. L117-9 (M)
 
 
-### CONTRAT DE TRAVAIL
-
-#### TRAVAIL TEMPORAIRE .
-
-###### Article D124-1
-
-Le taux minimum de l'indemnité de précarité d'emploi prévue à l'article L. 124-5 du code du travail, est porté à 10 p. 100 du
-salaire brut perçu pour chaque mission effectivement accomplie par le salarié lié par un contrat de travail temporaire
-[*montant*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail - art. D124-2 (T)
-
-	**Cite**:
-
-	  - Code du travail - art. L124-5 (M)
-
-
 ## Livre II : Réglementation du travail
 
 ### Titre Ier : Conditions du travail
@@ -104862,6 +105127,56 @@ suspendue pour cette catégorie :
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R3122-7 (V)
+
+
+##### SECTION 2 : TRAVAIL A TEMPS CHOISI.
+
+###### Article D212-4-1
+
+En cas de pratique d'horaires individualisés tels que définis à l'article L. 212-4-1, et à défaut de dispositions différentes
+d'une convention ou d'un accord collectif étendu ou d'un accord d'entreprise ou d'établissement, le report d'heures d'une
+semaine à une autre prévu à l'alinéa 3 de ce même article ne peut excéder trois heures et le cumul des reports ne peut avoir
+pour effet de porter le total des heures reportées à plus de 10.
+
+Les accords collectifs d'entreprise ou d'établissement prévus à l'alinéa précédent doivent pour entrer en vigueur ne pas
+avoir fait l'objet d'une opposition d'une ou des organisations syndicales non signataires qui totalisent un nombre de voix
+supérieur à 50 p. 100 du nombre des électeurs inscrits aux dernières élections du comité d'entreprise ou, s'il n'existe pas,
+des délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-195 1982-02-26 ART. 2 JORF 27 FEVRIER 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-1 (AbD)
+
+
+###### Article D212-4-2
+
+Les décisions [*d'autorisation des horaires individualisés par l'inspecteur du travail*] qui sont prises en vertu du deuxième
+alinéa de l'article L. 212-4-1 doivent être notifiées dans les deux mois suivant le dépôt de la demande par l'employeur
+[*délai*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-195 1982-02-26 ART. 3 JORF 27 FEVRIER 1982 RECTIFICATIF JORF 10 MARS 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.
