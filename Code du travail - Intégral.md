@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-10-30
+Version Consolidée au 1981-11-14
 
 # Partie législative ancienne
 
@@ -5041,6 +5041,89 @@ du travail au 1er mai 2008.
 	  - Code du travail 32 c et f
 
 
+### Titre III : Conventions et accords collectifs de travail
+
+#### Chapitre IV : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL DANS LES ENTREPRISES PUBLIQUES ET ETABLISSEMENTS PUBLICS A CARACTERE INDUSTRIEL ET COMMERCIAL.
+
+###### Article L134-1
+
+Dans les entreprises publiques et les établissements publics à caractère industriel ou commercial, les conditions d'emploi et
+de travail ainsi que les garanties sociales peuvent être déterminées, en ce qui concerne les catégories de personnel qui ne
+sont pas soumises à un statut législatif ou réglementaire particulier, par des conventions et accords collectifs de travail
+conclus conformément aux dispositions du présent titre [*bénéficiaires*].
+
+Les dispositions de l'alinéa précédent s'appliquent aux entreprises privées, lorsque certaines catégories de personnel sont
+régies par le même statut législatif ou réglementaire que celles d'entreprises ou d'établissements publics.
+
+Dans les entreprises privées, les entreprises publiques et les établissements publics à caractère industriel et commercial,
+des conventions ou accords d'entreprises peuvent compléter les dispositions statutaires ou en déterminer les modalités
+d'application dans les limites fixées par le statut.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-707 du 9 août 1953 - art. 6 (V)
+	  - Loi n°57-821 du 23 juillet 1957 - art. 6 (V)
+	  - Loi n°78-49 du 19 janvier 1978 - art. 1 (AbD)
+	  - Décret n°93-852 du 17 juin 1993 - art. 4 (Ab)
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 3 (V)
+	  - Décret n°2005-684 du 21 juin 2005 - art. 1 (Ab)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+	  - Code de commerce - art. D711-5 (V)
+	  - Code du travail - art. D134-1 (Ab)
+	  - Code du travail - art. L141-1 (AbD)
+	  - Code du travail - art. L451-5 (AbD)
+	  - Code du travail - art. L522-1 (M)
+	  - Code du travail - art. L713-1 (VT)
+	  - Code du travail - art. R136-4 (M)
+	  - Code du travail - art. R225-8 (VT)
+	  - Code du travail - art. R526-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°82-957 1982-11-13 ART. 1, ART. 5, ART. 9 JORF 14 NOVEMBRE 1982
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L134-2
+
+Lorsqu'une convention de branche ou un accord professionnel ou interprofessionnel fait l'objet d'un arrêté d'extension ou
+d'élargissement pris en application du chapitre précédent, leurs dispositions sont applicables à ceux des entreprises et
+établissements mentionnés à l'article précédent qui, en raison de l'activité exercée, se trouvent dans le champ d'application
+visé par l'arrêté, en ce qui concerne les catégories de personnel ne relevant pas d'un statut législatif ou réglementaire
+particulier.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-957 1982-11-13 ART. 1, ART. 5, ART. 9 JORF 14 NOVEMBRE 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2233-3 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### Titre III : CONVENTIONS COLLECTIVES DE TRAVAIL
 
 #### Chapitre III : CONVENTIONS SUSCEPTIBLES D'ETRE ETENDUES ET PROCEDURE D'EXTENSION .
@@ -10020,71 +10103,6 @@ les conditions définies aux articles L. 133-13, L. 133-14, L. 133-15, font l'ob
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L2261-31 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### CONVENTIONS COLLECTIVES DANS LES ENTREPRISES PUBLIQUES .
-
-###### Article L134-1
-
-Lorsque le personnel d'une entreprise publique n'est pas soumis, pour les conditions de travail relevant des conventions
-collectives, à un statut législatif ou règlementaire particulier, des conventions collectives peuvent être conclues
-conformément aux dispositions du présent titre.
-
-La liste des entreprises à statut est déterminée par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°53-707 du 9 août 1953 - art. 6 (V)
-	  - Loi n°57-821 du 23 juillet 1957 - art. 6 (V)
-	  - Loi n°78-49 du 19 janvier 1978 - art. 1 (AbD)
-	  - Décret n°93-852 du 17 juin 1993 - art. 4 (Ab)
-	  - Loi n°2004-734 du 26 juillet 2004 - art. 3 (V)
-	  - Décret n°2005-684 du 21 juin 2005 - art. 1 (Ab)
-	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
-	  - Code de commerce - art. D711-5 (V)
-	  - Code du travail - art. D134-1 (Ab)
-	  - Code du travail - art. L141-1 (AbD)
-	  - Code du travail - art. L451-5 (AbD)
-	  - Code du travail - art. L522-1 (M)
-	  - Code du travail - art. L713-1 (VT)
-	  - Code du travail - art. R136-4 (M)
-	  - Code du travail - art. R225-8 (VT)
-	  - Code du travail - art. R526-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail 1031 O
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L134-2
-
-Lorsqu'une convention collective fait l'objet d'un arrêté portant extension pris en application de l'article L. 133-10, elle
-est, en l'absence de dispositions contraires, applicable aux entreprises [*publiques*] mentionnées à l'article précédent qui,
-en raison de la nature de leur activité, se trouvent placées dans son champ d'application.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L133-10 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L2233-3 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1031 P
 
 	**Codifié par**:
 
