@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-05-21
+Version Consolidée au 1981-09-10
 
 # Partie législative ancienne
 
@@ -76124,86 +76124,6 @@ Le conseil supérieur établit un rapport annuel d'activité qui est publié.
 
 #### SECURITE
 
-##### MESURES D'APPLICATION .
-
-###### Article R233-46
-
-Dans le cas où il est reconnu qu'il est pratiquement impossible d'appliquer les prescriptions des articles :
-
-R. 233-16 (alinéa 2) ;
-
-R. 233-24 (alinéa 1) ;
-
-R. 233-25 ;
-
-R. 233-27 (alinéa 4) ;
-
-R. 233-30 (alinéa 1) ;
-
-R. 233-32 (alinéa 1) ;
-
-R. 233-33 ;
-
-R. 233-34 ;
-
-R. 233-35 ;
-
-R. 233-36 (alinéas 1 et 2) ;
-
-R. 233-37 (alinéas 1, 2, 3 et 4) ;
-
-R. 233-42 (alinéa 2), et que la sécurité des travailleurs est assurée dans des conditions équivalentes à celles qui sont
-définies par le présent chapitre, il peut être accordé à un établissement dispense permanente ou temporaire de tout ou partie
-de ces prescriptions.
-
-Cette dispense est accordée par arrêté du ministre chargé du travail [*compétence*] pris, après enquête des services de
-l'inspection du travail et après avis de la Commission de sécurité du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNESA L'ARTICLE L231-1
-	  - TXT_ASSOCIE: Code du travail - art. R233-16 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-24 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-25 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-27 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-30 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-32 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R233-32-2 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-33 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-34 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-35 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-35-1 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-35-2 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-36 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-37 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-37-1 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R233-42 (T)
-
-	**Cite**:
-
-	  - Code du travail - art. R233-25 (Ab)
-	  - Code du travail - art. R233-33 (M)
-	  - Code du travail - art. R233-34 (M)
-	  - Code du travail - art. R233-35 (M)
-	  - Code du travail R233-1 A R233-49
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R233-43 (T)
-	  - Décret  1913-07-10 ART. 30
-	  - Décret  1969-09-02
-
-	**Cité par**:
-
-	  - Code du travail - art. R233-47 (VT)
-
-
 ##### SECTION VII : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5
 
 ##### SOUS-SECTION I - MACHINES ET APPAREILS.
@@ -76619,46 +76539,6 @@ Les locaux fermés affectés au travail, leurs dépendances et notamment les pas
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R232-7 (M)
-
-
-#### MESURES D'APPLICATION.
-
-###### Article R232-43
-
-Dans le cas où il est reconnu qu'il est pratiquement impossible d'appliquer les prescriptions des articles R. 232-1 (alinéa),
-R. 232-2 (alinéas 2 et 3), R. 232-4, R. 232-10 (alinéas 3, 4 et 5), R. 232-29 (alinéas 1 et 2) [*aeration, nettoyage, siége*]
-et que l'hygiène des travailleurs est assurée dans des conditions équivalentes à celles qui sont définies par le présent
-chapitre, il peut être accordé à un établissement dispense permanente ou temporaire de tout ou partie de ces prescriptions.
-
-Cette dispense est accordée par arrêté du ministre chargé du travail pris après enquête du service de l'inspection du travail
-et après avis de la commission d'hygiène industrielle ou de la commission de sécurité du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNESA L'ARTICLE L231-1
-	  - TXT_ASSOCIE: Code du travail - art. R231-1 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R232-1 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R232-10 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R232-29 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R232-4 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R232-4 (M)
-	  - Code du travail - art. R232-45 (M)
-	  - Code du travail R232-1 AL. 2, R232-2 AL. 2 ET 3, R232-4, R232-10 AL. 3, 4, 5
-
-	**Anciens textes**:
-
-	  - Décret  1913-07-10 ART. 30
-	  - Décret  1948-12-11
-	  - Décret  1969-09-02
 
 
 ### MEDECINE DU TRAVAIL
@@ -88486,6 +88366,34 @@ ordonner toutes les mesures qui ne se heurtent à aucune contestation sérieuse 
 
 	  - Code du travail - art. R1455-5 (V)
 	  - Code du travail - art. R516-32 (M)
+
+
+###### Article R516-32
+
+La demande en référé est formée aux choix du demandeur soit par acte d'huissier de justice, soit dans les conditions prévues
+à l'article R. 516-8. Lorsque la demande est formée par acte d'huissier de justice, une copie de l'assignation doit être
+remise au secrétariat-greffe du conseil de prud'hommes, au plus tard la veille de l'audience ; lorsque la demande est formée
+dans les conditions prévues à l'article R. 516-8, les dispositions des articles R. 516-9 à R. 516-11 sont applicables.
+
+Le règlement intérieur du conseil de prud'hommes fixe les jour et heure habituels des audiences de référé. Une audience par
+semaine au moins doit être prévue. Si les circonstances l'exigent, le président du conseil de prud'hommes, après avis du
+vice-président, peut fixer une ou plusieurs audiences supplémentaires ou déplacer les jour et heure de la ou des audiences de
+la semaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
+	  - Décret n°81-835 du 8 septembre 1981 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Décret n°81-835 du 8 septembre 1981 - art. 1 () JORF 10 septembre
 
 
 ###### Article R516-34
