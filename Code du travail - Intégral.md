@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-17
+Version Consolidée au 1980-01-25
 
 # Partie législative ancienne
 
@@ -27004,227 +27004,6 @@ est fixé au prorata de la valeur des travaux ou services exécutés par les tra
 
 
 ## PLACEMENT ET EMPLOI
-
-### AGENCE NATIONALE POUR L'EMPLOI *ANPE* .
-
-###### Article L330-2
-
-L'agence participe à la gestion du service public de l'emploi.
-
-A ce titre, elle est le correspondant des demandeurs d'emploi pour le placement. Elle est chargée pour le compte de l'Etat :
-
-1. De la prospection des emplois disponibles et du placement des travailleurs ;
-
-2. Du fonctionnement de la bourse nationale de l'emploi ;
-
-3. De l'accueil et de l'information des travailleurs ;
-
-4. Des opérations préalables aux formations professionnelles vers lesquelles elle oriente les demandeurs d'emploi en liaison
-avec les administrations et organismes responsables des centres de formation.
-
-Elle participe également à l'établissement des statistiques relatives au marché de l'emploi.
-
-/A/Elle procède en outre à la constitution au bénéfice des demandeurs d'emploi des dossiers d'admission à l'aide publique
-prévue au chapitre 1er du titre V du présent livre et transmet ces dossiers aux services du travail et de la main-d'oeuvre.
-
-Elle effectue par délégation de ces derniers les opérations de contrôle de la qualité de bénéficiaire de l'aide susvisée /A/
-Loi 0032 16-01-1979//.
-
-//LOI 0534 30-06-1975 :
-
-L'Agence nationale pour l'emploi apporte son concours à l'orientation et au placement des travailleurs handicapés//.
-
-//LOI 0574 07-06-1977 : L'Agence nationale pour l'emploi peut en outre être chargée, dans des conditions fixées par décret en
-Conseil d'Etat, de l'attribution, de la liquidation et du paiement des aides à la mobilité des travailleurs ainsi que de la
-prime de mobilité des jeunes// .
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2015-1423 du 5 novembre 2015 - art. (V)
-	  - Code du travail - art. L323-11 (M)
-	  - Décret n°84-69 du 30 janvier 1984 - art. 4 (Ab)
-	  - Décret n°92-449 du 21 mai 1992 - art. 4 (P)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (M)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 22 (M)
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 33 (M)
-	  - Code du travail - art. D123-11 (VT)
-
-	**Cite**:
-
-	  - Code du travail L351-1 A L351-21
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 2
-
-	**Modifié par**:
-
-	  - Loi n°75-534 du 30 juin 1975 - art. 22 () JORF 1ER juillet 1975
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°76-769 1976-08-09 : DIFFERE LA DATE D'ENTREE EN VIGUEUR DE L'ARTICLE 22 DE LA LOI DU 30 JUIN 1975
-
-
-###### Article L330-3
-
-Le directeur général du travail et de l'emploi préside le comité de gestion qui est composé de représentants des
-administrations intéressées. Ce comité établit le programme d'action de l'agence ainsi que le budget correspondant.
-
-Un comité consultatif est placé auprès du président du comité de gestion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 3
-
-	**Cité par**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (VT)
-	  - Décret n°2015-1423 du 5 novembre 2015 - art. (V)
-
-
-###### Article L330-4
-
-Le comité de gestion délibère [*attribution*] sur les questions qui lui sont soumises par son président, ainsi que sur le
-rapport annuel d'activité qui lui est présenté par le Directeur général.
-
-Il délibère obligatoirement sur :
-
-- le budget de l'établissement et les décisions modificatives ;
-
-- les emprunts ;
-
-- le compte financier ;
-
-- les acquisitions et les aliénations immobilières ;
-
-- les conventions visées à l'article L. 312-4 [*organismes de placement gratuit*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-445 1972-05-15 ART. 1
-	  - Ordonnance 67-578 1967-07-13 ART. 4
-
-	**Cite**:
-
-	  - Code du travail - art. L312-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L330-5
-
-Pour l'administration de l'agence le président du comité de gestion est assisté d'un Directeur général nommé par décret pris
-sur le rapport /M/du ministre chargé des affaires sociales/M/LOI  0004 : du ministre chargé du travail//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-445 1972-05-15 ART. 1
-	  - Ordonnance 67-578 1967-07-13 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Ordonnance n°2000-373 du 26 avril 2000 - art. 15 (VT)
-
-
-###### Article L330-6
-
-L'agence comporte des centres régionaux et des sections locales qui sont placés sous l'autorité respective des directeurs
-régionaux et des directeurs départementaux du travail et de la main-d'oeuvre. Les attributions qu'exercent à ce titre les
-directeurs régionaux et départementaux sont définies par décret en conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 6
-
-	**Cité par**:
-
-	  - Code du travail - art. L124-12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L330-7
-
-Le personnel de l'agence est constitué par :
-
-- des fonctionnaires du service du travail et de la main-d'oeuvre affectés à l'établissement ;
-
-- des fonctionnaires détachés de leur administration d'origine ;
-
-- des agents contractuels de droit public ou de droit privé.
-
-Des décisions conjointes du ministre chargé du travail et du ministre chargé de l'économie et des finances fixent le
-règlement applicable à ce personnel ainsi que son régime de retraite et son régime de rémunération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 7
-
-
-###### Article L330-8
-
-La composition du comité de gestion, celle du comité consultatif, le mode de désignation de leurs membres, les modalités du
-fonctionnement de l'agence et de son contrôle administratif sont fixés par décret en conseil d'Etat .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 9
-
-
-###### Article L330-9
-
-Jusqu'à la mise en place des sections locales de l'agence, les missions qui leur sont dévolues sont assurées par les services
-du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 10
-
 
 ### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
@@ -69893,6 +69672,35 @@ organisations et associations qui sont dotées de la personnalité morale *condi
 	  - Code du travail - art. R312-2 (VT)
 
 
+###### Article R312-2
+
+Les conventions prévues à l'article L. 312-4 sont conclues au nom de l'Agence nationale pour l'emploi, après délibération du
+conseil d'administration, par le directeur général ou par les chefs de centres régionaux de l'Agence dans la limite de la
+délégation prévue à l'article R. 330-8.
+
+Ces conventions ne peuvent prendre effet avant la date de notification de l'arrêté d'agrément prévu à l'article R. 312-6
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-442 du 24 juin 1987 - art. 2 () JORF 25 juin 1987
+
+	**Cite**:
+
+	  - Code du travail - art. L312-4 (Ab)
+	  - Code du travail - art. R312-6 (Ab)
+	  - Code du travail - art. R330-8 (M)
+
+
 ###### Article R312-3
 
 Les conventions [*ART. L322-4*] contiennent obligatoirement des clauses concernant :
@@ -72910,6 +72718,92 @@ exercent les fonctions de conseiller ou de conseillère chef du travail.
 
 ### Titre Ier : PLACEMENT
 
+#### Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.
+
+###### Article R311-1
+
+Les demandeurs d'emploi sont tenus, pour maintenir l'inscription à l'Agence nationale pour l'emploi prévue à l'article L.
+311-2, de renouveler périodiquement leur demande, selon les modalités qui sont fixées par arrêté du ministre chargé du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 7, ANNEXE (M)
+
+	**Abrogé par**:
+
+	  - Décret n°87-442 du 24 juin 1987 - art. 2 () JORF 25 juin 1987
+
+	**Cité par**:
+
+	  - Arrêté du 23 septembre 1982 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L311-2 (M)
+
+
+###### Article R311-2
+
+En vue de l'exercice de ses missions, l'Agence est habilitée à convoquer les demandeurs d'emploi à des jours et heures
+déterminés. Les intéressés sont tenus, sauf motif légitime et à peine de déchéance de leur inscription, de déférer à ces
+convocations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-442 du 24 juin 1987 - art. 2 () JORF 25 juin 1987
+
+
+###### Article R311-3
+
+Les déclarations d'offres et de demandes d'emploi prévues à l'article L. 311-3 sont inscrites sur un registre spécial.
+
+Copie de ces déclarations doit être adressée dans les trois jours de leur réception [*délai*] à l'agence locale de l'Agence
+nationale pour l'emploi ou, à défaut, au service de l'emploi dont dépend la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-442 du 24 juin 1987 - art. 2 () JORF 25 juin 1987
+
+	**Cite**:
+
+	  - Code du travail - art. L311-3 (Ab)
+
+
 #### Chapitre II : PLACEMENT PRIVE
 
 ##### SECTION 3 : DISPOSITIONS COMMUNES.
@@ -72933,78 +72827,6 @@ demandes d'emploi et celle des placements effectués.
 	**Anciens textes**:
 
 	  - Code du travail 81 a
-
-
-## PLACEMENT
-
-### SERVICE PUBLIC DE L'EMPLOI .
-
-###### Article R311-1
-
-Les déclarations d'offres et de demandes d'emploi prévues à l'article L. 311-13 sont inscrites sur un registre spécial.
-
-Copie de ces déclarations doit être adressée dans les trois jours [*délai*] de leur réception à la section locale de l'Agence
-nationale pour l'emploi [*ANPE*] ou, à défaut, au service de l'emploi dont dépend la commune.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 5 (Ab)
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 6 (Ab)
-	  - TXT_SOURCE: Arrêté du 23 septembre 1982 - art. 7, ANNEXE (M)
-
-	**Cité par**:
-
-	  - Arrêté du 23 septembre 1982 - art. 1 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L311-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Ordonnance  1945-05-04 ART. 7 AL. 1 ET 2 (PARTIE)
-
-
-### PLACEMENT PRIVE
-
-#### PLACEMENT GRATUIT .
-
-###### Article R312-2
-
-Les conventions prévues à l'article L. 322-4 sont conclues au nom de l'Agence nationale pour l'emploi [*ANPE*] prévue au
-titre III du présent livre, après délibération du comité de gestion, soit par le président dudit comité, soit par le
-directeur administratif et technique ou les chefs des centres régionaux de l'Agence dans la limite de la délégation prévue à
-l'article R. 330-5.
-
-Ces conventions ne peuvent prendre effet avant la date de notification de l'arrêté d'agrément prévu à l'article R. 312-6.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L322-4 (M)
-	  - Code du travail - art. R321-6 (M)
-	  - Code du travail - art. R330-5 (M)
-	  - Code du travail L330-1 A L330-9
-
-	**Anciens textes**:
-
-	  - Décret  1968-08-06 ART. 2
 
 
 ## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
@@ -81087,57 +80909,68 @@ collectivités locales ou les établissements publics définis à l'article 29 d
 
 ## PLACEMENT ET EMPLOI
 
-### AGENCE NATIONALE POUR L'EMPLOI *ANPE* .
+### AGENCE NATIONALE POUR L'EMPLOI.
 
 ###### Article R330-1
 
-La composition du comité de gestion de l'Agence nationale pour l'emploi (ANPE) est fixée comme suit :
+L'agence nationale pour l'emploi instituée par l'article L. 330-1 participe à la gestion du service public de l'emploi. A ce
+titre, elle est le correspondant des demandeurs d'emploi pour le placement. Elle est chargée pour le compte de l'Etat :
 
-- le directeur général du travail et de l'emploi au ministère chargé du travail, président ;
+1° De la prospection des emplois disponibles et du placement des demandeurs ;
 
-- le chef du service de l'emploi à la direction générale du travail et de l'emploi au ministère chargé du travail, vice-
-président ;
+2° De l'information, de l'orientation et du conseil professionnels des travailleurs ;
 
-- le président du groupe permanent de hauts fonctionnaires prévu à l'article 3 de la loi n. 66-892 du 3 décembre 1966 ;
+3° Des opérations préalables aux formations professionnelles vers lesquelles elle oriente les demandeurs d'emploi en liaison
+avec les administrations et les organismes responsables des centres de formation.
 
-- un représentant du ministre d'Etat chargé de la fonction publique ;
+L'Agence nationale pour l'emploi apporte son concours à l'orientation et au placement des travailleurs handicapés.
 
-- deux [*nombre*] représentants du ministre délégué auprès du Premier ministre, chargé de Plan et de l'aménagement du
-territoire, dont l'un désigné au titre du commissariat général du Plan d'équipement et de la productivité et, l'autre, au
-titre de la délégation à l'aménagement du territoire et à l'action régionale ;
+L'Agence nationale pour l'emploi peut, en outre, être chargée dans des conditions fixées par décret en Conseil d'Etat, de
+l'attribution, de la liquidation ou du paiement des aides à la mobilité des travailleurs ainsi que de la prime de mobilité
+des jeunes.
 
-- un représentant du ministre chargé de l'économie et des finances ;
-
-- un représentant du ministre chargé de l'industrie ;
-
-- un représentant du ministre des armées ;
-
-- un représentant du ministre chargé de l'éducation nationale ;
-
-- un représentant du ministre chargé de l'équipement et du logement ;
-
-- un représentant du ministre chargé de l'agriculture.
-
-Participent avec voix consultative aux travaux du comité de gestion le directeur général de l'agence, l'agent comptable, le
-contrôleur d'Etat.
-
-Le directeur général de l'agence est secrétaire du comité de gestion.
+Un arrêté du ministre chargé du travail fixe la nature et la périodicité des documents et études que l'Agence doit, en
+exécution de ses missions, fournir aux autorités administratives. Il fixe également les modalités de la participation de
+l'Agence à l'établissement des statistiques du marché du travail et à leur diffusion.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-892 du 3 décembre 1966 - art. 3, v. init.
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 1
-	  - Décret n°72-445 1972-05-15 ART. 1
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Cite**:
+
+	  - Code du travail - art. L330-1 (Ab)
+
+
+###### Article R330-14
+
+Le fonctionnement financier et comptable de l'Agence est assuré sous réserve des dispositions du présent titre dans les
+conditions fixées par le décret du 29 décembre 1962 portant règlement général sur la comptabilité publique, et notamment par
+ses articles 151 à 189.
+
+Les conditions et les modalités de règlement des frais de déplacement du personnel sont fixées par arrêté conjoint des
+ministres chargés du travail et du budget.
+
+Les modalités de la mise à la disposition et de l'utilisation des crédits du fonds national de l'emploi destinés à assurer le
+paiement des aides à la mobilité prévues aux articles R. 322-15 et R. 322-16 sont fixées par un arrêté conjoint du ministre
+chargé du travail et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R322-15 (M)
+	  - Code du travail - art. R322-16 (M)
+	  - Décret  1962-12-29 ART. 151 A 189
+
+
+### AGENCE NATIONALE POUR L'EMPLOI *ANPE* .
 
 ###### Article R330-2
 
