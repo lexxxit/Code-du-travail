@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-10-01
+Version Consolidée au 1981-10-03
 
 # Partie législative ancienne
 
@@ -14010,6 +14010,63 @@ du travail au 1er mai 2008.
 
 ##### SECTION 1 : DISPOSITIONS GENERALES.
 
+###### Article L222-1
+
+Les fêtes légales ci-après désignées sont des jours fériés :
+
+- le 1er janvier ;
+
+- le lundi de Pâques ;
+
+- le 1er mai ;
+
+- le 8 mai ;
+
+- l'Ascension ;
+
+- le lundi de Pentecôte ;
+
+- le 14 juillet ;
+
+- l'Assomption ;
+
+- la Toussaint ;
+
+- le 11 novembre ;
+
+- le jour de Noël.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-844 du 8 août 1985 - art. 17 (V)
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code du travail - art. L212-8 (M)
+	  - Code du travail maritime - art. 24-3 (M)
+	  - Code rural - art. L713-14 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3133-1 (VD)
+
+
 ###### Article L222-4
 
 Les apprentis ne peuvent être tenus en aucun cas, vis-à-vis de leur maître, à aucun travail de leur profession les jours de
@@ -15264,57 +15321,6 @@ définies.
 #### Chapitre II : JOURS FERIES
 
 ##### SECTION 1 : DISPOSITIONS GENERALES.
-
-###### Article L222-1
-
-Les fêtes légales ci-après désignées sont des jours fériés :
-
-- le 1er janvier ;
-
-- le lundi de Pâques ;
-
-- le 1er mai ;
-
-- l'Ascension ;
-
-- le lundi de Pentecôte ;
-
-- le 14 juillet ;
-
-- l'Assomption ;
-
-- la Toussaint ;
-
-- le 11 novembre ;
-
-- le jour de Noël.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°85-844 du 8 août 1985 - art. 17 (V)
-	  - Code du travail - art. L212-4-2 (M)
-	  - Code du travail - art. L212-8 (M)
-	  - Code du travail maritime - art. 24-3 (M)
-	  - Code rural - art. L713-14 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3133-1 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1880-07-06
-	  - Loi n°1886-03-08
-	  - Loi n°1905-12-09 art. 42
-	  - Loi n°1922-10-24
-	  - Loi n°1947-04-30 art. 1
-
 
 ###### Article L222-2
 
