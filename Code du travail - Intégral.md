@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-11-15
+Version Consolidée au 1973-11-21
 
 # Partie législative ancienne
 
@@ -113,6 +113,71 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
+#### Chapitre V : Saisie-arrêt et cession de rémunérations dues par un employeur.
+
+###### Article L145-2
+
+En cas de cession ou de saisie-arrêt faite pour le paiement des dettes alimentaires prévues par le code civil ou
+l'inexécution de la contribution aux charges du ménage le terme mensuel courant de la pension alimentaire est, chaque mois,
+prélevé intégralement sur la portion insaisissable de la rémunération.
+
+La portion saisissable de ladite rémunération peut, le cas échéant, être retenue en sus soit pour sûreté des termes arriérés
+de la pension alimentaire et des frais, soit au profit des créanciers ordinaires opposants ou cessionnaires.
+
+La même règle s'applique aux cessions ou saisies-arrêts faites en vertu des dispositions du code civil relatives à la
+contribution des époux aux charges du ménage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L331-2 (V)
+	  - Code du travail - art. L145-4 (AbD)
+	  - Code du travail - art. L352-3 (M)
+	  - Code du travail - art. L712-30 (AbD)
+	  - Code du travail - art. R145-2 (VT)
+	  - Loi n°79-1130 du 28 décembre 1979 - art. 12 (V)
+	  - Décret n°97-1181 du 24 décembre 1997 - art. 35 (Ab)
+	  - Décret n°97-1181 du 24 décembre 1997 - art. 5 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 62
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+### Titre V : Pénalités
+
+#### Chapitre Ier : Contrat d'apprentissage.
+
+###### Article L151-1
+
+En cas de récidive, l'infraction [*à l'incapacité de recevoir des apprentis*] à l'article L. 111-8 sera punie d'un
+emprisonnement de deux à quatre mois et d'une amende de 2.000 F à 8.000 F [*montant résultant de la loi 1468 du 30 décembre
+1977*] ou de l'une de ces deux peines seulement.
+
+**Nota:**
+
+[*Nota - dispositions caduques*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 3
+
+	**Cite**:
+
+	  - Code du travail - art. L111-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ## CONVENTIONS RELATIVES AU TRAVAIL
 
 ### CONVENTIONS COLLECTIVES DE TRAVAIL
@@ -171,6 +236,92 @@ plus représentatives des catégories intéressées.
 
 ### Titre Ier : Conditions du travail
 
+#### Chapitre Ier : Age d'admission
+
+###### Article L211-1
+
+Les enfants de l'un ou de l'autre sexe ne peuvent être ni employés ni admis à aucun titre dans les établissements mentionnés
+au premier alinéa de l'article L. 200-1 avant d'être règulièrement libérés de l'obligation scolaire.
+
+Toutefois et sans préjudice de la règle prévue à l'article L. 117-3, les dispositions précédentes ne font pas obstacle à ce
+que les adolescents accomplissent pendant la dernière année de la scolarité, des stages de formation pratique dans les
+entreprises selon les conditions déterminées par les textes relatifs à l'instruction obligatoire.
+
+Ces dispositions ne font pas non plus obstacle à ce que les adolescents de plus de quatorze ans effectuent des travaux légers
+pendant leurs vacances scolaires à condition que soit assuré aux intéressés un repos effectif d'une durée au moins égale à la
+moitié de chaque période de congé. Les employeurs sont tenus d'adresser une déclaration préalable à l'inspecteur du travail
+qui dispose d'un délai de huit jours pour notifier son désaccord éventuel.
+
+Des décrets règleront les modalités d'application de l'alinéa précédent, notamment la nature des travaux, la durée de la
+période pendant laquelle ils pourront être effectués ainsi que, en tant que de besoin, les conditions particulières dans
+lesquelles sera assurée la couverture en matière de sécurité sociale des jeunes gens concernés par ledit alinéa.
+
+Les dispositions du premier alinéa ci-dessus ne sont pas applicables dans les établissements mentionnés au deuxième alinéa de
+l'article L. 200-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 15 mars 1999 - art. ANNEXE (Ab)
+	  - Décret n°97-370 du 14 avril 1997 - art. 2 (Ab)
+	  - Décret n°97-370 du 14 avril 1997 - art. 3 (Ab)
+	  - Décret n°2003-812 du 26 août 2003 - art. 1 (Ab)
+	  - Code de l'éducation - art. D331-1 (M)
+	  - Code de l'éducation - art. L331-5 (V)
+	  - Code du travail - art. L112-3 (Ab)
+	  - Code du travail - art. R261-1 (VT)
+	  - Code rural - art. L715-1 (V)
+	  - Code rural - art. R715-1 (V)
+	  - Code rural - art. R715-2 (V)
+	  - Code rural ancien - art. 983 (Ab)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 9 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L117-3 (M)
+	  - Code du travail - art. L200-1 (AbD)
+
+	**Anciens textes**:
+
+	  - Code du travail 2
+	  - Loi n°68-1168 1968-12-23 art. 1, art. 2
+	  - Ordonnance 1967-09-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°73-1046 1973-11-15 art. 10 JORF 21 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°73-4 1973-01-02 JORF 3 janvier 1973 rectificatif JORF 11 juillet 1973
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°2003-812 du 26 août 2003 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R261-1 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R261-1-1 (V)
+
+
 #### Chapitre III : TRAVAIL DE NUIT
 
 ##### SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
@@ -216,6 +367,140 @@ dispositions de l'alinéa précédent.
 
 
 ### Titre VI : Pénalités.
+
+#### Chapitre Ier : Conditions du travail
+
+##### Emploi des enfants dans les spectacles et professions ambulantes; emploi des enfants comme mannequins dans la publicité et la mode.
+
+###### Article L261-1
+
+Est punie d'une amende de 2.000 F à 20.000 F [*montant*] et, en cas de récidive, d'un emprisonnement de deux à quatre mois
+[*durée*] et d'une amende de 10.000 F à 40.000 F, toute personne qui a remis des fonds, directement ou indirectement, aux
+enfants visés à l'alinéa 1er de l'article L. 211-4, ou à leurs représentants légaux [*rémunération*] :
+
+1. Soit sans avoir saisi la commission visée à l'article L. 211-7 ou avant que cette commission ait statué sur sa requête ;
+
+2. Soit au-delà de la part fixée comme il est dit à l'article L. 211-8.
+
+Toute infraction aux dispositions de l'alinéa 3 de l'article L. 211-4 est punie d'une amende de 3.000 F à 40.000 F. En cas de
+récidive, un emprisonnement de deux mois à deux ans peut être prononcé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 37 ET 38
+
+	**Cite**:
+
+	  - Code du travail - art. L211-7 (M)
+	  - Code du travail - art. L211-8 (M)
+	  - Code du travail L211-4 AL. 1, L211-7, L211-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L261-2
+
+Toute infraction aux dispositions des articles L. 211-11 et L. 211-12 est punie d'un emprisonnement de six mois à deux ans et
+d'une amende de 2000 à 15000 F.
+
+La condamnation pour infraction aux dispositions de l'article L. 211-12 entraîne de plein droit, pour les tuteurs, la
+destitution de la tutelle ; les pères et mères peuvent être privés de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 11
+	  - Code du travail 168
+
+	**Cite**:
+
+	  - Code du travail - art. L211-11 (M)
+	  - Code du travail - art. L211-12 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L211-7-1 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L261-4
+
+Toute infraction aux dispositions de l'article L. 211-6 est punie d'une amende de 2000 à 20000 F et, en cas de récidive,
+d'une peine d'emprisonnement de deux à quatre mois et d'une amende de 10000 à 40000 F.
+
+Les mêmes peines sont applicables à toute personne qui remet directement ou indirectement aux enfants visés à l'article L.
+211-6 ou à leurs représentants légaux des fonds au-delà de la part fixée comme il est dit à l'article L. 211-8.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 12, v. init.
+	  - Code du travail 170
+
+	**Cite**:
+
+	  - Code du travail - art. L211-6 (M)
+	  - Code du travail - art. L211-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L261-5
+
+Toute infraction aux dispositions de l'article L. 211-10 est punie d'une amende de 3000 à 40000 F. En cas de récidive, un
+emprisonnement de deux mois à deux ans peut être prononcé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 13
+	  - Code du travail 170
+
+	**Cite**:
+
+	  - Code du travail - art. L211-10 (M)
+
+
+###### Article L261-6
+
+Toute infraction aux dispositions de l'article L. 211-13 est punie d'un emprisonnement d'un mois à six mois et d'une amende
+de 2000 à 15000 F ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 14
+	  - Code du travail 170, 171
+
+	**Cite**:
+
+	  - Code du travail - art. L211-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7124-32 (VD)
+
 
 #### Chapitre IV : Médecine du travail.
 
@@ -265,6 +550,32 @@ publication dans tels journaux qu'il désigne, le tout aux frais du délinquant.
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+
+#### Chapitre V : Service social du travail.
+
+###### Article L265-1
+
+Les chefs d'établissement, directeurs, gérants ou préposés qui, occupant dans leurs établissements d'une façon habituelle
+deux cent cinquante [*effectif*] salariés au moins, n'ont pas organisé des services sociaux du travail seront passibles, en
+cas de récidive dans un délai de trois ans, d'une amende de 6.000 à 15.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail R250
+	  - Loi n°72-617 du 5 juillet 1972 - art. 27, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ## REGLEMENTATION DU TRAVAIL
@@ -381,58 +692,101 @@ trouve maintenu ou rappelé au service national à un titre quelconque.
 	  - Décret n°73-1046 1973-11-15
 
 
-### CONGES NON REMUNERES
+## Livre III : Placement et emploi
 
-#### CONGES DE FORMATION PROFESSIONNELLE ET DE PROMOTION SOCIALE .
+### Titre VI : PENALITES
 
-###### Article L225-7
+#### Chapitre II : Emploi
 
-Le bénéfice du congé demandé est de droit, sauf [*exception*] dans le cas où l'employeur estime, après avis du comité
-d'entreprise ou s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des conséquences
-préjudiciables à la production et à la marche de l'entreprise. En cas de différend, l'inspecteur du travail [*compétence*]
-contrôlant l'entreprise peut être saisi par l'une des parties et peut être pris pour arbitre.
+##### Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs
 
-Ce congé n'ouvre pas droit à rémunération [*modalité*] .
+##### Travailleurs handicapés.
 
-**Liens relatifs à cet article**
+###### Article L362-1
 
-	**Cité par**:
+En cas de récidive dans le délai de trois ans, les infractions à l'article L. 323-17 sont punies d'une amende de 6.000 F à
+15.000 F (1) [*montant*]. Les articles L. 263-3, L. 263-4 (à l'exception de l'alinéa 1er) et L. 263-6 sont applicables à
+toute infraction aux dispositions de l'article L. 323-17. 
 
-	  - Code de la mutualité - art. L125-6 (Ab)
-	  - Code du travail - art. R225-11 (VT)
+Pour l'application de ces articles, les dispositions de l'article L. 323-17 et du règlement qu'il prévoit sont assimilées à
+celles des articles L. 231-1, L. 231-2, L. 231-4, L. 231-5, L. 232-1, L. 232-2, L. 233-1 à L. 233-6.
 
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-## EMPLOI
-
-### CUMULS D'EMPLOIS .
-
-###### Article L324-1
-
-Nul ne peut exercer pour son propre compte une profession industrielle commerciale ou artisanale, s'il n'est inscrit soit au
-registre du commerce, soit au registre des métiers et s'il se soustrait aux charges sociales et fiscales imposées à cette
-profession.
+(1) Amende applicable depuis le 1er octobre 1990.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 35
+
 	**Codifié par**:
 
-	  - Décret n°73-1046 1973-11-15
+	  - Décret n°73-1047 1973-11-15
 
-	**Cité par**:
+	**Cite**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 156 (M)
-	  - Code du travail - art. L122-3-20 (M)
-	  - Code du travail - art. L324-3 (M)
-	  - Code du travail - art. L324-4 (M)
-	  - Code du travail - art. R362-4 (M)
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L231-2 (M)
+	  - Code du travail - art. L231-4 (M)
+	  - Code du travail - art. L231-5 (Ab)
+	  - Code du travail - art. L232-1 (AbD)
+	  - Code du travail - art. L232-2 (AbD)
+	  - Code du travail - art. L263-3 (M)
+	  - Code du travail - art. L263-4 (M)
+	  - Code du travail - art. L323-17 (M)
+	  - Code du travail L323-17, L263-3, L263-4, L231-1, L231-2, L231-4, L231-5, L232-1, L232-2, L283-1 à L233-6
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5215-1 (VD)
+
+
+###### Article L362-2
+
+Sera puni d'un emprisonnement de trois mois à deux ans [*durée*] et d'une amende de 4.000 F à 60.000 F (1) [*montant*] : 
+
+1. Quiconque aura sciemment fait un usage illégal ou abusif des labels institués à l'article L. 323-33 [*destinés à garantir
+l'origine des produits fabriqués par des travailleurs
+
+handicapés*] ;
+
+2. Quiconque aura offert à la vente un objet ne portant pas l'un des labels institués à l'article L. 323-33 en faisant valoir
+ou en donnant à croire par quelque moyen que ce soit et, notamment, par la dénomination, la présentation ou l'emballage de
+l'objet, par la raison sociale de son fabricant ou de son vendeur par une publicité quelconque, que cet objet a été fabriqué
+ou conditionné par un ou des travailleurs handicapés ;
+
+3. Quiconque, à l'occasion de la vente, au détail et à domicile, d'un objet sur lequel est apposé l'un des labels institués à
+l'article L. 323-33 aura accordé ou perçu une commission proportionnelle au montant des ventes réalisées.
+
+Cette interdiction ne s'applique [*non*] pas aux personnes titulaires de la carte d'identité professionnelle des
+représentants instituée par l'article L. 751-13 si ces personnes se bornent à prendre à domicile et à transmettre les
+commandes pour des ventes au détail [*condition*].
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 36
+	  - Loi n°72-618 du 5 juillet 1972 - art. 7 ()
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R362-4 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L323-33 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-33 (M)
+	  - Code du travail - art. L751-13 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-72 (Ab)
 
 
 ## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
@@ -1040,11 +1394,12 @@ des professions libérales, des sociétés civiles, des syndicats professionnels
 
 ###### Article L611-6
 
-L'application des dispositions des articles L. 341-5,
+Les inspecteurs des lois sociales en agriculture sont chargés [*attributions*] de veiller à l'application aux professions
+agricoles de celles des dispositions du code du travail, des lois et règlements non codifiés relatifs au régime du travail
+qui sont applicables à ces professions.
 
-L. 341-6 et R. 341-8 est confiée dans les établissements agricoles aux officiers de police judiciaire et concuremment avec
-ces derniers à l'inspecteur du travail et de la main-d'oeuvre [*compétence*] dans les établissements industriels et
-commerciaux.
+//DECR.0493 11-06-1975 : Ils sont également chargés de veiller à l'application des conventions collectives agricoles ayant
+fait l'objet d'un arrêté d'extension// .
 
 **Liens relatifs à cet article**
 
@@ -1061,19 +1416,10 @@ commerciaux.
 	  - Décret n°93-1272 du 1 décembre 1993 - art. 17 (Ab)
 	  - Décret n°96-216 du 14 mars 1996 - art. 24 (V)
 	  - Code du travail - art. L611-12-1 (AbD)
+	  - Code du travail - art. R341-8 (M)
 	  - Code rural - art. D719-1 (V)
 	  - Code rural - art. L719-1 (Ab)
 	  - Code rural ancien - art. 985 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L341-5 (Ab)
-	  - Code du travail - art. L341-6 (M)
-	  - Code du travail - art. R341-8 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 2098
 
 
 ## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail
@@ -1188,10 +1534,12 @@ du travail au 1er mai 2008.
 
 ###### Article L611-8
 
-Les inspecteurs du travail et de la main-d'oeuvre ont entrée dans tous les établissements concernés par les dispositions dont
-ils ont à assurer l'exécution à l'effet de procéder à la surveillance et aux enquêtes dont ils sont chargés.
+Les inspecteurs du travail et de la main-d'oeuvre ont entrée dans tous établissements où sont applicables les règles énoncées
+à la première phrase du premier alinéa de l'article L. 611-1 à l'effet d'y assurer la surveillance et les enquêtes dont ils
+sont chargés.
 
-Ils ont également entrée dans les locaux où les travailleurs à domicile effectuent les travaux définis à l'article L. 721-22.
+Ils ont également entrée dans les locaux où les travailleurs à domicile effectuent les travaux définis à l'article L. 721-22
+[*hygiène et sécurité*].
 
 Toutefois, lorsque les travaux sont exécutés dans des locaux habités, les inspecteurs ne peuvent y pénétrer qu'après avoir
 reçu l'autorisation des personnes qui les occupent.
@@ -1207,6 +1555,12 @@ instituée par les décrets pris en application de la loi du 1er août 1905 sur 
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Cite**:
+
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. L721-22 (AbD)
+	  - Loi n°1905-08-01
+
 	**Cité par**:
 
 	  - Code du travail - art. L611-6 (M)
@@ -1214,24 +1568,11 @@ instituée par les décrets pris en application de la loi du 1er août 1905 sur 
 	  - Code rural ancien - art. 1244-5 (Ab)
 	  - Code rural et de la pêche maritime - art. L724-8 (V)
 
-	**Cite**:
-
-	  - Code du travail - art. L721-22 (AbD)
-	  - Loi n°1905-08-01
-
-	**Anciens textes**:
-
-	  - Code du travail 105
-	  - Loi n°1942-08-24
-	  - Loi n°1946-05-24
-	  - Loi n°1948-07-10
-	  - Loi n°1957-07-26 art. 8
-
 
 ###### Article L611-10
 
-Les inspecteurs du travail et de la main-d'oeuvre et les ingénieurs et les contrôleurs des mines constatent les infractions
-par des procès-verbaux qui font foi jusqu'à preuve du contraire.
+Les inspecteurs du travail et de la main-d'oeuvre et les ingénieurs des mines constatent les infractions par des procès-
+verbaux qui font foi jusqu'à preuve du contraire.
 
 Ces procès-verbaux sont dressés en double exemplaire dont l'un est envoyé au préfet du département et l'autre est déposé au
 parquet.
@@ -1274,10 +1615,6 @@ contrevenant.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L8113-7 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 107
 
 
 ### Titre II : Obligations des employeurs.
@@ -1323,6 +1660,97 @@ transformation entraînant une modification dans les industries ou commerce exer
 	**Anciens textes**:
 
 	  - Code du travail 1
+
+
+### Titre III : Pénalités
+
+#### Chapitre Ier : Services de contrôle.
+
+###### Article L631-1
+
+Est passible d'un emprisonnement de deux mois à un an [*durée*] et d'une amende de 2.000 F à 20.000 F (1) ou de l'une de ces
+deux peines seulement quiconque met obstacle à l'accomplissement des devoirs d'un inspecteur ou d'un contrôleur du travail et
+de la main-d'oeuvre.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Code du travail L993-5 : les dispositions de l'article L. 631-1 sont applicables aux faits et gestes commis à
+l'égard des inspecteurs et des contrôleurs de la formation professionnelle.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°90-200 du 5 mars 1990 - art. 6 (Ab)
+	  - Décret n°99-752 du 30 août 1999 - art. 2 (V)
+	  - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code du travail - art. L223-17 (AbD)
+	  - Code du travail - art. L631-3 (AbD)
+	  - Code du travail - art. L993-5 (AbD)
+	  - Code rural - art. R341-7 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L631-3 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8114-1 (VD)
+
+
+###### Article L631-3
+
+Les articles L. 611-10, L. 631-1 et L. 631-2 ne sont pas applicables aux établissements de l'Etat.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont communiquées par le ministre du travail aux
+administrations intéressées les constatations des inspecteurs du travail dans ces établissements.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L611-10 (M)
+	  - Code du travail - art. L631-1 (M)
+	  - Code du travail - art. L631-2 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L631-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L631-2 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8113-8 (VD)
+	  - Code du travail - art. L8114-3 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail 177
 
 
 ## Livre VII : Dispositions particulières à certaines professions
@@ -2106,6 +2534,280 @@ L'activité administrative organise le contrôle des repos groupés prévus par 
 	  - Code du travail 51 al. 1, al. 2
 
 
+### Titre IX : Pénalités
+
+#### Chapitre Ier : Energie, industries extractives
+
+##### Section 2 : Délégués mineurs.
+
+###### Article L791-2
+
+Toute entrave apportée soit à la libre désignation des délégués mineurs, soit à l'exercice régulier de leurs fonctions,
+notamment par la méconnaissance des dispositions des articles L. 712-1, L. 712-6 et L. 712-26 sera punie d'un emprisonnement
+de deux mois à un an et d'une amende de 2000 à 20000 F ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 22
+	  - Code du travail 180
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L712-1 (AbD)
+	  - Code du travail - art. L712-26 (AbD)
+	  - Code du travail - art. L712-6 (AbD)
+
+
+###### Article L791-3
+
+Ceux qui, soit par voies de fait, violences, menaces, dons ou promesses, soit en faisant craindre à un électeur de perdre son
+emploi, d'être privé de son travail ou d'exposer à un dommage sa personne, sa famille ou sa fortune, ont influencé le vote
+dans les élections de délégués à la sécurité des ouvriers mineurs, sont punis d'un emprisonnement de deux mois à un an et
+d'une amende de 2000 à 20000 F.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 40000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 23, v. init.
+	  - Code du travail 181
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+
+#### Chapitre II : Industries de transformation
+
+##### Section 1 : Travailleurs à domicile.
+
+###### Article L792-1
+
+Dans le cas de contraventions aux dispositions des articles L. 721-7, L. 721-9, alinéa 2 et 3, L. 721-16, alinéa 1 et 3, le
+tribunal peut ordonner la publication du jugement dans un journal qu'il désignera, aux frais du condamné. En cas de récidive,
+le tribunal peut, en outre, lui interdire, pour une durée qui ne peut excéder trois ans la faculté d'employer des
+travailleurs à domicile.
+
+Est passible d'une amende de 2000 à 15000 F et d'un emprisonnement de trois mois au plus ou de l'une de ces deux peines
+seulement quiconque contrevient à une telle interdiction prononcée contre lui.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-834 du 26 juillet 1957 - art. 8 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 4
+	  - Code du travail 99
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L721-16 (M)
+	  - Code du travail - art. L721-7 (M)
+	  - Code du travail - art. L721-9 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L721-16 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L721-7 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L721-9 (AbD)
+
+
+##### Section 2 : Moyens de constater les conventions relatives au salaire en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes.
+
+###### Article L792-2
+
+En cas de contravention aux dispositions des articles L. 722-1 à L. 722-3, L. 722-5, L. 722-6 et aux règlements pris pour
+leur application, le tribunal peut, en cas de récidive, ordonner la publication du jugement dans un journal de la localité
+aux frais du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L722-1 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-2 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-5 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-6 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L722-5 (Ab)
+	  - Code du travail - art. L722-6 (Ab)
+	  - Code du travail L722-1 à L722-3, L722-5, L722-6
+
+	**Anciens textes**:
+
+	  - Code du travail 101
+
+
+#### Chapitre III : Bâtiment et travaux publics.
+
+###### Article L793-1
+
+Quiconque se rend coupable de fraudes ou de fausses déclarations pour obtenir ou tenter de faire obtenir par suite
+d'intempéries des indemnités qui ne sont pas dues est passible [*sanction*] d'un emprisonnement de six jours à trois mois
+[*durée*] et d'une amende de 1.000 F à 20.000 F (1) ou de l'une des deux peines seulement sans préjudice de l'application
+d'autres lois s'il y échet.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-230 du 24 mars 1972 - art. 6 (Ab)
+	  - Arrêté du 18 février 2003 - art. 3 (V)
+	  - Arrêté du 18 février 2003 - art. 6 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 32, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5429-3 (VD)
+
+
+#### Chapitre V : Voyageurs, représentants et placiers.
+
+###### Article L795-1
+
+Toute personne qui aura exercé la profession de voyageur ou de représentant de commerce [*VRP*] sur le territoire français
+sans pouvoir justifier de la possession régulière de la carte d'identité professionnelle établie par l'article L. 751-13 ou
+qui, sciemment, aura fait des déclarations inexactes pour obtenir la délivrance de ladite carte ainsi que tout contrevenant
+aux dispositions prises pour l'application de l'article L. 751-13 sera passible [*sanction*], en cas de récidive dans le
+délai de trois ans, d'une amende de 6.000 F à 15.000 F [*1*] [*montant*].
+
+Les pénalités prévues par la loi du 27 août 1948, reprises par l'article 161 du Code pénal, sont applicables à toutes
+personnes convaincues d'avoir délivré des attestations ou certificats de complaisance.
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 26, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code pénal 161
+	  - Code du travail - art. L751-13 (Ab)
+	  - Loi n°1948-08-27
+
+
+#### Chapitre VI : Journalistes, artistes, mannequins
+
+##### Section 1 : Journalistes professionnels.
+
+###### Article L796-1
+
+Sans préjudice de l'application des dispositions des articles L. 411-11 et L. 411-23, sera puni d'un emprisonnement de six
+mois à deux ans et d'une amende de 2000 à 20000 F, ou de l'une de ces deux peines seulement, quiconque aura soit fait
+sciemment une déclaration inexacte en vue d'obtenir la carte d'identité de journaliste professionnel ou la carte d'identité
+de journaliste professionnel honoraire prévues aux articles L. 761-15 et L. 761-16, soit fait usage d'une carte
+frauduleusement obtenue, périmée ou annulée, en vue de bénéficier d'un avantage prévu auxdits articles, soit délivré
+sciemment des attestations inexactes en vue de faire attribuer l'une des cartes précitées.
+
+Les mêmes pénalités seront applicables à quiconque aura fabriqué, distribué ou utilisé une carte présentant avec l'une des
+cartes ci-dessus visées ou les documents délivrés par les administrations publiques aux journalistes une ressemblance de
+nature à prêter à confusion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 6
+	  - Code du travail 99
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°82-652 du 29 juillet 1982 - art. 93 (AbD)
+	  - Loi n°82-652 du 29 juillet 1982 - art. 97 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L411-11 (M)
+	  - Code du travail - art. L411-23 (M)
+	  - Code du travail - art. L761-15 (AbD)
+	  - Code du travail - art. L761-16 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7114-1 (VD)
+
+
+##### Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.
+
+###### Article L796-2
+
+Toute infraction aux dispositions des articles L. 762-3, L. 762-5 à L. 762-8 et L. 762-10 est punie [*durée*], en cas de
+récidive d'un emprisonnement de deux à six mois et d'une amende de 2.000 F à 15.000 F (1) [*montant*] ou de l'une de ces deux
+peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°69-1185 du 26 décembre 1969 - art. 12, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L762-10 (AbD)
+	  - Code du travail - art. L762-3 (M)
+	  - Code du travail L762-3, L762-5 A L762-8, L762-10
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L762-8 (AbD)
+
+
 ## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
 
 ### VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .
@@ -2223,7 +2925,154 @@ d'habitation*] sont applicables aux employés de maison.
 	  - Code du travail - art. R797-1 (VT)
 
 
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer
+
+### Titre VIII : Pénalités
+
+#### Chapitre II : Réglementation du travail.
+
+###### Article L882-1
+
+Les infractions aux articles L. 822-2 et L. 822-3 sont passibles, en cas de récidive dans le délai de trois ans, d'une peine
+d'emprisonnement pouvant aller jusqu'à quatre mois [*durée*] et d'une amende pouvant aller jusqu'à 15.000 F (1) [*montant*].
+
+Le tribunal ordonne, en outre, l'affichage du jugement aux portes de l'établissement du délinquant et sa publication dans
+tels journaux qu'il désigne, le tout aux frais du délinquant.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 39, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L822-2 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L822-3 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L822-2 A L822-3
+
+
 ## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
+
+### CONVENTIONS RELATIVES AU TRAVAIL
+
+#### SALAIRE MINIMUM DE CROISSANCE .
+
+###### Article L814-1
+
+Chaque fois que le salaire minimum applicable en métropole est relevé en application des dispositions de l'article L. 141-4
+le salaire minimum de chaque département d'outre-mer est relevé à la même date et dans les mêmes proportions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-457 du 24 mai 1969 - art. 5-3 (V)
+	  - Arrêté du 30 décembre 1981 - art. 1 (P)
+	  - Arrêté du 30 décembre 1981 - art. 2 (P)
+	  - Arrêté du 30 décembre 1981 - art. 3 (P)
+	  - Arrêté du 30 décembre 1981 - art. 4 (P)
+	  - Arrêté du 30 mai 1988 - art. 1 (P)
+	  - Arrêté du 28 février 1989 - art. 1 (P)
+	  - Arrêté du 29 mars 1990 - art. 1 (P)
+	  - Arrêté du 29 novembre 1990 - art. 1 (P)
+	  - Décret n°91-769 du 2 août 1991 - art. 1 (V)
+	  - Arrêté du 27 février 1992 - art. 1 (V)
+	  - Arrêté du 26 avril 1996 - art. 1 (V)
+	  - Arrêté du 2 novembre 1981 - art. 1 (P)
+	  - Arrêté du 27 février 1987 - art. 1 (P)
+	  - Arrêté du 28 décembre 1983 - art. 1 (P)
+	  - Arrêté du 29 mars 1985 - art. 1 (P)
+	  - Arrêté du 29 septembre 1983 - art. 1 (P)
+	  - Arrêté du 30 avril 1982 - art. 1 (P)
+	  - Arrêté du 30 mai 1986 - art. 1 (P)
+	  - Arrêté du 30 octobre 1984 - art. 1 (P)
+	  - Arrêté du 31 mai 1983 - art. 1 (P)
+	  - Arrêté du 31 mai 1983 - art. 2 (P)
+	  - Code de la sécurité sociale. - art. D841-1 (Ab)
+	  - Code du travail - art. L814-3 (AbD)
+
+	**Anciens textes**:
+
+	  - Loi n°70-7 1970-01-02
+	  - Code du travail L811-1 (1973)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 29 mars 1990 - art. 1 (P)
+
+	**Cite**:
+
+	  - Code du travail - art. L141-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3423-1 (VD)
+
+
+###### Article L814-3
+
+En cours d'année un décret en conseil des ministres peut porter le salaire minimum de croissance [*SMIC*] de chaque
+département d'Outre-mer à un niveau supérieur à celui résultant de l'application des dispositions de l'article L. 811-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-7 1970-01-02
+	  - Code du travail L811-3 (1973)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3423-3 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L811-2 (M)
+
+
+###### Article L814-4
+
+Les améliorations du pouvoir d'achat ainsi intervenues en cours d'année entrent en compte pour la fixation annuelle du
+salaire minimum de croissance [*SMIC*] de chaque département d'outre-mer en application de la règle fixée à l'article L.
+811-3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-7 1970-01-02
+	  - Code du travail L811-4 (1973)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3423-4 (VD)
+
+	**Cite**:
+
+	  - Code du travail L811-3
+
 
 ### REGLEMENTATION DU TRAVAIL
 
@@ -2395,7 +3244,1610 @@ application dans les départements d'outre-mer.
 	  - Code du travail L351-1 A L351-18
 
 
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .
+
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE .
+
+###### Article L910-1
+
+La formation professionnelle et la promotion sociale font l'objet d'une politique coordonnée et concertée, notamment avec les
+organisations représentatives des employeurs et des travailleurs salariés ainsi que des travailleurs indépendants.
+
+A cet effet, il est créé auprès du Premier ministre un comité interministériel, dont le ministre de l'éducation nationale est
+le vice-président, et un groupe permanent de hauts fonctionnaires, dont le président est désigné par le Premier ministre. Ces
+organismes sont assistés pour l'élaboration et la mise en oeuvre de la politique de formation professionnelle, de la
+promotion sociale et de l'emploi par un conseil national de la formation professionnelle, de la promotion sociale et de
+l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
+intéressés.
+
+Sont institués, suivant les mêmes principes, des comités régionaux et des comités départementaux de la formation
+professionnelle, de la promotion sociale et de l'emploi.
+
+Les modalités d'organisation et de fonctionnement des comités et conseils mentionnés aux alinéas précédents sont déterminées
+par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 2
+
+	**Cité par**:
+
+	  - Décret n°72-283 du 12 avril 1972 - art. 7 (Ab)
+	  - Décret n°75-489 du 16 juin 1975 - art. 12 (Ab)
+	  - Décret n°77-1153 du 10 octobre 1977 - art. 13 (V)
+	  - Décret n°83-925 du 21 octobre 1983 - art. 5 (Ab)
+	  - Arrêté du 16 décembre 1988 - art. 1 (V)
+	  - Arrêté du 16 décembre 1988 - art. 5 (V)
+	  - Décret n°92-23 du 8 janvier 1992 - art. 2 (Ab)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 76 (V)
+	  - Décret n°95-925 du 19 août 1995 - art. 15 (Ab)
+	  - Arrêté du 6 novembre 1995 - art. Annexe (V)
+	  - Décret n°97-954 du 17 octobre 1997 - art. 7 (V)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 16 (Ab)
+	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V)
+	  - CODE DES COMMUNES. - art. R*412-115 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 227 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter E (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter H bis (M)
+	  - Code de l'éducation - art. D313-14 (V)
+	  - Code de l'éducation - art. D313-15 (V)
+	  - Code de l'éducation - art. D313-24 (V)
+	  - Code de l'éducation - art. L214-14 (Ab)
+	  - Code de l'éducation - art. L237-1 (V)
+	  - Code de l'éducation - art. L335-8 (M)
+	  - Code de l'éducation - art. L444-11 (V)
+	  - Code du travail - art. D910-1 (VT)
+	  - Code du travail - art. D910-7 (Ab)
+	  - Code du travail - art. D940-4 (VT)
+	  - Code du travail - art. D981-4 (Ab)
+	  - Code du travail - art. L101-2 (VT)
+	  - Code du travail - art. L116-2 (M)
+	  - Code du travail - art. L117-10 (AbD)
+	  - Code du travail - art. L118-2-2 (AbD)
+	  - Code du travail - art. L118-2-4 (AbD)
+	  - Code du travail - art. L322-10 (VT)
+	  - Code du travail - art. L930-1 (T)
+	  - Code du travail - art. L930-2 (M)
+	  - Code du travail - art. L940-1-2 (T)
+	  - Code du travail - art. L941-1-2 (Ab)
+	  - Code du travail - art. L950-2 (T)
+	  - Code du travail - art. L950-2-2 (M)
+	  - Code du travail - art. L951-1 (M)
+	  - Code du travail - art. L961-12 (AbD)
+	  - Code du travail - art. L961-3 (AbD)
+	  - Code du travail - art. L970-1 (M)
+	  - Code du travail - art. L980-9 (M)
+	  - Code du travail - art. R322-15 (VT)
+	  - Code du travail - art. R323-62 (VT)
+	  - Code du travail - art. R910-1 (Ab)
+	  - Code du travail - art. R910-2 (Ab)
+	  - Code du travail - art. R950-13 (T)
+	  - Code du travail - art. R960-2 (T)
+	  - Code du travail - art. R960-30 (T)
+	  - Code du travail - art. R964-7 (Ab)
+	  - Code du travail - art. R980-7 (T)
+	  - Code du travail - art. R990-7 (T)
+	  - Code du travail - art. R992-7 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-574 du 11 juillet 1994
+	  - TXT_SOURCE: Décret n°94-575 du 11 juillet 1994
+	  - TXT_SOURCE: Code du travail - art. D910-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-3 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-4 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-5 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-5-1 (Ab)
+	  - TXT_SOURCE: Décret n°73-1046 1973-11-15 JORF 21 novembre
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
+
+### Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
+
+###### Article L950-3
+
+Les employeurs qui occupent au moins cinquante salariés [*effectifs*] ne peuvent être regardés comme s'étant conformés aux
+dispositions du présent titre que si, ayant satisfait à l'obligation prévue à l'article L. 950-2 ils justifient que le comité
+d'entreprise à délibéré sur les problèmes propres à l'entreprise, relatifs à la formation professionnelle continue pendant
+l'année au titre de laquelle ils se sont acquittés de ladite obligation et avant que ne soient prises les décisions générales
+concernant l'application du présent titre.
+
+Les employeurs sont dispensés de cette justification [*condition*] lorsqu'ils produisent le procès-verbal de carence prévu à
+l'article L. 433-13.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire  1972-09-04
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 15 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L433-13 (M)
+	  - Code du travail - art. L950-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L950-10 (T)
+	  - Code du travail - art. L950-4 (T)
+	  - Code du travail - art. L950-7 (T)
+	  - Code du travail - art. L950-8 (T)
+	  - Code du travail - art. L991-4 (M)
+	  - Code du travail - art. R950-14 (T)
+	  - Code du travail - art. R950-16 (T)
+	  - Code du travail - art. R950-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L951-8 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 # Partie réglementaire ancienne - Décrets en Conseil d'Etat
+
+## CONFLITS DU TRAVAIL
+
+### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
+
+#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DU REFERE.
+
+###### Article R515-1
+
+Le bureau de conciliation est composé d'un prud'homme salarié et d'un prud'homme employeur. Le règlement particulier de
+chaque section établit un roulement entre tous les prud'hommes salariés et tous les prud'hommes employeurs.
+
+La présidence appartient alternativement au salarié et à l'employeur, suivant un roulement établi par ledit règlement.
+
+Celui des deux qui préside le bureau le premier est désigné par le sort.
+
+Exceptionnellement et dans les cas prévus à l'article L. 513-9 les deux membres composant le bureau peuvent être pris parmi
+les prud'hommes salariés ou parmi les prud'hommes employeurs si la section ne se trouve composée que d'un seul collège.
+
+Les séances du bureau de conciliation ont lieu au moins une fois par semaine [*périodicité*] . Elles ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 55, 56
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L513-9 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R516-18 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-18 (VT)
+
+
+###### Article R515-2
+
+A défaut du président, ou du vice-président que son tour de rôle appelle à la présidence, celle-ci peut être exercée par un
+conseiller faisant partie de l'élément auquel appartient le président ou le vice-président défaillant et désigné comme
+suppléant dans les formes prévues aux articles L. 512-4, R. 512-2, L. 512-5. En l'absence de cette désignation, la présidence
+revient au conseiller le plus ancien en fonctions dans le même élément ; s'il y a égalité dans la durée des fonctions, au
+plus âge.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 57 AL. 2
+	  - Décret n°72-90 1972-01-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L512-2 (M)
+	  - Code du travail - art. L512-4 (M)
+	  - Code du travail - art. R512-5 (M)
+
+
+#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE.
+
+###### Article R515-3
+
+Exceptionnellement dans les cas prévus à l'article L. 513-9 [*élections complémentaires*], le bureau de jugement peut
+valablement délibérer avec un nombre de membres pair et au moins égal à quatre [*quorum*], alors même qu'il ne serait pas
+formé d'un nombre égal de salariés et d'employeurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 58
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L513-9 (M)
+
+
+### CONFLITS COLLECTIFS
+
+#### CONCILIATION .
+
+##### COMPOSITION DES COMMISSIONS DE CONCILIATION .
+
+###### Article R523-4
+
+La commission nationale de conciliation comprend [*composition*] :
+
+Le ministre chargé du travail ou son représentant, président ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Quatre représentants des employeurs ;
+
+Quatre représentants des salariés [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-615 1958-07-18 ART. 4
+	  - Décret n°68-763 1968-08-23 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R523-7 (VT)
+
+
+##### COMMISSIONS DE CONCILIATION DANS LES PROFESSIONS AGRICOLES .
+
+###### Article R523-20
+
+La commission nationale de conciliation fonctionnant au ministère de l'agriculture comprend :
+
+Le ministre de l'agriculture ou son représentant, président ;
+
+Le ministre chargé du travail ou son représentant ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Trois représentants des employeurs ;
+
+Trois représentants des salariés [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-615 1958-07-18 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+## Livre Ier : Conventions relatives au travail
+
+### Titre V : Pénalités
+
+#### Chapitre II : Contrat de travail
+
+##### Section 1 : Louage de services
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article R152-1
+
+Toute contravention à l'article L. 122-16 sera passible d'une amende de 1300 à 3000 F. En cas de récidive, le tribunal de
+police pourra prononcer, outre une amende de 3000 à 6000 F un emprisonnement de dix jours à un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L122-16 (AbD)
+
+	**Anciens textes**:
+
+	  - Code du travail 99
+	  - Décret n°1972-10-24 art. 5
+
+
+##### Paragraphe 2 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.
+
+###### Article R152-2
+
+Toute infraction aux dispositions des articles L. 122-18, L. 122-19 et L. 122-20 [*droit de réintégration du salarié libéré
+de son service militaire*] et à celles de l'article R. 122-8 [*inobservation du délai-congé*] est punie d'une amende de 3.000
+F à 6.000 F (1) [*montant*].
+
+En cas de récidive dans le délai d'un an le tribunal peut prononcer, outre une amende de 6.000 F à 12.000 F (1), un
+emprisonnement [*durée*] de un mois à deux mois.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L122-18 (M)
+	  - Code du travail - art. L122-19 (Ab)
+	  - Code du travail - art. L122-20 (AbD)
+	  - Code du travail - art. R122-8 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 37
+
+
+##### Section 3 : Marchandage.
+
+###### Article R152-7
+
+Toute contravention à l'article R. 125-1 sera passible d'une amende de 1.300 F à 3.000 F (1) [*montant*]. En cas de récidive
+le tribunal de police pourra prononcer, outre une amende de 3.000 F (1) à 6.000 F (1), un emprisonnement [*durée*] de dix
+jours à un mois.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 5, AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R125-1 (M)
+
+
+##### Section 4 : Cautionnement.
+
+###### Article R152-8
+
+Toute infraction aux prescriptions des articles L. 126-1, L. 126-2 et R. 126-1 à R. 126-4 sera passible d'une amende de 3.000
+F à 6.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L126-1 (AbD)
+	  - Code du travail - art. L126-2 (AbD)
+	  - Code du travail L126-1, L126-2, R126-1 à R126-4
+
+
+#### Chapitre III : CONVENTIONS COLLECTIVES
+
+###### Article R153-3
+
+Si, à la suite de la lettre recommandée ou de l'avertissement mentionnés à l'article R. 133-3, l'organisation s'abstient,
+sans motif légitime de déférer à la nouvelle convocation qui lui a été ainsi adressée, le ministre chargé du travail ou son
+représentant, président de la commission mixte, établit un rapport et le transmet au procureur de la République.
+
+L'infraction sera punie d'une amende de 3.000 F (1) à 6.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-174 1972-02-28 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R133-3 (T)
+
+
+#### Chapitre IV : Salaires
+
+##### Section préliminaire : Egalité de rémunération entre les hommes et les femmes
+
+###### Article R154-0
+
+I. - Tout employeur qui contrevient aux dispositions des articles L. 140-2 et L. 140-3 [*égalité de rémunérations*] est
+passible d'une amende de 3.000 F (1) à 6.000 F (1) [*montant*]. 
+
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, la peine d'amende pourra être portée à 12.000 F (1) et une peine d'emprisonnement
+de un mois à deux mois [*durée*] pourra être prononcée.
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
+Code pénal.
+
+II. Les infractions aux dispositions de l'article L. 140-7 et de l'article R. 140-2 sont passibles d'une amende de 600 F à
+1.300 F (2) pouvant être portée à 3.000 F (1) en cas de récidive dans le délai d'un an [*montant*].
+
+III. - Le défaut de communication par l'employeur des éléments définis à l'article R. 140-1 est passible des peines prévues
+au paragraphe II ci-dessus.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+(2) Amende applicable depuis le 1er octobre 1985.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-360 1973-03-27 art. 3, 4 ET 5
+	  - Décret n°73-360 du 27 mars 1973 - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code pénal 471
+	  - Code du travail - art. L140-2 (M)
+	  - Code du travail - art. L140-3 (AbD)
+	  - Code du travail - art. L140-7 (AbD)
+	  - Code du travail - art. R140-1 (V)
+	  - Code du travail - art. R140-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R140-2 (V)
+
+
+##### Section 1 : Salaire minimum de croissance et rémunération mensuelle minimale garantie
+
+###### Article R154-1
+
+Sont passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les employeurs qui paient les salaires inférieurs au minimum
+prévu par les articles L. 141-1 à L. 141-9 [*SMIC*] ainsi que les employeurs qui paient des rémunérations inférieures à la
+rémunération mensuelle minimale garantie par la section II au chapitre Ier du titre IV du livre Ier.
+
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, le contrevenant est passible d'une amende 6.000 F à 12.000  F (1) [*montant*] et
+d'une peine d'emprisonnement [*durée*] de un mois à deux mois.
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
+Code pénal.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-1013 du 28 novembre 1979 - art. 4 (P)
+	  - Arrêté du 30 décembre 1981 - art. 1 (P)
+	  - Arrêté du 30 décembre 1981 - art. 2 (P)
+	  - Arrêté du 30 décembre 1981 - art. 3 (P)
+	  - Arrêté du 30 décembre 1981 - art. 4 (P)
+	  - Décret n°82-219 du 27 février 1982 - art. 4 (P)
+	  - Décret n°82-555 du 30 juin 1982 - art. 4 (P)
+	  - Décret n°82-1015 du 1 décembre 1982 - art. 4 (P)
+	  - Décret n°83-153 du 2 mars 1983 - art. 4 (P)
+	  - Décret n°83-565 du 30 juin 1983 - art. 4 (P)
+	  - Décret n°84-339 du 7 mai 1984 - art. 4 (P)
+	  - Décret n°84-535 du 27 juin 1984 - art. 4 (P)
+	  - Décret n°85-681 du 5 juillet 1985
+	  - Décret n°85-681 du 5 juillet 1985 - art. 4 (P)
+	  - Décret n°86-805 du 5 juillet 1986 - art. 4 (V)
+	  - Décret n°87-491 du 2 juillet 1987 - art. 4 (V)
+	  - Arrêté du 30 mai 1988 - art. 4 (P)
+	  - Décret n°88-794 du 29 juin 1988 - art. 4 (V)
+	  - Arrêté du 28 février 1989 - art. 4 (P)
+	  - Décret n°89-438 du 29 juin 1989 - art. 4 (V)
+	  - Arrêté du 29 mars 1990 - art. 4 (P)
+	  - Décret n°90-532 du 29 juin 1990 - art. 4 (V)
+	  - Arrêté du 29 novembre 1990 - art. 4 (P)
+	  - Décret n°91-616 du 27 juin 1991 - art. 4 (V)
+	  - Arrêté du 27 février 1992 - art. 4 (V)
+	  - Décret n°92-600 du 1 juillet 1992 - art. 4 (V)
+	  - Décret n°93-884 du 5 juillet 1993 - art. 4 (V)
+	  - Décret n°94-546 du 30 juin 1994 - art. 4 (V)
+	  - Décret n°95-824 du 28 juin 1995 - art. 4 (V)
+	  - Arrêté du 26 avril 1996 - art. 4 (V)
+	  - Décret n°96-571 du 26 juin 1996 - art. 4 (V)
+	  - Décret n°97-731 du 26 juin 1997 - art. 4 (V)
+	  - Décret n°98-518 du 24 juin 1998 - art. 4 (V)
+	  - Décret n°99-546 du 1 juillet 1999 - art. 4 (V)
+	  - Décret n°2000-589 du 29 juin 2000 - art. 4 (V)
+	  - Décret n°2001-554 du 28 juin 2001 - art. 6 (V)
+	  - Décret n°2002-941 du 25 juin 2002 - art. 4 (V)
+	  - Décret n°2003-564 du 27 juin 2003 - art. 4 (V)
+	  - Décret n°2004-633 du 1 juillet 2004 - art. 4 (V)
+	  - Décret n°2005-719 du 29 juin 2005 - art. 4 (V)
+	  - Décret n°2006-751 du 29 juin 2006 - art. 4 (V)
+	  - Décret n°2007-1052 du 28 juin 2007 - art. 4 (V)
+	  - Arrêté du 2 novembre 1981 - art. 4 (P)
+	  - Arrêté du 27 février 1987 - art. 4 (P)
+	  - Arrêté du 28 décembre 1983 - art. 4 (P)
+	  - Arrêté du 29 mars 1985 - art. 5 (P)
+	  - Arrêté du 29 septembre 1983 - art. 4 (P)
+	  - Arrêté du 30 avril 1982 - art. 4 (P)
+	  - Arrêté du 30 mai 1986 - art. 4 (P)
+	  - Arrêté du 30 octobre 1984 - art. 4 (P)
+	  - Arrêté du 31 mai 1983 - art. 1 (P)
+	  - Arrêté du 31 mai 1983 - art. 2 (P)
+
+	**Anciens textes**:
+
+	  - Décret n°1972-10-24 art. 3, AL. 3
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, la référence aux articles l141-1 à l141-9 étant remplacée par une référence à l'article 30 de l'ordonnance susvisée du 23 décembre
+
+	**Cite**:
+
+	  - Code pénal 471
+	  - Code du travail L141-1 A L141-9, L141-10 A L141-17
+
+
+##### Section 3 : Paiement du salaire
+
+###### Article R154-3
+
+Sans préjudice de la responsabilité civile, toute contravention aux prescriptions des articles L. 143-1 à L. 143-3, L. 143-5,
+L. 147-1, L. 147-2 et des décrets en Conseil d'Etat prévus à l'article R. 147-2, ainsi que des articles R. 143-1, R. 143-2 et
+R. 147-1 sera passible d'une amende de 600 F à 1.300 F (1) [*montant*].
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 3.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. R143-2 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R143-3 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R143-4 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-5 (Ab)
+	  - Code du travail - art. L147-1 (AbD)
+	  - Code du travail - art. L147-2 (AbD)
+	  - Code du travail - art. R143-1 (V)
+	  - Code du travail - art. R143-2 (M)
+	  - Code du travail - art. R147-1 (V)
+	  - Code du travail - art. R147-2 (V)
+	  - Code du travail L143-1 A L143-3, L143-5, L147-1, L147-2, R143-1, R143-2, R147-1, R147-2
+
+
+##### Section 4 : Retenues sur le salaire
+
+###### Article R154-4
+
+Les contraventions aux dispositions de l'article L. 144-3 sont passibles d'une amende de 1300 à 3000 F ; le tribunal peut en
+outre ordonner la mesure prévue à l'article L. 154-2.
+
+Ces peines seront indépendantes des restitutions et des dommages-intérêts auxquels pourront donner lieu les faits incriminés.
+
+Seront condamnés aux peines de la banqueroute frauduleuse les individus convaincus d'avoir frauduleusement inscrit, pour
+prendre part à la mainlevée prévue aux articles L. 154-4 et R. 145-16, des créances supposées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L144-3 (AbD)
+	  - Code du travail - art. L154-2 (T)
+	  - Code du travail - art. R145-16 (Ab)
+	  - Code du travail L144-3, L154-2, L154-4, R145-16
+
+	**Anciens textes**:
+
+	  - Code du travail 70 al. 3
+	  - Décret n°72-985 1972-10-24 art. 4
+
+
+## Livre II : Réglementation du travail
+
+### Titre III : Hygiène et sécurité
+
+#### Chapitre III : Sécurité
+
+##### Section 1 : Objets pesants.
+
+###### Article R233-1
+
+Dans les établissements mentionnés à l'article L. 231-1, un travailleur ne peut être admis à porter d'une façon habituelle
+des charges supérieures à 55 kg que s'il a été reconnu apte par le médecin du travail [*condition*]. Il est interdit de faire
+porter par un seul homme toute charge supérieure à 105 kg [*maximum*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°47-1592 du 23 août 1947 - art. 1 (Ab)
+	  - Arrêté du 1 mars 1984 - art. 3 (V)
+	  - Décret n°95-607 du 6 mai 1995 - art. Annexe (M)
+	  - Arrêté du 20 mars 1996 - art. Annexe (V)
+	  - Code du travail - art. R233-42 (VT)
+	  - Code du travail - art. R233-47 (VT)
+	  - Code du travail - art. R233-48 (VT)
+	  - Code du travail - art. R233-9 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+	  - TXT_ASSOCIE: Code du travail - art. R231-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°92-958 du 3 septembre 1992 - art. 2 () JORF 9 septembre 1992 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1965-05-21 art. 1, 2 et 3
+
+
+### Titre VI : Pénalités
+
+#### Chapitre préliminaire.
+
+###### Article R260-1
+
+Les infractions à l'article L. 200-3 et aux règlements pris pour son application seront passibles d'une amende de 600 F à
+1.300 F [*montant*].
+
+En cas de récidive dans le délai d'un an, les contrevenants seront passibles d'une amende de 1.300 F à 3.000 F [*1*].
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-821 du 23 juillet 1957 - art. 9 (Ab)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°91-415 du 26 avril 1991 - art. 8 () JORF 7 mai 1991
+
+	**Cite**:
+
+	  - Code du travail - art. L200-3 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R260-2 (MMN)
+	  - Décret n°72-985 1972-10-24 art. 14
+
+
+#### Chapitre Ier : Conditions du travail
+
+##### Section 1 : Age d'admission
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article R261-1
+
+Seront passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions aux articles L. 211-1, L. 211-2 et L.
+211-3 [*conditions d'âge*] ainsi qu'aux règlements pris pour leur application. 
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 3 décembre 1970 - art. 5 (V)
+	  - Décret n°97-370 du 14 avril 1997 - art. 6 (Ab)
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L211-1 (M)
+	  - Code du travail - art. L211-2 (M)
+	  - Code du travail - art. L211-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+
+##### Section 2 : Durée du travail
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article R261-3
+
+Tout chef d'établissement qui contrevient aux dispositions de l'article L. 212-1 [*quarante heures maximum*] et à celles des
+décrets prévus par l'article L. 212-2 sera passible d'une amende de 1.300 F à 3.000 F (1) [*montant*].
+
+Les contraventions donneront lieu à autant d'amendes qu'il y a d'ouvriers indûment employés.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L212-1 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L212-2 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (M)
+	  - Code du travail - art. L212-2 (M)
+
+
+##### Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.
+
+###### Article R261-5
+
+Seront passibles d'une amende de 3.000 F à 6.000 F [*1*] [*montant*] le infractions aux articles L. 212-9 à L. 212-12 et à
+l'article L. 212-14 ainsi qu'aux règlements pris pour leur application et à l'article R. 212-9.
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F [*1*].
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°97-370 du 14 avril 1997 - art. 6 (Ab)
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-10 (Ab)
+	  - Code du travail - art. L212-11 (Ab)
+	  - Code du travail - art. L212-12 (Ab)
+	  - Code du travail - art. L212-14 (M)
+	  - Code du travail - art. L212-9 (M)
+	  - Code du travail - art. R212-9 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+
+###### Article R261-6
+
+Toute infraction à l'article L. 212-13 [*travail des jeunes*] est passible d'une amende de 1.300 F à 3.000 F [*1*]
+[*montant*].
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L212-13 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-13 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 18
+
+
+##### Section 3 : Travail de nuit.
+
+###### Article R261-7
+
+Seront passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions aux articles L. 213-1 à L. 213-9 et à
+l'article L. 213-11 ainsi qu'aux règlements pris pour leur application. En cas de récidive dans le délai d'un an, l'amende
+pourra être portée à 12.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L213-7 (AbD)
+
+	**Cité par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 10 (V)
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Cite**:
+
+	  - Code du travail - art. L213-11 (Ab)
+	  - Code du travail L213-1 A L213-9, L213-11
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+
+###### Article R261-8
+
+Toute infraction à l'article L. 213-10 est passible d'une amende de 1.300 F à 3.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L213-10 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 18
+
+
+#### Chapitre II : Repos et congés
+
+##### Section 1 : Repos hebdomadaire.
+
+###### Article R262-1
+
+Seront passibles d'une amende de 3.000 F à 6.000 F les infractions aux articles L. 221-1, L. 221-2, L. 221-4 à L. 221-27
+ainsi qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L221-5-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L221-1 (M)
+	  - Code du travail - art. L221-2 (AbD)
+	  - Code du travail L221-1, L221-2, L221-4 à L221-27
+
+	**Cité par**:
+
+	  - Code du travail - art. R260-1 (M)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+
+###### Article R262-2
+
+Toute infraction à l'article L. 221-3 est passible d'une amende de 1.300 F à 3.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L221-3 (M)
+
+
+##### Section 2 : Jours fériés
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article R262-3
+
+Seront passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions aux articles L. 222-2 et L. 222-3 ainsi
+qu'aux règlements pris pour leur application.
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L222-2 (M)
+	  - Code du travail - art. L222-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+
+###### Article R262-4
+
+Toute infraction à l'article L. 222-4 est passible d'une amende de 1.300 F à 3.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L222-4 (M)
+
+
+##### Paragraphe 2 : Dispositions particulières à la journée du 1er mai.
+
+###### Article R262-5
+
+Toute contravention aux articles L. 222-5 à L. 222-8 et R. 222-1 est passible d'une amende de 1.300 F à 3.000 F (1)
+[*montant*]. L'amende est appliquée autant de fois qu'il y a de salariés indûment employés ou rémunérés.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. R222-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R222-1 (V)
+	  - Code du travail L222-5 à L222-8, R222-1
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 29
+
+
+##### Section 3 : Congés annuels.
+
+###### Article R262-6
+
+Seront passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions aux articles L. 223-1 à L. 223-17 ainsi
+qu'aux règlements pris pour leur application [*congés payés*]. En cas de récidive dans le délai d'un an, l'amende pourra être
+portée à 12.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L223-15 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L223-2 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L223-3 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L223-6 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L223-9 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R260-1 (VT)
+	  - Code du travail - art. R260-2 (MMN)
+
+	**Cite**:
+
+	  - Code du travail L223-1 A L223-17
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15
+
+
+##### Section 5 : Congés non rémunérés.
+
+###### Article R262-8
+
+Les infractions aux dispositions des articles L. 225-1 à L. 225-5 et des règlements pris pour leur application seront punies
+d'une amende de 600 F à 1.300 F (1) [*montant*] et, en cas de récidive dans le délai d'un an d'une amende de 1.300 F à 3.000
+F (1) [*congés sans solde*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail L225-1 A L225-5
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 36
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+#### Chapitre III : Hygiène et sécurité
+
+###### Article R263-1
+
+Toute infraction aux prescriptions des articles L. 234-1 à L. 234-5 ainsi que des règlements pris pour leur exécution et de
+l'article R. 232-30 sera passible d'un emprisonnement [*durée*] de 10 jours à un mois et d'une amende de 3.000 F à 6.000 F
+(1) [*montant*] ou de l'une de ces deux peines seulement.
+
+En cas de récidive dans le délai d'un an, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende à 12.000
+F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances en tant qu'elles concernent les contraventions aux dispositions des articles L234-1 à L234-5
+
+	**Cite**:
+
+	  - Code du travail - art. R232-30 (Ab)
+	  - Code du travail L234-1 à L234-5, R232-30
+
+
+#### Chapitre IV : Médecine du travail
+
+###### Article R264-1
+
+Les infractions aux dispositions des articles L. 241-1 à L. 241-11 et des règlements pris pour leur application seront
+passibles d'un emprisonnement [*durée*] de dix jours à un mois et d'une amende de 3.000 F à 6.000 F (1) [*montant*] ou de
+l'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances en tant qu' elles concernent les contraventions aux dispositions des articles L241-1 à L241-11
+	  - TXT_ASSOCIE: Code du travail - art. L241-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L241-11 (AbD)
+
+	**Cite**:
+
+	  - Code du travail L241-1 A L241-11
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 27
+
+
+#### Chapitre V : Service social du travail
+
+###### Article R265-1
+
+Les chefs d'établissement, directeurs, gérants ou préposés qui, occupant dans leurs établissements de façon habituelle deux
+cent cinquante [*effectifs*] salariés au moins n'ont pas organisé des services sociaux du travail seront passibles d'une
+amende de 1.300 F à 3.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 24
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+## Livre III : Placement et emploi
+
+### Titre VI : Pénalités
+
+#### Chapitre Ier : Placement
+
+##### Section 1 : Service public du placement.
+
+###### Article R361-1
+
+Toute personne qui aura contrevenu aux dispositions des articles L. 311-2 [*inscription ANPE*] et L. 311-4 [*publicité*] sera
+passible d'une amende de 600 F à 1.300 F (1). Dans le cas de récidive, le contrevenant est passible d'une amende de 1.300 F à
+3.000 F (2) [*montant*].
+
+(1) Amende applicable depuis le 1er octobre 1985.
+
+(2) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L311-2 (M)
+	  - Code du travail - art. L311-4 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-41 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 25
+
+
+##### Section 2 : Placement privé
+
+###### Article R361-2
+
+Toute infraction soit aux règlements édictés en vertu des articles L. 312-12 et L. 312-22, soit aux prescriptions des
+articles L. 312-6, L. 312-9 (alinéa 2), L. 312-10, L. 312-11, L. 312-13, L. 312-19, L. 312-20 et L. 312-21 sera punie d'un
+emprisonnement de cinq jours au plus [*durée*] et d'une amende de 1.300 F à 3.000 F (1) [*montant*] ou de l'une de ces deux
+peines seulement.
+
+Tout tenancier, gérant, employé d'un bureau fonctionnant en infraction aux articles L. 312-5 et L. 312-9 (alinéa 1) sera puni
+des peines portées au présent article. 
+
+Les mêmes peines s'appliquent aux tenanciers gérants ou employés de bureaux payants autorisés lorsqu'ils se livrent au
+placement de professions non dénommées à leur arrêté d'autorisation. 
+
+Ces peines sont indépendantes des restitutions et des dommages-intérêts auxquels peuvent donner lieu les faits incriminés.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Nota:**
+
+[*Nota - l'article 102 du livre Ier de l'ancien code du travail, qui ne semble pas avoir été abrogé, prévoyait en cas de
+récidive un emprisonnement de dix jours à trois mois et une amende de 500 à 15.000 F. ou l'une de ces peines seulement - taux
+résultant de la loi 85-835 du 7 août 1985.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1303 1958-12-23 art. 24
+	  - Décret n°72-985 1972-10-24 art. 34
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L312-10 (Ab)
+	  - Code du travail - art. L312-11 (M)
+	  - Code du travail - art. L312-12 (Ab)
+	  - Code du travail - art. L312-13 (Ab)
+	  - Code du travail - art. L312-19 (Ab)
+	  - Code du travail - art. L312-20 (Ab)
+	  - Code du travail - art. L312-21 (Ab)
+	  - Code du travail - art. L312-22 (Ab)
+	  - Code du travail - art. L312-5 (Ab)
+	  - Code du travail - art. L312-6 (Ab)
+	  - Code du travail - art. L312-9 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 6 (M)
+
+
+#### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
+
+##### Paragraphe 2 : Protection de la main-d'oeuvre nationale
+
+###### Article R364-2
+
+Tout employeur qui aura occupé une proportion de travailleurs étrangers supérieure à la limite fixée en vertu des articles L.
+342-1 et L. 342-2 sera passible d'une amende de 300 F à 600 F par jour par travailleur irrégulièrement occupé.
+
+Toute contravention à l'article L. 342-5 sera passible d'une amende de 300 F (1) à 600 F (1) *taux résultant du décret 567 du
+18 juillet 1980*. 
+
+Ces pénalités ne sauraient préjudicier à l'application de celles prévues par les cahiers des charges ou par l'article R.
+364-1.
+
+**Nota:**
+
+*Nota - dispositions caduques*
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L342-1 (Ab)
+	  - Code du travail - art. L342-2 (Ab)
+	  - Code du travail - art. L342-5 (Ab)
+	  - Code du travail - art. R364-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 23
+
+
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+
+### Titre VI : Pénalités
+
+#### Chapitre Ier : Les syndicats professionnels.
+
+###### Article R461-1
+
+Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions
+des articles L. 411-2 (alinéa 1) à L. 411-7 et de l'article R. 411-1 seront punis d'une amende de 3.000 F à 6.000 F (1)
+[*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1303 1958-12-23
+	  - Décret n°72-985 1972-10-24 art. 35
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L411-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L411-4 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L411-5 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L411-6 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L411-7 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L461-1 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. R411-1 (M)
+	  - Code du travail L411-2 à L411-7, R411-1
+
+
+#### Chapitre V : Education ouvrière et formation syndicale.
+
+###### Article R465-1
+
+Toute infraction aux dispositions de l'article L. 451-3 [*droit au congé d'éducation ouvrière*] (trois premiers alinéas) et
+de l'article R. 451-3 sera passible d'une amende de 600 F à 1.300 F (1) et, en cas de récidive dans le délai d'un an, d'une
+amende de 1.300 F à 3.000 F (2) [*montant*].
+
+(1) Amende applicable depuis le 1er octobre 1985.
+
+(2) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L451-3 (M)
+	  - Code du travail - art. R451-3 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 32
+
+
+## Livre III : EMPLOI
+
+### Titre II : EMPLOI
+
+#### Chapitre II : FONDS NATIONAL DE L'EMPLOI
+
+##### SECTION 1 : CONVENTIONS DE COOPERATION
+
+##### A : CONVENTIONS DE FORMATION.
+
+###### Article R322-2
+
+Les conventions [*de coopération*] mentionnées à l'article R. 322-1 (1.) sont conclues pour une durée limitée en vue
+d'organiser :
+
+Des stages de conversion ;
+
+Des stages d'adaptation ;
+
+Des stages de prévention au sens de l'article L. 940-2 (1. et 2.).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. R322-10 (M)
+	  - Code du travail - art. R322-8 (M)
+
+	**Cite**:
+
+	  - Code du travail L940-2 PAR. 1 ET 2
+
+	**Anciens textes**:
+
+	  - Décret  1970-03-16 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+## EMPLOI
+
+### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS
+
+#### TRAVAILLEURS HANDICAPES .
+
+##### PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .
+
+###### Article R323-43
+
+En ce qui concerne les entreprises ou organismes énumérés à l'article L. 323-12 et qui sont également assujettis aux
+dispositions de la section I du présent chapitre [*mutilés de guerre*] par l'effet de l'article L. 323-2, les arrêtés
+mentionnés à l'article R. 323-42 peuvent prévoir que l'obligation d'emploi est appréciée dans la limite d'un pourcentage
+maximum global, les bénéficiaires des deux régimes en cause pouvant être dans la même limite substitués les uns aux autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-12 (M)
+	  - Code du travail - art. L323-2 (M)
+	  - Code du travail R323-1 A R323-23
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-42 (Ab)
+	  - Code du travail - art. R323-45 (Ab)
+	  - Code du travail - art. R323-51 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret  1959-08-03 ART. 9
+
 
 ## Livre V : Conflits du travail
 
@@ -2443,7 +4895,1048 @@ En cas de pluralité de contraventions entraînant des peines de récidive, l'am
 	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
+## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail
+
+### Titre II : Obligations des employeurs.
+
+###### Article R620-2
+
+Un duplicata de l'affiche mentionnée à l'article L. 620-6 est envoyé à l'inspecteur du travail ; un autre est déposé à la
+mairie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D341-5-9 (V)
+	  - Code du travail - art. R632-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L620-6 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 85 al. 2
+
+
+### Titre III : Pénalités
+
+#### Chapitre Ier : Services de contrôle
+
+###### Article R631-1
+
+Toute contravention aux prescriptions de l'article L. 611-9 sera passible d'une amende de 600 à 1300 F.
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 3000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L611-9 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 44 al. 3
+	  - Décret n°72-985 1972-10-24 art. 11
+
+
+## Livre VII : Dispositions particulières à certaines professions
+
+### Titre Ier : Energie
+
+#### Industries extractives
+
+##### Chapitre II : Délégués mineurs
+
+##### Section 1 : Délégués mineurs du fond
+
+##### Paragraphe 2 : Circonscriptions .
+
+###### Article R712-9
+
+Un délégué et un délégué suppléant exercent leurs fonctions dans une circonscription souterraine dont les limites sont
+déterminées par arrêté du préfet, rendu sous l'autorité du ministre chargé du travail après rapport des ingénieurs des
+mines ; l'exploitant doit être entendu et les ouvriers intéressés remplissant les conditions exigées par l'article L. 712-11
+ainsi que les syndicats auxquels ils peuvent appartenir doivent être appelés, par voie d'affiches placées aux lieux habituels
+pour les avis aux ouvriers, à présenter leurs observations.
+
+L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours au moins aprés que les intéressés auront été appelés
+à présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L712-11 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R712-10 (VT)
+	  - Code du travail - art. R712-13 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail 121
+	  - Décret-loi 1938-05-02
+
+
+###### Article R712-11
+
+A toute époque, le préfet peut, par suite de changements survenus dans les travaux, modifier le nombre et les limites des
+circonscriptions sur le rapport des ingénieurs des mines, l'exploitant et le délégué entendus et les ouvriers intéressés
+remplissant les conditions exigées par l'article L. 712-11 ainsi que les syndicats auxquels ils peuvent appartenir ayant été
+appelés, par voie d'affiches placées aux lieux habituels pour les avis aux ouvriers, à présenter leurs observations.
+
+L'arrêté prévu au paragraphe précédent ne pourra être pris que quinze jours au moins après que les intéressés auront été
+appelés à présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L712-11 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R712-22 (VT)
+	  - Code du travail - art. R712-59 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail 123
+	  - Décret-loi 1938-05-02
+
+
+##### Paragraphe 3 : Elections.
+
+###### Article R712-16
+
+Dans les dix jours qui suivent la publication de l'arrêté préfectoral prévu à l'article R. 712-17 les organisations
+syndicales font parvenir à l'ingénieur en chef des mines, par lettre recommandée, la liste des candidats qu'elles désirent
+présenter aux élections de délégués mineurs. A la lettre précitée sont jointes les pièces établissant que les candidats
+satisfont aux conditions fixées par l'article L. 712-12.
+
+Dans les sept jours qui suivent, l'ingénieur en chef des mines constate l'éligibilité ou la non-éligibilité des candidats.
+
+En cas de réclamation des intéressés le recours doit être formé dans les trois jours qui suivent le délai prévu à l'alinéa
+précédent devant le tribunal d'instance qui statue d'urgence et en dernier ressort.
+
+Tout groupe de personnes non présenté par une organisation syndicale qui désirerait éventuellement se présenter ensemble en
+une liste de candidats au second tour du scrutin prévu par l'article L. 712-17 doit, dans les mêmes formes que celles prévues
+aux alinéas précédents, notifier sa candidature à l'ingénieur en chef des mines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L712-12 (AbD)
+	  - Code du travail - art. L712-17 (AbD)
+	  - Code du travail - art. R712-17 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail 140
+	  - Loi n°1949-03-07
+
+
+### Titre II : Industries de transformation
+
+#### Chapitre Ier : Travailleurs à domicile
+
+##### Section 4 : Règlement des litiges.
+
+###### Article R721-11
+
+A l'occasion de tout différend portant sur la rémunération d'un travailleur exécutant des travaux à domicile, le conseil de
+prud'hommes ou, à défaut le tribunal rend public par affichage à la porte du prétoire le tarif d'espèce résultant du
+jugement.
+
+Tout intéressé et tout groupement professionnel sont autorisés à prendre sans frais copie de ces salaires, au secrétariat du
+conseil de prud'hommes ou au greffe du tribunal d'instance, et à les publier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Code du travail 33 al. 3, al. 4
+
+
+### Titre IV : Transports et télécommunications.
+
+#### Chapitre II : Marins.
+
+##### Section 1 : Conventions relatives au travail.
+
+##### PARAGRAPHE 1 : CONVENTIONS COLLECTIVES DE TRAVAIL .
+
+###### Article R742-7
+
+Une commission nationale des conventions collectives de la marine marchande siège auprès du ministre chargé de la marine
+marchande [*tutelle*].
+
+Cette commission donne au ministre un avis motivé sur l'extension des conventions collectives prévue à l'article R. 742-3.
+
+Elle donne également son avis sur toute difficulté née à l'occasion de la négociation de conventions collectives et, plus
+généralement, elle peut être consultée par le ministre sur toute question relative à la conclusion et à l'application de ces
+conventions.
+
+Elle fournit à la commission supérieure des conventions collectives mentionnée à l'article L. 137-1 tous éléments
+d'appréciation intéressant la marine marchande pour l'établissement du budget type prévu par l'article L. 137-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°50-391 du 31 mars 1950 - art. 9 (V)
+	  - Code du travail - art. R742-9 (T)
+	  - Loi n°1950-02-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°85-1256 1985-11-04 art. 5 JORF 30 novembre 1985
+
+	**Cite**:
+
+	  - Code du travail - art. L137-1 (AbD)
+	  - Code du travail L137-1, L137-2
+
+	**Cité par**:
+
+	  - Code du travail - art. R742-3 (M)
+	  - Code du travail - art. R852-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R742-5 (T)
+	  - Code du travail - art. R742-5 (V)
+
+
+### Titre IX : Pénalités
+
+#### Chapitre Ier : Energie, industries extractives
+
+##### Section 1 : Mines et carrières.
+
+###### Article R791-1
+
+Tout chef d'établissement qui contrevient aux dispositions de l'article L. 711-1 (alinéa 1er) et à celles des décrets prévus
+par l'article L. 711-12 sera passible d'une amende de 1.300 F à 3.000 F (1) [*montant*].
+
+Les contraventions donneront lieu à autant d'amendes qu'il y a d'ouvriers indûment employés.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L711-12 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L711-2 (AbD)
+	  - Code du travail L711-1 AL. 1, L711-2
+
+
+###### Article R791-2
+
+Les infractions à l'article L. 711-3 [*conditions de travail - interdiction de l'emploi du personnel féminin*] ainsi qu'aux
+règlements pris pour l'application des articles L. 711-3 et L. 711-4 seront passibles d'une amende de 3.000 F à 6.000 F (1)
+[*montant*]. 
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F (1).
+
+L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux prescriptions
+mentionnées à l'alinéa 1er du présent article.
+
+En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
+relevé de nouvelles infractions.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L711-4 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L711-3 (AbD)
+	  - Code du travail - art. L711-4 (AbD)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 15, 16
+
+
+##### Section 2 : Délégués mineurs.
+
+###### Article R791-3
+
+Les infractions aux articles L. 712-3, L. 712-4, L. 712-5 (alinéa 1er) [*fonctions du délégué mineur de fond*], L. 712-27
+[*obligation après élections*], R. 712-1 (alinéa 1er) et R. 712-5 seront passibles d'une amende de 1.300 F à 3.000 F (1)
+[*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L712-27 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L712-3 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L712-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L712-5 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. R712-1 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R712-5 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L712-27 (AbD)
+	  - Code du travail - art. L712-3 (AbD)
+	  - Code du travail - art. L712-4 (AbD)
+	  - Code du travail - art. L712-5 (AbD)
+	  - Code du travail - art. R712-1 (V)
+	  - Code du travail - art. R712-5 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 13
+
+
+#### Chapitre II : Industries de transformation
+
+##### Section 1 : Travailleurs à domicile
+
+###### Article R792-1
+
+Toute contravention aux dispositions des articles L. 721-7 ou des règlements pris pour son application ainsi que des articles
+R. 721-3 et R. 721-9 (alinéa 1er) sera passible d'une amende de 600 à 1300 F. Dans le cas de contravention aux articles L.
+721-7, aux décrets en Conseil d'Etat pris pour son application, l'amende est appliquée autant de fois qu'il y a de personnes
+à l'égard desquelles les prescriptions desdits articles n'ont pas été observées.
+
+Toute contravention aux dispositions des articles L. 721-9 (alinéa 2), L. 721-14 (alinéa 14) et L. 721-16 (1er et 3e alinéas)
+ou des règlements pris pour leur application sera passible d'une amende de 1300 à 3000 F. L'amende sera appliquée autant de
+fois qu'il y aura de travailleurs rémunérés dans ces conditions illégales.
+
+En cas de récidive dans le délai de douze mois pour les infractions visées aux alinéas précédents le contrevenant sera
+passible d'une amende de 3000 à 6000 F.
+
+En cas de pluralité d'infractions, l'amende est appliquée autant de fois qu'il y a de personnes à l'égard desquelles les
+prescriptions de ces articles n'ont pas été observées.
+
+Sans préjudice, s'il y a lieu, des peines plus graves prévues par les lois en vigueur, toute mention inexacte portée sur les
+bulletins ou carnets et leur duplicata visés à l'article L. 721-7 constitue une contravention punie des peines prévues au
+premier alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-834 du 26 juillet 1957 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L721-14 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L721-16 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L721-7 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L721-9 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. R721-3 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R721-9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L721-14 (AbD)
+	  - Code du travail - art. L721-16 (M)
+	  - Code du travail - art. L721-7 (M)
+	  - Code du travail - art. L721-9 (AbD)
+	  - Code du travail - art. R721-3 (V)
+	  - Code du travail - art. R721-9 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail 33
+	  - Décret n°72-985 1972-10-24 art. 6
+
+
+##### Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes
+
+###### Article R792-2
+
+Les contraventions aux articles L. 722-1 à L. 722-3, L. 722-5, L. 722-6, R. 722-1 à R. 722-11 et aux règlements pris en
+exécution de l'article L. 722-4 seront punies d'une amende de 600 F à 1.300 F (1) [*montant*].
+
+Il sera prononcé autant d'amendes qu'il aura été commis de contraventions distinctes.
+
+(1) Amende applicable depuis le 1er octobre 1985.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L722-1 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-2 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-4 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-5 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L722-6 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-1 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-10 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-11 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-2 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-4 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-5 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-6 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-7 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-8 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R722-9 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L722-4 (Ab)
+	  - Code du travail - art. L722-5 (Ab)
+	  - Code du travail - art. L722-6 (Ab)
+	  - Code du travail L722-1 à L722-3, L722-4, L722-5, L722-6, R722-1 à R722-11
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 9
+
+
+#### Chapitre III : Bâtiment et travaux publics.
+
+###### Article R793-1
+
+Dans le cas où il ne serait pas donné suite à la mise en demeure [*par la caisse des congés payés d'effectuer le versement
+des cotisations ou les déclarations de salaires*] prévue à l'article L. 731-11 dans le délai de quinze jours, les employeurs
+seront passibles d'une amende de 600 F à 1.300 F (1) [*montant*] prononcée par le tribunal, sans préjudice de la
+condamnation, par le même jugement, au paiement de la somme représentant les cotisations dont le versement leur incombait,
+ainsi qu'au paiement des intérêts de retard. L'amende est appliquée autant de fois qu'il y a de personnes pour lesquelles les
+déclarations de salaires ou les versements de cotisations n'ont pas été effectués. En cas de récidive les contrevenants sont
+passibles d'une amende de 1.300 F à 3.000 F (2).
+
+Il y a récidive [*définition*] lorsque, dans les douze mois antérieurs [*période*] à la date d'expiration du délai de
+quinzaine imparti par la mise en demeure prévue au présent article, le contrevenant a déjà subi une condamnation pour une
+contravention identique.
+
+En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'on a
+relevé de nouvelles contraventions.
+
+(1) Amende applicable depuis le 1er octobre 1985.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-21 art. 28
+
+	**Cité par**:
+
+	  - Décret n°72-230 du 24 mars 1972 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L731-11 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L731-11 (AbD)
+
+
+#### Chapitre V : Voyageurs, représentants et placiers.
+
+###### Article R795-1
+
+Toute personne qui aura exercé la profession de voyageur ou de représentant de commerce sur le territoire français sans
+pouvoir justifier de la possession régulière de la carte d'identité professionnelle prévue par l'article L. 751-13 ou qui,
+sciemment, aura fait des déclarations inexactes pour obtenir la délivrance de ladite carte, ainsi que tout contrevenant aux
+dispositions prises pour l'application de l'article L. 751-13, seront passibles d'une amende de 3.000 F à 6.000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-895 1972-10-24 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L751-13 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L751-13 (Ab)
+
+
+#### Chapitre VI : Journalistes, artistes, mannequins
+
+##### Section 1 : Journalistes professionnels.
+
+###### Article R796-1
+
+Sont passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions à l'article L. 761-13 ainsi qu'aux
+règlements pris pour son application [*repos hebdomadaire*].
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F (1).
+
+L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires à celles de l'article
+L. 761-13. 
+
+En cas de pluralité de contravention entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
+relevé de nouvelles infractions.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L761-13 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L761-13 (AbD)
+
+
+##### Section 2 : Artistes, auteurs, compositeurs, gens de lettres.
+
+###### Article R796-2
+
+Toute infraction aux dispositions des articles L. 762-5, L. 762-6, L. 762-7, L. 762-8 et L. 762-10 sera punie d'un
+emprisonnement de dix jours à un mois [*durée*] et d'une amende de 3.000 F à 6.000 F (1) [*montant*] ou de l'une de ces deux
+peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-971 1971-12-03 art. 14
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L762-8 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L762-10 (AbD)
+	  - Code du travail - art. L762-3 (M)
+	  - Code du travail - art. L762-5 (M)
+	  - Code du travail - art. L762-6 (M)
+	  - Code du travail - art. L762-7 (M)
+	  - Code du travail - art. L762-8 (AbD)
+
+
+###### Article R796-3
+
+Toute infraction aux dispositions des articles R. 762-11, R. 762-12 et R. 762-13 sera punie d'une amende de 3.000 F  à 6.000
+F (1) [*montant*]. En cas de récidive, l'amende pourra être portée à 12.000 F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-971 1971-12-03 art. 15
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. R762-11 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R762-12 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R762-13 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R762-11 (V)
+	  - Code du travail - art. R762-12 (V)
+	  - Code du travail - art. R762-13 (V)
+
+
+#### Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (Halles de Paris)
+
+###### Article R798-1
+
+Sont passibles d'une amende de 3.000 F à 6.000 F (1) [*montant*] les infractions aux articles L. 783-1 à L. 783-8 ainsi
+qu'aux règlements pris pour son application. 
+
+En cas de récidive dans le délai d'un an, l'amende pourra être portée à 12.000 F (1). 
+
+L'amende est appliquée autant de fois qu'il y a de personnes employées dans les conditions contraires à celles des articles
+L. 783-1 à L. 783-8.
+
+En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
+relevé de nouvelles infractions.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L783-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L783-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L783-3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L783-6 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L783-7 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L783-1 A L783-8
+
+
+## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
+
+### ENERGIE - INDUSTRIES EXTRACTIVES
+
+#### DELEGUES MINEURS
+
+##### DISPOSITIONS COMMUNES AUX DELEGUES MINEURS DU FOND ET AUX  DELEGUES DE LA SURFACE .
+
+###### Article R712-59
+
+Par application des articles R. 712-11, L. 712-9, L. 712-10, R. 712-13 et R. 712-22, il doit être procédé à de nouvelles
+élections pour les circonscriptions souterraines ou de la surface qui sont créées ou modifiées entre les élections générales
+de délégués. Ces élections partielles ont lieu au scrutin de liste avec représentation proportionnelle lorsque cette création
+ou modification intéresse au moins [*minimum limite*] trois circonscriptions voisines de même nature, dans le cas contraire
+elles sont faites au scrutin de liste majoritaire à deux tours [*mode de scrutin*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L712-10 (M)
+	  - Code du travail - art. L712-9 (AbD)
+	  - Code du travail - art. R712-11 (M)
+	  - Code du travail - art. R712-13 (V)
+	  - Code du travail - art. R712-22 (V)
+
+	**Anciens textes**:
+
+	  - Décret  1949-03-11 ART. 38
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+### JOURNALISTES PROFESSIONNELS
+
+#### CARTE D'IDENTITE PROFESSIONNELLE
+
+##### CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .
+
+###### Article R761-10
+
+La commission délivre une carte de stagiaire au postulant qui ne possède pas trois ans d'ancienneté dans la profession, la
+durée de la collaboration aux journaux clandestins de la résistance comptant double pour le calcul de l'ancienneté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1944-10-31 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer
+
+### Titre VIII : Pénalités
+
+#### Chapitre II : Réglementation du travail
+
+###### Article R882-1
+
+Les infractions aux dispositions des articles L. 822-2 et L. 822-3 et des règlements pris pour leur application sont
+passibles d'un emprisonnement de dix jours à un mois [*durée*] et d'une amende de 3.000 F à 6.000 F (1) [*montant*] ou de
+l'une de ces deux peines seulement.
+
+L'amende est appliquée autant de fois qu'il y a d'infractions distinctes relevées dans le procès-verbal.
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement conformément aux dispositions de l'article 471 du
+code pénal [*abrogé implicitement par l'article 1 du décret 93-726 du 29 mars 1993*].
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code pénal 471
+	  - Code du travail L822-2 ET L822-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L822-2 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L822-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 38
+
+
+#### Chapitre III : Placement et emploi
+
+###### Article R883-1
+
+L'employeur qui aura contrevenu aux prescriptions des articles L. 831-2, L. 831-4, R. 831-1 et R. 831-2 sera passible d'un
+emprisonnement de dix jours à un mois [*durée*] et d'une amende de 3.000 F à 6.000 F (1) [*montant*] ou de l'une de ces deux
+peines seulement.
+
+En cas de récidive dans le délai d'un an, la peine d'emprisonnement pourra être portée à deux mois et celle d'amende à 12.000
+F (1).
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 31
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L831-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L831-4 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R831-1 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R831-2 (Ab)
+
+
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
+
+### COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .
+
+###### Article R910-12
+
+Il est créé dans chaque circonscription d'action régionale un groupe régional permanent de la formation professionnelle et de
+la promotion sociale. Ce groupe comprend, sous la présidence du préfet de la région, le recteur, l'inspecteur principal de
+l'enseignement technique chargé de l'échelon régional de l'éducation professionnelle, le directeur régional du travail et de
+l'emploi, l'inspecteur du travail chargé de l'échelon régional de l'emploi, l'ingénieur d'agronomie chargé de l'enseignement
+agricole et de la formation agricole, un représentant désigné par le ministre du développement industriel et scientifique, le
+trésorier-payeur général de la région et le directeur régional de l'I.N.S.E.E.. Le recteur est le vice-président de ce
+groupe.
+
+Le groupe régional permanent peut, en tant que de besoin, s'adjoindre les représentants d'autres administrations ou
+organismes publics pour les affaires qui sont de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Décret n°74-370 1974-04-29 ART. 1
+	  - Décret n°67-55 1967-01-18 ART. 10 AL. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R237-10 (M)
+	  - Code de l'éducation - art. R313-49 (M)
+	  - Code du travail - art. D910-3 (M)
+	  - Code du travail - art. R910-11 (Ab)
+	  - Code rural - art. R*811-12 (Ab)
+	  - Code rural et de la pêche maritime - art. R811-3 (Ab)
+
+
+###### Article R910-14
+
+Il est institué dans chaque circonscription d'action régionale un comité régional de la formation professionnelle, de la
+promotion sociale et de l'emploi destiné à associer des représentants des milieux professionnels à la mise en oeuvre des
+dispositions de la loi n. 66-892 du 3 décembre 1966.
+
+Les attributions, la composition et les modalités de fonctionnement des comités régionaux sont fixés par décret du Premier
+ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R237-10 (M)
+	  - Code de l'éducation - art. R313-49 (M)
+	  - Code du travail - art. R910-11 (Ab)
+	  - Code rural - art. R*811-12 (Ab)
+	  - Code rural et de la pêche maritime - art. R811-3 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L900-1 A L990-7
+
+	**Anciens textes**:
+
+	  - Décret n°67-55 1967-01-18 ART. 12
+
+
+## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
+
+### Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10
+
+#### SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
+
+###### Article R950-1
+
+Sont considérés comme occupant au minimum dix salariés [*effectifs*] , au sens de l'article L. 950-1, les employeurs occupant
+des salariés dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année où l'activité est
+exercée.
+
+Toutefois, ceux de ces employeurs occupant des salariés à temps incomplet ou d'une manière intermittente ou travaillant à
+domicile, ne sont soumis à l'obligation de participer que si le montant total des salaires versés pendant l'année est au
+moins égal à 120 fois le salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est
+réduit, pour l'année considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée [*calcul*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 TITRE V
+	  - Décret n°71-979 1971-12-10 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-881 du 11 octobre 1979 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 nonies (V)
+	  - Code du travail - art. R831-8 (Ab)
+	  - Code du travail - art. R950-19 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L950-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L950-1 (M)
+
+
 # Partie réglementaire ancienne - Décrets simples
+
+## DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
+
+### ENERGIE - INDUSTRIES EXTRACTIVES
+
+#### MINES ET CARRIERES
+
+##### HYGIENE ET SECURITE - SERVICES MEDICAUX
+
+##### PERSONNEL - LOCAUX ET MATERIELS .
+
+###### Article D711-17
+
+L'exploitant doit fournir le personnel, notamment infirmier,
+
+les locaux et le matériel nécessaire à la délivrance des soins d'urgence et au fonctionnement du service médical. Des arrêtés
+du ministre chargé de l'industrie précisent les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1967-01-03 JORF 13 JANVIER
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+## Livre VIII : Dispositions spéciales aux départements d'outre-mer
+
+### Titre III : Placement et emploi
+
+#### Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
+
+###### Article D831-1
+
+Les dispositions de l'article R. 341-8 ne sont pas applicables [*non*] dans les départements [*outre-mer*] de la Guadeloupe,
+de la Guyane, de la Martinique et de la Réunion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-592 1948-03-30 ART. 1-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D831-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R341-8 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R341-8 (M)
+
+
+### Titre VI : Contrôle de l'application de la législation et de la réglementation du travail
+
+#### Chapitre Ier : Inspection du travail.
+
+###### Article D861-1
+
+Les inspecteurs du travail et de la main-d'oeuvre des départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la
+Martinique et de la Réunion ont les mêmes attributions que les inspecteurs du travail et de la main-d'oeuvre de la métropole.
+
+Ils sont chargés, en outre, de veiller à l'application de toutes les lois sociales en agriculture, dans la mesure où celles-
+ci ne relèvent pas de la législation sur la sécurité sociale et sont placés à cet égard sous l'autorité du ministre chargé de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-567 1948-03-30 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+### Titre VII : Dispositions particulières à certaines professions
+
+#### Chapitre Ier : Journalistes professionnels.
+
+###### Article D871-1
+
+Les modalités d'application des dispositions des articles R. 761-4 et suivants sont déterminées dans les départements
+[*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion par arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-592 1948-03-30 ART. 2 AL. 2 ET ART. 1 II
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
 
 ## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
 
@@ -2604,5 +6097,238 @@ exécutés jusqu'à leur terme.
 	**Cite**:
 
 	  - Code du travail - art. L117-5 (M)
+
+
+## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
+
+### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE
+
+#### ATTRIBUTIONS, COMPOSITION, FONCTIONNEMENT DES COMITES  DEPARTEMENTAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .
+
+###### Article D910-7
+
+Sans préjudice des attributions particulières, qui lui sont conférées par les dispositions législatives et réglementaires en
+vigueur, le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, institué par
+l'article L. 115-2 contribue à la mise en oeuvre, dans le département, de la politique de formation professionnelle, de la
+promotion sociale et de l'emploi définie au plan régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D237-12 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L115-2 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-276 1972-04-12 ART. 1
+
+
+###### Article D910-10
+
+Dans les départements autres que le département de Paris et les départements d'outre-mer, le comité départemental de la
+formation professionnelle, de la promotion sociale et de l'emploi comprend, sous la présidence du préfet et avec la
+participation de l'inspecteur principal de l'enseignement technique de l'académie [*composition*] :
+
+1. Neuf représentants de l'administration :
+
+L'inspecteur d'académie en résidence dans le département ;    L'inspecteur de l'enseignement technique en mission dans le
+département ;
+
+L'ingénieur général d'agronomie ou son représentant ;
+
+L'inspecteur départemental des lois sociales en agriculture ;
+
+Le directeur départemental du travail et de la main-d'oeuvre ;
+
+Le trésorier-payeur général ;
+
+Un représentant du ministre du développement industriel et scientifique ;
+
+Le chef de service académique d'information et d'orientation ;    Le chef de la section départementale de l'Agence nationale
+pour l'emploi [*ANPE*] .
+
+2. Douze représentants des professions industrielles, commerciales, artisanales et agricoles :
+
+Six chefs d'entreprises proposés par les organisations syndicales d'employeurs les plus représentatives, dont un artisan et
+un chef d'exploitation agricole ;
+
+Six salariés proposés par les organisations syndicales de salariés les plus représentatives, dont un représentant des
+salariés agricoles.
+
+3. Neuf [*nombre*] représentants du personnel enseignant des établissements d'enseignement technologique, y compris
+l'enseignement agricole, publics et privés.
+
+Quatre représentants de l'enseignement technologique public ;
+
+Un représentant de l'enseignement technologique privé ;
+
+Un représentant de l'enseignement agricole public ;
+
+Un représentant de l'enseignement agricole privé, élus par leurs collègues dans les conditions fixées par arrêtés du ministre
+de l'éducation nationale et du ministre de l'agriculture ;
+
+Un représentant du personnel enseignant des centres de formation professionnelle des adultes ;
+
+Un représentant du personnel enseignant des centres de formation d'apprentis.
+
+4. Neuf responsables d'établissements d'enseignement et de formation :
+
+Trois chefs d'établissements d'enseignement technologique supérieur ou d'enseignement technique publics ;
+
+Un chef d'établissement d'enseignement agricole public :
+
+Un directeur de centre de formation professionnelle des adultes ;
+
+Un directeur d'établissement d'enseignement technique ou d'enseignement agricole privé ;
+
+Deux directeurs de centres de formation d'apprentis ;
+
+Un responsable de centre de formation professionnelle continue conventionné en application de l'article L. 940-1.
+
+5. Douze représentants d'institutions et organismes intéressés à l'emploi et à la formation professionnelle :
+
+Deux conseillers généraux désignés par leurs collègues ;
+
+Un représentant de la ou des chambres de commerce et d'industrie du département ;
+
+Un représentant de la ou des chambres de métiers du département ;    Un représentant de la ou des chambres d'agriculture du
+département ;
+
+Deux représentants de l'association pour l'emploi dans l'industrie et le commerce de la circonscription désignés sur
+proposition du conseil d'administration de cet organisme ;
+
+Deux conseillers de l'enseignement technique, dont un employeur et un salarié ;
+
+Un représentant des associations familiales ;
+
+Deux représentants d'associations de parents d'élèves de l'enseignement technologique.
+
+Des suppléants dont désignés, dans les mêmes conditions que les titulaires pour les différentes catégories, ils peuvent
+remplacer les titulaires aux séances du comité départemental ainsi que dans les formations prévues aux articles D. 910-12 à
+D. 910-16 ci-après.
+
+Le comité départemental peut, en outre, appeler à siéger, à titre consultatif pour l'examen de certaines questions, les
+représentants d'autres administrations et organismes intéressés ainsi que toute personne ayant une compétence particulière en
+la matière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L940-1 (T)
+	  - Code du travail D910-12 A D910-16, L940-1
+
+	**Anciens textes**:
+
+	  - Décret n°72-276 1972-04-12 art. 4
+
+
+#### COMPOSITION DU COMITE DEPARTEMENTAL DE LA FORMATION  PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI DE LA VILLE  DE PARIS .
+
+###### Article D910-22
+
+Le comité de la formation professionnelle, de la promotion sociale et de l'emploi de la ville de Paris comprend
+[*composition*] sous la présidence du préfet et avec la participation de l'inspecteur principal de l'enseignement technique
+de l'académie :
+
+1. Neuf [*nombre*] représentants de l'administration :
+
+L'inspecteur général de l'instruction publique, directeur de l'enseignement élémentaire et secondaire de Paris ou son
+représentant ;
+
+L'inspecteur de l'enseignement technique en mission dans le département ;
+
+L'inspecteur général d'agronomie ou son représentant ;
+
+Le directeur départemental du travail et de la main-d'oeuvre    L'inspecteur régional du travail et de la main d'oeuvre des
+transports ou son représentant ;
+
+Le receveur général des finances, trésorier-payeur général de la région parisienne ;
+
+Un représentant du ministre du développement industriel et scientifique ;
+
+Le chef de service académique d'information et d'orientation    Le chef de la section départementale de l'agence nationale
+pour l'emploi.
+
+2. Dix représentants des professions industrielles, commerciales et artisanales :
+
+Cinq chefs d'entreprise proposés par les organisations syndicales d'employeurs les plus représentatives dont un artisan ;
+
+Cinq salariés proposés par les organisations syndicales de salariés les plus représentatives.
+
+3. Huit représentants du personnel enseignant des établissements d'enseignement technologique publics et privés :
+
+Quatre représentants de l'enseignement technique public ;
+
+Un représentant de l'enseignement technologique privé ;
+
+Un représentant du personnel enseignant de l'A.F.P.A. ;
+
+Deux représentants du personnel enseignant des centres de formation d'apprentis.
+
+4. Huit responsables d'établissements d'enseignement et de formation :
+
+Trois chefs d'établissements d'enseignement technologique supérieur ou d'enseignement technique publics ;
+
+Un directeur de centre de formation professionnelle des adultes ;
+
+Un directeur d'établissement d'enseignement technique privé ;
+
+Deux directeurs de centres de formation d'apprentis ;
+
+Un responsable de centre de formation professionnelle continue conventionné en application de l'article 9 de la loi n. 71-577
+du 16 juillet 1971.
+
+5. Douze représentants d'institutions et organismes intéressés à l'emploi et à la formation professionnelle :
+
+Deux conseillers de Paris désignés par leurs collègues ;
+
+Un représentant de la chambre de commerce ;
+
+Un représentant de la chambre des métiers ;
+
+Deux représentants de l'Assedic ;
+
+Trois conseillers de l'enseignement technique dont un employeur, un cadre, un salarié ;
+
+Deux représentants d'associations de parents d'élèves de l'enseignement technologique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-577 du 16 juillet 1971 - art. 9 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°72-277 1972-04-12 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D910-23 (Ab)
+	  - Code du travail - art. D910-24 (Ab)
+	  - Code du travail - art. D910-25 (Ab)
+	  - Code du travail - art. D910-26 (Ab)
+	  - Code du travail - art. D910-27 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°75-228 du 4 avril 1975 - art. 1 (V)
 
 
