@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-07-01
+Version Consolidée au 1978-07-18
 
 # Partie législative ancienne
 
@@ -10480,6 +10480,49 @@ les droits des personnes auxquelles elles ont payé leurs créances dans les con
 ### PENALITES
 
 #### CONTRAT DE TRAVAIL
+
+##### LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
+
+###### Article L152-1
+
+Toute infraction aux dispositions /M/des articles L. 122-39 à L. 122-42/M/Loi  0753 17-07-1978 : de l'article L. 122-39// est
+punie d'une amende de 2.000 F à 10.000 F [*montant*] et, en cas de récidive, d'une amende de 10.000 F à 20.000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 9
+
+	**Modifié par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 51
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 23 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1155-1 (VD)
+	  - Code du travail - art. L1238-1 (VD)
+	  - Code du travail - art. L152-1-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-14 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-15 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-16 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-17 (AbD)
+
+	**Cite**:
+
+	  - Code du travail L122-39 à L122-42
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ##### TRAVAIL TEMPORAIRE .
 
@@ -21898,39 +21941,6 @@ articles L. 342-1 et L. 342-2.
 	  - Loi n°1932-08-10 ART. 6
 
 
-###### Article L342-5
-
-Les chefs des entreprises privées mentionnés aux articles L. 342-1 et L. 342-2 sont tenus de déclarer tout embauchage de
-travailleur étranger au service public de l'emploi ou s'il n'en existe pas dans la commune à la mairie de leur commune.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 50
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1261-2 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L342-1 (Ab)
-	  - Code du travail - art. L342-2 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R364-2 (P)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1932-08-10 ART. 5
-
-
 ###### Article L342-6
 
 Des dérogations aux dispositions des articles L. 342-1 et L. 342-2 peuvent être accordées soit par région et par catégorie
@@ -23592,6 +23602,210 @@ prévue à l'article L. 323-11.
 	  - Loi  1957-11-23 ART. 1 AL. 2
 
 
+###### Article L323-11
+
+I.- Dans chaque département est créée une commission technique d'orientation et de reclassement professionnel à laquelle,
+dans le cadre de ses missions définies à l'article L. 330-2, l'Agence nationale pour l'emploi apporte son concours. Cette
+commission, qui peut comporter des sections spécialisées selon la nature des décisions à prendre et dont la composition et
+les modalités de fonctionnement sont fixées par décret, comprend en particulier des personnalités qualifiées nommées sur
+proposition des organismes gestionnaires des centres de rééducation ou de travail protégé et des associations représentatives
+des travailleurs handicapés adultes ainsi que des organisations syndicales. Le président de la commission est désigné chaque
+année, soit par le préfet parmi les membres de la commission, soit, à la demande du préfet, par le président du tribunal de
+grande instance dans le ressort duquel la commission a son siège, parmi les magistrats de ce tribunal.
+
+Cette commission est compétente notamment pour :
+
+1. Reconnaître, s'il y a lieu, la qualité de travailleur handicapé aux personnes répondant aux conditions définies par
+l'article L. 323-10 ;
+
+2. Se prononcer sur l'orientation de la personne handicapée et les mesures propres à assurer son reclassement ;
+
+3. Désigner les établissements ou les services concourant à la rééducation, au reclassement et à l'accueil des adultes
+handicapés, et notamment les établissements prévus aux articles 46 et 47 de la loi n. 75-534 du 30 juin 1975 ainsi que les
+ateliers protégés ou les centres d'aide par le travail correspondant a leurs besoins et en mesure de les accueillir. La
+décision de la commission s'impose à tout établissement ou service dans la limite de la spécialité au titre de laquelle il a
+été autorisé ou agréé.
+
+A titre exceptionnel, la commission peut désigner un établissement ou un service entrant dans la catégorie de ceux vers
+lesquels elle a décidé d'orienter la personne handicapée et en mesure de l'accueillir.
+
+Lorsque la personne handicapée fait connaître sa préférence pour un établissement ou un service entrant dans la catégorie de
+ceux vers lesquels la commission a décidé de l'orienter et en mesure de l'accueillir, la commission est tenue de faire
+figurer cet établissement ou ce service au nombre de ceux qu'elle désigne, quelle que soit sa localisation ;
+
+4. Apprécier si l'état ou le taux d'incapacité de la personne handicapée justifie l'attribution de l'allocation aux adultes
+handicapés et de l'allocation compensatrice prévue aux article 35 et 39 de la loi n. 75-534 du 30 juin 1975, ou de
+l'allocation de logement instituée par la loi n. 71-582 du 16 juillet 1971 modifiée :
+
+ainsi que de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale.
+
+Les décisions de la commission doivent être motivées et faire l'objet d'une révision périodique.
+
+Sous réserve que soient remplies les conditions d'ouverture du droit aux prestations, les décisions des organismes de
+sécurité sociale et d'aide sociale en ce qui concerne la prise en charge des frais exposés dans les établissements ou
+services concourant à la rééducation, à la réadaptation, au reclassement et à l'accueil des adultes handicapés ainsi que dans
+les centres d'aide par le travail et celles des organismes chargés du paiement de l'allocation aux adultes handicapés et de
+l'allocation compensatrice ainsi que de l'allocation de logement visée ci-dessus sont prises conformément à la décision de la
+commission technique d'orientation et de reclassement professionnel. L'organisme ne peut refuser la prise en charge pour
+l'établissement ou le service, dès lors que celui-ci figure au nombre de ceux désignés par la commission, pour lequel
+l'adulte handicapé ou son représentant manifeste une préférence. Il conserve la possibilité d'accorder une prise en charge, à
+titre provisoire, avant toute décision de la commission.
+
+L'adulte handicapé ou son représentant est convoqué par la commission technique d'orientation et de reclassement
+professionnel. Il peut être assisté par une personne de son choix.
+
+Les décisions de la commission visées aux 3. et 4. ci-dessus peuvent faire l'objet de recours devant la juridiction du
+contentieux technique de la sécurité sociale sous réserve d'adaptations fixées par voie réglementaire ; ce recours, ouvert à
+toute personne et à tout organisme intéressé, est dépourvu d'effet suspensif, sauf lorsqu'il est intenté par la personne
+handicapée ou son représentant pour ce qui concerne les décisions relatives à la prise en charge des frais exposés dans les
+établissements ou services.
+
+II.- Des centres de préorientation et des équipes de préparation et de suite du reclassement doivent être créés et
+fonctionner en liaison avec les commissions techniques d'orientation et de reclassement professionnel et avec l'Agence
+nationale pour l'emploi.
+
+Les modalités de prise en charge des dépenses de fonctionnement de ces centres et équipes sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+	  - Loi n°66-509 du 12 juillet 1966 - art. 8 (Ab)
+	  - Loi n°71-582 du 16 juillet 1971 - art. 2 (Ab)
+	  - Décret n°72-526 du 29 juin 1972 - art. 16 (Ab)
+	  - Décret n°72-533 du 29 juin 1972 - art. 2 (M)
+	  - Loi n°75-534 du 30 juin 1975 - art. 27 (Ab)
+	  - Loi n°75-534 du 30 juin 1975 - art. 35 (Ab)
+	  - Loi n°75-534 du 30 juin 1975 - art. 36 (Ab)
+	  - Loi n°75-534 du 30 juin 1975 - art. 6 (Ab)
+	  - Décret n°75-975 du 23 octobre 1975 - art. 1 (V)
+	  - Décret n°76-153 du 13 février 1976 - art. 2 (Ab)
+	  - Décret n°76-153 du 13 février 1976 - art. 3 (Ab)
+	  - Décret n°76-555 du 25 juin 1976 - art. 5 (Ab)
+	  - Décret n°78-269 du 8 mars 1978 - art. 2 (Ab)
+	  - Décret n°78-269 du 8 mars 1978 - art. 3 (Ab)
+	  - Décret n°78-392 du 17 mars 1978 - art. 1 (M)
+	  - Décret n°79-535 du 3 juillet 1979 - art. 2 (Ab)
+	  - Décret n°79-535 du 3 juillet 1979 - art. 3 (Ab)
+	  - Arrêté du 31 décembre 1980 - art. 4 (V)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 20 (Ab)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 48 (Ab)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 27 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 60 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 62 (M)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 35 (M)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 38 (M)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 54 (M)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 27 (M)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 38 (M)
+	  - Décret n°86-83 du 17 janvier 1986 - art. 42-4 (M)
+	  - Arrêté du 29 juillet 1987 - art. 3 (M)
+	  - Décret n°88-145 du 15 février 1988 - art. 32-4 (M)
+	  - Décret n°89-855 du 21 novembre 1989 - art. 2 (Ab)
+	  - Décret n°89-855 du 21 novembre 1989 - art. 4 (Ab)
+	  - Décret n°90-543 du 29 juin 1990 - art. 24 bis (Ab)
+	  - Décret n°90-1083 du 3 décembre 1990 - art. 1 (Ab)
+	  - Décret n°91-155 du 6 février 1991 - art. 38-3 (V)
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+	  - Décret n°95-179 du 20 février 1995 - art. 2 (V)
+	  - Décret n°95-252 du 6 mars 1995 - art. 2 (V)
+	  - Décret n°95-473 du 24 avril 1995 - art. 2 (V)
+	  - Décret n°95-787 du 14 juin 1995 - art. 3 (V)
+	  - Décret n°95-933 du 17 août 1995 - art. 1 (Ab)
+	  - Décret n°95-979 du 25 août 1995 - art. 1 (M)
+	  - Arrêté du 6 novembre 1995 - art. Annexe (V)
+	  - Décret n°95-1272 du 6 décembre 1995 - art. 20 (An)
+	  - Décret n°96-1087 du 10 décembre 1996 - art. 1 (M)
+	  - Décret n°97-185 du 25 février 1997 - art. 1 (M)
+	  - Décret n°97-498 du 16 mai 1997 - art. 1 (V)
+	  - Décret n°97-758 du 10 juillet 1997 - art. 2-1 (V)
+	  - Décret n°98-543 du 30 juin 1998 - art. 1 (Ab)
+	  - Décret n°2003-614 du 3 juillet 2003 - art. 20 (V)
+	  - Décret n°2003-1370 du 31 décembre 2003 - art. 12 (Ab)
+	  - Décret n°2003-1373 du 31 décembre 2003 - art. 12 (Ab)
+	  - Décret n°2004-386 du 28 avril 2004 - art. 13 (V)
+	  - Arrêté du 24 août 2004 - art. 2 (V)
+	  - Loi n°2005-102 du 11 février 2005 - art. 96 (V)
+	  - Arrêté du 15 juillet 2005 - art. 2 (V)
+	  - Décret n°2007-1355 du 13 septembre 2007 - art. 7 (V)
+	  - Arrêté du 24 juillet 2015 - art. 1 (V)
+	  - Arrêté du 13 mars 1986 - art. 3 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 294 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 310 HA (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 K (P)
+	  - Code de l'action sociale et des familles - art. L121-4 (M)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
+	  - Code de l'action sociale et des familles - art. L242-4 (M)
+	  - Code de l'action sociale et des familles - art. L243-1 (Ab)
+	  - Code de l'action sociale et des familles - art. L244-1 (M)
+	  - Code de l'action sociale et des familles - art. R146-42 (V)
+	  - Code de l'action sociale et des familles - art. R241-16 (M)
+	  - Code de la construction et de l'habitation. - art. R323-11-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R351-8 (V)
+	  - Code de la famille et de l'aide sociale. - art. 173 (Ab)
+	  - Code de la sécurité sociale. - art. D381-4 (M)
+	  - Code de la sécurité sociale. - art. D381-6 (M)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+	  - Code de la sécurité sociale. - art. D542-4 (V)
+	  - Code de la sécurité sociale. - art. D755-18 (VD)
+	  - Code de la sécurité sociale. - art. L381-1 (M)
+	  - Code de la sécurité sociale. - art. L542-1 (M)
+	  - Code de la sécurité sociale. - art. L615-14 (M)
+	  - Code de la sécurité sociale. - art. L821-2 (M)
+	  - Code de la sécurité sociale. - art. L821-4 (M)
+	  - Code de la sécurité sociale. - art. L831-2 (M)
+	  - Code de la sécurité sociale. - art. R143-15 (M)
+	  - Code de la sécurité sociale. - art. R143-7 (M)
+	  - Code de la sécurité sociale. - art. R144-20 (M)
+	  - Code de la sécurité sociale. - art. R144-9 (T)
+	  - Code de la sécurité sociale. - art. R832-1 (Ab)
+	  - Code du travail - art. D323-3-1 (VT)
+	  - Code du travail - art. L122-32-1 (M)
+	  - Code du travail - art. L323-10 (M)
+	  - Code du travail - art. L323-10-1 (AbD)
+	  - Code du travail - art. L323-13 (Ab)
+	  - Code du travail - art. L323-3 (M)
+	  - Code du travail - art. L323-30 (M)
+	  - Code du travail - art. L443-3-1 (M)
+	  - Code du travail - art. L832-10 (Ab)
+	  - Code du travail - art. R119-72 (VT)
+	  - Code du travail - art. R323-100 (Ab)
+	  - Code du travail - art. R323-24 (Ab)
+	  - Code du travail - art. R323-33 (Ab)
+	  - Code du travail - art. R323-54 (M)
+	  - Code du travail - art. R323-78 (Ab)
+
+	**Cite**:
+
+	  - Loi n°71-582 1971-07-16
+	  - Loi n°75-534 1975-06-30 art. 46, 47, 35, 39
+	  - Loi n°75-534 du 30 juin 1975 - art. 39 (M)
+	  - Loi n°75-534 du 30 juin 1975 - art. 46 (Ab)
+	  - Loi n°75-534 du 30 juin 1975 - art. 47 (Ab)
+	  - Code du travail - art. L330-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 14 () JORF 1er juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°76-478 du 2 juin 1976
+	  - TXT_SOURCE: Décret n°76-478 du 2 juin 1976 - art. 4 (V)
+	  - TXT_ASSOCIE: Décret n°76-494 1976-06-03 (RECOURS)
+	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989
+	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. D323-3-1 (M)
+
+
 ###### Article L323-12
 
 Sont assujettis aux dispositions de la présente section :
@@ -24732,140 +24946,6 @@ des ministres intéressés.
 ### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
 
 #### TRAVAILLEURS HANDICAPES .
-
-###### Article L323-11
-
-La qualité de travailleur handicapé est reconnue par la commission départementale d'orientation des infirmes prévue à
-l'article 167 du code de la famille et de l'aide sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
-	  - Loi n°66-509 du 12 juillet 1966 - art. 8 (Ab)
-	  - Loi n°71-582 du 16 juillet 1971 - art. 2 (Ab)
-	  - Décret n°72-526 du 29 juin 1972 - art. 16 (Ab)
-	  - Décret n°72-533 du 29 juin 1972 - art. 2 (M)
-	  - Loi n°75-534 du 30 juin 1975 - art. 27 (Ab)
-	  - Loi n°75-534 du 30 juin 1975 - art. 35 (Ab)
-	  - Loi n°75-534 du 30 juin 1975 - art. 36 (Ab)
-	  - Loi n°75-534 du 30 juin 1975 - art. 6 (Ab)
-	  - Décret n°75-975 du 23 octobre 1975 - art. 1 (V)
-	  - Décret n°76-153 du 13 février 1976 - art. 2 (Ab)
-	  - Décret n°76-153 du 13 février 1976 - art. 3 (Ab)
-	  - Décret n°76-555 du 25 juin 1976 - art. 5 (Ab)
-	  - Décret n°78-269 du 8 mars 1978 - art. 2 (Ab)
-	  - Décret n°78-269 du 8 mars 1978 - art. 3 (Ab)
-	  - Décret n°78-392 du 17 mars 1978 - art. 1 (M)
-	  - Décret n°79-535 du 3 juillet 1979 - art. 2 (Ab)
-	  - Décret n°79-535 du 3 juillet 1979 - art. 3 (Ab)
-	  - Arrêté du 31 décembre 1980 - art. 4 (V)
-	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 20 (Ab)
-	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 48 (Ab)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 27 (M)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 60 (M)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 62 (M)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 35 (M)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 38 (M)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 54 (M)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 27 (M)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 38 (M)
-	  - Décret n°86-83 du 17 janvier 1986 - art. 42-4 (M)
-	  - Arrêté du 29 juillet 1987 - art. 3 (M)
-	  - Décret n°88-145 du 15 février 1988 - art. 32-4 (M)
-	  - Décret n°89-855 du 21 novembre 1989 - art. 2 (Ab)
-	  - Décret n°89-855 du 21 novembre 1989 - art. 4 (Ab)
-	  - Décret n°90-543 du 29 juin 1990 - art. 24 bis (Ab)
-	  - Décret n°90-1083 du 3 décembre 1990 - art. 1 (Ab)
-	  - Décret n°91-155 du 6 février 1991 - art. 38-3 (V)
-	  - Arrêté du 19 avril 1994 - art. Annexe (M)
-	  - Décret n°95-179 du 20 février 1995 - art. 2 (V)
-	  - Décret n°95-252 du 6 mars 1995 - art. 2 (V)
-	  - Décret n°95-473 du 24 avril 1995 - art. 2 (V)
-	  - Décret n°95-787 du 14 juin 1995 - art. 3 (V)
-	  - Décret n°95-933 du 17 août 1995 - art. 1 (Ab)
-	  - Décret n°95-979 du 25 août 1995 - art. 1 (M)
-	  - Arrêté du 6 novembre 1995 - art. Annexe (V)
-	  - Décret n°95-1272 du 6 décembre 1995 - art. 20 (An)
-	  - Décret n°96-1087 du 10 décembre 1996 - art. 1 (M)
-	  - Décret n°97-185 du 25 février 1997 - art. 1 (M)
-	  - Décret n°97-498 du 16 mai 1997 - art. 1 (V)
-	  - Décret n°97-758 du 10 juillet 1997 - art. 2-1 (V)
-	  - Décret n°98-543 du 30 juin 1998 - art. 1 (Ab)
-	  - Décret n°2003-614 du 3 juillet 2003 - art. 20 (V)
-	  - Décret n°2003-1370 du 31 décembre 2003 - art. 12 (Ab)
-	  - Décret n°2003-1373 du 31 décembre 2003 - art. 12 (Ab)
-	  - Décret n°2004-386 du 28 avril 2004 - art. 13 (V)
-	  - Arrêté du 24 août 2004 - art. 2 (V)
-	  - Loi n°2005-102 du 11 février 2005 - art. 96 (V)
-	  - Arrêté du 15 juillet 2005 - art. 2 (V)
-	  - Décret n°2007-1355 du 13 septembre 2007 - art. 7 (V)
-	  - Arrêté du 24 juillet 2015 - art. 1 (V)
-	  - Arrêté du 13 mars 1986 - art. 3 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 294 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 310 HA (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 K (P)
-	  - Code de l'action sociale et des familles - art. L121-4 (M)
-	  - Code de l'action sociale et des familles - art. L241-3 (M)
-	  - Code de l'action sociale et des familles - art. L242-4 (M)
-	  - Code de l'action sociale et des familles - art. L243-1 (Ab)
-	  - Code de l'action sociale et des familles - art. L244-1 (M)
-	  - Code de l'action sociale et des familles - art. R146-42 (V)
-	  - Code de l'action sociale et des familles - art. R241-16 (M)
-	  - Code de la construction et de l'habitation. - art. R323-11-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. R351-8 (V)
-	  - Code de la famille et de l'aide sociale. - art. 173 (Ab)
-	  - Code de la sécurité sociale. - art. D381-4 (M)
-	  - Code de la sécurité sociale. - art. D381-6 (M)
-	  - Code de la sécurité sociale. - art. D412-79 (V)
-	  - Code de la sécurité sociale. - art. D542-4 (V)
-	  - Code de la sécurité sociale. - art. D755-18 (VD)
-	  - Code de la sécurité sociale. - art. L381-1 (M)
-	  - Code de la sécurité sociale. - art. L542-1 (M)
-	  - Code de la sécurité sociale. - art. L615-14 (M)
-	  - Code de la sécurité sociale. - art. L821-2 (M)
-	  - Code de la sécurité sociale. - art. L821-4 (M)
-	  - Code de la sécurité sociale. - art. L831-2 (M)
-	  - Code de la sécurité sociale. - art. R143-15 (M)
-	  - Code de la sécurité sociale. - art. R143-7 (M)
-	  - Code de la sécurité sociale. - art. R144-20 (M)
-	  - Code de la sécurité sociale. - art. R144-9 (T)
-	  - Code de la sécurité sociale. - art. R832-1 (Ab)
-	  - Code du travail - art. D323-3-1 (VT)
-	  - Code du travail - art. L122-32-1 (M)
-	  - Code du travail - art. L323-10 (M)
-	  - Code du travail - art. L323-10-1 (AbD)
-	  - Code du travail - art. L323-13 (Ab)
-	  - Code du travail - art. L323-3 (M)
-	  - Code du travail - art. L323-30 (M)
-	  - Code du travail - art. L443-3-1 (M)
-	  - Code du travail - art. L832-10 (Ab)
-	  - Code du travail - art. R119-72 (VT)
-	  - Code du travail - art. R323-100 (Ab)
-	  - Code du travail - art. R323-24 (Ab)
-	  - Code du travail - art. R323-33 (Ab)
-	  - Code du travail - art. R323-54 (M)
-	  - Code du travail - art. R323-78 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°76-478 du 2 juin 1976
-	  - TXT_SOURCE: Décret n°76-478 du 2 juin 1976 - art. 4 (V)
-	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989
-	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Décret n°89-855 du 21 novembre 1989 - art. 4 (Ab)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 167 (M)
-
 
 ##### PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .
 
@@ -32248,6 +32328,104 @@ chargé de l'agriculture et les inspecteurs des lois sociales en agriculture.
 
 #### ATTRIBUTIONS ET POUVOIRS .
 
+###### Article L432-1
+
+Le comité d'entreprise coopère avec la direction à l'amélioration des conditions d'emploi et de travail ainsi que des
+conditions de vie du personnel au sein de l'entreprise ; il est obligatoirement saisi pour avis des règlements qui s'y
+rapportent.
+
+Le comité est consulté sur l'affectation de la contribution de un pour cent sur les salaires à l'effort de construction quel
+qu'en soit l'objet.
+
+//LOI  0630 11-07-1975 : Il est également consulté sur les conditions de logement des travailleurs étrangers que l'entreprise
+se propose de recruter selon les modalités prévues à l'article L. 341-9 du présent code.
+
+Il est obligatoirement consulté sur les problèmes généraux relatifs à la formation et au perfectionnement professionnels
+ainsi qu'à leur adaptation à l'emploi, compte tenu de l'évolution des techniques// .
+
+Dans les entreprises employant plus de trois cents salariés, le comité d'entreprise constitue obligatoirement une commission
+chargée d'étudier les questions mentionnées à l'alinéa précédent ainsi que celles d'emploi et de travail des jeunes, des
+femmes, //LOI  0534 30-06-1975 : et des handicapés// .
+
+//LOI  0754 17-07-1978 : Le comité d'entreprise donne son avis sur le plan de formation du personnel de l'entreprise. Afin de
+permettre aux membres dudit comité et, le cas échéant, aux membres de la commission prévue à l'alinéa précédent de participer
+à l'élaboration de ce plan et de préparer la délibération dont il fait l'objet, le chef d'entreprise leur communique, trois
+semaines au moins avant la réunion du comité d'entreprise ou de la commission précitée, les documents d'information dont la
+liste est établie par décret. Ces documents sont également communiqués aux délégués syndicaux//.
+
+//LOI  0988 29-10-1975 : Tout salarié peut, dans le cadre des possibilités de l'entreprise, bénéficier, pour la pratique
+contrôlée et régulière d'un sport, d'aménagements de son horaire de travail.
+
+Le comité d'entreprise délibère chaque année des conditions d'application de ces aménagements d'horaires et, dans le cadre de
+la gestion des oeuvres sociales, des modalités d'aide au développement des activités sportives dans l'entreprise.
+
+Les aides sont versées aux associations sportives de l'entreprise au prorata du nombre de pratiquants// .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-280 1945-02-22 ART. 2 AL. 1, 2, 3 ET 4
+	  - Loi n°66-427 1966-06-18
+	  - Code du travail - art. L432-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 23 () JORF 1ER JUILLET 1975
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°76-769 1976-08-09 : DIFFERE LA DATE D'ENTREE EN VIGUEUR DE L'ARTICLE 23 DE LA LOI DU 30 JUIN 1975
+
+	**Cité par**:
+
+	  - Décret n°79-249 du 27 mars 1979 - art. 25 (V)
+	  - Décret n°89-849 du 16 novembre 1989 - art. 2 (V)
+	  - Loi n°2003-6 du 3 janvier 2003 - art. 1 (V)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 78 (V)
+	  - Code de commerce - art. L225-105 (V)
+	  - Code du travail - art. L321-10 (T)
+	  - Code du travail - art. L321-2 (AbD)
+	  - Code du travail - art. L321-3 (AbD)
+	  - Code du travail - art. L321-9 (AbD)
+	  - Code du travail - art. L422-3 (AbD)
+	  - Code du travail - art. L432-1 bis (AbD)
+	  - Code du travail - art. L432-1-2 (AbD)
+	  - Code du travail - art. L432-1-3 (Ab)
+	  - Code du travail - art. L432-10 (AbD)
+	  - Code du travail - art. L432-9 (T)
+	  - Code du travail - art. L434-6 (P)
+	  - Code du travail - art. L435-3 (AbD)
+	  - Code du travail - art. L439-2 (AbD)
+	  - Code du travail - art. L940-1 (T)
+	  - Code du travail - art. L941-1 (AbD)
+	  - Code du travail - art. R432-21 (T)
+	  - Code du travail - art. R432-22 (VT)
+	  - Code du travail - art. R930-15 (M)
+	  - Code du travail - art. R930-5 (T)
+	  - Code monétaire et financier - art. L142-9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L432-1 (M)
+	  - Code du travail - art. L432-2 (M)
+	  - Code du travail - art. L432-2 (T)
+	  - Code du travail - art. L432-3 (M)
+	  - Code du travail - art. L432-3 (T)
+	  - Code du travail - art. L432-4 (M)
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L432-5 (M)
+	  - Code du travail - art. L432-5 (T)
+
+
 ###### Article L432-2
 
 Le comité d'entreprise assure ou contrôle la gestion de toutes les oeuvres sociales établies dans l'entreprise au bénéfice
@@ -38081,15 +38259,18 @@ Une déclaration préalable doit en outre être faite :
 3. Si un établissement occupant du personnel est transféré dans un autre emplacement ou s'il est l'objet d'extension ou de
 transformation entraînant une modification dans les industries ou commerce exercés ;
 
-4. Si un établissement n'occupant pas d'enfants de moins de dix-huit ans ou de femmes, se propose d'en occuper ;
-
-5. Si un établissement n'utilisant pas de force motrice ou d'outillage mécanique se propose d'en utiliser.
+4. Si un établissement n'occupant pas d'enfants de moins de dix-huit ans ou de femmes, se propose d'en occuper.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 50 JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 50
 
 	**Cite**:
 
@@ -38104,10 +38285,6 @@ transformation entraînant une modification dans les industries ou commerce exer
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R632-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1
 
 
 ###### Article L620-8
@@ -47179,6 +47356,143 @@ application dans les départements d'outre-mer.
 
 ## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
 
+###### Article L900-2
+
+Les types d'actions de formation qui entrent dans le champ d'application des dispositions relatives à la formation
+professionnelle continue, sont les suivants :
+
+1. Les actions de préformation et de préparation à la vie professionnelle. Elles ont pour objet de permettre à toute
+personne, sans qualification professionnelle et sans contrat de travail [*bénéficiaires*], d'atteindre le niveau nécessaire
+pour suivre un stage de formation professionnelle proprement dit ou pour entrer directement dans la vie professionnelle ;
+
+2. Les actions d'adaptation. Elles ont pour objet de faciliter l'accès de travailleurs titulaires d'un contrat de travail à
+un premier emploi ou à un nouvel emploi ;
+
+3. Les actions de promotion. Elles ont pour objet de permettre à des travailleurs d'acquérir une qualification plus élevée ;
+
+4. Les actions de prévention. Elles ont pour objet de réduire les risques d'inadaptation de qualification à l'évolution des
+techniques et des structures des entreprises, en préparant les travailleurs dont l'emploi est menacé à une mutation
+d'activité, soit dans le cadre, soit en dehors de leur entreprise ;
+
+5. Les actions de conversion. Elles ont pour objet de permettre à des travailleurs salariés dont le contrat de travail est
+rompu d'accéder à des emplois exigeant une qualification différente ou à des travailleurs non-salariés d'accéder à de
+nouvelles activités professionnelles ;
+
+6. Les actions d'acquisition, d'entretien ou de perfectionnement des connaissances. Elles ont pour objet d'offrir aux
+travailleurs, dans le cadre de l'éducation permanente, les moyens d'accéder à la culture, de maintenir ou de parfaire leur
+qualification et leur niveau culturel ainsi que d'assumer des responsabilités accrues dans la vie associative.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1310 du 23 décembre 1958 - art. 1 (M)
+	  - Loi n°79-575 du 10 juillet 1979 - art. 4 (V)
+	  - Loi n°80-526 du 12 juillet 1980 - art. 10 (Ab)
+	  - Décret n°80-1155 du 31 décembre 1980 - art. 1 (V)
+	  - Décret n°82-72 du 22 janvier 1982 - art. 1 (V)
+	  - Ordonnance n°82-273 du 26 mars 1982 - art. 5 (V)
+	  - Décret n°83-349 du 28 avril 1983 - art. 1 (V)
+	  - Décret n°84-648 du 17 juillet 1984 - art. 1 (V)
+	  - Décret n°84-919 du 16 octobre 1984 - art. 1 (Ab)
+	  - Décret n°92-410 du 27 avril 1992 - art. 3 (V)
+	  - Arrêté du 27 octobre 1992 - art. Annexe (V)
+	  - Loi n°99-894 du 22 octobre 1999 - art. 11 (Ab)
+	  - Décret n°2002-960 du 4 juillet 2002 - art. 1 (V)
+	  - Ordonnance n°2003-1213 du 18 décembre 2003 - art. 8 (VD)
+	  - Décret n°2004-1165 du 2 novembre 2004 - art. 1 (Ab)
+	  - Décret n°2007-1268 du 24 août 2007 - art. 5 (Ab)
+	  - Décret n°2007-1340 du 11 septembre 2007 - art. 8 (V)
+	  - Décret n°2007-1942 du 26 décembre 2007 - art. 11 (V)
+	  - Arrêté du 19 février 1986 - art. Annexe (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 duodecies (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 202 A (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1601 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter C (M)
+	  - Code de commerce. - art. L145-43 (V)
+	  - Code de l'action sociale et des familles - art. L262-9-1 (VT)
+	  - Code de l'éducation - art. L335-17 (V)
+	  - Code de l'éducation - art. L341-1 (V)
+	  - Code de la défense. - art. L4221-5 (V)
+	  - Code de la santé publique - art. L1333-11 (M)
+	  - Code de la sécurité sociale. - art. L821-1 (V)
+	  - Code de la sécurité sociale. - art. R356-1 (Ab)
+	  - Code de la sécurité sociale. - art. R481-1 (M)
+	  - Code du travail - art. D323-10-1 (VT)
+	  - Code du travail - art. D980-5 (M)
+	  - Code du travail - art. D981-1 (Ab)
+	  - Code du travail - art. D981-2 (Ab)
+	  - Code du travail - art. D981-3 (Ab)
+	  - Code du travail - art. D981-4 (Ab)
+	  - Code du travail - art. L122-28-7 (AbD)
+	  - Code du travail - art. L231-3-1 (AbD)
+	  - Code du travail - art. L322-4-6-2 (Ab)
+	  - Code du travail - art. L322-4-6-4 (Ab)
+	  - Code du travail - art. L351-17 (M)
+	  - Code du travail - art. L351-7 (M)
+	  - Code du travail - art. L900-2-1 (AbD)
+	  - Code du travail - art. L900-3 (T)
+	  - Code du travail - art. L900-4 (Ab)
+	  - Code du travail - art. L900-4-1 (AbD)
+	  - Code du travail - art. L900-4-2 (AbD)
+	  - Code du travail - art. L900-6 (AbD)
+	  - Code du travail - art. L920-1 (AbD)
+	  - Code du travail - art. L920-4 (AbD)
+	  - Code du travail - art. L920-5 (AbD)
+	  - Code du travail - art. L930-1-1 (T)
+	  - Code du travail - art. L930-2 (T)
+	  - Code du travail - art. L931-11 (AbD)
+	  - Code du travail - art. L931-14 (T)
+	  - Code du travail - art. L931-17 (AbD)
+	  - Code du travail - art. L931-2 (AbD)
+	  - Code du travail - art. L931-21 (AbD)
+	  - Code du travail - art. L931-22 (T)
+	  - Code du travail - art. L931-24 (AbD)
+	  - Code du travail - art. L931-29 (AbD)
+	  - Code du travail - art. L931-8 (T)
+	  - Code du travail - art. L931-8-2 (AbD)
+	  - Code du travail - art. L933-2 (AbD)
+	  - Code du travail - art. L940-2 (T)
+	  - Code du travail - art. L941-2 (AbD)
+	  - Code du travail - art. L950-1 (AbD)
+	  - Code du travail - art. L950-8 (Ab)
+	  - Code du travail - art. L951-1 (AbD)
+	  - Code du travail - art. L953-4 (AbD)
+	  - Code du travail - art. L953-5 (AbD)
+	  - Code du travail - art. L960-2 (T)
+	  - Code du travail - art. L960-9 (T)
+	  - Code du travail - art. L961-9 (M)
+	  - Code du travail - art. L970-2 (V)
+	  - Code du travail - art. L991-1 (AbD)
+	  - Code du travail - art. L991-5 (AbD)
+	  - Code du travail - art. R311-3-4 (M)
+	  - Code du travail - art. R311-3-5 (VT)
+	  - Code du travail - art. R322-2 (VT)
+	  - Code du travail - art. R351-28 (M)
+	  - Code du travail - art. R831-18 (VT)
+	  - Code du travail - art. R900-1 (VT)
+	  - Code du travail - art. R921-6 (VT)
+	  - Code du travail - art. R950-15 (T)
+	  - Code du travail - art. R950-19 (VT)
+	  - Code du travail - art. R950-3 (VT)
+	  - Code du travail - art. R960-1 (T)
+	  - Code du travail - art. R960-2 (T)
+	  - Code du travail - art. R960-24 (M)
+	  - Code du travail - art. R960-25 (M)
+	  - Code du travail - art. R960-27 (M)
+	  - Code du travail - art. R960-3 (T)
+	  - Code du travail - art. R960-6 (Ab)
+	  - Code du travail - art. R960-7 (T)
+	  - Code du travail - art. R961-1 (VT)
+	  - Code du travail - art. R964-4 (VT)
+	  - Code rural - art. L811-2 (V)
+	  - Code rural - art. L813-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### Titre Ier : Des institutions de la formation professionnelle.
 
 ###### Article L910-1
@@ -47562,6 +47876,58 @@ fixées au titre VI du présent livre.
 	  - Code du travail - art. L432-1 (T)
 	  - Code du travail - art. L920-1 (M)
 	  - Code du travail L960-1 A L960-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L940-2
+
+Une contribution financière de l'Etat peut être accordée à des stages correspondant aux types d'actions de formation définis
+à l'article L. 900-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-700 du 13 juillet 1976 - art. 14 (V)
+	  - Loi n°77-704 du 5 juillet 1977 - art. 5 (V)
+	  - Arrêté du 23 novembre 1977 - art. 1 (P)
+	  - Arrêté du 23 novembre 1977 - art. 1 (V)
+	  - Décret n°78-517 du 30 mars 1978 - art. 14 (Ab)
+	  - Décret n°78-526 du 3 avril 1978 - art. 15 (V)
+	  - Loi n°78-698 du 6 juillet 1978 - art. 4 (P)
+	  - Ordonnance n°82-273 du 26 mars 1982 - art. 5 (V)
+	  - Arrêté du 27 octobre 1978 - art. 1 (P)
+	  - CODE DES COMMUNES. - art. R*422-34 (V)
+	  - Code du travail - art. D981-1 (Ab)
+	  - Code du travail - art. D981-2 (Ab)
+	  - Code du travail - art. D981-3 (Ab)
+	  - Code du travail - art. D981-4 (Ab)
+	  - Code du travail - art. L231-3-1 (M)
+	  - Code du travail - art. L930-1 (T)
+	  - Code du travail - art. L950-1 (M)
+	  - Code du travail - art. L960-1 (M)
+	  - Code du travail - art. L960-2 (M)
+	  - Code du travail - art. L960-3 (M)
+	  - Code du travail - art. R950-15 (M)
+	  - Code du travail - art. R960-1 (T)
+	  - Code du travail - art. R960-2 (T)
+	  - Code du travail - art. R960-24 (M)
+	  - Code du travail - art. R960-25 (M)
+	  - Code du travail - art. R960-27 (M)
+	  - Code du travail - art. R960-3 (T)
+	  - Code du travail - art. R960-7 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L941-2 (AbD)
+	  - Code du travail - art. L941-2 (M)
 
 	**Codifié par**:
 
@@ -48006,6 +48372,78 @@ leur application dans les départements d'outre-mer, qui devra se faire à la m�
 	  - Code du travail L930-1 ET L930-2
 
 
+###### Article L990-8
+
+Lorsqu'un salarié de l'entreprise est désigné pour siéger dans une commission, un conseil ou un comité administratifs ou
+paritaires appelés à traiter des problèmes d'emploi et de formation ou pour participer à un jury d'examen, l'employeur est
+tenu d'accorder à ce salarié le temps nécessaire pour participer aux réunions des organismes précités.
+
+Cette autorisation d'absence ne peut être refusée par l'employeur que dans le cas où il estime, après avis conforme du comité
+d'entreprise ou, s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des conséquences
+préjudiciables à la production et à la marche de l'entreprise.
+
+Le refus de cette autorisation d'absence par l'employeur doit être motivé.
+
+En cas de différend, l'inspecteur du travail peut être saisi par l'une des parties et pris pour arbitre.
+
+La liste des organismes visés au premier alinéa est fixée par arrêté interministériel.
+
+La participation des salariés aux instances nommées au présent article n'entraîne aucune diminution de leur rémunération. Un
+décret fixe les conditions dans lesquelles les dépenses afférentes au maintien du salaire et au remboursement des frais de
+déplacement sont supportées par les organismes visés à l'alinéa précédent ou par l'entreprise. Dans ce cas, le salaire ainsi
+que les cotisations sociales obligatoires et, s'il y a lieu, la taxe sur les salaires qui s'y rattachent sont pris en compte
+par priorité au titre de l'exonération établie par l'article 1er de la loi n. 71-578 du 16 juillet 1971 et, subsidiairement,
+au titre de la participation mise à la charge des employeurs par l'article L. 950-2 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-578 du 16 juillet 1971 - art. 1 (M)
+	  - Code du travail - art. L950-2 (M)
+
+	**Cité par**:
+
+	  - Décret n°79-249 du 27 mars 1979 - art. 25 (V)
+	  - Arrêté du 20 mai 1980 - art. 1 (M)
+	  - Arrêté du 20 mai 1980 - art. 2 (V)
+	  - Décret n°80-441 du 17 juin 1980 - art. 1 (Ab)
+	  - Décret n°80-442 du 17 juin 1980 - art. 1 (Ab)
+	  - Arrêté du 24 décembre 1992 - art. 5 (V)
+	  - Arrêté du 5 juin 1980 - art. 1 (Ab)
+	  - Code de la sécurité sociale. - art. D412-82 (M)
+	  - Code de la sécurité sociale. - art. L412-8 (M)
+	  - Code du travail - art. R330-21 (Ab)
+	  - Code rural ancien - art. 1145 (Ab)
+	  - Code rural ancien - art. 1252-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°79-251 du 27 mars 1979
+	  - TXT_SOURCE: Décret n°79-251 du 27 mars 1979 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°79-251 du 27 mars 1979 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°79-251 du 27 mars 1979 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 5 juin 1980
+	  - TXT_SOURCE: Arrêté du 5 juin 1980 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 juin 1980 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 juin 1980 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 juin 1980 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 juin 1980 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 juin 1980 - art. 6 (Ab)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 47 III JORF 25 FEVRIER 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L991-8 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### CONVENTIONS DE FORMATION PROFESSIONNELLE .
 
 ###### Article L920-3
@@ -48205,85 +48643,32 @@ dépenses.
 	  - Décret n°73-1046 1973-11-15
 
 
-### CONGE DE FORMATION .
+### DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.
 
 ###### Article L930-1
 
-I.- Tout au long de leur vie active, les travailleurs salariés du présent livre n'entrant pas dans les catégories mentionnées
-au titre VII et qui désirent effectuer des stages de formation ayant reçu l'agrément de l'Etat au titre du présent article
-ont droit, sur demande adressée à leur employeur, à un congé.
+Le congé de formation [*définition*] a pour objet de permettre à tout travailleur, au cours de sa vie professionnelle, de
+suivre à son initiative, et à titre individuel, des actions de formation, indépendamment de sa participation aux stages
+compris dans le plan de formation de l'entreprise dans laquelle il exerce son activité.
 
-Ne sont exclus du bénéfice de ce congé que les travailleurs titulaires d'un diplôme de l'enseignement supérieur long ou d'un
-diplôme professionnel depuis moins de trois ans, ainsi que ceux dont l'ancienneté dans l'entreprise est inférieure à deux
-ans.
+Ces actions de formation doivent permettre aux travailleurs d'accéder à un niveau supérieur de qualification, de changer
+d'activité ou de profession et de s'ouvrir plus largement à la culture et à la vie sociale. Elles s'accomplissent en tout ou
+partie pendant le temps de travail.
 
-II.- Dans les établissements de 100 salariés et plus, lorsque plusieurs travailleurs remplissant les conditions fixées au I
-du présent article demandent un congé de formation, la satisfaction accordée à certaines demandes peut être différée afin que
-le pourcentage de travailleurs simultanément absents /M/de l'établissement/M/LOI  1171 31-12-1974 : au titre de ce congé// ne
-dépasse pas 2 p. 100 du nombre total des travailleurs dudit établissement.
-
-III.- Dans les établissements de moins de 100 salariés, cette satisfaction peut être différée si le nombre d'heures de congé
-demandées dépasse 2 p. 100 du nombre total des heures effectuées dans l'année.
-
-Toutefois, le nombre d'heures de congé auxquelles les salariés de ces établissements ont droit pourra être reporté sur
-demande d'une année sur l'autre sans que ce cumul puisse dépasser quatre ans.
-
-IV.- Ce congé correspond à la durée du stage, sans pouvoir excéder un an [*limite*] s'il s'agit d'un stage continu à temps
-plein ou 1.200 heures s'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou à
-temps partiel.
-
-Ce congé pourra toutefois excéder un an ou 1.200 heures s'il s'agit d'un stage de "promotion professionnelle" au sens de
-l'article L. 940-2 et inscrit sur la liste spéciale prévue à l'article L. 960-2.
-
-V.- Le bénéfice du congé demandé est de droit sauf dans le cas où l'employeur estime, après avis du comité d'entreprise ou,
-s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des conséquences préjudiciables à la
-production et à la marche de l'entreprise. En cas de différend, l'inspecteur du travail contrôlant l'entreprise peut être
-saisi par l'une des parties et peut être pris pour arbitre.
-
-VI.- La durée de ce congé ne peut être imputée sur la durée du congé payé annuel. Ce congé est assimilé à une période de
-travail pour la détermination des droits des intéressés en matière de congé payé annuel.
-
-La même assimilation s'applique à l'égard des droits que le salarié tient de son ancienneté dans l'entreprise.
-
-VII.- Les travailleurs bénéficiant de ce congé peuvent être rémunérés par leurs employeurs, en application de dispositions
-contractuelles. L'Etat peut les rémunérer ou participer à leur rémunération dans les conditions prévues au titre VI du
-présent livre.
-
-VIII.- L'agrément prévu au paragraphe I du présent article est accordé par arrêté du Premier ministre aprés avis du groupe
-permanent visé à l'article L. 910-1 en considération de l'intérêt que présente le stage pour la formation professionnelle
-continue.
-
-IX.- Pour les travailleurs des entreprises qui ne relèvent pas d'un accord conclu en ce domaine entre les organisations
-professionnelles et syndicales les plus représentatives sur le plan national, un décret en Conseil d'Etat déterminera
-notamment :
-
-1. Les règles selon lesquelles est déterminé, par établissement, compte non tenu des congés visés à l'article L. 930-2, le
-pourcentage maximum de travailleurs susceptibles de bénéficier simultanément d'un congé ou le pourcentage maximum d'heures de
-travail susceptibles d'être affectées, au cours d'une période annuelle ou pluriannuelle, à l'exercice du droit à congé ;
-
-2. Les conditions et les délais de présentation de la demande à l'employeur en fonction de la durée de la formation ainsi que
-les délais de réponse motivée de l'employeur ;
-
-3. Les conditions dans lesquelles l'employeur peut, le cas échéant, différer le congé en raison des nécessités propres de son
-entreprise ou de son exploitation ;
-
-4. Les règles selon lesquelles est déterminée, pour un travailleur, la périodicité des congés auxquels il peut prétendre au
-titre du présent livre compte non tenu des congés dont il a pu bénéficier antérieurement sur la base de l'article L. 930-2.
-
-X.- Les travailleurs salariés visés au premier alinéa du présent article peuvent obtenir dans le cadre d'accords contractuels
-un congé aux fins d'exercer des fonctions d'enseignement soit au sein des entreprises, soit dans des établissements et
-centres prévus à l'article L. 920-3 comme dans ceux qui, visés à l'article L. 920-2, dispensent une formation.
-
-Les salariés en congé d'enseignement ne sont pas pris en compte pour la fixation du nombre des bénéficiaires du congé de
-formation tel qu'il est fixé par application des règles prévues au II et au III ci-dessus.
+Le congé visé au premier alinéa peut également être accordé à un salarié pour préparer et pour passer un examen pour
+l'obtention d'un titre ou diplôme au sens de l'article 8 de la loi n. 71-577 du 16 juillet 1971 d'orientation sur
+l'enseignement technologique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Loi n°74-1171 1974-12-31 ART. 1 , ART. 6
-	  - Loi n°74-1171 du 31 décembre 1974 - art. 1, v. init.
+	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (M)
+	  - Code du travail - art. L910-1 (M)
+	  - Code du travail - art. L920-2 (M)
+	  - Code du travail - art. L930-2 (M)
+	  - Code du travail - art. L940-2 (M)
+	  - Code du travail L960-1 A L960-16
 
 	**Cité par**:
 
@@ -48311,20 +48696,15 @@ formation tel qu'il est fixé par application des règles prévues au II et au I
 	  - Code du travail - art. R980-7 (M)
 	  - Code du travail - art. R980-8 (T)
 
-	**Cite**:
+	**Transféré par**:
 
-	  - Code du travail - art. L910-1 (M)
-	  - Code du travail - art. L920-2 (M)
-	  - Code du travail - art. L930-2 (M)
-	  - Code du travail - art. L940-2 (M)
-	  - Code du travail L970-1 A L970-5
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L930-1-10 (T)
 	  - Code du travail - art. L930-1-11 (T)
 	  - Code du travail - art. L931-1 (M)
-	  - Code du travail L930-1-1 A L930-1-6, L930-1-7 A L930-1-12
 
 	**Liens**:
 
@@ -48340,159 +48720,79 @@ formation tel qu'il est fixé par application des règles prévues au II et au I
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L930-2
+###### Article L930-1-1
 
-I.- Les travailleurs salariés qui ne sont pas titulaires d'un diplôme professionnel ou bénéficiaires d'un contrat
-d'apprentissage ont droit, pendant les deux premières années de présence dans l'entreprise et jusqu'à ce qu'ils atteignent
-l'âge de vingt ans révolus, à un congé leur permettant de suivre des stages de formation ayant reçu l'agrément de l'Etat au
-titre du présent article. Le bénéfice de ce congé ne peut être refusé.
+Les travailleurs salariés qui n'appartiennent pas aux catégories visées au titre VII du présent livre ont droit, sur demande
+adressée à leur employeur, à un congé de formation pour suivre des stages du type de ceux définis à l'article L. 900-2.
 
-II.- La durée de ce congé, qui ne peut excéder cent heures par an [*limite*] ne peut être imputée sur la durée du congé payé
-annuel. Ce congé est assimilé à une période de travail pour la détermination des droits des intéressés en matière de congé
-payé annuel.
-
-La même assimilation s'applique à l'égard des droits que le salarié tient de son ancienneté dans l'entreprise.
-
-III.- En cas de différend relatif à l'application du présent article, l'inspecteur du travail contrôlant l'entreprise peut
-être saisi par l'une des parties et peut être pris pour arbitre.
-
-IV.- L'agrément prévu au paragraphe I du présent article est accordé par arrêté du Premier ministre, après avis du groupe
-permanent visé à l'article L. 910-1, en considération de l'intérêt que présente le stage pour la formation professionnelle
-continue.
-
-V.- Un décret en Conseil d'Etat fixe les mesures d'application du présent article ; il détermine notamment :
-
-1  La durée minimum de présence dans l'entreprise pour que le droit à congé soit ouvert ;
-
-2  Les conditions et délais de présentation de la demande à l'employeur ainsi que les délais de réponse motivée de celui-ci ;
-
-3  Les conditions dans lesquelles l'employeur peut, le cas échéant, différer le congé en raison des nécessités propres de son
-entreprise ou de son exploitation.
+Pour bénéficier de ce congé, les travailleurs doivent justifier d'une ancienneté dans la branche professionnelle d'au moins
+vingt-quatre mois consécutifs ou non, dont six dans l'entreprise. Toutefois, cette condition n'est pas exigée des salariés
+qui ont changé d'emploi à la suite d'un licenciement pour motif économique et qui n'ont pas suivi un stage de formation entre
+le moment de leur licenciement et celui de leur réemploi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Transféré par**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 8 (V)
-
-	**Cité par**:
-
-	  - Décret n°78-517 du 30 mars 1978 - art. 13 (Ab)
-	  - Loi n°80-526 du 12 juillet 1980 - art. 19 (Ab)
-	  - Ordonnance n°82-273 du 26 mars 1982 - art. 13 (V)
-	  - Code du travail - art. L930-1 (T)
-	  - Code du travail - art. L930-1-11 (T)
-	  - Code du travail - art. L930-1-9 (T)
-	  - Code du travail - art. L931-12 (AbD)
-	  - Code du travail - art. L950-2-1 (M)
-	  - Code du travail - art. R930-12 (T)
-	  - Code du travail - art. R930-14 (T)
-	  - Code du travail - art. R930-15 (T)
-	  - Code du travail - art. R930-16 (T)
-	  - Code du travail - art. R930-17 (T)
-	  - Code du travail - art. R930-18 (T)
-	  - Code du travail - art. R930-19 (T)
-	  - Code du travail - art. R930-4 (T)
-	  - Code du travail - art. R930-5 (T)
-	  - Code du travail - art. R930-6 (T)
-	  - Code du travail - art. R930-8 (T)
-	  - Code du travail - art. R960-2 (T)
-	  - Code du travail - art. R970-34 (M)
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
 
 	**Cite**:
 
-	  - Code du travail - art. L910-1 (M)
+	  - Code du travail - art. L900-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L930-1-2 (T)
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. L931-14 (T)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R930-7 (T)
-	  - TXT_SOURCE: Code du travail - art. R990-1 (T)
-	  - TXT_SOURCE: Code du travail - art. R990-2 (T)
-	  - TXT_SOURCE: Code du travail - art. R990-3 (T)
-	  - TXT_SOURCE: Code du travail - art. R992-1 (V)
-	  - TXT_SOURCE: Code du travail - art. R992-3 (Ab)
+	  - Code du travail - art. L931-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
 
 
-### AIDE DE L'ETAT .
+###### Article L930-1-2
 
-###### Article L940-2
-
-Une contribution financière de l'Etat peut être accordée pour chacun des types d'actions de formation ci-après :
-
-1° Les stages dits de "conversion" et les stages de "prévention" [*définition*] ouverts aux personnes âgées d'au moins dix-
-huit ans [*majorité*] Ils ont pour objet, les premiers, de préparer les travailleurs salariés dont le contrat de travail est
-rompu à tenir des emplois exigeant une qualification différente ou de permettre à des exploitants agricoles et aux membres
-non-salariés de leur famille ou aux membres de professions non-salariés non-agricoles d'accéder à de nouvelles activités
-professionnelles ; les seconds de réduire les risques d'inadaptation des qualifications à l'évolution des techniques et des
-structures des entreprises en préparant les travailleurs menacés de licenciement à une mutation d'activité soit dans le
-cadre, soit en dehors de l'entreprise qui les emploie ;
-
-2° Les stages dits d'"adaptation". Ils ont pour objet de faciliter l'accès à un premier emploi ou à un nouvel emploi de
-travailleurs titulaires d'un contrat de travail et rémunérés par leur entreprise, notamment de jeunes pourvus d'un diplôme
-professionnel ;
-
-3° Les stages dits : "de promotion professionnelle", ouverts soit à des travailleurs salariés, soit à des travailleurs non-
-salariés en vue de leur permettre d'acquérir une qualification plus élevée ;
-
-4° Les stages dits "d'entretien ou de perfectionnement des connaissances", ouverts à des travailleurs salariés titulaires
-d'un contrat de travail ou à des travailleurs non-salariés, en vue de maintenir ou de parfaire leur qualification et leur
-culture ;
-
-5° Les stages de préformation, de formation, de préparation à la vie professionnelle ou de spécialisation, ouverts à des
-jeunes gens de seize à dix-huit ans sans contrat de travail.
+Dans les établissements de deux cents salariés et plus, lorsque plusieurs travailleurs remplissant les conditions fixées à
+l'article L. 930-1-1 demandent un congé de formation, la satisfaction accordée à certaines demandes peut être différée afin
+que le pourcentage de travailleurs simultanément absents au titre de ce congé ne dépasse pas 2 p. 100 du nombre total des
+travailleurs dudit établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 10 (V)
-
 	**Cité par**:
 
-	  - Décret n°76-700 du 13 juillet 1976 - art. 14 (V)
-	  - Loi n°77-704 du 5 juillet 1977 - art. 5 (V)
-	  - Arrêté du 23 novembre 1977 - art. 1 (P)
-	  - Arrêté du 23 novembre 1977 - art. 1 (V)
-	  - Décret n°78-517 du 30 mars 1978 - art. 14 (Ab)
-	  - Décret n°78-526 du 3 avril 1978 - art. 15 (V)
-	  - Loi n°78-698 du 6 juillet 1978 - art. 4 (P)
-	  - Ordonnance n°82-273 du 26 mars 1982 - art. 5 (V)
-	  - Arrêté du 27 octobre 1978 - art. 1 (P)
-	  - CODE DES COMMUNES. - art. R*422-34 (V)
-	  - Code du travail - art. D981-1 (Ab)
-	  - Code du travail - art. D981-2 (Ab)
-	  - Code du travail - art. D981-3 (Ab)
-	  - Code du travail - art. D981-4 (Ab)
-	  - Code du travail - art. L231-3-1 (M)
-	  - Code du travail - art. L930-1 (T)
-	  - Code du travail - art. L950-1 (M)
-	  - Code du travail - art. L960-1 (M)
-	  - Code du travail - art. L960-2 (M)
-	  - Code du travail - art. L960-3 (M)
-	  - Code du travail - art. R950-15 (M)
-	  - Code du travail - art. R960-1 (T)
-	  - Code du travail - art. R960-2 (T)
-	  - Code du travail - art. R960-24 (M)
-	  - Code du travail - art. R960-25 (M)
-	  - Code du travail - art. R960-27 (M)
-	  - Code du travail - art. R960-3 (T)
-	  - Code du travail - art. R960-7 (T)
+	  - Loi n°80-526 du 12 juillet 1980 - art. 19 (Ab)
+	  - Code du travail - art. D514-6 (VT)
+	  - Code du travail - art. L930-1-12 (T)
+	  - Code du travail - art. L930-1-9 (T)
+	  - Code du travail - art. L931-13 (T)
+	  - Code du travail - art. L931-21 (T)
+	  - Code du travail - art. L931-28 (M)
+	  - Code du travail - art. R930-2 (T)
 
-	**Nouveaux textes**:
+	**Transféré par**:
 
-	  - Code du travail - art. L941-2 (AbD)
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1-1 (T)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail R960-1 A R960-43
+	  - TXT_ASSOCIE: Code du travail - art. L930-1-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-3 (AbD)
+	  - Code du travail - art. L931-3 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 II
 
 	**Codifié par**:
 
@@ -48594,6 +48894,167 @@ participant, chaque année, /M/au financement d'actions de formation du type de 
 
 	  - Code du travail - art. L900-2 (M)
 	  - Code du travail - art. L940-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L950-2
+
+Les employeurs doivent consacrer au financement d'actions de formation visées à l'article L. 950-1 des sommes représentant,
+en 1972, 0,80 p. 100 au moins du montant, entendu au sens de l'article 231-I du code général des impôts, des salaires payés
+pendant l'année en cours. Ce taux devra atteindre 2 p. 100 en 1976.
+
+Ils peuvent s'acquitter de cette obligation :
+
+1. En finançant des actions de formation au bénéfice de leurs personnels.
+
+Ces actions sont organisées soit dans l'entreprise elle-même, soit en application de conventions conclues conformément aux
+dispositions du titre II du présent livre.
+
+Les dépenses engagées à ce titre par l'entreprise sont retenues pour leur montant /M/total, sans déduction des concours
+éventuellement reçus de l'Etat en application du présent livre/M/LOI  1171 31-12-1974 : réel, déduction faite des concours
+apportés par une personne morale de droit public ou par une organisation internationale de droit public au titre de la
+formation professionnelle//.
+
+Lorsque les actions de formation sont organisées dans l'entreprise, ces dépenses peuvent être affectées au fonctionnement des
+stages, à la rémunération des stagiaires /A/ainsi qu'à l'équipement en matériel dès lors que ce matériel est exclusivement
+utilisé pour la formation/A/LOI  1332 31-12-1975//.
+
+Lorsque les actions de formation sont organisées en dehors de l'entreprise, en application de conventions annuelles ou
+pluriannuelles, les dépenses admises au titre de la participation instituée par le présent titre correspondent, d'une part,
+aux rémunérations versées par l'entreprise, d'autre part, aux dépenses de formation effectuées par l'organisme formateur pour
+l'exécution desdites conventions /A/y compris celles affectées à l'équipement en matériel/A/LOI  1332 31-12-1975//.
+
+//LOI  1332 31-12-1975 : Dans ces deux cas, les dépenses d'équipement en matériel admises au titre de la participation
+
+2. En contribuant au financement de fonds d'assurances-formation institués conformément aux dispositions de l'article /R/L.
+960-10 /R/L. 960-8// du présent code.
+
+3. En effectuant, dans la limite de 10 p. 100 du montant de la participation à laquelle ils sont tenus au titre de l'année en
+cours, des versements à des organismes soit agréés sur le plan national en raison de l'intérêt que présente leur action pour
+la formation professionnelle continue des travailleurs, soit menant des actions dont l'intérêt sur le plan régional a été
+reconnu par le préfet de région sur proposition du comité régional de la formation professionnelle, de la promotion sociale
+et de l'emploi compétent en conformité avec les objectifs définis au premier alinéa de l'article L. 900-1.
+
+//LOI  0656 16-07-1976 :
+
+4. En finançant des actions de formation au bénéfice de demandeurs d'emploi sans contrat de travail, organisées dans des
+centres de formation conventionnés en application des dispositions de l'article L. 940-1 ci-dessus//.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 24 septembre 1981 - art. 2 (M)
+	  - Arrêté - art. ANNEXE, art. 5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter J (M)
+	  - Décret n°78-798 du 28 juillet 1978 - art. 9 (Ab)
+	  - Loi n°80-526 du 12 juillet 1980 - art. 32 (Ab)
+	  - Loi n°80-834 du 24 octobre 1980 - art. 13 (V)
+	  - Décret n°82-804 du 22 septembre 1982 - art. 9 (Ab)
+	  - Décret n°83-397 du 19 mai 1983 - art. 20 (Ab)
+	  - Décret n°87-670 du 14 août 1987 - art. 9 (Ab)
+	  - Décret n°90-1055 du 27 novembre 1990 - art. 2 (V)
+	  - Décret n°93-21 du 7 janvier 1993 - art. 34 (M)
+	  - Décret n°2015-1623 du 9 décembre 2015 - art. 2 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 duodecies (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter G (M)
+	  - Code de la mutualité - art. L125-6 (Ab)
+	  - Code du travail - art. D322-3 (VT)
+	  - Code du travail - art. L321-5-1 (Ab)
+	  - Code du travail - art. L920-12 (M)
+	  - Code du travail - art. L931-11 (M)
+	  - Code du travail - art. L931-14 (T)
+	  - Code du travail - art. L931-20 (M)
+	  - Code du travail - art. L931-22 (T)
+	  - Code du travail - art. L931-29 (AbD)
+	  - Code du travail - art. L931-9 (M)
+	  - Code du travail - art. L950-10 (T)
+	  - Code du travail - art. L950-2-1 (M)
+	  - Code du travail - art. L950-2-2 (T)
+	  - Code du travail - art. L950-2-4 (T)
+	  - Code du travail - art. L950-3 (T)
+	  - Code du travail - art. L950-4 (T)
+	  - Code du travail - art. L950-5 (T)
+	  - Code du travail - art. L950-7 (T)
+	  - Code du travail - art. L950-8 (T)
+	  - Code du travail - art. L950-9 (M)
+	  - Code du travail - art. L990-8 (T)
+	  - Code du travail - art. L991-4 (AbD)
+	  - Code du travail - art. L991-8 (T)
+	  - Code du travail - art. R330-15 (Ab)
+	  - Code du travail - art. R950-15 (T)
+	  - Code du travail - art. R950-16 (T)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-20 (M)
+	  - Code du travail - art. R950-23 (T)
+	  - Code du travail - art. R950-26 (T)
+	  - Code du travail - art. R950-3 (M)
+	  - Code du travail - art. R950-30 (T)
+	  - Code du travail - art. R950-33 (T)
+	  - Code du travail - art. R960-36 (T)
+	  - Code du travail - art. R964-13 (M)
+
+	**Cite**:
+
+	  - CGI 231-1
+	  - Code du travail - art. L900-1 (M)
+	  - Code du travail - art. L950-1 (M)
+	  - Code du travail - art. L960-10 (M)
+	  - Code du travail - art. L960-8 (M)
+	  - Code du travail L920-1 A L920-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 1972-09-04
+	  - TXT_ASSOCIE: Loi n°76-656 du 16 juillet 1976
+	  - TXT_ASSOCIE: Loi n°76-656 du 16 juillet 1976 - art. 1 ()
+	  - TXT_ASSOCIE: Loi n°76-656 du 16 juillet 1976 - art. 2 (V)
+	  - SPEC_APPLI: Loi n°84-130 1984-02-24 ART. 51 : A titre transitoire, les dispositions figurant au 3° de l'article L. 950-2 , avant sa modification par la présente loi, restent en vigueur pour l'execution de l'obligation établie par l'article L. 950-1 et concernant l
+	  - TXT_ASSOCIE: Code du travail R950-1 A R950-13
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 14 (V)
+	  - Loi n°74-1171 1974-12-31 ART. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L951-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L950-2-1
+
+Les dépenses prises en charge par l'employeur en application des articles L. 930-1 et L. 930-2 du code du travail sont
+admises au titre de la participation des employeurs au financement de la formation professionnelle dans les conditions
+prévues aux articles L. 950-1 et L. 950-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L930-2 (M)
+	  - Code du travail - art. L950-1 (M)
+	  - Code du travail - art. L950-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L951-2 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L991-4 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L950-2 BIS (1978)
 
 	**Codifié par**:
 
@@ -48740,29 +49201,31 @@ compétente pour recevoir cette déclaration.
 
 ###### Article L960-1
 
-L'Etat, les employeurs, les travailleurs et les organismes chargés du service d'allocation d'assurance aux travailleurs sans
-emploi concourent, selon des modalités propres à chacune des catégories de stages définies à l'article L. 940-2, au
-financement de la rémunération des stagiaires de formation professionnelle.
+L'Etat, les employeurs et les organismes chargés du service de l'allocation d'assurance aux travailleurs sans emploi
+concourent au financement de la rémunération des stagiaires de la formation professionnelle.
+
+Des conventions conclues avec l'Etat déterminent les modalités de la participation desdits organismes au financement ci-
+dessus prévu.
 
 Sous certaines conditions définies par le décret en Conseil d'Etat, le stagiaire peut bénéficier d'un prêt accordé par l'Etat
-ou par des organismes agréés bénéficiant du concours de l'Etat.
+ou par les organismes agréés bénéficiant du concours de l'Etat.
 
 Ce prêt peut se cumuler avec les indemnités éventuellement perçues en vertu des dispositions du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Transféré par**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 23 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L940-2 (M)
-	  - Code du travail L960-1 A L960-18
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L961-1 (AbD)
+	  - Code du travail - art. L961-1 (M)
+
+	**Cite**:
+
+	  - Code du travail L960-1 A L960-18
 
 	**Codifié par**:
 
@@ -49249,161 +49712,6 @@ même objet que ceux prévus à l'article L. 960-10 aient été établis par et 
 	**Cite**:
 
 	  - Code du travail L960-10 ET L960-4 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L960-13
-
-Les jeunes gens de seize à dix-huit ans qui n'ont pas souscrit de contrat d'apprentissage et ne remplissent pas les
-conditions posées pour l'attribution de l'allocation d'aide publique aux travailleurs sans emploi bénéficient, lorsqu'ils
-suivent des stages de préformation, de formation, de préparation à la vie professionnelle ou de spécialisation, au sens du 5°
-de l'article L. 940-2, d'indemnités et d'avantages sociaux équivalents aux bourses et avantages sociaux prévus en faveur des
-élèves des collèges d'enseignement technique.
-
-Toutefois, jusqu'à une date qui sera fixée par décret, des indemnités excédant celles prévues à l'alinéa précédent pourront
-être temporairement maintenues. Leur taux sera fixé chaque année, compte tenu de l'évolution du plafond des cotisations de
-sécurité sociale.
-
-Les intéressés sont couverts au titre de l'assurance maladie en qualité d'ayants droit de celui de leurs parents qui est
-assuré social. Ils ouvrent droit au service des allocations familiales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 35 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°71-981 du 10 décembre 1971 - art. 12 (V)
-
-	**Cité par**:
-
-	  - Décret n°77-714 du 5 juillet 1977 - art. 8 (V)
-	  - Arrêté du 23 novembre 1977 - art. 1 (V)
-	  - Code du travail - art. D981-2 (Ab)
-	  - Code du travail - art. R960-25 (M)
-
-	**Cite**:
-
-	  - Code du travail L940-2 5.
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L960-14
-
-Les frais de transport exposés par les travailleurs pour se rendre au lieu des stages qui font l'objet du présent titre et
-pour en revenir ou pour se déplacer, en fonction des nécessités de ces stages, donnent lieu à un remboursement total ou
-partiel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 38 (V)
-	  - Code du travail L960-16 (1973)
-
-	**Cite**:
-
-	  - Code du travail L960-1 A L960-18
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L960-15
-
-Tous les litiges auxquels peuvent donner lieu la liquidation, le versement et le remboursement des rémunérations et
-indemnités prévues au présent titre /A/Ainsi que le versement et la prise en charge des cotisations de sécurité sociale et
-d'accidents du travail/A/ LOI  1171 31-12-1974// relèvent de la compétence des tribunaux de l'ordre judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°74-1171 1974-12-31 ART. 3 III
-	  - Code du travail L960-17 (1973)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L960-11 (P)
-
-	**Cité par**:
-
-	  - Code du travail - art. R960-18 (Ab)
-
-	**Cite**:
-
-	  - Code du travail L960-1 A L960-18
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L960-16
-
-I.- Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalités d'application du présent titre
-notamment :
-
-Les conditions de l'agrément prévu au deuxième alinéa de l'article L. 960-2 ;
-
-Les conditions d'attribution et les modalités de versement des rémunérations et indemnités prévues aux articles L. 960-3 à L.
-960-6, L. 960-8 et L. 960-13 ;
-
-Les conditions de la prise en charge par l'Etat d'une partie des rémunérations prévues aux articles L. 960-7 /M/L. 960-9, L.
-960-10, L. 960-11, L. 960-12/M/LOI  1171 31-12-1974 :
-
-et L. 960-9 à L. 960-12// ;
-
-/A/Les conditions de la prise en charge par l'Etat des cotisations sociales afférentes à la rémunération des stagiaires
-prévues à l'article L. 960-14 /A/LOI  1171 31-12-1974//.
-
-Les conditions de remboursement des frais de transport mentionnés à l'article /M/L. 960-16 /M/LOI  1171 : L. 960-14//.
-
-II.- Des décrets fixent :
-
-Le montant ou le taux des rémunérations ou indemnités prévues aux articles L. 960-3 à L. 960-6, L. 960-8 et L. 960-13 ;
-
-La part des rémunérations prises en charge par l'Etat en application des articles L. 960-7, L. 960-10 à L. 960-12.
-
-III.- Des décisions du Premier ministre, prises après avis du groupe permanent de hauts fonctionnaires institué par l'article
-L. 910-1, arrêtent :
-
-La liste d'agrément prévue au deuxième alinéa de l'article L. 960-2 ;
-
-Les listes des stages de promotion professionnelle et d'entretien et de perfectionnement des connaissances prévues au
-troisième alinéa de l'article L. 960-2 ;
-
-La liste des formations d'une durée inférieure à un an mentionnée au troisième alinéa de l'article L. 960-8.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire 40 1969-09-09
-	  - TXT_ASSOCIE: Circulaire 6 1972-02-21
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 40 II
-	  - Loi n°74-1171 1974-12-31 ART. 3 IV
-	  - Code du travail L960-18 (1973)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L960-12 (P)
-
-	**Cite**:
-
-	  - Code du travail L960-2 A L960-14
 
 	**Codifié par**:
 
@@ -49976,6 +50284,506 @@ dispositions qui leur sont propres.
 	**Cite**:
 
 	  - Code de la sécurité sociale L416 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+## FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE
+
+### DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.
+
+###### Article L930-1-3
+
+Dans les établissements de moins de 200 salariés, cette satisfaction peut être différée si le nombre d'heures de congé
+demandées dépasse 2 p. 100 du nombre total des heures effectuées dans l'année.
+
+Toutefois, le nombre d'heures de congé auxquelles les salariés de ces établissements ont droit pourra être reporté sur
+demande d'une année sur l'autre sans que ce cumul puisse dépasser quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°80-526 du 12 juillet 1980 - art. 19 (Ab)
+	  - Code du travail - art. D514-6 (VT)
+	  - Code du travail - art. L930-1-12 (T)
+	  - Code du travail - art. L930-1-9 (T)
+	  - Code du travail - art. L931-13 (T)
+	  - Code du travail - art. L931-21 (T)
+	  - Code du travail - art. L931-28 (M)
+	  - Code du travail - art. R930-2 (T)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L930-1-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-4 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 III
+
+
+###### Article L930-1-4
+
+Ce congé correspond à la durée du stage, sans pouvoir excéder un an s'il s'agit d'un stage continu à temps plein ou 1.200
+heures s'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou à temps partiel.
+
+Ce congé peut toutefois excéder un an ou mille deux cents heures s'il s'agit d'un stage agréé dans les conditions définies à
+l'article L. 960-2.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-5 (AbD)
+	  - Code du travail - art. L931-5 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L960-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 IV
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-1-5
+
+Le bénéfice du congé demandé est de droit sauf dans le cas où l'employeur estime, après avis du comité d'entreprise ou, s'il
+n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des conséquences préjudiciables à la production
+et à la marche de l'entreprise. En cas de différend, l'inspecteur du travail contrôlant l'entreprise peut être saisi par
+l'une des parties et peut être pris pour arbitre.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-6 (AbD)
+	  - Code du travail - art. L931-6 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R930-6 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 V
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-1-6
+
+La durée de ce congé ne peut être imputée sur la durée du congé payé annuel. Ce congé est assimilé à une période de travail
+pour la détermination des droits des intéressés en matière de congé payé annuel.
+
+La même assimilation s'applique à l'égard des droits que le salarié tient de son ancienneté dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-7 (AbD)
+	  - Code du travail - art. L931-7 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 VI
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-1-7
+
+Sous réserve des dispositions contractuelles plus favorables, les salariés bénéficiaires d'un congé de formation ont droit
+lorsqu'ils suivent un stage agréé par l'Etat, dans les conditions définies à l'article L. 960-2, au maintien, à la charge de
+l'employeur, de leur rémunération antérieure dans les conditions ci-après :
+
+Pendant les quatre premières semaines ou les cent soixante premières heures de formation s'il s'agit d'un stage de moins de
+cinq cents heures ;
+
+Pendant les treize premières semaines ou les cinq cents premières heures de formation s'il s'agit d'un stage de cinq cents
+heures et plus.
+
+Cette durée est portée à seize semaines ou six cents heures pour les ingénieurs et cadres tels que définis par les
+conventions collectives, et pour les agents de maîtrise et techniciens figurant sur une liste établie par accord paritaire
+dans les professions ;
+
+Pendant la durée du congé pour examen accordé dans les conditions prévues au troisième alinéa de l'article L. 930-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-250 du 27 mars 1979 - art. 2 (Ab)
+	  - Code du travail - art. L930-1-8 (T)
+	  - Code du travail - art. L960-3 (T)
+	  - Code du travail - art. R930-4 (T)
+	  - Code du travail - art. R930-7 (T)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L960-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-8 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 VII
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-1-8
+
+Sous réserve de dispositions contractuelles plus favorables, la satisfaction accordée par l'employeur à une demande de congé
+rémunéré peut être différée si le pourcentage de salariés bénéficiaires dudit congé, absents simultanément de l'entreprise,
+dépasse 0,5 p. 100 de l'effectif du personnel, non compris le personnel d'encadrement défini au quatrième alinéa de l'article
+L. 930-1-7.
+
+Pour le personnel d'encadrement, cette limite  est portée à 0,75 p. 100 de l'effectif de ce personnel dans l'entreprise.
+
+Dans les établissements de moins de deux cents salariés, la satisfaction accordée par l'employeur à une demande de congé
+rémunéré peut être différée si le nombre d'heures desdits congés dépasse, dans l'établissement, respectivement 0,75 p. 100 du
+nombre total des heures de travail effectuées dans l'année par le personnel d'encadrement ou 0,5 p. 100 du nombre total des
+heures de travail effectuées dans l'année par les autres catégories de personnel.
+
+Le nombre d'heures de congé rémunéré auxquelles les salariés des établissements de moins de deux cents salariés ont droit
+peut être reporté sur demande d'une année sur l'autre sans que ce cumul puisse dépasser quatre ans.
+
+Pour les employeurs occupant moins de dix salariés, les obligations nées de l'application des dispositions du présent article
+et de l'article L. 930-1-7 ne peuvent être supérieures à celles qui résulteraient de leur assujettissement à la participation
+obligatoire des employeurs à la formation professionnelle prévue par l'article L. 950-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°80-526 du 12 juillet 1980 - art. 19 (Ab)
+	  - Code du travail - art. D514-6 (VT)
+	  - Code du travail - art. L930-1-12 (T)
+	  - Code du travail - art. L930-1-9 (T)
+	  - Code du travail - art. L931-13 (T)
+	  - Code du travail - art. L931-21 (T)
+	  - Code du travail - art. L931-28 (M)
+	  - Code du travail - art. R930-2 (T)
+	  - Code du travail - art. R960-5 (M)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1-7 (T)
+	  - Code du travail - art. L950-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L930-1-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-9 (AbD)
+	  - Code du travail - art. L931-9 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 VIII
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-1-9
+
+Les congés accordés pour permettre de suivre les stages prévus à l'article L. 930-2 ne sont pas pris en compte pour le calcul
+des pourcentages fixés aux articles L. 930-1-2, L. 930-1-3 et L. 930-1-8.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L930-1-2 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L930-1-3 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L930-1-8 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1-2 (T)
+	  - Code du travail - art. L930-1-3 (T)
+	  - Code du travail - art. L930-1-8 (T)
+	  - Code du travail - art. L930-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-10 (AbD)
+	  - Code du travail - art. L931-10 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 IX
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-1-10
+
+L'Etat participe au financement des stages ouverts aux bénéficiaires d'un congé de formation ainsi qu'à la rémunération de
+ces derniers dans les conditions fixées aux articles L. 940-1 et L. 960-3.
+
+Les bénéficiaires d'un congé de formation sont admis par priorité aux stages qui entrent dans la prévision de l'alinéa
+précédent et en particulier aux cours de promotion sociale lorsque ceux-ci se déroulent en totalité ou en partie pendant le
+temps de travail.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L930-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-11 (AbD)
+	  - Code du travail - art. L931-11 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L940-1 (T)
+	  - Code du travail - art. L960-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L930-2
+
+I. - Les salariés qui ne sont pas titulaires d'un diplôme professionnel, ou qui ne sont pas liés par un contrat de travail
+prévoyant une formation professionnelle répondant à des conditions fixées par voie réglementaire, ont droit, pendant les deux
+premières années d'activité professionnelle et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé leur
+permettant de suivre des stages du type de ceux définis à l'article L. 900-2. Le bénéfice de ce congé ne peut être refusé.
+
+Ce congé ouvre droit à rémunération.
+
+II. - La durée de ce congé, qui ne peut excéder deux cents heures par an ne peut être imputée sur la durée du congé payé
+annuel. Ce congé est assimilé à une période de travail pour la détermination des droits des intéressés en matière de congé
+payé annuel.
+
+La même assimilation s'applique à l'égard des droits que le salarié tient de son ancienneté dans l'entreprise.
+
+III. - En cas de différend relatif à l'application du présent article, l'inspecteur du travail contrôlant l'entreprise peut
+être saisi par l'une des parties et peut être pris pour arbitre.
+
+IV - Un décret en Conseil d'Etat fixe les mesures d'application du présent article ; il détermine notamment :
+
+1) La durée minimum de présence dans l'entreprise pour que le droit à congé soit ouvert ;
+
+2) Les conditions et délais de présentation de la demande à l'employeur ainsi que les délais de réponse motivée de celui-ci ;
+
+3) Les conditions dans lesquelles l'employeur peut, le cas échéant, différer le congé en raison des nécessités propres de son
+entreprise ou de son exploitation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-517 du 30 mars 1978 - art. 13 (Ab)
+	  - Loi n°80-526 du 12 juillet 1980 - art. 19 (Ab)
+	  - Ordonnance n°82-273 du 26 mars 1982 - art. 13 (V)
+	  - Code du travail - art. L930-1 (T)
+	  - Code du travail - art. L930-1-11 (T)
+	  - Code du travail - art. L930-1-9 (T)
+	  - Code du travail - art. L931-12 (AbD)
+	  - Code du travail - art. L950-2-1 (M)
+	  - Code du travail - art. R930-12 (T)
+	  - Code du travail - art. R930-14 (T)
+	  - Code du travail - art. R930-15 (T)
+	  - Code du travail - art. R930-16 (T)
+	  - Code du travail - art. R930-17 (T)
+	  - Code du travail - art. R930-18 (T)
+	  - Code du travail - art. R930-19 (T)
+	  - Code du travail - art. R930-4 (T)
+	  - Code du travail - art. R930-5 (T)
+	  - Code du travail - art. R930-6 (T)
+	  - Code du travail - art. R930-8 (T)
+	  - Code du travail - art. R960-2 (T)
+	  - Code du travail - art. R970-34 (M)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-14 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R930-7 (T)
+	  - TXT_SOURCE: Code du travail - art. R990-1 (T)
+	  - TXT_SOURCE: Code du travail - art. R990-2 (T)
+	  - TXT_SOURCE: Code du travail - art. R990-3 (T)
+	  - TXT_SOURCE: Code du travail - art. R992-1 (V)
+	  - TXT_SOURCE: Code du travail - art. R992-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+### DE LA PROMOTION INDIVIDUELLE ET DU CENTRE DE FORMATION.
+
+###### Article L930-1-11
+
+Pour les travailleurs des entreprises qui ne relèvent pas d'un accord conclu en ce domaine entre les organisations
+professionnelles et une ou plusieurs organisations syndicales les plus représentatives sur le plan national, un décret en
+Conseil d'Etat détermine notamment :
+
+1. Les conditions et les délais de présentation de la demande à l'employeur en fonction de la durée de la formation ainsi que
+les délais de réponse motivée de l'employeur ;
+
+2. Les conditions dans lesquelles l'employeur peut, le cas échéant, différer le congé en raison des nécessités propres de son
+entreprise ou de son exploitation ;
+
+3. Les règles selon lesquelles est déterminée, pour un travailleur, la périodicité des congés auxquels il peut prétendre en
+vertu du présent titre, compte non tenu des congés dont il a pu bénéficier antérieurement par application de l'article L.
+930-2.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L930-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L930-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-12 (AbD)
+	  - Code du travail - art. L931-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+### DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
+
+###### Article L930-1-12
+
+I. - Sous réserve de dispositions contractuelles plus favorables, les salariés définis au premier alinéa de l'article L.
+930-1 et qui justifient d'une ancienneté de deux ans dans leur entreprise, ont droit, en vue de dispenser à temps plein ou à
+temps partiel un enseignement technologique relevant de leur spécialité professionnelle, à une autorisation d'absence
+correspondant à la durée maximale d'un an, pourvu que cet enseignement soit donné dans un établissement d'enseignement public
+ou privé sous contrat, ou concerne un stage agréé par l'Etat.
+
+II. - Dans les établissements de deux cents salariés et plus, lorsque plusieurs travailleurs remplissant les conditions
+fixées au paragraphe précédent, demandent un congé d'enseignement, la satisfaction accordée à certaines demandes peut être
+différée afin que le pourcentage de travailleurs simultanément absents au titre de ce congé ne dépasse pas 1 p. 100 du nombre
+total des travailleurs dudit établissement.
+
+III. - Dans les établissements de moins de deux cents salariés, cette satisfaction peut être différée si le nombre d'heures
+de congé demandées dépasse 1 p. 100 du nombre total des heures de travail effectuées dans l'année.
+
+Toutefois, le nombre d'heures de congé auxquelles les salariés de ces établissements ont droit pourra être reporté sur
+demande d'une année sur l'autre sans que ce cumul puisse dépasser quatre ans.
+
+Les salariés en congé d'enseignement ne sont pas pris en compte pour la fixation du nombre des bénéficiaires du congé de
+formation tel qu'il est fixé par application des dispositions des articles L. 930-1-2, L. 930-1-3 et L. 930-1-8.
+
+Un décret précise les modalités d'application du présent article et détermine notamment les conditions dans lesquelles les
+autorisations d'absence pourront être accordées.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 2 JORF 25 FEVRIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L930-1-2 (T)
+	  - Code du travail - art. L930-1-3 (T)
+	  - Code du travail - art. L930-1-8 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L931-13 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R930-11 (T)
+	  - Code du travail - art. R930-12 (T)
+	  - Code du travail - art. R930-2 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail L930-1 X
 
 	**Codifié par**:
 
@@ -97466,6 +98274,45 @@ pendant toute la durée précédemment fixée.
 	**Cite**:
 
 	  - Code du travail L900-1 A L980-7
+
+
+###### Article R960-6
+
+Les stages [*dits d'entretien ou de perfectionnement des connaissances*] définis au 4. de /R/l'article L. 940-2/R/loi  0754 :
+l'article L. 900-2// et auxquels s'applique l'article L. 960-11 [*indemnité horaire calculée en fonction du SMIC*] doivent
+également être inscrits sur une liste spéciale établie par décision du Premier ministre en application de l'article L. 960-18
+III, et comportant les mêmes mentions que la liste prévue à l'article R. 960-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 TITRE VI
+	  - Décret n°71-980 1971-12-10 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 JUILLET 1978
+
+	**Cité par**:
+
+	  - Décret n°80-1155 du 31 décembre 1980 - art. 2 (V)
+	  - Code de la sécurité sociale. - art. R356-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L960-11 (P)
+	  - Code du travail - art. R960-5 (Ab)
+	  - Code du travail L900-2, L940-2 PAR. 4
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R961-6 (M)
 
 
 #### MODALITES DE CALCUL ET DE VERSEMENT DES REMUNERATIONS
