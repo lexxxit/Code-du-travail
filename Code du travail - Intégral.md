@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-07-03
+Version Consolidée au 1982-07-03 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -107446,17 +107446,18 @@ obtenu plus de 50 p. 100 des voix des électeurs inscrits dans le ou lesdits col
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°82-571 1982-06-29 ART. 1 JORF 3 JUILLET 1982
+	  - Code du travail - art. L212-4-1
+	  - Code du travail - art. L433-2
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. R3122-2 (VT)
 
 
 ###### Article D212-4-2
