@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-04-01
+Version Consolidée au 1980-05-01
 
 # Partie législative ancienne
 
@@ -73988,34 +73988,6 @@ de la sécurité sociale et de la santé publique.
 	  - Loi n°1946-10-11 ART. 2 AL. 3, ART. 3 AL. 1 ET 2
 
 
-#### SERVICE MEDICAL DU TRAVAIL .
-
-###### Article R241-11
-
-Le service médical est placé sous la direction du chef d'entreprise.
-
-Le ou les médecins du travail attachés à l'entreprise ou à l'organisation interentreprises ne peuvent être désignés ou
-maintenus en fonctions qu'après accord, selon le cas, entre le chef d'entreprise et le comité d'entreprise ou entre les chefs
-d'entreprises et le comité interentreprises. Le médecin du travail doit être titulaire du certificat d'études spéciales de
-médecine du travail. En cas de désaccord, la décision est prise par l'inspecteur du travail qui doit consulter le médecin
-inspecteur du travail.
-
-Le chef d'entreprise ou le président du comité interentreprises établit chaque année un rapport sur l'organisation, le
-fonctionnement et la gestion financière du service médical et le transmet au comité d'entreprise ou interentreprises. Celui-
-ci l'adresse, dans un délai d'un mois de sa réception, à l'inspecteur du travail [*contrôle*] dont dépend l'entreprise ou
-l'organisation interentreprises. Le cas échéant, il y joint les observations qu'il juge utiles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1945-11-02 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ### SERVICE SOCIAL DU TRAVAIL .
 
 ###### Article R250-10
@@ -85336,6 +85308,76 @@ repris.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R1454-23 (V)
+
+
+##### Section 7 : Le référé prud'homal.
+
+###### Article R516-30
+
+Dans tous les cas d'urgence, la formation de référé peut, dans la limite de la compétence des conseils de prud'hommes,
+ordonner toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
+	  - Code du travail - art. R51-11-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1455-5 (V)
+	  - Code du travail - art. R516-32 (M)
+
+
+###### Article R516-34
+
+Le délai d'appel est de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1022 1979-11-23 ART. 24 : FIXE LA DATE D'ENTREE EN VIGUEUR (1ER MAI 1980)
+
+	**Cité par**:
+
+	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail R516-33 (1976)
+
+
+###### Article R516-35
+
+L'appel est formé, instruit et jugé comme il est dit aux articles R. 517-7 à R. 517-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-1022 1979-11-23 ART. 24 : FIXE LA DATE D'ENTREE EN VIGUEUR (1ER MAI 1980)
+
+	**Cité par**:
+
+	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail R516-33 (1976)
 
 
 ##### Section 8 : L'exécution des jugements.
