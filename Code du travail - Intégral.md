@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-12-31
+Version Consolidée au 1976-01-01
 
 # Partie législative ancienne
 
@@ -43911,6 +43911,109 @@ application dans les départements d'outre-mer.
 
 ### Titre Ier : Des institutions de la formation professionnelle.
 
+###### Article L910-1
+
+La formation professionnelle et la promotion sociale font l'objet d'une politique coordonnée et concertée, notamment avec les
+organisations représentatives des employeurs et des travailleurs salariés ainsi que des travailleurs indépendants.
+
+A cet effet, il est créé auprès du Premier ministre un comité interministériel, dont le ministre de l'éducation nationale est
+le vice-président, et un groupe permanent de hauts fonctionnaires, dont le président est désigné par le Premier ministre. Ces
+organismes sont assistés pour l'élaboration et la mise en oeuvre de la politique de formation professionnelle, de la
+promotion sociale et de l'emploi par un conseil national de la formation professionnelle, de la promotion sociale et de
+l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
+intéressés.
+
+Sont institués, suivant les mêmes principes, des comités régionaux et des comités départementaux de la formation
+professionnelle, de la promotion sociale et de l'emploi.
+
+Les membres non fonctionnaires des comités visés à l'alinéa précédent bénéficient pendant les heures qu'ils consacrent à leur
+mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais
+de déplacement.
+
+Les modalités d'organisation et de fonctionnement des comités et conseils mentionnés aux alinéas précédents sont déterminées
+par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 2
+
+	**Cité par**:
+
+	  - Décret n°72-283 du 12 avril 1972 - art. 7 (Ab)
+	  - Décret n°75-489 du 16 juin 1975 - art. 12 (Ab)
+	  - Décret n°77-1153 du 10 octobre 1977 - art. 13 (V)
+	  - Décret n°83-925 du 21 octobre 1983 - art. 5 (Ab)
+	  - Arrêté du 16 décembre 1988 - art. 1 (V)
+	  - Arrêté du 16 décembre 1988 - art. 5 (V)
+	  - Décret n°92-23 du 8 janvier 1992 - art. 2 (Ab)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 76 (V)
+	  - Décret n°95-925 du 19 août 1995 - art. 15 (Ab)
+	  - Arrêté du 6 novembre 1995 - art. Annexe (V)
+	  - Décret n°97-954 du 17 octobre 1997 - art. 7 (V)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 16 (Ab)
+	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V)
+	  - CODE DES COMMUNES. - art. R*412-115 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 227 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter E (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter H bis (M)
+	  - Code de l'éducation - art. D313-14 (V)
+	  - Code de l'éducation - art. D313-15 (V)
+	  - Code de l'éducation - art. D313-24 (V)
+	  - Code de l'éducation - art. L214-14 (Ab)
+	  - Code de l'éducation - art. L237-1 (V)
+	  - Code de l'éducation - art. L335-8 (M)
+	  - Code de l'éducation - art. L444-11 (V)
+	  - Code du travail - art. D910-1 (VT)
+	  - Code du travail - art. D910-7 (Ab)
+	  - Code du travail - art. D940-4 (VT)
+	  - Code du travail - art. D981-4 (Ab)
+	  - Code du travail - art. L101-2 (VT)
+	  - Code du travail - art. L116-2 (M)
+	  - Code du travail - art. L117-10 (AbD)
+	  - Code du travail - art. L118-2-2 (AbD)
+	  - Code du travail - art. L118-2-4 (AbD)
+	  - Code du travail - art. L322-10 (VT)
+	  - Code du travail - art. L930-1 (T)
+	  - Code du travail - art. L930-2 (M)
+	  - Code du travail - art. L940-1-2 (T)
+	  - Code du travail - art. L941-1-2 (Ab)
+	  - Code du travail - art. L950-2 (T)
+	  - Code du travail - art. L950-2-2 (M)
+	  - Code du travail - art. L951-1 (M)
+	  - Code du travail - art. L961-12 (AbD)
+	  - Code du travail - art. L961-3 (AbD)
+	  - Code du travail - art. L970-1 (M)
+	  - Code du travail - art. L980-9 (M)
+	  - Code du travail - art. R322-15 (VT)
+	  - Code du travail - art. R323-62 (VT)
+	  - Code du travail - art. R910-1 (Ab)
+	  - Code du travail - art. R910-2 (Ab)
+	  - Code du travail - art. R950-13 (T)
+	  - Code du travail - art. R960-2 (T)
+	  - Code du travail - art. R960-30 (T)
+	  - Code du travail - art. R964-7 (Ab)
+	  - Code du travail - art. R980-7 (T)
+	  - Code du travail - art. R990-7 (T)
+	  - Code du travail - art. R992-7 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-574 du 11 juillet 1994
+	  - TXT_SOURCE: Décret n°94-575 du 11 juillet 1994
+	  - TXT_SOURCE: Code du travail - art. D910-2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-3 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-4 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-5 (Ab)
+	  - TXT_SOURCE: Code du travail - art. D910-5-1 (Ab)
+	  - TXT_SOURCE: Décret n°73-1046 1973-11-15
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L910-2
 
 Le comité interministériel de la formation professionnelle et de la promotion sociale détermine [*attributions*], en fonction
@@ -44054,6 +44157,78 @@ financier, à la réalisation des programmes, soit en tant que dispensateurs de 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°73-1046 1973-11-15 JORF 21 novembre
+
+
+###### Article L920-7
+
+Est interdit le démarchage pour le compte du dispensateur de formation lorsqu'il est rémunéré par une commission et qu'il a
+pour objet de provoquer la vente d'un plan ou la souscription d'une convention de formation.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L920-8 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L993-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail l992-2: sanction pénale
+
+	**Cité par**:
+
+	  - Code du travail - art. L920-8 (M)
+	  - Code du travail - art. L992-2 (T)
+	  - Code du travail - art. L993-2 (AbD)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L920-9
+
+En cas d'inexécution totale ou partielle d'une convention de formation professionnelle, le dispensateur de formation doit
+[*obligation*] rembourser à son cocontractant les sommes qui, du fait de cette inexécution, n'ont pas été effectivement
+dépensées ou engagées.
+
+L'application de ces dispositions aux conventions conclues par un groupement professionnel ou interprofessionnel est fixée
+par voie réglementaire.
+
+En cas de manoeuvres frauduleuses, le ou les contractants sont, de plus, assujettis à un versement d'égal montant au profit
+du Trésor public [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-451 du 18 mai 1976 - art. 8 (V)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 85 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1783 quater (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1960 ter (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter HD (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter KH (M)
+	  - Code de l'éducation - art. L214-15 (M)
+	  - Code du travail - art. L920-11 (Ab)
+	  - Code du travail - art. L920-12 (Ab)
+	  - Code du travail - art. L991-5 (M)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+	  - Code du travail - art. R950-8 (M)
+	  - Code du travail - art. R991-10 (M)
+	  - Code général des collectivités territoriales - art. L4332-1 (V)
+	  - Livre des procédures fiscales - art. R*198-6 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L920-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L991-6 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ### Titre IV : De l'aide de l'Etat.
@@ -44561,107 +44736,6 @@ leur application dans les départements d'outre-mer, qui devra se faire à la m�
 	  - Code du travail L930-1 ET L930-2
 
 
-### INSTITUTIONS DE LA FORMATION PROFESSIONNELLE .
-
-###### Article L910-1
-
-La formation professionnelle et la promotion sociale font l'objet d'une politique coordonnée et concertée, notamment avec les
-organisations représentatives des employeurs et des travailleurs salariés ainsi que des travailleurs indépendants.
-
-A cet effet, il est créé auprès du Premier ministre un comité interministériel, dont le ministre de l'éducation nationale est
-le vice-président, et un groupe permanent de hauts fonctionnaires, dont le président est désigné par le Premier ministre. Ces
-organismes sont assistés pour l'élaboration et la mise en oeuvre de la politique de formation professionnelle, de la
-promotion sociale et de l'emploi par un conseil national de la formation professionnelle, de la promotion sociale et de
-l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
-intéressés.
-
-Sont institués, suivant les mêmes principes, des comités régionaux et des comités départementaux de la formation
-professionnelle, de la promotion sociale et de l'emploi.
-
-Les modalités d'organisation et de fonctionnement des comités et conseils mentionnés aux alinéas précédents sont déterminées
-par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 2
-
-	**Cité par**:
-
-	  - Décret n°72-283 du 12 avril 1972 - art. 7 (Ab)
-	  - Décret n°75-489 du 16 juin 1975 - art. 12 (Ab)
-	  - Décret n°77-1153 du 10 octobre 1977 - art. 13 (V)
-	  - Décret n°83-925 du 21 octobre 1983 - art. 5 (Ab)
-	  - Arrêté du 16 décembre 1988 - art. 1 (V)
-	  - Arrêté du 16 décembre 1988 - art. 5 (V)
-	  - Décret n°92-23 du 8 janvier 1992 - art. 2 (Ab)
-	  - Loi n°93-1313 du 20 décembre 1993 - art. 76 (V)
-	  - Décret n°95-925 du 19 août 1995 - art. 15 (Ab)
-	  - Arrêté du 6 novembre 1995 - art. Annexe (V)
-	  - Décret n°97-954 du 17 octobre 1997 - art. 7 (V)
-	  - Décret n°2002-400 du 25 mars 2002 - art. 16 (Ab)
-	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V)
-	  - CODE DES COMMUNES. - art. R*412-115 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 227 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter E (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter H bis (M)
-	  - Code de l'éducation - art. D313-14 (V)
-	  - Code de l'éducation - art. D313-15 (V)
-	  - Code de l'éducation - art. D313-24 (V)
-	  - Code de l'éducation - art. L214-14 (Ab)
-	  - Code de l'éducation - art. L237-1 (V)
-	  - Code de l'éducation - art. L335-8 (M)
-	  - Code de l'éducation - art. L444-11 (V)
-	  - Code du travail - art. D910-1 (VT)
-	  - Code du travail - art. D910-7 (Ab)
-	  - Code du travail - art. D940-4 (VT)
-	  - Code du travail - art. D981-4 (Ab)
-	  - Code du travail - art. L101-2 (VT)
-	  - Code du travail - art. L116-2 (M)
-	  - Code du travail - art. L117-10 (AbD)
-	  - Code du travail - art. L118-2-2 (AbD)
-	  - Code du travail - art. L118-2-4 (AbD)
-	  - Code du travail - art. L322-10 (VT)
-	  - Code du travail - art. L930-1 (T)
-	  - Code du travail - art. L930-2 (M)
-	  - Code du travail - art. L940-1-2 (T)
-	  - Code du travail - art. L941-1-2 (Ab)
-	  - Code du travail - art. L950-2 (T)
-	  - Code du travail - art. L950-2-2 (M)
-	  - Code du travail - art. L951-1 (M)
-	  - Code du travail - art. L961-12 (AbD)
-	  - Code du travail - art. L961-3 (AbD)
-	  - Code du travail - art. L970-1 (M)
-	  - Code du travail - art. L980-9 (M)
-	  - Code du travail - art. R322-15 (VT)
-	  - Code du travail - art. R323-62 (VT)
-	  - Code du travail - art. R910-1 (Ab)
-	  - Code du travail - art. R910-2 (Ab)
-	  - Code du travail - art. R950-13 (T)
-	  - Code du travail - art. R960-2 (T)
-	  - Code du travail - art. R960-30 (T)
-	  - Code du travail - art. R964-7 (Ab)
-	  - Code du travail - art. R980-7 (T)
-	  - Code du travail - art. R990-7 (T)
-	  - Code du travail - art. R992-7 (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°94-574 du 11 juillet 1994
-	  - TXT_SOURCE: Décret n°94-575 du 11 juillet 1994
-	  - TXT_SOURCE: Code du travail - art. D910-2 (Ab)
-	  - TXT_SOURCE: Code du travail - art. D910-3 (Ab)
-	  - TXT_SOURCE: Code du travail - art. D910-4 (Ab)
-	  - TXT_SOURCE: Code du travail - art. D910-5 (Ab)
-	  - TXT_SOURCE: Code du travail - art. D910-5-1 (Ab)
-	  - TXT_SOURCE: Décret n°73-1046 1973-11-15 JORF 21 novembre
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ### CONVENTIONS DE FORMATION PROFESSIONNELLE .
 
 ###### Article L920-3
@@ -44696,6 +44770,165 @@ conventions, par leurs moyens en personnel et en matériel.
 
 	  - Code du travail - art. L920-1 (M)
 	  - Code du travail - art. L920-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L920-5
+
+Les dispensateurs de formation, au sens de l'article L. 920-2, adressent chaque année à l'autorité administrative un état
+faisant apparaître l'utilisation des sommes qu'ils ont reçues des employeurs définis à l'article L. 950-1. A cet état sera
+joint un rapport succinct dressant le bilan pédagogique et culturel des stages effectués.
+
+Les mesures d'application du présent article sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 mai 1976 - art. 3 (V)
+	  - Décret n°76-451 du 18 mai 1976 - art. 6 (V)
+	  - Loi n°84-594 du 12 juillet 1984 - art. 23 (V)
+	  - Arrêté du 7 février 1985 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 202 A (M)
+	  - Code du travail - art. L920-12 (M)
+	  - Code du travail - art. L920-4 (AbD)
+	  - Code du travail - art. L992-2 (T)
+	  - Code du travail - art. L993-2 (AbD)
+	  - Code du travail - art. R920-7 (T)
+	  - Code du travail - art. R921-7 (VT)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 7 février 1985
+	  - TXT_SOURCE: Arrêté du 7 février 1985 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1985 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1985 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1985 - art. 4 (V)
+	  - TXT_ASSOCIE: Code du travail - art. L920-8 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L993-2 (AbD)
+	  - TXT_SOURCE: Code du travail - art. R920-7 (T)
+	  - TXT_SOURCE: Code du travail - art. R921-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6352-11 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L920-2 (M)
+	  - Code du travail - art. L950-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L920-6
+
+La publicité ne doit faire aucune mention de la déclaration prévue à l'article L. 920-4 ni, sous quelque forme que ce soit,
+du caractère libératoire des dépenses effectuées en exécution de l'obligation édictée à l'article L. 950-1 du présent code.
+Elle ne doit rien comporter [*interdiction*] de nature à induire en erreur les demandeurs de formation sur la culture et les
+connaissances de base indispensables, la nature de la formation, sa durée moyenne, les qualifications qu'elle peut donner et
+les emplois auxquels elle prépare.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L920-4 (M)
+	  - Code du travail - art. L950-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L920-8 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L993-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L992-2 (T)
+	  - Code du travail - art. L993-2 (AbD)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L920-8
+
+Toute infraction aux dispositions des articles L. 920-4 à L. 920-6 est punie d'une amende de 2.000 F à 20.000 F.
+
+Toute infraction aux dispositions de l'article L. 920-7 est punie d'une amende de 2.000 F à 20.000 F et d'un emprisonnement
+de deux mois à un an ou d'une de ces deux peines seulement.
+
+La condamnation aux peines prévues aux deux alinéas précédents peut être assortie, à titre de peine complémentaire, d'une
+interdiction d'exercer temporairement ou définitivement l'activité de dispensateur de formation.
+
+Toute infraction à cette interdiction est punie des peines prévues au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°91-1107 du 23 octobre 1991
+	  - TXT_ASSOCIE: Code du travail - art. L920-4 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L920-5 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L920-6 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L920-7 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L993-2 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L920-12 (Ab)
+	  - Code du travail - art. L993-2 (AbD)
+	  - Code du travail - art. R923-1 (VT)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L920-7 (M)
+	  - Code du travail L920-4 A L920-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L920-10
+
+Lorsque des dépenses faites par le dispensateur de formation pour l'exécution d'une convention du titre II du présent livre
+ne sont pas admises parce qu'elles ne peuvent, par leur nature, être rattachées à l'exécution d'une convention de formation
+ou que le prix des prestations est excessif eu égard à leur prix de revient normal, le dispensateur de formation est tenu,
+solidairement avec ses dirigeants de fait ou de droit, de verser au Trésor public une somme égale au double du montant de ces
+dépenses.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°76-656 du 16 juillet 1976 - art. 2 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1783 quinquies (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1960 ter (T)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter HC (T)
+	  - Code du travail - art. L920-11 (Ab)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+	  - Livre des procédures fiscales - art. R*198-6 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L920-11 (M)
+
+	**Cite**:
+
+	  - Code du travail L920-1 A L920-11
 
 	**Codifié par**:
 
@@ -45099,17 +45332,30 @@ participant, chaque année, /M/au financement d'actions de formation du type de 
 
 ###### Article L950-8
 
-Des agents commissionnés par les préfets peuvent exiger des employeurs justification qu'il a satisfait aux obligations
-imposées par les articles L. 950-2 et L. 950-3 et procéder aux contrôles nécessaires.
+Des agents commissionnés par l'autorité administrative sont habilités à exiger des employeurs justification qu'il a été
+satisfait aux obligations imposées par les articles L. 950-2 et L. 950-3 et à procéder aux contrôles nécessaires.
 
-Ces agents sont astreints au secret professionnel dans les conditions et sous les réserves fixées par le code général des
-impôts.
+Ces agents sont également habilités à procéder au contrôle des dépenses effectuées par les dispensateurs de formation pour
+l'exécution des conventions du titre II du présent livre, ainsi qu'à exercer le contrôle des recettes et des dépenses des
+fonds d'assurance formation [*FAF*] constitués en application des articles L. 960-10 et L. 960-12.
+
+Les employeurs et les dispensateurs de formation sont tenus de présenter auxdits agents tous documents et pièces de nature à
+établir la réalité et la validité des dépenses afférentes aux actions de formation définies à l'article L. 950-2. A défaut,
+ces dépenses sont regardées comme non justifiées et n'ont pas de caractère libératoire au regard de l'obligation incombant à
+l'employeur en vertu de l'article L. 950-1. Si le défaut de justification est le fait du dispensateur de formation, celui-ci
+doit rembourser à son cocontractant une somme égale au montant des dépenses non admises.
+
+Les agents commissionnés peuvent adresser aux employeurs et aux dispensateurs de formation des observations et demander à
+l'autorité administrative de leur adresser des injonctions. Ils sont tenus au secret professionnel dans les conditions et
+sous les réserves établies par le code général des impôts.
+
+L'autorité administrative rend compte chaque année aux comités régionaux et départementaux de la formation professionnelle,
+de la promotion sociale et de l'emploi, de l'activité des services de contrôle et du développement de l'appareil régional de
+formation professionnelle.
+
+Les mesures d'application du présent article sont fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 20 (V)
 
 	**Cité par**:
 
@@ -45139,8 +45385,12 @@ impôts.
 
 	**Cite**:
 
+	  - Code du travail - art. L950-1 (M)
 	  - Code du travail - art. L950-2 (M)
 	  - Code du travail - art. L950-3 (M)
+	  - Code du travail - art. L960-10 (M)
+	  - Code du travail - art. L960-12 (P)
+	  - Code du travail L920-1 A L920-11
 
 	**Nouveaux textes**:
 
@@ -46258,6 +46508,45 @@ qui portent fixation des taux forfaitaires prévus à l'article L. 980-3.
 
 ## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
 
+### Titre II : CONVENTIONS DE FORMATION PROFESSIONNELLE .
+
+###### Article L920-11
+
+Les versements du Trésor public visés aux articles L. 920-9 et L. 920-10 sont recouvrés selon les modalités, ainsi que sous
+les sûretés, garanties et pénalités applicables aux taxes sur le chiffre d'affaires. En cas de mauvaise foi ou de manoeuvres
+frauduleuses, les sanctions prévues aux articles 1741, 1743 et 1750 du code général des impôts sont applicables.
+
+Les réclamations sont présentées, instruites et jugées comme en matière de taxe sur le chiffre d'affaires. Elles sont
+communiquées pour avis au service chargé du contrôle de la formation professionnelle. Les poursuites seront engagées sur
+plainte de l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1741, 1743 ET 1750
+	  - Code du travail - art. L920-10 (M)
+	  - Code du travail - art. L920-9 (M)
+
+	**Cité par**:
+
+	  - Loi n°76-656 du 16 juillet 1976 - art. 2 (V)
+	  - Loi n°77-704 du 5 juillet 1977 - art. 5 (V)
+	  - Décret n°78-59 du 20 janvier 1978 - art. 4 (V)
+	  - Code du travail - art. R950-13 (VT)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R950-23 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L920-10 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L920-9 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
 
 ###### Article L950-3
@@ -46433,10 +46722,15 @@ dispositions qui leur sont propres.
 
 ###### Article R51-11-1
 
-Sans préjudice des dispositions prévues par les décrets des 24 avril 1920 et du 16 juin 1922 concernant les conseils de
-prud'hommes industriels et les conseils de prud'hommes commerciaux d'Alsace et de Lorraine, les articles R. 516-1 à R. 516-7,
+Sans préjudice des dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle concernant les
+conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles R. 516-1 à R. 516-7, R. 516-31 à
+R. 516-35, R. 517-1, R. 517-3 à R. 517-5 //DECR.1237 28-12-1976 :
 
-R. 517-1, R. 517-3 à R. 517-5 et R. 517-10 sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+R. 517-6 (2. alinéa)// et R. 517-7 à R. 517-10 sont applicables dans ces trois départements.
+
+Dans ces mêmes départements, le président du conseil de prud'homme dispose, en référé, des pouvoirs à l'article R.
+
+516-18.
 
 **Liens relatifs à cet article**
 
@@ -46450,10 +46744,9 @@ R. 517-1, R. 517-3 à R. 517-5 et R. 517-10 sont applicables dans les départeme
 
 	**Cite**:
 
+	  - Code du travail - art. R516-18 (M)
 	  - Code du travail - art. R517-1 (Ab)
-	  - Code du travail - art. R517-10 (Ab)
-	  - Code du travail R516-1 A R516-7
-	  - Décret n°1920-04-24 Décret 1922-06-16
+	  - Code du travail R516-1 A R516-7, R516-31 A R516-35, R516-18
 
 
 #### INSTITUTION DES CONSEILS DE PRUD'HOMMES .
@@ -47493,18 +47786,6 @@ d'Etat 11-02-1977// .
 
 #### PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES
 
-###### Article R516-38
-
-Dès le dépôt de la demande, le secrétariat du conseil de prud'hommes ouvre un dossier [*formalites*] . Celui-ci contient les
-pièces, notes et documents relatifs à l'affaire ainsi que copies ou mentions des décisions auxquelles elle donne lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ###### Article R516-39
 
 Les exceptions de procédure doivent être, à peine d'irrecevabilité, soulevées avant toute défense au fond ou fin de non-
@@ -47560,8 +47841,8 @@ Le juge départiteur est le juge du tribunal d'instance dans le ressort duquel s
 
 ###### Article R516-42
 
-En cas de conciliation et sauf exécution immédiate, il est délivré aux parties des extraits du procès-verbal qui mentionnent
-la teneur de l'accord intervenu. Ces extraits sont revêtus de la formule exécutoire.
+En cas de conciliation et sauf exécution immédiate, des extraits du procès-verbal peuvent être délivrés. Ils valent titre
+exécutoire.
 
 **Liens relatifs à cet article**
 
@@ -47573,24 +47854,9 @@ la teneur de l'accord intervenu. Ces extraits sont revêtus de la formule exécu
 
 	  - Code du travail - art. R51-11-1 (Ab)
 
+	**Nouveaux textes**:
 
-###### Article R516-43
-
-La partie qui succombe est condamnée aux dépens. Toutefois,
-
-le conseil de prud'hommes peut, par décision spéciale et motivée, mettre tout ou partie des dépens à la charge de l'autre
-partie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R516-13 (M)
-	  - Code du travail R516-13 (1973)
+	  - Code du travail R516-41 (1979)
 
 
 ###### Article R516-44
@@ -47644,39 +47910,6 @@ présent titre.
 	  - Code du travail R516-15 (1973)
 
 
-###### Article R516-46
-
-Les articles 1er à 21 du décret n. 71-740 du 9 septembre 1971 instituant de nouvelles règles de procédure destinées à
-constituer partie d'un nouveau code de procédure civile sont applicables à la juridiction des prud'hommes.
-
-Lui sont également applicables, en tout ce qu'ils n'ont pas de contraire aux dispositions du présent titre :
-
-Les articles 1er (alinéa 2), 7, 13, 262, 474 et 480 du code de procédure civile ;
-
-Le décret n. 72-684 du 20 juillet 1972 instituant de nouvelles dispositions destinées à s'intégrer dans la partie générale
-d'un nouveau code de procédure civile ;
-
-Les trois premières parties du décret n. 72-788 du 28 août 1972 instituant une troisième série de dispositions destinées à
-s'intégrer dans le nouveau code de procédure civile ;
-
-La première partie du décret n. 73-1122 du 27 décembre 1973 instituant une quatrième série de dispositions destinées à
-s'intégrer dans le nouveau code de procédure civile.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°71-740 1971-09-09 ART. 1 A 21
-	  - Décret n°72-684 1972-07-20
-	  - Décret n°72-788 1972-08-28 PARTIES I, II, III
-	  - Code de procédure civile 262
-	  - Code du travail R511-1 A R51-11-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ##### RECEVABILITE DES DEMANDES .
 
 ###### Article R516-2
@@ -47717,68 +47950,7 @@ qui, par leur nature, entrent dans leur compétence, même si elles sont formée
 	  - Code du travail - art. R519-2 (M)
 
 
-##### ASSISTANCE ET REPRESENTATION DES PARTIES .
-
-###### Article R516-6
-
-Le représentant, s'il n'est avocat ou avoué, doit [*condition*] justifier d'un pouvoir spécial sur papier libre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R516-8 (M)
-	  - Code du travail R516-8 (1973)
-
-
-###### Article R516-7
-
-Les parties peuvent consigner leurs observations dans des notes rédigées sur papier libre [*condition de forme*] . Elles ne
-peuvent signifier aucune défense.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail R516-8 (1973)
-
-
 ##### SAISINE DU CONSEIL DES PRUD'HOMMES .
-
-###### Article R516-8
-
-Le conseil de prud'hommes est saisi soit par une demande soit par la comparution volontaire des parties devant le bureau de
-conciliation.
-
-La saisine du conseil de prud'hommes, même incompétent, interrompt la prescription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R51-11-2 (Ab)
-	  - Code du travail - art. R516-12 (VT)
-	  - Code du travail - art. R516-32 (VT)
-	  - Code du travail - art. R517-6 (VT)
-	  - Code du travail - art. R519-2 (Ab)
-	  - Code du travail - art. R519-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R517-12 (Ab)
-
 
 ###### Article R516-9
 
@@ -48174,8 +48346,7 @@ l'article R. 516-8. Dans ce dernier cas les dispositions des articles R. 516-9 �
 
 ###### Article R516-31
 
-Les décisions de référé sont toujours provisoires ; elles n'ont pas autorité de chose jugée au principal ; elles ne peuvent
-être modifiées ou rapportées en référé qu'en cas de circonstances nouvelles.
+Les articles 484 et 486 à 492 du nouveau code de procédure civile sont applicables au référé prud'homal.
 
 **Liens relatifs à cet article**
 
@@ -48188,31 +48359,20 @@ Les décisions de référé sont toujours provisoires ; elles n'ont pas autorit�
 	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
 	  - Code du travail - art. R51-11-1 (Ab)
 
+	**Cite**:
 
-###### Article R516-32
+	  - Code de procédure civile 486 A 492
 
-Les décisions de référé sont exécutoires par provision.
+	**Nouveaux textes**:
 
-En cas de nécessité, l'exécution de l'ordonnance sur minute peut être ordonnée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
-	  - Décret n°81-835 du 8 septembre 1981 - art. 2 (V)
+	  - Code du travail R516-33 (1979)
 
 
 ###### Article R516-33
 
-Les décisions de référé ne sont pas susceptibles d'opposition. Elles peuvent être frappées d'appel dans le délai de quinze
-jours.
+Le délai d'appel est de quinze jours. L'appel est formé,
 
-L'appel est formé et jugé comme il est dit aux articles R. 517-7 à R. 517-9.
+instruit et jugé comme il est dit aux articles R. 517-7 à R. 517-9.
 
 **Liens relatifs à cet article**
 
@@ -48223,26 +48383,14 @@ L'appel est formé et jugé comme il est dit aux articles R. 517-7 à R. 517-9.
 	**Cité par**:
 
 	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail R516-34 (1979), R516-35 (1979)
 
 	**Cite**:
 
 	  - Code du travail R517-7 A R517-9
-
-
-###### Article R516-34
-
-Les juges du référé peuvent prononcer des condamnations à des astreintes et aux dépens. Ils sont habilités à liquider, à
-titre provisoire, les astreintes qu'ils ont ordonnées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
 
 
 ###### Article R516-35
@@ -48350,29 +48498,6 @@ moins que le jugement ne soit en premier ressort en raison du montant des autres
 	  - Code du travail R517-2 (1973)
 
 
-###### Article R517-4
-
-Le jugement est sans appel lorsqu'aucune des demandes, principales, reconventionnelles ou en compensation, ne dépasse,
-
-à elle seule, le taux de compétence en dernier ressort du conseil de prud'hommes.
-
-Si l'une de ces demandes n'est susceptible d'être jugée qu'à charge d'appel, le conseil de prud'hommes se prononce, sur
-toutes, en premier ressort.
-
-Le jugement n'est pas susceptible d'appel si la seule demande reconventionnelle en dommages-intérêts, lorsqu'elle est fondée
-exclusivement sur la demande principale, dépasse le taux de la compétence en dernier ressort.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail R517-3 (1973)
-
-
 #### VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES :     L'OPPOSITION .
 
 ###### Article R517-6
@@ -48390,35 +48515,6 @@ L'opposition est caduque [*sanction*] si la partie qui l'a faite ne se présente
 	**Cité par**:
 
 	  - Code du travail - art. R51-11-1 (Ab)
-
-
-#### RECUSATIONS .
-
-###### Article R518-2
-
-Dans les trois jours de la réponse du conseiller prud'homme qui refuse d'acquiescer à la récusation ou, faute par lui de
-répondre, dans les trois jours suivant l'expiration du délai prévu à l'article précédent, le président du conseil de
-prud'hommes adresse au premier président de la cour d'appel une copie de la requête ou du procès-verbal de récusation et, le
-cas échéant,
-
-des observations du conseiller prud'homme.
-
-La récusation est jugée par la chambre sociale de la cour d'appel, dans les huit jours, sans qu'il soit besoin d'appeler les
-parties. Avis de la décision est immédiatement donné par le premier président au président du conseil de prud'hommes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R518-1 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R851-3 (VT)
 
 
 #### EMOLUMENTS, INDEMNITES ET DROITS ALLOUES
@@ -78950,13 +79046,53 @@ prudhommes, qui en reçoit le tiers [*proportion*] .
 
 ##### Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions
 
-##### Section 6 : Dispositions générales.
+##### Section 1 : Compétence.
 
-###### Article R517-11
+###### Article R517-1
 
-Les dispositions de la quatrième partie du décret n. 72-788 du 28 août 1972 instituant une troisième série de dispositions
-destinées à s'intégrer dans le nouveau code de procédure civile sont, en tout ce qu'elles n'ont pas de contraire aux
-dispositions du présent titre, applicables aux recours formés contre les décisions de la juridiction prud'homale.
+Le conseil de prud'hommes territorialement compétent pour connaître d'un litige est celui dans le ressort duquel est situé
+l'établissement ou est effectué le travail.
+
+Si le travail est effectué en dehors de tout établissement , la demande est portée devant le conseil de prud'hommes du
+domicile du salarié.
+
+Le salarié peut toujours saisir le conseil de prud'hommes du lieu où l'engagement a été contracté ou celui du lieu où
+l'employeur est établi.
+
+Toute clause qui directement ou indirectement déroge aux dispositions qui précèdent est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-1187 1965-12-20 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R51-11-1 (Ab)
+
+	**Cite**:
+
+	  - Code du travail R519-6 ET R519-7
+
+
+##### Section 4 : L'appel.
+
+###### Article R517-7
+
+Le délai d'appel est d'un mois.
+
+L'appel est formé par une déclaration que la partie ou tout mandataire fait, ou adresse par pli recommandé, au secrétariat de
+la juridiction qui a rendu le jugement.
+
+La déclaration indique [*mentions*] les nom, prénoms, profession et domicile de l'appelant ainsi que les nom et adresse des
+parties contre lesquelles l'appel est dirigé. Elle désigne, le jugement dont il est fait appel et mentionne, le cas échéant,
+
+les chefs de jugement auxquels se limite l'appel ainsi que le nom et l'adresse du représentant de l'appelant devant la cour.
 
 **Liens relatifs à cet article**
 
@@ -78964,14 +79100,36 @@ dispositions du présent titre, applicables aux recours formés contre les déci
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code du travail R511-1 A R51-11-1
+	  - Code du travail - art. R516-35 (VT)
+	  - Code du travail - art. R519-3 (Ab)
+	  - Code du travail - art. R851-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R517-5 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail R517-11 (1973)
 
 
 ### Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 #### Chapitre VI : Procédure devant les conseils de prud'hommes.
+
+###### Article R516-0
+
+La procédure devant les juridictions statuant en matière prud'homale est régie par les dispositions du livre Ier du nouveau
+code de procédure civile sous réserve des dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
 
 ##### Section 1 : Recevabilité des demandes.
 
@@ -79058,7 +79216,65 @@ Devant la cour d'appel, les parties peuvent aussi se faire assister ou représen
 	  - Code du travail - art. R516-8 (M)
 
 
+###### Article R516-6
+
+La procédure est orale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R516-8 (M)
+
+
+###### Article R516-7
+
+Les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient formulées par écrit sont notées
+au dossier ou consignées dans un procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
 ##### Section 3 : Saisine du conseil des prud'hommes.
+
+###### Article R516-8
+
+Le conseil de prud'hommes est saisi soit par une demande, soit par la présentation volontaire des parties devant le bureau de
+conciliation.
+
+La saisine du conseil de prud'hommes, même incompétent, interrompt la prescription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1452-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R51-11-2 (Ab)
+	  - Code du travail - art. R516-12 (VT)
+	  - Code du travail - art. R516-32 (VT)
+	  - Code du travail - art. R517-6 (VT)
+	  - Code du travail - art. R519-2 (Ab)
+	  - Code du travail - art. R519-3 (Ab)
+
 
 ###### Article R516-12
 
@@ -79121,6 +79337,28 @@ Les conseils de prud'hommes ne connaissent pas de l'exécution forcée de leurs 
 
 ##### Section 2 : Ouverture des voies de recours.
 
+###### Article R517-4
+
+Le jugement est sans appel lorsqu'aucun des chefs des demandes initiales ou incidentes ne dépasse, à lui seul, le taux de
+compétence en dernier ressort du conseil de prud'hommes.
+
+Si l'un des chefs de demande n'est susceptible d'être jugé qu'à charge d'appel, le conseil de prud'hommes se prononce, sur
+tous, en premier ressort.
+
+Le jugement n'est pas susceptible d'appel si la seule demande reconventionnelle en dommages-intérêts, lorsqu'elle est fondée
+exclusivement sur la demande initiale, dépasse le taux de la compétence en dernier ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Code du travail R517-3 (1973)
+
+
 ###### Article R517-5
 
 Si une demande reconventionnelle reconnue mal fondée a eu pour effet de rendre le jugement susceptible d'appel, la Cour peut
@@ -79136,6 +79374,53 @@ réclamés.
 	**Anciens textes**:
 
 	  - Code du travail - art. R517-7 (M)
+
+
+##### Section 4 : L'appel.
+
+###### Article R517-8
+
+L'appel est porté devant la chambre sociale de la Cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-35 (VT)
+	  - Code du travail - art. R519-3 (Ab)
+	  - Code du travail - art. R851-3 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail R517-9 (1974)
+
+
+###### Article R517-9
+
+L'appel est formé, instruit et jugé suivant la procédure sans représentation obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1461-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-35 (VT)
+	  - Code du travail - art. R851-3 (VT)
 
 
 ##### Section 5 : Le pourvoi en cassation.
@@ -79168,6 +79453,52 @@ décisions rendues à compter du 1er janvier 2005.
 	**Anciens textes**:
 
 	  - Code du travail R517-13 (1973)
+
+
+#### Chapitre VIII : Récusations.
+
+###### Article R518-1
+
+La procédure de récusation des conseillers prud'hommes est régie par les articles 341 à 355 du nouveau code de procédure
+civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile (1807)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1457-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R518-2 (M)
+	  - Code du travail - art. R519-3 (Ab)
+
+
+###### Article R518-2
+
+Lorsque la demande de récusation est portée devant la Cour d'appel, elle est jugée par la chambre sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R851-3 (VT)
 
 
 ### Titre II : Conflits collectifs
