@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-04-13 00:00:01 +0200
+Version Consolidée au 1981-05-15
 
 # Partie législative ancienne
 
@@ -59528,6 +59528,46 @@ française.
 
 #### Chapitre II : Durée du travail
 
+##### Section 1 : Travail à temps partiel.
+
+###### Article R212-1
+
+Pour ce qui concerne l'application des obligations que la législation du travail subordonne à l'emploi d'un effectif minimum
+de salariés, les salariés à temps partiel au sens de l'article L. 212-4-2 sont pris en compte au prorata du rapport entre les
+horaires inscrits au contrat de travail prévu à l'article L. 212-4-3 et la durée légale du travail ou la durée normale de
+travail dans l'établissement ou la partie d'établissement si celle-ci lui est inférieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-540 du 12 mai 1981 - art. 2 () JORF 15 MAI 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
+	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 13 (V)
+	  - Code du travail - art. R950-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-239 du 14 mars 2005 - art. 3 () JORF 18 mars 2005
+
+	**Cite**:
+
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code du travail - art. L212-4-3 (M)
+
+
 ##### Section 2 : Heures supplémentaires
 
 ##### A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.
@@ -102727,10 +102767,15 @@ Sont considérés comme occupant au minimum dix salariés [*effectifs*] , au sen
 des salariés dont le nombre mensuel moyen est au moins égal à dix pendant l'année ou la fraction d'année où l'activité est
 exercée.
 
-Toutefois, ceux de ces employeurs occupant des salariés à temps incomplet ou d'une manière intermittente ou travaillant à
-domicile, ne sont soumis à l'obligation de participer que si le montant total des salaires versés pendant l'année est au
-moins égal à 120 fois le salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est
-réduit, pour l'année considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée [*calcul*].
+Toutefois, ceux de ces employeurs occupant des salariés d'une manière intermittente ou travaillant à domicile, ne sont soumis
+à l'obligation de participer que si le montant total des salaires versés pendant l'année est au moins égal à 120 fois le
+salaire mensuel minimum de croissance [*SMIC*]. En cas de début ou de fin d'activité, le chiffre est réduit, pour l'année
+considérée, au prorata du nombre de mois pendant lesquels l'activité est exercée [*calcul*].
+
+Conformément aux dispositions de l'article R. 212-1, chaque salarié à temps partiel au sens de l'article L. 212-4-2 entre en
+compte dans l'effectif du personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat
+et la durée légale de travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans
+l'établissement ou la partie d'établissement où il est employé.
 
 **Liens relatifs à cet article**
 
@@ -102750,13 +102795,19 @@ réduit, pour l'année considérée, au prorata du nombre de mois pendant lesque
 	  - Code du travail - art. R831-8 (Ab)
 	  - Code du travail - art. R950-19 (VT)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code du travail - art. L950-1 (AbD)
+	  - Décret n°81-540 du 12 mai 1981 - art. 3 () JORF 15 MAI 1981
 
 	**Cite**:
 
+	  - Code du travail - art. L212-4-2 (M)
 	  - Code du travail - art. L950-1 (M)
+	  - Code du travail - art. R212-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L950-1 (AbD)
 
 
 # Partie réglementaire ancienne - Décrets simples
