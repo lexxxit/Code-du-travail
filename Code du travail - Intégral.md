@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-07-17
 
 # Partie législative ancienne
 
@@ -65106,6 +65106,772 @@ informer les utilisateurs.
 	  - Code du travail - art. R233-79 (M)
 
 
+##### SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.
+
+###### Article R233-84
+
+La présente section fixe les règles générales d'hygiène et de sécurité auxquelles doivent satisfaire les machines et
+appareils [*mécaniques*] mentionnés à l'article R. 233-83 et qui n'ont pas fait l'objet d'une réglementation prise en
+application du 2° du deuxième alinéa de l'article L. 233-5.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1981-02-17 : DATE D'APPLICATION REPORTEE
+	  - SPEC_APPLI: DATE D'APPLICATION : Décret 80-543 1980-07-15 ART. 2 (APPAREILS NEUFS), ART. 3 (APPAREILS USAGES)
+	  - TXT_SOURCE: Décret n°80-543 du 15 juillet 1980
+	  - TXT_SOURCE: Décret n°80-543 du 15 juillet 1980 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°80-543 du 15 juillet 1980 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 13 mai 1996
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. Annexe I (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. Annexe II (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. Annexe III (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. Annexe IV (V)
+	  - TXT_SOURCE: Arrêté du 29 septembre 1997 - art. Annexe V (V)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 2 (Ab)
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Arrêté du 17 février 1981 - art. 1 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 10 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 11 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 12 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 13 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 14 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 15 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 16 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 17 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 2 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 6 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 7 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 8 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 9 (V)
+	  - Arrêté du 9 juin 1993 - art. 21 (Ab)
+	  - Arrêté du 9 juin 1993 - art. 5 (Ab)
+	  - Arrêté du 9 juin 1993 - art. 7 (Ab)
+	  - Arrêté du 13 mai 1996 - art. Annexe I (Ab)
+	  - Décret n°96-725 du 14 août 1996 - art. 37 (V)
+	  - Arrêté du 29 septembre 1997 - art. 2 (V)
+	  - Arrêté du 29 septembre 1997 - art. Annexe I (V)
+	  - Décret n°98-1084 du 2 décembre 1998 - art. 7 (V)
+	  - Arrêté du 1 mars 2004 - art. 21 (M)
+	  - Arrêté du 14 mars 1986 - art. 1 (V)
+	  - Arrêté du 18 décembre 1992 - art. 1 (V)
+	  - Arrêté du 18 décembre 1992 - art. 2 (V)
+	  - Arrêté du 18 décembre 1992 - art. 3 (V)
+	  - Arrêté du 18 décembre 1992 - art. 4 (V)
+	  - Arrêté du 18 décembre 1992 - art. 6 (V)
+	  - Arrêté du 18 novembre 1980 - art. 1 (Ab)
+	  - Arrêté du 18 novembre 1980 - art. 2 (Ab)
+	  - Arrêté du 18 novembre 1980 - art. Annexe (Ab)
+	  - Code du travail - art. R231-120 (VT)
+	  - Code du travail - art. R231-128 (VT)
+	  - Code du travail - art. R233-83-2 (VT)
+	  - Code du travail - art. R233-86 (VT)
+	  - Code du travail - art. R233-89-1 (M)
+	  - Code du travail - art. R233-89-2 (M)
+	  - Code du travail - art. R233-89-3 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R233-83 (M)
+	  - Code du travail L233-5 2., R233-83
+
+
+###### Article R233-85
+
+Les appareils, machines et leurs éléments constitutifs doivent, par construction, être aptes à assurer leur fonction, à être
+réglés, entretenus, sans que les travailleurs soient exposés à un risque lorsque ces opérations sont effectuées dans les
+conditions prévues par le constructeur ou l'importateur.
+
+Les différents éléments constitutifs des machines et appareils et les liaisons entre eux doivent pouvoir résister aux
+contraintes résultant de l'usage prévu par le constructeur ou l'importateur.
+
+Les matériaux employés doivent présenter une résistance suffisante adaptée aux caractéristiques du milieu d'utilisation prévu
+par le constructeur ou l'importateur, compte tenu notamment des phénomènes de corrosion, d'abrasion ou de fatigue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-131 du 10 février 1981 - art. 3 (Ab)
+	  - Décret n°81-293 du 31 mars 1981 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 14 mars 1983 - art. 1 (V)
+	  - Arrêté du 14 mars 1983 - art. 2 (V)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 14 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 6 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 7 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 8 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 9 (V)
+	  - Décret n°96-725 du 14 août 1996 - art. 36 (V)
+
+
+###### Article R233-86
+
+Les appareils, machines, éléments de machines doivent être conçus et construits de manière telle que leur stabilité soit
+assurée, notamment pendant leur fonctionnement normal, compte tenu des conditions d'installation et d'utilisation prévues par
+le constructeur ou l'importateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 14 mars 1983 - art. 1 (V)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 14 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 6 (V)
+	  - Décret n°96-725 du 14 août 1996 - art. 36 (V)
+	  - Code du travail - art. R233-85 (VT)
+	  - Code du travail - art. R233-88-1 (VT)
+
+
+###### Article R233-87
+
+Les machines et appareils doivent être conçus, construits et disposés de telle sorte que les organes dont la visite est
+nécessaire pour l'entretien soient accessibles en toute sécurité.
+
+Les machines, appareils, éléments de machines dont le montage ou le démontage est nécessaire pour des opérations telles que
+l'installation ou l'entretien doivent être conçus pour permettre l'emploi en toute sécurité d'appareils ou d'engins de
+manutention ou posséder à cet effet les équipements nécessaires.
+
+Les éléments de machines mentionnés à l'alinéa précédent qui, du fait de leurs dimensions, de leur forme ou de leur poids
+peuvent être déplacés manuellement doivent être conçus pour permettre leur pose et leur dépose sans danger ou posséder à cet
+effet des poignées ou des dispositifs équivalents [*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-293 du 31 mars 1981 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 10 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 15 (V)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+
+
+###### Article R233-88
+
+Les éléments de machines ou d'appareils normalement accessibles ne doivent comporter, dans la mesure où leur fonction le
+permet, ni arêtes vives, ni angles aigus susceptibles de blesser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-131 du 10 février 1981 - art. 3 (Ab)
+	  - Décret n°81-293 du 31 mars 1981 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 12 (M)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 17 (M)
+	  - Décret n°96-725 du 14 août 1996 - art. 37 (V)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+
+
+###### Article R233-90
+
+Les moyens de signalisation placés sur les machines et appareils, notamment ceux intéressant la sécurité, doivent être
+choisis, conçus et disposés de façon à être clairement perçus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+
+
+###### Article R233-91
+
+Les machines et appareils doivent être conçus et construits de façon que la zone de travail soit convenablement éclairée.
+
+Des dispositions sont prises par construction pour éviter toute zone d'ombre, tout effet stroboscopique ou tout éblouissement
+gênants, ainsi que pour assurer un éclairage suffisant de la zone de travail lorsque les opérations à effectuer le
+nécessitent.
+
+En outre les parties intérieures des machines et appareils nécessitant d'être visitées régulièrement doivent être équipées de
+dispositifs permettant l'éclairage.
+
+**Nota:**
+
+[*Nota : Code du travail R233-150 : Le troisième alinéa de l'article R. 233-91 n'est pas applicables aux cabines de
+projection par pulvérisation, aux cabines et enceintes de séchage et aux cabines mixtes.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+	  - TXT_ASSOCIE: Code du travail - art. R233-150 (M)
+
+	**Cité par**:
+
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+	  - Code du travail - art. R233-150 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-92
+
+Les éléments tournants de machines doivent être conçus et construits de telle façon que sous l'effet de la force centrifuge
+et des sollicitations propres au fonctionnement et à l'utilisation de la machine à laquelle ils appartiennent, ils ne
+puissent ni se rompre, ni se désolidariser.
+
+Les éléments de machines tournant à grande vitesse pour lesquels subsiste un risque de rupture ou d'éclatement doivent être
+montés et enveloppés de telle sorte que leurs fragments soient retenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°81-293 du 31 mars 1981 - art. 3 (Ab)
+	  - Arrêté du 14 mars 1983 - art. 1 (V)
+	  - Arrêté du 14 mars 1983 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-93
+
+Les éléments mobiles des machines et appareils utilisés pour la transmission d'énergie ou de mouvements doivent être conçus,
+construits, disposés ou, à défaut, munis de protecteurs ou dispositifs de protection de façon à prévenir tout risque de
+contact entraînant des accidents notamment par choc, sectionnement, écrasement, du fait de leur mouvement relatif, de la
+vitesse, de l'énergie mise en jeu, de la disposition, de la forme de ces éléments ou des matériaux utilisés pour leur
+construction.
+
+Les protecteurs et dispositifs de protection conçus pour protéger les travailleurs contre les risques engendrés par les
+éléments mobiles mentionnés au 1er alinéa, doivent répondre aux prescriptions fixées aux alinéas 3 et 4 ci-après.
+
+Chaque fois que possible, des protecteurs fixes doivent être mis en place. Ils doivent être de construction robuste et
+maintenus en place solidement. Leur fixation est assurée par des systèmes nécessitant l'emploi d'un outil pour leur
+démontage.
+
+Toutefois, pour permettre d'effectuer des réglages ou des opérations d'entretien courant, des protecteurs mobiles ou
+dispositifs ouvrants munis d'un système de maintien en place ne nécessitant pas l'emploi d'un outil pour leur ouverture
+peuvent être utilisés. Aucune mise en marche normale des éléments mobiles ne doit être possible tant que ces dispositifs ne
+sont pas fermés. Leur ouverture doit déclencher l'arrêt des éléments mobiles.
+
+L'accès aux éléments mobiles des machines et appareils autres que ceux qui sont mentionnés au 1er alinéa doit être empêché
+soit par construction, soit par l'installation de dispositifs de protection, sauf absence de danger pendant le travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_ASSOCIE: Décret n°89-941 du 22 décembre 1989
+	  - TXT_ASSOCIE: Décret n°89-941 du 22 décembre 1989 - art. 3 (V)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 14 mars 1983 - art. 1 (V)
+	  - Arrêté du 14 mars 1983 - art. 2 (V)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+	  - Arrêté du 24 mars 1981 - art. 3 (V)
+	  - Code du travail - art. R233-139 (Ab)
+
+
+###### Article R233-94
+
+Les machines et appareils alimentés en énergie électrique doivent être conçus, construits et équipés de manière à prévenir ou
+à permettre de prévenir tous risques d'origine électrique pouvant résulter de contacts directs ou indirects, de surintensités
+ou d'arcs électriques.
+
+Les dispositions prévues doivent être conformes aux règles générales correspondantes prescrites par le décret n. 62-1454 du
+14 novembre 1962.
+
+A cet effet, les machines et appareils doivent notamment satisfaire aux prescriptions suivantes :
+
+1. Les organes de service ainsi que les dispositifs de réarmement des relais de protection qui équipent les machines et
+appareils et sont destinés à être utilisés par les opérateurs, doivent pouvoir être manoeuvrés sans risques de contact avec
+les pièces nues sous tension situées au voisinage ;
+
+2. Les masses des différents matériels électriques de chaque machine ou appareil doivent être interconnectées entre elles et
+avec la borne générale de mise à la terre des masses par l'intermédiaire d'un conducteur de protection incorporé à la
+canalisation électrique servant au raccordement de chacun de ces matériels.
+
+Cette prescription ne s'applique pas aux parties conductrices accessibles des matériels alimentés en basse tension dont les
+enveloppes répondent aux conditions définies pour la double isolation ou l'isolation renforcée par les normes rendues
+obligatoires par le ministre chargé du travail.
+
+3. Une borne générale de mise à la terre des masses doit être disposée à proximité immédiate des bornes des conducteurs
+actifs de chaque canalisation reliant la machine ou l'appareil à l'installation électrique de l'établissement.
+
+4. Dans le câblage interne de l'équipement électrique d'une machine ou d'un appareil il est interdit d'utiliser un même
+conducteur à la fois comme conducteur neutre et comme conducteur de protection, aussi bien pour le circuit principal que pour
+les circuits auxiliaires alimentés par des transformateurs à enroulements séparés.
+
+5. Les circuits internes de la machine de l'appareil alimentés par des transformateurs à enroulements séparés doivent
+posséder leurs propres dispositifs de protection contre les contacts indirects à moins qu'ils ne soient alimentés en très
+basse tension de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1454 1962-11-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Arrêté du 24 mars 1981 - art. 3 (V)
+	  - Code du travail - art. R233-148 (VT)
+
+
+###### Article R233-95
+
+Les appareils, machines et leurs équipements doivent être conçus, construits et commandés de telle façon que l'interruption
+ou la variation, accidentelle ou commandée, de l'alimentation en énergie ne crée pas de situation dangereuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+	  - Arrêté du 24 mars 1981 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-97
+
+Une défaillance, une panne ou une détérioration du système d'alimentation en énergie ou du circuit de commande des machines
+et appareils ne doit :
+
+- ni provoquer la mis en marche intempestive d'un élément mobile de la machine ;
+
+- ni empêcher l'arrêt automatique ou manuel des éléments mobiles quels qu'ils soient ;
+
+- ni rendre inefficaces les dispositifs de protection des éléments mobiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+	  - TXT_ASSOCIE: Code du travail R233-100 (CHAMP D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+	  - Arrêté du 24 mars 1981 - art. 3 (V)
+	  - Code du travail - art. R233-100 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-98
+
+Un dispositif de séparation doit permettre après arrêt d'isoler les machines et appareils de toutes leurs sources
+d'alimentation en énergie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+	  - TXT_ASSOCIE: Code du travail R233-100 (CHAMP D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°80-544 du 15 juillet 1980 - art. 8 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Code du travail - art. R233-100 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-99
+
+L'action maintenue sur les organes de service ayant une fonction de mise en marche ne doit, en aucun cas, s'opposer aux
+ordres d'arrêt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+	  - TXT_ASSOCIE: Code du travail R233-100 (CHAMP D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+	  - Code du travail - art. R233-100 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-101
+
+Les machines et appareils destinés au travail des produits ou des matériaux dégageant des gaz, vapeurs, poussières ou autres
+déchets inflammables ou nécessitant pour leur fonctionnement l'utilisation de ces produits ou matériaux doivent être munis de
+dispositifs protecteurs de façon notamment qu'une élévation de température d'un élément ou des étincelles d'origine
+électrique ou mécanique ne puissent entraîner un risque d'incendie ou d'explosion dangereux pour les travailleurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-131 du 10 février 1981 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-102
+
+Les éléments de machines destinés à la transmission de l'énergie calorifique, notamment les canalisations de vapeur ou de
+fluide thermique, doivent être construits, disposés, protégés ou isolés de façon à prévenir tout risque de brûlure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-104
+
+Les machines et appareils fixes qui mettent en oeuvre, conditionnent ou utilisent des produits dégageant des gaz ou des
+vapeurs incommodes, insalubres ou toxiques doivent être conçus, construits ou équipés de telle façon que les gaz et vapeurs
+puissent être captés en vue de leur raccordement à une installation de traitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
+###### Article R233-106
+
+Chaque machine ou appareil doit porter les inscriptions    suivantes permettant de l'identifier :
+
+- nom du constructeur ;
+
+- année de fabrication ;
+
+- immatriculation. 
+
+Ces indications doivent être inscrites de manière durable et clairement lisible sur la plaque prévue à l'article R. 233-69.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-131 du 10 février 1981 - art. 3 (Ab)
+	  - Arrêté du 14 septembre 1989 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code du travail - art. R233-69 (M)
+
+
+###### Article R233-107
+
+Lorsqu'il s'agit de machines ou d'appareils susceptibles d'être utilisés principalement en agriculture, le ministre chargé de
+l'agriculture et la commission nationale d'hygiène et de sécurité du travail en agriculture exercent les attributions
+conférées dans le cadre de la présente action au ministre chargé du travail et au conseil supérieur de la prévention des
+risques professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 art. 1 JORF 17 juillet 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 art. 2 (DATE D'APPLICATION)
+	  - TXT_SOURCE: Code du travail - art. L233-5 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°92-767 du 29 juillet 1992 - art. 1 () JORF 7 août 1992 en vigueur le 1er janvier 1993
+
+
 #### Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
 
 ###### Article R234-1
@@ -74118,6 +74884,382 @@ l'inspection du travail et après avis de la Commission de sécurité du travail
 	**Cité par**:
 
 	  - Code du travail - art. R233-47 (VT)
+
+
+##### SECTION VII : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5
+
+##### SOUS-SECTION I - MACHINES ET APPAREILS.
+
+###### Article R233-83
+
+Les machines et appareils auxquels s'appliquent les dispositions du premier alinéa de l'article L. 233-5 sont les machines et
+appareils mus par une source d'énergie autre que la force humaine qui entrent dans l'une des catégories suivantes :
+
+1° Matériels pour l'industrie textile.
+
+Machines et appareils pour le filage des matériels textiles synthétiques et artificielles ; machines et appareils pour la
+préparation des matières textiles ; machines et métiers pour la filature et le retordage des matières textiles : machines à
+bobiner, mouliner, dévider les matières textiles.
+
+Métiers à tisser, à bonneterie, à tulle, à dentelle, à broderie, à passementerie et à filet ; appareils et machines
+préparatoires pour le tissage, la bonneterie, tels que ourdissoirs et encolleuses.
+
+Machines et appareils pour la fabrication et le finissage du feutre en pièce.
+
+Machines et appareils pour le lavage, le nettoyage, le séchage, le blanchissage, la teinture, l'apprêt et le finissage des
+fils, tissus et ouvrages en matières textiles tels que les appareils à lessiver le linge, repasser et presser les
+confections, enrouler, plier, couper ou denteler les tissus ; machines pour le revêtement des tissus et autres supports en
+vue de la fabrication de couvre-parquets ; machines utilisées pour l'impression des fils, tissus, cuir, papier de teinture,
+papier d'emballage et couvre-parquets.
+
+Machines à coudre les tissus.
+
+2. Machines agricoles et matériels pour les industries agro-alimentaires, /M/autres que les machines agricoles mobiles/M/
+DECR. 1091 1980-12-24 : à l'exclusion des machines agricoles mobiles autres que les tracteurs agricoles et forestiers à
+roues.
+
+//DECR. 1091 1980-12-24 : tracteurs agricoles et forestiers à roues//.
+
+Machines, appareils et engins pour battage des produits agricoles, presses à paille et à fourrage, tarares et machines
+similaires pour le nettoyage des grains, trieurs à oeufs, à fruits et autres produits agricoles.
+
+Machines à traire et autres machines et appareils de laiterie.
+
+Pressoirs, fouloirs et autres appareils de vinification, de cidrerie et similaires.
+
+Autres machines et appareils pour l'agriculture, l'horticulture, la sylviculture, l'aviculture et l'apiculture, y compris les
+germoirs comportant des dispositifs mécaniques ou thermiques et les couveuses et éleveuses pour l'aviculture.
+
+Machines, appareils et engins pour la minoterie et le traitement des céréales et légumes secs.
+
+Machines et appareils, non dénommés ni compris dans d'autres positions du présent article pour les industries de la
+boulangerie, de la patisserie, de la biscuiterie, des pâtes alimentaires, de la confiserie, de la chocolaterie, de la
+sucrerie, de la brasserie et pour le travail des viandes, poissons, légumes et fruits à des fins alimentaires.
+
+3° Matériels pour la préparation des matériaux et le génie civil.
+
+Machines et appareils à trier, cribler, laver, concasser, broyer, mélanger les terres, pierres, minerais et autres matières
+minérales solides ; machines et appareils à agglomérer, former ou mouler les combustibles minéraux solides, les pâtes
+céramiques, le ciment, le plâtre et autres matières minérales en poudre ou en pâte ; machines à former les moules de fonderie
+en sable.
+
+Machines et appareils, fixes ou mobiles, d'extraction, de terrassement, d'excavation ou de forage du sol tels que
+excavateurs, décapeurs, niveleuses, buldozers, scrapers ; sonnettes de battage.
+
+4° Matériels pour l'industrie du papier et du carton.
+
+Machines et appareils pour la fabrication de la pâte cellulosique telle que la pâte à papier et pour la fabrication et le
+finissage du papier et du carton.
+
+Autres machines et appareils pour le travail de la pâte à papier, du papier et du carton, y compris les coupeuses.
+
+5° Matériels d'imprimerie.
+
+Machines à fondre et à composer les caractères ; machines, appareils et matériel de clicherie, de stéréotypie et similaires.
+
+Machines et appareils pour l'imprimerie et les arts graphiques, margeurs, plieuses et autres appareils auxiliaires
+d'imprimerie.
+
+Machines et appareils pour le brochage et la reliure, y compris les machines à coudre les feuillets.
+
+6° Matériel pour l'industrie du cuir et de la chaussure.
+
+Machine et appareils pour la préparation et le travail des cuirs et peaux et pour la fabrication des chaussures et autres
+ouvrages en cuir ou en peau.
+
+Machines à coudre les cuirs, les chaussures et autres matières similaires en feuilles.
+
+7° Matériels pour l'industrie du caoutchouc et des matières plastiques.
+
+Machines et appareils pour le travail du caoutchouc et des matières plastiques tels que machines à injecter, extrudeuses,
+presses à mouler, mélangeurs, malaxeurs, calandres.
+
+8° Machines-outils pour le travail du bois, des métaux, de la pierre et des matériaux similaires.
+
+Machines-outils pour le travail des métaux et des carbures métalliques.
+
+Machines-outils pour le travail de la pierre, des produits céramiques, du béton, de l'amiante-ciment et d'autres matières
+minérales similaires, et pour le travail à froid du verre.
+
+Machines-outils pour le travail du bois, du liège, de l'os, de l'ébonite, des matières plastiques artificielles et d'autres
+matières dures similaires.
+
+9. Autres matériels.
+
+Centrifugeuses et essoreuses centrifuges.
+
+Machines et appareils servant à nettoyer ou à sécher les bouteilles et autres récipients ; à remplir, fermer, étiqueter ou
+capsuler les bouteilles, boîtes, sacs et autres contenants ; à empaqueter ou emballer les marchandises ; appareils à
+gazéifier les boissons ; appareils à laver la vaisselle.
+
+Appareils mécaniques (même à main) à projeter, disperser ou pulvériser des matières liquides ou en poudre : pistolets
+aérographes et appareils similaires ; machines et appareils à jet de sable, à jet de vapeur et appareils à jet similaires.
+
+Machines et appareils aux gaz pour le soudage, le coupage et la trempe superficielle.
+
+Laminoirs et trains de laminoirs pour la sidérurgie.
+
+Machines et appareils pour la fabrication et le travail à chaud du verre et des ouvrages en verre ; machines pour
+l'assemblage des lampes, tubes et valves électriques, électroniques et similaires. Calandres et laminoirs, autres que des
+laminoirs à métaux et les machines à laminer le verre.
+
+//DECR. 131 1981-02-10 : Scies à chaîne portatives à moteur thermique.//
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1981-02-17 : FIXE LA DATE D'APPLICATION DE L'ARTICLE SAUF L'AL. 2
+	  - SPEC_APPLI: Arrêté 1981-03-24 : FIXE LA DATE D'APPLICATION DE L'AL. 2
+	  - TXT_ASSOCIE: Décret n°90-53 du 12 janvier 1990
+	  - TXT_ASSOCIE: Décret n°90-53 du 12 janvier 1990 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°92-767 du 29 juillet 1992 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 3 mars 1995
+	  - TXT_SOURCE: Arrêté du 3 mars 1995 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 3 mars 1995 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 3 mars 1995 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Décret n°47-1592 du 23 août 1947 - art. 20 (Ab)
+	  - Décret n°47-1592 du 23 août 1947 - art. 31 b (Ab)
+	  - Décret n°80-331 du 7 mai 1980 - art. Annexe ET-2-R, art. 4 (V)
+	  - Décret n°80-331 du 7 mai 1980 - art. Annexe ET-2-R, art. 7 (V)
+	  - Décret n°85-968 du 27 août 1985 - art. 2 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 42 (Ab)
+	  - Arrêté du 11 septembre 1989 - art. 1 (V)
+	  - Arrêté du 12 septembre 1989 - art. 1 (V)
+	  - Arrêté du 13 septembre 1989 - art. 1 (V)
+	  - Arrêté du 14 septembre 1989 - art. 1 (V)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 4 (V)
+	  - Arrêté du 3 mai 1990 - art. 1 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 10 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 11 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 14 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 15 (V)
+	  - Décret n°92-767 du 29 juillet 1992 - art. 16 (V)
+	  - Décret n°96-725 du 14 août 1996 - art. 36 (V)
+	  - Arrêté du 26 août 1997 - art. 1 (V)
+	  - Décret n°99-1046 du 13 décembre 1999 - art. 2 (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 19 (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 2 (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 4 (V)
+	  - Arrêté du 16 août 1951 - art. 2 (V)
+	  - Arrêté du 18 décembre 1992 - art. 1 (V)
+	  - Arrêté du 18 décembre 1992 - art. 2 (V)
+	  - Arrêté du 18 décembre 1992 - art. 3 (V)
+	  - Arrêté du 18 décembre 1992 - art. 4 (V)
+	  - Code du travail - art. Annexe à l'article R233-84 (VT)
+	  - Code du travail - art. R233-13-14 (VT)
+	  - Code du travail - art. R233-49 (VT)
+	  - Code du travail - art. R233-53 (VT)
+	  - Code du travail - art. R233-54 (VT)
+	  - Code du travail - art. R233-55 (VT)
+	  - Code du travail - art. R233-57 (VT)
+	  - Code du travail - art. R233-74 (VT)
+	  - Code du travail - art. R233-83-1 (VT)
+	  - Code du travail - art. R233-84 (VT)
+	  - Code du travail - art. R233-85 (VT)
+	  - Code du travail - art. R233-86 (VT)
+	  - Code du travail - art. R233-87 (VT)
+	  - Code du travail - art. R233-88 (VT)
+	  - Code du travail - art. R233-88-1 (VT)
+	  - Code du travail - art. R233-89 (VT)
+	  - Code du travail - art. R233-89-1 (M)
+	  - Code du travail - art. R233-89-2 (M)
+	  - Code du travail - art. R233-89-3 (VT)
+	  - Code du travail - art. R233-90 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 1 () JORF 30 décembre
+	  - Décret n°81-131 1981-02-10 ART. 1 JORF 13 février date d'entrée en vigueur 1ER MARS 1982
+
+	**Cite**:
+
+	  - Code du travail L233-5 AL. 1
+
+
+##### SECTION VIII : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.
+
+###### Article R233-89
+
+Les machines et appareils doivent être conçus et construits de manière telle qu'ils n'entraînent pour les opérateurs ni gêne,
+ni fatigue excessive dans les conditions prévues pour leur utilisation par le constructeur ou l'importateur.
+
+Les organes de service doivent être choisis, conçus, construits et disposés de telle sorte que leur utilisation soit
+compatible avec les caractéristiques de la partie du corps prévue pour les actionner.
+
+La disposition, la course et la résistance mécanique des organes de service, ainsi que l'effort résistant qu'ils opposent
+lorsqu'ils sont actionnés, doivent être compatibles avec la manoeuvre à effectuer, compte tenu des données biomécaniques et
+anthropométriques.
+
+Il doit y avoir cohérence entre le mouvement d'un organe de service et son effet.
+
+La fonction de chaque organe de service doit être clairement identifiable afin d'éviter toute confusion.
+
+La disposition des organes de service doit assurer une manoeuvre sûre, univoque et rapide. En outre, ils doivent être conçus
+ou protégés pour éviter toute manoeuvre non intentionnelle pouvant avoir des effets dangereux.
+
+Dans tous les cas les organes de service sont disposés en dehors des zones dangereuses ; leur manoeuvre ne doit pas apporter
+de risques supplémentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°81-131 du 10 février 1981 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 14 mars 1983 - art. 1 (V)
+	  - Arrêté du 14 mars 1983 - art. 2 (V)
+	  - Arrêté du 22 février 1984 - art. 1 (V)
+	  - Arrêté du 22 février 1984 - art. 3 (V)
+	  - Décret n°85-968 du 27 août 1985 - art. 3 (V)
+
+
+###### Article R233-100
+
+Les dispositions des articles R. 233-98 à R. 233-99 ne s'appliquent pas aux machines et appareils d'une puissance inférieure
+à 750 W.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°80-543 du 15 juillet 1980 - art. 3 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 14 mars 1983 - art. 1 (V)
+	  - Arrêté du 19 mars 1983 - art. 1 (V)
+	  - Arrêté du 19 mars 1983 - art. 2 (V)
+	  - Arrêté du 22 février 1984 - art. 1 (V)
+	  - Arrêté du 22 février 1984 - art. 3 (M)
+	  - Arrêté du 29 juin 1982 - art. 1 (Ab)
+	  - Arrêté du 29 juin 1982 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. R233-97 (Ab)
+	  - Code du travail - art. R233-98 (Ab)
+	  - Code du travail - art. R233-99 (Ab)
+	  - Code du travail R233-96, R233-97, R233-98, R233-99
+
+
+###### Article R233-103
+
+Les machines et appareils fixes non clos en marche normale qui sont à l'origine d'émissions de poussières, de sciures ou de
+toutes matières pulvérulentes, notamment les batteurs, les broyeurs et les machines à travailler le bois, doivent être munis
+au plus près des sources d'émission, de buses et de captage ou autres conduits de forme appropriée pour permettre leur
+raccordement à une installation d'évacuation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°81-408 du 15 avril 1981 - art. 15 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Arrêté du 24 mars 1981 - art. 2 (V)
+	  - Code du travail - art. R233-150 (VT)
+
+
+###### Article R233-105
+
+Chaque exemplaire de machine ou d'appareil doit être accompagné d'une notice d'instructions établie par le constructeur ou
+l'importateur et indiquant les conditions de manutention, d'installation, d'utilisation et d'entretien et précisant les
+mesures d'hygiène et de sécurité à prendre lors de ces opérations.
+
+Cette notice doit également comporter les plans et schémas nécessaires pour l'entretien et les vérifications techniques de la
+machine ou de l'appareil.
+
+Tous ces documents doivent être rédigés en français [*langue obligatoire*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-543 1980-07-15 ART. 1 JORF 17 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-543 1980-07-15 ART. 2 (DATE D'APPLICATION)
+
+	**Cité par**:
+
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5 (V)
+	  - Décret n°80-1091 du 24 décembre 1980 - art. 5-3 (V)
+	  - Décret n°81-131 du 10 février 1981 - art. 3 (Ab)
+	  - Décret n°81-170 du 20 février 1981 - art. 34 (Ab)
+	  - Décret n°81-171 du 20 février 1981 - art. 19 (Ab)
+	  - Décret n°81-173 du 20 février 1981 - art. 22 (Ab)
+	  - Décret n°81-408 du 15 avril 1981 - art. 26 (Ab)
+	  - Décret n°81-410 du 15 avril 1981 - art. 9 (Ab)
+	  - Arrêté du 23 juillet 1981 - art. 1 (V)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 2 (Ab)
+	  - Décret n°81-938 du 13 octobre 1981 - art. 26 (Ab)
+	  - Décret n°90-53 du 12 janvier 1990 - art. 5 (V)
+	  - Arrêté du 3 mai 1990 - art. 4 (V)
+	  - Arrêté du 15 octobre 1981 - art. 1 (Ab)
+	  - Code du travail - art. R233-104-1 (Ab)
+	  - Code du travail - art. R233-139 (Ab)
+	  - Code du travail - art. R233-149 (VT)
 
 
 ### HYGIENE
