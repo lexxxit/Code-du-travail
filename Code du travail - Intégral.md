@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-07-01
+Version Consolidée au 1975-07-13
 
 # Partie législative ancienne
 
@@ -2680,6 +2680,104 @@ du travail au 1er mai 2008.
 
 
 ##### Section 5 : Protection de la maternité et éducation des enfants.
+
+###### Article L122-25-1
+
+Les dispositions de l'article L. 122-25 ne font pas obstacle à l'affectation temporaire dans un autre emploi de la salariée
+en état de grossesse, à son initiative ou à celle de l'employeur, si l'état de santé médicalement constaté de la salariée
+l'exige [*conditions*].
+
+En cas de désaccord entre l'employeur et la salariée ou lorsque la changement intervient à l'initiative de l'employeur, la
+nécessité médicale du changement d'emploi et l'aptitude de la salariée à occuper le nouvel emploi envisagé ne peut être
+établies que par le médecin du travail.
+
+L'affectation dans un autre établissement est subordonnée à l'accord de l'intéressée.
+
+Cette affectation temporaire ne peut avoir d'effet excédant la durée de la grossesse [*limite*] et prend fin dès que l'état
+de santé de la femme lui permet de retrouver son emploi initial.
+
+Le changement d'affectation ne doit entraîner aucune diminution de rémunération. Toutefois, lorsqu'un tel changement
+intervient à l'initiative de la salariée, le maintien de la rémunération est subordonné à une présence d'un an [*condition
+ancienneté*] dans l'entreprise à la date retenue par le médecin comme étant celle du début de la grossesse.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°75-306 du 28 avril 1975 - art. 11 (Ab)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 19 (Ab)
+	  - Décret n°88-120 du 1 février 1988 - art. 13 (Ab)
+	  - Décret n°95-182 du 21 février 1995 - art. 15 (Ab)
+	  - Code du travail - art. D341-5-15 (V)
+	  - Code du travail - art. L122-25 (AbD)
+	  - Code du travail - art. L122-26 (AbD)
+	  - Code du travail - art. R231-56-9 (VT)
+	  - Code du travail - art. R231-89 (VT)
+
+	**Créé par**:
+
+	  - Loi n°75-625 1975-07-11 ART. 3 JORF 13 juillet 1975
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1225-7 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R152-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-27
+
+La résiliation du contrat de travail par l'employeur pour l'un des motifs prévus à l'article L. 122-25-2 [*antérieurement au
+décret 75-625 : L. 122-25*] ne peut prendre effet ou être signifiée [*interdiction*] pendant la période de suspension prévue
+à l'article L. 122-26.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L122-25 (M)
+	  - Code du travail - art. L122-26 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-25-2 (AbD)
+	  - Code du travail - art. L123-2 (AbD)
+	  - Décret n°88-145 du 15 février 1988 - art. 41 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1225-4 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R152-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°75-625 1975-07-11 ART. 5 JORF 13 juillet 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
 
 ###### Article L122-29
 
@@ -14367,6 +14465,34 @@ du travail au 1er mai 2008.
 
 #### Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
 
+###### Article L234-1
+
+Les chefs d'établissements industriels et commerciaux dans lesquels sont employés des jeunes travailleurs de moins de dix-
+huit ans, doivent veiller au maintien des bonnes moeurs et à l'observation de la décence publique.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R263-1 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L234-2
 
 Des décrets en Conseil d'Etat déterminent, pour tous les établissements mentionnés à l'article L. 231-1, y compris les mines
@@ -17808,29 +17934,6 @@ l'acheteur.
 	**Anciens textes**:
 
 	  - Code du travail 2066 d
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### DISPOSITIONS PARTICULIERES AUX FEMMES ET AUX JEUNES TRAVAILLEURS  .
-
-###### Article L234-1
-
-Les chefs d'établissement industriels et commerciaux dans lesquels sont employés des jeunes travailleurs de moins de dix-huit
-ans [*âge limite*], ou des femmes doivent [*obligation*] veiller au maintien des bonnes moeurs et à l'observation de la
-décence publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail 2071
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R263-1 : SANCTIONS PENALES
 
 	**Codifié par**:
 
@@ -23519,56 +23622,6 @@ journaux qu'il désigne [*sanctions*]// .
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L341-7
-
-Il est interdit à tout employeur d'embaucher directement ou par intermédiaire un travailleur étranger introduit en France
-avant l'expiration du contrat de travail en vertu duquel il a été introduit.
-
-Cette interdiction n'est pas applicable :
-
-1. Si le contrat liant le travailleur étranger à son premier employeur a été résilié par décision de justice ;
-
-2. Si une année s'est écoulée depuis l'introduction du travailleur étranger ;
-
-3. Si le travailleur est porteur d'une carte de présentation délivrée par le service public de l'emploi, après enquête auprès
-du précédent employeur, dont les droits vis-à-vis du travailleur et du nouvel employeur sont réservés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 21 quinquies (Ab)
-	  - Code de justice administrative. - art. R312-16 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L626-1 (V)
-	  - Code des tribunaux administratifs et des cours adm - art. R60 (Ab)
-	  - Code du travail - art. D341-1 (M)
-	  - Code du travail - art. L341-11 (AbD)
-	  - Code du travail - art. L341-6-4 (AbD)
-	  - Code du travail - art. L831-1 (AbD)
-	  - Code du travail - art. R341-22 (VT)
-	  - Code du travail - art. R341-27 (VT)
-	  - Code du travail - art. R341-28 (M)
-	  - Code du travail - art. R341-29 (VT)
-	  - Code du travail - art. R341-33 (T)
-	  - Code du travail - art. R341-34 (T)
-	  - Code du travail - art. R341-35 (T)
-	  - Code du travail - art. R364-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°90-1008 du 8 novembre 1990
-	  - TXT_SOURCE: Décret n°90-1008 du 8 novembre 1990 - art. 3 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R364-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L8253-1 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ### TRAVAILLEURS PRIVES D'EMPLOI
 
 #### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
@@ -27570,9 +27623,15 @@ commerciaux et agricoles.
 
 ###### Article L411-4
 
-Les membres de tout syndicat professionnel chargés de l'administration ou de la direction de ce syndicat doivent être
-français [*nationalité*] et jouir de leurs droits civiques et n'avoir encouru aucune des condamnations prévues aux articles
-L. 5 et L. 6 du code électoral.
+Les membres français de tout syndicat professionnel chargés de l'administration ou de la direction de ce syndicat doivent
+[*obligation*] jouir de leurs droits civiques et n'avoir encouru aucune des condamnations prévues aux articles L. 5 et L. 6
+du code électoral.
+
+Tout ressortissant étranger adhérent à un syndicat peut accéder aux fonctions d'administration ou de direction de ce syndicat
+s'il n'a encouru aucune des condamnations visées à l'alinéa précédent et s'il travaille en France depuis cinq ans au moins
+[*durée*] à la date de sa désignation. Cette dernière condition n'est pas opposable aux ressortissants d'un Etat membre de la
+Communauté économique européenne [*CEE*]. La proportion des étrangers parmi les membres du syndicat chargé des fonctions
+d'administration ou de direction ne peut excéder le tiers [*limite*].
 
 **Liens relatifs à cet article**
 
@@ -27601,6 +27660,10 @@ L. 5 et L. 6 du code électoral.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L2131-5 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R461-1 (M)
 
 
 ###### Article L411-5
@@ -31803,6 +31866,34 @@ personnes qui gèrent ou dirigent pour le compte d'autrui une entreprise autre q
 	  - Code du travail L513-1 PAR. 1 ET 2
 
 
+###### Article L513-3-1
+
+Par dérogation aux dispositions des articles L. 513-1,
+
+L. 513-2 et L. 513-3 ci-dessus, les ressortissants étrangers peuvent participer aux élections des conseillers prud'hommes
+s'ils remplissent les conditions autres que celle de nationalité, prévues par les articles précités [*inscrits sur listes
+électorales, exercer une profession depuis trois ans (ancienneté)*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L513-1 (M)
+	  - Code du travail - art. L513-2 (M)
+	  - Code du travail - art. L513-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L513-5 (M)
+	  - Code du travail - art. R513-33 (VT)
+	  - Code du travail - art. R513-37 (VT)
+	  - Code du travail - art. R513-50 (VT)
+
+
 ##### ELIGIBILITE .
 
 ###### Article L513-4
@@ -31844,8 +31935,8 @@ nationalité française et qu'elles n'aient encouru aucune des condamnations pr�
 
 ###### Article L513-5
 
-Les ressortissants de la communauté économique européenne [*CEE - étrangers*] mentionnée à l'article L. 513-2 qui exercent en
-France l'activité d'exploitant agricole ne sont pas éligibles aux conseils de prud'hommes.
+Les ressortissants étrangers [*remplissant les conditions d'électorat nécessaires*] mentionnés à l'article L. 513-3-1 ne sont
+pas éligibles [*non*] aux conseils de prud'hommes.
 
 **Liens relatifs à cet article**
 
@@ -31859,7 +31950,7 @@ France l'activité d'exploitant agricole ne sont pas éligibles aux conseils de 
 
 	**Cite**:
 
-	  - Code du travail - art. L513-2 (M)
+	  - Code du travail - art. L513-3-1 (P)
 
 
 ##### SCRUTIN, INSTALLATION DES PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES .
@@ -36193,6 +36284,45 @@ du travail au 1er mai 2008.
 	  - Code du travail - art. R712-59 (VT)
 
 
+###### Article L712-10
+
+Les ouvriers du fond sont électeurs dans leur circonscription à condition d'être âgés de dix-huit ans [*limite*] accomplis,
+d'être inscrits sur la feuille de la dernière paie effectuée dans cette circonscription avant la date de l'arrêté de
+convocation des électeurs, et de n'avoir encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code
+électoral.
+
+Les délégués mineurs sont électeurs dans leur circonscription.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code électoral L005 ET L006
+
+	**Cité par**:
+
+	  - Code du travail - art. L712-8 (AbD)
+	  - Code du travail - art. R712-11 (VT)
+	  - Code du travail - art. R712-59 (M)
+	  - Code du travail - art. R712-9 (VT)
+
+
 ###### Article L712-11
 
 Sont éligibles dans une circonscription à la condition d'être citoyens français, de savoir lire et écrire le français
@@ -37096,6 +37226,49 @@ du travail au 1er mai 2008.
 	  - Code du travail L712-9 A L712-13, L712-17 ET L712-20
 
 
+##### Section 2 : Délégués permanents de la surface.
+
+###### Article L712-33
+
+Les fonctions des délégués permanents de la surface institués en application de la loi n° 46-188 du 14 février 1946 relative
+au personnel des exploitations minières sont confiées pour les installations et services du jour dépendant du même siège
+d'extraction et occupant moins de cent cinquante ouvriers, aux délégués mineurs dont la circonscription comprend ledit siège
+d'extraction. Les ouvriers et ouvrières de ces installations et services voteront dans le même collège que les électeurs du
+fond de la circonscription à laquelle ces installations et services sont rattachés.
+
+Les prescriptions de la section 1 du présent chapitre s'appliquent, en ce qui concerne les conditions d'élection, de
+fonctionnement et de rémunération, aux délégués de la surface pour les autres établissements et services du jour. Toutefois,
+l'âge maximum requis pour être électeur est fixé à seize ans accomplis. Un décret en Conseil d'Etat fixera les mesures
+d'application de cet alinéa.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-188 1946-02-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. R712-37 (VT)
+	  - Code du travail - art. R712-58 (VT)
+
+
 ##### Section 3 : Dispositions communes.
 
 ###### Article L712-34
@@ -37173,44 +37346,6 @@ ministre chargé des mines.
 	**Anciens textes**:
 
 	  - Code du travail 2095
-
-
-##### Chapitre II : Délégués mineurs
-
-##### Section 2 : Délégués permanents de la surface.
-
-###### Article L712-33
-
-Les fonctions des délégués permanents de la surface institués en application de la loi n° 46-188 du 14 février 1946 relative
-au personnel des exploitations minières sont confiées pour les installations et services du jour dépendant du même siège
-d'extraction et occupant moins de cent cinquante ouvriers, aux délégués mineurs dont la circonscription comprend ledit siège
-d'extraction. Les ouvriers et ouvrières de ces installations et services voteront dans le même collège que les électeurs du
-fond de la circonscription à laquelle ces installations et services sont rattachés.
-
-Les prescriptions de la section 1 du présent chapitre s'appliquent, en ce qui concerne les conditions d'élection, de
-fonctionnement et de rémunération, aux délégués de la surface pour les autres établissements et services du jour. Un décret
-portant règlement d'administration publique fixera les mesures d'application de cet alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°46-188 1946-02-14
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°75-630 1975-07-11 art. 9
-	  - Code du travail 156
-	  - Loi n°1949-08-02
-
-	**Cité par**:
-
-	  - Code du travail - art. R712-37 (VT)
-	  - Code du travail - art. R712-58 (VT)
 
 
 ### Titre II : Industries de transformation
@@ -42239,39 +42374,6 @@ ouvriers.
 	  - Code du travail L420-1 A L420-24
 
 
-##### ELECTIONS .
-
-###### Article L712-10
-
-Sont électeurs [*définition*] dans leur circonscription, à condition d'être âgés de dix-huit ans accomplis, d'être inscrits
-sur la feuille de la dernière paie effectuée pour cette circonscription avant la date de l'arrêté de convocation des
-électeurs et de n'avoir encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du Code électoral :
-
-1. Les ouvriers du fond, de nationalité française ou ressortissants d'un Etat membre de la Communauté économique européenne
-[*CEE*]    2. Les autres ouvriers du fond répondant aux conditions prévues par les traités internationaux, sous réserve de
-réciprocité, ou bien justifiant soit d'un travail effectif de cinq années dans les mines en France, soit, s'ils sont
-frontaliers, d'un travail en France de trois ans.
-
-Les délégués mineurs sont électeurs dans leur circonscription.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code électoral L005 ET L006
-
-	**Cité par**:
-
-	  - Code du travail - art. L712-8 (AbD)
-	  - Code du travail - art. R712-11 (VT)
-	  - Code du travail - art. R712-59 (M)
-	  - Code du travail - art. R712-9 (VT)
-
-
 ### INDUSTRIES DE TRANSFORMATION
 
 #### TRAVAILLEURS A DOMICILE .
@@ -43172,36 +43274,6 @@ organisé le contrôle sont déterminées par voie réglementaire.
 	**Abrogé par**:
 
 	  - Loi n°86-76 du 17 janvier 1986 - art. 15 () JORF 18 janvier 1986
-
-
-###### Article L831-4
-
-Il est interdit à tout employeur d'embaucher directement ou par intermédiaire un travailleur étranger introduit dans les
-départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, avant l'expiration du contrat de travail en
-vertu duquel il a été introduit.
-
-Cette interdiction n'est pas applicable :
-
-1. Si le contrat de travail liant le travailleur étranger à son premier employeur a été résilié par décision de justice ;
-
-2. Si une année est écoulée depuis l'introduction du travailleur intéressé ;
-
-3. Si le travailleur est porteur d'une carte de présentation délivrée par un service public de main-d'oeuvre, après enquête
-auprès du précédent employeur dont les droits vis-à-vis du travailleur et du nouvel employeur sont réservés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R883-1 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R883-1 (VT)
 
 
 #### Chapitre II : Emploi
