@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-07-09
+Version Consolidée au 1976-07-10
 
 # Partie législative ancienne
 
@@ -6628,51 +6628,6 @@ dans la durée d'ancienneté exigée pour bénéficier des dispositions rappelé
 	  - Décret n°73-1046 1973-11-15
 
 
-##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES)
-
-##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
-
-###### Article L122-25-2
-
-Aucun employeur ne peut [*interdiction*] résilier [*interdiction*] le contrat de travail d'une salariée lorsqu'elle est en
-état de grossesse médicalement constatée et pendant une période de douze semaines suivant l'accouchement. Toutefois et sous
-réserve d'observer les dispositions de l'article L. 122-27 ci-dessous, il peut résilier le contrat s'il justifie d'une faute
-grave de l'intéressée //LOI  0625 11-07-1975 : non liée à son état de grossesse//, ou de l'impossibilité où il se trouve,
-pour un motif étranger à la grossesse ou à l'accouchement, de maintenir ledit contrat.
-
-Si un licenciement est notifié avant la constatation médicale de la grossesse [*limite*], la salariée peut, dans un délai de
-huit jours à compter de la notification du licenciement justifier de son état par l'envoi d'un certificat médical par lettre
-recommandée avec demande d'avis de réception. Le licenciement se trouve de ce fait, annulé, sauf s'il est prononcé pour un
-des motifs justifiant par application de l'alinéa précédent la résiliation du contrat de travail.
-
-Les dispositions des précédents alinéas ne font pas obstacle à l'échéance du contrat de travail à durée déterminée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1044 1966-12-30
-	  - Code du travail 1029 I
-
-	**Modifié par**:
-
-	  - Loi n°75-625 1975-07-11 ART. 1 II JORF 13 juillet 1975
-
-	**Cité par**:
-
-	  - Décret n°88-145 du 15 février 1988 - art. 41 (M)
-	  - Arrêté du 19 février 1986 - art. Annexe (V)
-	  - Code du travail - art. L122-25-1-1 (AbD)
-	  - Code du travail - art. L122-25-1-2 (AbD)
-	  - Code du travail - art. L122-26 (AbD)
-	  - Code du travail - art. L122-26-1 (AbD)
-	  - Code du travail - art. L122-27 (AbD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)
 
 ###### Article L122-28
@@ -7156,6 +7111,53 @@ travailleurs et lorsqu'il est en outre satisfait aux autres conditions auxquelle
 	**Anciens textes**:
 
 	  - Code du travail 1022 b AL. 9
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)
+
+##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
+
+###### Article L122-25-2
+
+Aucun employeur ne peut résilier [*interdiction*] le contrat de travail d'une salariée lorsqu'elle est en état de grossesse
+médicalement constatée et pendant une période de douze semaines suivant l'accouchement ou pendant la période du congé
+d'adoption prévu à l'article L. 122-26. Toutefois et sous réserve d'observer les dispositions de l'article L. 122-27, il peut
+résilier le contrat s'il justifie d'une faute grave de l'intéressée, non liée à l'état de grossesse, ou de l'impossibilité où
+se il se trouve, pour un motif étranger à la grossesse, à l'accouchement ou à l'adoption de maintenir ledit contrat.
+
+Si un licenciement est notifié avant la constatation médicale de la grossesse [*date limite*] ou dans les huit jours qui
+précèdent l'arrivée au foyer d'un enfant placé en vue de son adoption, la salariée peut dans un délai de huit jours à compter
+de la notification du licenciement, justifier de son état ou de sa situation par l'envoi par lettre recommandée avec demande
+d'avis de réception, d'un certificat médical ou d'une attestation délivrée par le service départemental d'aide sociale à
+l'enfance ou l'oeuvre d'adoption autorisée qui a procédé au placement. Le licenciement se trouve de ce fait annulé sauf s'il
+est prononcé pour un des motifs justifiant, par application de l'alinéa précédent, la résiliation du contrat de travail.
+
+Les dispositions des précédents alinéas ne font pas obstacle à l'échéance du contrat de travail à durée déterminée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-1044 1966-12-30
+	  - Code du travail - art. L122-25 (M)
+	  - Code du travail 1029 I
+
+	**Cité par**:
+
+	  - Décret n°88-145 du 15 février 1988 - art. 41 (M)
+	  - Arrêté du 19 février 1986 - art. Annexe (V)
+	  - Code du travail - art. L122-25-1-1 (AbD)
+	  - Code du travail - art. L122-25-1-2 (AbD)
+	  - Code du travail - art. L122-26 (AbD)
+	  - Code du travail - art. L122-26-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-27 (AbD)
 
 	**Codifié par**:
 
