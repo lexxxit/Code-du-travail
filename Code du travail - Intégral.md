@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-05
+Version Consolidée au 1980-01-06
 
 # Partie législative ancienne
 
@@ -36097,42 +36097,6 @@ conseil de prud'hommes est situé à plus de cinq kilomètres du siège du tribu
 	  - Code du travail - art. L515-3 (M)
 
 
-#### DISPOSITIONS APPLICABLES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE
-
-###### Article L51-11-1
-
-Sans préjudice des dispositions particulières aux départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les
-conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à
-L. 513-9, L. 514-1 à L. 514-10 sont applicables dans les départements du Haut-rhin, du Bas-rhin et de la Moselle.
-
-Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
-du présent titre.
-
-Les dépenses de fonctionnement mentionnées à l'article L. 51-10-2 et relatives aux conseils existant à la date du 1er janvier
-1978 dans les départements du Haut-rhin, du Bas-rhin et de la Moselle seront prises en charge par l'Etat à une date fixée par
-décret.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
-	  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L51-10-2 (M)
-	  - Code du travail - art. L512-5 (M)
-	  - Code du travail - art. L512-6 (M)
-	  - Code du travail L512-5, L512-6, L513-2 A L513-9, L514-1 A L514-10
-
-
 #### DISPOSITIONS FINALES
 
 ###### Article L51-12-1
@@ -37899,6 +37863,43 @@ mesures nécessaires à cet effet.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L1454-1 (VD)
+
+
+##### Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+###### Article L51-11-1
+
+Sans préjudice des dispositions particulières aux départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les
+conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à
+L. 513-9, L. 514-1 à L. 514-10 et L. 51-10-2 sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la
+Moselle.
+
+Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
+du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
+	  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°82-372 du 6 mai 1982 - art. 42 (V) JORF 7 mai 1982 en vigueur le 15 janvier 1983
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L51-10-2 (M)
+	  - Code du travail - art. L512-5 (M)
+	  - Code du travail - art. L512-6 (M)
+	  - Code du travail L512-5, L512-6, L513-2 A L513-9, L514-1 A L514-10
 
 
 ### Titre II : Conflits collectifs
