@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-05-01
+Version Consolidée au 1980-05-01 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -85340,21 +85340,17 @@ Le délai d'appel est de quinze jours.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°79-1022 1979-11-23 ART. 24 : FIXE LA DATE D'ENTREE EN VIGUEUR (1ER MAI 1980)
-
 	**Cité par**:
 
 	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code du travail R516-33 (1976)
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1455-11 (V)
 
 
 ###### Article R516-35
@@ -85363,21 +85359,23 @@ L'appel est formé, instruit et jugé comme il est dit aux articles R. 517-7 à 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°79-1022 1979-11-23 ART. 24 : FIXE LA DATE D'ENTREE EN VIGUEUR (1ER MAI 1980)
-
 	**Cité par**:
 
 	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code du travail R516-33 (1976)
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1455-11 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R517-7
+	  - Code du travail - art. R517-8
+	  - Code du travail - art. R517-9
 
 
 ##### Section 8 : L'exécution des jugements.
