@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-07-05
+Version Consolidée au 1974-08-09
 
 # Partie législative ancienne
 
@@ -49884,6 +49884,32 @@ d'enseignement, technique ou agricole.
 	**Cite**:
 
 	  - Code du travail - art. R119-64 (Ab)
+
+
+##### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
+
+###### Article R119-65
+
+Les dispositions des articles R. 119-48 à R. 119-64 sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la
+Moselle, sous réserve des exceptions et des règles spéciales résultant des articles qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R241-23 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L119-1 A L119-4
+
+	**Cite**:
+
+	  - Code du travail R119-48 A R119-64
 
 
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
