@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-02-01
+Version Consolidée au 1982-02-06
 
 # Partie législative ancienne
 
@@ -2168,6 +2168,54 @@ du travail au 1er mai 2008.
 
 #### Chapitre Ier : Dispositions générales.
 
+###### Article L121-1
+
+Le contrat de travail est soumis aux règles du droit commun. Il peut être constaté dans les formes qu'il convient aux parties
+contractantes d'adopter.
+
+Le contrat de travail constaté par écrit et à exécuter sur le territoire français est rédigé en français [*formalité
+obligatoire, langue*]. Il ne peut contenir ni terme étranger ni expression étrangère lorsqu'il existe une expression ou un
+terme approuvés dans les conditions prévues par le décret n° 72-19 du 7 janvier 1972 relatif à l'enrichissement de la langue
+française.
+
+Lorsque l'emploi qui fait l'objet du contrat ne peut être désigné que par un terme étranger sans correspondant en français,
+le contrat de travail doit comporter une explication, en français, du terme étranger.
+
+Lorsque le salarié est étranger et le contrat constaté par écrit, une traduction du contrat est rédigée, à la demande du
+salarié, dans la langue de ce dernier ; les deux textes font également foi en justice. En cas de discordance entre les deux
+textes, seul le texte rédigé dans la langue du salarié étranger peut être invoqué [*preuve*] contre ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°72-19 1972-01-07
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 3 JORF 6 FEVRIER 1982
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D133-5 (M)
+	  - Code de la sécurité sociale. - art. D133-7 (V)
+	  - Code de la sécurité sociale. - art. L133-5-1 (M)
+	  - Code de la sécurité sociale. - art. L133-5-2 (V)
+	  - Code de la sécurité sociale. - art. L133-5-3 (AbD)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
+	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
+	  - Code du sport. - art. L223-3 (V)
+	  - Code du travail - art. R341-2 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L121-2
 
 Le contrat de travail est exempt de timbre et d'enregistrement.
@@ -2269,42 +2317,49 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L121-6
+###### Article L121-5
 
-L'engagement d'un ouvrier ne peut excéder un an [*durée limite*], à moins qu'il ne soit contremaître, conducteur des autres
-ouvriers ou qu'il n'ait un traitement et des conditions stipulés par un acte exprès [*contrat*].
+Le contrat de travail est conclu sans détermination de durée. Toutefois, dans les cas et aux conditions fixées à la section I
+du chapitre II du présent titre, il peut comporter un terme fixé avec précision dès sa conclusion ou résultant de la
+réalisation de l'objet pour lequel il est conclu.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°79-11 1979-01-03 ART. 9 : DATE D'APPLICATION DE LA LOI
-
-	**Créé par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 JANVIER 1979
-
-	**Abrogé par**:
-
-	  - Ordonnance 82-130 1982-02-05 ART. 3 JORF 6 FEVRIER 1982
-
-	**Cité par**:
-
-	  - Code du travail - art. L121-6-1 (AbD)
-	  - Code du travail - art. L721-6 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L122-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1221-6 (VD)
-	  - Code du travail - art. L1222-2 (VD)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 1 JORF 6 FEVRIER 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1221-2 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L721-6 (M)
 
 
 #### Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
@@ -2335,6 +2390,479 @@ montant du salaire qui aurait été perçu pendant la période couverte par la n
 	**Cite**:
 
 	  - Code du travail L122-25 à L122-28
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### SECTION 1 : CONTRAT A DUREE DETERMINEE.
+
+###### Article L122-3
+
+Un contrat de travail à durée déterminée peut en outre être conclu [*condition*] :
+
+1° Pour les emplois à caractère saisonnier ;
+
+2° Pour les emplois pour lesquels il est d'usage constant de ne pas recourir au contrat à durée indéterminée en raison de la
+nature de l'activité exercée et du caractère par nature temporaire de ces emplois. Les secteurs d'activité dans lesquels ces
+contrats peuvent être conclus sont déterminés par décret.
+
+A moins que les parties ne lui aient fixé un terme précis, ce contrat doit être conclu pour une durée minimale et il a pour
+terme la réalisation de l'objet pour lequel il est conclu [*mention*].
+
+**Nota:**
+
+[*Nota - Loi 85-1376 du 23 décembre 1985 art. 8 JORF 27 décembre :
+
+Dérogation relative à l'emploi scientifique et technique.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°79-11 du 3 janvier 1979 - art. 8 (V)
+	  - Décret n°99-109 du 18 février 1999 - art. 4 (V)
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code du travail - art. D121-2 (Ab)
+	  - Code du travail - art. L121-5 (M)
+	  - Code du travail - art. L122-3-11 (T)
+	  - Code du travail - art. L122-3-12 (T)
+	  - Code du travail - art. L122-3-13 (AbD)
+	  - Code du travail - art. L122-3-14 (T)
+	  - Code du travail - art. L124-2-2 (Ab)
+	  - Code du travail - art. L152-1-3 (T)
+	  - Code du travail - art. L152-1-4 (AbD)
+	  - Code du travail - art. L231-3-1 (AbD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 9 (V)
+	  - TXT_ASSOCIE: Code du travail - art. L152-1-4 (AbD)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L121-6 (Ab)
+	  - Code du travail - art. L1242-6 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-1
+
+Le contrat de travail à durée déterminée doit être écrit [*condition de forme*] ; à défaut il est présumé conclu pour une
+durée indéterminée. Il doit comporter la définition précise de son objet ainsi que des mentions qui seront déterminées par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_SOURCE: Code du travail - art. D121-3 (V)
+	  - TXT_ASSOCIE: Code du travail - art. L122-3 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Cité par**:
+
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 5 (M)
+	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
+	  - Code de la sécurité sociale. - art. D133-5 (M)
+	  - Code de la sécurité sociale. - art. D133-7 (V)
+	  - Code de la sécurité sociale. - art. L133-5-1 (M)
+	  - Code de la sécurité sociale. - art. L133-5-2 (V)
+	  - Code de la sécurité sociale. - art. L133-5-3 (AbD)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
+	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
+	  - Code du travail - art. D121-3 (Ab)
+	  - Code du travail - art. D322-22-3 (M)
+	  - Code du travail - art. L122-3-13 (AbD)
+	  - Code du travail - art. L128-1 (VT)
+	  - Code du travail - art. L129-2 (M)
+	  - Code du travail - art. L129-6 (AbD)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L152-1-4 (AbD)
+	  - Code du travail - art. L341-6-1 (M)
+	  - Code du travail - art. L620-9 (VT)
+	  - Code du travail - art. L812-1 (V)
+	  - Code du travail - art. R620-6-3 (VT)
+	  - Code rural - art. R712-8 (V)
+	  - Code rural ancien - art. 1000-6 (Ab)
+	  - Code rural et de la pêche maritime - art. L712-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-3
+
+Le contrat de travail à durée déterminée peut comporter une période d'essai. A défaut d'usages ou de dispositions
+conventionnelles prévoyant des durées moindres, cette période d'essai ne peut excéder une durée calculée à raison d'un jour
+par semaine, dans la limite de deux semaines lorsque la durée initialement prévue au contrat est au plus égale à six mois et
+d'un mois dans les autres cas.
+
+Lorsque le contrat ne comporte pas de terme précis, la période d'essai est calculée par rapport à la durée minimale du
+contrat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Cité par**:
+
+	  - Décret n°84-1057 du 30 novembre 1984 - art. 8 (Ab)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 6 (VT)
+	  - Code de la sécurité sociale. - art. L241-13 (MMN)
+	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
+	  - Code du travail - art. L122-3-4 (M)
+	  - Code du travail - art. L152-1-4 (AbD)
+	  - Code du travail - art. L932-1-1 (VT)
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-4
+
+Sauf dispositions législatives expresses, et à l'exclusion des dispositions concernant la rupture du contrat de travail, les
+dispositions légales et conventionnelles ainsi que celles qui résultent des usages, applicables aux salariés liés par un
+contrat de travail à durée indéterminée, s'appliquent également aux salariés liés par un contrat de travail à durée
+déterminée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Cité par**:
+
+	  - Décret n°93-701 du 27 mars 1993 - art. 9 (Ab)
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code de la santé publique - art. R6152-418 (V)
+	  - Code du travail - art. D121-3 (VT)
+	  - Code du travail - art. L12-10-1 (AbD)
+	  - Code du travail - art. L122-3-8 (AbD)
+	  - Code du travail - art. L122-3-9 (AbD)
+	  - Code du travail - art. L143-10 (AbD)
+	  - Code du travail - art. L143-11-7-1 (Ab)
+	  - Code du travail - art. L322-4-20 (AbD)
+	  - Code du travail - art. L341-6-1 (AbD)
+	  - Code rural - art. L718-3 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-3 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-5 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-6
+
+Sous réserve du respect des dispositions de l'article L. 122-3-8, la suspension du contrat de travail à durée déterminée ne
+fait pas obstacle à l'échéance de ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-5 (M)
+	  - Code du travail - art. L1243-5 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-7 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-7
+
+Sous réserve des dispositions des articles L. 231-8, L. 412-15, L. 420-23, L. 436-2, le contrat de travail à durée déterminée
+cesse de plein droit à l'échéance du terme [*date de fin de contrat*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-6 (M)
+	  - Code du travail - art. L122-3-6 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-8 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-3-9 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-8 (M)
+	  - Code du travail - art. L412-15 (M)
+	  - Code du travail - art. L420-23 (T)
+	  - Code du travail - art. L436-2 (T)
+
+
+###### Article L122-3-9
+
+Sauf accord des parties, le contrat à durée déterminée ne peut être rompu avant l'échéance du terme qu'en cas de faute grave
+ou de force majeure [*rupture anticipée*].
+
+La méconnaissance par l'employeur des dispositions prévues à l'alinéa précédent ouvre droit pour le salarié à des dommages et
+intérêts d'un montant au moins égal aux rémunérations qu'il aurait perçues jusqu'au terme du contrat sans préjudice de
+l'indemnité [*de fin de contrat*] prévue à l'article L. 122-3-5.
+
+La méconnaissance de ces dispositions par le salarié ouvre droit pour l'employeur à des dommages et intérêts correspondant au
+préjudice subi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Cité par**:
+
+	  - Code du travail - art. D121-4 (M)
+	  - Code du travail - art. L122-3-10 (T)
+	  - Code du travail - art. L341-6-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-10 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-8 (M)
+	  - Code du travail - art. L1242-11 (VD)
+
+
+###### Article L122-3-10
+
+Les dispositions des articles L. 122-3-5, L. 122-3-8 et L. 122-3-9 ne sont pas applicables pendant la période d'essai
+[*indemnité de fin de contrat, préavis, dommages et intérêts pour rupture anticipée*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-11 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-3-13 (AbD)
+	  - Code du travail - art. L980-2 (T)
+	  - Code du travail - art. L981-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3-5 (M)
+	  - Code du travail - art. L122-3-8 (M)
+	  - Code du travail - art. L122-3-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-9 (M)
+	  - Code du travail - art. L122-3-9 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-14
+
+Tout contrat conclu en méconnaissance des dispositions des articles L. 122-1 à L. 122-3, L. 122-3-12 et L. 122-3-13 est
+réputé à durée indéterminée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Cite**:
+
+	  - Code du travail - art. L122-1 (T)
+	  - Code du travail - art. L122-2 (T)
+	  - Code du travail - art. L122-3 (T)
+	  - Code du travail - art. L122-3-12 (M)
+	  - Code du travail - art. L122-3-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-13 (M)
+	  - Code du travail - art. L1241-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-15 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-3-15
+
+Les dispositions de la présente section ne s'appliquent ni au contrat d'apprentissage ni au contrat de travail temporaire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 2 JORF 6 FEVRIER 1982
+
+	**Transféré par**:
+
+	  - Ordonnance n°86-948 du 11 août 1986 - art. 4 () JORF 12 aôut 1986
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-3-14 (M)
+	  - Code du travail - art. L122-3-14 (T)
+	  - Code du travail - art. L1244-2 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3-16 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-3-20 (AbD)
+	  - Code du travail - art. L212-5-2 (AbD)
 
 	**Codifié par**:
 
@@ -8012,90 +8540,6 @@ cautionnements*].
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L121-1
-
-Le contrat de travail est soumis aux règles du droit commun. Il peut être constaté dans les formes qu'il convient aux parties
-contractantes d'adopter.
-
-Toutefois, le contrat de travail à durée déterminée doit être constaté par écrit. Le contrat qui n'est pas constaté par écrit
-est présumé conclu pour une durée indéterminée.
-
-Le contrat de travail constaté par écrit et à exécuter sur le territoire français est rédigé en français. Il ne peut contenir
-ni terme étranger ni expression étrangère lorsqu'il existe une expression ou un terme approuvés dans les conditions prévues
-par le décret n° 72-19 du 7 janvier 1972 relatif à l'enrichissement de la langue française.
-
-Lorsque l'emploi qui fait l'objet du contrat ne peut être désigné que par un terme étranger sans correspondant en français,
-le contrat de travail doit comporter une explication, en français, du terme étranger.
-
-Lorsque le salarié est étranger et le contrat constaté par écrit, une traduction du contrat est rédigé, à la demande du
-salarié, dans la langue de ce dernier ; les deux textes font également foi en justice. En cas de discordance entre les deux
-textes, seul le texte rédigé dans la langue du salarié étranger peut être invoqué contre ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 2 () JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D133-5 (M)
-	  - Code de la sécurité sociale. - art. D133-7 (V)
-	  - Code de la sécurité sociale. - art. L133-5-1 (M)
-	  - Code de la sécurité sociale. - art. L133-5-2 (V)
-	  - Code de la sécurité sociale. - art. L133-5-3 (AbD)
-	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
-	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
-	  - Code du sport. - art. L223-3 (V)
-	  - Code du travail - art. R341-2 (VT)
-
-	**Anciens textes**:
-
-	  - Code du travail 1019 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### DISPOSITIONS GENERALES.
-
-###### Article L121-5
-
-Sous réserve des dispositions de l'article L. 122-3 ci-après, la durée du contrat de travail est, sauf convention contraire,
-réglée suivant les usages des lieux ou de la profession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°79-11 1979-01-03 ART. 9 : DATE D'APPLICATION DE LA LOI
-
-	**Créé par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 janvier
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L122-2 (T)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1221-2 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L721-6 (M)
-
-
 #### LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE .
 
 ###### Article L123-1
@@ -10869,10 +11313,9 @@ Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à de
 cotisations de sécurité sociale [*montant*].
 
 Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
-proprement dits, mais encore tous les accessoires et notamment l'indemnité due pour inobservation du préavis [*en cas de
-contrat à durée déterminée*] prévu à l'article L. 122-3-1 et du délai-congé prévu à l'article L. 122-6 et l'indemnité
-compensatrice [*de délai-congé en cas de licenciement de salarié victime d'un accident du travail*] prévue à l'article L.
-122-32-6 du présent code.
+proprement dites mais encore tous les accessoires et notamment l'indemnité de fin de contrat [*à durée déterminée*]
+mentionnée à l'article L. 122-3-5, l'indemnité pour inobservation du délai congé mentionnée à l'article L. 122-8, l'indemnité
+compensatrice mentionnée à l'article L. 122-32-6 et l'indemnité de précarité d'emploi mentionnée à l'article L. 124-4-4.
 
 **Liens relatifs à cet article**
 
@@ -10922,11 +11365,20 @@ compensatrice [*de délai-congé en cas de licenciement de salarié victime d'un
 	  - Code du travail - art. L751-15 (AbD)
 	  - Code du travail - art. L786-1 (AbD)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 4 JORF 6 FEVRIER 1982
+
 	**Cite**:
 
-	  - Code du travail - art. L122-3-1 (M)
+	  - Code du travail - art. L122-3-5 (M)
 	  - Code du travail - art. L122-32-6 (M)
-	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. L124-4-4 (M)
 
 	**Codifié par**:
 
@@ -22943,6 +23395,66 @@ Miquelon*]
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L341-6-1
+
+L'étranger employé [*irrégulièrement*] en violation des dispositions de l'alinéa premier de l'article L. 341-6 est assimilé,
+à compter de la date de son embauchage, à un travailleur régulièrement engagé en ce qui concerne les obligations de
+l'employeur relatives à la réglementation du travail définie au livre II du présent code et, pour les professions agricoles,
+aux articles 992 et suivants du code rural, ainsi qu'à la prise en compte de l'ancienneté dans l'entreprise.
+
+En ce qui concerne les avantages pécuniaires, cet étranger a droit au titre de la période d'emploi illicite :
+
+1° Au paiement du salaire et des accessoires de celui-ci conformément aux dispositions législatives ou réglementaires et aux
+stipulations contractuelles applicables à son emploi,
+
+déduction faite des sommes antérieurement perçues au titre de la période considérée ;
+
+2° En cas de rupture de la relation de travail, a une indemnité forfaitaire égale à un mois de salaire à moins que
+l'application des règles figurant aux articles L. 122-3-5, L. 122-3-8, L. 122-3-9 (2ème alinéa), L. 122-8 et L. 122-9
+[*relatives aux indemnités de préavis et de licenciement*] ou des stipulations contractuelles correspondantes ne conduise à
+une solution plus favorable.
+
+La juridiction prud'homale saisie peut ordonner par provision le versement de l'indemnité forfaitaire visée à l'alinéa
+précédent.
+
+Ces dernières dispositions ne font pas obstacle au droit du salarié de demander en justice une indemnisation supplémentaire
+s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre desdites dispositions.
+
+**Nota:**
+
+[*Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
+	  - Code du travail - art. L143-13-1 (AbD)
+	  - Code du travail - art. L341-6-2 (AbD)
+	  - Code du travail - art. L831-1 (AbD)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-130 1982-02-05 art. 5 JORF 6 février 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L122-2-1 (P)
+	  - Code du travail - art. L122-3-1 (M)
+	  - Code du travail - art. L122-3-5 (M)
+	  - Code du travail - art. L122-3-8 (M)
+	  - Code du travail - art. L122-3-9 (T)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L341-6 (M)
+	  - Code rural 992 ET S.
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### (en vigueur jusqu'au 1er janvier 2007 au plus tard)
 
 ###### Article L341-1
@@ -23099,67 +23611,6 @@ Miquelon.
 #### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 ##### SECTION 1 : TRAVAILLEURS ETRANGERS.
-
-###### Article L341-6-1
-
-L'étranger employé [*irrégulièrement*] en violation des dispositions de l'alinéa premier de l'article L. 341-6 est assimilé,
-à compter de la date de son embauchage, à un travailleur régulièrement engagé en ce qui concerne les obligations de
-l'employeur relatives à la réglementation du travail définie au livre II du présent code et, pour les professions agricoles,
-aux articles 992 et suivants du code rural, ainsi qu'à la prise en compte de l'ancienneté dans l'entreprise.
-
-En ce qui concerne les avantages pécuniaires, cet étranger a droit au titre de la période d'emploi illicite :
-
-1° Au paiement du salaire et des accessoires de celui-ci conformément aux dispositions législatives ou réglementaires et aux
-stipulations contractuelles applicables à son emploi,
-
-déduction faite des sommes antérieurement perçues au titre de la période considérée ;
-
-2° En cas de rupture de la relation de travail, a une indemnité forfaitaire égale à un mois de salaire à moins que
-l'application des règles figurant aux articles L. 122-2-1, L. 122-3-1, L. 122-8 et L. 122-9 [*relatives aux indemnités de
-préavis et de licenciement*]
-
-ou des stipulations contractuelles correspondantes ne conduise à une solution plus favorable.
-
-La juridiction prud'homale saisie peut ordonner par provision le versement de l'indemnité forfaitaire visée à l'alinéa
-précédent.
-
-Ces dernières dispositions ne font pas obstacle au droit du salarié de demander en justice une indemnisation supplémentaire
-s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre desdites dispositions.
-
-**Nota:**
-
-[*Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
-Miquelon*]
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
-	  - Code du travail - art. L143-13-1 (AbD)
-	  - Code du travail - art. L341-6-2 (AbD)
-	  - Code du travail - art. L831-1 (AbD)
-
-	**Créé par**:
-
-	  - Loi n°81-941 1981-10-17 art. 5 I JORF 20 octobre 1981
-
-	**Cite**:
-
-	  - Code du travail - art. L122-2-1 (P)
-	  - Code du travail - art. L122-3-1 (M)
-	  - Code du travail - art. L122-3-5 (M)
-	  - Code du travail - art. L122-3-8 (M)
-	  - Code du travail - art. L122-3-9 (T)
-	  - Code du travail - art. L122-8 (M)
-	  - Code du travail - art. L122-9 (Ab)
-	  - Code du travail - art. L341-6 (M)
-	  - Code rural 992 ET S.
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
 
 ###### Article L341-7
 
@@ -25056,6 +25507,93 @@ Tout employeur [*obligations*] est tenu de notifier à cette agence toute place 
 
 	**Liens**:
 
+	  - TXT_ASSOCIE: Code du travail - art. R361-1 (V)
+	  - TXT_ASSOCIE: Code du travail L361-1 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L311-4
+
+Il est interdit à toute personne de faire connaître ses offres ou demandes d'emploi soit par voie d'affiche apposée en
+quelque lieu que ce soit, soit par tout autre moyen de publicité. La présente disposition ne s'applique [*non*] ni aux
+professions domestiques ni aux catégories d'offres ou de demandes d'emploi déterminées par voie réglementaire.
+
+Toutefois, les insertions d'offres et de demandes d'emploi dans la presse sont autorisées sous réserve de l'application aux
+offres d'emploi des dispositions ci-après.
+
+Tout employeur qui fait insérer dans un journal, revue ou écrit périodique une offre anonyme d'emploi est tenu de faire
+connaître [*mentions obligatoires*] son nom ou sa raison sociale et son adresse au directeur de la publication. Lorsque
+l'insertion est demandée par une agence de publicité, un organisme de sélection ou tout autre intermédiaire, il appartient à
+ceux-ci de fournir au directeur de la publication les renseignements susvisés concernant l'employeur.
+
+Les directeurs de publication sont tenus de faire connaître simultanément à leur parution et dans des conditions qui seront
+précisées par décret aux directions départementales du travail et de la main-d'oeuvre et aux services de l'agence nationale
+pour l'emploi [*ANPE*], les offres d'emploi qu'il leur est demandé de faire paraître. Dans le cas d'offre anonyme, les
+directions départementales du travail et de la main-d'oeuvre et les services de l'agence nationale pour l'emploi pourront,
+sur simple demande de leur part, obtenir du directeur de la publication les renseignements visés à l'alinéa précédent
+concernant l'employeur. Ces renseignements pourront être utilisés pour l'information des candidats éventuels à l'offre
+d'emploi publiée.
+
+Il est interdit de faire publier dans un journal, revue ou écrit périodique une insertion d'offres d'emploi ou d'offres de
+travaux à domicile comportant :
+
+1. La mention d'une limite d'âge supérieure exigée du postulant à un emploi soumis aux dispositions du code du travail.
+Toutefois, cette interdiction ne concerne pas les offres qui fixent des conditions d'âge imposées par les textes législatifs
+et réglementaires ;
+
+2. Des allégations fausses ou susceptibles d'induire en erreur et portant en particulier sur un ou plusieurs éléments ci-
+après :
+
+l'existence, l'origine, la nature et la description de l'emploi ou du travail à domicile offert, la rémunération et les
+avantages annexes proposés ainsi que le lieu du travail.
+
+3. //LOI 1349 31-12-1975 :
+
+Un texte rédigé en langue étrangère ou contenant des termes étrangers ou des expressions étrangères, lorsqu'il existe une
+expression ou un terme approuvés dans les conditions prévues par le décret du n. 72-19 du 7 janvier 1972 relatif à
+l'enrichissement de la langue française.
+
+Lorsque l'emploi ou le travail offert ne peut être désigné que par un terme étranger sans correspondant en français, le texte
+français doit en comporter une description suffisamment détaillée pour ne pas induire en erreur au sens du paragraphe 2. ci-
+dessus.
+
+Les interdictions portées au 3. ci-dessus ne s'appliquent qu'aux services à exécuter sur le territoire français, quelle que
+soit la nationalité de l'auteur de l'offre ou de l'employeur, et alors même que la parfaite connaissance d'une langue
+étrangère serait une des conditions requises pour tenir l'emploi proposé. Toutefois, les directeurs de publications
+principalement rédigées en langues étrangères peuvent recevoir des offres d'emploi rédigées dans ces langues. En outre, les
+offres d'emploi expressément faites à l'intention de ressortissants étrangers peuvent être rédigées en langue étrangère//.
+
+//ORD. 131 1982-02-05 : Les publicités faites en faveur d'une ou plusieurs entreprises de travail temporaire et les offres
+d'emploi provenant de celles-ci doivent mentionner expressément la dénomination de ces entreprises et leur caractère
+d'entreprise de travail temporaire.//
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1030 1945-05-24 ART. 5
+	  - Loi n°71-558 1971-07-12
+
+	**Cite**:
+
+	  - Décret n°72-19 1972-01-07
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 12 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. L311-4-2 (AbD)
+	  - Code du travail - art. L631-4 (AbD)
+	  - Code du travail - art. R361-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L631-4 (AbD)
 	  - TXT_ASSOCIE: Code du travail - art. R361-1 (V)
 	  - TXT_ASSOCIE: Code du travail L361-1 : SANCTIONS PENALES
 
@@ -34219,6 +34757,136 @@ existant pour l'année de référence définie à l'alinéa précédent.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L432-8 (T)
+
+
+###### Article L432-4
+
+Dans l'ordre économique, le comité d'entreprise exerce, à titre consultatif, les attributions ci-après :
+
+a) Il étudie les mesures envisagées par la direction et les suggestions émises par le personnel en vue d'améliorer la
+production et la productivité de l'entreprise et propose l'application de celles qu'il a retenues :
+
+b) Il propose en faveur des travailleurs ayant apporté par leurs initiatives et leurs propositions, une collaboration
+particulièrement utile à l'entreprise, toute récompense qui lui semble méritée ;
+
+c) Il est obligatoirement informé et consulté sur les questions intéressant l'organisation, la gestion et la marche générale
+de l'entreprise, et notamment sur les mesures de nature à affecter le volume ou la structure des effectifs, la durée du
+travail ou les conditions d'emploi et de travail du personnel. Il peut formuler des voeux sur ces divers points.
+
+//LOI  0005 03-01-1975 : Chaque année, le comité d'entreprise étudie l'évolution de l'emploi dans l'entreprise au cours de
+l'année passée et les prévisions d'emploi établies par l'employeur pour l'année à venir. Le procès-verbal de cette réunion
+est transmis dans un délai de quinze jours à l'autorité administrative compétente//.
+
+Le comité d'entreprise est obligatoirement saisi en temps utile des projets de compression d'effectifs [*licenciement*] ; il
+émet un avis sur l'opération projetée et ses modalités d'application. Cet avis est transmis à l'inspecteur du travail ou à
+l'inspecteur des lois sociales en agriculture [*ARR. 0000 11-04-1972 JORF 21 AVRIL*].
+
+Au cours de chaque trimestre, le chef d'entreprise communique au comité d'entreprise des informations sur l'exécution des
+programmes de production, l'évolution générale des commandes et sur la situation de l'emploi dans l'entreprise. Il informe le
+comité des mesures envisagées en ce qui concerne l'amélioration, le renouvellement ou la transformation de l'équipement ou
+des méthodes de production et d'exploitation et de leurs incidences sur des conditions du travail et d'emploi. Il rend
+compte, en la motivant, de la suite donnée aux avis et voeux émis par le comité ;
+
+d) Il est obligatoirement informé des bénéfices réalisés par l'entreprise et peut émettre des suggestions sur l'affectation à
+leur donner.
+
+Au moins une fois par an [*périodicité*], le chef d'entreprise présente au comité d'entreprise un rapport d'ensemble sur
+l'activité de l'entreprise, le chiffre d'affaires, les résultats globaux de la production et de l'exploitation, l'évolution
+de la structure et du montant des salaires, les investissements, ainsi que sur ses projets pour l'exercice suivant. Il
+soumet, en particulier, au comité un état faisant ressortir l'évolution de la rémunération moyenne horaire et mensuelle, au
+cours de l'exercice et par rapport à l'exercice précédent.
+
+Lorsque l'entreprise revêt la forme d'une société anonyme, la direction est, en outre, tenue de communiquer au comité avant
+leur présentation à l'assemblée générale des actionnaires, le compte des profits et pertes, le bilan annuel et le rapport des
+commissaires aux comptes ainsi que les autres documents qui seraient soumis à l'assemblée générale des actionnaires.
+
+Le comité d'entreprise peut convoquer les commissaires aux comptes, recevoir leurs explications sur les différents postes de
+ces documents ainsi que sur la situation financière de l'entreprise et formuler toutes observations utiles, qui sont
+obligatoirement transmises à l'assemblée générale des actionnaires en même temps que le rapport du conseil d'administration.
+
+Au cours de la réunion consacrée à cet examen, le comité d'entreprise peut se faire assister d'un expert comptable rémunéré
+par l'entreprise.
+
+L'expert comptable peut prendre connaissance des livres comptables énumérés par les articles 8 et suivants du code du
+commerce.
+
+Les membres des comités d'entreprise ont droit aux mêmes communications et aux mêmes copies que les actionnaires et aux mêmes
+époques.
+
+En outre, dans les sociétés /P/anonymes/P/DECR.1046 15-11-1973// deux membres du comité d'entreprise, délégués par le comité
+et appartenant, l'un à la catégorie des cadres et de la maîtrise, l'autre à la catégorie des employés et ouvriers, assistent
+avec voix consultative, à toutes les séances du conseil d'administration ou du conseil de surveillance, selon le cas. //
+DECR.1046 : Dans les sociétés où, en application de l'article L. 433-2 ci-après, il est constitué trois collèges électoraux,
+la délégation du personnel au conseil d'administration ou au conseil de surveillance est portée à quatre membres dont deux
+appartiennent à la catégorie des ouvriers et employés, le troisième à la catégorie de la maitrise et le quatrième à la
+catégorie des ingénieurs, chefs de services et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la
+classification// .
+
+Les comités d'entreprise sont habilités à donner un avis sur les augmentations de prix. Ils peuvent être consulté par les
+fonctionnaires chargés de la fixation et du contrôle des prix.
+
+//ORD. 131 1982-02-05 : Le comité d'entreprise peut prendre connaissance des contrats définis à l'article L. 124-3 passés
+avec les entreprises de travail temporaire pour la mise à disposition des salariés temporaires [*droit de communication*].//
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté  1972-04-11 JORF 21 AVRIL
+	  - Code de commerce 8 ET S.
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L433-2 (M)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-280 1945-02-22
+	  - Loi n°46-1065 1946-05-16
+	  - Décret n°60-606 1960-06-24
+	  - Loi n°66-427 1966-06-18
+	  - Loi n°72-1225 1972-12-29 ART. 1
+	  - Code du travail - art. L432-1 (T)
+	  - Code du travail - art. L432-4 (T)
+	  - Ordonnance 1945-02-22 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°73-1195 du 27 décembre 1973 - art. 1 (V)
+	  - Loi n°2001-7 du 4 janvier 2001 - art. 5 (Ab)
+	  - Code du travail - art. L321-3 (M)
+	  - Code du travail - art. L422-3 (AbD)
+	  - Code du travail - art. L431-3 (Ab)
+	  - Code du travail - art. L432-1-1 (AbD)
+	  - Code du travail - art. L432-10 (AbD)
+	  - Code du travail - art. L432-4-2 (AbD)
+	  - Code du travail - art. L432-4-3 (AbD)
+	  - Code du travail - art. L432-9 (T)
+	  - Code du travail - art. L434-6 (AbD)
+	  - Code du travail - art. L437-1 (Ab)
+	  - Code du travail - art. L438-8 (AbD)
+	  - Code du travail - art. R432-14 (VT)
+	  - Code du travail - art. R432-15 (T)
+	  - Code du travail - art. R432-8 (Ab)
+	  - Code du travail - art. R442-24 (Ab)
+	  - Code monétaire et financier - art. L214-40 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 VIII JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L432-1 (M)
+	  - Code du travail - art. L432-2 (M)
+	  - Code du travail - art. L432-2 (T)
+	  - Code du travail - art. L432-3 (M)
+	  - Code du travail - art. L432-3 (T)
+	  - Code du travail - art. L432-4 (M)
+	  - Code du travail - art. L432-5 (M)
+	  - Code du travail - art. L432-5 (T)
 
 
 ###### Article L432-5
@@ -47986,8 +48654,9 @@ ouvriers.
 Les travailleurs à domicile bénéficient des dispositions législatives et réglementaires applicables aux salariés.
 
 Les conventions collectives peuvent préciser les modalités d'application aux travailleurs à domicile des dispositions des
-articles L. 121-4, L. 121-5, L. 121-6, L. 122-4, L. 122-5, L. 122-9 à L. 122-14, L. 122-16, L. 122-17, L. 122-33 à L. 122-42
-et des dispositions réglementaires prises pour leur application.
+articles L. 121-4 [*interdiction de l'engagement à vie*], L. 122-4, L. 122-5, L. 122-9 à L. 122-14 [*règles propres au
+contrat de travail*], L. 122-16, L. 122-17 [*conséquences de la rupture du contrat*], L. 122-33 à L. 122-42 [*règlement
+intérieur*] et des dispositions réglementaires prises pour leur application.
 
 **Liens relatifs à cet article**
 
@@ -47995,9 +48664,13 @@ et des dispositions réglementaires prises pour leur application.
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-130 1982-02-05 ART. 10 : DATE D'APPLICATION DE L'ORDONNANCE
+
 	**Modifié par**:
 
-	  - Loi n°79-11 1979-01-03 art. 10 JORF 4 janvier 1979
+	  - Ordonnance 82-130 1982-02-05 ART. 6 JORF 6 FEVRIER 1982
 
 	**Cité par**:
 
@@ -48007,21 +48680,21 @@ et des dispositions réglementaires prises pour leur application.
 	**Cite**:
 
 	  - Code du travail - art. L121-4 (AbD)
-	  - Code du travail - art. L121-5 (M)
-	  - Code du travail - art. L121-6 (Ab)
+	  - Code du travail - art. L122-10 (Ab)
+	  - Code du travail - art. L122-11 (Ab)
+	  - Code du travail - art. L122-12 (M)
+	  - Code du travail - art. L122-13 (Ab)
+	  - Code du travail - art. L122-14 (Ab)
 	  - Code du travail - art. L122-16 (AbD)
 	  - Code du travail - art. L122-17 (M)
 	  - Code du travail - art. L122-4 (Ab)
 	  - Code du travail - art. L122-5 (M)
-	  - Code du travail L121-4, L121-5, L121-6, L122-4, L122-5, L122-9 à L122-14, L122-16, L122-17, L122-33 à L122-42
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail L122-4, L122-5, L122-9, L122-10, L122-11, L122-12, L122-13, L122-14, L122-16, L122-17, L122-33 A L122-42, L121-4
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L7413-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1033
 
 
 ##### SALAIRES .
