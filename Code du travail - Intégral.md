@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-08-09
+Version Consolidée au 1974-09-15
 
 # Partie législative ancienne
 
@@ -44192,25 +44192,11 @@ Les délibérations du bureau de jugement sont prises à la majorité absolue de
 
 ##### RECEVABILITE DES DEMANDES .
 
-###### Article R516-1
-
-Les parties peuvent se présenter volontairement devant le bureau de conciliation. Dans ce cas, il est procédé comme si
-l'affaire avait été introduite par une demande directe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ###### Article R516-2
 
-Le défendeur est appelé devant le bureau de conciliation par une simple lettre du secrétaire.
+Les demandes nouvelles dérivant du même contrat de travail sont recevables en tout état de cause, même en appel,
 
-Cette lettre doit être datée et indiquer les nom, profession et domicile du demandeur, l'objet de la demande, le jour et
-l'heure de la comparution [*mentions obligatoires*] . Elle est adressée en franchise postale par les soins du secrétaire ou
-portée par le demandeur, au choix de ce dernier.
+sans que puisse être opposée l'absence de tentative de conciliation.
 
 **Liens relatifs à cet article**
 
@@ -44225,10 +44211,8 @@ portée par le demandeur, au choix de ce dernier.
 
 ###### Article R516-3
 
-Si, au jour fixé par la convocation, le demandeur ne comparaît pas et ne justifie pas d'un cas de force majeure, la cause est
-rayée du rôle et ne peut être reprise qu'une seule fois.
-
-En ce cas, l'intéressé est tenu de renouveler sa demande, à peine de déchéance.
+Les juridictions statuant en matière prud'homale connaissent de toutes les demandes reconventionnelles ou en compensation
+qui, par leur nature, entrent dans leur compétence, même si elles sont formées en cause d'appel.
 
 **Liens relatifs à cet article**
 
@@ -44239,7 +44223,7 @@ En ce cas, l'intéressé est tenu de renouveler sa demande, à peine de déchéa
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R516-2 (V)
-	  - Code du travail R516-16 (1974)
+	  - Code du travail R516-2 al. 2
 
 	**Cité par**:
 
@@ -74345,6 +74329,25 @@ conseil est situé.
 
 La récusation y est jugée en dernier ressort dans la huitaine, sans qu'il soit besoin d'appeler les parties. Avis de la
 décision est immédiatement donné au président du conseil de prud'hommes par les soins du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+### Titre Ier : Conflits individuels - Conseils de prud'hommes
+
+#### Chapitre VI : Procédure devant les conseils de prud'hommes.
+
+##### Section 1 : Recevabilité des demandes.
+
+###### Article R516-1
+
+Toutes les demandes dérivant du contrat de travail entre les mêmes parties doivent [*obligation*], qu'elles émanent du
+demandeur ou du défendeur, faire l'objet d'une seule instance, à moins que le fondement des prétentions ne soit né ou ne soit
+révélé que postérieurement à la saisine du conseil de prud'hommes.
 
 **Liens relatifs à cet article**
 
