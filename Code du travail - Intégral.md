@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-10-03
+Version Consolidée au 1981-10-20
 
 # Partie législative ancienne
 
@@ -22561,6 +22561,47 @@ tous renseignements nécessaires à l'accomplissement de leur mission.
 	  - Code du travail - art. L8271-12 (VD)
 
 
+###### Article L324-14
+
+Celui [*employeur*] qui a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu solidairement
+[*responsabilité*] avec celui-ci au paiement des impôts, taxes et cotisations dus par ce dernier au Trésor et aux organismes
+de sécurité sociale ou de mutualité sociale agricole, à raison des travaux ou services effectués pour son compte.
+
+En ce qui concerne les impôts, taxes et cotisations établis annuellement, le paiement exigible en vertu de l'alinéa précédent
+est fixé au prorata de la valeur des travaux ou services exécutés par les travailleurs clandestins.
+
+Celui qui confie à un entrepreneur inscrit au registre du commerce ou au répertoire des métiers l'exécution d'un certain
+travail ou la fourniture de certains services, alors que cet entrepreneur, ne possédant manifestement pas lui-même les moyens
+pour assurer ces prestations, les sous-traite à son tour à un entrepreneur clandestin, est tenu solidairement avec celui avec
+lequel il a traité et l'entrepreneur clandestin au paiement des salaires et accessoires, impôts, taxes et cotisations dus aux
+salariés, au Trésor et aux organismes de protection sociale à raison des travaux ou services effectués pour son compte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°81-941 1981-10-17 art. 5 II JORF 20 octobre 1981
+
+	**Cité par**:
+
+	  - Décret n°97-213 du 11 mars 1997 - art. 11 (Ab)
+	  - Décret n°2001-659 du 19 juillet 2001 - art. Annexe I, article 6 (An)
+	  - Décret n°2003-1295 du 26 décembre 2003 - art. Annexe I (VT)
+	  - Décret n°2008-371 du 18 avril 2008 - art. 9 (V)
+	  - Code du travail - art. L324-12 (AbD)
+	  - Code du travail - art. L324-14-1 (AbD)
+	  - Code du travail - art. L611-9 (M)
+	  - Code du travail - art. R324-2 (VT)
+	  - Code du travail - art. R324-3 (VT)
+	  - Code du travail - art. R324-4 (VT)
+	  - Code du travail - art. R324-5 (VT)
+	  - Code du travail - art. R324-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L324-15
 
 Un décret en Conseil d'Etat détermine les conditions d'application des dispositions de la présente section.
@@ -22806,11 +22847,133 @@ Miquelon.
 	  - Code du travail - art. L5221-4 (VD)
 
 
+###### Article L341-6-2
+
+Les organisations syndicales représentatives peuvent exercer en justice les actions nées en faveur des travailleurs étrangers
+en vertu des dispositions de l'article L. 341-6-1 du présent code, sans avoir à justifier d'un mandat de l'intéressé, à
+condition que celui-ci n'ait pas déclaré s'y opposer. L'intéressé peut toujours intervenir à l'instance engagée par le
+syndicat.
+
+**Nota:**
+
+*Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon*
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°81-941 1981-10-17 art. 6 JORF 20 octobre 1981
+
+	**Cite**:
+
+	  - Code du travail - art. L341-6-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8255-1 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L831-1 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L341-6-3
+
+Les associations régulièrement constituées depuis cinq ans au moins pour la lutte contre les discriminations peuvent saisir
+les organisations syndicales représentatives pour leur demander d'exercer devant toutes les juridictions tous les droits
+réservés à la partie civile pour toutes les infractions relatives à l'emploi de la main-d'oeuvre étrangère.
+
+**Nota:**
+
+Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°81-941 1981-10-17 art. 7 JORF 20 octobre 1981
+
+	**Cité par**:
+
+	  - Code du travail - art. L831-1 (AbD)
+
+
 ### Titre IV : MAIN-D'OEUVRE ETRANGERE
 
 #### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 ##### SECTION 1 : TRAVAILLEURS ETRANGERS.
+
+###### Article L341-6-1
+
+L'étranger employé [*irrégulièrement*] en violation des dispositions de l'alinéa premier de l'article L. 341-6 est assimilé,
+à compter de la date de son embauchage, à un travailleur régulièrement engagé en ce qui concerne les obligations de
+l'employeur relatives à la réglementation du travail définie au livre II du présent code et, pour les professions agricoles,
+aux articles 992 et suivants du code rural, ainsi qu'à la prise en compte de l'ancienneté dans l'entreprise.
+
+En ce qui concerne les avantages pécuniaires, cet étranger a droit au titre de la période d'emploi illicite :
+
+1° Au paiement du salaire et des accessoires de celui-ci conformément aux dispositions législatives ou réglementaires et aux
+stipulations contractuelles applicables à son emploi,
+
+déduction faite des sommes antérieurement perçues au titre de la période considérée ;
+
+2° En cas de rupture de la relation de travail, a une indemnité forfaitaire égale à un mois de salaire à moins que
+l'application des règles figurant aux articles L. 122-2-1, L. 122-3-1, L. 122-8 et L. 122-9 [*relatives aux indemnités de
+préavis et de licenciement*]
+
+ou des stipulations contractuelles correspondantes ne conduise à une solution plus favorable.
+
+La juridiction prud'homale saisie peut ordonner par provision le versement de l'indemnité forfaitaire visée à l'alinéa
+précédent.
+
+Ces dernières dispositions ne font pas obstacle au droit du salarié de demander en justice une indemnisation supplémentaire
+s'il est en mesure d'établir l'existence d'un préjudice non réparé au titre desdites dispositions.
+
+**Nota:**
+
+[*Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
+	  - Code du travail - art. L143-13-1 (AbD)
+	  - Code du travail - art. L341-6-2 (AbD)
+	  - Code du travail - art. L831-1 (AbD)
+
+	**Créé par**:
+
+	  - Loi n°81-941 1981-10-17 art. 5 I JORF 20 octobre 1981
+
+	**Cite**:
+
+	  - Code du travail - art. L122-2-1 (P)
+	  - Code du travail - art. L122-3-1 (M)
+	  - Code du travail - art. L122-3-5 (M)
+	  - Code du travail - art. L122-3-8 (M)
+	  - Code du travail - art. L122-3-9 (T)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail - art. L341-6 (M)
+	  - Code rural 992 ET S.
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L341-7
 
@@ -23039,260 +23202,6 @@ Miquelon*]
 	**Anciens textes**:
 
 	  - Ordonnance 1945-11-02 art. 32
-
-
-### Chapitre II : Protection de la main-d'oeuvre nationale.
-
-###### Article L342-1
-
-Les cahiers des charges des marchés de travaux publics ou de fournitures passés au nom de l'Etat, des départements, des
-communes ou des établissements publics, par adjudication de gré à gré, ainsi que les cahiers des charges des contrats de
-concessions et d'affermage passés par ces mêmes collectivités, doivent déterminer la proportion des travailleurs étrangers
-qui peuvent être employés dans les chantiers ou ateliers organisés ou fonctionnant en vue de l'exécution des marchés, ainsi
-que dans les exploitations concédées ou affermées.
-
-Cette proportion est fixée après consultation des services publics de l'emploi.
-
-Dans les services concédés, cette proportion ne peut pas dépasser 5 p. 100.
-
-Les mêmes collectivités fixent, dans les mêmes conditions, la proportion des travailleurs étrangers qui peuvent être occupés
-à des travaux, fournitures ou services qu'ils font exécuter en régie.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981
-
-	**Cité par**:
-
-	  - Loi n°2002-1062 du 6 août 2002 - art. 23 (V)
-	  - Décret n°2007-1739 du 11 décembre 2007 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (VD)
-	  - Code du travail - art. D342-1 (VT)
-	  - Code du travail - art. D342-10 (VT)
-	  - Code du travail - art. L342-2 (AbD)
-	  - Code du travail - art. L342-3 (VT)
-	  - Code du travail - art. L342-4 (Ab)
-	  - Code du travail - art. L342-5 (Ab)
-	  - Code du travail - art. L342-6 (Ab)
-	  - Code du travail - art. R341-1-1 (VT)
-	  - Code du travail - art. R341-3-1 (VT)
-	  - Code du travail - art. R341-30-1 (VT)
-	  - Code du travail - art. R342-1 (VT)
-	  - Code du travail - art. R342-10 (VT)
-	  - Code du travail - art. R342-4 (VT)
-	  - Code du travail - art. R342-5 (VT)
-	  - Code du travail - art. R342-6 (VT)
-	  - Code du travail - art. R342-8 (VT)
-	  - Code du travail - art. R364-2 (P)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. D342-12 (V)
-	  - TXT_ASSOCIE: Code du travail - art. L342-4 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L342-6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi   1932-08-10 ART. 1
-
-
-###### Article L342-2
-
-En ce qui concerne les entreprises privées, industrielles ou commerciales non énumérées à l'article précédent, la proportion
-des travailleurs étrangers qui peuvent y être employés est fixée par arrêtés du ministre chargé du travail et du ou des
-ministres intéressés. Cette proportion est établie par profession, par industrie, par commerce ou par catégorie
-professionnelle pour l'ensemble du territoire ou pour une région.
-
-Le cas échéant, sont fixés les délais dans lesquels cette proportion est ramenée en une ou plusieurs étapes, aux limitations
-établies.
-
-Les arrêtés ci-dessus prévus sont pris d'office, soit à la demande d'une ou plusieurs organisations patronales ou ouvrières
-nationales ou régionales intéressées.
-
-Dans l'un et l'autre cas, ces organisations doivent être consultées ; elles disposent d'un mois pour donner leur avis.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981
-
-	**Cité par**:
-
-	  - Code du travail - art. D342-13 (VT)
-	  - Code du travail - art. L342-3 (Ab)
-	  - Code du travail - art. L342-4 (Ab)
-	  - Code du travail - art. L342-5 (Ab)
-	  - Code du travail - art. L342-6 (Ab)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. R342-1 (VT)
-	  - Code du travail - art. R364-2 (P)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1261-3 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L342-1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L342-4 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L342-6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi   1932-08-10 ART. 2
-
-
-###### Article L342-3
-
-Les conditions d'application des articles L. 342-1 et L. 342-2 aux ouvriers dits "frontaliers" et "saisonniers" résidant à
-l'étranger et travaillant à l'intérieur du territoire français s'ils possèdent la nationalité du pays où ils résident sont
-fixées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981
-
-	**Cité par**:
-
-	  - Loi n°2005-882 du 2 août 2005 - art. 89 (V)
-	  - Code du travail - art. L341-4 (AbD)
-	  - Code du travail - art. L341-6-4 (AbD)
-	  - Code du travail - art. L341-7 (AbD)
-	  - Code du travail - art. L342-4 (Ab)
-	  - Code du travail - art. L364-8 (AbD)
-	  - Code du travail - art. R342-1 (VT)
-	  - Code du travail - art. R342-12 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L342-1 (Ab)
-	  - Code du travail - art. L342-2 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L342-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1932-08-10 ART. 4
-
-
-###### Article L342-4
-
-Les dispositions qui précèdent s'appliquent aux travailleurs à domicile employés par les entreprises privées énumérées aux
-articles L. 342-1 et L. 342-2.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R330-2-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1262-3 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L342-1 (Ab)
-	  - Code du travail - art. L342-2 (Ab)
-	  - Code du travail - art. L342-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L342-1 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L342-2 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L342-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1932-08-10 ART. 6
-
-
-###### Article L342-6
-
-Des dérogations aux dispositions des articles L. 342-1 et L. 342-2 peuvent être accordées soit par région et par catégorie
-professionnelle soit à titre temporaire par entreprise ou établissement.
-
-Un décret fixe les conditions dans lesquelles les dérogations ci-dessus peuvent être accordées. Il détermine également des
-modalités des conventions prévues à l'article L. 342-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L342-1 (Ab)
-	  - Code du travail - art. L342-2 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L342-1 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L342-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Décret-loi  1938-05-02
-	  - Loi   1932-08-10 ART. 7
-
-	**Abrogé par**:
-
-	  - Loi n°81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981
-
-
-###### Article L342-7
-
-Les dispositions du présent chapitre sont applicables notamment aux salariés des offices publics et ministériels, aux
-professions libérales, des sociétés civiles, des syndicats professionnels et associations de quelque nature que ce soit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi   1941-03-21 ART. 1 AL. 5
-
-	**Abrogé par**:
-
-	  - Loi n°81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE
-
-	**Cite**:
-
-	  - Code du travail L342-1 A L342-7
 
 
 ### Titre V : TRAVAILLEURS PRIVES D'EMPLOI
@@ -27795,42 +27704,6 @@ importance un caractère professionnel.
 	  - Loi n°72-648 1972-07-11 ART. 3
 
 
-###### Article L324-14
-
-Celui [*employeur*] qui a été condamné pour avoir recouru aux services d'un travailleur clandestin est tenu [*obligation*]
-solidairement avec celui-ci au paiement des impôts, taxes et cotisations dus par ce dernier au Trésor et aux organismes de
-sécurité sociale ou de mutualité sociale ou de mutualité sociale agricole, à raison des travaux ou services effectués pour
-son compte.
-
-En ce qui concerne les impôts, taxes et cotisations établis annuellement, le paiement exigible en vertu de l'alinéa précédent
-est fixé au prorata de la valeur des travaux ou services exécutés par les travailleurs clandestins.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-648 1972-07-11 ART. 7
-
-	**Cité par**:
-
-	  - Décret n°97-213 du 11 mars 1997 - art. 11 (Ab)
-	  - Décret n°2001-659 du 19 juillet 2001 - art. Annexe I, article 6 (An)
-	  - Décret n°2003-1295 du 26 décembre 2003 - art. Annexe I (VT)
-	  - Décret n°2008-371 du 18 avril 2008 - art. 9 (V)
-	  - Code du travail - art. L324-12 (AbD)
-	  - Code du travail - art. L324-14-1 (AbD)
-	  - Code du travail - art. L611-9 (M)
-	  - Code du travail - art. R324-2 (VT)
-	  - Code du travail - art. R324-3 (VT)
-	  - Code du travail - art. R324-4 (VT)
-	  - Code du travail - art. R324-5 (VT)
-	  - Code du travail - art. R324-7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ## PLACEMENT ET EMPLOI
 
 ### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
@@ -27844,11 +27717,13 @@ travail mentionnée à l'article L. 341-2. Cette autorisation [*mentions obligat
 zone dans laquelle l'étranger peut exercer son activité. Cette autorisation est délivrée dans des conditions qui sont fixées
 par un règlement d'administration publique.
 
+L'étranger qui a obtenu le statut de réfugié est dispensé de cette autorisation.
+
+LOI 514 1980-07-07 : Dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
+d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
+décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
 
 	**Cité par**:
 
@@ -27861,13 +27736,17 @@ par un règlement d'administration publique.
 	  - Code du travail - art. L831-1 (AbD)
 	  - Code du travail - art. R341-2-3 (VT)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 1945-11-02 ART. 7 (PARTIE)
+	  - Loi n°81-941 1981-10-17 ART. 1 JORF 20 OCTOBRE 1981
 
 	**Cite**:
 
 	  - Code du travail - art. L341-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L341-6
