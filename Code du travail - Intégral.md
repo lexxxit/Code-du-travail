@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-01-05
 
 # Partie législative ancienne
 
@@ -29040,9 +29040,9 @@ Un salarié privé d'emploi peut bénéficier des dispositions ci-dessus au plus
 
 Les prestations mentionnées aux articles L. 351-5 et L. 351-6 sont insaisissables et incessibles dans les conditions fixées
 aux articles L. 145-1 à L. 145-3 du présent code. Elles sont exonérées du versement forfaitaire sur les salaires et des
-cotisations de sécurité sociale //LOI  1129 28-12-1979 : sous réserve de l'article 12 de l'ordonnance n° 67-706 du 21 août
-1967, de l'article L. 3-2 du code de la sécurité sociale et de l'article 1031 du code rural// ; les régles fixées à
-l'articles 158-5 du code général des impôts leurs sont applicables.
+cotisations de sécurité sociale sous réserve de l'application de l'article 13 de l'ordonnance n° 67-706 du 21 août 1967, de
+l'article L. 3-2 du code de la sécurité sociale, de l'article 1031 du code rural et de l'article 6 de la loi n° 82-1 du 4
+janvier 1982 ; les règles fixées à l'article 158-5 du code général des impôts sont applicables.
 
 Les contributions des employeurs prévues à l'article L. 351-12 ne sont passibles ni du versement forfaitaire sur les salaires
 ni des cotisations de sécurité sociale. Elles sont déductibles pour l'établissement de l'impôt sur le revenu des personnes
@@ -29051,20 +29051,22 @@ physiques ou de l'impôt sur des sociétés dû par ces employeurs.
 Les contributions payées dans les mêmes conditions par les travailleurs sont déductibles pour l'établissement de l'impôt sur
 le revenu des personnes physiques dû par les intéressés.
 
-Les dispositions des alinéas 2 et 3 ci-dessus sont applicables aux allocations et contributions versées en vue d'indemniser
-la privation partielle d'emploi, lorsque cette indemnisation résulte d'accords professionnels, ou interprofessionnels,
-nationaux ou régionaux.
+Sous réserve de l'article 6 de la loi n° 82-1 du 4 janvier 1982 les dispositions des alinéas 2 et 3 ci-dessus sont
+applicables aux allocations et contributions versées en vue d'indemniser la privation partielle d'emploi, lorsque cette
+indemnisation résulte d'accords professionnels, ou interprofessionnels, nationaux ou régionaux.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 158 AL. 5
-	  - Ordonnance 67-706 1967-08-21
+	  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
+	  - Code du travail - art. L145-1 (M)
+	  - Code du travail - art. L145-2 (M)
+	  - Code du travail - art. L145-3 (M)
 	  - Code du travail - art. L351-12 (M)
 	  - Code du travail - art. L351-5 (M)
 	  - Code du travail - art. L351-6 (M)
-	  - Code du travail L351-5, L351-6, L351-12, L145-1 A L145-3
 	  - Code de la sécurité sociale L3-2
 	  - Code rural 1031
 
@@ -29094,7 +29096,7 @@ nationaux ou régionaux.
 
 	**Modifié par**:
 
-	  - Loi n°79-1129 1979-12-28 ART. 8 JORF 29 DECEMBRE 1979
+	  - Loi n°82-1 1982-01-04 ART. 7 III ET IV JORF 5 JANVIER 1982
 
 	**Liens**:
 
@@ -43509,6 +43511,42 @@ du travail au 1er mai 2008.
 	  - Code du travail - art. L5424-13 (VD)
 
 
+###### Article L731-7
+
+Les indemnités accordées aux travailleurs du bâtiment et des travaux publics en cas d'intempéries en exécution du présent
+chapitre ne sont pas considérées comme constituant un salaire et ne donnent pas lieu en conséquence au versement de
+cotisations pour charges sociales à l'exception de celles concernant l'application de la législation sur les congés payés et
+de celles qui sont prévues à l'article 6 de la loi n° 82-1 du 4 janvier 1982 [*assurance maladie, maternité, invalidité et
+décès*].
+
+Toutefois, les dispositions des chapitres III, IV et V du titre IV du livre 1er [*L. 143-1 à L. 146-1, paiement des salaires,
+retenues sur salaires, saisie-arrêt, cession de rémunération par l'employeur*] du présent code et de l'article 2101 du code
+civil sont applicables au paiement des indemnités prévues pour intempéries.
+
+En vue de la détermination du droit des intéressés aux diverses prestations de la sécurité sociale, les périodes pour
+lesquelles ils ont bénéficié des indemnités pour intempéries sont assimilées, pour une même durée, à des périodes de chômage
+involontaire constatées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°82-1 1982-01-04 ART. 7 I JORF 5 JANVIER 1982
+
+	**Cite**:
+
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6, v. init.
+	  - Code civil - art. 2101 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5424-14 (VD)
+
+
 ###### Article L731-8
 
 L'arrêt du travail en cas d'intempéries est décidé par l'entrepreneur ou par son représentant sur le chantier après
@@ -47949,52 +47987,6 @@ collective de travail, applicable pour le travail exécuté le jour de repos heb
 	**Anciens textes**:
 
 	  - Code du travail 1033 M
-
-
-### BATIMENTS ET TRAVAUX PUBLICS
-
-#### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
-
-###### Article L731-7
-
-Les indemnités accordées aux travailleurs du bâtiment et des travaux publics en cas d'intempéries en exécution du présent
-chapitre ne sont pas considérées comme constituant un salaire et ne donnent pas lieu en conséquence au versement de
-cotisations pour charges sociales à l'exception de celles concernant l'application de la législation sur les congés payés.
-
-Toutefois, les dispositions des chapitres III, IV ET V du titre IV du livre 1er [*L. 143-1 A L. 146-1 ; paiement des
-salaires, Retenues sur salaires, Saisie-Arrêt, Cession de rémunération par l'employeur*] du présent code et de l'article 2101
-du code civil /A/et 530 du code de commerce/A/LOI  0623 10-07-1973// sont applicables au paiement des indemnités prévues pour
-intempéries.
-
-En vue de la détermination du droit des intéressés aux diverses prestations de la sécurité sociale, les périodes pour
-lesquelles /R/les uns ont bénéficié/R/LOI  0623 : ils ont bénéficié// des indemnités pour intempéries sont assimilées, pour
-une même durée, à des périodes de chômage involontaire constatées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-623 1973-07-10 ART. 11 (I, II)
-	  - Décret n°1949-03-01
-	  - Loi n°1946-10-21 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code de commerce 530
-	  - Code civil - art. 2101 (M)
-	  - Code du travail L143-1 A L146-1
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5424-14 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R731-1 à R731-13
 
 
 ### TRANSPORTS ET TELECOMMUNICATIONS
