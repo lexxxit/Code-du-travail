@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-07-26 00:00:01 +0100
+Version Consolidée au 1975-08-15
 
 # Partie législative ancienne
 
@@ -59656,24 +59656,28 @@ moins de dix-huit ans [*âge*] qu'ils emploient.
 
 ###### Article R234-2
 
-Il est interdit d'employer des jeunes travailleurs de moins de dix-huit ans ou des femmes à la confection, à la manutention
-et à la vente d'écrits imprimés, affiches, dessins, gravures, peintures, emblèmes, images ou autres objets dont la vente,
-l'offre, l'exposition, l'affichage ou la distribution sont réprimés par les lois pénales comme contraires aux bonnes moeurs.
+Il est interdit d'employer des jeunes travailleurs de moins de dix-huit ans à la confection, à la manutention et à la vente
+d'écrits imprimés, affiches, dessins, gravures, peintures, emblèmes, images ou autres objets dont la vente, l'offre,
+l'exposition, l'affichage ou la distribution sont réprimés par les lois pénales comme contraires aux bonnes moeurs.
 
-Il est également interdit d'employer à aucun genre de travail des jeunes travailleurs de moins de seize ans et des femmes
-âgées de moins de vingt et un ans dans les locaux où sont confectionnés, manutentionnés ou vendus des écrits, imprimés,
-affiches, gravures, peintures, emblèmes, images ou autres objets qui, même s'ils ne tombent pas sous l'action des lois
-pénales, sont de nature à blesser leur moralité.
+Il est également interdit d'employer à aucun genre de travail des jeunes travailleurs de moins de seize ans dans les locaux
+où sont confectionnés, manutentionnés ou vendus des écrits, imprimés, affiches, gravures, peintures, emblèmes, images ou
+autres objets qui, même s'ils ne tombent pas sous l'action des lois pénales, sont de nature à blesser leur moralité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1914-03-21 art. 12
-
 	**Codifié par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D4153-15 (V)
+	  - Code du travail - art. D4153-16 (V)
 
 
 ##### Section 1 : Hygiène.
@@ -59695,6 +59699,34 @@ Les jeunes travailleurs de moins de dix-huit ans [*âge*] ne peuvent y être emp
 
 	  - Code du travail - art. D4153-17 (V)
 	  - Code du travail - art. D4153-19 (V)
+
+
+###### Article R234-4
+
+L'emploi des jeunes travailleurs de moins de dix-huit ans [*âge*] aux étalages extérieurs mentionnés au premier alinéa de
+l'article précédent est interdit d'une façon absolue après 20 heures ou lorsque la température est inférieure à 0° C
+[*limite*].
+
+L'emploi auxdits étalages des femmes qui se sont déclarées enceintes est interdit d'une façon absolue après 22 heures ou
+lorsque la température est inférieure à 0° C. Il en est de même de l'emploi des femmes pour lesquelles le médecin du travail
+estime nécessaire cette interdiction.
+
+En cas de froid, des moyens de chauffage suffisants sont aménagés pour les employés à l'intérieur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+	  - SPEC_APPLI: Code du travail R234-4-1 : ETEND L'APPLICATION AUX STANDS AGRICOLES
+
+	**Cité par**:
+
+	  - Code du travail - art. R234-4-1 (VT)
 
 
 ##### Section 2 : Limitation des charges.
@@ -59765,60 +59797,40 @@ Personnel féminin de seize ans et plus : 60 kg (véhicule compris).
 
 Personnel masculin de moins de dix-huit ans et personnel féminin de dix-huit ans et plus : 130 kg (véhicule compris).
 
-6. Transport sur tricycles porteurs à pédales. Personnel masculin de moins de seize ans : 50 kg (véhicules compris) ;
-Personnel masculin de seize ou dix-sept ans : 75 kg (véhicules compris) ;
+6. Transport sur tricycles porteurs à pédales est interdit aux femmes de moins de dix-huit ans.
 
-Les modes de transports énoncés aux 3. et 5. ci-dessus sont interdits aux femmes de moins de dix-huit ans.
+Personnel de moins de seize ans : 50 kg (véhicule compris).
 
-Le transport sur tricycles porteurs à pédales est interdit aux femmes.
+Personnel de seize ou dix-sept ans et personnel féminin de dix-huit ans et plus : 75 kg (véhicule compris).
 
-Le transport sur diables ou cabrouets est interdit au personnel masculin de moins de dix-huit ans et aux femmes.
+7. Transport sur diables et cabrouets.
+
+Le transport sur diables ou cabrouets est interdit au personnel de moins de dix-huit ans.
+
+Personnel féminin de dix-huit ans et plus : 40 kg (véhicule compris).
+
+Les modes de transport énumérés aux 3. et 5. ci-dessus sont interdits aux femmes de moins de dix-huit ans.
+
+Les modes de transport énumérés aux 6. et 7. ci-dessus sont interdits aux femmes qui se sont déclarées enceintes ainsi qu'aux
+femmes pour lesquelles le médecin du travail estime nécessaire cette interdiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
 
 	**Cité par**:
 
 	  - Arrêté du 15 juin 1993 - art. Annexe (Ab)
 	  - Décret n°2006-534 du 10 mai 2006 - art. 8 (V)
 
-	**Cite**:
-
-	  - Code du travail - art. R234-5 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1909-12-28 art. 1 al. 2, 3, 4, 5
-
-
-###### Article R234-7
-
-Il est interdit de faire porter, pousser ou traîner une charge quelconque par des femmes dans les trois semaines [*période*]
-qui suivent leurs couches. L'interdiction ne s'applique que lorsque l'intéressée a fait connaître au chef de l'établissement
-la date de ses couches.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 
 ##### Section 3 : Travaux interdits aux femmes.
-
-###### Article R234-8
-
-Il est interdit d'employer les femmes à la réparation en marche, des machines, mécanismes ou organes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 
 ###### Article R234-9
 
@@ -67898,33 +67910,6 @@ de façon non exclusive.
 	**Anciens textes**:
 
 	  - Code du travail 2066 c AL. FINAL
-
-
-#### DISPOSITIONS PARTICULIERES AUX FEMMES ET AUX JEUNES TRAVAILLEURS
-
-##### HYGIENE .
-
-###### Article R234-4
-
-L'emploi des jeunes travailleurs de moins de dix-huit ans et des femmes aux étalages extérieurs mentionnés au premier alinéa
-de l'article précédent est interdit d'une façon absolue après huit heures du soir ou lorsque la température est inférieure à
-0 degré centigrade.
-
-En cas de froid, des moyens de chauffage suffisants sont aménagés pour les employés à l'intérieur de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R234-4-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail R234-3 AL. 1
 
 
 ### HYGIENE
