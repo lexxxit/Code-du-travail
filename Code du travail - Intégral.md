@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-09-29
+Version Consolidée au 1977-09-30
 
 # Partie législative ancienne
 
@@ -46029,7 +46029,108 @@ salaire minimum de croissance de chaque département d'outre-mer en application 
 
 ### Titre II : Réglementation du travail
 
+#### Chapitre Ier : Durée du travail.
+
+###### Article L821-1
+
+Les modalités d'application [*des décrets pris en conseil des ministres*] de l'article L. 212-2 sont déterminées par arrêté
+préfectoral dans les départements [*outre-mer*] de la Guyane, de la Guadeloupe, de la Martinique, de la Réunion et de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-592 1948-03-30 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-285 du 30 mars 2000 - art. 5 (V) JORF 1er avril 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L212-2 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3422-1 (VD)
+
+
 #### Chapitre II : Services médicaux du travail.
+
+###### Article L822-1
+
+Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-
+Miquelon, les dispositions du titre IV du Livre II relatives aux services médicaux du travail ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-285 du 30 mars 2000 - art. 5 (V) JORF 1er avril 2000
+
+	**Cité par**:
+
+	  - Code du travail - art. D822-2 (Ab)
+	  - Code du travail - art. L822-3 (M)
+
+	**Cite**:
+
+	  - Code du travail L241-1 A L241-11
+
+
+###### Article L822-2
+
+Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-
+Miquelon, les établissements énumérés à l'article L.  231-1 du présent code ainsi que les entreprises de transport par fer,
+par route, par eau ou par air, les mines et carrières doivent organiser des services médicaux du travail [*obligation*].
+
+Ces services sont assurés comme il est dit à l'article L. 241-2 par des médecins du travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-592 1948-03-30 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-285 du 30 mars 2000 - art. 5 (V) JORF 1er avril 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L241-2 (M)
+	  - Code du travail - art. L321-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L822-3 (Ab)
+	  - Code du travail - art. L882-1 (Ab)
+	  - Code du travail - art. R822-1 (VT)
+	  - Code du travail - art. R882-1 (VT)
+	  - Code rural - art. L717-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L882-1 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
+
 
 ###### Article L822-3
 
@@ -46110,6 +46211,36 @@ organisé le contrôle sont déterminées par voie réglementaire.
 
 
 #### Chapitre II : Emploi
+
+##### Section 1 : Protection de la main-d'oeuvre nationale.
+
+###### Article L832-1
+
+Les dispositions du chapitre II du titre IV du Livre III ne sont pas applicables [*non*] dans les départements [*outre-mer*]
+de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Nota:**
+
+[*Nota : Dispositions caduques*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R881-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail L342-1 A L342-7
+
+	**Anciens textes**:
+
+	  - Décret n°48-502 1948-08-30 ART. 1 III AL. 12-2
+
 
 ##### Section 2 : Prime de mobilité des jeunes.
 
@@ -46222,98 +46353,6 @@ tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 ## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
 
-### REGLEMENTATION DU TRAVAIL
-
-#### DUREE DU TRAVAIL .
-
-###### Article L821-1
-
-Les modalités d'application [*des décrets pris en conseil des ministres*] de l'article L. 212-2 sont déterminées par arrêté
-préfectoral dans les départements [*outre-mer*] de la Guyane, de la Guadeloupe, de la Martinique et de la Réunion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°48-592 1948-03-30 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L212-2 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L212-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3422-1 (VD)
-
-
-#### SERVICES MEDICAUX DU TRAVAIL .
-
-###### Article L822-1
-
-Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les dispositions du
-titre IV du Livre II relatives aux services médicaux du travail ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D822-2 (Ab)
-	  - Code du travail - art. L822-3 (M)
-
-	**Cite**:
-
-	  - Code du travail L241-1 A L241-11
-
-
-###### Article L822-2
-
-Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les établissements
-énumérés à l'article L. 231-1 du présent code ainsi que les entreprises de transport par fer, par route, par eau ou par air,
-les mines et carrières doivent organiser des services médicaux du travail [*obligation*].
-
-Ces services sont assurés comme il est dit à l'article L. 241-2 par des médecins du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°48-592 1948-03-30 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L241-2 (M)
-	  - Code du travail - art. L321-1 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. L822-3 (Ab)
-	  - Code du travail - art. L882-1 (Ab)
-	  - Code du travail - art. R822-1 (VT)
-	  - Code du travail - art. R882-1 (VT)
-	  - Code rural - art. L717-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L882-1 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
-
-
 ### PLACEMENT ET EMPLOI
 
 #### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
@@ -46374,34 +46413,6 @@ celle mentionnée sur ladite carte.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R883-1 (V)
-
-
-#### EMPLOI
-
-##### PROTECTION DE LA MAIN-D'OEUVRE NATIONALE .
-
-###### Article L832-1
-
-Les dispositions du chapitre II du titre IV du Livre III ne sont pas applicables [*non*] dans les départements [*outre-mer*]
-de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R881-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail L342-1 A L342-7
-
-	**Anciens textes**:
-
-	  - Décret n°48-502 1948-08-30 ART. 1 III AL. 12-2
 
 
 #### GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
@@ -106176,6 +106187,48 @@ conclus dans les départements d'outre-mer à compter du 1er octobre 1973 [*date
 	  - Code du travail L115-1 A L119-4
 
 
+###### Article D811-2
+
+Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique de la Réunion et de Saint-Pierre-et-
+Miquelon les conventions portant création de centres de formation d'apprentis doivent être conformes [*condition*] à une
+convention type propre à ces départements, établie par arrêté conjoint des ministres de l'éducation nationale, de
+l'agriculture, de l'économie et des finances, du développement industriel et scientifique, du commerce et de l'artisanat, des
+départements et territoires d'outre-mer et du secrétaire d'Etat chargé de la jeunesse, des sports et des loisirs.
+
+La convention type est assortie d'annexes pédagogiques établies par branche professionnelle ou type de métier. Ces annexes
+pédagogiques sont les mêmes que celles qui sont applicables dans les départements métropolitains en vertu de l'article R.
+116-1, alinéa 2. Toutefois, elles ne sont applicables dans chacun des départements ci-dessus visés qu'après avis de leur
+comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, qui peut proposer toute mesure
+d'adaptation. Les adaptations sont opérées, le cas échéant, selon les règles fixées par l'alinéa 1er du présent article.
+
+Sont obligatoires les clauses de la convention type qui correspondent aux dispositions des articles D. 811-3 à D. 811-11, D.
+811-14 et D. 811-21.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-14 (Ab)
+	  - Code du travail - art. D811-21 (Ab)
+	  - Code du travail - art. R116-1 (M)
+
+
 ###### Article D811-3
 
 Les conventions [*contenu*] doivent définir l'aire normale de recrutement des apprentis et la ou les spécialisations
@@ -108523,6 +108576,36 @@ chaque département d'outre-mer.
 
 ##### Section 1 : Organisation et fonctionnement des services médicaux du travail.
 
+###### Article D822-1
+
+Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique /R/et de la Réunion/R/ORD. 1102
+26-09-1977 : de la Réunion et de Saint-Pierre-et-Miquelon// les dispositions du titre IV du livre II /M/ne sont pas
+applicables /M/DECR.0808 19-09-1974 : sont applicables, sous réserve des dispositions spéciales prévues au présent
+chapitre//.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-176 1967-02-22
+	  - Décret n°67-175 1967-02-22
+	  - Décret n°67-177 1967-02-22
+	  - Décret n°68-183 1968-02-14
+	  - Décret n°69-623 1969-06-13
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984
+
+	**Cite**:
+
+	  - Code du travail L241-1 A L241-11
+
+
 ###### Article D822-2
 
 Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique /R/et de la Réunion/R/ORD. 1102
@@ -109403,43 +109486,6 @@ Les modalités d'application des dispositions des articles R. 761-4 et suivants 
 ### CONVENTIONS RELATIVES AU TRAVAIL
 
 #### APPRENTISSAGE
-
-##### CENTRES DE FORMATION D'APPRENTIS
-
-##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS .
-
-###### Article D811-2
-
-Dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les conventions
-portant création de centres de formation d'apprentis doivent être conformes [*condition*] à une convention type propre à ces
-départements, établie par arrêté conjoint des ministres de l'éducation nationale, de l'agriculture, de l'économie et des
-finances, du développement industriel et scientifique, du commerce et de l'artisanat, des départements et territoires
-d'outre-mer et du secrétaire d'Etat chargé de la jeunesse, des sports et des loisirs.
-
-La convention type est assortie d'annexes pédagogiques établies par branche professionnelle ou type de métier. Ces annexes
-pédagogiques sont les mêmes que celles qui sont applicables dans les départements métropolitains en vertu de l'article R.
-116-1, alinéa 2. Toutefois, elles ne sont applicables dans chacun des départements ci-dessus visés qu'après avis de leur
-comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, qui peut proposer toute mesure
-d'adaptation. Les adaptations sont opérées, le cas échéant, selon les règles fixées par l'alinéa 1er du présent article.
-
-Sont obligatoires les clauses de la convention type qui correspondent aux dispositions des articles D. 811-3 à D. 811-11, D.
-811-14 et D. 811-21.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R116-1 (M)
-	  - Code du travail D811-3 A D811-11, D811-14 ET D811-21
-
 
 ##### CONTRAT D'APPRENTISSAGE
 
