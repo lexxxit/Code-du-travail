@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-06 00:00:01 +0100
+Version Consolidée au 1979-10-11
 
 # Partie législative ancienne
 
@@ -49473,6 +49473,73 @@ au titre de la participation mise à la charge des employeurs par l'article L. 9
 	  - Décret n°73-1046 1973-11-15
 
 
+### DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .
+
+###### Article L900-3
+
+Les types d'actions définis à l'article L. 900-2 peuvent comporter des activités physiques et sportives. Ces activités
+régulières et contrôlées sont obligatoirement prévues dès lors que les types d'actions s'adressent à des jeunes gens de moins
+de dix-huit ans et qu'ils excèdent une durée déterminée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-613 du 16 juillet 1984 - art. 2 (V)
+	  - Décret n°2002-1029 du 2 août 2002 - art. 1 (Ab)
+	  - Code de l'action sociale et des familles - art. L262-9-1 (VT)
+	  - Code de l'éducation - art. L214-12 (V)
+	  - Code de l'éducation - art. R338-1 (M)
+	  - Code du service national - art. R*8 (V)
+	  - Code du travail - art. D322-22-10 (M)
+	  - Code du travail - art. D322-22-7 (VT)
+	  - Code du travail - art. D950-1 (Ab)
+	  - Code du travail - art. D950-2 (Ab)
+	  - Code du travail - art. D950-3 (Ab)
+	  - Code du travail - art. D950-4 (Ab)
+	  - Code du travail - art. D950-6 (Ab)
+	  - Code du travail - art. L322-4-10 (Ab)
+	  - Code du travail - art. L322-4-12 (VT)
+	  - Code du travail - art. L322-4-13 (T)
+	  - Code du travail - art. L322-4-15 (Ab)
+	  - Code du travail - art. L322-4-15-5 (AbD)
+	  - Code du travail - art. L322-4-7 (VT)
+	  - Code du travail - art. L322-4-8 (AbD)
+	  - Code du travail - art. L931-21 (M)
+	  - Code du travail - art. L933-2 (AbD)
+	  - Code du travail - art. L943-1 (AbD)
+	  - Code du travail - art. L950-1 (AbD)
+	  - Code du travail - art. L951-1 (AbD)
+	  - Code du travail - art. L970-2 (V)
+	  - Code du travail - art. L980-2 (Ab)
+	  - Code du travail - art. L981-1 (AbD)
+	  - Code du travail - art. L981-8 (M)
+	  - Code du travail - art. L982-2 (AbD)
+	  - Code du travail - art. L991-1 (AbD)
+	  - Code du travail - art. R322-17-7 (M)
+	  - Code du travail - art. R351-19-1 (VT)
+	  - Code du travail - art. R950-3 (VT)
+	  - Code du travail - art. R961-1 (VT)
+	  - Code du travail - art. R964-4 (VT)
+	  - Code rural - art. D352-23 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L900-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail D950-1 à D950-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### CONVENTIONS DE FORMATION PROFESSIONNELLE .
 
 ###### Article L920-3
@@ -50084,6 +50151,55 @@ prévues aux articles L. 950-1 et L. 950-2.
 	**Anciens textes**:
 
 	  - Code du travail L950-2 BIS (1978)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L950-2-2
+
+Les dépenses des entreprises en matière de formation des éducateurs sportifs nécessaires à l'encadrement des activités
+physiques et sportives de leur personnel sont déductibles, à concurrence d'un plafond fixé par décret, du montant de la
+participation prévue à l'article L. 950-1. Ces dispositions ne peuvent s'appliquer que dans la mesure où il s'agit
+d'amateurisme.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 28 JORF 25 FEVRIER 1984
+
+	**Cité par**:
+
+	  - Décret n°84-613 du 16 juillet 1984 - art. 5 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter H ter (M)
+	  - Code du travail - art. L931-11 (M)
+	  - Code du travail - art. L931-8 (T)
+	  - Code du travail - art. L931-8-1 (M)
+	  - Code du travail - art. L931-8-2 (M)
+	  - Code du travail - art. L931-9 (M)
+	  - Code du travail - art. L950-2-3 (T)
+	  - Code du travail - art. L950-8 (Ab)
+	  - Code du travail - art. L980-7 (T)
+	  - Code du travail - art. L981-10 (MMN)
+	  - Code du travail - art. L991-4 (M)
+	  - Code du travail - art. R950-12-1 (Ab)
+	  - Code du travail - art. R950-19 (M)
+	  - Code du travail - art. R964-15 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D950-5 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L950-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L950-2-5 (T)
+	  - Code du travail - art. L951-3 (M)
 
 	**Codifié par**:
 
@@ -113318,6 +113434,148 @@ jusqu'au 31 décembre 1975.
 	**Abrogé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+
+### Titre V : De la participation des employeurs au financement de la formation professionnelle continue.
+
+###### Article D950-1
+
+La durée [*des actions de formation*] prévue à la fin de l'article L. 900-3 est d'au moins quatre-vingts heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2006-54 du 16 janvier 2006 - art. 3 (V) JORF 18 janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L900-3 (M)
+
+
+###### Article D950-2
+
+La durée des activités physiques et sportives auxquelles s'applique l'obligation établie par la seconde phrase de l'article
+L. 900-3 ne peut être inférieure à 5 p. 100 de la durée totale du type d'action concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2006-54 du 16 janvier 2006 - art. 3 (V) JORF 18 janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L900-3 (M)
+
+
+###### Article D950-3
+
+Les stagiaires [*jeunes*] auxquels s'applique l'obligation établie par la seconde phrase de l'article L. 900-3 ne peuvent
+être dispensés de prendre part aux activités physiques et sportives que sur présentation d'un certificat médical
+[*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2006-54 du 16 janvier 2006 - art. 3 (V) JORF 18 janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L900-3 (M)
+
+
+###### Article D950-4
+
+Les activités physiques et sportives auxquelles se réfère l'article L. 900-3 ne satisfont aux obligations prévues à cet
+article que si elles sont animées par des personnes remplissant les conditions fixées par les lois n° 63-807 du 6 août 1963
+et n° 75-988 du 29 octobre 1975.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-807 1963-08-06
+	  - Loi n°75-988 1975-10-29
+	  - Code du travail - art. L900-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2006-54 du 16 janvier 2006 - art. 3 (V) JORF 18 janvier 2006
+
+
+###### Article D950-5
+
+Le plafond prévu à l'article L. 951-3 est fixé à 10 p. 100 du montant de la participation établie par l'article L. 951-1.
+
+Les dépenses [*de formation des éducateurs sportifs*] mentionnées à l'article L. 951-3 ne peuvent donner lieu à déduction que
+dans le cas où elles correspondent à une formation permettant aux bénéficiaires de celle-ci de remplir les conditions fixées
+par les lois n° 63-807 du 6 août 1963 et n° 75-988 du 29 octobre 1975.
+
+**Nota:**
+
+[*Nota - Loi 91-1405 du 31 décembre 1991 : les références aux articles L. 950-2 sont remplaçées par les articles L. 951-1 et
+les articles L. 950-2-2 par les articles L. 951-3.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-807 1963-08-06
+	  - Loi n°75-988 1975-10-29
+	  - Code du travail - art. L951-1 (M)
+	  - Code du travail - art. L951-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L950-2-2 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L950-2-5 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L951-6 (AbD)
+
+
+###### Article D950-6
+
+Le contrôle des activités physiques et sportives comprises dans les types d'actions auxquels se réfère l'article L. 900-3 est
+assuré par les ministres intéressés avec la participation du ministre chargé des sports [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2006-54 du 16 janvier 2006 - art. 3 (V) JORF 18 janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-54 du 16 janvier 2006 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-3 (M)
 
 
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
