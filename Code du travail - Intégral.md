@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-12-10 00:00:01 +0100
+Version Consolidée au 1977-12-31
 
 # Partie législative ancienne
 
@@ -6090,6 +6090,50 @@ contrevenant a encouru une condamnation pour infraction aux dispositions de l'ar
 	  - Décret n°73-1046 1973-11-15
 
 
+#### Chapitre IV : SALAIRE
+
+##### SECTION 2 : ECONOMAT
+
+###### Article L154-2
+
+Toute infraction aux dispositions des articles L. 148-1 à
+
+L. 148-3 est punie d'une amende de 2.000 F à 20.000 F et, en cas de récidive, d'une amende de 10.000 F à 40.000 F [*taux
+résultant de la loi du 30 décembre 1977*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 9
+	  - Code du travail - art. L154-1 (T)
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 17 (V) JORF 31 DECEMBRE 1977
+
+	**Transféré par**:
+
+	  - Loi n°83-635 du 13 juillet 1983 - art. 8 () JORF 14 JUILLET 1983
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L154-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R154-4 (M)
+
+	**Cite**:
+
+	  - Code du travail L148-1 A L148-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ## LIVRE 1 : CONVENTIONS RELATIVES AU TRAVAIL
 
 ### TITRE 1 : CONTRAT D'APPRENTISSAGE
@@ -6160,6 +6204,70 @@ formation d'apprentis.
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+
+### Titre 5 : PENALITES
+
+#### Chapitre 2 : CONTRAT DE TRAVAIL
+
+##### SECTION 3 : MARCHANDAGE
+
+###### Article L152-3
+
+Toute infraction aux dispositions de l'article L. 125-1 [*interdiction d'opérations de marchandage*] est punie d'une amende
+de 2.000 F à 20.000 F. La récidive est punie d'une amende de 4.000 F à 40.000 F et d'un emprisonnement de deux mois à six
+mois ou de l'une de ces deux peines seulement [*taux résultant de la loi 1468 du 30 décembre 1977*].
+
+Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité de sous-entrepreneur de main-d'oeuvre pour une
+durée de deux ans à dix ans.
+
+Sont passibles d'une amende de 4.000 F à 30.000 F et d'un emprisonnement de deux mois à six mois ou de l'une de ces deux
+peines seulement ceux qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application
+de l'alinéa qui précède.
+
+Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
+établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
+
+Sont passibles d'une amende de 4.000 F à 20.000 F et d'un emprisonnement de deux mois à six mois ou de l'une de ces deux
+peines seulement ceux qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application
+de l'alinéa qui précède.
+
+//LOI  0621 10-07-1976 : Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du
+jugement aux portes des établissements de l'entreprise et sa publication dans les journaux qu'il désigne//.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°72-1 1972-01-03 ART. 8
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 5 (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 6 (V)
+	  - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la sécurité sociale. - art. L752-3-1 (VD)
+	  - Code du travail - art. L125-3 (AbD)
+	  - Code du travail - art. L364-4 (M)
+	  - Code rural - art. R341-7 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L125-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L125-3 (AbD)
 
 
 ## CONVENTIONS RELATIVES AU TRAVAIL
@@ -21805,6 +21913,50 @@ prévues aux articles L. 133-13 et L. 133-14.
 
 ### Titre VI : PENALITES
 
+#### Chapitre Ier : PLACEMENT
+
+###### Article L361-1
+
+Les infractions aux articles L. 312-1 à L. 312-4, L. 312-7 et L. 312-8 ainsi qu'aux arrêtés pris en application de l'article
+L. 321-1 sont passibles d'un emprisonnement de six jours à six mois [*durée*] et d'une amende de 2.000 F à 8.000 F [*taux
+résultant de la loi 1468 du 30 décembre 1977*] ou de l'une de ces deux peines seulement, qui seront portées au double en cas
+de récidive.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 29, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L311-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L321-1 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L312-7 (Ab)
+	  - Code du travail - art. L312-8 (Ab)
+	  - Code du travail - art. L321-1 (M)
+	  - Code du travail L312-1 A L312-4
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5325-1 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R321-7 (M)
+
+
 #### Chapitre II : Emploi
 
 ##### Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs
@@ -21896,6 +22048,69 @@ commandes pour des ventes au détail [*condition*].
 	**Cité par**:
 
 	  - Code du travail - art. R323-72 (Ab)
+
+
+##### SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN
+
+###### Article L362-3
+
+Toute infraction aux interdictions définies à l'article L 324-9 sera punie, en cas de récidive, d'un emprisonnement de deux
+mois à deux ans et d'une amende de 2.000 F à 20.000 F ou de l'une de ces deux peines seulement.
+
+Il y a récidive lorsque dans les trois années antérieures au fait poursuivi le contrevenant a déjà subi une condamnation pour
+une infraction identique.
+
+Dans tous les cas, y compris en cas de première infraction, le tribunal pourra ordonner que le jugement de condamnation soit
+publié intégralement ou par extrait dans les journaux qu'il désignera et affiche dans les lieux qu'il indiquera pendant un
+délai de quinze jours, le tout aux frais du condamné, sans toutefois que les frais de cette publication puissent dépasser le
+maximum de l'amende encourue. Le tribunal pourra également prononcer la confiscation des outils, machines, matériaux,
+véhicules utilisés ou stockés qui ont servi à commettre l'infraction ou ont été utilisés à son occasion.
+
+En cas de récidive de la part de l'acheteur ou du donneur d'ouvrage, le tribunal pourra prononcer la confiscation des objets
+sur lesquels aura porté le travail clandestin.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 25 (M)
+	  - Loi n°70-9 du 2 janvier 1970 - art. 9 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Décret n°96-572 du 27 juin 1996 - art. 7 (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 5 (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 6 (V)
+	  - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Décret n°2007-153 du 5 février 2007 - art. 7 (Ab)
+	  - Code de commerce. - art. L128-1 (V)
+	  - Code de commerce. - art. R626-15 (V)
+	  - Code de la sécurité sociale. - art. L752-3-1 (V)
+	  - Code des assurances - art. L322-2 (V)
+	  - Code du travail - art. L362-4 (AbD)
+	  - Code du travail - art. L362-5 (AbD)
+	  - Code du travail - art. L362-6 (AbD)
+	  - Code monétaire et financier - art. L500-1 (V)
+	  - Code rural - art. R341-7 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°72-648 du 11 juillet 1972 - art. 4, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L324-9 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L324-9 (M)
 
 
 #### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
@@ -27234,6 +27449,107 @@ dessus, en vertu d'une convention conclue avec elles.
 	  - Décret n°73-1046 1973-11-15
 
 
+## Livre 3 : PLACEMENT ET EMPLOI
+
+### Titre 6 : PENALITES
+
+#### Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE
+
+###### Article L364-2
+
+Est passible, sans préjudice des peines résultant de l'application d'autres lois, d'un emprisonnement de deux mois à un an et
+d'une amende de 2.000 F à 20.000 F ou de l'une de ces deux peines seulement quiconque se rend coupable de fraude ou de fausse
+déclaration pour obtenir, faire obtenir ou tenter de faire obtenir à un étranger le titre visé à l'article L. 341-6.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40.000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 15
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Code du travail - art. L364-10 (AbD)
+	  - Code du travail - art. L364-8 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8256-1 (VD)
+
+
+###### Article L364-3
+
+Toute infraction aux dispositions de l'article L. 341-9 [*monopole de l'office national d'immigration*] est punie d'un
+emprisonnement de deux mois à un an [*durée*] et d'une amende de 2.000 F à 20.000 F [*taux résultant de la loi 1468 du 30
+décembre 1977*] ou à l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 40.000 F ; en outre, le tribunal peut ordonner
+la fermeture temporaire ou définitive des bureaux ou entreprises tenus ou exploités par les délinquants.
+
+Est passible d'une peine de deux à cinq ans d'emprisonnement et d'une amende de 10.000 F à 200.000 F quiconque sera intervenu
+ou aura tenté d'intervenir, de manière habituelle et à titre d'intermédiaire, à un stade quelconque des opérations de
+recrutement et d'introduction.
+
+En outre, le tribunal peut ordonner la fermeture des bureaux ou entreprises tenus ou exploités par le délinquant et la
+confiscation des matériels qui ont servi ou ont été destinés à commettre le délit.
+
+Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
+établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 21 quinquies (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 25 (M)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L626-1 (V)
+	  - Code du travail - art. L364-10 (AbD)
+	  - Code du travail - art. L364-8 (AbD)
+	  - Code du travail - art. L364-9 (AbD)
+	  - Code du travail - art. L883-1 (AbD)
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 17 (V) JORF 31 DECEMBRE 1977
+
+	**Cite**:
+
+	  - Code du travail - art. L341-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8256-2 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L831-1-1 (AbD)
+
+
 ## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
 
 ### Titre Ier : Les syndicats professionnels
@@ -29677,6 +29993,252 @@ premier exercice suivant la publication de l'ordonnance.*]
 
 
 ### Titre VI : PENALITES
+
+#### Chapitre Ier : LES SYNDICATS PROFESSIONNELS
+
+##### SECTION 1 : STATUT JURIDIQUE DES SYNDICATS
+
+###### Article L461-1
+
+Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
+l'article L. 411-1 seront punis d'une amende de 2.000 F à 8.000 F. La dissolution du syndicat ou de l'union de syndicats
+pourra en outre être prononcée à la diligence du procureur de la République.
+
+En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
+2.000 F à 8.000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 24
+	  - Code du travail 3054
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Transféré par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 10 (V)
+	  - Loi n°82-689 du 4 août 1982 - art. 9 (V)
+	  - Loi n°86-1 du 3 janvier 1986 - art. 5 (Ab)
+	  - Code du travail - art. L461-2 (AbD)
+	  - Code du travail - art. L461-3 (AbD)
+	  - Code du travail - art. L461-4 (AbD)
+	  - Code du travail - art. L461-5 (AbD)
+	  - Code du travail - art. L486-1 (AbD)
+	  - Code du travail - art. R342-5 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L411-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L471-1 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R461-1 (M)
+
+
+##### SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES
+
+###### Article L461-2
+
+Toute entrave apportée à l'exercice du droit syndical défini par les articles L. 412-1 et L. 412-4 à L. 412-16 sera punie
+d'un emprisonnement de deux mois à un an et d'une amende de 2.000 F à 20.000 F ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40.000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 42, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Transféré par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 10 (V)
+	  - Loi n°82-689 du 4 août 1982 - art. 9 (V)
+	  - Loi n°86-1 du 3 janvier 1986 - art. 5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2281-4 (VD)
+	  - Code du travail - art. L471-2 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L412-1 (M)
+	  - Code du travail L412-1, L412-4 A L412-16
+
+
+###### Article L461-3
+
+Les chefs d'établissement, directeurs ou gérants, qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
+seront passibles d'une amende de 2.000 F à 8.000 F et, en cas de récidive, d'un emprisonnement de deux mois à un an et d'une
+amende de 4.000 F à 16.000 F.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 ART. 25
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Transféré par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 10 (V)
+	  - Loi n°82-689 du 4 août 1982 - art. 8 (V)
+	  - Loi n°82-689 du 4 août 1982 - art. 9 (V)
+	  - Loi n°86-1 du 3 janvier 1986 - art. 4 (V)
+	  - Loi n°86-1 du 3 janvier 1986 - art. 5 (Ab)
+	  - Code du travail - art. L461-4 (AbD)
+	  - Code du travail - art. L461-5 (AbD)
+	  - Code du travail - art. L462-3 (AbD)
+	  - Code du travail - art. L486-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L471-3 (T)
+
+	**Cite**:
+
+	  - Code du travail L412-2 et L413-2
+
+
+#### Chapitre II : LES DELEGUES DU PERSONNEL
+
+###### Article L462-1
+
+Quiconque aura porté ou tenté de porter atteinte, soit à la libre désignation des délégués du personnel, soit à l'exercice
+régulier de leurs fonctions, notamment par la méconnaissance des dispositions [*relatives au licenciement*] des articles L.
+420-22 et L. 420-23 et des textes réglementaires pris pour leur application, sera puni d'un emprisonnement de deux mois à un
+an [*durée*] et d'une amende de 2.000 F à 20.000 F [*taux résultant de la loi du 30 décembre 1977*] ou de l'une de ces deux
+peines seulement.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 40.000 F [*taux résultant de la loi du 30
+décembre 1977*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 30, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Transféré par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2282-1 (VD)
+	  - Code du travail - art. L472-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L420-22 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L420-23 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L420-22 (T)
+	  - Code du travail - art. L420-23 (T)
+
+
+#### Chapitre III : LES COMITES D'ENTREPRISE
+
+###### Article L463-1
+
+Toute entrave apportée, soit à la constitution d'un comité d'entreprise, soit à la libre désignation de ses membres, soit à
+son fonctionnement régulier, notamment par la méconnaissance des dispositions des articles L. 433-13, L. 436-1 et L. 436-2 et
+des textes réglementaires pris pour leur application, sera punie d'un emprisonnement de deux mois à un an [*durée*] et d'une
+amende de 2.000 F à 20.000 F [*taux résultant de la loi du 30 décembre 1977*] ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40.000 F [*taux résultant de la loi du 30
+décembre 1977*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 28, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+	**Cité par**:
+
+	  - Loi n°80-834 du 24 octobre 1980 - art. 13 (V)
+	  - Code du travail - art. L463-2 (T)
+	  - Code du travail - art. L473-2 (T)
+	  - Code du travail - art. L483-2 (AbD)
+
+	**Transféré par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L433-13 (M)
+	  - Code du travail - art. L436-1 (T)
+	  - Code du travail - art. L436-2 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L433-13 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L436-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L473-1 (M)
+
 
 #### Chapitre III : COMITE D'ENTREPRISE
 
