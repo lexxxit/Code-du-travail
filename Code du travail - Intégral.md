@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-04-15
+Version Consolidée au 1977-05-18
 
 # Partie législative ancienne
 
@@ -4607,6 +4607,58 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L143-5
+
+Les mentions portées sur le bulletin prévu à l'article L. 143-3 deuxième alinéa, sont obligatoirement reproduites sur un
+livre de paie.
+
+Les dispositions du présent article ne sont pas applicables aux particuliers qui occupent des employés de maison ou des
+assistantes maternelles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°56-222 du 29 février 1956 - art. 66-1 (AbD)
+	  - Loi n°94-126 du 11 février 1994 - art. 51 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 922 (Ab)
+	  - Code de la sécurité sociale. - art. L243-12 (M)
+	  - Code du travail - art. D620-1 (M)
+	  - Code du travail - art. D620-2 (VT)
+	  - Code du travail - art. L324-10 (M)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. L611-9 (M)
+	  - Code du travail - art. R143-2 (M)
+	  - Code du travail - art. R154-3 (M)
+	  - Code du travail - art. R324-4 (M)
+	  - Code du travail - art. R324-7 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 8 (V) JORF 3 juillet 1998
+
+	**Cite**:
+
+	  - Code du travail - art. L143-3 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L772-1 (AbD)
+	  - Code du travail - art. L772-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R154-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail 44 al. 1, dernier alinéa
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### Section 2 : Privilèges et garanties de la créance de salaire.
 
 ###### Article L143-6
@@ -6894,6 +6946,55 @@ temporaire restent applicables aux opérations de prêts de main-d'oeuvre à but
 ### CONVENTIONS COLLECTIVES DE TRAVAIL
 
 #### CHAMP D'APPLICATION .
+
+###### Article L131-1
+
+Le présent titre est relatif à la détermination des relations collectives entre employeurs et travailleurs ; il définit les
+règles suivant lesquelles s'exerce le droit des travailleurs à la négociation collective de l'ensemble de leurs conditions de
+travail et de leurs garanties sociales. Il concerne les professions industrielles et commerciales, les professions agricoles
+utilisant les services des salariés définis à l'article 1144 (1. à 7., 9. et 10.) du code rural ; les professions libérales,
+les offices publics et ministériels, les employés de maison, les concierges d'immeubles à usage ou non d'habitation ou à
+usage mixte, les travailleurs à domicile //LOI  0505 17-05-1977 : les assistantes maternelles//, le personnel des caisses
+d'épargne ordinaire, des sociétés civiles, des syndicats professionnels et des associations de quelque nature que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-561 1971-07-13 ART. 1
+	  - Code du travail 1031 AL. 1
+
+	**Cité par**:
+
+	  - Loi n°78-49 du 19 janvier 1978 - art. 1 (AbD)
+	  - Décret n°79-1013 du 28 novembre 1979 - art. 1 (P)
+	  - Arrêté du 30 décembre 1981 - art. 1 (P)
+	  - Arrêté du 30 décembre 1981 - art. 2 (P)
+	  - Arrêté du 30 décembre 1981 - art. 3 (P)
+	  - Arrêté du 30 décembre 1981 - art. 4 (P)
+	  - Décret n°82-219 du 27 février 1982 - art. 1 (P)
+	  - Décret n°82-555 du 30 juin 1982 - art. 1 (P)
+	  - Arrêté du 2 novembre 1981 - art. 2 (P)
+	  - Code du travail - art. L122-6 (Ab)
+	  - Code du travail - art. L122-7 (Ab)
+	  - Code du travail - art. L132-1 (AbD)
+	  - Code du travail - art. L141-1 (AbD)
+	  - Code du travail - art. R420-6 (P)
+	  - Code du travail - art. R442-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2221-1 (VD)
+
+	**Cite**:
+
+	  - Code du travail L131-1 A L136-4
+	  - Code rural 1144 PAR. 1 A 7, 9 ET 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L131-2
 
@@ -25587,6 +25688,189 @@ la réduction de l'horaire de travail habituellement pratiqué dans l'établisse
 
 ##### ALLOCATION D'ASSURANCE .
 
+###### Article L351-10
+
+Sous réserve des dispositions de la section III, tout employeur occupant un ou des salariés dans le champ d'application
+territorial de la convention mentionnée à l'article L. 351-11, est tenu d'assurer contre le risque de privation d'emploi le
+ou les salariés dont il utilise les services en vertu d'un contrat de travail et dont les rémunérations sont soumises par
+application des dispositions législatives et réglementaires en vigueur au versement forfaitaire établi par l'article 231 du
+code général des impôts.
+
+//LOI  1116 27-12-1974 : Nonobstant les dispositions du premier alinéa ci-dessus, bénéficient également de la présente
+section les salariés agricoles énumérés à l'article 1144 du code rural dont les rémunérations quelles qu'en soient les
+modalités ne sont pas soumises au versement forfaitaire prévu à l'article 231 du code général des impôts (1)// .
+
+(1) N.B. : Des modalités provisoires d'application du deuxième alinéa de l'article L. 351-10 du code du travail pourront être
+prévues par accord entre les organisations intéressées d'employeurs et de salariés pendant une période expirant le 31
+décembre 1977. Cet accord pourra également exclure de son application les travailleurs occasionnels visés à l'article 1157 du
+code rural, ou certaines catégories de travailleurs saisonniers.
+
+Les dispositions de la présente section ne sont pas applicables aux employeurs et personnes définis à l'article 1532,
+deuxième alinéa du code général des impôts, ni à ces personnes elles-mêmes. //LOI 0505 17-05-1977 : Elles ne s'appliquent pas
+non plus aux assistantes maternelles employées par des particuliers ni à ces derniers// .
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231, 1532 AL. 2
+	  - Code rural 1144
+	  - Code du travail L351-18 A L351-20
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°46-2880 du 10 décembre 1946 - art. 31-4 (Ab)
+	  - Loi n°71-582 du 16 juillet 1971 - art. 2 (Ab)
+	  - Loi n°73-1194 du 27 décembre 1973 - art. 1 (V)
+	  - Loi n°77-704 du 5 juillet 1977 - art. 1 (V)
+	  - Loi n°78-698 du 6 juillet 1978 - art. 1 (P)
+	  - Arrêté du 20 mai 1980 - art. 1 (V)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (Ab)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 1 (VT)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Décret n°84-218 du 29 mars 1984 - art. 1 (Ab)
+	  - Décret n°84-342 du 7 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-342 du 7 mai 1984 - art. 2 (Ab)
+	  - Décret n°84-342 du 7 mai 1984 - art. 3 (Ab)
+	  - Décret n°84-342 du 7 mai 1984 - art. 4 (Ab)
+	  - Décret n°84-343 du 7 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-343 du 7 mai 1984 - art. 2 (Ab)
+	  - Décret n°84-343 du 7 mai 1984 - art. 3 (Ab)
+	  - Décret n°84-416 du 30 mai 1984 - art. 2 (V)
+	  - Décret n°84-417 du 30 mai 1984 - art. 2 (Ab)
+	  - Décret n°84-525 du 28 juin 1984 - art. 1 (Ab)
+	  - Décret n°84-525 du 28 juin 1984 - art. 13 (Ab)
+	  - Décret n°84-525 du 28 juin 1984 - art. 9 (Ab)
+	  - Décret n°84-1026 du 22 novembre 1984 - art. 5 (V)
+	  - Décret n°84-1180 du 26 décembre 1984 - art. 2 (Ab)
+	  - Décret n°85-475 du 26 avril 1985 - art. 12 (Ab)
+	  - Décret n°85-600 du 10 juin 1985 - art. 2 (Ab)
+	  - Décret n°85-600 du 10 juin 1985 - art. 3 (V)
+	  - Décret n°86-558 du 14 mars 1986 - art. 1 (Ab)
+	  - Décret n°86-558 du 14 mars 1986 - art. 3 (Ab)
+	  - Décret n°87-236 du 3 avril 1987 - art. 1 (Ab)
+	  - Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
+	  - Décret n°87-844 du 16 octobre 1987 - art. 8 (Ab)
+	  - Arrêté du 12 décembre 1988 - art. 1 (V)
+	  - Décret n°90-105 du 30 janvier 1990 - art. 1 (Ab)
+	  - Décret n°90-106 du 30 janvier 1990 - art. 1 (V)
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 14 (M)
+	  - Arrêté du 31 mai 1997 - art. 1 (V)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 9 (VD)
+	  - Décret n°98-1109 du 9 décembre 1998 - art. 1 (Ab)
+	  - Loi n°98-1194 du 23 décembre 1998 - art. 4 (V)
+	  - Décret n°2001-498 du 11 juin 2001 - art. 1 (Ab)
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 49 (V)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 1 (Ab)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 4 (Ab)
+	  - Loi n°2003-1200 du 18 décembre 2003 - art. 49 (V)
+	  - Loi n°2004-627 du 30 juin 2004 - art. 2 (V)
+	  - Loi n°2004-804 du 9 août 2004 - art. 10 (Ab)
+	  - Décret n°2005-894 du 2 août 2005 - art. 3 (VT)
+	  - Loi n°2006-339 du 23 mars 2006 - art. 18 (V)
+	  - Arrêté du 17 janvier 2007 - art. 1 (V)
+	  - Arrêté du 17 janvier 2007 - art. 2 (V)
+	  - Décret n°2007-1940 du 26 décembre 2007 (V)
+	  - Arrêté du 1 septembre 1986 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
+	  - Code de l'action sociale et des familles - art. R262-11-2 (VT)
+	  - Code de l'action sociale et des familles - art. R262-12 (V)
+	  - Code de l'action sociale et des familles - art. R262-8 (T)
+	  - Code de l'action sociale et des familles - art. R522-63 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L411-5 (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la construction et de l'habitation. - art. R351-14 (V)
+	  - Code de la sécurité sociale. - art. D842-2 (Ab)
+	  - Code de la sécurité sociale. - art. L135-2 (V)
+	  - Code de la sécurité sociale. - art. L831-2 (M)
+	  - Code de la sécurité sociale. - art. R135-16 (M)
+	  - Code de la sécurité sociale. - art. R524-14 (VT)
+	  - Code de la sécurité sociale. - art. R524-3 (M)
+	  - Code de la sécurité sociale. - art. R524-9 (VT)
+	  - Code de la sécurité sociale. - art. R531-13 (T)
+	  - Code de la sécurité sociale. - art. R532-7 (V)
+	  - Code de la sécurité sociale. - art. R755-10 (Ab)
+	  - Code de la sécurité sociale. - art. R821-4 (M)
+	  - Code de la sécurité sociale. - art. R833-5 (Ab)
+	  - Code de la sécurité sociale. - art. R833-7 (Ab)
+	  - Code de la sécurité sociale. - art. R861-8 (VD)
+	  - Code du travail - art. D311-6 (VT)
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L322-12 (VT)
+	  - Code du travail - art. L322-4-12 (VT)
+	  - Code du travail - art. L322-4-8-1 (T)
+	  - Code du travail - art. L351-10 bis (AbD)
+	  - Code du travail - art. L351-10-1 (VT)
+	  - Code du travail - art. L351-11 (M)
+	  - Code du travail - art. L351-13 (VD)
+	  - Code du travail - art. L351-13-1 (VT)
+	  - Code du travail - art. L351-14 (VT)
+	  - Code du travail - art. L351-16 (AbD)
+	  - Code du travail - art. L351-18 (T)
+	  - Code du travail - art. L351-19 (T)
+	  - Code du travail - art. L351-20 (AbD)
+	  - Code du travail - art. L351-21 (AbD)
+	  - Code du travail - art. L351-24 (M)
+	  - Code du travail - art. L352-3 (AbD)
+	  - Code du travail - art. R311-3-2 (M)
+	  - Code du travail - art. R322-20 (VT)
+	  - Code du travail - art. R351-12 (VT)
+	  - Code du travail - art. R351-13 (VT)
+	  - Code du travail - art. R351-15 (VT)
+	  - Code du travail - art. R351-16 (VT)
+	  - Code du travail - art. R351-17 (VT)
+	  - Code du travail - art. R351-19 (VT)
+	  - Code du travail - art. R351-2 (Ab)
+	  - Code du travail - art. R351-22 (VT)
+	  - Code du travail - art. R351-26 (VT)
+	  - Code du travail - art. R351-27 (VT)
+	  - Code du travail - art. R351-32 (P)
+	  - Code du travail - art. R351-35 (VT)
+	  - Code du travail - art. R351-35-1 (VT)
+	  - Code du travail - art. R351-36 (VT)
+	  - Code du travail - art. R351-37 (VT)
+	  - Code du travail - art. R351-41 (VT)
+	  - Code du travail - art. R351-42 (VT)
+	  - Code du travail - art. R351-47 (M)
+	  - Code du travail - art. R351-49 (Ab)
+	  - Code du travail - art. R831-1 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Code du travail - art. R961-6 (VT)
+	  - Livre des procédures fiscales - art. L134 B (M)
+
+	**Anciens textes**:
+
+	  - Ordonnance n°67-580 du 13 juillet 1967 - art. 11, v. init.
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984
+	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°84-310 du 27 avril 1984
+	  - TXT_SOURCE: Décret n°84-416 du 30 mai 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-417 du 30 mai 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984
+	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R351-14 (V)
+
+
 ###### Article L351-11
 
 Nonobstant la définition limitative du champ d'application professionnel de la convention mentionnée ci-après tout employeur
@@ -42559,6 +42843,488 @@ Sont considérés comme employés de maison [*définition*] les salariés employ
 	  - Code du travail - art. L7221-1 (VD)
 
 
+#### Chapitre III : Assistantes maternelles
+
+##### Section 1 : Dispositions générales.
+
+###### Article L773-1
+
+Relèvent des dispositions du présent chapitre, sous réserve qu'elles soient titulaires de l'agrément prévu à l'article 123-1
+du code de la famille et de l'aide sociale, les personnes qui accueillent habituellement à leur domicile, moyennant
+rémunération, des mineurs qui leur sont confiés par des particuliers ou par des personnes morales de droit privé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-798 du 28 juillet 1978 - art. 10 (Ab)
+	  - Décret n°79-580 du 10 juillet 1979 - art. 1 (V)
+	  - Loi n°79-575 du 10 juillet 1979 - art. 1 (V)
+	  - Ordonnance n°82-40 du 16 janvier 1982 - art. 2 (V)
+	  - Décret n°82-804 du 22 septembre 1982 - art. 10 (Ab)
+	  - Décret n°83-397 du 19 mai 1983 - art. 21 (Ab)
+	  - Décret n°83-398 du 19 mai 1983 - art. 12 (Ab)
+	  - Décret n°84-69 du 30 janvier 1984 - art. 1 (Ab)
+	  - Décret n°84-410 du 30 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-522 du 27 juin 1984 - art. 1 (Ab)
+	  - Décret n°84-802 du 28 août 1984 - art. 3 (V)
+	  - Décret n°84-1057 du 30 novembre 1984 - art. 13 (Ab)
+	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-347 du 19 mars 1985 - art. 1 (Ab)
+	  - Décret n°86-297 du 4 mars 1986 - art. 3 (V)
+	  - Décret n°87-670 du 14 août 1987 - art. 11 (Ab)
+	  - Code de la sécurité sociale. - art. D532-1 (M)
+	  - Code du travail - art. D980-11 (Ab)
+	  - Code du travail - art. D981-9 (Ab)
+	  - Code du travail - art. L322-4-4 (M)
+	  - Code du travail - art. L773-2 (AbD)
+	  - Code du travail - art. L832-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail L773-1 A L773-15
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article L773-3
+
+Sans préjudice des sommes et des fournitures qui leur sont remises pour l'entretien des enfants, les personnes visées au
+présent chapitre perçoivent une rémunération dont le montant minimal, par enfant présent et par unité de temps, est déterminé
+par décret en référence au salaire minimum interprofessionnel de croissance [*SMIC*]. Cette rémunération est versée au moins
+une fois par mois [*périodicité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code de la sécurité sociale. - art. D531-18 (VD)
+	  - Code de la sécurité sociale. - art. L531-5 (VD)
+	  - Code de la sécurité sociale. - art. R412-15 (V)
+	  - Code du travail - art. L773-10 (T)
+	  - Code du travail - art. L773-6 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-8 (AbD)
+
+	**Cite**:
+
+	  - Code du travail L773-1 A L773-15
+
+
+###### Article L773-4
+
+Les sommes et les fournitures destinées à l'entretien d'un enfant ne sont versées que pour les journées où cet enfant est
+présent dans sa famille d'accueil ou reste à la charge effective de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de l'action sociale et des familles - art. L423-33 (VD)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. L773-28 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-5 (AbD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-6 (T)
+
+
+###### Article L773-5
+
+En cas d'absence d'un enfant, les personnes relevant du présent chapitre ont droit, pour chaque journée où, d'après les
+conventions passées ou à défaut, les usages en vigueur, l'enfant aurait normalement dû leur être confié, à une indemnité
+compensatrice dont le montant minimal est fixé par décret en référence au salaire minimum interprofessionnel de croissance
+[*SMIC*].
+
+Toutefois, cette indemnité n'est pas due :
+
+Lorsque l'absence de l'enfant est imputable à l'assistante maternelle ou à la famille de celle-ci ;
+
+Lorsque l'absence est due à une maladie de l'enfant ou à une circonstance contraignante pour l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 45 (V)
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de l'action sociale et des familles - art. L422-4 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 123-8 (Ab)
+	  - Code du travail - art. D773-1-3 (Ab)
+	  - Code du travail - art. D773-2 (P)
+	  - Code du travail - art. D773-5 (VT)
+	  - Code du travail - art. D773-6 (VT)
+	  - Code du travail - art. L773-12 (T)
+	  - Code du travail - art. L773-6 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L773-12 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-4 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-9 (AbD)
+
+	**Cite**:
+
+	  - Code du travail L773-1 A L773-15
+
+
+###### Article L773-7
+
+L'employeur qui décide de ne plus confier d'enfant à une personne relevant du présent chapitre qu'il employait depuis trois
+mois au moins [*délai*] doit notifier à l'intéressée sa décision par lettre recommandée [*formalité obligatoire*] avec
+demande d'avis de réception. La date de présentation de la lettre recommandée fixe le point de départ du délai-congé
+éventuellement dû en vertu de l'article L. 773-8 ou L. 773-13 ci-après. L'inobservation de ce délai-congé donne lieu au
+versement d'une indemnité compensatrice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°94-909 du 14 octobre 1994 - art. 18 (Ab)
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de l'action sociale et des familles - art. R422-21 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. L773-12 (T)
+	  - Code du travail - art. L773-15 (T)
+
+	**Transféré par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 16 () JORF 28 juin 2005
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-12 (AbD)
+	  - Code du travail - art. L773-12 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L773-12 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-13 (T)
+	  - Code du travail - art. L773-8 (T)
+	  - Code du travail L773-1 A L773-15, L773-8, L773-13
+
+
+##### Section 2 : Dispositions spéciales aux personnes employées par des particuliers.
+
+###### Article L773-8
+
+Dans le cas d'un contrat à durée indéterminée, les personnes relevant de la présente section qui justifient auprès du même
+employeur d'une ancienneté d'au moins trois mois ont droit, sauf motif grave, à un préavis de quinze jours avant le retrait
+d'un enfant qui leur était confié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Transféré par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 16 () JORF 28 juin 2005
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-13 (AbD)
+	  - Code du travail - art. L773-13 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L773-17 (AbD)
+	  - Code du travail - art. L773-4 (AbD)
+	  - Code du travail - art. L773-7 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-3 (T)
+
+	**Cite**:
+
+	  - Code du travail L773-8 A L773-9
+
+
+###### Article L773-9
+
+Dans le cas d'un contrat à durée indéterminée, la décision, par une personne mentionnée à la présente section, de ne plus
+garder un enfant qui lui était confié depuis au moins trois mois est subordonnée à un préavis de quinze jours [*durée*], à
+moins que l'employeur n'accepte d'abréger cette durée.
+
+L'inobservation de ces conditions constitue une rupture abusive qui ouvre droit, au profit de l'employeur, à des dommages-
+intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Transféré par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 16 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-4 (AbD)
+	  - Code du travail - art. D773-7 (VT)
+	  - Code du travail - art. D773-9 (VT)
+	  - Code du travail - art. L773-4 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-14 (AbD)
+	  - Code du travail - art. L773-14 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-5 (T)
+
+	**Cite**:
+
+	  - Code du travail L773-8 A L773-9
+
+
+##### Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
+
+###### Article L773-10
+
+Le décret prévu à l'article L. 773-3 précise les cas dans lesquels la rémunération est majorée pour tenir compte de sujétions
+exceptionnelles entraînées éventuellement par des handicaps, maladies ou inadaptations, ainsi que le montant minimum de cette
+majoration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°79-1102 du 21 décembre 1979 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 sexies (M)
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. D773-1-4 (Ab)
+	  - Code du travail - art. D773-10 (VT)
+	  - Code du travail - art. D773-3 (M)
+	  - Code du travail - art. L773-11 (AbD)
+	  - Code du travail - art. L773-6 (T)
+	  - Code du travail - art. L773-7 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-17 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-3 (M)
+
+
+###### Article L773-12
+
+Par dérogation aux dispositions de l'article L. 773-5, les personnes mentionnées à l'article précédent ont droit au maintien
+de leur rémunération et de l'indemnité de congé payé pendant les deux premières journées d'absence d'un mineur.
+
+Lorsque leur employeur n'est momentanément en mesure de leur confier aucun enfant, elles ont droit à l'indemnité journalière
+prévue audit article L. 773-5, sous réserve de l'engagement d'accueillir immédiatement les mineurs présentés par l'employeur
+dans la limite d'un nombre maximum convenu avec lui. Cette disposition n'est applicable qu'aux personnes qui justifient d'une
+ancienneté de trois mois au moins [*durée*] au service de l'employeur.
+
+L'inobservation, par l'intéressé, de l'engagement ci-dessus constitue une résiliation abusive du contrat qui ouvre droit à
+des dommages-intérêts.
+
+L'employeur qui n'a pas confié d'enfant à une assistance maternelle pendant une durée de trois mois consécutifs est tenu de
+lui adresser la lettre recommandée [*formalité obligatoire*] prévue à l'article L. 773-7 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°94-909 du 14 octobre 1994 - art. 14 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 18 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 8 (Ab)
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de l'action sociale et des familles - art. R422-11 (V)
+	  - Code de l'action sociale et des familles - art. R422-17 (M)
+	  - Code de l'action sociale et des familles - art. R422-21 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-11 (M)
+	  - Code du travail - art. L773-5 (M)
+	  - Code du travail - art. L773-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-27 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L773-5 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L773-7 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-7 (T)
+
+
+###### Article L773-13
+
+En cas de licenciement pour un motif autre qu'une faute grave, les personnes relevant de la présente section ont droit :
+
+1° A un délai-congé de quinze jours si elles justifient, au servic du même employeur, d'une ancienneté comprise entre trois
+et six mois ;
+
+2° A un délai-congé d'un mois si elles justifient d'une ancienneté comprise entre six mois et moins de deux ans ;
+
+3° A un délai-congé de deux mois [*durée*] si elles justifient d'une ancienneté d'au moins deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Transféré par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 16 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. L773-12 (AbD)
+	  - Code du travail - art. L773-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-21 (AbD)
+	  - Code du travail - art. L773-21 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-8 (T)
+
+	**Cite**:
+
+	  - Code du travail L773-10 A L773-15
+
+
+###### Article L773-14
+
+Après l'expiration de la période d'essai de trois mois, la résiliation du contrat à l'initiative d'une personne relevant de
+la présente section est subordonnée à un préavis de quinze jours, à moins que l'employeur n'accepte d'abréger cette durée. A
+partir d'une ancienneté de six mois, ce délai est porté à un mois, à moins que l'employeur n'accepte d'abréger cette durée .
+
+La décision, par l'intéressé, de ne plus garder un enfant qui lui était confié est soumise aux mêmes conditions.
+
+L'inobservation de celles-ci constitue une résiliation abusive qui ouvre droit, au profit de l'organisme employeur, à des
+dommages-intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Transféré par**:
+
+	  - Loi n°2005-706 du 27 juin 2005 - art. 16 () JORF 28 juin 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-22 (AbD)
+	  - Code du travail - art. L773-22 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-9 (T)
+
+	**Cite**:
+
+	  - Code du travail L773-10 A L773-15
+
+
+###### Article L773-15
+
+En cas de licenciement pour un motif autre qu'une faute grave, les personnes visées à la présente section justifiant d'une
+ancienneté d'au moins deux ans [*durée*] au service du même employeur ont droit à une indemnité compensatrice prévue à
+l'article L. 773-7 ci-dessus.
+
+Le montant minimal de cette indemnité de licenciement est fixé par décret d'après la moyenne mensuelle des sommes que
+l'intéressée a perçues au cours des six derniers mois [*période*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. D773-1-5 (Ab)
+	  - Code du travail - art. D773-4 (P)
+	  - Code du travail - art. L773-13 (AbD)
+	  - Code du travail - art. L773-14 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-23 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-7 (T)
+	  - Code du travail L773-10 A L773-15, L773-7
+
+
 ### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
 
 #### Chapitre Ier : Catégories particulières de travailleurs.
@@ -44111,6 +44877,126 @@ d'habitation*] sont applicables aux employés de maison.
 	**Cité par**:
 
 	  - Code du travail - art. R797-1 (VT)
+
+
+### ASSISTANTES MATERNELLES.
+
+###### Article L773-2
+
+Sont applicables aux personnes relevant du présent chapitre les dispositions suivantes du présent code :
+
+Livre Ier, titre III (Conventions collectives) ;
+
+Livre Ier, titre IV : chapitre préliminaire (Egalité de rémunération entre hommes et femmes), chapitre III (Paiement du
+salaire), chapitre V (Saisie-arrêt et cession de rémunérations dues par un employeur), chapitre VI (salaire de la femme
+mariée) ;
+
+/R/livre III, titre V, chapitre Ier, section I (Allocation d'aide publique) et section II (Allocation d'assurance)/R/loi
+0032 16-01-1979 : Livre III, TITRE V, Chapitre Ier, section I (dispositions générales)// ;
+
+Livre IV, titre Ier (les syndicats professionnels), titre II (Les délégués du personnel) et titre III (Les comités
+d'entreprise) ;    Livre V (conflit du travail) ;
+
+Livre IX (Formation professionnelle continue), à l'exception du titre VII.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R833-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail L410-1 A L437-4
+
+
+###### Article L773-6
+
+Les personnes relevant du présent chapitre perçoivent une indemnité représentative de congé payé égale au douzième de la
+rémunération perçue en application des articles L. 773-3, L. 773-5 et L. 773-10 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. L773-11 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-10 (M)
+	  - Code du travail - art. L773-3 (M)
+	  - Code du travail - art. L773-5 (M)
+	  - Code du travail L773-1 A L773-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-4 (AbD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L773-4-1 (T)
+
+
+### ASSISTANCES MATERNELLES
+
+#### DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.
+
+###### Article L773-11
+
+Lorsqu'elles accueillent des mineurs qui résident chez elles à titre permanent, les personnes relevant de la présente section
+ne peuvent s'en séparer à l'occasion de repos hebdomadaire, jours fériés, congés [*payés*] annuels, congés d'adoption ou
+congés de formation //LOI 386 30-05-1980 : ou congés pour événements familiaux// sans l'accord préalable de leur employeur
+[*condition*].
+
+La décision de celui-ci est fondée sur la situation de chaque enfant, en fonction, notamment, de ses besoins psychologiques
+et affectifs et des possibilités de remise à sa famille naturelle. Elle tient compte aussi des souhaits de la famille
+d'accueil.
+
+En cas de refus par l'employeur d'accorder un des repos ou congés visés au premier alinéa, la rémunération des intéressées
+est majorée de 50 p. 100.
+
+Si, à l'occasion d'une maternité, une personne relevant de la présente section désire qu'un enfant qui lui a été confié lui
+soit momentanément retiré, elle fixe la date de départ et la durée du retrait dans les limites prévues pour le repos des
+femmes en couches. Elle fait connaître cette date et cette durée à l'employeur avant la fin du septième mois de sa grossesse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°80-386 1980-05-30 ART. 8 II JORF 31 MAI
+
+	**Cité par**:
+
+	  - Décret n°89-129 du 27 février 1989 - art. 9 (Ab)
+	  - Décret n°94-909 du 14 octobre 1994 - art. 5 (Ab)
+	  - Code de l'action sociale et des familles - art. L422-1 (M)
+	  - Code de l'action sociale et des familles - art. R422-8 (V)
+	  - Code de la famille et de l'aide sociale. - art. 123-5 (Ab)
+	  - Code du travail - art. D773-11 (VT)
+	  - Code du travail - art. L773-12 (M)
+	  - Code du travail - art. L773-7 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L773-28 (AbD)
+
+	**Cite**:
+
+	  - Code du travail L773-10 A L773-15
 
 
 ### DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES
