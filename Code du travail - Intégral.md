@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-01-09
+Version Consolidée au 1977-02-05
 
 # Partie législative ancienne
 
@@ -52174,6 +52174,33 @@ cinq années consécutives [*période*].
 
 ##### Paragraphe 4 : Du contenu des contrats d'apprentissage.
 
+###### Article R117-11
+
+Le contrat d'apprentissage doit contenir les stipulations et indications obligatoires contenues dans le contrat type annexé
+au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cité par**:
+
+	  - Code du travail - art. R117-17 (VT)
+	  - Code du travail - art. R117-2 (M)
+	  - Code du travail - art. R119-36 (M)
+	  - Code du travail - art. R119-39 (M)
+
+	**Cite**:
+
+	  - Code du travail R111-1 A R119-71
+
+
 ###### Article R117-12
 
 Le contrat [*d'apprentissage*] doit fixer le salaire dû à l'apprenti pour chacun des semestres de l'apprentissage. Ce salaire
@@ -52570,6 +52597,25 @@ ci en centres de formation d'apprentis, sous réserve qu'ils satisfassent aux co
 	  - Code du travail - art. L119-3 (AbD)
 
 
+##### Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.
+
+###### Article R119-30
+
+Les titulaires d'un contrat d'apprentissage souscrit jusqu'au 1er juillet 1978 inclus, peuvent se présenter à l'examen de fin
+d'apprentissage artisanal que les chambres de métiers continueront d'organiser aussi longtemps qu'il sera nécessaire pour
+assurer aux apprentis intéressés le bénéfice du régime défini au début du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2002-596 du 24 avril 2002 - art. 14 () JORF 27 avril 2002
+
+
 ##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
 
 ###### Article R119-32
@@ -52692,39 +52738,69 @@ application de dispositions antérieures à l'entrée en vigueur de la loi n° 7
 	  - Code du travail - art. R119-9 (Ab)
 
 
-###### Article R119-9
+###### Article R119-8
 
-Dans l'attente de la conclusion d'un des accords ou avenants prévus à l'article précédent ou d'une convention [*portant
-création de centres de formation d'apprentis*] régie par les articles R. 116-1 à R. 116-36, les organismes mentionnés à
-l'article R. 119-6 peuvent être autorisés, pour la période du 1er juillet 1972 au 30 juin 1973, à continuer la formation des
-apprentis selon les mêmes modalités que pendant l'année scolaire 1971-1972, notamment en ce qui concerne tant la liste des
-sections ouvertes et des métiers enseignés que le programme des enseignements et leur durée.
+Les accords provisoires peuvent être /A/soit des accords simples /A/DECR.0100 02-02-1977// soit des accords de
+transformation, soit des avenants d'adaptation.
 
-La demande d'autorisation doit être adressée au préfet de région avant le 1er juin 1972. L'autorisation est réputée accordée
-si une décision de refus n'a pas été notifiée au demandeur dans le mois suivant la réception de cette demande. [*délai*].
+/A/Les accords simples prévoient et organisent le maintien du fonctionnement de cours professionnels ou d'autres organismes
+de formation en attendant la mise en place d'un centre de formation d'apprentis susceptible d'accueillir les apprentis du
+secteur intéressé/A/DECR.0100 02-02-1977//.
+
+Les accords de transformation prévoient la conclusion, avant le /M/1ER Juillet 1976 /M/DECR.0100 02-02-1977 : 2 Juillet
+1978//, d'une convention comportant la transformation d'un ou plusieurs cours professionnels ou organismes de formation
+préexistants en un centre de formation d'apprentis ou l'intégration desdits cours ou organismes dans un centre de formation
+d'apprentis déjà créé ou en cours de création.
+
+Les avenants d'adaptation sont conclus avec les organismes titulaires d'une convention de formation d'apprentis intervenue en
+application des dispositions en vigueur avant le 1er juillet 1972.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 24 juillet 2006 - art. 2 (V)
-	  - Code du travail - art. R119-29 (Ab)
-	  - Code du travail - art. R119-44 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R119-6 (Ab)
-	  - Code du travail - art. R119-8 (Ab)
-	  - Code du travail R116-1 A R116-36
+	  - Code du travail - art. R119-9 (Ab)
 
 	**Anciens textes**:
 
-	  - Décret n°72-281 1972-04-12 ART. 4
+	  - Décret n°72-281 1972-04-12 ART. 3
 	  - Loi n°71-576 1971-07-16
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
+
+
+###### Article R119-10
+
+Les demandes d'accord provisoire sont adressées au préfet de région. Lesdits accords sont conclus au nom de l'Etat :
+
+/P/Par le préfet de région [*autorité compétente*] en ce qui concerne les accords simples/P/DECR.0100 02-02-1977//;
+
+Par le ministre de l'éducation nationale agissant en accord avec le ministre intéressé, ou par le ministre de l'agriculture
+lorsqu'il s'agit d'un centre de formation d'apprentis à recrutement national ou, dans le cas contraire, par le préfet de la
+région où l'organisme intéressé a son siège, après avis du ou des comités régionaux de la formation professionnelle, de la
+promotion sociale et de l'emploi intéressés, pour les accords de transformation et les avenants d'adaptation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-281 1972-04-12 ART. 5
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
 
 
 ###### Article R119-11
@@ -52752,75 +52828,6 @@ R. 116-35 et R. 116-36.
 	**Abrogé par**:
 
 	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
-
-
-##### Paragraphe 2 : Des accords simples.
-
-###### Article R119-12
-
-Les accords simples doivent fixer [*contenu*] :
-
-La date [*point de départ*] à partir de laquelle l'organisme cessera d'être habilité à recevoir de nouveaux apprentis ;
-
-La liste des formations maintenues et, éventuellement, le calendrier de leur suppression ;
-
-L'aire géographique de recrutement normal des apprentis ;
-
-Eventuellement, la liste des annexes locales ;
-
-Le nombre minimal et maximal d'apprentis à admettre annuellement  pour l'ensemble des formations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-281 1972-04-12 ART. 7
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R119-13
-
-Les articles R. 116-26, R. 116-26 et R. 116-33 sont applicables dans le cas des accords simples.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. R116-26 (M)
-	  - Code du travail - art. R116-3 (M)
-	  - Code du travail - art. R116-33 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°72-281 1972-04-12 ART. 8
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R119-14
-
-L'accord simple définit les modalités de financement des formations. Lorsque l'accord prévoit une subvention à la charge de
-l'Etat, les règles d'attribution et de calcul de cette subvention sont celles qui étaient applicables à la date du 16 juillet
-1971. L'organisme gestionnaire peut aussi recevoir des subventions des collectivités locales ainsi que des versements des
-employeurs assujettis à la taxe d'apprentissage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-281 1972-04-12 ART. 9
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
 
 
 ##### Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.
@@ -53046,6 +53053,37 @@ l'article R. 119-22.
 	  - Code du travail - art. R119-22 (Ab)
 
 
+##### Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.
+
+###### Article R119-26
+
+A compter du 1er juillet 1972 et jusqu'au 1er juillet 1976 les employeurs ne pourront souscrire des contrats d'apprentissage
+que s'ils ont préalablement déposé la demande d'agrément prévue à l'article L. 117-5.
+
+Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi devra statuer sur cette
+demande dans le délai d'un an. Eventuellement, en cas de refus d'agrément, il précisera si les contrats en cours peuvent être
+exécutés jusqu'à leur terme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L117-5 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°72-281 1972-04-12 ART. 21
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
+
+
 ##### Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
 
 ###### Article R119-28
@@ -53089,45 +53127,6 @@ e) Qu'elles ne fassent pas l'objet d'un contrat avec l'Etat passé au titre de l
 	**Cité par**:
 
 	  - Code du travail - art. R119-27 (M)
-
-
-###### Article R119-29
-
-Peuvent être admis en exonération de la taxe d'apprentissage dans les conditions et limites prévues par l'article 5 du décret
-susvisé n. 72-283 du 12 avril 1972 les salaires versés aux apprentis inscrits dans les organismes bénéficiant d'un accord
-simple ou d'une autorisation provisoire de fonctionnement délivrée en vertu de l'article R. 119-9 ainsi que les concours
-financiers versés auxdits organismes. Toutefois, ces sommes ne peuvent être prises en compte pour la détermination de la
-fraction de taxe définie à l'article L. 118-3 que jusqu'au 31 décembre 1973.
-
-Jusqu'à cette date, les employeurs dont les apprentis sont inscrits dans les organismes mentionnés à l'alinéa précédent
-peuvent bénéficier du concours prévu aux articles R. 119-4 et R. 119-5.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire  1972-10-24
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-	  - Décret n°72-281 1972-04-12 ART. 24
-
-	**Cite**:
-
-	  - Décret n°72-283 du 12 avril 1972 - art. 5 (M)
-	  - Code du travail - art. L118-3 (M)
-	  - Code du travail - art. R119-4 (M)
-	  - Code du travail - art. R119-5 (M)
-	  - Code du travail - art. R119-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R119-45 (M)
 
 
 ##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.
@@ -53888,6 +53887,38 @@ année d'apprentissage.
 	  - Code du travail - art. L117-3 (M)
 
 
+##### PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .
+
+###### Article R117-9
+
+Le contrat d'apprentissage doit être accompagné du certificat de la visite médicale d'embauche [*formalité obligatoire,
+examen médical*] et de l'avis d'orientation prévu à l'article L. 117-3 (alinéa 2). Cet avis est délivré, à la suite d'un
+examen individuel, par un centre public d'information et d'orientation ou par un centre créé en application de l'article 39
+du code de l'artisanat. Il porte notamment sur l'aptitude de l'apprenti à suivre la formation envisagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1989 - art. ANNEXE, article 4 (V)
+	  - Arrêté du 21 décembre 1994 - art. Annexe art. 4 (V)
+	  - Décret n°2006-355 du 20 mars 2006 - art. 4 (V)
+	  - Arrêté du 16 juillet 1986 - art. ANNEXE (P)
+
+	**Cite**:
+
+	  - Code du travail L117-3 AL. 2
+	  - Code de l'artisanat - art. 39 (M)
+
+
 ##### PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .
 
 ###### Article R117-17
@@ -54560,6 +54591,40 @@ collègues.
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 #### Chapitre IX : Dispositions diverses
+
+##### A - Dispositions financières.
+
+###### Article R119-7
+
+Les accords provisoires ont pour objet d'habiliter les organismes mentionnés à l'article ci-dessus à accueillir les apprentis
+ayant souscrit leur contrat d'apprentissage avant une date qui sera fixée par chaque accord et qui ne pourra être postérieure
+au /M/1er Juillet 1976/M/DECR.0100 02-02-1977 :
+
+1er Juillet 1978// [*date limite*] .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-281 1972-04-12 ART. 2
+	  - Loi n°71-576 1971-07-16
+
+	**Cité par**:
+
+	  - Décret n°72-283 du 12 avril 1972 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
+
+	**Cite**:
+
+	  - Code du travail - art. R119-6 (Ab)
+
 
 ##### D - Inspection de l'apprentissage
 
@@ -64564,6 +64629,59 @@ et clôture le compte de liquidation.
 
 ##### CONTRAT D'APPRENTISSAGE
 
+##### AGREMENT DE L'EMPLOYEUR .
+
+###### Article R117-1
+
+L'agrément prévu à l'article L. 177-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
+l'établissement. Cette demande précise [*mentions*] :
+
+a) Les noms et prénoms de l'employeur ou la dénomination de l'entreprise quand celle-ci est une société ;
+
+b) Le nombre de salariés de l'entreprise, autres que les apprentis ;
+
+c) Les noms et qualifications professionnelles des personnes responsables de la formation des apprentis ;
+
+d) Le nombre d'apprentis que l'employeur et à même d'accueillir simultanément, dans la limite du plafonnement prévu à
+l'alinéa suivant.
+
+En vue d'assurer la qualité de la formation pratique donnée aux apprentis, des arrêtés interministériels fixent pour chaque
+branche professionnelle un ou des plafonds d'emploi simultané d'apprentis.
+
+Ces arrêtés sont pris après avis de la commission professionnelle consultative nationale compétente pour la profession
+considérée.
+
+Les plafonds ci-dessus prévus sont déterminés en tenant compte, d'une part et s'il y a lieu, des divers types d'entreprise
+existant dans la branche considérée et, d'autre part, de la relation qui doit être maintenue entre le nombre des apprentis et
+celui des autres salariés de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 10 mars 1992
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 16 juillet 1986 - art. ANNEXE (P)
+	  - Code du travail - art. R116-11 (VT)
+	  - Code du travail - art. R117-2 (M)
+	  - Code du travail - art. R119-35 (M)
+
+	**Cite**:
+
+	  - Code du travail L177-5
+
+
 ##### DUREE DE L'APPRENTISSAGE .
 
 ###### Article R117-8
@@ -64598,116 +64716,6 @@ général d'agronomie, dans le délai de deux semaines à compter du jour où il
 	**Cite**:
 
 	  - Code du travail 117-13
-
-
-##### AVIS D'ORIENTATION .
-
-###### Article R117-9
-
-L'avis d'orientation prévu à l'article L. 117-3 (alinéa 2) est délivré, à la suite d'un examen individuel, par un centre
-public d'information et d'orientation ou par un centre créé en application de l'article 39 du code de l'artisanat. Il porte
-notamment sur l'aptitude de l'apprenti à suivre la formation envisagée. Il doit être accompagné d'un certificat [*formalité
-obligatoire*] établi par le médecin du centre ou par un médecin du travail ou de la santé scolaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 6 mars 1989 - art. ANNEXE, article 4 (V)
-	  - Arrêté du 21 décembre 1994 - art. Annexe art. 4 (V)
-	  - Arrêté du 16 juillet 1986 - art. ANNEXE (P)
-	  - Décret n°2006-355 du 20 mars 2006 - art. 4 (V)
-
-	**Cite**:
-
-	  - Code du travail L117-3 AL. 2
-	  - Code de l'artisanat - art. 39 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°72-280 1972-04-12 ART. 45
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-##### CONTENU DES CONTRATS D'APPRENTISSAGE .
-
-###### Article R117-10
-
-Le contrat d'apprentissage est constaté par un écrit sous seing privé et est établi au moins en trois exemplaires originaux
-[*nombre*] . Chacun des exemplaires originaux doit être signé [*obligation*] par l'employeur et par l'apprenti ainsi que par
-le représentant de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-280 1972-04-12 ART. 46
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R117-11
-
-Doivent obligatoirement figurer dans le contrat d'apprentissage les mentions suivantes :
-
-Les nom et prénoms de l'employeur ou la raison sociale de l'entreprise, l'adresse du siège de l'entreprise et celle de
-l'établissement où s'effectue l'apprentissage ;
-
-La désignation de la formation assurée par la mention du diplôme de l'enseignement technologique auquel conduit cette
-formation ;
-
-La date de l'agrément accordé par le comité départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi ;
-
-Les nom, prénoms, date de naissance et domicile de l'apprenti ;
-
-Les nom, prénoms et domicile de ses père et mère ou de son représentant légal ;
-
-La désignation de l'organisme qui a délivré l'avis d'orientation prévu à l'article précédent ;
-
-la mention du dernier établissement scolaire fréquenté et la date de fin des études ;
-
-La date de début de l'apprentissage et la durée du contrat ;
-
-La dénomination et l'adresse du centre de formation d'apprentis auquel a été inscrit le titulaire du contrat ainsi que
-l'identification de la section assurant la formation définie au contrat ;
-
-Lorsqu'une dérogation [*à la date du début de l'apprentissage*] a été demandée en application de l'article R. 117-8 ci-
-dessus, l'indication de la date de la décision intervenue ou, en cas de décision implicite, de celle à laquelle la demande de
-dérogation a été reçue par l'autorité désignée audit article ;
-
-Lorsque le contrat  constitue la prorogation d'un contrat antérieur, la date de l'avis circonstancié du directeur du centre
-de formation d'apprentis que prévoit l'article L. 117-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-	  - Décret n°72-280 1972-04-12 ART. 47
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L117-9 (M)
-	  - Code du travail - art. R117-8 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R117-17 (VT)
-	  - Code du travail - art. R117-2 (M)
-	  - Code du travail - art. R119-36 (M)
-	  - Code du travail - art. R119-39 (M)
 
 
 ##### DISPOSITIONS FINANCIERES .
@@ -64859,24 +64867,40 @@ subvention de l'Etat dans les limites et selon les conditions fixées par la con
 
 ##### MESURES PROVISOIRES D'ADAPTATION EN MATIERE D'APPRENTISSAGE
 
-##### DISPOSITIONS TRANSITOIRES RELATIVES AUX EXAMENS DE FIN  D'APPRENTISSAGE .
+##### DISPOSITIONS TRANSITOIRES RELATIVES AUX EXONERATIONS DE LA TAXE  D'APPRENTISSAGE .
 
-###### Article R119-30
+###### Article R119-27
 
-Les titulaires d'un contrat d'apprentissage qui ont reçu, dans un cours professionnel, un enseignement les préparant à
-l'examen de fin d'apprentissage artisanal, peuvent, jusqu'au 1er juillet 1976 [*date limite*], demander leur inscription à
-cet examen que les chambres de métiers continueront d'organiser jusqu'à cette date.
+Sont admis en exonération de la taxe d'apprentissage et pris en compte pour la détermination de la fraction de taxe prévue à
+l'article L. 118-3 :
+
+a) Les concours financiers versés aux organismes bénéficiant d'un accord de transformation ou d'un avenant d'adaptation ;
+
+b) Les salaires versés aux apprentis inscrits dans lesdits organismes, dans les limites fixées à l'article R. 119-2, a ;
+
+c) A titre provisoire, et au plus tard jusqu'au /M/1er juillet 1976/M/DECR.0100 02-02-1977 : 1er juillet 1978// [*date
+limite*], les concours financièrs accordés aux écoles répondant aux conditions fixées à l'article suivant.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire  1972-10-24
+
 	**Anciens textes**:
 
-	  - Décret n°72-281 1972-04-12 ART. 25
+	  - Décret n°72-281 1972-04-12 ART. 22
 	  - Loi n°71-576 1971-07-16
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail - art. R119-28 (Ab)
+	  - Code du travail R119-2 a, R119-28
 
 
 ##### INSPECTION DE L'APPRENTISSAGE .
@@ -64902,58 +64926,6 @@ sociale et de l'emploi, pour l'exercice de leurs attributions en matière d'appr
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
-
-
-#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
-
-##### CONTRAT D'APPRENTISSAGE
-
-##### AGREMENT DE L'EMPLOYEUR .
-
-###### Article R117-1
-
-L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
-l'établissement. Cette demande précise notamment :
-
-Le nombre d'apprentis que l'employeur est susceptible d'accueillir simultanément ;
-
-Sur la base d'une liste établie par le comité départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi, les éléments de nature à établir que l'équipement de l'entreprise, ses techniques d'exploitation et les conditions
-d'emploi de la main-d'oeuvre sont susceptibles de permettre dans des conditions satisfaisantes, la formation pratique des
-apprentis ;
-
-Les noms et qualifications professionnelles de la ou des personnes responsables de la formation des apprentis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-	  - Décret n°72-280 1972-04-12 ART. 37
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 10 mars 1992
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 16 juillet 1986 - art. ANNEXE (P)
-	  - Code du travail - art. R116-11 (VT)
-	  - Code du travail - art. R117-2 (M)
-	  - Code du travail - art. R119-35 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L117-5 (M)
 
 
 ### CONTRAT DE TRAVAIL
@@ -107647,6 +107619,115 @@ subventions d'équipement faites par des établissements reconnus.
 	  - Décret n°73-1048 1973-11-15
 
 
+###### Article D910-10
+
+Dans les départements autres que le département de Paris et les départements d'outre-mer, le comité départemental de la
+formation professionnelle, de la promotion sociale et de l'emploi comprend [*composition*], sous la présidence du préfet et
+avec la participation de l'inspecteur principal de l'enseignement technique de l'académie :
+
+1. Dix représentants de l'administration :
+
+L'inspecteur d'académie en résidence dans le département ;
+
+L'inspecteur de l'enseignement technique en mission dans le département ;
+
+L'ingénieur général d'agronomie ou son représentant ;
+
+L'inspecteur départemental des lois sociales en agriculture ;
+
+Le directeur départemental du travail et de la main-d'oeuvre ;
+
+Le trésorier-payeur général ;
+
+Un représentant du ministre de l'industrie et de la recherche ;
+
+Le chef de service académique d'information et d'orientation ;
+
+Le chef de la section départementale de l'Agence nationale pour l'emploi [*ANPE*] .
+
+Le chef du service de l'inspection de l'apprentissage ou son représentant ;
+
+2. Douze représentants des professions industrielles, commerciales, artisanales et agricoles :
+
+Six chefs d'entreprises proposés par les organisations syndicales d'employeurs les plus représentatives, dont un artisan et
+un chef d'exploitation agricole ;
+
+Six salariés proposés par les organisations syndicales de salariés les plus représentatives, dont un représentant des
+salariés agricoles.
+
+3. Neuf [*nombre*] représentants du personnel enseignant des établissements d'enseignement technologique, y compris
+l'enseignement agricole, publics et privés :
+
+Quatre représentants de l'enseignement technologique public ;
+
+Un représentant de l'enseignement technologique privé ;
+
+Un représentant de l'enseignement agricole public ;
+
+Un représentant de l'enseignement agricole privé, élus par leurs collègues dans les conditions fixées par arrêtés du ministre
+de l'éducation nationale et du ministre de l'agriculture ;
+
+Un représentant du personnel enseignant des centres de formation professionnelle des adultes ;
+
+Un représentant du personnel enseignant des centres de formation d'apprentis.
+
+4. Neuf responsables d'établissements d'enseignement et de formation :
+
+Trois chefs d'établissements d'enseignement technologique supérieur ou d'enseignement technique publics ;
+
+Un chef d'établissement d'enseignement agricole public ;
+
+Un directeur de centre de formation professionnelle des adultes ;
+
+Un directeur d'établissement d'enseignement technique ou d'enseignement agricole privé ;
+
+Deux directeurs de centres de formation d'apprentis ;
+
+Un responsable de centre de formation professionnelle continue conventionné en application de l'article L. 940-1.
+
+5. Douze représentants d'institutions et organismes intéressés à l'emploi et à la formation professionnelle :
+
+Deux conseillers généraux désignés par leurs collègues ;
+
+Un représentant de la ou des chambres de commerce et d'industrie du département ;
+
+Un représentant de la ou des chambres de métiers du département ;
+
+Un représentant de la ou des chambres d'agriculture du département ;
+
+Deux représentants de l'association pour l'emploi dans l'industrie et le commerce de la circonscription désignés sur
+proposition du conseil d'administration de cet organisme ;
+
+Deux conseillers de l'enseignement technique, dont un employeur et un salarié ;
+
+Un représentant des associations familiales ;
+
+Deux représentants d'associations de parents d'élèves de l'enseignement technologique.
+
+Des suppléants dont désignés, dans les mêmes conditions que les titulaires pour les différentes catégories, ils peuvent
+remplacer les titulaires aux séances du comité départemental ainsi que dans les formations prévues aux articles D. 910-12 à
+D. 910-16 ci-après.
+
+Le comité départemental peut, en outre, appeler à siéger, à titre consultatif pour l'examen de certaines questions, les
+représentants d'autres administrations et organismes intéressés ainsi que toute personne ayant une compétence particulière en
+la matière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L940-1 (T)
+	  - Code du travail D910-12 A D910-16, L940-1
+
+	**Anciens textes**:
+
+	  - Décret n°72-276 1972-04-12 ART. 4
+
+
 ###### Article D910-11
 
 Le préfet arrête la composition du comité départemental de la formation professionnelle, de la promotion sociale et de
@@ -108045,6 +108126,106 @@ départements d'outre-mer.
 
 
 #### Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.
+
+###### Article D910-22
+
+Le comité de la formation professionnelle, de la promotion sociale et de l'emploi de la ville de Paris comprend
+[*composition*] sous la présidence du préfet et avec la participation de l'inspecteur principal de l'enseignement technique
+de l'académie :
+
+1. Dix [*nombre*] représentants de l'administration :
+
+L'inspecteur  d'académie de Paris, directeur des services académiques d'éducation ou son représentant ;
+
+L'inspecteur de l'enseignement technique en mission dans le département ;
+
+L'inspecteur général d'agronomie ou son représentant ;
+
+Le directeur départemental du travail et de la main-d'oeuvre    L'inspecteur régional du travail et de la main d'oeuvre des
+transports ou son représentant ;
+
+Le receveur général des finances, trésorier-payeur général de la région parisienne ;
+
+Un représentant du ministre du développement industriel et scientifique ;
+
+Le chef de service académique d'information et d'orientation    Le chef de la section départementale de l'agence nationale
+pour l'emploi.
+
+Le chef du service de l'inspection de l'apprentissage ou son représentant.
+
+2. Dix représentants des professions industrielles, commerciales et artisanales :
+
+Cinq chefs d'entreprise proposés par les organisations syndicales d'employeurs les plus représentatives dont un artisan ;
+
+Cinq salariés proposés par les organisations syndicales de salariés les plus représentatives.
+
+3. Huit représentants du personnel enseignant des établissements d'enseignement technologique publics et privés :
+
+Quatre représentants de l'enseignement technique public ;
+
+Un représentant de l'enseignement technologique privé ;
+
+Un représentant du personnel enseignant de l'A.F.P.A. ;
+
+Deux représentants du personnel enseignant des centres de formation d'apprentis.
+
+4. Huit responsables d'établissements d'enseignement et de formation :
+
+Trois chefs d'établissements d'enseignement technologique supérieur ou d'enseignement technique publics ;
+
+Un directeur de centre de formation professionnelle des adultes ;
+
+Un directeur d'établissement d'enseignement technique privé ;
+
+Deux directeurs de centres de formation d'apprentis ;
+
+Un responsable de centre de formation professionnelle continue conventionné en application de l'article 9 de la loi n. 71-577
+du 16 juillet 1971.
+
+5. Douze représentants d'institutions et organismes intéressés à l'emploi et à la formation professionnelle :
+
+Deux conseillers de Paris désignés par leurs collègues ;
+
+Un représentant de la chambre de commerce ;
+
+Un représentant de la chambre des métiers ;
+
+Deux représentants de l'Assedic ;
+
+Trois conseillers de l'enseignement technique dont un employeur, un cadre, un salarié ;
+
+Deux représentants d'associations de parents d'élèves de l'enseignement technologique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-577 du 16 juillet 1971 - art. 9 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°72-277 1972-04-12 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
+
+	**Cité par**:
+
+	  - Code du travail - art. D910-23 (Ab)
+	  - Code du travail - art. D910-24 (Ab)
+	  - Code du travail - art. D910-25 (Ab)
+	  - Code du travail - art. D910-26 (Ab)
+	  - Code du travail - art. D910-27 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°75-228 du 4 avril 1975 - art. 1 (V)
+
 
 ###### Article D910-23
 
@@ -108492,209 +108673,6 @@ Le préfet de région peut également instituer une délégation permanente du c
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
-
-
-#### ATTRIBUTIONS, COMPOSITION, FONCTIONNEMENT DES COMITES  DEPARTEMENTAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .
-
-###### Article D910-10
-
-Dans les départements autres que le département de Paris et les départements d'outre-mer, le comité départemental de la
-formation professionnelle, de la promotion sociale et de l'emploi comprend, sous la présidence du préfet et avec la
-participation de l'inspecteur principal de l'enseignement technique de l'académie [*composition*] :
-
-1. Neuf représentants de l'administration :
-
-L'inspecteur d'académie en résidence dans le département ;    L'inspecteur de l'enseignement technique en mission dans le
-département ;
-
-L'ingénieur général d'agronomie ou son représentant ;
-
-L'inspecteur départemental des lois sociales en agriculture ;
-
-Le directeur départemental du travail et de la main-d'oeuvre ;
-
-Le trésorier-payeur général ;
-
-Un représentant du ministre du développement industriel et scientifique ;
-
-Le chef de service académique d'information et d'orientation ;    Le chef de la section départementale de l'Agence nationale
-pour l'emploi [*ANPE*] .
-
-2. Douze représentants des professions industrielles, commerciales, artisanales et agricoles :
-
-Six chefs d'entreprises proposés par les organisations syndicales d'employeurs les plus représentatives, dont un artisan et
-un chef d'exploitation agricole ;
-
-Six salariés proposés par les organisations syndicales de salariés les plus représentatives, dont un représentant des
-salariés agricoles.
-
-3. Neuf [*nombre*] représentants du personnel enseignant des établissements d'enseignement technologique, y compris
-l'enseignement agricole, publics et privés.
-
-Quatre représentants de l'enseignement technologique public ;
-
-Un représentant de l'enseignement technologique privé ;
-
-Un représentant de l'enseignement agricole public ;
-
-Un représentant de l'enseignement agricole privé, élus par leurs collègues dans les conditions fixées par arrêtés du ministre
-de l'éducation nationale et du ministre de l'agriculture ;
-
-Un représentant du personnel enseignant des centres de formation professionnelle des adultes ;
-
-Un représentant du personnel enseignant des centres de formation d'apprentis.
-
-4. Neuf responsables d'établissements d'enseignement et de formation :
-
-Trois chefs d'établissements d'enseignement technologique supérieur ou d'enseignement technique publics ;
-
-Un chef d'établissement d'enseignement agricole public :
-
-Un directeur de centre de formation professionnelle des adultes ;
-
-Un directeur d'établissement d'enseignement technique ou d'enseignement agricole privé ;
-
-Deux directeurs de centres de formation d'apprentis ;
-
-Un responsable de centre de formation professionnelle continue conventionné en application de l'article L. 940-1.
-
-5. Douze représentants d'institutions et organismes intéressés à l'emploi et à la formation professionnelle :
-
-Deux conseillers généraux désignés par leurs collègues ;
-
-Un représentant de la ou des chambres de commerce et d'industrie du département ;
-
-Un représentant de la ou des chambres de métiers du département ;    Un représentant de la ou des chambres d'agriculture du
-département ;
-
-Deux représentants de l'association pour l'emploi dans l'industrie et le commerce de la circonscription désignés sur
-proposition du conseil d'administration de cet organisme ;
-
-Deux conseillers de l'enseignement technique, dont un employeur et un salarié ;
-
-Un représentant des associations familiales ;
-
-Deux représentants d'associations de parents d'élèves de l'enseignement technologique.
-
-Des suppléants dont désignés, dans les mêmes conditions que les titulaires pour les différentes catégories, ils peuvent
-remplacer les titulaires aux séances du comité départemental ainsi que dans les formations prévues aux articles D. 910-12 à
-D. 910-16 ci-après.
-
-Le comité départemental peut, en outre, appeler à siéger, à titre consultatif pour l'examen de certaines questions, les
-représentants d'autres administrations et organismes intéressés ainsi que toute personne ayant une compétence particulière en
-la matière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L940-1 (T)
-	  - Code du travail D910-12 A D910-16, L940-1
-
-	**Anciens textes**:
-
-	  - Décret n°72-276 1972-04-12 art. 4
-
-
-#### COMPOSITION DU COMITE DEPARTEMENTAL DE LA FORMATION  PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI DE LA VILLE  DE PARIS .
-
-###### Article D910-22
-
-Le comité de la formation professionnelle, de la promotion sociale et de l'emploi de la ville de Paris comprend
-[*composition*] sous la présidence du préfet et avec la participation de l'inspecteur principal de l'enseignement technique
-de l'académie :
-
-1. Neuf [*nombre*] représentants de l'administration :
-
-L'inspecteur général de l'instruction publique, directeur de l'enseignement élémentaire et secondaire de Paris ou son
-représentant ;
-
-L'inspecteur de l'enseignement technique en mission dans le département ;
-
-L'inspecteur général d'agronomie ou son représentant ;
-
-Le directeur départemental du travail et de la main-d'oeuvre    L'inspecteur régional du travail et de la main d'oeuvre des
-transports ou son représentant ;
-
-Le receveur général des finances, trésorier-payeur général de la région parisienne ;
-
-Un représentant du ministre du développement industriel et scientifique ;
-
-Le chef de service académique d'information et d'orientation    Le chef de la section départementale de l'agence nationale
-pour l'emploi.
-
-2. Dix représentants des professions industrielles, commerciales et artisanales :
-
-Cinq chefs d'entreprise proposés par les organisations syndicales d'employeurs les plus représentatives dont un artisan ;
-
-Cinq salariés proposés par les organisations syndicales de salariés les plus représentatives.
-
-3. Huit représentants du personnel enseignant des établissements d'enseignement technologique publics et privés :
-
-Quatre représentants de l'enseignement technique public ;
-
-Un représentant de l'enseignement technologique privé ;
-
-Un représentant du personnel enseignant de l'A.F.P.A. ;
-
-Deux représentants du personnel enseignant des centres de formation d'apprentis.
-
-4. Huit responsables d'établissements d'enseignement et de formation :
-
-Trois chefs d'établissements d'enseignement technologique supérieur ou d'enseignement technique publics ;
-
-Un directeur de centre de formation professionnelle des adultes ;
-
-Un directeur d'établissement d'enseignement technique privé ;
-
-Deux directeurs de centres de formation d'apprentis ;
-
-Un responsable de centre de formation professionnelle continue conventionné en application de l'article 9 de la loi n. 71-577
-du 16 juillet 1971.
-
-5. Douze représentants d'institutions et organismes intéressés à l'emploi et à la formation professionnelle :
-
-Deux conseillers de Paris désignés par leurs collègues ;
-
-Un représentant de la chambre de commerce ;
-
-Un représentant de la chambre des métiers ;
-
-Deux représentants de l'Assedic ;
-
-Trois conseillers de l'enseignement technique dont un employeur, un cadre, un salarié ;
-
-Deux représentants d'associations de parents d'élèves de l'enseignement technologique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°71-577 du 16 juillet 1971 - art. 9 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°72-277 1972-04-12 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D910-23 (Ab)
-	  - Code du travail - art. D910-24 (Ab)
-	  - Code du travail - art. D910-25 (Ab)
-	  - Code du travail - art. D910-26 (Ab)
-	  - Code du travail - art. D910-27 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°75-228 du 4 avril 1975 - art. 1 (V)
 
 
 ### AIDE DE L'ETAT .
