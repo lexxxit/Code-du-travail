@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-05-31
+Version Consolidée au 1980-06-07
 
 # Partie législative ancienne
 
@@ -38115,31 +38115,6 @@ d'établissement des listes de médiateurs sur le plan national ou régional.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail R524-1 A R524-14
-
-
-###### Article L524-8
-
-Les conditions d'indemnisation par l'Etat des médiateurs, des experts et des personnes qualifiées sont déterminées par décret
-en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°50-205 1950-02-11 ART. 18 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 1 JORF 7 JUIN
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R524-5 A R524-18
-	  - SPEC_APPLI: Conseil Constitutionnel 105L 1978-12-29 JORF 3 janvier (CARACTERE REGLEMENTAIRE)
 
 
 #### Chapitre V : Arbitrage
@@ -95483,91 +95458,6 @@ commission nationale ou régionale de conciliation [*compétence*].
 	  - Code du travail - art. R742-7 (V)
 
 
-##### MEDIATION .
-
-###### Article R742-33
-
-Il est alloué aux médiateurs figurant sur les listes établies conformément à l'article R. 742-30, ayant agi en cette qualité
-en application du titre II du livre V du présent code, une indemnité forfaitaire pour chaque médiation dont le taux varie de
-250 F à 750 F suivant l'importance du différend.
-
-L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
-déplacement à l'intérieur de leur résidence nécessités par l'accomplissement de leur mission.
-
-Les conditions d'attribution de l'indemnité forfaitaire sont fixées par arrêté conjoint du ministre chargé de la marine
-marchande, du ministre des finances et du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 3 JORF 7 JUIN
-
-	**Cite**:
-
-	  - Code du travail - art. R742-30 (T)
-	  - Code du travail L521-1 A L526-4
-
-	**Anciens textes**:
-
-	  - Décret  1950-03-31 ART. 35
-
-
-###### Article R742-34
-
-Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
-
-Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
-
-Le taux et les conditions d'attribution des vacations et des indemnités forfaitaires visées respectivement au premier et au
-deuxième alinéa du présent article sont fixés par arrêté conjoint du ministre chargé de la marine marchande, du ministre des
-finances et du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1950-03-31 ART. 36
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 3 JORF 7 JUIN
-
-
-###### Article R742-35
-
-Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
-de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
-
-a) S'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
-appartiennent ;
-
-b) S'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux
-fonctionnaires du groupe I.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1950-03-31 ART. 37 et 38
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 3 JORF 7 JUIN
-
-
 ### JOURNALISTES PROFESSIONNELS
 
 #### CARTE D'IDENTITE PROFESSIONNELLE
@@ -104776,6 +104666,111 @@ travail ; il pourra notamment limiter le nombre de personnes habilitées à effe
 	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
+## Livre V : Conflits du travail
+
+### Titre II : Conflits collectifs
+
+#### Chapitre IV : Médiation.
+
+###### Article D524-1
+
+Il est alloué aux médiateurs figurant sur les listes établies conformément à l'article R. 524-12, ayant agi en cette qualité
+et en application des articles L. 524-1 et suivants, une indemnité forfaitaire pour chaque médiation dont le taux varie
+suivant l'importance du différend.
+
+L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
+déplacement à l'intérieur de leur résidence, nécessités par l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-400 1980-06-04 ART. 1 JORF 7 JUIN
+
+	**Cité par**:
+
+	  - Arrêté du 4 juin 1980 - art. 1 (V)
+	  - Code du travail - art. D524-3 (VT)
+
+
+###### Article D524-2
+
+Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
+
+Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-400 1980-06-04 ART. 1 JORF 7 JUIN
+
+	**Cité par**:
+
+	  - Arrêté du 4 juin 1980 - art. 1 (V)
+	  - Code du travail - art. D524-3 (VT)
+
+
+###### Article D524-3
+
+Le taux et les conditions d'attribution de l'indemnité forfaitaire [*aux médiateurs*] prévue à l'article D. 524-1 ainsi que
+le taux et les conditions d'attribution des vacations [*aux experts*] et de l'indemnité forfaitaire [*aux personnes
+qualifiées*] prévues à l'article D. 524-2 sont fixés par arrêté conjoint des ministres chargés du travail, de l'agriculture
+et des finances [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-400 1980-06-04 ART. 1 JORF 7 JUIN
+
+	**Cité par**:
+
+	  - Arrêté du 4 juin 1980 - art. 1 (V)
+
+
+###### Article D524-4
+
+Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
+de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
+
+S'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
+appartiennent ;
+
+S'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux fonctionnaires
+du groupe I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Créé par**:
+
+	  - Décret n°80-400 du 4 juin 1980, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R2523-20 (V)
+
+
 ## CONFLITS DU TRAVAIL
 
 ### CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES
@@ -106293,6 +106288,121 @@ et du Code disciplinaire et pénal de la marine marchande.
 	**Cite**:
 
 	  - Code du travail - art. L436-1
+
+
+##### Section 3 : Règlement des conflits collectifs de travail
+
+##### Paragraphe 2 : Médiation.
+
+###### Article D742-12
+
+Il est alloué aux médiateurs figurant sur les listes établies conformément à l'article R. 742-30, ayant agi en cette qualité
+et en application du titre II du livre V du présent code, une indemnité forfaitaire pour chaque médiation dont le taux varie
+suivant l'importance du différend.
+
+L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
+déplacement à l'intérieur de leur résidence nécessités par l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Créé par**:
+
+	  - Décret n°80-400 du 4 juin 1980, v. init.
+
+	**Cité par**:
+
+	  - Arrêté du 4 juin 1980 - art. 1 (V)
+	  - Code du travail - art. D742-14 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R742-30
+
+
+###### Article D742-13
+
+Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
+
+Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-400 1980-06-04 ART. 2 JORF 7 JUIN
+
+	**Cité par**:
+
+	  - Arrêté du 4 juin 1980 - art. 1 (V)
+	  - Code du travail - art. D742-14 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D742-14
+
+Le taux et les conditions d'attribution de l'indemnité forfaitaire [*aux médiateurs*] prévue à l'article D. 742-12 ainsi que
+le taux et les conditions d'attribution des vacations [*aux experts*] et de l'indemnité forfaitaire [*aux personnes
+qualifiées*] prévues à l'article D. 742-13 sont fixés par arrêté conjoint des ministres chargés de la marine marchande, du
+travail et des finances [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-400 1980-06-04 ART. 2 JORF 7 JUIN
+
+	**Cité par**:
+
+	  - Arrêté du 4 juin 1980 - art. 1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D742-15
+
+Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
+de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
+
+a) S'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
+appartiennent ;
+
+b) S'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux
+fonctionnaires du groupe I.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-400 1980-06-04 ART. 2 JORF 7 JUIN
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 #### Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
