@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-07-06
+Version Consolidée au 1977-07-13
 
 # Partie législative ancienne
 
@@ -663,32 +663,6 @@ Nul ne peut recevoir des apprentis s'il n'est majeur ou émancipé.
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L117-8
-
-Le temps consacré par l'apprenti aux enseignements et activités pédagogiques mentionnés à l'article L. 116-3 est compté comme
-temps de travail. Pendant le reste du temps et dans la limite de l'horaire de travail applicable dans l'entreprise,
-l'apprenti est tenu d'effectuer le travail qui lui est confié par l'employeur. Ce travail doit être en relation directe avec
-la profession prévue au contrat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16 ART. 18
-
-	**Abrogé par**:
-
-	  - Loi n°77-767 1977-07-12 art. 9 II JORF 13 juillet 1977
-
-	**Cite**:
-
-	  - Code du travail - art. L116-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ##### Section 3 : Formation et résolution du contrat.
 
 ###### Article L117-12
@@ -817,6 +791,172 @@ terme.
 	**Cite**:
 
 	  - Code du travail - art. L122-12 (M)
+
+
+##### Chapitre VIII : Dispositions financières.
+
+###### Article L118-2
+
+Les concours apportés aux centres de formation d'apprentis par les redevables de la taxe d'apprentissage donnent lieu à
+exonération de plein droit de cette taxe dans la limite de la fraction prévue à l'article L. 118-3.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
+	  - Loi n°2005-841 du 26 juillet 2005 - art. 31 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 bis (M)
+	  - Code du travail - art. D811-57 (Ab)
+	  - Code du travail - art. L118-2-2 (M)
+	  - Code du travail - art. L118-3 (AbD)
+	  - Code du travail - art. R119-2 (M)
+	  - Code du travail - art. R119-33-1 (VT)
+	  - Code du travail - art. R119-4 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 17 février 1997
+	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L118-2-1
+
+Sont admis en exonération de la taxe d'apprentissage et pris en compte pour la détermination de la fraction de taxe prévue à
+l'article L. 118-3 les concours financiers apportés aux écoles d'enseignement technologique et professionnel qui bénéficient
+à la date de promulgation de la loi n. 77-767 du 12 juillet 1977 d'une dérogation au titre du régime provisoire prévu par
+l'article L. 119-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°77-767 1977-07-12
+	  - Code du travail - art. L119-3 (AbD)
+
+	**Cité par**:
+
+	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 13 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 bis (M)
+	  - Code du travail - art. L118-3 (AbD)
+	  - Code du travail - art. R119-2 (VT)
+	  - Code du travail - art. R119-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6241-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L118-3
+
+Les personnes ou entreprises redevables de la taxe d'apprentissage peuvent solliciter des exonérations s'ajoutant à celles
+prévues aux articles L. 118-1, L. 118-2 et L. 118-2-1 dans la mesure où elles justifient avoir participé à la formation des
+apprentis soit dans les conditions fixées auxdits articles, soit par des versements au Trésor public, soit encore sous ces
+deux formes, pour un montant au moins égal à une fraction de la taxe d'apprentissage dont elles sont redevables et qui est
+déterminée par le décret prévu à l'article L. 119-4.
+
+Le montant de cette fraction est obligatoirement réservé au développement de l'apprentissage.
+
+La partie de la taxe d'apprentissage qui est versée au Trésor public au titre de la fraction susindiquée est affectée aux
+concours visés à l'article L. 118-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16 ART. 31 JORF 17 juillet
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 1972 - art. 1 (Ab)
+	  - Arrêté du 12 avril 1972 - art. 5 (V)
+	  - Décret n°72-283 du 12 avril 1972 - art. 7 (Ab)
+	  - Décret n°74-1182 du 31 décembre 1974 - art. 1 (V)
+	  - Arrêté du 11 février 1976 - art. 1 (V)
+	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
+	  - Loi n°80-526 du 12 juillet 1980 - art. 27 (Ab)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 13 (Ab)
+	  - Loi n°87-1061 du 30 décembre 1987 - art. 19 (V)
+	  - Décret n°93-541 du 27 mars 1993 - art. 3 (V)
+	  - Arrêté du 30 juin 2003 - art. ANNEXE (V)
+	  - Arrêté du 24 juillet 2006 - art. 2 (V)
+	  - Arrêté du 20 janvier 1976 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 50-0 bis (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 227 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 227 bis (M)
+	  - Code du travail - art. D118-7 (VT)
+	  - Code du travail - art. D118-8 (VT)
+	  - Code du travail - art. D811 (VT)
+	  - Code du travail - art. D811-56 (Ab)
+	  - Code du travail - art. D811-57 (Ab)
+	  - Code du travail - art. D811-80 (Ab)
+	  - Code du travail - art. L118-2 (AbD)
+	  - Code du travail - art. L118-2-1 (AbD)
+	  - Code du travail - art. L118-2-4 (AbD)
+	  - Code du travail - art. L118-3-1 (T)
+	  - Code du travail - art. L118-3-2 (AbD)
+	  - Code du travail - art. L119-4 (AbD)
+	  - Code du travail - art. R119-1 (Ab)
+	  - Code du travail - art. R119-2 (VT)
+	  - Code du travail - art. R119-27 (Ab)
+	  - Code du travail - art. R119-29 (Ab)
+	  - Code du travail - art. R119-33-1 (VT)
+	  - Code du travail - art. R119-4 (VT)
+	  - Code du travail - art. R119-5 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L118-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L118-3-1
+
+Les employeurs relevant du secteur des banques et des assurances où existaient, avant le 1er janvier 1977 des centres de
+formation qui leur étaient propres, peuvent s'exonérer de la fraction de taxe d'apprentissage prévue à l'article L. 118-3, en
+apportant des concours financiers à ces centres s'ils s'engagent à faire donner à leurs salariés entrant dans la vie
+professionnelle et âgés de vingt ans au plus une formation générale théorique et pratique, en vue de l'obtention d'une
+qualification professionnelle sanctionnée par un des diplômes de l'enseignement technologique.
+
+Les conditions de cette formation seront précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 13 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 227 bis (M)
+	  - Code du travail - art. L118-2-3 (AbD)
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail - art. R119-2 (M)
+	  - Code du travail - art. R119-3 (VT)
+
+	**Transféré par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 37 (V) JORF 31 décembre 2004
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L118-3-2 (AbD)
+	  - Code du travail - art. L118-3-2 (M)
+	  - Code du travail - art. L6241-3 (VD)
 
 
 ##### Chapitre IX : Dispositions diverses.
@@ -1264,6 +1404,55 @@ de la présente loi.
 	  - Décret n°73-1046 1973-11-15
 
 
+##### CHAPITRE VII bis : DU STATUT DE L'APPRENTI .
+
+###### Article L117 BIS-2
+
+Le temps consacré par l'apprenti aux enseignements et activités pédagogiques mentionnés à l'article L. 116-3 est compris dans
+l'horaire de travail. Pour les reste du temps, et dans la limite de l'horaire de travail applicable dans l'entreprise,
+l'apprenti [*obligation*] est tenu d'effectuer le travail qui lui est confié par l'employeur. Ce travail doit être en
+relation directe avec la profession prévue au contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L116-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R151-2 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L117 BIS-5
+
+L'apprenti a droit, pour suivre des cours de formation organisés spécialement durant cette période dans les centres visés au
+chapitre VI ci-dessus, à un congé supplémentaire de cinq jours ouvrables à prendre dans le mois qui précède les épreuves du
+diplôme de l'enseignement technologique prévu dans le contrat d'apprentissage. Ce congé donne droit au maintien du salaire.
+Il s'ajoute au congé [*payé annuel*] prévu aux articles L. 223-2 et L. 223-3 et ne peut être imputé sur la durée normale de
+formation en centre de formation d'apprentissage prévue par le contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L223-2 (M)
+	  - Code du travail - art. L223-3 (M)
+	  - Code du travail L116-1 A L116-8
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R151-5 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### Chapitre IX : DISPOSITIONS DIVERSES.
 
 ###### Article L119-1
@@ -1551,6 +1740,141 @@ du travail au 1er mai 2008.
 	  - Code du travail R6223-2
 
 
+#### Chapitre VII bis : Du statut de l'apprenti.
+
+###### Article L117 BIS-1
+
+L'apprenti est un jeune travailleur en première formation professionnelle alternée, titulaire d'un contrat de travail de type
+particulier. Il bénéficie des dispositions applicables à l'ensemble des salariés dans la mesure où elles ne sont pas
+contraires à celles qui sont liées à sa situation de jeune en première formation.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6222-23 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L117 BIS-4
+
+Le travail de nuit défini à l'article L. 213-8 du présent code est interdit pour les apprentis de l'un et l'autre sexe âgés
+de moins de dix-huit ans. Toutefois, des dérogations pourront être accordées pour les établissements [*commerciaux,
+spectacle, restauration, hôtellerie*] visés et dans les conditions prévues à l'article L. 213-7 de ce code.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L213-7 (M)
+	  - Code du travail - art. L213-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6222-26 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R151-5 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L117 BIS-6
+
+Des décrets en Conseil d'Etat, pris après avis des commissions professionnelles consultatives compétentes, préciseront, pour
+certaines formations professionnelles limitativement fixées par décret, les conditions dans lesquelles les apprentis pourront
+accomplir les travaux dangereux que nécessite leur formation. Ces règlements définiront les formations spécifiques à la
+sécurité que devront dispenser les centres de formation d'apprentis et préciseront les conditions dans lesquelles les
+apprentis pourront effectuer certains travaux.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6222-31 (VD)
+	  - Code du travail - art. L6222-33 (VD)
+	  - Code du travail L6222-33, L6222-31, R6222-6
+
+
+###### Article L117 BIS-7
+
+Lorsque les apprentis fréquentent les centres de formation visés au chapitre VI ci-dessus, ils continuent à bénéficier de la
+législation de la sécurité sociale sur les accidents du travail et les maladies professionnelles dont ils relèvent en tant
+que salariés.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6222-32 (VD)
+
+	**Cite**:
+
+	  - Code du travail L116-1 A L116-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### Chapitre VIII : Dispositions financières.
 
 ###### Article L118-4
@@ -1724,6 +2048,38 @@ du travail au 1er mai 2008.
 
 
 #### Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
+
+###### Article L122-30
+
+L'inobservation par l'employeur des dispositions des articles L. 122-25 à L. 122-28 peut donner lieu à l'attribution de
+dommages intérêts au profit du bénéficiaire, en sus de l'indemnité de licenciement.
+
+En outre, lorsque, en application des dispositions précitées, le licenciement est nul, l'employeur est tenu de verser le
+montant du salaire qui aurait été perçu pendant la période couverte par la nullité.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1225-71 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L773-2 (M)
+	  - Code du travail - art. R152-3 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail 1029 V al. 2, 3 et 4
+
+	**Cite**:
+
+	  - Code du travail L122-25 à L122-28
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ##### Section 2 : Résiliation du contrat de travail à durée indéterminée
 
@@ -2753,6 +3109,48 @@ du travail au 1er mai 2008.
 
 ##### Section 5 : Protection de la maternité et éducation des enfants.
 
+###### Article L122-25
+
+L'employeur ne doit pas prendre en considération l'état de grossesse d'une femme pour refuser de l'embaucher, résilier son
+contrat de travail au cours d'une période d'essai ou, sous réserve des dispositions de l'article L. 122-25-1, [*si son état
+de santé médicalement constaté l'exige*], prononcer une mutation d'emploi. Il lui est en conséquence interdit de rechercher
+ou de faire rechercher toutes informations concernant l'état de grossesse de l'intéressée.
+
+La femme candidate à un emploi ou salariée n'est pas tenue, sous réserve des cas où elle demande le bénéfice des dispositions
+législatives et réglementaires concernant la protection de la femme enceinte, de révéler son état de grossesse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°75-625 1975-07-11 ART. 2 JORF 13 juillet 1975
+
+	**Cité par**:
+
+	  - Décret n°95-182 du 21 février 1995 - art. 15 (V)
+	  - Code du travail - art. D322-22-7 (VT)
+	  - Code du travail - art. D341-5-15 (V)
+	  - Code du travail - art. L122-25-1 (AbD)
+	  - Code du travail - art. L122-27 (AbD)
+	  - Code du travail - art. L123-2 (AbD)
+	  - Code du travail - art. L322-4-15-6 (M)
+	  - Code du travail - art. R122-9 (VT)
+	  - Code du travail - art. R322-17-7 (M)
+	  - Code du travail maritime - art. 5-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-25-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R152-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L122-25-1
 
 Les dispositions de l'article L. 122-25 ne font pas obstacle à l'affectation temporaire dans un autre emploi de la salariée
@@ -2849,6 +3247,60 @@ du travail au 1er mai 2008.
 	**Abrogé par**:
 
 	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+###### Article L122-28
+
+Pour élever son enfant, le salarié peut, sous réserve d'en informer son employeur par lettre recommandée avec demande d'avis
+de réception au moins quinze jours à l'avance, résilier son contrat de travail à l'issue du congé de maternité ou d'adoption
+prévu à l'article L. 122-26 ou, le cas échéant, deux mois après la naissance ou l'arrivée au foyer de l'enfant, sans être
+tenu de respecter le délai de préavis, ni de payer de ce fait une indemnité de rupture. Il peut, dans l'année suivant la
+rupture de son contrat, solliciter dans les mêmes formes son réembauchage ; l'employeur est alors tenu, pendant un an, de
+l'embaucher par priorité dans les emplois auxquels sa qualification lui permet de prétendre et de lui accorder, en cas de
+réemploi, le bénéfice de tous les avantages qu'il avait acquis au moment de son départ.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°77-766 du 12 juillet 1977 - art. 3 (V)
+	  - Décret n°84-591 du 4 juillet 1984 - art. 10 (V)
+	  - Décret n°84-1110 du 11 décembre 1984 - art. 10 (V)
+	  - Loi n°85-17 du 4 janvier 1985 - art. 7 (Ab)
+	  - Décret n°93-852 du 17 juin 1993 - art. Annexe, art. 23 (Ab)
+	  - Code du travail - art. L122-28-4 (T)
+	  - Code du travail - art. L122-28-7 (AbD)
+	  - Code du travail - art. R122-10 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L122-26 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1225-66 (VD)
+	  - Code du travail - art. L1225-67 (VD)
+	  - Code du travail L1225-66, L1225-67, R1225-12, R1225-13
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R152-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L122-29
@@ -5854,26 +6306,37 @@ conventions collectives ne sont pas contraires aux dispositions du présent code
 Aucun employeur ne peut engager d'apprentis s'il n'a fait l'objet d'un agrément par le comité départemental de la formation
 professionnelle, de la promotion sociale et de l'emploi.
 
-Cet agrément est accordé après avis, selon le cas, de la compagnie consulaire, de la chambre de métiers, de la chambre
-d'agriculture ou du comité d'entreprise, s'il est établi que l'équipement de l'entreprise, les techniques qu'elle utilise
-ainsi que les garanties de moralité et de compétence professionnelle offertes par ses membres, et notamment par la personne
-responsable directement de la formation de l'apprenti, sont de nature à permettre une formation satisfaisante. Le refus
-d'agrément doit être motivé.
+Cet agrément est accordé après avis du comité d'entreprise et, selon le cas, de la compagnie consulaire, de la chambre de
+métiers ou de la chambre d'agriculture. Il n'est accordé que si l'équipement de l'entreprise, les techniques utilisés, les
+conditions de travail et de sécurité dans l'entreprise ainsi que les garanties de moralité et de compétence professionnelle
+offertes par ses membres et notamment par la personne qui est directement responsable de la formation de l'apprenti, sont de
+nature à permettre une formation satisfaisante.
 
-L'agrément peut être retiré [*sanction*], après mise en demeure par les autorités chargées d'exercer le contrôle de
-l'exécution du contrat d'apprentissage, si les conditions dont il s'agit cessent, en tout ou en partie, d'être satisfaites ou
-dans le cas où l'employeur méconnaît les obligations résultant du présent titre.
+Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi statue sur les demandes
+d'agrément dans un délai de trois mois à partir de la réception de la demande. Toutefois, l'agrément est réputé acquis
+[*accord tacite*] s'il n'a pas fait l'objet, de la part du comité départemental, d'une décision de refus dans un délai de
+trois mois à partir de la réception de la demande et si aucun des organismes visés au deuxième alinéa du présent article n'a
+émis d'avis défavorable à la demande d'agrément.
 
-Les décisions du comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi sont
-communiquées aux fonctionnaires chargés du contrôle de l'application de la législation du travail et des lois sociales dans
-les établissements en cause, ainsi que, selon le cas, à la compagnie consulaire, à la chambre de métiers ou à la chambre
-d'agriculture.
+L'agrément peut être retiré par le comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi après mise en demeure par les autorités chargées d'exercer le contrôle de l'exécution du contrat d'apprentissage et
+notamment par l'inspection du travail ou l'inspection de l'apprentissage, lorsque l'employeur méconnaît les obligations mises
+à sa charge soit par le présent titre, soit par les autres dispositions du présent code applicables aux jeunes travailleurs
+ou aux apprentis, soit par le contrat d'apprentissage.
+
+Les décisions de refus ou de retrait d'agrément sont motivées. Elles peuvent faire l'objet, dans les deux mois de leur
+notification, d'un recours porté devant le comité régional de la formation professionnelle, de la promotion sociale et de
+l'emploi qui rend sa décision dans un délai de trois mois.
+
+Ce recours à effet suspensif lorsqu'il d'agit d'une décision de retrait d'agrément. Toutefois aucun nouveau contrat
+d'apprentissage ne peut être conclu pendant la durée de l'examen du recours.
+
+Les décisions du comité départemental ou du comité régional de la formation professionnelle, de la promotion sociale et de
+l'emploi sont communiquées aux fonctionnaires chargés du contrôle de l'application de la législation du travail et des lois
+sociales dans les établissements en cause, aux comités d'entreprise, ainsi que, selon le cas, à la compagnie consulaire, à la
+chambre de métiers ou à la chambre d'agriculture.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16 ART. 15 JORF 17 juillet
 
 	**Cité par**:
 
@@ -6066,45 +6529,6 @@ Elle n'est pas soumise aux charges sociales, fiscales et parafiscales.
 	**Cite**:
 
 	  - Code du travail - art. L119-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L118-2
-
-Les concours visés à l'article L. 118-1 et les concours qui sont apportés aux centres d'apprentis par les personnes ou
-entreprises redevables de la taxe d'apprentissage donnent lieu à exonération de plein droit de cette taxe dans la limite de
-la fraction prévue à l'article L. 118-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 du 16 juillet 1971 - art. 30, v. init.
-
-	**Cité par**:
-
-	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
-	  - Loi n°2005-841 du 26 juillet 2005 - art. 31 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 bis (M)
-	  - Code du travail - art. D811-57 (Ab)
-	  - Code du travail - art. L118-2-2 (M)
-	  - Code du travail - art. L118-3 (AbD)
-	  - Code du travail - art. R119-2 (M)
-	  - Code du travail - art. R119-33-1 (VT)
-	  - Code du travail - art. R119-4 (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 17 février 1997
-	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L118-1 (M)
 
 	**Codifié par**:
 
@@ -11072,8 +11496,8 @@ cette dérogation plus de quinze nuits par an sans l'autorisation de l'inspecteu
 
 ###### Article L213-7
 
-Le travail de nuit est interdit pour les jeunes travailleurs et apprentis de l'un ou l'autre âgés de moins de dix huit ans
-occupés dans les professions mentionnées à l'alinéa 1er de l'article L. 200-1.
+Le travail de nuit est interdit pour les jeunes travailleurs de l'un ou l'autre âgés de moins de dix huit ans occupés dans
+les professions mentionnées à l'alinéa 1er de l'article L. 200-1.
 
 Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées par
 l'inspecteur du travail pour les établissements commerciaux et ceux du spectacle. En ce qui concerne les professions de la
@@ -11099,11 +11523,6 @@ dispositions de l'alinéa précédent.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L3163-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 26
-	  - Ordonnance 1967-09-27 art. 14
 
 	**Codifié par**:
 
@@ -27549,6 +27968,298 @@ code du travail, soit de stipulations conventionnelles.
 	  - Décret n°82-1097 1982-12-23 art. 12 JORF 26 décembre 1982 en vigueur le 1er juillet 1985
 
 
+#### Chapitre VIII : Bilan social.
+
+###### Article L438-1
+
+Dans les entreprises et organismes énumérés aux alinéas 1 et 2 de l'article L. 431-1 ainsi que dans les entreprises
+mentionnées à l'article L. 438-9, le chef d'entreprise établit et soumet annuellement au comité d'entreprise un bilan social
+lorsque l'effectif habituel de l'entreprise est au moins de 300 salariés.
+
+Dans les entreprises comportant des établissements distincts, il est établi, outre le bilan social de l'entreprise et selon
+la même procédure, un bilan social particulier à chaque établissement dont l'effectif habituel est au moins de 300 salariés.
+
+Ces obligations ne se substituent à aucune des obligations d'information et de consultation du comité d'entreprise ou
+d'établissement qui incombent au chef d'entreprise en application, soit de dispositions législatives ou réglementaires, soit
+de stipulations conventionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Cité par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 4 (V)
+	  - Arrêté du 12 décembre 1997 - art. Annexe III (V)
+	  - Loi n°2000-108 du 10 février 2000 - art. 25 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 8 (VT)
+	  - Code du travail - art. D932-1 (VT)
+	  - Code du travail - art. L236-4 (AbD)
+	  - Code du travail - art. L438-2 (AbD)
+	  - Code du travail - art. L463-2 (T)
+	  - Code du travail - art. L473-2 (T)
+	  - Code du travail - art. L483-2 (AbD)
+	  - Code du travail - art. R231-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-68 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L431-1 (M)
+	  - Code du travail - art. L438-9 (M)
+
+
+###### Article L438-2
+
+I - Lorsque l'effectif de l'entreprise ou de l'établissement atteint le seuil d'assujettissement prévu à l'article L. 438-1,
+le premier bilan social de l'entreprise ou de l'établissement porte sur l'année suivant celle au cours de laquelle le seuil a
+été atteint.
+
+Le premier bilan social peut ne concerner que l'année écoulée ; le deuxième peut ne concerner que les deux dernières années
+écoulées.
+
+II - Lorsque l'effectif de l'entreprise ou de l'établissement devient inférieur au seuil d'assujettissement prévu à l'article
+L. 438-1 un bilan social est néanmoins présenté pour l'année en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-69 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L438-1 (M)
+
+
+###### Article L438-3
+
+Le bilan social récapitule en un document unique les principales données chiffrées permettant d'apprécier la situation de
+l'entreprise dans le domaine social, d'enregistrer les réalisations effectuées et de mesurer les changements intervenus au
+cours de l'année écoulée et des deux années précédentes.
+
+En conséquence, le bilan social comporte des informations sur l'emploi, les rémunérations et charges accessoires, les
+conditions d'hygiène et de sécurité, les autres conditions de travail, la formation, les relations professionnelles ainsi que
+sur les conditions de vie des salariés et de leurs familles dans la mesure où ces conditions dépendent de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-70 (VD)
+
+
+###### Article L438-4
+
+Après consultation des organisations professionnelles d'employeurs et de travailleurs les plus représentatives au niveau
+national, un décret en Conseil d'Etat fixe la liste des informations figurant dans le bilan social d'entreprise et dans le
+bilan social d'établissement.
+
+Un arrêté du ou des ministres compétents adapte le nombre et la teneur de ces informations à la taille de l'entreprise et de
+l'établissement.
+
+Certaines branches d'activité peuvent être dotées, dans les mêmes formes, de bilans sociaux spécifiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°77-1354 1977-12-08
+	  - TXT_SOURCE: Code du travail - art. Annexe à l'article R438-1 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R438-1 (V)
+
+	**Cité par**:
+
+	  - Décret n°92-1367 du 29 décembre 1992 - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-71 (VD)
+
+
+###### Article L438-5
+
+Sans préjudice des dispositions de l'article L. 132-1 du présent code le comité d'entreprise ou d'établissement émet chaque
+année un avis sur le bilan social.
+
+A cet effet, les membres du comité d'entreprise ou d'établissement reçoivent communication du projet de bilan social quinze
+jours au moins avant la réunion au cours de laquelle le comité émettra son avis. Cette réunion se tient dans les quatre mois
+suivant la fin de la dernière des années visées par le bilan social. Dans les entreprises comportant un ou plusieurs
+établissements tenus de présenter un bilan social d'établissement, la réunion au cours de laquelle le comité central
+d'entreprise émet son avis a lieu dans les six mois suivant la fin de la dernière des années visées par le bilan social.
+
+Dans le cas prévu à l'article L. 438-1, deuxième alinéa, les bilans sociaux particuliers et les avis émis sur ces bilans par
+les comités d'établissement sont communiqués aux membres du comité central d'entreprise dans les conditions prévues à
+l'alinéa précédent.
+
+Les délégués syndicaux reçoivent communication du projet de bilan social dans les mêmes conditions que les membres des
+comités d'entreprise ou d'établissement.
+
+Le bilan social, éventuellement modifié pour tenir compte de l'avis du comité compétent, est mis à la disposition de tout
+salarié qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Cite**:
+
+	  - Code du travail - art. L132-1 (M)
+	  - Code du travail L438-1 AL. 2
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-72 (VD)
+
+
+###### Article L438-6
+
+Les bilans sociaux des entreprises et établissements, éventuellement modifiés pour tenir compte de l'avis du comité
+compétent, ainsi que le procès-verbal de la réunion dudit comité, sont adressés à l'inspecteur du travail dans un délai de
+quinze jours à compter de cette réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-73 (VD)
+
+
+###### Article L438-7
+
+Dans les sociétés par actions, le dernier bilan social accompagné de l'avis du comité d'entreprise est adressé aux
+actionnaires ou mis à leur disposition dans les mêmes conditions que les documents prévus aux articles 162 et 168 de la loi n
+66-537 modifiée du 24 juillet 1966.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 ART. 162 ET 168
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-74 (VD)
+
+
+###### Article L438-8
+
+Le bilan social sert de base à l'application des articles L. 432-4 (cinquième alinéa), L. 437-2 et L. 951-8 ainsi qu'à celle
+des dispositions réglementaires du présent code qui prévoient l'établissement de programmes annuels.
+
+**Nota:**
+
+[*Nota - Loi 91-1405 du 31 décembre 1991 : les références aux articles L. 950-3 sont remplaçées par les articles L. 951-8.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-75 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L437-2 (Ab)
+	  - Code du travail - art. L951-8 (M)
+
+
+###### Article L438-9
+
+Des décrets en Conseil d'Etat fixent les mesures d'adaptation nécessaires à l'application des dispositions du présent
+chapitre dans les entreprises qui sont tenues de constituer un comité d'entreprise ou des organismes de représentation du
+personnel qui en tiennent lieu en vertu soit de dispositions législatives ou réglementaires autres que celles du code du
+travail, soit de stipulations conventionnelles.
+
+Ces décrets sont pris après avis des organisations syndicales les plus représentatives dans les entreprises intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Cité par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 4 (V)
+	  - Loi n°78-5 du 2 janvier 1978 - art. 1 (V)
+	  - Code du travail - art. L438-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-77 (VD)
+
+	**Cite**:
+
+	  - Code du travail L438-1 A L438-10
+
+
 ### Titre IV : Intéressement et participation
 
 #### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.
@@ -28963,6 +29674,35 @@ premier exercice suivant la publication de l'ordonnance.*]
 	**Cite**:
 
 	  - Code du travail L443-1 A L443-10
+
+
+### Titre VI : PENALITES
+
+#### Chapitre III : COMITE D'ENTREPRISE
+
+###### Article L463-2
+
+L'employeur qui ne présente pas le bilan social d'entreprise ou d'établissement prévu à l'article L. 438-1 sera passible des
+peines prévues à l'article L. 463-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Transféré par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L438-1 (M)
+	  - Code du travail - art. L463-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L473-2 (T)
 
 
 ## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
@@ -31962,6 +32702,31 @@ habituelle d'interruption de l'activité du salarié.
 	  - TXT_ASSOCIE: Code du travail - art. L463-1 (T)
 	  - TXT_ASSOCIE: Code du travail - art. L483-1 (AbD)
 	  - TXT_ASSOCIE: Code du travail R436-1 A R436-7
+
+
+#### BILAN SOCIAL .
+
+###### Article L438-10
+
+Les dispositions du présent chapitre ne font pas obstacle aux conventions comportant des clauses plus favorables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°77-769 du 12 juillet 1977 - art. 1 () JORF 13 juillet 1977
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L2323-76 (VD)
+
+	**Cite**:
+
+	  - Code du travail L438-1 A L438-10
 
 
 ### INTERESSEMENT ET PARTICIPATION
