@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-10-19
+Version Consolidée au 1975-10-31
 
 # Partie législative ancienne
 
@@ -72354,6 +72354,37 @@ occupé et le salaire perçu.
 	  - Code du travail R323-3, R323-15 AL. 3
 
 
+### Titre IV : MAIN-D'OEUVRE ETRANGERE
+
+#### Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
+
+##### SECTION 2 : OFFICE NATIONAL D'IMMIGRATION
+
+##### PARAGRAPHE 1 : DISPOSITIONS GENERALES.
+
+###### Article R341-9
+
+L'office national d'immigration relève du ministre chargé du travail. Il est chargé d'exécuter les opérations de recrutement
+et d'introduction des immigrants étrangers et de leurs familles prévues à l'article L. 341-9.
+
+Il peut notamment accomplir toute opération annexe concernant l'accueil, l'information, l'adaptation sociale et
+professionnelle ainsi que l'aide à apporter éventuellement au rapatriement des immigrants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L341-9 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R341-18 (VT)
+
+
 ## EMPLOI
 
 ### CONTROLE DE L'EMPLOI .
@@ -76433,27 +76464,6 @@ toute réquisition des agents désignés à /M/L'article L. 611-4 /M/DECR.0808 1
 
 
 #### OFFICE NATIONAL D'IMMIGRATION *ONI* .
-
-###### Article R341-9
-
-L'Office national d'immigration relève du ministre chargé du travail. Il est chargé d'exécuter, conformément au plan arrêté
-par la commission interministérielle d'immigration, les opérations matérielles de recrutement et d'introduction des
-immigrants étrangers et de leurs familles prévues à l'article L. 341-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L341-9 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R341-18 (VT)
-
 
 ##### ADMINISTRATION ET DIRECTION .
 
