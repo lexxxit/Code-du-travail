@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-09-19
+Version Consolidée au 1979-09-29
 
 # Partie législative ancienne
 
@@ -77080,27 +77080,6 @@ actions ou des parts appartenant à chacun des salariés. Une copie de ce relev�
 	  - Code du travail - art. R443-5 (Ab)
 
 
-###### Article R443-7
-
-Les entreprises ou les sociétés de gestion des fonds communs de placement prévus à l'article R. 443-11 ci-dessous établissent
-chaque année un compte rendu de leurs opérations contenant les indications nécessaires à l'information des salariés
-participant au plan d'épargne. Ce compte rendu est remis par l'entreprise à chacun de ces derniers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-528 1968-05-30 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R443-11 (Ab)
-
-
 ###### Article R443-8
 
 Les cas dans lesquels les salariés ou leurs ayants-droit peuvent obtenir avant l'expiration du délai prévu à l'article L.
@@ -77188,30 +77167,6 @@ ministre chargé de l'économie et des finances ;
 	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
 
 
-###### Article R443-11
-
-Les fonds communs de placement constitués pour l'emploi des sommes affectées à la réalisation d'un plan d'épargne
-d'entreprise ne peuvent comprendre que des valeurs mobilières françaises et des disponibilités courantes placées à court
-terme ou à vue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-528 1968-05-30 ART. 12
-	  - Décret n°87-544 du 17 juillet 1987 - art. 46 (T)
-	  - Décret n°1969-05-31
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R443-10 (M)
-	  - Code du travail - art. R443-7 (Ab)
-
-
 ###### Article R443-12
 
 /A/Les fonds communs de placement constitués en application de l'article L. 443-5 doivent êre gérés par une société
@@ -77256,68 +77211,6 @@ même, soit par une société régie par le statut de la coopération et constit
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-
-###### Article R443-13
-
-Le règlement de tout fonds commun de placement prévu à l'article R. 433-11 ci-dessus doit prévoir l'institution d'un conseil
-de surveillance.
-
-Celui-ci est composé de représentants des travailleurs participant au fonds désignés soit par élections, soit par le ou les
-comités d'entreprise intéressés, soit par les syndicats affiliés aux organisations les plus représentatives dans la branche
-d'activité considérée au sens des articles L. 133-1 et suivants du présent code. Il peut également comprendre, à concurrence
-de la moitié au plus de ses membres, des représentants de l'entreprise ou, si le fonds réunit des valeurs acquises en
-application de plans d'épargne établis dans plusieurs entreprises, des représentants de ces entreprises.
-
-L'avis du conseil de surveillance est recueilli par la société de gestion ou par l'entreprise dans les cas prévus par le plan
-d'épargne ; le conseil est obligatoirement réuni chaque année pour l'examen du rapport sur les opérations du fonds et les
-résultats obtenus pendant l'année écoulée.
-
-Il exerce les droits de vote attachés aux titres compris dans le fonds commun de placement et, à cet effet, désigne un ou
-plusieurs mandataires.
-
-Aucune modification du règlement du fonds commun de placement ne peut être décidée sans l'accord du conseil de surveillance
-[*condition*] .
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. R443-14 (Ab)
-	  - Code du travail - art. R444-1-3 (M)
-
-	**Cite**:
-
-	  - Code du travail L133-1 ET S.
-
-	**Anciens textes**:
-
-	  - Décret n°1969-05-31
-	  - Décret n°68-528 1968-05-30 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R443-14
-
-Les dispositions de l'article précédent ne sont pas applicables [*non*] aux fonds communs de placement gérés par une société
-régie par le statut de la coopération et constituée entre les salariés adhérant au plan d'épargne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-528 1968-05-30 ART. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R443-13 (Ab)
 
 
 ###### Article R443-15
@@ -88237,63 +88130,54 @@ propres définis au a ci-dessus les prêts à plus d'un an autres que ceux inclu
 
 ###### Article R442-11
 
-Les sommes revenant aux salariés et employés, en tout ou partie, en parts de fonds communs de placement ne peuvent être
-versées qu'à des fonds remplissant les conditions suivantes :
+I - Les établissements qui, en vertu de l'article 32 de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de
+placement, doivent détenir la moitié au moins des actions de la société gérant le fonds commun de placement sont, d'une part,
+les établissements énumérés à l'article 6 du décret n° 79-835 du 27 septembre 1979 et, d'autre part, les institutions de
+prévoyance à gestion paritaire habilitées par arrêté du ministre de l'économie et ayant pris l'engagement d'employer
+immédiatement les sommes versées en parts de fonds communs de placement.
 
-I - La moitié au moins des actions [*valeurs mobilières*] de la société gérant le fonds doit appartenir à un ou plusieurs des
-établissements énumérés aux 2., 3. et 4. de l'article R. 442-9 ci-dessus.
+II - Le décret précité du 27 septembre 1979 est applicable aux fonds communs de placement constitués en vertu d'un accord de
+participation, sous réserve des dispositions suivantes [*conditions*] :
 
-Toutefois, lorsque, en application d'un accord passé entre l'entreprise et son personnel en vertu de la Section II ci-après,
-les avoirs du fonds doivent être constitués à concurrence de 75 p. 100 au moins de valeurs mobilières émises par l'entreprise
-ou d'actions de sociétés d'investissement à capital variable, ou de l'une et l'autre de ces catégories de titres, ledit fonds
-peut, par dérogation aux dispositions de l'article 3 du décret susvisé du 28 décembre 1957, être géré soit par l'entreprise
-elle-même, soit par une société régie par le statut de la coopération et constituée entre les salariés de l'entreprise.
+a) le fonds ne peut comprendre des actions de sociétés d'investissement ou de S.I.C.A.V. dont le portefeuille est composé à
+plus de 50 p. 100 de valeurs étrangères que dans la limite de 10 p. 100 des actifs compris dans le fonds.
 
-Lorsque le fonds est géré par l'entreprise, celle-ci exerce les droits qui appartiennent et assume les obligations qui
-incombent aux sociétés de gestion de fonds commun de placement en application du décret susvisé du 28 décembre 1957 et des
-arrêtés pris pour son exécution.
+b) Le règlement du fonds comporte :
 
-II - Le fonds ne peut comprendre que des valeurs mobilières françaises et des disponibilités courantes placées à court terme
-ou à vue.
+- la durée des fonds ;
 
-a) Par dérogation aux dispositions de l'article 6 du décret susvisé du 28 décembre 1957 et si les accords visés à la section
-II le prévoient, il peut comprendre :
+- les modalités de souscription, de rachat et de transfert des parts ;
 
-Sans limitation, des actions de sociétés d'investissement à capital variable [*SICAV*] dont le portefeuille est composé, à
-concurrence de 50 p. 100 au moins, de valeurs françaises, des valeurs mobilières émises par l'entreprise, des valeurs
-mobilières émises par la société française dont l'entreprise est la filiale au sens de l'article 354 de la loi sur les
-sociétés commerciales, par les autres filiales françaises de cette dernière société et par les filiales françaises de
-l'entreprise elle-même ;
+- les commissions perçues à l'occasion de la souscription ou du rachat des parts ainsi que les frais de gestion ;
 
-Des actions de sociétés d'investissement autres que les sociétés d'investissement à capital variable, dans la limite, pour
-chacune d'elles :
+- les modalités et la périodicité du calcul de la valeur de la part ;
 
-De 10 p. 100 au plus des avoirs du fonds si leur portefeuille est composé, à concurrence de 50 p. 100 au moins, de valeurs
-françaises ;
+- l'indication que les revenus provenant des avoirs compris dans le fonds commun de placement sont obligatoirement réinvestis
+ou, si tel n'est pas le cas, les modalités de leurs distribution ;
 
-De 5 p. 100 au plus des avoirs du fonds dans le cas contraire.
+- la nature et la fréquence des informations à fournir aux porteurs de parts ;
 
-b) Par dérogation aux dispositions de l'article 7 du décret susvisé du 28 décembre 1957 et si les accords visés à la section
-II prévoient que la totalité des revenus du fonds seront obligatoirement réinvestis comme les sommes dont ils proviennent, le
-fonds commun est dispensé de répartir chaque année ces revenus aux propriétaires des parts.
+- la composition et les pouvoirs du conseil de surveillance ;
 
-III - Le règlement du fonds doit prévoir l'institution d'un conseil de surveillance. Ce conseil doit être composé de
-représentants des travailleurs participant au fonds, désignés soit par élection, soit par le ou les comités d'entreprise
-intéressés, soit par les syndicats affiliés aux organisations les plus représentatives dans la branche d'activité considérée
-au sens des articles L. 131-1 et suivants du Code du travail.
+- les conditions dans lesquels prennent effet les modifications qui ont reçu l'accord du conseil de surveillance ;
 
-Il peut également comprendre, à concurrence de la moitié au plus de ses membres des représentants de l'entreprise ou, si le
-fonds réunit les valeurs acquises avec des sommes provenant de réserves de participations constituées dans plusieurs
-entreprises, des représentants de ces entreprises.
+- les conditions de la liquidation et les modalités de la répartition des avoirs entre les porteurs.
 
-L'avis du conseil de surveillance est recueilli par la société de gestion ou par l'entreprise dans les cas prévus par le
-règlement du fonds ; le conseil est obligatoirement réuni chaque année pour l'examen du rapport sur les opérations du fonds
-et les résultats obtenus pendant l'année écoulée. Il exerce les droits de vote attachés aux titres compris dans le fonds
-commun de placement et, à cet effet, désigne un ou plusieurs mandataires. Aucune modification de règlement du fonds commun de
-placement ne peut être décidé sans son accord.
+c) Les représentants des salariés au conseil de surveillance du fonds sont désignés soit par élection, soit par le ou les
+comités d'entreprise intéressés, soit par les syndicats affiliés aux organisations les plus représentatives dans la branche
+d'activité considérée au sens des articles L. 131-1 et suivants du présent code.
 
-Les dispositions des deux alinéas précédents ne sont pas applicables [*exception*] aux fonds communs de placement gérés par
-une société régie par le statut de la coopération et constitués entre les salariés de l'entreprise.
+d) Le règlement du fonds peut prévoir que le fonds peut recevoir, à la demande de tout salarié disposant, en application de
+l'article L. 442-5 (2°), d'un droit de créance sur une entreprise, les sommes qui ont été attribuées à ce salarié au titre de
+la participation des salariés aux fruits de l'expansion dès lors que la période d'indisponibilité prévue à l'article L. 442-7
+est expirée ou que cette indisponibilité a été levée par anticipation en application de l'article R. 442-15. Dans ce cas, les
+sommes sont versées directement par l'entreprise dans les deux mois qui suivent la fin de la période d'indisponibilité.
+
+e) Le règlement d'un fonds qui ne comprend que les actions d'une seule société peut prévoir que le rachat peut être réglé en
+totalité ou en partie par la remise d'actions.
+
+f) Le rapport de gestion, établi conformément à l'article 33 de la loi précitée, est remis par l'entreprise à chacun de ses
+salariés [*information*].
 
 **Liens relatifs à cet article**
 
@@ -88301,25 +88185,25 @@ une société régie par le statut de la coopération et constitués entre les s
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Cite**:
+
+	  - Loi n°79-594 1979-07-13 ART. 32, 33
+	  - Loi n°79-594 du 13 juillet 1979 - art. 33 (Ab)
+	  - Décret n°79-835 du 27 septembre 1979 - art. 6 (Ab)
+	  - Code du travail - art. L442-5 (M)
+	  - Code du travail - art. L442-7 (M)
+	  - Code du travail - art. R442-15 (M)
+	  - Code du travail L131-1 ET S., L442-5, R442-15, L442-7
+
 	**Cité par**:
 
 	  - Arrêté du 30 juin 1983 - art. 16 (V)
 	  - Arrêté du 30 juin 1983 - art. 17 (V)
 	  - Code du travail - art. R443-10 (Ab)
 
-	**Cite**:
-
-	  - Code du travail - art. L131-1 (M)
-	  - Code du travail R442-16 A R442-22
-	  - Décret  1957-12-28 ART. 3, 6 ET 7
-
 	**Anciens textes**:
 
-	  - Décret n°1968-05-30 ART. 18
-	  - Décret n°67-1112 1967-12-19 ART. 11
-	  - Décret n°69-507 1969-05-31 ART. 2
 	  - Décret n°87-544 du 17 juillet 1987 - art. 16 (T)
-	  - Ordonnance 67-693 1967-04-17
 
 
 ###### Article R442-15
@@ -88378,48 +88262,21 @@ Décès du bénéficiaire ou de son conjoint.
 
 ###### Article R443-10
 
-Par dérogation aux dispositions de l'article 6 modifié du décret du 28 décembre 1957, les fonds communs de placement prévus à
-l'article R. 443-11 ci-dessous :
+Les dispositions de l'article R. 442-11 sont applicables aux fonds communs de placement constitués pour l'emploi des sommes
+affectées à la réalisation d'un plan d'épargne d'entreprise.
 
-1. Doivent comprendre, lorsqu'il s'agit d'une entreprise employant cent salariés au plus [*effectifs*], uniquement des
-actions de sociétés d'investissement à capital variable ;
-
-2. Peuvent comprendre, lorsqu'il s'agit d'une entreprise employant plus de cent salariés et que le plan d'épargne le
-prévoit :
-
-Sans limitation, des actions de sociétés d'investissement à capital variable [*SICAV*] dont le portefeuille est composé à
-concurrence de 50 p. 100 au moins de valeurs françaises, des valeurs mobilières émises par l'entreprise, des valeurs
-mobilières émises par la société française dont l'entreprise est la filiale au sens de l'article 354 de la loi du 24 juillet
-1966, par les autres filiales françaises de cette dernière société et par les filiales françaises de l'entreprise elle-même ;
-
-Des actions de sociétés d'investissement autres que les sociétés d'investissement à capital variable, dans la limite, pour
-chacune d'elles de 10 p. 100 au plus des avoirs du fonds si leur portefeuille est composé, à concurrence de 50 p. 100 au
-moins de valeurs françaises, de 5 p. 100 au plus des avoirs du fonds dans le cas contraire.
-
-Lorsque l'un de ces fonds communs de placement est géré par l'entreprise, celle-ci exerce les droits qui appartiennent et
-assume les obligations qui incombent aux sociétés de gestion de fonds commun de placement en application du décret n. 57-1342
-du 28 décembre 1957, relatif aux fonds communs de placement et des arrêtés pris pour son exécution.
-
-Par dérogation aux dispositions de l'article 7 du même décret, ces fonds communs de placement sont dispensés, lorsque le plan
-d'épargne d'entreprise prévoit que la totalité des revenus du fonds seront obligatoirement réinvestis, de répartir chaque
-année ces revenus aux propriétaires des parts.
+Toutefois, la gestion du fonds ne peut être confiée à une société régie par le statut de la coopération que si ses membres
+sont en même temps adhérents du plan d'épargne [*condition*].
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. R443-11 (Ab)
-	  - Décret n°1957-12-28 ART. 6
-	  - Décret n°57-1342 du 28 décembre 1957 - art. 7 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°69-507 1969-05-31
-	  - Décret n°68-528 1968-05-30 ART. 11
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R442-11 (M)
 
 
 ## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail
