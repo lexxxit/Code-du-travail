@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-07-13
+Version Consolidée au 1977-08-07
 
 # Partie législative ancienne
 
@@ -92747,6 +92747,115 @@ ministre.
 	  - Décret n°67-55 1967-01-18 ART. 12
 
 
+### Titre IV.
+
+###### Article R940-1
+
+Les titulaires d'un livret d'épargne institué par l'article 80 de la loi n. 76-1232 du 29 décembre 1976 qui désirent créer ou
+acquérir une entreprise artisanale ainsi que leur conjoint, sont prioritaires pour l'accès aux stages agréés ou conventionnés
+par l'Etat lorsque la formation dispensée vise l'acquisition de la qualification nécessaire à la gestion d'une entreprise.
+Toutefois, les intéressés ne bénéficient de cette priorité que dans l'année qui précède ou qui suit l'échéance du plan
+d'épargne et pour une formation d'une durée maximale de 400 heures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°76-1232 1976-12-29 ART. 80
+
+	**Cité par**:
+
+	  - Décret n°79-250 du 27 mars 1979 - art. 2 (Ab)
+	  - Code du travail - art. R940-2 (T)
+	  - Code du travail - art. R940-3 (T)
+	  - Code du travail - art. R941-2 (VT)
+	  - Code du travail - art. R941-3 (VT)
+	  - Code du travail - art. R960-29-1 (Ab)
+	  - Code du travail - art. R960-5 (M)
+	  - Code du travail - art. R961-5 (VT)
+
+	**Transféré par**:
+
+	  - Décret n°92-113 du 4 février 1992 - art. 1 () JORF 5 février 1992
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R941-1 (V)
+
+
+###### Article R940-2
+
+L'Etat prend à sa charge les frais de stage des personnes [*titulaires d'un livret d'épargne pour entreprise artisanale*]
+visées à l'article R. 940-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°92-113 du 4 février 1992 - art. 1 () JORF 5 février 1992
+
+	**Cite**:
+
+	  - Code du travail - art. R940-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R940-3 (T)
+	  - Code du travail - art. R941-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R941-2 (V)
+
+
+###### Article R940-3
+
+Si le titulaire d'un livret d'épargne, ou son conjoint, ayant suivi un stage dans les conditions prévues à l'article R. 940-1
+ne crée pas ou n'acquiert pas une entreprise artisanale dans l'année qui suit l'achèvement du stage, il est tenu
+[*obligation*] le rembourser à l'Etat 50 p. 100 de frais de stage dans les deux cas suivants :
+
+Lorsque l'aide de l'Etat prévue à l'article R. 940-2 est limitée aux titulaires d'un livret d'épargne ;
+
+Lorsque le stage a été suivi avec maintien du contrat de travail et que les conditions de délai prévues aux trois premiers
+alinéas de l'article R. 930-6 du code du travail ne sont pas remplies.
+
+L'intéressé est exonéré du remboursement lorsque l'établissement dépositaire du livret d'épargne a refusé de délivrer le prêt
+prévu au troisième paragraphe de l'article 80 de la loi n. 76-1232 du 29 décembre 1976.
+
+Il peut également être exonéré du remboursement en fonction de circonstances exceptionnelles par décision de l'autorité
+signataire de la convention ou, dans le cas de stage ne faisant pas l'objet d'une convention, par décision du préfet de
+région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°76-1232 1976-12-29 ART. 80
+	  - Code du travail - art. R930-6 (M)
+	  - Code du travail - art. R940-1 (T)
+	  - Code du travail - art. R940-2 (T)
+
+	**Transféré par**:
+
+	  - Décret n°92-113 du 4 février 1992 - art. 1 () JORF 5 février 1992
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R941-3 (V)
+
+
 ### Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3
 
 #### Section 1 : Modalités d'application des dispositions de l'article L. 970-1.
@@ -95216,6 +95325,26 @@ chaque période de stage correspondant à une année scolaire.
 	**Cite**:
 
 	  - Code du travail R960-24 ET R960-25
+
+
+###### Article R960-29-1
+
+L'Etat prend à sa charge la rémunération des stagiaires mentionnés à l'article R. 940-1.
+
+Lorsque ces stagiaires suivent un stage de promotion professionnelle, leur rémunération est, par application du troisième
+alinéa de l'article L. 960-3, calculée dans les conditions prévues à l'article L. 960-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L960-3 (M)
+	  - Code du travail - art. L960-8 (M)
+	  - Code du travail - art. R940-1 (T)
 
 
 #### STAGES OUVRANT DROIT A REMUNERATION .
