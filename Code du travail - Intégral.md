@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-08-04
+Version Consolidée au 1973-11-15
 
 # Partie législative ancienne
 
@@ -2393,6 +2393,54 @@ application dans les départements d'outre-mer.
 	**Cite**:
 
 	  - Code du travail L351-1 A L351-18
+
+
+# Partie réglementaire ancienne - Décrets en Conseil d'Etat
+
+## Livre V : Conflits du travail
+
+### Titre III : Pénalités
+
+#### Chapitre II : Conflits collectifs
+
+##### Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.
+
+###### Article R532-2
+
+Les employeurs des professions et régions comprises dans le champ d'application d'un accord de conciliation ou d'une sentence
+arbitrale dont les dispositions auront fait l'objet d'un arrêté d'extension pris en application de l'article L. 526-2, qui
+auront payé des salaires inférieurs à ceux qui sont fixés par cet accord de conciliation ou cette sentence arbitrale seront
+passibles d'une amende de 600 F à 1.200 F.
+
+L'amende sera appliquée autant de fois qu'il y aura de salariés ayant reçu un salaire inférieur à celui qui est fixé pour
+leur catégorie par l'accord de conciliation ou la sentence arbitrale. 
+
+En cas de récidive, le contrevenant sera puni d'une amende de 1.200 F à 3.000 F [*taux résultant du décret 567 du 18 juillet
+1980*].
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L526-2 (P)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 # Partie réglementaire ancienne - Décrets simples
