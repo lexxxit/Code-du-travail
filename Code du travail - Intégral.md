@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-02-02
+Version Consolidée au 1978-02-26
 
 # Partie législative ancienne
 
@@ -104158,6 +104158,40 @@ En cas de décès, le conjoint ou l'un des enfants bénéficiaires peut voir mai
 	  - Décret n°73-1048 1973-11-15
 
 
+### TRAVAILLEURS PRIVES D'EMPLOI
+
+#### GARANTIES DE RESSOURCES.
+
+###### Article D351-8
+
+A compter du 20 février 1978 *date point de départ*, les taux journaliers des allocations d'aide publique aux travailleurs
+privés d'emploi fixés à l'article R. 351-8 du code du travail sont modifiés ainsi qu'il suit :
+
+AYANTS-DROIT :
+
+- Allocation principale pendant les trois premiers mois :
+
+16,50 francs, après le troisième mois : 15,20 francs.
+
+- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 6,60 francs, après le troisième mois :
+
+6,60 francs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-530 du 3 juillet 1979 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R351-8 (M)
+
+
 ## Livre III : EMPLOI
 
 ### Titre II : EMPLOI
@@ -104640,33 +104674,6 @@ salaire normalement attribué pour des travaux analogues.
 	**Anciens textes**:
 
 	  - Décret  1949-07-15 ART. 7
-
-
-###### Article D351-8
-
-A compter du 4 avril 1977 *date*, les taux journaliers des allocations d'aide publique aux travailleurs privés d'emploi fixés
-à l'article R. 351-8 du code du travail sont modifiés ainsi qu'il suit :
-
-Ayant-Droit :
-
-- Allocation principale pendant les trois premiers mois : 15 Francs après le troisième mois : 13,80 Francs .
-
-- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 6 Francs, après le troisième mois : 6
-Francs .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-530 du 3 juillet 1979 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R351-8 (M)
 
 
 ## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
