@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-07-18
+Version Consolidée au 1980-07-23
 
 # Partie législative ancienne
 
@@ -58019,6 +58019,72 @@ F à 6.000 F (1) [*montant*].
 
 #### Chapitre III : CONVENTIONS COLLECTIVES
 
+###### Article R153-1
+
+Toute infraction aux dispositions concernant l'affichage d'une convention collective de travail ou de l'arrêté d'extension
+d'une telle convention sera passible d'une amende de 600 F à 1.200 F.
+
+Dans le cas de récidive dans le délai d'un an [*durée limite*], elle sera passible d'un emprisonnement de huit jours au plus
+[*durée limite*] et d'une amende pouvant aller jusqu'à 3.000 F [*taux résultant du décret 567 du 18 juillet 1980*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 JUILLET 1980
+
+
+###### Article R153-2
+
+Les employeurs des professions et régions comprises dans le champ d'application d'une convention collective de travail dont
+les dispositions auront fait l'objet d'un arrêté portant extension pris en application des articles L. 133-10 à L. 133-15 qui
+auront payé des salaires inférieurs à ceux qui sont fixés par cette convention ou qui auront contrevenu aux dispositions
+concernant les accessoires du salaire prévus par la convention, par un texte législatif ou par un texte réglementaire, sont
+passibles d'une amende de 600 F à 1.200 F.
+
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, le contrevenant est passible d'une amende de 1.200 F à 3.000 F [*taux résultant du
+décret 567 du 18 juillet 1980*].
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 JUILLET 1980
+
+	**Cité par**:
+
+	  - Code du travail - art. R154-2 (Ab)
+	  - Code du travail - art. R532-2 (V)
+
+	**Cite**:
+
+	  - Code du travail L133-10 A L133-15
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 ART. 3
+
+
 ###### Article R153-3
 
 Si, à la suite de la lettre recommandée ou de l'avertissement mentionnés à l'article R. 133-3, l'organisation s'abstient,
@@ -73840,6 +73906,48 @@ Le tribunal pourra ordonner, aux frais du condamné, l'affichage du jugement sur
 	  - Code du travail - art. R324-1 (M)
 
 
+#### Chapitre IV : MAIN D'OEUVRE ETRANGERE
+
+##### PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE
+
+###### Article R364-1
+
+L'employeur qui aura contrevenu aux prescriptions des articles L. 341-6 et L. 341-7 [*emploi de travailleurs étrangers en
+situation irrégulière*] sera passible d'un emprisonnement de dix jours à un mois [*durée*] et d'une amende de 1.200 F à 3.000
+F ou de l'une de ces deux peines seulement. En cas de récidive dans le délai d'un an, la peine d'emprisonnement pourra être
+portée à deux mois et celle d'amende à 6.000 F [*taux résultant du décret 567 du 18 juillet 1980*].
+
+L'amende sera de 300 F à 600 F pour chaque infraction constatée aux prescriptions de l'article R. 341-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 JUILLET 1980
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L341-6 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-6 (M)
+	  - Code du travail - art. L341-7 (Ab)
+	  - Code du travail - art. R341-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R364-2 (P)
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 ART. 19
+
+
 #### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 ##### Paragraphe 2 : Protection de la main-d'oeuvre nationale
@@ -79669,6 +79777,42 @@ professionnelle ainsi que l'aide à apporter éventuellement au rapatriement des
 	**Cité par**:
 
 	  - Code du travail - art. R341-18 (VT)
+
+
+### Titre VI : PENALITES
+
+#### Chapitre II : EMPLOI
+
+##### SECTION 1 : CONTROLE DE L'EMPLOI
+
+###### Article R362-1
+
+Toute personne qui aura contrevenu aux dispositions de l'article L. 321-2 [*règlement intérieur*] ainsi qu'aux règlements
+pris pour son application est passible d'une amende de 600 F à 1.200 F [*taux résultant du décret 567 du 18 juillet 1980*].
+
+Est passible de la même peine toute personne qui aura contrevenu aux dispositions de l'article R. 321-1 à R. 321-3 et R.
+321-5.
+
+Est passible de la même peine toute personne qui aura contrevenu aux dispositions de l'article R. 321-10 ou qui n'aura pas à
+l'occasion d'une demande de licenciement pour cause économique fourni les renseignements prévus à l'article R. 321-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 JUILLET 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R362-1-1 (V)
 
 
 ## EMPLOI
@@ -85579,47 +85723,6 @@ allocations effectuer toutes les opérations de contrôle prévues à l'article 
 	  - Code du travail - art. R351-52 (P)
 
 
-### PENALITES
-
-#### EMPLOI
-
-##### CONTROLE DE L'EMPLOI .
-
-###### Article R362-1
-
-Toute personne qui aura contrevenu aux dispositions de l'article L. 321-2 [*règlement intérieur*] ainsi qu'aux règlements
-pris pour son application est passible d'une amende de 160 F à 600 F [*montant*].
-
-//DECR.0326 05-05-1975 : Est passible de la même peine toute personne qui aura contrevenu aux dispositions de l'article R.
-321-1 à R. 321-3 et R. 321-5.
-
-Est passible de la même peine toute personne qui aura contrevenu aux dispositions de l'article R. 321-10 ou qui n'aura pas à
-l'occasion d'une demande de licenciement pour cause économique fourni les renseignements prévus à l'article R. 321-8// .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L321-2 (M)
-	  - Code du travail - art. R321-10 (M)
-	  - Code du travail - art. R321-5 (M)
-	  - Code du travail - art. R321-8 (M)
-	  - Code du travail R321-1 A R321-3, R321-5, R321-8, R321-10
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R362-1-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail R361-3 (novembre 1973)
-	  - Décret n°72-985 1972-10-24 ART. 33
-
-
 ## Livre V : Conflits du travail
 
 ### Titre Ier : Conflits individuels
@@ -89455,6 +89558,51 @@ En cas de récidive dans le délai d'un an, l'amende pourra être portée à 300
 
 
 #### Chapitre II : OBLIGATIONS DES EMPLOYEURS
+
+###### Article R632-1
+
+Seront passibles d'une amende de 300 F à 600 F :
+
+1. Les infractions aux articles L. 620-1 à L. 620-11 et aux règlements pris pour leur application ;
+
+2. Les infractions aux articles R. 620-1 à R. 620-5.
+
+En cas de récidive dans le délai d'un an, les contrevenants seront passibles d'une amende de 600 F à 1.200 F [*taux résultant
+du décret 567 du 18 juillet 1980*].
+
+En cas de récidive dans le délai d'un an, les contrevenants seront passibles d'une amende de 160 F à 600 F.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-821 du 23 juillet 1957 - art. 9 (Ab)
+	  - Code du travail - art. R632-2 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-567 du 18 juillet 1980 - art. 2 (V) JORF 23 JUILLET 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L620-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. R632-2 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R620-5 (V)
+	  - Code du travail R620-1 A R620-4, R620-5
+
+	**Anciens textes**:
+
+	  - Code du travail 2158, 2159, 2160
+	  - Décret  1972-10-24 ART. 14
+
 
 ###### Article R632-2
 
