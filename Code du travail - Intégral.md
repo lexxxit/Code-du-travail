@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-12-02
+Version Consolidée au 1979-12-02 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -51948,2876 +51948,6 @@ autorisations d'absence pourront être accordées.
 
 # Partie réglementaire ancienne - Décrets en Conseil d'Etat
 
-## CONFLITS DU TRAVAIL
-
-### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-
-#### INSTITUTION DES CONSEILS DE PRUD'HOMMES .
-
-###### Article R511-3
-
-Il ne peut exister dans chaque commune qu'un conseil de prud'hommes [*nombre limite*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 4 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-#### ORGANISATION DES CONSEILS DE PRUD'HOMMES .
-
-###### Article R512-1
-
-Les élections pour le renouvellement triennal prévu à l'article L. 512-3 ont lieu dans le courant du mois de novembre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 7
-	  - Décret n°63-992 1963-10-02
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L512-3 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L512-3 (M)
-
-
-#### ELECTION DES PRUD'HOMMES
-
-##### ETABLISSEMENT DES LISTES ELECTORALES .
-
-###### Article R513-1
-
-Chaque année, pendant les vingt premiers jours du mois de mars, non compris les jours fériés, le maire de chaque commune du
-ressort, assisté d'un électeur ouvrier, d'un électeur employé et d'un électeur employeur désignés par le conseil municipal,
-inscrit sur des tableaux différents le nom, la profession et le domicile des électeurs ouvriers, employés et employeurs.
-
-Pendant la même période, il est procédé à l'inscription des électeurs résidant en dehors du ressort du conseil et à la
-réception des déclarations des employés concernant le genre d'activité professionnelle dont ils relèvent.
-
-Les électeurs qui exercent leur profession dans un établissement sont inscrits à la mairie du lieu où est situé cet
-établissement ; ceux qui exercent leur profession en dehors de tout établissement sont inscrits à la mairie du lieu où
-l'engagement a été contracté.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (Ab)
-	  - Code du travail - art. R513-2 (M)
-	  - Code du travail - art. R513-7 (M)
-	  - Code du travail - art. R513-9 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1963-10-02 ART. 1 AL. 6
-	  - Décret n°58-1292 1958-12-22 ART. 23
-	  - Décret n°65-111 1965-12-13 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R513-2
-
-Les tableaux prévus au premier alinéa de l'article précédent sont adressés au préfet, qui dresse et arrête la liste de chaque
-catégorie d'électeurs.
-
-Les listes sont déposées au /M/secrétariat/M/Loi 0044 :
-
-secrétariat-greffe// des conseils de prud'hommes ; en cas de création d'un conseil, elles sont déposées à la mairie du siège
-du conseil. En outre, la liste des électeurs de chaque commune est déposée au secrétariat de la mairie. Dans les villes
-divisées en plusieurs arrondissements municipaux, la liste des électeurs de chaque arrondissement est déposée au secrétariat
-de mairie de cet arrondissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 24
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
-
-	**Cité par**:
-
-	  - Décret n°2002-398 du 22 mars 2002 - art. 1 (V)
-	  - Décret n°2007-1818 du 24 décembre 2007 (V)
-	  - Décret n°2007-1818 du 24 décembre 2007 - art. 1 (V)
-	  - Code du travail - art. R513-17 (Ab)
-	  - Code du travail - art. R513-7 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. R513-1 (M)
-
-
-###### Article R513-3
-
-Les électeurs sont avisés du dépôt des listes par affiche apposée à la porte des mairies. Pendant les trente jours qui
-suivent la publication, toute personne mentionnée aux articles L. 513-1, L. 513-2 et L. 513-3 peut exercer un recours soit en
-vue de son inscription, soit en vue de la radiation d'une personne indûment inscrite.
-
-Lorsque le dernier jour du délai prévu à l'alinéa précédent est un jour férié ou un samedi le recours peut encore être exercé
-au cours du premier jour ouvrable qui suit.
-
-Les recours sont portés devant le tribunal d'instance dans le ressort duquel est située la commune dont la liste est
-contestée. Ils sont introduits par simple déclaration aux greffes effectuées sans frais et dont il est donné récépissé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 25 AL. 1 A 3
-	  - Décret n°1963-10-02 ART. 1 AL. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L513-1 (M)
-	  - Code du travail - art. L513-2 (M)
-	  - Code du travail - art. L513-3 (M)
-
-
-###### Article R513-4
-
-Le tribunal d'instance statue dans les dix jours [*délai*]
-
-sans frais ni forme de procédure et sur simple avertissement donné par ses soins à toutes les parties intéressées.
-
-La décision est le jour même transmise au /M/secrétaire/M/Loi 0044 : greffier en chef// du conseil de prud'hommes et au maire
-de la commune intéressée, lequel, dans les trois jours de la réception, la notifie par lettre recommandée aux parties
-[*formalités*] et, dans le cas où cette sentence ordonne l'inscription sur la liste d'une personne qui n'y figurait pas,
-l'affiche à la mairie.
-
-Toutefois, si la demande portée devant le tribunal d'instance implique la solution préjudicielle d'une question qui échappe à
-sa compétence, il renvoie les parties à se pourvoir devant le tribunal compétent et fixe le délai dans lequel la partie qui
-soulève la question préjudicielle devra justifier de ses diligences. Il est procédé, en ce cas, conformément aux articles 855
-et 858 du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de procédure civile 855 ET 858
-
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 25 AL. 4, 5, 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
-
-
-###### Article R513-5
-
-La décision du tribunal d'instance n'est pas susceptible d'opposition ni d'appel. Elle peut être déférée à la Cour de
-cassation par ceux qui y ont été parties, et, en outre, dans le cas où elle ordonnerait l'inscription sur la liste d'une
-personne qui n'y figurait pas, par tout électeur inscrit sur la liste électorale de la circonscription.
-
-Le pourvoi n'est recevable que s'il est formé dans les dix jours [*délai*] de l'affichage ou de la notification de la
-décision. Il n'est pas suspensif. Il est formé par simple requête dénoncée au défendeur dans les dix jours qui suivent et
-jugé d'urgence sans frais ni consignation d'amende.
-
-L'intermédiaire d'un avocat au Conseil d'Etat et à la Cour de cassation n'est pas obligatoire.
-
-Les pièces et mémoires des parties sont transmis immédiatement et sans frais par le greffier du tribunal d'instance au
-greffier en chef de la Cour de cassation.
-
-Ce dernier transmet une copie de l'arrêt au greffier du tribunal d'instance qui en avise le maire, lequel, dans les trois
-jours de la réception, la notifie par lettre recommandée [*formalités*] aux parties et en avise le /M/secrétaire/M/loi 0044 :
-greffier en chef// du conseil des prud'hommes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1963-10-02 ART. 3 , 25 BIS
-	  - Décret n°58-1292 1958-12-22
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
-
-
-###### Article R513-6
-
-Les listes électorales rectifiées, s'il y a lieu, par suite de décisions judiciaires, sont closes définitivement huit jours
-avant l'élection. Ces listes servent pour toutes les élections de l'année.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 25 BIS DERNIER AL.
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R513-7
-
-En cas de création ou de réorganisation de conseils ou de sections il peut être procédé à la confection des listes
-électorales sans attendre l'époque fixée par l'article R. 513-1. Le point de départ de la période de vingt jours prévue par
-ledit article est fixé dans ce cas par un arrêté préfectoral.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R513-1 (M)
-
-
-#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE.
-
-###### Article R515-4
-
-Chaque conseil de prud'hommes comprend une formation de référé commune à l'ensemble des sections du conseil de prud'hommes.
-
-Cette formation est composée d'un prud'homme salarié et d'un prud'homme employeur.
-
-L'assemblée générale du conseil de prud'hommes désigne chaque année, selon les dispositions de l'article L. 512-7, les
-conseillers prud'hommes employeurs et les conseillers prud'hommes salariés appelés à tenir les audiences de référé. Le nombre
-des conseillers prud'hommes ainsi désignés doit être suffisant pour assurer, selon un roulement établi par le règlement
-intérieur du conseil de prud'hommes, le service des audiences de référé.
-
-La présidence des audiences de référé est assurée alternativement par un conseiller prud'homme employeur et par un conseiller
-prud'homme salarié dans les conditions fixées par le règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 15 (V)
-	  - Décret n°82-1073 du 15 décembre 1982 - art. 35 (V)
-	  - Code du travail - art. R512-5 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L512-7 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R516-18 (M)
-
-
-#### PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES
-
-###### Article R516-44
-
-Les jugements et décisions du conseil de prud'hommes sont notifiés par le secrétariat-greffe aux parties en cause, au lieu où
-elles demeurent réellement,
-
-par lettre recommandée avec demande d'avis de réception, sans préjudice du droit des parties de les faire signifier par acte
-d'huissier de justice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-42 (M)
-	  - Code du travail R516-42 (1979)
-
-	**Cité par**:
-
-	  - Code du travail - art. R519-2 (Ab)
-
-
-###### Article R516-45
-
-Les demandes relatives à des contestations nées à l'occasion du contrat de travail et dont les tribunaux d'instance sont
-saisis soit parce qu'il n'existe pas de conseil de prud'hommes dans le ressort, soit parce qu'il n'existe pas à ce conseil
-une section compétente pour la profession intéressée, sont formées, instruites et jugées tant devant le tribunal d'instance
-que devant la cour d'appel et la Cour de cassation [*compétence*] , conformément aux règles établies par les dispositions du
-présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail R511-1 A R51-11-1
-
-	**Anciens textes**:
-
-	  - Code du travail R516-15 (1973)
-
-
-##### RECEVABILITE DES DEMANDES .
-
-###### Article R516-2
-
-Les demandes nouvelles dérivant du même contrat de travail sont recevables en tout état de cause, même en appel,
-
-sans que puisse être opposée l'absence de tentative de conciliation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-4 (M)
-
-
-###### Article R516-3
-
-Les juridictions statuant en matière prud'homale connaissent de toutes les demandes reconventionnelles ou en compensation
-qui, par leur nature, entrent dans leur compétence, même si elles sont formées en cause d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-2 (V)
-	  - Code du travail R516-2 al. 2
-
-	**Cité par**:
-
-	  - Code du travail - art. R519-2 (M)
-
-
-##### SAISINE DU CONSEIL DES PRUD'HOMMES .
-
-###### Article R516-9
-
-La demande est formée au secrétariat du conseil de prud'hommes. Elle peut lui être adressée par lettre recommandée
-[*formalités*] .
-
-Elle doit indiquer [*mentions obligatoires*] les nom, profession et adresse des parties ainsi que ses différents chefs. Le
-secrétariat délivre ou envoie un récépissé au demandeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-32 (VT)
-	  - Code du travail - art. R517-6 (VT)
-	  - Code du travail - art. R519-3 (Ab)
-
-
-###### Article R516-10
-
-Le /M/secrétariat/M/loi 0044 : secrétariat-greffe// avise le demandeur des lieu, jour et heure de la séance du bureau de
-conciliation à laquelle l'affaire sera appelée soit verbalement lors de la présentation de la demande, soit par lettre simple
-qui jouit de la franchise postale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-32 (VT)
-	  - Code du travail - art. R517-6 (VT)
-	  - Code du travail - art. R519-2 (Ab)
-
-
-###### Article R516-11
-
-Le /M/secrétariat/M/loi 0044 : secrétariat-greffe// convoque le défendeur devant le bureau de conciliation par lettre
-recommandée avec demande d'avis de réception. Il lui adresse le même jour copie de cette convocation par lettre simple qui
-jouit de la franchise postale.
-
-La convocation destinée au défendeur indique les nom,
-
-profession et domicile du demandeur, les lieu, jour et heure de la séance du bureau de conciliation à laquelle l'affaire sera
-appelée ainsi que les chefs de la demande. Elle informe en outre le défendeur que des décisions exécutoires /R/par provision/
-R/DECR.1122 05-12-1975 : à titre provisoire// pourront même en son absence, être prises contre lui par le bureau de
-conciliation //DECR.1122 : au vu des seuls éléments fournis par son adversaire//.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-32 (VT)
-	  - Code du travail - art. R517-6 (VT)
-	  - Code du travail - art. R519-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail R516-2 (1973)
-
-
-##### LA TENTATIVE DE CONCILIATION .
-
-###### Article R516-13
-
-La partie qui succombe est condamnée aux dépens envers le Trésor.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°82-1073 du 15 décembre 1982 - art. 42 (V)
-	  - Code du travail - art. R516-33 (VT)
-	  - Code du travail - art. R516-46 (VT)
-	  - Code du travail - art. R516-9 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-43 (Ab)
-
-
-###### Article R516-14
-
-En cas de conciliation totale ou partielle, le procès-verbal mentionne la teneur de l'accord intervenu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-33 (VT)
-	  - Code du travail - art. R516-9 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R516-7 (M)
-	  - Code du travail R516-7 (1973)
-
-
-###### Article R516-15
-
-A défaut de conciliation totale, les points contestés sont consignés au procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R516-15 (M)
-	  - Code du travail R516-7 (1973)
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-33 (VT)
-	  - Code du travail - art. R516-9 (M)
-
-
-###### Article R516-16
-
-Si, au jour fixé pour la tentative de conciliation, le demandeur ne comparaît pas sans avoir justifié en temps utile d'un
-motif légitime, la demande et la citation sont caduques [*sanction*] . La demande ne peut être réitérée qu'une seule fois
-[*limite*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-9 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail R516-3 (1973)
-
-
-###### Article R516-17
-
-Si, au jour fixé pour la tentative de conciliation, le défendeur ne comparaît pas, le bureau de conciliation procède comme il
-est dit à l'article R. 516-20 [*renvoi devant bureau de jugement ou conseillers rapporteurs*] , après avoir, s'il y a lieu,
-usé des pouvoirs prévus à l'article R. 516-18.
-
-Toutefois, si le défendeur a justifié en temps utile d'un motif légitime, il est convoqué à une prochaine séance du bureau de
-conciliation par lettre simple.
-
-S'il apparaît que le défendeur n'a pas été joint, sans faute de sa part, par la première convocation , le bureau de
-conciliation décide qu'il sera à nouveau convoqué a une prochaine séance soit par lettre recommandée du /M/secrétariat/M/loi
-0044 : secrétariat-greffe// avec demande d'avis de réception, soit par acte d'huissier de justice à la diligence du
-demandeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-9 (M)
-	  - Code du travail - art. R519-2 (Ab)
-
-	**Cite**:
-
-	  - Code du travail R516-18 ET R516-20
-
-	**Anciens textes**:
-
-	  - Code du travail R516-4 (1973)
-
-
-###### Article R516-18
-
-Le bureau de conciliation peut, nonobstant toute exception de procédure et même si le défendeur ne se présente pas,
-
-ordonner :
-
-La délivrance, le cas échéant, sous peine d'astreinte, de certificats de travail, de bulletins de paie et de toute pièce que
-l'employeur est tenu légalement de délivrer ;
-
-Le versement d'une provision sur salaire dans la limite des trois derniers mois et sur indemnités de préavis dans la même
-limite, lorsque l'existence de l'obligation n'est pas sérieusement contestable ;
-
-Toutes mesures d'instruction, même d'office ;
-
-Toutes mesures nécessaires à la conservation des preuves ou des objets litigieux.
-
-Le bureau de conciliation peut liquider, à titre provisoire, les astreintes qu'il a ordonnées.
-
-//DECR.1237 28-12-1976 : Lorsqu'il est fait application du présent article et par dérogation aux dispositions de la dernière
-phrase de l'article R. 515-1 les séances du bureau de conciliation sont publiques//.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R51-11-1 (M)
-	  - Code du travail - art. R515-4 (M)
-	  - Code du travail - art. R516-17 (VT)
-	  - Code du travail - art. R516-19 (VT)
-	  - Code du travail - art. R516-37 (VT)
-	  - Code du travail - art. R516-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R515-1 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R515-4 (M)
-
-
-###### Article R516-19
-
-Les décisions prises en application de l'article R. 516-18 sont toujours provisoires ; elles n'ont pas autorité de chose
-jugée au principal. Elles sont exécutoires par provision, le cas échéant, sur minute, et ne peuvent faire l'objet d'un
-recours qu'en même temps que le jugement sur le fond, sous réserve des règles particulières à l'expertise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R516-18 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-9 (M)
-
-
-##### LE CONSEILLER RAPPORTEUR .
-
-###### Article R516-21
-
-Le bureau de jugement peut, par décision non susceptible de recours, confier l'affaire à un ou deux conseillers rapporteurs
-afin de la mettre à même d'être jugée .
-
-La même faculté appartient au président du bureau de jugement si, lorsqu'il n'y a pas été procédé par le bureau de
-conciliation, la désignation immédiate d'un ou deux conseillers rapporteurs lui apparaît nécessaire dès le renvoi de
-l'affaire par ce bureau.
-
-**Nota:**
-
-Nota - Par décisions n° 97 407, 97 408 et 97 413 en date du 11 février 1977 (J.O. du 26 avril 1977), le Conseil d'Etat
-statuant au contentieux a annulé les articles R. 516-21 à R. 516-25 du même code, tels qu'ils résultent de l'article 4 du
-décret du 12 septembre 1974, en tant qu'ils permettent à un conseiller rapporteur unique de prendre des mesures de caractère
-juridictionnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-21 (M)
-	  - Code du travail - art. R516-22 (VT)
-	  - Code du travail - art. R516-23 (VT)
-	  - Code du travail - art. R516-24 (VT)
-	  - Code du travail - art. R516-25 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R516-21 A R516-25
-
-	**Cite**:
-
-	  - Décret n°1974-09-12 ART. 4
-
-
-##### LE JUGEMENT .
-
-###### Article R516-26
-
-Sur renvoi de l'affaire devant le bureau de jugement par le bureau de conciliation ou par le conseiller rapporteur, le /M/
-secrétariat/M/loi 0044 : secrétariat-greffe// convoque les parties à l'audience par simple lettre.
-
-La convocation [*mention*] indique les nom, profession et domicile des parties, les lieu, jour et heure de l'audience ainsi
-que les points qui demeurent en litige.
-
-Les parties présentes devant le bureau de conciliation peuvent également être convoquées verbalement par ce bureau avec
-émargement au procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-26-1 (VT)
-	  - Code du travail - art. R519-2 (Ab)
-
-
-###### Article R516-27
-
-Si les parties se concilient, même partiellement, le bureau de jugement constate dans un procès-verbal la teneur de l'accord
-intervenu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R516-29
-
-A l'issue des débats et si la décision n'est pas rendue sur le champ, un bulletin rappelant la date du prononcé du jugement
-est remis aux parties.
-
-A l'issue des débats et si la décision n'est pas rendue sur le champ, un bulletin rappelant la date du prononcé du jugement
-est remis aux parties //DECR.1022 23-11-1979 : par le secrétaire-greffier// .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-40 (VT)
-	  - Code du travail - art. R519-2 (Ab)
-
-
-##### LE REFERE PRUD'HOMAL .
-
-###### Article R516-30
-
-La demande en référé est formée au choix du demandeur soit par acte d'huissier de justice, soit dans les conditions prévues à
-l'article R. 516-8. Dans ce dernier cas les dispositions des articles R. 516-9 à R. 516-11 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
-	  - Code du travail - art. R51-11-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-32 (M)
-	  - Code du travail R516-32 (1979)
-
-	**Cite**:
-
-	  - Code du travail R516-8 A R516-11
-
-
-###### Article R516-31
-
-Les articles 484 et 486 à 492 du nouveau code de procédure civile sont applicables au référé prud'homal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
-	  - Code du travail - art. R51-11-1 (Ab)
-
-	**Cite**:
-
-	  - Code de procédure civile 486 A 492
-
-	**Nouveaux textes**:
-
-	  - Code du travail R516-33 (1979)
-
-
-###### Article R516-33
-
-Le délai d'appel est de quinze jours. L'appel est formé,
-
-instruit et jugé comme il est dit aux articles R. 517-7 à R. 517-9.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail R516-34 (1979), R516-35 (1979)
-
-	**Cite**:
-
-	  - Code du travail R517-7 A R517-9
-
-
-###### Article R516-35
-
-Les dispositions de la présente section ne sont pas exclusives du droit des parties de saisir, en référé, le président du
-tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 24 (V)
-
-	**Cite**:
-
-	  - Code du travail R516-30 A R516-35
-
-
-##### L'EXECUTION DES JUGEMENTS .
-
-###### Article R516-37
-
-L'exécution provisoire des décisions peut être ordonnée dans les mêmes cas et conditions que par les juridictions de droit
-commun.
-
-/M/Toutefois sont de plein droit exécutoires par provision/M/ DECR.1122 05-12-1975 : sont de droit exécutoires à titre
-provisoire// :
-
-Les jugements qui ne sont susceptibles d'appel que par suite d'une demande reconventionnelle ;
-
-Les jugements qui ordonnent la remise de certificats de travail, de bulletins de paie ou de toute pièce que l'employeur est
-tenu de délivrer ;
-
-Les jugements qui ordonnent le paiement de salaires dans la limite des trois derniers mois [*période*] ou d'indemnités de
-préavis dans la même limite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-#### OUVERTURE DES VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES .
-
-###### Article R517-3
-
-Le conseil de prud'hommes statue en dernier ressort :
-
-1. Lorsque le chiffre de la demande n'excède pas le taux de la compétence en dernier ressort des tribunaux d'instance
-statuant sur les contestations nées à l'occasion du contrat de travail ;
-
-2. Lorsque la demande tend à la remise, même sous astreinte,
-
-de certificats de travail, de bulletins de paie ou de toute pièce que l'employeur est tenu [*obligation*] de délivrer, à
-moins que le jugement ne soit en premier ressort en raison du montant des autres demandes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R517-10 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail R517-2 (1973)
-
-
-#### VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES :     L'OPPOSITION .
-
-###### Article R517-6
-
-L'opposition est portée directement devant le bureau de jugement.
-
-L'opposition est caduque [*sanction*] si la partie qui l'a faite ne se présente pas. Elle ne peut être réitérée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R51-11-1 (Ab)
-
-
-#### EMOLUMENTS, INDEMNITES ET DROITS ALLOUES
-
-##### GREFFIERS EN CHEF DES CONSEILS DE PRUD'HOMMES.
-
-###### Article R519-5
-
-La communication aux personnes intéressées de conventions collectives de travail a lieu par la lecture et sans déplacement.
-
-Elle est faite gratuitement aux heures d'ouverture des bureaux, sous la surveillance des greffiers ou des /M/secrétaires/M/
-loi 0044 :
-
-greffiers en chef// qui ont la garde des conventions collectives.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 1965-12-20 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-
-###### Article R519-6
-
-Tous paiements faits ou reçus par le secrétaire sont inscrits au jour le jour, par ordre chronologique, sur un registre-
-journal qui peut comporter des colonnes de ventilation.
-
-/A/Toutefois, il peut être délivré aux parties, chaque fois qu'il est perçu un émolument forfaitaire, un ticket à souche
-numéroté indiquant le montant dudit émolument. Dans ce cas, le secrétaire peut se borner à inscrire chaque jour, sur le
-registre-journal, une seule écriture globale indiquant le nombre d'émoluments forfaitaires de chaque catégorie perçus dans la
-journée, en précisant les numéros des tickets correspondants délivrés. Ces tickets sont datés au moment où ils sont délivrés
-[*formalités*]/A/DECR.0062 20-01-1978//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 1965-12-20 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-
-###### Article R519-7
-
-Les /M/secrétaires/M/loi 0044 : greffiers en chef// des conseils de prud'hommes tiennent un répertoire des affaires soumises
-à ces juridictions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 1965-12-20 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-
-###### Article R519-8
-
-Dans les conseils de prud'hommes qui comprennent plusieurs /M/secrétariats/M/loi 0044 : secrétariats-greffe// les
-dispositions des articles R. 519-6 et R. 519-7 [*répertoire des affaires*] s'appliquent à chacun d'eux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 1965-12-20 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-	**Cite**:
-
-	  - Code du travail R519-6 ET R519-7
-
-
-##### GREFFIERS .
-
-###### Article R519-9
-
-Les dispositions des articles /M/R. 519-1 à R. 519-8 [*secrétaires*], à l'exception de celles de l'article R. 519-2 (8.)
-[*dépôt de dessins et modèles*]/M/DECR.0062 20-01-1978 : R. 519-5 à R. 519-8//, sont applicables aux greffiers des tribunaux
-d'instance statuant en matière prudhomale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 du 20 décembre 1965 - art. 9, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-	**Cite**:
-
-	  - Code du travail R519-1 A R519-8 ET R519-2 AL. 8
-
-
-##### HUISSIERS DE JUSTICE .
-
-###### Article R519-10
-
-Il est alloué aux huissiers de justice, pour l'usage de leur ministère accompli en matière prud'homale des émoluments
-[*montant, calcul*] égaux à la moitié de ceux prévus pour des actes de même nature, par leur tarif en matière civile et
-commerciale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 du 20 décembre 1965 - art. 11, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R519-1 (V)
-	  - Code du travail R519-1 (1980)
-
-
-##### TEMOINS .
-
-###### Article R519-11
-
-Il est alloué aux témoins entendus en matière prud'homale,
-
-s'ils le demandent, une indemnité de comparution et, éventuellement, une indemnité de voyage et de séjour égales à celles
-attribuées aux témoins appelés à déposer en matière civile.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 1965-12-20 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R519-2 (V)
-	  - Code du travail R519-2 (1980)
-
-
-### CONFLITS INDIVIDUELS - CONSEILS DE PRUD OMMES
-
-#### PROCEDURE DEVANT LES CONSEILS DE PRUD OMMES
-
-##### LA TENTATIVE DE CONCILIATION .
-
-###### Article R516-20
-
-Le bureau de conciliation renvoie l'affaire soit au bureau de jugement, soit à un ou deux conseillers rapporteurs qu'il
-désigne. S'il a prescrit des mesures d'instruction, celles-ci sont exécutées sous le contrôle, selon le cas, du président du
-bureau de jugement ou du ou des conseillers rapporteurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-17 (VT)
-	  - Code du travail - art. R516-9 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R516-20 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-20-1 (V)
-
-
-### CONFLITS COLLECTIFS
-
-#### CONCILIATION .
-
-###### Article R523-1
-
-Tout conflit collectif de travail est immédiatement notifié par la partie la plus diligente, au préfet qui, en liaison avec
-l'inspecteur du travail et de la main-d'oeuvre compétent intervient en vue de rechercher une solution amiable.
-
-Les procédures de conciliation, autres que les procédures contractuelles, sont engagées, soit par l'une des parties, soit par
-le ministre chargé du travail, soit par le préfet ou, le cas échéant, par le directeur régional du travail et de la main-
-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°50-205 1950-02-11 ART. 8
-	  - Loi n°57-833 1957-07-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-
-##### COMPETENCE ET SIEGES DES COMMISSIONS DE CONCILIATION .
-
-###### Article R523-2
-
-La commission nationale de conciliation siège au ministère chargé du travail. Elle est compétente pour connaître des conflits
-collectifs de travail s'étendant à l'ensemble du territoire national ou intéressant plusieurs circonscriptions régionales.
-
-Elle peut être saisie directement par le ministre chargé du travail, soit de sa propre initiative, soit sur la proposition de
-tout préfet ou de tout directeur régional du travail et de la main-d'oeuvre intéressé, soit à la demande des parties ou de
-l'une d'elles, de tout conflit régional, départemental ou d'entreprise, compte tenu de l'importance dudit conflit, des
-circonstances particulières dans lesquelles il s'est produit et du nombre des travailleurs intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 2
-	  - Loi n°1950-02-11 CHAP.II, LIVRE II
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-3 (VT)
-
-
-###### Article R523-3
-
-Il est institué au siège de chaque direction régionale du travail et de la main-d'oeuvre une commission régionale de
-conciliation dont la compétence territoriale s'étend à toute la circonscription de ladite direction régionale.
-
-Le ministre chargé du travail peut créer par arrêté, au sein de chaque commission régionale, des sections départementales
-lorsque les conditions locales le justifient. Cet arrêté peut, éventuellement, prévoir soit que la compétence de la section
-s'étend à deux départements, soit la constitution de plusieurs sections pour un même département.
-
-La commission régionale est compétente sous réserve des dispositions de l'article R. 523-2 pour connaître de tous les
-conflits collectifs de travail, survenant dans sa circonscription,
-
-à l'exception de ceux qui relèvent de la compétence d'une de ses sections départementales. La section départementale est
-compétente pour les conflits strictement limités à son ressort. Cependant, le conflit peut dans les mêmes conditions que
-celles prévues à l'article R. 523-2 être porté devant la commission régionale.
-
-Lorsque plusieurs régions ou plusieurs départements limitrophes sont intéressés par le conflit, les parties peuvent se mettre
-d'accord pour porter le conflit devant l'une ou l'autre des commissions ou sections compétentes, sous réserve de l'exercice
-par le ministre chargé du travail du droit [*de saisine de la commission nationale de conciliation*] qui lui est attribué à
-l'article R. 523-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R523-2 (M)
-
-
-##### COMPOSITION DES COMMISSIONS DE CONCILIATION .
-
-###### Article R523-5
-
-La commission régionale de conciliation comprend une section à compétence régionale et éventuellement des sections à
-compétence départementale.
-
-La section régionale est ainsi composée :
-
-Le directeur régional du travail et de la main-d'oeuvre ou son représentant, président ;
-
-Un conseiller de tribunal administratif ;
-
-/M/Quatre/M/DECR.0789 : Cinq// représentants des employeurs ;
-
-/M/Quatre/M/DECR.0789 : Cinq// représentants des salariés [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 5
-	  - Décret n°68-763 1968-07-23 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-7 (VT)
-
-
-###### Article R523-6
-
-La section à compétence départementale constituée éventuellement au sein de la commission régionale de conciliation comprend
-[*composition*] :
-
-Le directeur régional du travail et de la main-d'oeuvre ou le directeur départemental du travail et de la main-d'oeuvre ou
-leur représentant, président ;
-
-Un fonctionnaire en activité ou en retraite ou un magistrat en retraite ;
-
-/M/Quatre/M/DECR.0789 : cinq// représentants des employeurs ;
-
-/M/Quatre/M/DECR.0789 : cinq// représentants des salariés [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 6
-	  - Décret n°68-763 1968-08-23 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-7 (VT)
-
-
-###### Article R523-7
-
-Lorsque le conflit examiné concerne une branche d'activité pour laquelle les services des ministères chargés de l'industrie,
-des travaux publics et des transports exercent en vertu d'une disposition législative les fonctions normalement dévolues à
-l'inspection du travail et de la main-d'oeuvre, les commissions ou sections prévues aux articles R. 523-4 à R. 523-6 sont
-complétées par un représentant de l'administration compétente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 7
-	  - Décret n°68-763 1968-03-23 ART. 2
-
-	**Cite**:
-
-	  - Code du travail R523-4 A R523-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R523-8
-
-Les membres de la commission nationale et des commissions régionales de conciliation représentant les employeurs et les
-salariés sont nommés pour trois ans [*durée*] par arrêté du ministre chargé du travail sur proposition des organisations
-syndicales nationales les plus représentatives des employeurs et des salariés.
-
-Ces organisations soumettent à cet effet au ministre chargé du travail des listes comportant un nombre de noms double de
-celui des postes à pourvoir.
-
-Les représentants des employeurs et des salariés au sein des commissions régionales et des sections départementales sont
-choisis parmi les employeurs et les salariés qui exercent effectivement leur activité professionnelle dans le ressort de la
-commission.
-
-Les conseillers des tribunaux administratifs, membres des commissions régionales, sont désignés par le ministre chargé du
-travail sur proposition du ministre de l'intérieur.
-
-En ce qui concerne les sections à compétence départementale créées au sein des commissions régionales, le ministre chargé du
-travail peut déléguer au préfet du département intéressé le pouvoir de procéder aux nominations des représentants des
-employeurs et des salariés. Le préfet nomme, en outre, le fonctionnaire en activité ou en retraite ou le magistrat en
-retraite, membre de ladite section.
-
-Des membres suppléants en nombre double de celui des titulaires sont désignés dans les mêmes conditions que ces derniers. Ils
-ne peuvent siéger qu'en l'absence du titulaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-23 (VT)
-	  - Code du travail - art. R523-24 (T)
-
-
-##### FONCTIONNEMENT DES COMMISSIONS DE CONCILIATION .
-
-###### Article R523-10
-
-En cas de recours par les parties à la procédure réglementaire de conciliation, la partie la plus diligente adresse au
-président de la commission une requête rédigée sur papier libre et exposant les points sur lesquels porte le litige.
-
-Lorsque le ministre chargé du travail ou le directeur régional du travail et de la main-d'oeuvre saisit de sa propre
-initiative la commission nationale ou régionale de conciliation, la convocation adressée aux membres de la commission précise
-les points sur lequels porte le différend.
-
-Lorsque le préfet décide d'engager la procédure de conciliation, il adresse au président de la commission régionale ou de la
-section départementale une communication écrite indiquant l'objet du conflit.
-
-Les requêtes et communications susvisées doivent être inscrites [*condition de forme*] à leur date sur les registres spéciaux
-ouverts respectivement au ministère chargé du travail,
-
-dans chaque direction régionale et dans chaque direction départementale du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-
-###### Article R523-13
-
-En cas de non-comparution à la nouvelle réunion de la commission, sans motif légitime, d'une partie régulièrement convoquée,
-le président établit un procès-verbal de carence indiquant les points de désaccord précisés par la partie présente ou
-représentée.
-
-Il établit et transmet au parquet le rapport prévu au titre III.
-
-La non-comparution de la partie qui a introduit la requête aux fins de conciliation vaut renonciation à la demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cité par**:
-
-	  - Code du travail - art. R742-17 (Ab)
-
-	**Cite**:
-
-	  - Code du travail R532-1 A R532-2
-
-
-###### Article R523-14
-
-Lorsqu'un accord est intervenu devant une commission de conciliation procès-verbal en est dressé et notifié sur le champ par
-le président de la commission aux parties. Il est communiqué dans le délai d'un jour franc au ministre chargé du travail et
-au préfet.
-
-Le dépôt en est effectué conformément aux dispositions des articles L. 526-1 et R. 526-1.
-
-Si les parties ne se mettent pas d'accord sur tout ou partie du litige, un procès-verbal de non-conciliation, énonçant avec
-précision les points sur lesquels les parties se sont mises d'accord et ceux sur lesquels le différend persiste, est aussitôt
-dressé et notifié aux parties par lettre recommandée avec demande d'avis de réception ; il est communiqué au ministre chargé
-du travail et au préfet dans les quarante-huit heures.
-
-Le procès-verbal est, dans tous les cas, [*formalité*] signé par le président et les membres de la commission et par les
-parties présentes ou leurs représentants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cite**:
-
-	  - Code du travail - art. L526-1 (M)
-	  - Code du travail - art. R526-1 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R742-14 (V)
-
-
-##### COMMISSIONS DE CONCILIATION DANS LES PROFESSIONS AGRICOLES .
-
-###### Article R523-17
-
-Les règles de compétence et de fonctionnement des commissions de conciliation dans les professions agricoles sont celles qui
-sont fixées aux sections précédentes sous réserve des modalités déterminées à la présente section. Pour l'application
-desdites règles et compte tenu des dispositions de l'article L. 522-1 (alinéa 2), le ministre de l'agriculture [*autorité
-compétente*]
-
-est substitué au ministre chargé du travail et l'inspecteur divisionnaire des lois sociales en agriculture au directeur
-régional du travail et de la main-d'oeuvre.
-
-Le ministre chargé du travail et le directeur régional du travail et de la main-d'oeuvre ou leurs représentants sont membres
-de droit de ces commissions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°50-205 1950-02-11
-	  - Loi n°57-833 1957-07-26 ART. 7 PAR. II
-	  - Décret n°58-615 1958-07-18 ART. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-23 (VT)
-	  - Code du travail - art. R852-9 (VT)
-
-	**Cite**:
-
-	  - Code du travail L522-1 AL. 2
-
-
-###### Article R523-19
-
-La commission régionale de conciliation est instituée au siège de chaque circonscription divisionnaire de l'inspection des
-lois sociales en agriculture. Sa compétence territoriale s'étend à toute circonscription sous réserve des modifications qui
-peuvent être apportées à cette compétence territoriale par arrêté du ministre de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R523-21
-
-Les commissions régionales de conciliation comprennent une section à compétence régionale et, éventuellement, des sections à
-compétence départementale.
-
-La section régionale est ainsi composée :
-
-L'inspecteur divisionnaire des lois sociales en agriculture ou son représentant, président ;
-
-Le directeur régional du travail et de la main-d'oeuvre ou son représentant ;
-
-Un ingénieur en chef, directeur des services agricoles : Le directeur départemental de l'agriculture ;
-
-Trois : Cinq représentants des employeurs ;
-
-Trois : Cinq représentants des salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R523-22
-
-Les sections à compétence départementale constituées éventuellement au sein de la commission régionale de conciliation
-comprennent :
-
-L'inspecteur divisionnaire des lois sociales en agriculture ou son représentant, président ;
-
-Le directeur régional du travail et de la main-d'oeuvre ou son représentant ;
-
-/M/un fonctionnaire de la direction des services agricoles/M/ DECR.0808 19-09-1974 : un fonctionnaire de la direction
-départementale de l'agriculture// ;
-
-/M/Trois/M/DECR.0789 : Cinq// [*nombre*] représentants des employeurs ;
-
-/M/Trois/M/DECR.0789 : Cinq// représentants des salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 20
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R523-24
-
-Les membres de la Commission nationale et des commissions régionales de conciliation représentant les employeurs et les
-travailleurs sont nommés par arrêté du ministre de l'agriculture [*sur proposition des organisations syndicales les plus
-représentatives*] dans les conditions fixées à l'article R. 523-8.
-
-En ce qui concerne les sections à compétence départementale créées au sein des commissions régionales, le ministre de
-l'agriculture peut déléguer au préfet du département intéressé le pouvoir de procéder aux nominations des représentants des
-employeurs et des travailleurs.
-
-Les membres suppléants doivent, dans toute la mesure du possible, représenter les branches agricoles spécialisées les plus
-importantes de la circonscription et, lorsqu'il en est ainsi, ils sont appelés à siéger aux lieu et place du titulaire chaque
-fois qu'il s'agit d'un conflit intéressant la branche qu'ils représentent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 22
-	  - Code du travail - art. R523-25 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 14 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R523-23 (Ab)
-	  - Code du travail - art. R523-23 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R523-8 (M)
-
-
-###### Article R523-25
-
-Le secrétariat des commissions est assuré par les services du ministère de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 23
-	  - Code du travail - art. R523-26 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 14 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R523-24 (T)
-	  - Code du travail - art. R523-24 (V)
-
-
-###### Article R523-26
-
-Les articles R. 523-9 [*nationalité française, jouissance des droits civils et politiques*] et R. 523-16 [*indemnité de
-déplacement, vacation*] sont applicables aux membres des commissions de conciliation des professions agricoles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 24 ET 26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 16 ()
-
-	**Cite**:
-
-	  - Code du travail - art. R523-16 (V)
-	  - Code du travail - art. R523-9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R523-25 (T)
-
-
-#### MEDIATION
-
-##### PROCEDURE DE MEDIATION .
-
-###### Article R524-1
-
-Sous réserve des dispositions de l'alinéa 3 ci-dessous, la procédure de médiation est engagée, après échec d'une procédure de
-conciliation par le ministre chargé du travail ou par le président de la commission régionale de conciliation agissant soit à
-la demande de l'une des parties, soit de sa propre initiative.
-
-La partie qui désire recourir à la médiation [*procédure*] doit adresser à cet effet une requête écrite et motivée au
-ministre chargé du travail s'il s'agit d'un différend à incidence nationale ou au président de la commission de conciliation
-compétente dans tous les autres cas. La requête précise les points sur lesquels porte ou persiste le différend.
-
-Lorsque les deux parties présentent conjointement des requêtes à fin de médiation précisant qu'elles entendent recourir
-directement à cette procédure et indiquent le nom du médiateur choisi d'un commun accord, le ministre chargé du travail
-apprécie s'il y a lieu de procéder immédiatement, à la désignation du médiateur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 27
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-2 (VT)
-	  - Code du travail - art. R524-3 (Ab)
-	  - Code du travail - art. R524-4 (VT)
-	  - Code du travail - art. R524-6 (VT)
-
-
-###### Article R524-2
-
-Dès réception de la requête prévue à l'article R. 524-1 il est procédé au ministère chargé du travail ou à la direction
-régionale du travail et de la main-d'oeuvre à son inscription sur un registre spécial et à la constitution du dossier.
-
-Si la requête concerne un différend à incidence nationale ou régionale, le président de la commission de conciliation la
-transmet sans délai au ministre chargé du travail. Il en est de même dans le cas prévu à l'article R. 524-1 (alinéa 3)
-[*requête présentée conjointement*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 28
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cite**:
-
-	  - Code du travail - art. R524-1 (M)
-
-
-###### Article R524-4
-
-Dans le cas d'un différend à incidence nationale ou régionale si les parties ne peuvent se mettre d'accord dans un délai de
-trois jours suivant le dépôt de la requête sur le choix d'un médiateur ou si la procédure de médiation est engagée par le
-ministre chargé du travail de sa propre initiative, celui-ci, après avoir pris connaissance des propositions éventuellement
-faites par les parties et après consultation du ou des préfets intéressés, désigne le médiateur parmi les personnes figurant
-sur les listes prévues à l'article R. 524-12.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 30 AL. 1
-	  - Code du travail - art. R524-5 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. R524-12 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-3 (Ab)
-	  - Code du travail - art. R524-3 (V)
-	  - Code du travail - art. R525-5 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-5 (T)
-
-
-###### Article R524-5
-
-S'il s'agit d'un différend à incidence départementale ou locale, lorsque les parties n'ont pu se mettre d'accord sur un nom
-dans le délai prévu à l'article précédent [*3 jours suivant le dépôt de la requête*] ou lorsque la procédure de médiation est
-engagée par le président de la commission régionale de conciliation de sa propre initiative, le préfet du département sur
-proposition du président de la commission régionale de conciliation désigne le médiateur parmi les personnes figurant sur les
-listes prévues au troisième alinéa de l'article R. 524-12.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 30 AL. 2
-	  - Décret n°69-489 1969-05-30
-	  - Code du travail - art. R524-6 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. R524-12 (T)
-	  - Code du travail - art. R524-4 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-4 (M)
-	  - Code du travail - art. R524-4 (T)
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-8 (T)
-
-
-###### Article R524-6
-
-Lorsque la procédure de médiation est engagée par le ministre chargé du travail ou par le président de la commission
-régionale de conciliation à la demande de l'une des parties, le médiateur reçoit le dossier constitué sur le différend en
-même temps que la notification de sa désignation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 30 AL. 3
-	  - Code du travail - art. R524-7 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-5 (T)
-	  - Code du travail - art. R524-5 (V)
-
-
-###### Article R524-7
-
-Lorsque la procédure est engagée par le ministre chargé du travail ou par le président de la commission de conciliation de sa
-propre initiative, le médiateur est saisi du différend par une communication écrite qui en précise l'objet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 30 AL. 4
-	  - Code du travail - art. R524-8 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-10 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-6 (T)
-	  - Code du travail - art. R524-6 (V)
-
-
-###### Article R524-8
-
-En matière de conflits à incidence régionale le ministre chargé du travail peut charger le préfet de région de désigner un
-médiateur dans les conditions prévues à l'article R. 524-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 art. 30
-	  - Code du travail - art. R524-9 (T)
-	  - Décret n°69-489 1969-05-30 art. 02
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. R524-5 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-7 (T)
-	  - Code du travail - art. R524-7 (V)
-
-
-###### Article R524-9
-
-Le médiateur accomplit sa mission dans les conditions prévues à l'article L. 524-2. Il peut procéder à toutes auditions qu'il
-juge utiles. Les parties lui transmettent le mémoire et lui communiquent les documents et renseignements mentionnés audit
-article. Le médiateur, toutes les fois qu'il l'estime nécessaire, les invite dans les formes prévues à l'article R. 523-12
-(alinéa premier) [*lettre recommandée, avertissement*] à comparaître personnellement ; elles peuvent toutefois en cas
-d'empêchement grave, se substituer un représentant ayant qualité pour conclure un accord.
-
-Les personnes morales parties au conflit sont tenues [*obligation*] de se faire représenter [*représentant dument mandaté*]
-devant le médiateur dans les conditions prévues à l'articles L. 523-5 et à l'article R. 523-11.
-
-Lorsqu'une partie régulièrement convoquée ne comparaît pas ou ne se fait pas représenter devant le médiateur sans motif
-légitime, le médiateur établit conformément aux dispositions du titre III, un rapport qu'il envoie au président de la
-commission de conciliation aux fins de transmission au parquet.
-
-Lorsque le différend concerne celles des entreprises mentionnées par le décret n. 53-707 du 9 août 1953 qui ne sont pas
-soumises aux procédures de conciliation prévues par les articles L. 523-9 à L. 523-12, la commission interministérielle,
-prévue à l'article 6 de ce décret, doit, à la diligence du ministre de tutelle intéressé, être saisie sans délai afin
-d'émettre un avis dont le médiateur doit prendre connaissance avant d'arrêter les termes de sa recommandation. Le texte de
-cet avis est annexé au rapport mentionné au premier alinéa de l'article R. 524-11.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-707 1953-08-09
-	  - Code du travail - art. L523-5 (T)
-	  - Code du travail - art. L524-2 (AbD)
-	  - Code du travail - art. R523-11 (M)
-	  - Code du travail L524-2, L523-5, L523-9 A L523-12 ,R524-11 AL. 1, R523-12 AL. 1, R523-11, R532-1 A R532-2
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 art. 31
-	  - Code du travail - art. R524-10 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-8 (M)
-	  - Code du travail - art. R524-8 (T)
-
-
-###### Article R524-10
-
-Après avoir, s'il y a lieu, essayé de concilier les parties, le médiateur leur soumet, sous forme de recommandation motivée,
-des propositions en vue du règlement des points en litige précisés dans la requête.
-
-Le médiateur peut, en accord avec les parties, suspendre l'établissement de sa recommandation et la subordonner à la reprise
-des discussions entre elles sous une forme et dans un délai qu'il précise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 32
-	  - Code du travail - art. R524-11 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-9 (T)
-	  - Code du travail - art. R524-9 (V)
-
-
-###### Article R524-11
-
-A l'expiration du délai de quarante-huit heures, prévu à l'article L. 524-5 et qui court à compter de la constatation du
-désaccord ou en cas de carence de l'une des parties [*point de départ*], le médiateur communique au ministre chargé du
-travail la recommandation motivée et signée accompagnée du rapport sur le différend.
-
-Il communique également ces documents au président de la commission de conciliation et au préfet s'il s'agit d'un conflit à
-incidence départementale ou locale.
-
-En cas d'échec de la procédure de médiation ou en cas de carence d'une des parties, les conclusions de la recommandation sont
-publiées dans les conditions [*délai de 3 mois*] et sous les réserves fixées à l'article L. 524-5, par les soins du ministre
-chargé du travail au journal officiel [*JORF*] et, en outre, par tous moyens qu'il juge utiles. Toutefois, cette publication
-n'est pas effectuée si les deux parties demandent qu'elle n'ait pas lieu ou qu'elle soit différée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 art. 33
-	  - Code du travail - art. R524-12 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. L524-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-10 (T)
-	  - Code du travail - art. R524-10 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-3 (VT)
-	  - Code du travail - art. R524-4 (VT)
-
-
-##### ETABLISSEMENT DES LISTES DE MEDIATEURS .
-
-###### Article R524-12
-
-La liste des médiateurs appelés à être désignés par le ministre chargé du travail sur le plan national ou régional comprend
-trente noms au moins de personnalités choisies en fonction de leur autorité morale et de leur compétence économique et
-sociale. Cette liste est arrêtée après consultation et examen des suggestions des organisations syndicales d'employeurs et de
-salariés les plus représentatives sur le plan national, siègeant à la commission supérieure des conventions collectives dont
-les observations et propositions sont présentées dans le délai d'un mois et, en outre, en ce qui concerne les listes
-régionales après avis des préfets intéressés.
-
-Elle est publiée au journal officiel.
-
-Les listes de médiateurs appelés à être désignés pour des différends ne dépassant pas le cadre des départements sont
-préparées pour chaque région par le directeur régional du travail et de la main-d'oeuvre, après consultation des
-organisations syndicales d'employeurs et de salariés les plus représentatives sur le plan national siègeant à la commission
-supérieure des conventions collectives dont les observations et propositions sont présentées dans le délai d'un mois et après
-avis des préfets intéressés. Elles comprennent dix noms au moins de personnalités choisies dans les conditions prévues au
-premier alinéa du présent article. Elles sont arrêtées par le ministre chargé du travail. Elles sont publiées au journal
-officiel ainsi qu'au recueil des actes administratifs du ou des départements en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 34
-	  - Code du travail - art. R524-13 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cité par**:
-
-	  - Décret n°84-631 du 16 juillet 1984 - art. 5 (V)
-	  - Code du travail - art. D524-1 (VT)
-	  - Code du travail - art. R524-15 (Ab)
-	  - Code du travail - art. R524-4 (T)
-	  - Code du travail - art. R524-5 (T)
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-11 (T)
-	  - Code du travail - art. R524-11 (V)
-
-
-###### Article R524-13
-
-Les listes des médiateurs sont soumises à révision tous les trois ans [*périodicité*] . Elles peuvent être complétées à toute
-époque en cas de besoin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 35
-	  - Code du travail - art. R524-14 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-12 (T)
-
-
-###### Article R524-14
-
-Les médiateurs, les experts et les personnes qualifiées aux offices desquelles peuvent recourir les médiateurs doivent être
-de nationalité française et jouir de leurs droits civils et politiques [*conditions*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 36
-	  - Code du travail - art. R524-19 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 19 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-13 (T)
-	  - Code du travail - art. R524-13 (V)
-
-
-##### INDEMNISATION DES MEDIATEURS, DES EXPERTS ET DES PERSONNES  QUALIFIEES .
-
-###### Article R524-15
-
-Il est alloué aux médiateurs figurant sur les listes établies conformément à l'article R. 524-12, ayant agi en cette qualité
-et en application des articles L. 524-1 et suivants, une indemnité forfaitaire pour chaque médiation dont le taux varie de
-250 F à 750 F suivant l'importance du différend.
-
-L'indemnité allouée aux médiateurs comprend le remboursement des frais divers de secrétariat, de correspondance ou de
-déplacement à l'intérieur de leur résidence, nécessités par l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 2 JORF 7 JUIN
-
-	**Cite**:
-
-	  - Code du travail - art. R524-12 (T)
-	  - Code du travail L524-1 ET S.
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-17 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°68-615 1968-07-18 ART. 37 AL. 1 ET 2
-
-
-###### Article R524-16
-
-Les experts aux offices desquels les médiateurs peuvent avoir recours sont rémunérés à la vacation.
-
-Les personnes qualifiées qui prêtent leur concours aux médiateurs perçoivent une indemnité forfaitaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 38
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 2 JORF 7 JUIN
-
-	**Cité par**:
-
-	  - Code du travail - art. R524-17 (Ab)
-
-
-###### Article R524-17
-
-Les conditions d'attribution de l'indemnité forfaitaire prévue par l'article R. 524-15 ainsi que le taux et les conditions
-d'attribution des vacations et des indemnités forfaitaires prévues à l'article R. 524-16 sont fixées par arrêté conjoint des
-ministres chargés du travail, de l'agriculture et des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 38 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 2 JORF 7 JUIN
-
-	**Cite**:
-
-	  - Code du travail - art. R524-15 (Ab)
-	  - Code du travail - art. R524-16 (Ab)
-
-
-###### Article R524-18
-
-Les dépenses de déplacement que les médiateurs, les experts et les personnes qualifiées peuvent être appelés à effectuer hors
-de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions suivantes :
-
-S'ils sont fonctionnaires en activité, ils perçoivent les indemnités prévues aux barèmes applicables au groupe auquel ils
-appartiennent ;
-
-S'ils ne possèdent pas la qualité de fonctionnaire en activité, ils perçoivent les indemnités applicables aux fonctionnaires
-du groupe I .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 39
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°80-399 1980-06-04 ART. 2 JORF 7 JUIN
-
-
-##### PROCEDURE DE MEDIATION DANS LES PROFESSIONS AGRICOLES .
-
-###### Article R524-19
-
-Pour l'application dans les professions agricoles des règles prévues aux sections précédentes et compte tenu des dispositions
-de l'article L. 522-1, deuxième alinéa, le ministre de l'agriculture et l'inspecteur divisionnaire des lois sociales en
-agriculture sont respectivement substitués au ministre chargé du travail et au directeur régional du travail et de la main-
-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 art. 41
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 27 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R524-14 (T)
-	  - Code du travail - art. R524-14 (V)
-
-	**Cite**:
-
-	  - Code du travail R524-1 A R524-18
-
-
-#### LA COUR SUPERIEURE D'ARBITRAGE
-
-##### ORGANISATION .
-
-###### Article R525-1
-
-Des conseillers d'Etat et des hauts magistrats, en activité ou honoraires sont désignés à titre de suppléants en nombre égal
-à celui des membres titulaires de la Cour supérieure d'arbitrage et pour la même durée ; ils sont nommés pour une durée de
-trois ans, par décret contresigné par le garde des sceaux, ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 art. 1 AL. 2 et 3
-	  - Loi n°1950-02-11 art. 12 à 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-2 (T)
-	  - Code du travail - art. R525-2 (V)
-
-
-###### Article R525-2
-
-En cas d'absence ou d'empêchement du président de la Cour supérieure d'arbitrage, la présidence de l'audience est assurée par
-le plus ancien des conseillers d'Etat, membre titulaire de la Cour ; celle-ci est alors complétée par un conseiller d'Etat,
-membre suppléant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 2
-	  - Code du travail - art. R525-1 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-3 (T)
-	  - Code du travail - art. R525-3 (V)
-
-
-###### Article R525-3
-
-Dans le cas où l'un des membres de la Cour vient à perdre la qualité en raison de laquelle il a été nommé, il est procédé par
-décret à la désignation de son successeur, qui reste en fonctions jusqu'à expiration de la durée normale des fonctions de
-celui qu'il a remplacé.
-
-Il est procédé de même en cas de vacance par suite de décès ou de démission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 3
-	  - Code du travail - art. R525-2 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-4 (T)
-	  - Code du travail - art. R525-4 (V)
-
-
-###### Article R525-4
-
-Les membres de la Cour ne peuvent délibérer qu'en nombre impair. Si la Cour se réunit en nombre pair le plus jeune en âge
-s'abstient de délibérer.
-
-La Cour ne peut statuer valablement que si cinq membres au moins sont présents. Toutefois, la présence de sept membres est
-exigée lorsque la Cour rend une sentence [*suivant le deuxième arrêt d'annulation*] dans les conditions prévues au dernier
-alinéa de l'article L. 525-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 4
-	  - Code du travail - art. R525-3 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. L525-8 (AbD)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-5 (T)
-
-
-###### Article R525-5
-
-Les audiences de la Cour sont publiques.
-
-Sont applicables à la Cour les dispositions des articles 88 et suivants du code de procédure civile sur la police des
-audiences.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 5
-	  - Code du travail - art. R525-4 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code de procédure civile 88 ET S.
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-6 (T)
-
-
-###### Article R525-6
-
-Des maîtres des requêtes ou des auditeurs au Conseil d'Etat, des conseillers référendaires ou des auditeurs à la cour des
-comptes concluent dans chaque affaire. Ils sont nommés commissaires du Gouvernement auprès de la Cour respectivement par
-arrêté du Premier ministre et du garde des sceaux, ministre de la justice, ou par arrêté concerté du Premier ministre, du
-garde des sceaux et du ministre chargé des finances et des affaires économiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 6
-	  - Code du travail - art. R525-5 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-7 (T)
-	  - Code du travail - art. R525-7 (V)
-
-
-###### Article R525-7
-
-Des maîtres des requêtes ou des auditeurs au Conseil d'Etat, des conseillers référendaires ou des auditeurs à la Cour des
-comptes sont adjoints à la Cour en qualité de rapporteurs.
-
-Ils sont nommés dans les mêmes formes que les commissaires du Gouvernement.
-
-Ils ont voix consultative dans les affaires dont le rapport leur est confié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 7
-	  - Code du travail - art. R525-6 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-8 (T)
-	  - Code du travail - art. R525-8 (V)
-
-
-###### Article R525-8
-
-Le secrétaire et le secrétaire adjoint de la Cour sont désignés par le vice-président du Conseil d'Etat parmi les
-fonctionnaires appartenant au personnel des bureaux du Conseil d'Etat. Le service du secrétariat est assuré pour le surplus
-par des fonctionnaires recrutés à cet effet conformément aux dispositions législatives ou réglementaires en vigueur, ou par
-des fonctionnaires mis à la dispositions de la Cour par le ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 8
-	  - Code du travail - art. R525-7 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 28 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-9 (Ab)
-	  - Code du travail - art. R525-9 (V)
-
-
-##### INTRODUCTION, INSTRUCTION ET JUGEMENTS DES RECOURS .
-
-###### Article R525-12
-
-Lorsqu'à l'issue d'une procédure d'arbitrage la sentence est notifiée [*dans  les 24 heures*] dans les conditions prévues à
-l'article R. 526-1, l'arbitre procède immédiatement à l'envoi, aux frais des parties, au ministre chargé du travail ou au
-ministre chargé de l'agriculture pour les affaires relevant de sa compétence, sous pli recommandé avec demande d'avis de
-réception, d'un exemplaire de la sentence et des pièces au vu desquelles la sentence a été rendue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 11
-	  - Loi n°57-833 1957-07-26
-	  - Code du travail - art. R525-13 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. R526-1 (Ab)
-
-
-###### Article R525-13
-
-Les requêtes sont enregistrées au secrétariat de la Cour dans l'ordre de leur arrivée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 12
-	  - Loi n°57-833 1957-07-26
-	  - Code du travail - art. R525-14 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-12 (Ab)
-	  - Code du travail - art. R525-12 (V)
-
-
-###### Article R525-14
-
-Chaque affaire est instruite par un membre de la Cour ou par un des rapporteurs adjoints à la Cour désigné à cet effet par le
-président.
-
-Dès la réception de la requête, le rapporteur en donne communication au ministre chargé du travail ou au ministre chargé de
-l'agriculture pour les affaires relevant de sa compétence et l'invite à produire le dossier envoyé par l'arbitre et à
-présenter, le cas échéant, les observations qu'il jugerait utiles.
-
-Il avise chaque partie intéressée, par l'envoi d'une des copies jointes à la requête de l'instance introduite devant la Cour
-et leur impartit un délai pour présenter leur mémoire.
-
-Les parties sont invitées à prendre connaissance du dossier au secrétariat de la Cour.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 13
-	  - Loi n°57-833 1957-07-26
-	  - Code du travail - art. R525-15 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-13 (T)
-
-
-###### Article R525-15
-
-Les rôles de chaque séance sont préparés par le commissaire du Gouvernement et arrêtés par le président de la Cour.
-
-Ils sont communiqués aux ministres chargés du travail et, s'il y a lieu, de l'agriculture.
-
-Avis de la date de l'audience est donné aux parties dont les affaires dont inscrites au rôle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 art. 14
-	  - Loi n°57-833 1957-07-26
-	  - Code du travail - art. R525-16 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-14 (T)
-	  - Code du travail - art. R525-14 (V)
-
-
-###### Article R525-16
-
-Le rapporteur donne à l'audience lecture de son rapport.
-
-Avant que le commissaire du Gouvernement donne ses conclusions, le président peut autoriser soit les parties, soit les
-avocats au Conseil d'Etat et à la Cour de cassation, les avocats régulièrement inscrits au barreau ou les mandataires des
-parties, à présenter brièvement des observations orales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 15
-	  - Loi n°57-833 1957-07-26 ART. 26 AL. 3
-	  - Code du travail - art. R525-17 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-15 (T)
-	  - Code du travail - art. R525-15 (V)
-
-
-###### Article R525-17
-
-Les décisions de la Cour sont rendues au nom du peuple français.
-
-Elles contiennent l'exposé sommaire des moyens et les conclusions des recours, le visa des pièces soumises à la Cour et des
-lois appliquées.
-
-Elles sont signées par le président, le rapporteur et le secrétaire ou le secrétaire adjoint et lues en séance publique. Dans
-les vingt-quatre heures [*délai*] , elles sont notifiées aux parties par les soins du président et par lettre recommandée
-avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 art. 16
-	  - Loi n°57-833 1957-07-26
-	  - Code du travail - art. R525-18 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 () JORF 25 janvier 1985
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-16 (T)
-	  - Code du travail - art. R525-16 (V)
-
-
-###### Article R525-18
-
-Les expéditions des décisions délivrées par le secrétaire ou le secrétaire adjoint de la Cour portent la formule exécutoire
-suivante :
-
-"La République mande et ordonne au ministre (ajouter le département ministériel désigné par la décision) en ce qui le
-concerne et à tout huissier à ce requis, en ce qui concerne les voies de droit commun contre les parties privées, de pourvoir
-à l'exécution de la présente décision."
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 17
-	  - Loi n°57-833 1957-07-26
-	  - Code du travail - art. R525-19 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 32 ()
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-17 (T)
-	  - Code du travail - art. R525-17 (V)
-
-
-###### Article R525-19
-
-En application des dispositions de l'article L. 526-3, les expéditions et décisions de la Cour et généralement tous les actes
-de procédure auxquels donne lieu l'application du présent chapitre sont dispensés des droits de timbre et d'enregistrement.
-
-Ils portent la mention qu'ils sont faits en exécution du chapitre V du titre II du livre V du Code du travail.
-
-Communication des arrêts et sentences rendus par la Cour est donnée au ministre chargé du travail ou au ministre chargé de
-l'agriculture par les soins du secrétariat de la Cour.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 art. 18
-	  - Loi n°57-833 1957-07-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Transféré par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 33 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. L526-3 (P)
-	  - Code du travail L525-1 A L525-9, L526-3, R525-1 A R525-19
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R525-18 (T)
-
-
-#### EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .
-
-###### Article R526-1
-
-La sentence est notifiée aux parties dans les vingt-quatre heures de sa date par les soins de l'arbitre.
-
-Cette notification est faite par lettre recommandée avec demande d'avis de réception.
-
-La minute de l'accord ou de la sentence est, dans le même délai, déposée au /M/secrétariat/M/loi 0044 : secrétariat-greffe//
-du conseil de prud'hommes, à défaut de conseil de prud'hommes,
-
-au greffe du tribunal d'instance du lieu où est déposée la convention collective ou l'un des accords prévus à l'article L.
-134-1 ou, à défaut de convention et d'accord, du lieu où ils ont été rendus. Ce dépôt est effectué à frais communs, pour
-l'accord de conciliation, aux soins de la partie la plus diligente et, pour la sentence arbitrale, par l'arbitre.
-
-Les arrêts et sentences de la Cour supérieure d'arbitrage sont publiés tous les trois mois au journal officiel .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°50-205 1950-02-11
-	  - Loi n°57-833 1957-07-26 art. 28 AL. 2, 3, 4 et 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Abrogé par**:
-
-	  - Décret n°85-95 du 22 janvier 1985 - art. 34 () JORF 25 janvier 1985
-
-	**Cite**:
-
-	  - Code du travail - art. L134-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L526-1 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-14 (M)
-	  - Code du travail - art. R525-12 (Ab)
-
-
 ## Livre Ier : Conventions relatives au travail
 
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus avant le 1er juillet 1972
@@ -85914,23 +83044,31 @@ travail [*autorité compétente*].
 ###### Article R511-1
 
 Avant la création, la suppression, la modification du ressort ou le transfert du siège d'un conseil de prud'hommes, le
-ministre chargé du travail doit publier au Journal officiel un avis indiquant [*mentions obligatoires*] :
+ministre chargé du travail doit publier au Journal officiel un avis indiquant : 
 
-a) Le siège du conseil à créer ou à supprimer ou en cas de transfert le nouveau siège du conseil ;
+a) Le siège du conseil à créer ou à supprimer ou en cas de transfert le nouveau siège du conseil ; 
 
 b) L'étendue de la compétence territoriale du conseil à créer et du ou des conseils dont le ressort est affecté par la
-création, la suppression ou la modification envisagée ;
+création, la suppression ou la modification envisagée ; 
 
-c) L'effectif des conseillers des différentes sections du conseil à créer ou dont l'organisation doit être modifiée.
+c) L'effectif des conseillers des différentes sections du conseil à créer ou dont l'organisation doit être modifiée. 
 
-L'avis invite les organismes et les autorités énumérés à l'article L. 511-3 à faire connaître au ministre chargé du travail
-[*autorité compétente*], dans le délai de trois mois, leurs observations et avis.
+L'avis invite les organismes et les autorités énumérés à l'article L. 511-3 à faire connaître au ministre chargé du
+travail    , dans le délai de trois mois, leurs observations et avis.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L511-3
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1422-1 (V)
 
 
 ###### Article R511-2
@@ -85940,9 +83078,13 @@ sera procédé à l'élection des conseillers.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1422-2 (V)
 
 
 #### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
@@ -85984,9 +83126,17 @@ discipline intérieure de la juridiction.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L515-4
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1423-31 (V)
 
 
 ###### Article R512-10
@@ -86002,9 +83152,13 @@ L'honorariat peut être retiré suivant la même procédure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D1442-26 (V)
 
 	**Cité par**:
 
@@ -86024,13 +83178,20 @@ ne peuvent faire état de cette distinction sans préciser le conseil de prud'ho
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire
+	  - Code du travail - art. R512-12
 
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
+	  - Code du travail - art. D1442-27 (V)
+	  - Code du travail - art. D1442-28 (V)
 
 
 ###### Article R512-12
@@ -86046,13 +83207,14 @@ de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
+	  - Code du travail - art. D1442-25 (V)
 
 	**Cité par**:
 
@@ -86072,9 +83234,13 @@ Ils rendent compte chaque année au garde des sceaux, ministre de la justice, de
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1423-30 (V)
 
 	**Cité par**:
 
@@ -86095,9 +83261,13 @@ par le premier président demeure cependant saisi des affaires qui lui ont été
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1423-33 (M)
 
 
 #### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
@@ -86118,13 +83288,18 @@ Les séances du bureau de conciliation ont lieu au moins une fois par semaine [*
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°58-1292 1958-12-22 ART. 55, 56
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. L513-8
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-7 (M)
+	  - Code du travail - art. R1454-8 (M)
 
 	**Liens**:
 
@@ -86145,14 +83320,19 @@ plus âgé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°58-1292 1958-12-22 ART. 57 AL. 2
-	  - Décret n°72-90 1972-01-26
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. L512-7
+	  - Code du travail - art. L512-8
+	  - Code du travail - art. R512-3
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-9 (V)
 
 
 ###### Article R515-3
@@ -86163,13 +83343,17 @@ formé d'un nombre égal de salariés et d'employeurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°58-1292 1958-12-22 ART. 58
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. L513-8
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-24 (V)
 
 
 #### Chapitre VI : Procédure devant les conseils de prud'hommes.
@@ -86385,21 +83569,25 @@ juridictionnel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-2 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R516-21
+	  - Décret n°1974-09-12 ART. 4
 
 	**Cité par**:
 
-	  - Code du travail - art. R516-21 (M)
 	  - Code du travail - art. R516-22 (VT)
 	  - Code du travail - art. R516-23 (VT)
 	  - Code du travail - art. R516-24 (VT)
 	  - Code du travail - art. R516-25 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R516-21 A R516-25
 
 
 ###### Article R516-23
@@ -86420,9 +83608,13 @@ contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résu
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-3 (M)
 
 	**Cité par**:
 
@@ -86432,9 +83624,9 @@ contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résu
 	  - Code du travail - art. R516-24 (VT)
 	  - Code du travail - art. R516-25 (VT)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code du travail R516-21 A R516-25
+	  - Décret n°1974-09-12 ART. 4
 
 
 ###### Article R516-24
@@ -86559,13 +83751,13 @@ recevoir [*époque*]. Elles peuvent, sous cette réserve, être encore soulevée
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code du travail - art. R516-39 (M)
+	  - Code du travail - art. R1451-2 (V)
 
 
 ###### Article R516-39
@@ -86575,17 +83767,14 @@ des objets litigieux.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Nouveaux textes**:
 
+	  - Code du travail - art. R1454-4 (M)
 	  - Code du travail - art. R516-38 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R516-40 (M)
 
 
 ###### Article R516-43
@@ -86596,9 +83785,13 @@ En cas de recours, il est procédé comme en matière prud'homale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1451-3 (V)
 
 	**Anciens textes**:
 
@@ -86624,13 +83817,18 @@ Toute clause qui directement ou indirectement déroge aux dispositions qui préc
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°65-1187 1965-12-20 art. 8
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1412-1 (V)
+	  - Code du travail - art. R1412-4 (V)
 
 	**Cité par**:
 
@@ -86649,14 +83847,23 @@ ordonnance non susceptible de recours.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cité par**:
 
 	  - Décret n°79-1022 du 23 novembre 1979 - art. 19 (V)
 	  - Décret n°82-1073 du 15 décembre 1982 - art. 37 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L512-2
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1423-6 (V)
+	  - Code du travail - art. R1423-7 (M)
 
 
 ##### Section 2 : Ouverture des voies de recours.
