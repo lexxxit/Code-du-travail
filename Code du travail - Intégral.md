@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-08-05
+Version Consolidée au 1982-08-06
 
 # Partie législative ancienne
 
@@ -2965,6 +2965,37 @@ Ces règles ne sont pas applicables pendant la période d'essai.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L122-7
+
+Toute clause d'un contrat individuel fixant un délai-congé inférieur à celui qui résulte des dispositions de l'article L.
+122-6 ou une condition d'ancienneté de services supérieure à celle qu'énoncent ces dispositions est nulle de plein droit
+[*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 2 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L422-6 (V)
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. R122-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1234-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L122-11
 
 Les dispositions des articles L. 122-6 [*droit au délai-congé*], L. 122-9 [*droit à une indemnité de licenciement*] et L.
@@ -4909,6 +4940,617 @@ congé, de licenciement*] prévues aux articles L. 122-32-6, L. 122-32-7 et L. 1
 
 	  - Code du travail - art. L1226-17 (VD)
 	  - Code du travail - art. L1226-22 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### Section 6 : Règlement intérieur, protection des salariés et droit disciplinaire
+
+##### Sous-section 1 : Règlement intérieur
+
+###### Article L122-33
+
+L'établissement d'un règlement intérieur est obligatoire dans les entreprises ou établissements industriels, commerciaux ou
+agricoles, les établissements publics à caractère industriel et commercial, les offices publics et ministériels, les
+professions libérales, les sociétés civiles, les syndicats professionnels, les sociétés mutualistes, les organismes de
+sécurité sociale à l'exception de ceux qui ont le caractère d'établissement public administratif, et les associations ou tout
+organisme de droit privé quels que soient leur forme et leur objet, où sont employés habituellement au moins vingt salariés.
+
+Des dispositions spéciales peuvent être établies pour une catégorie de personnel ou une division de l'entreprise ou de
+l'établissement.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+	  - Code du travail - art. D223-5 (VT)
+	  - Code du travail - art. L230-3 (AbD)
+	  - Code du travail - art. R122-16 (VT)
+	  - Code du travail - art. R122-17 (T)
+	  - Code du travail - art. R152-4 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1311-1 (VD)
+	  - Code du travail - art. L1311-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-34
+
+Le règlement intérieur est un document écrit par lequel l'employeur fixe exclusivement [*définition, contenu*] :
+
+- les mesures d'application de la réglementation en matière d'hygiène et de sécurité dans l'entreprise ou l'établissement ;
+
+- les règles générales et permanentes relatives à la discipline, et notamment la nature et l'échelle des sanctions que peut
+prendre l'employeur.
+
+Il énonce également les dispositions relatives aux droits de la défense des salariés, tels qu'ils résultent de l'article L.
+122-41 ou, le cas échéant, de la convention collective applicable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-37 (AbD)
+	  - Code du travail - art. L122-39 (AbD)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R152-4 (VT)
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-41 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+
+###### Article L122-36
+
+Le règlement intérieur ne peut être introduit qu'après avoir été soumis à l'avis du comité d'entreprise ou, à défaut, à
+l'avis des délégués du personnel ainsi que, pour les matières relevant de sa compétence, à l'avis du comité d'hygiène et de
+sécurité.
+
+Le règlement intérieur doit indiquer la date à partir de laquelle il entre en vigueur. Cette date doit être postérieure d'un
+mois à l'accomplissement des formalités de dépôt et de publicité.
+
+En même temps qu'il fait l'objet des mesures de publicité, le règlement intérieur, accompagné de l'avis du comité
+d'entreprise ou, à défaut, des délégués du personnel et, le cas échéant, du comité d'hygiène et de sécurité, est communiqué à
+l'inspecteur du travail.
+
+Les dispositions prévues aux alinéas précédents sont applicables en cas de modification ou de retrait des clauses du
+règlement intérieur.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+	  - Code du travail - art. L122-37 (AbD)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R122-14 (M)
+	  - Code du travail - art. R152-4 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1321-4 (VD)
+
+
+###### Article L122-37
+
+L'inspecteur du travail peut à tout moment exiger le retrait ou la modification des dispositions [*du règlement intérieur*]
+contraires aux articles L. 122-34 et L. 122-35.
+
+Cette décision, motivée, est notifiée à l'employeur et communiquée, pour information, aux membres du comité d'entreprise ou,
+à défaut, aux délégués du personnel, ainsi qu'aux membres du comité d'hygiène et de sécurité pour les matières relevant de sa
+compétence.
+
+Lorsque, à l'occasion d'un litige individuel, le conseil de prud'hommes écarte l'application d'une clause contraire aux
+articles L. 122-34 et L. 122-35, une copie du jugement est adressée par le secrétariat-greffe à l'inspecteur du travail et
+aux représentants du personnel mentionnés au premier alinéa de l'article L. 122-36.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R122-15 (M)
+	  - Code du travail - art. R122-16 (Ab)
+	  - Code du travail - art. R152-4 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-34 (M)
+	  - Code du travail - art. L122-35 (M)
+	  - Code du travail - art. L122-36 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-38
+
+La décision de l'inspecteur du travail [*de retrait ou de modification de dispositions du règlement intérieur*] ou du
+fonctionnaire assimilé peut faire l'objet dans les deux mois d'un recours [*délai*] auprès du directeur régional du travail
+et de l'emploi ou, dans les branches d'activité relevant pour le contrôle de la réglementation du travail, de la compétence
+du ministre des transports et du ministre de l'agriculture, auprès du fonctionnaire chargé du contrôle de la réglementation
+du travail dans ces branches.
+
+La décision du directeur régional du travail et de l'emploi, ou, dans les branches d'activité ne relevant pas de la
+compétence de ce directeur, celle du fonctionnaire chargé du contrôle de la réglementation du travail dans la branche
+considérée, est notifiée à l'employeur et communiquée, pour information, aux membres du comité d'entreprise ou, à défaut, aux
+délégués du personnel, ainsi qu'aux membres du comité d'hygiène et de sécurité pour les matières relevant de sa compétence.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R152-4 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1322-3 (VD)
+	  - Code du travail L1322-3, R1322-1
+
+
+###### Article L122-39
+
+Les notes de service ou tout autre document qui portent prescriptions générales et permanentes dans les matières mentionnées
+à l'article L. 122-34 sont, lorsqu'il existe un règlement intérieur, considérées comme des adjonctions à ce règlement
+intérieur ; ils sont, en toute hypothèse, soumis aux dispositions de la présente sous-section.
+
+Toutefois, lorsque l'urgence le justifie, les prescriptions relatives à l'hygiène et à la sécurité peuvent recevoir
+application immédiate. Dans ce cas, ces prescriptions doivent immédiatement et simultanément être communiquées au secrétaire
+du comité d'hygiène et de sécurité, aux secrétaires du comité d'entreprise et à l'inspection du travail.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+	  - Code du travail - art. L122-40 (Ab)
+	  - Code du travail - art. L122-41 (M)
+	  - Code du travail - art. R152-4 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L122-34 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1321-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### Sous-section 2 : Protection des salariés et droit disciplinaire.
+
+###### Article L122-40
+
+Constitue une sanction     toute mesure, autre que les observations verbales, prise par l'employeur à la suite d'un
+agissement du salarié considéré par lui comme fautif, que cette mesure soit de nature à affecter immédiatement ou non la
+présence du salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1331-1 (VD)
+
+
+###### Article L122-42
+
+Les amendes ou autres sanctions pécuniaires sont interdites.
+
+Toute disposition ou stipulation contraire est réputée non écrite.
+
+**Nota:**
+
+Code du travail L. 152-1-5 : sanction pénale. * Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente
+ordonnance entrent en vigueur en même temps que la partie réglementaire du nouveau code du travail et au plus tard le 1er
+mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Code du travail - art. L152-1 (M)
+	  - Code du travail - art. L152-1-3 (T)
+	  - Code du travail - art. L152-1-4 (T)
+	  - Code du travail - art. L152-1-5 (AbD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1331-2 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L152-1-5 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-43
+
+En cas de litige, le conseil de prud'hommes apprécie la régularité de la procédure suivie et si les faits reprochés au
+salarié sont de nature à justifier une sanction. L'employeur doit fournir au conseil de prud'hommes les éléments qu'il a
+retenus pour prendre la sanction. Au vu de ces éléments et de ceux qui peuvent être fournis par le salarié à l'appui de ses
+allégations, le conseil de prud'hommes forme sa conviction après avoir ordonné, en cas de besoin, toutes les mesures
+d'instruction qu'il estime utiles. Si un doute subsiste, il profite au salarié.
+
+Le conseil de prud'hommes peut annuler une sanction irrégulière en la forme ou injustifiée ou disproportionnée à la faute
+commise.
+
+Les dispositions des alinéas précédents ne sont pas applicables en cas de licenciement.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1333-1 (VD)
+	  - Code du travail - art. L1333-2 (VD)
+	  - Code du travail - art. L1333-3 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-44
+
+Aucun fait fautif ne peut donner lieu à lui seul à l'engagement de poursuites disciplinaires au-delà d'un délai de deux mois
+à compter du jour où l'employeur en a eu connaissance, à moins que ce fait ait donné lieu dans le même délai à l'exercice de
+poursuites pénales.
+
+Aucune sanction antérieure de plus de trois ans à l'engagement des poursuites disciplinaires ne peut être invoquée à l'appui
+d'une nouvelle sanction.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Code du travail - art. R122-17 (VT)
+	  - Code du travail - art. R122-19 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1332-4 (VD)
+	  - Code du travail - art. L1332-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### SECTION 6 : REGLEMENT INTERIEUR
+
+##### SOUS-SECTION 1 : REGLEMENT INTERIEUR.
+
+###### Article L122-35
+
+Le règlement intérieur ne peut contenir de clause contraire aux lois et règlements ainsi qu'aux dispositions des conventions
+et accords collectifs de travail applicables dans l'entreprise ou l'établissement [*interdiction, contenu*]. Il ne peut
+apporter aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas
+justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
+
+Il ne peut comporter de dispositions lésant les salariés dans leur emploi ou leur travail, en raison de leur sexe, de leur
+situation de famille, de leurs origines, de leurs opinions ou confessions, ou de leur handicap, à capacité professionnelle
+égale [*non discrimination*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-37 (AbD)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R152-4 (VT)
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
+	  - TXT_ASSOCIE: Code du travail R152-4 : SANCTIONS PENALES
+	  - SPEC_APPLI: Loi n°82-689 1982-08-04 ART. 5 : DELAI DE UN AN POUR METTRE LES REGLEMENTS INTERIEURS EN CONFORMITE AVEC LA LOI
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+
+##### SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
+
+##### SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
+
+###### Article L122-41
+
+Aucune sanction ne peut être infligée au salarié sans que celui-ci soit informé dans le même temps et par écrit des griefs
+retenus contre lui.
+
+Lorsque l'employeur envisage de prendre une sanction [*procédure obligatoire*], il doit convoquer le salarié en lui indiquant
+l'objet de la convocation, sauf si la sanction envisagée est un avertissement ou une sanction de même nature qui n'a pas
+d'incidence, immédiate ou non, sur la présence dans l'entreprise, la fonction, la carrière ou la rémunération du salarié. Au
+cours de l'entretien, le salarié peut se faire assister par une personne de son choix appartenant au personnel de
+l'entreprise ; l'employeur indique le motif de la sanction envisagée et recueille les explications du salarié. La sanction ne
+peut intervenir moins d'un jour franc ni plus d'un mois après le jour fixé pour l'entretien [*date*]. Elle doit être motivée
+et notifiée à l'intéressé.
+
+Lorsque l'agissement du salarié a rendu indispensable une mesure conservatoire de mise à pied à effet immédiat, aucune
+sanction définitive, relative à cet agissement, ne peut être prise sans que la procédure prévue à l'alinéa précédent ait été
+observée.
+
+Les dispositions du présent article [*procédure obligatoire*] sont applicables aux licenciements pour faute qui, en vertu des
+dispositions de l'article L. 122-14-6, ne sont pas soumis aux règles de procédure prévues par les articles L. 122-14 et L.
+122-14-2 [*application aux salariés des entreprises occupant habituellement moins de onze salariés - effectifs*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°93-852 du 17 juin 1993 - art. Annexe, art. 12 (Ab)
+	  - Code du travail - art. L122-34 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (Ab)
+	  - Code du travail - art. L122-14-2 (M)
+	  - Code du travail - art. L122-14-6 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L122-39 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L122-40 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-45
+
+Aucun salarié ne peut être sanctionné ou licencié en raison de son origine, de son sexe, de sa situation de famille, de son
+appartenance à une ethnie, une nation ou une race, de ses opinions politiques, de ses activités syndicales ou de ses
+convictions religieuses [*non discrimination, interdiction*].
+
+Toute disposition contraire est nulle de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 1 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
+	  - Décret n°95-182 du 21 février 1995 - art. 15 (V)
+	  - Code du travail - art. D341-5-15 (V)
+	  - Code du travail - art. L116-4 (AbD)
+	  - Code du travail - art. L122-45-1 (AbD)
+	  - Code du travail - art. L122-45-5 (AbD)
+	  - Code du travail - art. L310-2 (AbD)
+	  - Code du travail - art. L611-9 (AbD)
+	  - Code du travail - art. R312-5 (VT)
 
 	**Codifié par**:
 
@@ -8566,6 +9208,45 @@ emprisonnement de deux à quatre mois et d'une amende de 2.000 F à 8.000 F [*mo
 
 
 #### Chapitre II : Contrat de travail
+
+##### SECTION 1 : LOUAGE DE SERVICES - REGLEMENT INTERIEUR.
+
+###### Article L152-1
+
+Toute infraction aux dispositions de l'article L. 122-42 est punie d'une amende de 2.000 F à 10.000 F [*montant*] et, en cas
+de récidive, d'une amende de 10.000 F à 20.000 F [*sanction pénale*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 3 () JORF 6 AOUT 1982
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 23 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1155-1 (VD)
+	  - Code du travail - art. L1238-1 (VD)
+	  - Code du travail - art. L152-1-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-14 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-15 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-16 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L122-14-17 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-42 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ##### Section 2 : Travail temporaire.
 
@@ -12758,53 +13439,6 @@ les droits des personnes auxquelles elles ont payé leurs créances dans les con
 	**Anciens textes**:
 
 	  - Code du travail L143-11-6 (1974)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-### PENALITES
-
-#### CONTRAT DE TRAVAIL
-
-##### LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
-
-###### Article L152-1
-
-Toute infraction aux dispositions /M/des articles L. 122-39 à L. 122-42/M/Loi  0753 17-07-1978 : de l'article L. 122-39// est
-punie d'une amende de 2.000 F à 10.000 F [*montant*] et, en cas de récidive, d'une amende de 10.000 F à 20.000 F.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-617 1972-07-05 ART. 9
-
-	**Modifié par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 51
-
-	**Cité par**:
-
-	  - Loi n°2002-1062 du 6 août 2002 - art. 23 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1155-1 (VD)
-	  - Code du travail - art. L1238-1 (VD)
-	  - Code du travail - art. L152-1-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L122-14-14 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L122-14-15 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L122-14-16 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L122-14-17 (AbD)
-
-	**Cite**:
-
-	  - Code du travail L122-39 à L122-42
 
 	**Codifié par**:
 
@@ -26773,6 +27407,68 @@ l'autorisation préalable de l'autorité administrative compétente.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L321-2
+
+Dans les établissements visés à l'article précédent, à défaut de convention ou d'accord collectif applicable, l'employeur
+indique à l'autorité administrative, compétente pour autoriser le licenciement pour motif économique les critères retenus,
+après consultation du comité d'entreprise ou, à défaut, des délégués du personnel, pour fixer l'ordre des licenciements. Ces
+critères prennent notamment en compte les charges de famille et en particulier celles des parents isolés, l'ancienneté de
+service dans l'établissement ou l'entreprise et les qualités professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
+	  - Loi n°91-1405 du 31 décembre 1991 - art. 52 (V)
+	  - Décret n°94-774 du 30 août 1994 - art. 4 (Ab)
+	  - Décret n°95-950 du 25 août 1995 - art. 4 (V)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 4 (Ab)
+	  - Décret n°96-721 du 14 août 1996 - art. 2 (V)
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 118 (Ab)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 78 (V)
+	  - Arrêté du 25 avril 2007 - art. 1 (V)
+	  - Arrêté du 15 décembre 1977 - art. 4 (Ab)
+	  - Arrêté du 31 décembre 1986 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. R241-0-4 (V)
+	  - Code du travail - art. L122-14-3 (AbD)
+	  - Code du travail - art. L122-14-4 (AbD)
+	  - Code du travail - art. L122-33 (M)
+	  - Code du travail - art. L311-5 (M)
+	  - Code du travail - art. L311-6 (M)
+	  - Code du travail - art. L321-1 (M)
+	  - Code du travail - art. L321-1-1 (AbD)
+	  - Code du travail - art. L321-3 (AbD)
+	  - Code du travail - art. L321-4 (AbD)
+	  - Code du travail - art. L321-4-1 (M)
+	  - Code du travail - art. L321-7 (P)
+	  - Code du travail - art. L321-7-1 (AbD)
+	  - Code du travail - art. R321-1 (VT)
+	  - Code du travail - art. R321-10 (VT)
+	  - Code du travail - art. R321-21 (VT)
+	  - Code du travail - art. R322-8 (VT)
+	  - Code du travail - art. R362-1 (T)
+	  - Code du travail - art. R362-1-1 (VT)
+	  - Code du travail maritime - art. 94 (M)
+	  - Code rural - art. R*741-53 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°82-689 du 4 août 1982 - art. 4 () JORF 6 AOUT 1982
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L321-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R362-1-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L321-3
 
 Dans les entreprises ou établissements agricoles, industriels ou commerciaux, publics ou privés, dans les offices publics et
@@ -28729,74 +29425,6 @@ obligations fiscales et sociales inhérentes à ladite activité.
 ## EMPLOI
 
 ### CONTROLE DE L'EMPLOI .
-
-###### Article L321-2
-
-Dans les établissements qui font l'objet des mesures prévues à l'article précédent, l'employeur est tenu d'établir un
-règlement intérieur dans les conditions fixées aux articles L. 122-33 à L. 122-42.
-
-Ce règlement établi après avis du comité d'entreprise ou des délégués du personnel s'il en existe, détermine, notamment à
-défaut de convention collective applicable à l'établissement, les règles générales relatives à l'ordre de licenciement, en
-cas de licenciement collectif compte tenu des charges de famille, de l'ancienneté de service dans l'établissement et des
-qualités professionnelles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1030 1945-05-24 ART. 10 ET 11
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
-	  - Loi n°91-1405 du 31 décembre 1991 - art. 52 (V)
-	  - Décret n°94-774 du 30 août 1994 - art. 4 (Ab)
-	  - Décret n°95-950 du 25 août 1995 - art. 4 (V)
-	  - Décret n°95-1188 du 6 novembre 1995 - art. 4 (Ab)
-	  - Décret n°96-721 du 14 août 1996 - art. 2 (V)
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 118 (Ab)
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 78 (V)
-	  - Arrêté du 25 avril 2007 - art. 1 (V)
-	  - Arrêté du 15 décembre 1977 - art. 4 (Ab)
-	  - Arrêté du 31 décembre 1986 - art. 1 (V)
-	  - Code de la sécurité sociale. - art. R241-0-4 (V)
-	  - Code du travail - art. L122-14-3 (AbD)
-	  - Code du travail - art. L122-14-4 (AbD)
-	  - Code du travail - art. L122-33 (M)
-	  - Code du travail - art. L311-5 (M)
-	  - Code du travail - art. L311-6 (M)
-	  - Code du travail - art. L321-1 (M)
-	  - Code du travail - art. L321-1-1 (AbD)
-	  - Code du travail - art. L321-3 (AbD)
-	  - Code du travail - art. L321-4 (AbD)
-	  - Code du travail - art. L321-4-1 (M)
-	  - Code du travail - art. L321-7 (P)
-	  - Code du travail - art. L321-7-1 (AbD)
-	  - Code du travail - art. R321-1 (VT)
-	  - Code du travail - art. R321-10 (VT)
-	  - Code du travail - art. R321-21 (VT)
-	  - Code du travail - art. R322-8 (VT)
-	  - Code du travail - art. R362-1 (T)
-	  - Code du travail - art. R362-1-1 (VT)
-	  - Code du travail maritime - art. 94 (M)
-	  - Code rural - art. R*741-53 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L321-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R362-1-1 (V)
-
-	**Cite**:
-
-	  - Code du travail L122-33 A L122-42
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
 
 ###### Article L321-12
 
@@ -33820,9 +34448,199 @@ décembre 1977*].
 	  - Code du travail - art. L420-23 (T)
 
 
+### Titre VII : PENALITES
+
+#### Chapitre Ier : LES SYNDICATS PROFESSIONNELS
+
+##### SECTION 1 : STATUT JURIDIQUE DES SYNDICATS.
+
+###### Article L471-1
+
+Les directeurs ou administrateurs de syndicats ou d'unions de syndicats qui auront commis des infractions aux dispositions de
+l'article L. 411-1 seront punis d'une amende de 2.000 F à 8.000 F. La dissolution du syndicat ou de l'union de syndicats
+pourra en outre être prononcée à la diligence du procureur de la République.
+
+En cas de fausse déclaration relative aux statuts et aux noms et qualités des directeurs ou administrateurs, l'amende sera de
+2.000 F à 8.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°79-594 du 13 juillet 1979 - art. 39-4 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octies (M)
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L143-11-3 (AbD)
+	  - Code du travail - art. L471-3 (V)
+	  - Code du travail - art. R471-1 (VT)
+	  - Code du travail - art. R471-2 (VT)
+	  - Code du travail - art. R471-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Transféré par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 76 () JORF 30 DECEMBRE 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L411-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L461-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L481-1 (M)
+
+
+##### SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES.
+
+###### Article L471-2
+
+Toute entrave apportée à l'exercice du droit syndical défini par les articles L. 412-1 et L. 412-4 à L. 412-16 sera punie
+d'un emprisonnement de deux mois à un an et d'une amende de 2.000 F à 20.000 F ou de l'une de ces deux peines seulement.
+
+En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 40.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°79-594 du 13 juillet 1979 - art. 39-4 (Ab)
+	  - Loi n°82-689 du 4 août 1982 - art. 8 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 41 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octies (M)
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L153-2 (AbD)
+	  - Code du travail - art. L992-1 (T)
+	  - Code du travail - art. L993-1 (AbD)
+	  - Code du travail - art. R471-2 (VT)
+
+	**Créé par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L412-1 (M)
+	  - Code du travail - art. L412-10 (M)
+	  - Code du travail - art. L412-11 (M)
+	  - Code du travail - art. L412-12 (M)
+	  - Code du travail - art. L412-13 (M)
+	  - Code du travail - art. L412-14 (M)
+	  - Code du travail - art. L412-15 (M)
+	  - Code du travail - art. L412-16 (M)
+	  - Code du travail - art. L412-4 (M)
+	  - Code du travail - art. L412-5 (M)
+	  - Code du travail - art. L412-6 (M)
+	  - Code du travail - art. L412-7 (M)
+	  - Code du travail - art. L412-8 (M)
+	  - Code du travail - art. L412-9 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L461-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L481-2 (M)
+
+
+###### Article L471-3
+
+Les chefs d'établissement, directeurs ou gérants, qui auront enfreint les dispositions des articles L. 412-2 et L. 413-2
+seront passibles d'une amende de 2.000 F à 8.000 F et, en cas de récidive, d'un emprisonnement de deux mois à un an et d'une
+amende de 4.000 F à 16.000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°79-594 du 13 juillet 1979 - art. 39-4 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 octies (M)
+	  - Code du travail - art. L143-11-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Transféré par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 76 () JORF 30 DECEMBRE 1983 date d'entrée en vigueur 1ER JANVIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L412-2 (M)
+	  - Code du travail - art. L413-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L461-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L481-3 (M)
+	  - Code du travail l481-3
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. R471-1 (V)
+	  - TXT_SOURCE: Code du travail - art. R471-2 (V)
+	  - TXT_SOURCE: Code du travail - art. R471-3 (V)
+
+
+#### Chapitre II : LES DELEGUES DU PERSONNEL.
+
+###### Article L472-1
+
+Quiconque aura porté ou tenté de porter atteinte, soit à la libre désignation des délégués du personnel, soit à l'exercice
+régulier de leurs fonctions, notamment par la méconnaissance des dispositions [*relatives au licenciement*] des articles L.
+420-22 et L. 420-23 et des textes réglementaires pris pour leur application, sera puni d'un emprisonnement de deux mois à un
+an [*durée*] et d'une amende de 2.000 F à 20.000 F [*taux résultant de la loi du 30 décembre 1977*] ou de l'une de ces deux
+peines seulement.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 40.000 F [*taux résultant de la loi du 30
+décembre 1977*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L420-22 (T)
+	  - Code du travail L420-22, L422-23
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L462-1 (T)
+
+
 #### Chapitre III : LES COMITES D'ENTREPRISE
 
-###### Article L463-1
+###### Article L473-1
 
 Toute entrave apportée, soit à la constitution d'un comité d'entreprise, soit à la libre désignation de ses membres, soit à
 son fonctionnement régulier, notamment par la méconnaissance des dispositions des articles L. 433-13, L. 436-1 et L. 436-2 et
@@ -33834,26 +34652,11 @@ décembre 1977*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°72-617 du 5 juillet 1972 - art. 28, v. init.
-
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
-	**Modifié par**:
-
-	  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
-
-	**Cité par**:
-
-	  - Loi n°80-834 du 24 octobre 1980 - art. 13 (V)
-	  - Code du travail - art. L463-2 (T)
-	  - Code du travail - art. L473-2 (T)
-	  - Code du travail - art. L483-2 (AbD)
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
 
@@ -33863,19 +34666,20 @@ décembre 1977*].
 	  - Code du travail - art. L436-1 (T)
 	  - Code du travail - art. L436-2 (T)
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TXT_ASSOCIE: Code du travail - art. L433-13 (M)
-	  - TXT_ASSOCIE: Code du travail - art. L436-2 (T)
+	  - Code du travail - art. L463-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L473-1-1 (T)
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. L473-1 (M)
+	  - Code du travail - art. L483-1 (M)
 
 
-#### Chapitre III : COMITE D'ENTREPRISE
-
-###### Article L463-2
+###### Article L473-2
 
 L'employeur qui ne présente pas le bilan social d'entreprise ou d'établissement prévu à l'article L. 438-1 sera passible des
 peines prévues à l'article L. 463-1.
@@ -33886,18 +34690,27 @@ peines prévues à l'article L. 463-1.
 
 	  - Décret n°73-1047 1973-11-15
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Loi n°82-689 1982-08-04 ART. 6 JORF 6 AOUT 1982
+
+	**Transféré par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 76 () JORF 30 DECEMBRE 1983 date d'entrée en vigueur 1ER JANVIER 1984
 
 	**Cite**:
 
 	  - Code du travail - art. L438-1 (M)
 	  - Code du travail - art. L463-1 (T)
 
+	**Anciens textes**:
+
+	  - Code du travail - art. L463-2 (T)
+
 	**Nouveaux textes**:
 
-	  - Code du travail - art. L473-2 (T)
+	  - Code du travail - art. L483-2 (M)
+	  - Code du travail l483-2
 
 
 ## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
