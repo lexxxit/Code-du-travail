@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-01-03
+Version Consolidée au 1978-01-12
 
 # Partie législative ancienne
 
@@ -36583,31 +36583,22 @@ Elles ne peuvent faire l'objet d'aucun autre recours que celui prévu à l'artic
 
 ###### Article L525-9
 
-Un règlement d'administration publique [*RAP*] détermine les conditions d'organisation et de fonctionnement de la cour
-supérieure d'arbitrage, ainsi que les catégories dans lesquelles sont choisis les commissaires du Gouvernement et les
-rapporteurs qui sont rémunérés pour ce travail par des indemnités.
-
-Le même règlement détermine le montant des indemnités qui sont attribuées aux conseillers d'Etat honoraires et aux magistrats
-honoraires, membres de la cour supérieure d'arbitrage.
+Un règlement d'administration publique détermine les conditions d'organisation et de fonctionnement de la cour supérieure
+d'arbitrage, ainsi que les catégories dans lesquelles sont choisis les commissaires du Gouvernement et les rapporteurs.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°50-205 1950-02-11
-	  - Loi n°57-833 1957-07-26 ART. 27
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Abrogé par**:
+
+	  - Loi n°82-957 1982-11-13 ART. 25 JORF 14 NOVEMBRE 1982
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L2524-10 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R525-1 A R525-19
 
 
 #### EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .
@@ -53688,27 +53679,6 @@ des fonctionnaires mis à la dispositions de la Cour par le ministre chargé du 
 
 	  - Code du travail - art. R525-9 (Ab)
 	  - Code du travail - art. R525-9 (V)
-
-
-###### Article R525-9
-
-Les indemnités allouées aux commissaires du Gouvernement et les vacations allouées aux rapporteurs sont les mêmes que celles
-perçues par les commissaires du Gouvernement et les rapporteurs près la commission supérieure des dommages de guerre. Les
-membres de la Cour supérieure d'arbitrage désignés parmi les présidents de section, les conseillers d'Etat ou les magistrats
-honoraires, reçoivent des vacations dont le taux est fixé par arrêté concerté du ministre de la justice et du ministre des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-320 1950-03-15 ART. 9
-	  - Code du travail - art. R525-8 (T)
-	  - Loi n°1950-02-11 ART. 12 A 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
 
 
 ##### INTRODUCTION, INSTRUCTION ET JUGEMENTS DES RECOURS .
