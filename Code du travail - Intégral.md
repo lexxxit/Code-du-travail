@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-06-11 00:00:01 +0200
+Version Consolidée au 1982-07-03
 
 # Partie législative ancienne
 
@@ -106571,6 +106571,42 @@ branches.
 	  - TXT_ASSOCIE: Code du travail D124-4 : POSSIBILITE DE DELEGATION DE SIGNATURE
 
 
+###### Article D124-4
+
+Pour l'exercice des attributions qui lui appartiennent en vertu de l'article D. 124-3, le directeur départemental du travail
+et de l'emploi peut déléguer sa signature aux fonctionnaires placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-572 1982-06-29 art. 1 JORF 3 juillet 1982
+
+	**Transféré par**:
+
+	  - Décret n°86-531 1986-03-14 art. 1 JORF 16 mars 1986
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D124-3 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. D124-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D124-5 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. D124-5 (Ab)
+
+
 ### Titre III : Conventions collectives de travail
 
 #### Chapitre IV : Conventions collectives dans les entreprises publiques.
@@ -107397,12 +107433,16 @@ suspendue pour cette catégorie :
 En cas de pratique d'horaires individualisés tels que définis à l'article L. 212-4-1, et à défaut de dispositions différentes
 d'une convention ou d'un accord collectif étendu ou d'un accord d'entreprise ou d'établissement, le report d'heures d'une
 semaine à une autre prévu à l'alinéa 3 de ce même article ne peut excéder trois heures et le cumul des reports ne peut avoir
-pour effet de porter le total des heures reportées à plus de 10.
+pour effet de porter le total des heures reportées à plus de 10 [*nombre*].
 
 Les accords collectifs d'entreprise ou d'établissement prévus à l'alinéa précédent doivent pour entrer en vigueur ne pas
 avoir fait l'objet d'une opposition d'une ou des organisations syndicales non signataires qui totalisent un nombre de voix
 supérieur à 50 p. 100 du nombre des électeurs inscrits aux dernières élections du comité d'entreprise ou, s'il n'existe pas,
 des délégués du personnel.
+
+Lorsque l'accord ne concerne qu'une catégorie professionnelle déterminée relevant du deuxième ou du troisième collège, tel
+que défini à l'article L. 433-2, les organisations susceptibles de s'opposer à son entrée en vigueur sont celles qui ont
+obtenu plus de 50 p. 100 des voix des électeurs inscrits dans le ou lesdits collèges.
 
 **Liens relatifs à cet article**
 
@@ -107410,13 +107450,13 @@ des délégués du personnel.
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-195 1982-02-26 ART. 2 JORF 27 FEVRIER 1982
+	  - Décret n°82-571 1982-06-29 ART. 1 JORF 3 JUILLET 1982
 
-	**Cite**:
+	**Liens**:
 
-	  - Code du travail - art. L212-4-1 (AbD)
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ###### Article D212-4-2
