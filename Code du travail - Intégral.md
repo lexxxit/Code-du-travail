@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-06-20
+Version Consolidée au 1975-06-20 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -96371,18 +96371,21 @@ immédiatement supérieure.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-	  - TXT_ASSOCIE: Code du travail - art. L437-3 (Ab)
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. D437-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L437-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L437-3 (Ab)
 
 
 ###### Article D437-2
@@ -96392,13 +96395,13 @@ la moitié de celui fixé par application des dispositions de l'article D. 437-1
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. D437-1
 
 
 ###### Article D437-3
@@ -96408,13 +96411,14 @@ répartissent entre eux le crédit global d'heures, tel qu'il résulte de l'appl
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail
+	  - Code du travail - art. L437-3
 
 
 ###### Article D437-4
@@ -96426,13 +96430,9 @@ travail ; il pourra notamment limiter le nombre de personnes habilitées à effe
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ## CONFLITS DU TRAVAIL
@@ -102962,13 +102962,17 @@ qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°74-835 du 23 septembre 1974
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D6122-5 (V)
 
 	**Cité par**:
 
@@ -102983,13 +102987,17 @@ fonds de la formation professionnelle et de la promotion sociale, dans les condi
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°74-835 du 23 septembre 1974
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D6122-6 (V)
 
 
 ###### Article D940-4
@@ -102999,13 +103007,13 @@ dérogé aux dispositions communes applicables aux conventions de formation prof
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+	  - Code du travail - art. L910-1
 
 
 ###### Article D940-6
@@ -103016,13 +103024,13 @@ jusqu'au 31 décembre 1975.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°67-966 1967-11-15
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18
