@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-24 00:00:01 +0100
+Version Consolidée au 1978-03-26
 
 # Partie législative ancienne
 
@@ -58411,6 +58411,90 @@ Il ne peut avoir lieu dans les débits de boissons ou magasins de vente, sauf po
 	  - Code du travail - art. R3241-1 (V)
 
 
+##### SECTION 1 : MODE DU PAIEMENT DU SALAIRE .
+
+###### Article R143-2
+
+Le bulletin de paie prévu à l'article L. 143-3 indique :
+
+1. Le nom et l'adresse de l'employeur ou la dénomination de l'établissement et son adresse ;
+
+2. La référence de l'organisme auquel l'employeur verse les cotisations de sécurité sociale, le numéro sous lequel ces
+cotisations sont versées et, pour les employeurs inscrits au répertoire national des entreprises et des établissements prévu
+à l'article 1er du décret n° 73-314 du 14 mars 1973, le numéro de la nomenclature des activités économiques (code A.P.E.)
+caractérisant l'activité de l'entreprise ou de l'établissement mentionné au second alinéa de l'article 5 dudit décret.
+
+3. Le nom et l'emploi du salarié ;
+
+4. La période et le nombre d'heures de travail auxquels se rapportent les rémunérations versées en mentionnant séparément, le
+cas échéant, celles qui sont payées au taux normal et pour celles qui comportent une majoration pour heures supplémentaires,
+le ou les taux de majoration appliqués et le nombre d'heures correspondant ; pour les travailleurs dont les cotisations de
+sécurité sociale sont calculées sur la base d'un salaire forfaitaire par journée ou demi-journée de travail, la mention de la
+durée du travail est complétée par celle des journées et, éventuellement, des demi-journées ;
+
+5. La nature et le montant des diverses primes qui s'ajoutent au salaire en 4° ;
+
+6. Le montant de la rémunération brute du travailleur intéressé ;
+
+7. La nature et le montant des diverses déductions opérées sur cette rémunération brute ;
+
+8. Le montant de la rémunération nette effectivement reçue par le travailleur intéressé ;
+
+9. La date du paiement de la rémunération :
+
+10. Les dates de congé et le montant de l'indemnité correspondante lorsqu'une période de congé annuel est comprise dans la
+période de paie considérée.
+
+Le livre de paie prévu à l'article L. 143-5 est tenu par ordre de date, sans blancs, lacunes, ratures, surcharges, ni
+apostilles. Il est coté, paraphé et visé dans la forme ordinaire et sans frais, soit par le juge du tribunal d'instance ou
+par un des juges du tribunal de commerce dans le ressort duquel se trouve le lieu où l'employeur exerce sa profession, soit
+par le maire ou un adjoint.
+
+L'employeur est tenu de conserver ce livre pendant cinq ans à dater de sa clôture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°73-314 du 14 mars 1973 - art. 1 (M)
+	  - Décret n°73-314 du 14 mars 1973 - art. 5 (M)
+	  - Code du travail - art. L143-3 (MMN)
+	  - Code du travail - art. L143-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-889 du 22 août 1988
+	  - TXT_SOURCE: Décret n°88-889 du 22 août 1988 - art. 3 (V)
+	  - TXT_ASSOCIE: Décret n°91-94 du 24 janvier 1991
+	  - TXT_ASSOCIE: Décret n°91-94 du 24 janvier 1991 - art. 5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R154-3 (V)
+
+	**Cité par**:
+
+	  - Décret n°95-182 du 21 février 1995 - art. 4 (Ab)
+	  - Décret n°2000-70 du 28 janvier 2000 - art. 3 (V)
+	  - Arrêté du 24 décembre 2002 - art. 2 (Ab)
+	  - Décret n°2003-1295 du 26 décembre 2003 - art. Annexe I (VT)
+	  - Décret n°2004-942 du 3 septembre 2004 - art. 18 (V)
+	  - Code de la sécurité sociale. - art. D133-9 (Ab)
+	  - Code de la sécurité sociale. - art. R753-8 (V)
+	  - Code du travail - art. D341-5-3 (V)
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R128-5 (VT)
+	  - Code du travail - art. R143-3 (VT)
+	  - Code du travail - art. R154-3 (VT)
+	  - Code du travail - art. R324-4 (VT)
+	  - Code du travail - art. R324-7 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail 44 al. 2
+
+
 #### Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur
 
 ##### Section 2 : Procédure de cession et de saisie-arrêt.
@@ -86086,8 +86170,7 @@ Code du travail R632-1 : sanctions pénales. *
 
 ###### Article R620-2
 
-Un duplicata de l'affiche mentionnée à l'article L. 620-6 est envoyé à l'inspecteur du travail ; un autre est déposé à la
-mairie.
+Un duplicata de l'affiche mentionnée à l'article L. 620-6 est envoyé à l'inspecteur du travail.
 
 **Liens relatifs à cet article**
 
@@ -86099,14 +86182,6 @@ mairie.
 
 	  - Code du travail - art. D341-5-9 (V)
 	  - Code du travail - art. R632-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L620-6 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 85 al. 2
 
 
 ###### Article R620-3
@@ -101510,36 +101585,6 @@ fonctionnement des services médicaux du travail plus favorables aux salariés.
 	  - Décret  1969-06-13 ART. 30
 
 
-## REGLEMENTATION DU TRAVAIL
-
-### CONGES ANNUELS .
-
-###### Article D223-3
-
-Les employeurs doivent, en vue du contrôle de l'application de la loi, tenir un registre où sont consignés les conventions ou
-accords intervenus en matière de congé annuel payé. Le registre doit en tout état de cause indiquer :
-
-1. La période ordinaire des vacances de l'établissement ;
-
-2. La date d'entrée en service de chaque salarié ;
-
-3. La durée du congé annuel payé des ayants-droit ;
-
-4. La date de leur départ en congé ;
-
-5. Le montant de l'indemnité versée à chacun d'eux pour la durée de son congé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1936-08-01 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ## Livre III : Placement et emploi
 
 ### Titre Ier : Placement
@@ -112238,6 +112283,57 @@ ordre du jour toute personne notoirement compétente dans les affaires débattue
 	**Anciens textes**:
 
 	  - Décret n°70-827 1970-09-16 ART. 3
+
+
+###### Article D910-4
+
+Il est constitué au sein du comité régional une commission de l'apprentissage. Cette commission comprend au plus vingt-cinq
+membres. Elle se compose :
+
+De représentants, en nombre égal, des employeurs et des salariés désignés sur proposition des organisations nationales les
+plus représentatives et siégeant au comité régional ;
+
+De personnalités qualifiées parmi lesquelles le représentant des chambres de commerce et d'industrie, le représentant des
+chambres de métiers et le représentant des chambres d'agriculture siégeant au comité régional, deux représentants des
+enseignants publics, dont un de l'enseignement agricole public, un directeur de centre de formation d'apprentis et un
+représentant du personnel enseignant des centres de formation d'apprentis ;
+
+De représentants de l'administration, notamment /R/de l'éducation nationale, du développement industriel et scientifique/R/
+DECR.0102 02-02-1977 : de l'éducation, et particulièrement du service d'inspection de l'apprentissage de l'industrie et de la
+recherche// , de l'agriculture, du travail et de l'emploi.
+
+Les membres de la commission de l'apprentissage sont désignés par le préfet de région.
+
+Cette commission est /R/placée sous la présidence de /R/DECR.0102 : est présidée par le préfet de région ou son représentant
+assisté de// l'inspecteur principal de l'enseignement technique, membre du groupe régional permanent, ou, pour les questions
+intéressant l'apprentissage agricole, de l'ingénieur général d'agronomie membre du même groupe.
+
+Pour l'étude de certaines questions, la commission de l'apprentissage peut, à titre consultatif, faire appel à d'autres
+personnes choisies en raison de leur compétence.
+
+Le comité régional peut donner délégation à sa commission de l'apprentissage pour émettre un avis //DECR.0428 20-03-1978 :
+
+ou prendre une décision// en son lieu et place, chaque fois que cet avis //DECR.0428 : ou cette décision// est prévu par les
+articles L. 115-1 à L. 119-4 ou par les textes pris pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail L115-1 A L119-4
+
+	**Cité par**:
+
+	  - Code rural - art. R*811-12 (Ab)
+	  - Code rural et de la pêche maritime - art. R811-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°70-827 1970-09-16 ART. 3 bis
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
 
 
 ###### Article D910-5
