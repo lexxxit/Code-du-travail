@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-09-13
+Version Consolidée au 1977-09-29
 
 # Partie législative ancienne
 
@@ -61175,6 +61175,178 @@ lettre recommandée avec demande d'avis de réception.
 	**Cité par**:
 
 	  - Code du travail - art. R263-2 (VT)
+
+
+##### SECTION 3 : ORGANES CONSULTATIFS CENTRAUX
+
+##### Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en agriculture.
+
+###### Article R231-25
+
+La commission nationale d'hygiène et de sécurité du travail en agriculture participe à l'élaboration de la politique
+nationale de prévention des risques professionnels dans les professions agricoles.
+
+Elle est consultée sur :
+
+Les projets de loi intéressant la prévention des risques professionnels en agriculture ;
+
+Les projets de règlement pris en application des dispositions législatives des titres III et IV du livre II du code du
+travail, lorsqu'ils intéressent les professions agricoles.
+
+Elle peut en outre être saisie par le ministre chargé de l'agriculture de toute question intéressant l'hygiène et la sécurité
+des travailleurs en agriculture et proposer audit ministre toutes mesures susceptibles d'être prises en ce domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°85-968 du 27 août 1985 - art. 23 (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 25 (V)
+	  - Décret n°2007-761 du 10 mai 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du travail L231-1 A L241-11
+
+
+###### Article R231-26
+
+La commission nationale d'hygiène et de sécurité du travail en agriculture est présidée par le ministre chargé de
+l'agriculture ou à défaut, par un membre du Conseil d'Etat vice-président de la commission désigné sur proposition du vice-
+président du conseil d'Etat.
+
+Elle se compose en outre de :
+
+1. Sept [*nombre*] membres représentant les départements ministériels et la mutualité sociale agricole, déterminés ainsi
+qu'il suit :
+
+Au titre du ministère chargé du travail, le directeur des relations du travail ou son représentant ;
+
+Au titre du ministère chargé de la santé, le directeur général de la santé ou son représentant ;
+
+Au titre du ministère chargé de l'industrie, le directeur général de l'industrie ou son représentant ;
+
+Au titre du ministère chargé de l'agriculture, le directeur des affaires sociales, le directeur de l'aménagement et le
+directeur de la qualité ou leurs représentants ;
+
+Un représentant des caisses centrales de la mutualité sociale agricole désigné sur proposition du conseil d'administration
+desdites caisses.
+
+2. Six représentants des salariés agricoles sur proposition des organisations syndicales de salariés agricoles les plus
+représentatives au plan national ;
+
+3. Six représentants des employeurs agricoles sur proposition des organisations d'employeurs agricoles les plus
+représentatives au plan national ;
+
+4. Huit personnes désignées en raison de leur compétence.
+
+Le vice-président de la commission nationale, le représentant de la mutualité sociale agricole ainsi que les membres du
+conseil mentionné aux 2, 3 et 4 ci-dessus sont nommés pour trois ans [*durée*] par arrêté du ministre chargé de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-27
+
+La commission nationale peut constituer en son sein des groupes de travail pour l'étude des questions qui entrent dans le
+domaine de sa compétence. Ces groupes de travail peuvent être consultés au lieu et place de la commission lorsque celle-ci
+leur a donné délégation à cet effet dans les conditions prévues par son règlement intérieur.
+
+Les groupes de travail comprennent en nombre égal des représentants des employeurs et des salariés. Leur président est
+désigné par le ministre sur proposition de la commission nationale. Le ministre ou, à son défaut, le vice-président de la
+commission nationale peuvent assister à leurs séances. Dans ce cas il les président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-130 (VT)
+
+
+###### Article R231-28
+
+Le secrétariat de la commission nationale et de ses groupes de travail est assuré par les services de la direction des
+affaires sociales avec, lorsque ces instances traitent de questions relatives à l'application de l'article L. 233-5 du code
+du travail, le concours du centre national d'études et d'expérimentation de machinisme agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L235-5 (Ab)
+
+
+###### Article R231-29
+
+Les membres de la commission nationale désignés en raison de leur compétence siègent personnellement.
+
+Pour chaque membre de la commission nationale représentant des employeurs et des salariés ainsi que pour le membre
+représentant la mutualité sociale agricole, il est désigné, dans les mêmes conditions et pour la même durée, un membre
+suppléant. Le membre suppléant ne peut assister aux séances de la commission et de ses groupes de travail qu'en cas d'absence
+du membre titulaire.
+
+Les membres de la commission nationale représentants des employeurs et des salariés peuvent, en outre, dans toutes les
+formations de la commission nationale, se faire assister d'un expert de leur choix.
+
+La commission et les groupes de travail peuvent s'adjoindre, à titre consultatif, toute personne ayant des connaissances dans
+les matières étudiées par eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-30
+
+La commission nationale se réunit au moins une fois par an sur convocation du ministre chargé de l'agriculture.
+
+L'ordre du jour de la commission nationale et de ses groupes de travail est fixé par le ministre soit de sa propre
+initiative, soit sur proposition de membres de la commission. Sauf cas d'urgence, il est adressé à tous les membres quinze
+jours au moins avant la date de la réunion.
+
+Les rapporteurs sont désignés par le ministre. Ils peuvent être choisis en dehors de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-31
+
+Le mandat des membres de la commission est renouvelable.
+
+Tout membre de la commission nationale désigné en raison de sa compétence qui, au cours d'une même année et sans excuse
+valable, n'aurait pas assisté à trois [*nombre*] séances du conseil ou d'un groupe de travail dont il fait partie est déclaré
+démissionnaire d'office par arrêté du ministre chargé de l'agriculture.
+
+En cas de décès, démission ou perte de leur mandat, les membres sont remplacés pour la durée de la période restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
 
 
 #### Chapitre III : Sécurité
