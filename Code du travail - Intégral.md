@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-03-14
+Version Consolidée au 1980-03-14 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -84354,17 +84354,13 @@ Il est alloué aux huissiers de justice, pour l'usage de leur ministère accompl
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R519-10 (Ab)
+	  - Code du travail - art. R1423-53 (V)
 
 
 ##### Section 2 : Témoins.
@@ -84377,22 +84373,18 @@ civile [*montant*].
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
+	  - Code du travail - art. R1423-54 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. R519-1 (Ab)
 	  - Code du travail - art. R519-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R519-11 (Ab)
 
 
 ### Titre II : Conflits collectifs
