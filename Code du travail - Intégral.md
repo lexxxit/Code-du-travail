@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-02-05 00:00:01 +0100
+Version Consolidée au 1977-02-26
 
 # Partie législative ancienne
 
@@ -67626,6 +67626,95 @@ ministres [*du travail, de l'économie et des finances*] visés à l'article R. 
 	  - Décret n°1946-03-26 art. 24
 
 
+###### Article R341-33
+
+Un exemplaire des procès-verbaux établis par les fonctionnaires chargés du contrôle de l'application du droit du travail ou
+par les officiers et agents de police judiciaire et constatant les infractions aux dispositions du premier alinéa de
+l'article L. 341-6 du présent code est transmis au directeur du travail et de la main-d'oeuvre du département dans lequel
+l'infraction a été constatée ou au fonctionnaire qui en assume les attributions en raison de la nature de l'activité exercée
+par l'employeur.
+
+Le directeur du travail et de la main-d'oeuvre ou le fonctionnaire compétent indique à l'employeur, par lettre recommandée
+avec demande d'avis de réception, que les dispositions de l'article L. 341-7 lui sont applicables et qu'il peut lui présenter
+ses observations , et au plus tard à l'expiration du délai ainsi fixé, le fonctionnaire compétent, s'il n'est pas le
+directeur départemental du travail et de la main-d'oeuvre, transmet à ce dernier, avec son avis, le procès-verbal accompagné,
+le cas échéant, des observations de l'employeur.
+
+Le directeur départemental du travail et de la main-d'oeuvre adresse, avec son avis, au directeur de l'office national
+d'immigration le procès-verbal ainsi que les observations de l'employeur, s'il en a été produit, et, le cas échéant, l'avis
+du fonctionnaire compétent en raison de la nature de l'activité exercée par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°2006-660 du 6 juin 2006 - art. 2 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R626-2 (M)
+	  - Code du travail - art. R341-28 (M)
+	  - Code du travail - art. R341-31 (VT)
+	  - Code du travail - art. R341-32 (M)
+	  - Code du travail - art. R341-32-1 (VT)
+	  - Code du travail - art. R341-33 (M)
+	  - Code du travail - art. R341-34 (T)
+	  - Code du travail - art. R341-37 (T)
+	  - Code du travail - art. R341-38 (T)
+	  - Code du travail - art. R341-39 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-6 (M)
+	  - Code du travail - art. L341-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R341-27 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R341-39 (T)
+
+
+###### Article R341-34
+
+Au vu des procès-verbaux qui lui sont transmis en application de l'article R. 341-33, le directeur de l'office national
+d'immigration décide de l'application de la contribution spéciale prévue à l'article L. 341-7 et notifie sa décision à
+l'employeur ainsi que le titre de recouvrement.
+
+Cette contribution est à la charge [*financière*] exclusive de l'employeur qui aura occupé un travailleur étranger en
+violation de ces dispositions. Son recouvrement est effectué conformément aux dispositions régissant les états exécutoires
+émis pour le recouvrement des créances des établissements publics nationaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L341-7 (Ab)
+	  - Code du travail - art. R341-33 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R341-28 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R341-34 (M)
+	  - Code du travail - art. R341-35 (M)
+	  - Code du travail - art. R341-40 (T)
+	  - Code du travail - art. R341-41 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R341-40 (T)
+
+
 ### Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 #### Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
@@ -77912,6 +78001,42 @@ conseil d'administration ne peuvent se faire représenter [*interdiction*] .
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+
+##### DISPOSITIONS FINANCIERES ET COMPTABLES .
+
+###### Article R341-35
+
+La contribution spéciale créée à l'article L. 341-7 est due pour chaque étranger employé en infraction à l'article L. 341-6
+(1er alinéa). Son montant est égal à 500 fois le taux horaire, à la date de la constatation de l'infraction, du minimum
+garanti prévu à l'article L. 141-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L341-7 (Ab)
+	  - Code du travail - art. L341-8 (M)
+	  - Code du travail L341-6 AL. 1, L341-7, L341-8
+
+	**Cité par**:
+
+	  - Code du travail - art. R341-27 (M)
+	  - Code du travail - art. R341-33 (T)
+	  - Code du travail - art. R341-35 (M)
+	  - Code du travail - art. R341-41 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R341-29 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R341-41 (T)
 
 
 ### TRAVAILLEURS PRIVES D'EMPLOI
