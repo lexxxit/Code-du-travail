@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-02-27 00:00:01 +0100
+Version Consolidée au 1982-03-01
 
 # Partie législative ancienne
 
@@ -4916,6 +4916,365 @@ entreprise est interdite.
 
 ##### Section 2 : Règles spéciales en matière de relations de travail.
 
+###### Article L124-4
+
+Le contrat de travail liant l'entrepreneur de travail temporaire à chacun des salariés mis à la disposition provisoire d'un
+utilisateur doit être établi par écrit [*condition de forme*] et adressé au salarié au plus tard dans les deux jours
+ouvrables suivant sa mise à disposition [*délai*].
+
+Il doit comporter [*mentions obligatoires*] :
+
+1° La reproduction des clauses et mentions énumérées à l'article L. 124-3 ;
+
+2° La qualification du salarié ;
+
+3° Les modalités de la rémunération due au salarié y compris celles de l'indemnité de précarité d'emploi mentionnée à
+l'article L. 124-4-4 ;
+
+4° La période d'essai éventuelle, dans les conditions prévues à l'article L. 124-4-1 ;
+
+5° Une clause de rapatriement du salarié à la charge de l'entrepreneur de travail temporaire si la mission s'effectue hors du
+territoire métropolitain [*à l'étranger*] ; cette clause devient caduque en cas de rupture du contrat à l'initiative du
+salarié [*démission*].
+
+Le contrat mentionne que l'embauche du salarié par l'utilisateur à l'issue de la mission n'est pas interdite.
+
+Dans le cas où le salarié lié par un contrat de travail temporaire exerce une profession médicale ou paramédicale
+réglementée, l'entreprise de travail temporaire doit vérifier que ce salarié est régulièrement autorisé à exercer sa
+profession.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail - art. L152-2 (M)
+	  - TXT_ASSOCIE: Code du travail L152-2, R152-6 : SANCTIONS PENALES
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 4 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Décret n°82-1055 du 16 décembre 1982 - art. 1 (Ab)
+	  - Décret n°84-69 du 30 janvier 1984 - art. 1 (Ab)
+	  - Décret n°84-410 du 30 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-522 du 27 juin 1984 - art. 1 (Ab)
+	  - Décret n°84-802 du 28 août 1984 - art. 3 (V)
+	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-347 du 19 mars 1985 - art. 1 (Ab)
+	  - Décret n°86-297 du 4 mars 1986 - art. 3 (V)
+	  - Arrêté du 17 octobre 1995 - art. 2 (V)
+	  - Arrêté du 21 décembre 2007 - art. (V)
+	  - Arrêté du 28 décembre 1984 - art. 10 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 225 (V)
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
+	  - Code du travail - art. D124-1 (Ab)
+	  - Code du travail - art. D322-22-11 (VT)
+	  - Code du travail - art. L124-11 (VT)
+	  - Code du travail - art. L124-13 (AbD)
+	  - Code du travail - art. L124-15 (AbD)
+	  - Code du travail - art. L124-2-2 (Ab)
+	  - Code du travail - art. L124-5 (M)
+	  - Code du travail - art. L152-2 (AbD)
+	  - Code du travail - art. R124-12 (M)
+	  - Code du travail - art. R124-13 (M)
+	  - Code du travail - art. R124-25 (VT)
+	  - Code du travail - art. R152-5 (M)
+	  - Code du travail - art. R152-6 (VT)
+	  - Code du travail - art. R342-11 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-4-1 (M)
+	  - Code du travail - art. L124-4-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-4-2
+
+La rémunération, au sens de l'article L. 140-2, que perçoit le salarié lié par un contrat de travail temporaire ne peut être
+inférieure à celle qui est définie au 5° de l'article L. 124-3.
+
+Le paiement des jours fériés est dû au salarié temporaire indépendamment de l'ancienneté de celui-ci dès lors que les
+salariés de l'utilisateur en bénéficient.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. D322-22-11 (VT)
+	  - Code du travail - art. L152-2 (AbD)
+	  - Code du travail - art. L420-3 (P)
+	  - Code du travail - art. L422-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L140-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-18 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-4-3
+
+Le salarié lié par un contrat de travail temporaire a droit à une indemnité compensatrice de congé payé pour chaque mission,
+quelle qu'ait été la durée de celle-ci.
+
+Le montant de l'indemnité, calculé en fonction de cette durée, ne peut être inférieur au dixième de la rémunération totale
+due au salarié. L'indemnité est versée à la fin de la mission.
+
+Pour l'appréciation des droits du salarié sont assimilées à une mission :
+
+1° Les périodes de suspension de contrat de travail pour maternité et adoption prévues à l'article L. 122-26 ;
+
+2° Les périodes, limitées à une durée ininterrompue d'un an, pendant lesquelles l'exécution du contrat de travail est
+suspendue pour cause d'accident du travail ou de maladie professionnelle ;
+
+3° Les périodes pendant lesquelles un salarié se trouve rappelé sous les drapeaux à un titre quelconque, à condition que le
+point de départ de ces périodes se place au cours d'une mission.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L241-13 (MMN)
+	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-26 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-19 (VD)
+
+
+###### Article L124-4-5
+
+Lorsqu'un salarié lié par un contrat de travail temporaire est mis à la disposition d'une entreprise appartenant aux
+activités professionnelles définies à l'article L. 731-1, il a droit à une indemnisation en cas d'arrêt de travail occasionné
+par les intempéries dès lors que les salariés de l'utilisateur, occupés sur le même chantier, en bénéficient.
+
+Cette indemnisation, calculée selon les modalités prévues au chapitre 1er du titre III du livre VII, doit être versée par
+l'entrepreneur de travail temporaire et n'est soumise à aucune condition d'ancienneté du salarié.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-20 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L731-1 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+###### Article L124-4-7
+
+Les salariés liés par un contrat de travail temporaire ont accès, dans l'entreprise utilisatrice, dans les mêmes conditions
+que les salariés de cette entreprise, aux moyens de transport collectifs et aux installations collectives, notamment de
+restauration dont peuvent bénéficier ces salariés ; lorsque, de ce fait, des dépenses supplémentaires incombent au comité
+d'entreprise, celles-ci doivent lui être remboursées suivant des modalités définies au contrat mentionné à l'article L.
+124-3.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail R152-5 : SANCTIONS PENALES
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 47 (V)
+	  - Code du travail - art. L125-3 (AbD)
+	  - Code du travail - art. L420-3 (P)
+	  - Code du travail - art. L422-1 (AbD)
+	  - Code du travail - art. R152-5 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L124-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-24 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-4-8
+
+La suspension du contrat de travail du salarié temporaire ne fait pas obstacle à l'échéance de ce contrat.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-29 (VD)
+
+
+###### Article L124-6
+
+Lorsque l'utilisateur embauche, après une mission, un salarié mis à sa disposition par un entrepreneur de travail temporaire,
+la durée des missions effectuées chez l'utilisateur au cours des trois mois précédant l'embauche est prise en compte pour le
+calcul de l'ancienneté du salarié. Elle est déduite de la période d'essai éventuellement prévue.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 6 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-38 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L124-8
 
 Tout entrepreneur de travail temporaire est tenu, à tout moment, de justifier d'une garantie financière assurant, en cas de
@@ -5242,6 +5601,79 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L124-11
+
+Les entrepreneurs de travail temporaire [*obligations*] sont tenus de fournir à l'autorité administrative ainsi qu'à l'agence
+nationale pour l'emploi le relevé des contrats de travail définis à l'article L. 124-4 qu'ils ont conclus avec leurs
+salariés.
+
+Un décret en Conseil d'Etat précise la nature des éléments d'information se rapportant aux contrats que doit comprendre le
+relevé ainsi que la périodicité et les modalités de présentation de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_SOURCE: Code du travail - art. R124-4 (V)
+	  - TXT_SOURCE: Code du travail - art. R124-4-1 (V)
+	  - TXT_ASSOCIE: Code du travail R152-6 : SANCTIONS PENALES
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 7 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Décret n°92-969 du 7 septembre 1992 - art. 1 (V)
+	  - Décret n°95-182 du 21 février 1995 - art. 9 (Ab)
+	  - Code du travail - art. D341-5-6 (Ab)
+	  - Code du travail - art. D341-5-8 (V)
+	  - Code du travail - art. R124-4 (M)
+	  - Code du travail - art. R124-4-1 (VT)
+	  - Code du travail - art. R152-6 (VT)
+	  - Code du travail - art. R351-5 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-12
+
+Les entrepreneurs de travail temporaire [*obligations*] sont tenus de fournir à l'autorité administrative toute justification
+du paiement des charges dont ils sont redevables au titre de la sécurité sociale [*droit de communication*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_SOURCE: Code du travail - art. R124-4 (M)
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 7 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Loi n°94-126 du 11 février 1994 - art. 44 (V) JORF 13 février 1994 en vigueur le 1er juillet 1994
+
+	**Cité par**:
+
+	  - Code du travail - art. L125-3 (AbD)
+	  - Code du travail - art. R124-4 (M)
+	  - Code du travail - art. R152-6 (M)
+
+
 ###### Article L124-13
 
 Les fonctionnaires et agents du contrôle de l'application du droit du travail, des lois sociales en agriculture et du droit
@@ -5275,6 +5707,60 @@ Les dispositions de l'article L. 148 du code de la sécurité sociale sont appli
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L124-13-1
+
+Lorsqu'un entrepreneur de travail temporaire exerce son activité sans avoir fait les déclarations prévues à l'article L.
+124-10 ou sans avoir obtenu la garantie financière prévue à l'article L. 124-8 et qu'il en résulte un risque sérieux de
+préjudice pour le salarié temporaire, le président du tribunal de grande instance, saisi par l'inspecteur du travail après
+que celui-ci ait adressé à l'entrepreneur de travail temporaire une mise en demeure restée infructueuse, peut ordonner la
+fermeture de l'entreprise pour une durée qui ne peut excéder deux mois.
+
+Lorsque ces mesures entraînent le licenciement du personnel permanent celui-ci a droit, en dehors de l'indemnité de préavis
+et de l'indemnité de licenciement, aux indemnités prévues aux articles L. 122-14-4 ou L. 122-14-6.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 8 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-14-6 (Ab)
+	  - Code du travail - art. L124-10 (AbD)
+	  - Code du travail - art. L124-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-47 (VD)
+	  - Code du travail L1251-47, R1251-4
+
+	**Cité par**:
+
+	  - Code du travail - art. L152-2 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### Section 4 : Dispositions diverses.
 
 ###### Article L124-14
@@ -5301,6 +5787,49 @@ jour ouvrable des salariés sous contrat de travail temporaire mis à leur dispo
 	**Cité par**:
 
 	  - Code du travail - art. L125-3 (M)
+
+
+###### Article L124-15
+
+Pour l'application aux salariés liés par un contrat de travail temporaire des dispositions législatives ou réglementaires qui
+se réfèrent à une condition d'ancienneté dans l'entreprise de travail temporaire, cette ancienneté s'apprécie en totalisant
+les périodes pendant lesquelles lesdits salariés ont été liés à l'entrepreneur de travail temporaire par les contrats définis
+à l'article L. 124-4.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 9 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L124-19 (AbD)
+	  - Code du travail - art. L1251-55 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L124-16
@@ -5401,6 +5930,36 @@ du travail au 1er mai 2008.
 	**Cite**:
 
 	  - Code du travail Livre 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-20
+
+Les organisations syndicales représentatives dans l'entreprise utilisatrice ou dans l'entreprise de travail temporaire
+peuvent exercer en justice les actions civiles nées en vertu des dispositions du présent chapitre en faveur des salariés
+temporaires sans avoir à justifier d'un mandat de l'intéressé, pourvu que celui-ci ait été averti et n'ait pas déclaré s'y
+opposer. Le salarié peut toujours intervenir à l'instance engagée par le syndicat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 10 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE A TROIS ANS
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-59 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-28 (VT)
 
 	**Codifié par**:
 
@@ -7947,6 +8506,73 @@ emprisonnement de deux à quatre mois et d'une amende de 2.000 F à 8.000 F [*mo
 
 #### Chapitre II : Contrat de travail
 
+##### Section 2 : Travail temporaire.
+
+###### Article L152-2-1
+
+Dans tous les cas, le tribunal peut ordonner, aux frais de l'entrepreneur de travail temporaire ou de l'utilisateur condamné,
+l'affichage du jugement aux portes de l'entreprise [*lieu*] et sa publication dans les journaux qu'il désigne.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 14 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1254-12 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L152-2-2
+
+Sont passibles d'une amende de 8.000 F à 40.000 F et d'un emprisonnement de deux mois à six mois ou de l'une de ces deux
+peines seulement ceux qui, directement ou par personne interposée, auront contrevenu à l'interdiction d'exercer l'activité
+d'entrepreneur de travail temporaire prévue à l'article L. 152-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 14 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1254-11 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L152-2 (M)
+
+
 ##### Section 4 : Cautionnement.
 
 ###### Article L152-4
@@ -8201,6 +8827,82 @@ obligatoire.
 ### Titre 5 : PENALITES
 
 #### Chapitre 2 : CONTRAT DE TRAVAIL
+
+##### SECTION 2 : TRAVAIL TEMPORAIRE.
+
+###### Article L152-2
+
+Toute infraction aux dispositions des articles L. 124-1 et L. 125-3 [*marchandage*] est punie d'une amende de 4.000 F à
+20.000 F et, en cas de récidive, d'une amende de 8.000 F à 40.000 F et d'un emprisonnement de deux mois à six mois ou de
+l'une de ces deux peines seulement.
+
+Est puni des mêmes peines :
+
+1° Tout entrepreneur de travail temporaire qui aura :
+
+a) Mis un salarié temporaire à la disposition d'un utilisateur sans avoir conclu avec celui-ci dans le délai prévu à
+l'article L. 124-3 un contrat écrit de mise à disposition ;
+
+b) Embauché un salarié temporaire sans avoir adressé à celui-ci dans le délai prévu à l'article L. 124-4 un contrat écrit ou
+en ayant conclu un contrat ne comportant pas les mentions prévues aux 1° et 3° de l'article L. 124-4 ou comportant ces
+mentions de manière volontairement inexacte ;
+
+c) Exercé son activité sans avoir fait les déclarations [*administratives*] prévues à l'article L. 124-10 ;
+
+d) Exercé son activité sans avoir obtenu la garantie financière prévue à l'article L. 124-8 ;
+
+2° Tout utilisateur qui aura :
+
+a) Recouru à un salarié temporaire pour d'autres cas que ceux qui sont prévus à l'article L. 124-2 ou enfreint les
+dispositions de l'article L. 124-2-1 ou n'aura pas respecté les durées de mission maximales prévues aux articles L. 124-2-2
+et L. 124-2-3 ;
+
+b) Recouru à un salarié temporaire sans avoir conclu avec un entrepreneur de travail temporaire dans le délai prévu à
+l'article L. 124-3 un contrat écrit de mise à disposition conforme aux prescriptions de cet article, ou en ayant fourni dans
+le contrat de mise à disposition des indications volontairement inexactes.
+
+Dans les cas prévus au premier alinéa et au 1° du deuxième alinéa du présent article, le tribunal peut prononcer en outre
+l'interdiction d'exercer l'activité d'entrepreneur de travail temporaire pour une durée de deux ans à dix ans. Les
+dispositions du deuxième alinéa de l'article L. 124-13-1 sont applicables [*fermeture de l'entreprise*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 13 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail - art. L124-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L124-2-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L124-2-2 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L124-3 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L124-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail L152-2-2 : DISPOSITIONS PENALES RELATIVES A L'INTERDICTION D'EXERCER L'ACTIVITE D'ENTREPRENEUR DE TRAVAIL TEMPORAIRE
+
+	**Cite**:
+
+	  - Code du travail - art. L124-1 (M)
+	  - Code du travail - art. L124-10 (AbD)
+	  - Code du travail - art. L124-13-1 (AbD)
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. L124-2-1 (M)
+	  - Code du travail - art. L124-2-2 (M)
+	  - Code du travail - art. L124-2-3 (M)
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-4 (M)
+	  - Code du travail - art. L124-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L125-3 (M)
+	  - Code du travail - art. L152-2-2 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ##### SECTION 3 : MARCHANDAGE
 
@@ -8593,31 +9295,44 @@ civil.
 
 #### TRAVAIL TEMPORAIRE .
 
+##### REGLES GENERALES.
+
 ###### Article L124-2
 
-Il ne peut être fait appel aux salariés mentionnés à l'article L. 124-1 que pour des tâches non durables accomplies pour le
-compte d'un utilisateur, dénommées "missions" au sens du présent chapitre et dans les seuls cas suivants :
+Un utilisateur ne peut faire appel aux salariés des entreprises de travail temporaire mentionnés à l'article L. 124-1 que
+pour des tâches non durables dénommées "missions" au sens du présent chapitre, et dans les seuls cas suivants [*condition
+d'emploi*] :
 
-a) Absence temporaire d'un salarié pendant la  durée de cette absence ;
+1° Absence temporaire ou suspension du contrat de travail d'un salarié pendant la durée de cette absence ou de cette
+suspension sauf si la durée de celles-ci initialement portée à la connaissance de l'employeur est supérieure à six mois
+[*remplacement*] ;
 
-b) Suspension d'un contrat de travail, pendant le temps de cette suspension, sauf en cas de conflit collectif de travail ;
+2° Survenance de la fin d'un contrat de travail à durée indéterminée dans l'attente de l'entrée en service effectif du
+salarié appelé à remplacer celui dont le contrat a pris fin ;
 
-c) Survenance de la fin d'un contrat de travail dans l'attente de l'entrée en service effectif du travailleur permanent
-appelé à remplacer celui dont le contrat a pris fin ;
+3° Travaux urgents dont l'exécution immédiate est nécessaire pour prévenir les accidents imminents, organiser les mesures de
+sauvetage ou réparer les insuffisances du matériel des installations ou des bâtiments de l'entreprise présentant un danger
+pour les travailleurs ;
 
-d) Existence d'un surcroît occasionnel d'activité ;
+4° Survenance d'un surcroît exceptionnel et temporaire d'activité ; dans ce cas :
 
-e) Création d'activités nouvelles ;
+a) Un accord préalable de l'autorité administrative est nécessaire si un licenciement individuel ou collectif fondé sur un
+motif économique est survenu dans l'établissement utilisateur au cours des douze mois précédents [*délai*] ;
 
-f) Travaux urgents dont l'exécution immédiate est nécessaire pour prévenir les accidents imminents, organiser les mesures de
-sauvetage ou réparer des insuffisances du matériel des installations ou des bâtiments de l'entreprise présentant un danger
-pour les travailleurs.
+b) Des missions successives ne peuvent concerner un même poste de travail que si le délai qui s'écoule entre chacune de ces
+missions est au moins égal au tiers de la durée de la mission précédente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°72-1 1972-01-03 art. 2
+	  - Ordonnance 82-131 1982-02-05 ART. 1 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail - art. L152-2 (M)
+	  - TXT_ASSOCIE: Code du travail L152-2, R152-5 : SANCTIONS PENALES
 
 	**Cité par**:
 
@@ -8661,29 +9376,247 @@ pour les travailleurs.
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L124-3
+###### Article L124-2-1
 
-Le contrat liant l'utilisateur à l'entrepreneur de travail temporaire doit être écrit.
+Il ne peut être fait appel aux salariés des entreprises de travail temporaire [*interdiction d'emploi*] :
 
-Ce contrat doit énoncer :
+1° Pour remplacer un salarié dont le contrat de travail est suspendu par suite d'un conflit collectif de travail dans
+l'établissement utilisateur ;
 
-a) Le motif précis justifiant le recours au travail temporaire ;
-
-b) Le nombre de travailleurs temporaires demandés, les qualifications professionnelles exigées, le lieu, l'horaire, les
-caractéristiques particulières du travail. Dans tous les cas où il s'agit de l'exercice d'une profession paramédicale
-réglementée, les travailleurs temporaires doivent justifier de l'enregistrement de leur titre professionnel auprès de
-l'autorité administrative compétente.
-
-c) Les modalités de rémunération de la prestation de service.
-
-Dans les cas prévus aux C, D, E de l'article L. 124-2, la durée de ce contrat ne peut excéder trois mois sauf justifications
-fournies à l'autorité administrative.
+2° Pour certains des travaux qui font l'objet d'une surveillance médicale spéciale au sens de la réglementation relative à la
+médecine du travail et qui figurent sur une liste établie par arrêtés du ministre chargé du travail ou du ministre chargé de
+l'agriculture.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_SOURCE: Code du travail - art. D124-2 (V)
+	  - TXT_ASSOCIE: Code du travail L152-2 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 2 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. D124-2 (VT)
+	  - Code du travail - art. D124-3 (Ab)
+	  - Code du travail - art. L124-2 (AbD)
+	  - Code du travail - art. L124-2-2 (AbD)
+	  - Code du travail - art. L124-2-4 (T)
+	  - Code du travail - art. L124-2-5 (T)
+	  - Code du travail - art. L124-2-6 (AbD)
+	  - Code du travail - art. L124-2-7 (Ab)
+	  - Code du travail - art. L124-3 (AbD)
+	  - Code du travail - art. L124-4-4 (AbD)
+	  - Code du travail - art. L124-7 (AbD)
+	  - Code du travail - art. L152-2 (AbD)
+	  - Code du travail - art. L231-3-1 (AbD)
+	  - Code du travail - art. R152-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1251-6 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-2-2
+
+La mission doit comporter un terme fixé avec précision lors de la conclusion du contrat [*de mise à disposition*] mentionné à
+l'article L. 124-3.
+
+Elle ne peut excéder six mois [*durée maximum de la mission*].
+
+Toutefois par dérogation à l'alinéa précédent, le terme de la mission initialement fixé peut être reporté, lorsqu'il est
+recouru au travail temporaire dans le cas mentionné au 1° de l'article L. 124-2 [*remplacement d'un absent*], jusqu'au
+lendemain du jour où le salarié de l'utilisateur reprend son emploi.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail L152-2 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 2 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L124-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L124-2-3 (M)
+	  - Code du travail - art. L124-2-4 (AbD)
+	  - Code du travail - art. L124-22 (AbD)
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-7 (M)
+	  - Code du travail - art. L152-2 (AbD)
+	  - Code du travail - art. L231-3-1 (M)
+	  - Code du travail - art. L322-4-15-4 (AbD)
+	  - Code du travail - art. L322-4-16 (M)
+	  - Code du travail - art. L322-4-16-2 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L124-2-3 (M)
+
 	**Anciens textes**:
 
-	  - Loi n°72-1 1972-01-03 art. 3
+	  - Code du travail - art. L124-2-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-2-3
+
+Dans les cas mentionnés aux 2°, 3° et 4° de l'article L. 124-2, le terme de la mission initialement fixé peut être avancé ou
+reporté, à raison d'un jour pour cinq jours de travail [*délai*]. Cet aménagement de la durée de la mission ne peut avoir
+pour effet, ni de réduire la durée de la mission initialement prévue de plus de dix jours de travail, ni de conduire à un
+dépassement de la durée de six mois fixée par l'article L. 124-2-2. Pour les missions inférieures à dix jours de travail, le
+terme de la mission peut être avancé ou reporté de deux jours [*date de fin de mission*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 9 (V)
+	  - TXT_ASSOCIE: Code du travail L152-2 : SANCTIONS PENALES
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 2 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Décret n°99-109 du 18 février 1999 - art. 4 (V)
+	  - Code du travail - art. L124-2-4 (T)
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-7 (M)
+	  - Code du travail - art. L152-2 (AbD)
+	  - Code du travail - art. L231-3-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. L124-2-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L124-2-2 (T)
+	  - Code du travail - art. L124-2-4 (AbD)
+	  - Code du travail - art. L1251-10 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L124-2-2 (T)
+	  - Code du travail - art. L124-2-4 (T)
+
+
+###### Article L124-2-4
+
+Si les parties décident de se réserver la faculté d'aménager le terme de la mission dans les conditions prévues au troisième
+alinéa de l'article L. 124-2-2 ou à l'article L. 124-2-3, elles doivent le préciser expressément dans le contrat [*de mise à
+disposition*] mentionné à l'article L. 124-3.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 2 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. L124-2-1 (M)
+	  - Code du travail - art. L124-2-5 (AbD)
+	  - Code du travail - art. L124-3 (AbD)
+	  - Code du travail - art. L124-7 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-2-2 (M)
+	  - Code du travail - art. L124-2-3 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L124-2-3 (T)
+	  - Code du travail - art. L124-2-5 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L124-2-3 (T)
+	  - Code du travail - art. L124-2-5 (AbD)
+	  - Code du travail - art. L1251-30 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-3
+
+Lorsqu'un entrepreneur de travail temporaire met un salarié à la disposition d'un utilisateur, un contrat de mise à
+disposition liant l'utilisateur à l'entrepreneur de travail temporaire doit être conclu par écrit [*condition de forme*] au
+plus tard dans les deux jours ouvrables suivant la mise à disposition [*délai*].
+
+Ce contrat établi pour chaque salarié doit [*mentions obligatoires*] :
+
+1° Mentionner le cas pour lequel il est recouru au salarié temporaire ; cette mention doit être assortie de justifications
+précises qui, notamment, dans les cas prévus aux 1° et 2° de l'article L. 124-2, comportent le nom et la qualification du
+salarié remplacé ;
+
+2° Fixer le terme de la mission ;
+
+3° Comporter le cas échéant, la clause prévoyant la possibilité de modifier le terme de la mission dans les conditions
+prévues à l'article L. 124-2-2 ou à l'article L. 124-2-3 ;
+
+4° Préciser les caractéristiques particulières du poste de travail à pourvoir, la qualification professionnelle exigée, le
+lieu de la mission et l'horaire ;
+
+5° Indiquer le montant de la rémunération que percevrait dans l'entreprise utilisatrice après période d'essai un salarié de
+qualification équivalente occupant le même poste de travail.
+
+Toute clause tendant à interdire l'embauchage par l'utilisateur du salarié temporaire à l'issue de sa mission est réputée non
+écrite.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail L152-2 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 3 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
 
 	**Cité par**:
 
@@ -8724,31 +9657,9 @@ fournies à l'autorité administrative.
 	  - Code général des collectivités territoriales - art. R3123-7 (V)
 	  - Code général des collectivités territoriales - art. R4135-7 (M)
 
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L124-15
-
-Pour l'application des dispositions de l'article L. 930-1 (I) [*congé pour stages de formation*] l'ancienneté dans
-l'entreprise de travail temporaire des salariés non-permanents s'apprécie [*calcul*] en totalisant les périodes pendant
-lesquelles lesdits salariés ont été liés à leur employeur par des contrats de travail temporaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 18
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L124-19 (AbD)
-	  - Code du travail - art. L1251-55 (VD)
-
 	**Cite**:
 
-	  - Code du travail L930-1 PAR. I
+	  - Code du travail - art. L124-2-3 (M)
 
 	**Codifié par**:
 
@@ -8757,64 +9668,113 @@ lesquelles lesdits salariés ont été liés à leur employeur par des contrats 
 
 ##### REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL .
 
-###### Article L124-4
+###### Article L124-4-1
 
-Le contrat de travail liant l'entrepreneur de travail temporaire à chacun des salariés mis à la disposition provisoire d'un
-utilisateur doit être écrit. Ce contrat est conclu pour la durée déterminée, pendant laquelle le salarié doit être mis à la
-disposition de l'utilisateur.
-
-Ce contrat doit :
-
-a) Reproduire les clauses prévues au b de l'article L. 124-3 ci-dessus ;
-
-b) Exonérer la qualification du salarié ;
-
-c) Préciser les modalités de paiement et les éléments de la rémunération due au salarié.
-
-Sont prohibées et réputées non écrites les clauses tendant à interdire l'embauchage à l'issue de la mission par l'utilisateur
-des salariés mis à sa disposition par un entrepreneur de travail temporaire.
+Le contrat de travail [*temporaire*] peut comporter une période d'essai dont la durée ne peut excéder deux jours si le
+contrat est conclu pour une durée inférieure ou égale à un mois, trois jours si le contrat est conclu pour une durée comprise
+entre un et deux mois, cinq jours au-delà ; la rémunération afférente à cette période ne peut être différente de celle qui
+est prévue par le contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Loi n°72-1 1972-01-03 art. 4
+	  - Code du travail - art. L124-4 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+
+###### Article L124-4-4
+
+Le salarié lié par un contrat de travail temporaire a droit à une indemnité de précarité d'emploi qui constitue un complément
+du salaire.
+
+Cette indemnité [*de précarité d'emploi*], qui est fonction notamment de la durée de la mission et de la rémunération du
+salarié, ne peut être inférieure à un minimum établi par voie de convention collective [*montant*] ; à défaut de conclusion
+d'une telle convention, le taux minimum de l'indemnité est fixé par un décret, pris après avis des organisations les plus
+représentatives des employeurs et des salariés intéressés, qui déterminera dans quelles conditions l'indemnité pourra être
+réduite si une nouvelle mission est proposée au salarié dans un certain délai.
+
+Cette indemnité n'est pas due si le contrat est rompu à l'initiative du salarié, pour faute grave de celui-ci ou en cas de
+force majeure.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
 
 	**Cité par**:
 
-	  - Décret n°82-1055 du 16 décembre 1982 - art. 1 (Ab)
-	  - Décret n°84-69 du 30 janvier 1984 - art. 1 (Ab)
-	  - Décret n°84-410 du 30 mai 1984 - art. 1 (Ab)
-	  - Décret n°84-522 du 27 juin 1984 - art. 1 (Ab)
-	  - Décret n°84-802 du 28 août 1984 - art. 3 (V)
-	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
-	  - Décret n°85-347 du 19 mars 1985 - art. 1 (Ab)
-	  - Décret n°86-297 du 4 mars 1986 - art. 3 (V)
-	  - Arrêté du 17 octobre 1995 - art. 2 (V)
-	  - Arrêté du 21 décembre 2007 - art. (V)
-	  - Arrêté du 28 décembre 1984 - art. 10 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 225 (V)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
-	  - Code du travail - art. D124-1 (Ab)
-	  - Code du travail - art. D322-22-11 (VT)
-	  - Code du travail - art. L124-11 (VT)
-	  - Code du travail - art. L124-13 (AbD)
-	  - Code du travail - art. L124-15 (AbD)
-	  - Code du travail - art. L124-2-2 (Ab)
-	  - Code du travail - art. L124-5 (M)
-	  - Code du travail - art. L152-2 (AbD)
-	  - Code du travail - art. R124-12 (M)
-	  - Code du travail - art. R124-13 (M)
-	  - Code du travail - art. R124-25 (VT)
-	  - Code du travail - art. R152-5 (M)
-	  - Code du travail - art. R152-6 (VT)
-	  - Code du travail - art. R342-11 (VT)
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code du travail - art. D124-1 (VT)
+	  - Code du travail - art. D341-5-6 (Ab)
+	  - Code du travail - art. L124-4 (AbD)
+	  - Code du travail - art. L124-5 (AbD)
+	  - Code du travail - art. L143-10 (AbD)
+	  - Code du travail - art. R342-9 (VT)
+	  - Code du travail - art. R516-18 (VT)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code du travail - art. L124-3 (M)
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L124-4-6
+
+Pendant la durée de la mission, l'utilisateur est responsable des conditions d'exécution du travail telles qu'elles sont
+déterminées par celles des mesures législatives, réglementaires et conventionnelles qui sont applicables au lieu du travail.
+
+Pour l'application de l'alinéa précédent, les conditions d'exécution du travail comprennent limitativement ce qui a trait à
+la durée du travail, au travail de nuit, au repos hebdomadaire et des jours fériés, à l'hygiène et à la sécurité, au travail
+des femmes, des enfants et des jeunes travailleurs.
+
+Les obligations afférentes à la médecine du travail sont, selon des modalités fixées par décret, à la charge de
+l'entrepreneur de travail temporaire. Sauf lorsque ce dernier relève du régime agricole, la médecine du travail est assurée
+par des services médicaux, faisant l'objet d'un agrément spécifique, qui devront être mis en place au plus tard le 1er mars
+1983 [*date limite*].
+
+Ces obligations sont à la charge de l'utilisateur lorsque l'activité exercée par le salarié temporaire nécessite une
+surveillance médicale spéciale au sens de la réglementation relative à la médecine du travail.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Créé par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 5 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cité par**:
+
+	  - Arrêté du 1 avril 1989 - art. ANNEXE (V)
+	  - Arrêté du 13 décembre 1990 - art. Annexe I (V)
+	  - Arrêté du 13 décembre 1990 - art. Annexe II (V)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 47 (V)
+	  - Code du travail - art. L125-3 (AbD)
+	  - Code du travail - art. L420-3 (P)
+	  - Code du travail - art. L422-1 (AbD)
+	  - Code du travail - art. R233-42 (VT)
+	  - Code rural - art. L717-2-1 (AbD)
 
 	**Codifié par**:
 
@@ -8823,24 +9783,31 @@ des salariés mis à sa disposition par un entrepreneur de travail temporaire.
 
 ###### Article L124-5
 
-Le salarié lié par un contrat de travail temporaire a droit à une indemnité de précarité d'emploi pour chaque mission
-effectivement accomplie par ce salarié.
+L'entrepreneur de travail temporaire qui rompt le contrat de travail du salarié avant le terme prévu au contrat doit proposer
+à celui-ci, sauf si la rupture du contrat résulte d'une faute grave du salarié ou de la force majeure, un nouveau contrat de
+travail prenant effet dans un délai maximum de trois jours ouvrables.
 
-Cette indemnité est fonction notamment de la durée de la mission et de la rémunération du salarié. Elle n'est pas due si la
-mise à disposition a pris fin avant le terme prévu par le fait volontaire du salarié.
+Le nouveau contrat ne peut comporter de modifications substantielles en ce qui concerne la qualification, la rémunération,
+l'horaire de travail et le temps de transport.
 
-Le taux de cette indemnité est fixé par le contrat [*liant l'entrepreneur de travail temporaire à chacun des salariés*]
-mentionné à l'article L. 124-4. Ce taux ne peut être inférieur à un minimum établi par voie de convention collective.
+A défaut, ou si le nouveau contrat est d'une durée inférieure à celle restant à courir du contrat précédent, l'entrepreneur
+de travail temporaire doit assurer au salarié une rémunération équivalente à celle qu'il aurait perçue jusqu'au terme du
+contrat, y compris l'indemnité de précarité d'emploi mentionnée à l'article L. 124-4-4.
 
-A défaut de fixation de ce minimum par voie de convention collective dans un délai de un an à compter du 5 janvier 1972
-[*date, point de départ*], le taux minimum de l'indemnité de précarité d'emploi est déterminé par décret pris après avis des
-organisations les plus représentatives des employeurs et des travailleurs intéressés [*syndicats*].
+La rupture du contrat de mise à disposition défini à l'article L. 124-3 ne constitue pas un cas de force majeure.
+
+La résiliation du contrat de travail [*rupture*] à l'initiative du salarié ouvre droit à des dommages-intérêts correspondant
+au préjudice subi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°72-1 1972-01-03 ART. 5
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 6 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
 
 	**Nouveaux textes**:
 
@@ -8855,44 +9822,8 @@ organisations les plus représentatives des employeurs et des travailleurs inté
 
 	**Cite**:
 
-	  - Code du travail - art. L124-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L124-6
-
-Le salarié lié par un contrat de travail temporaire a droit à une indemnité compensatrice de congé payé pour chaque mission,
-quelle qu'ait été la durée de celle-ci.
-
-Le montant de l'indemnité, calculé en fonction de cette durée, ne peut être inférieur au douzième de la rémunération totale
-due au salarié.
-
-Pour l'appréciation des droits du salarié, sont assimilées à une mission :
-
-1. Les périodes de repos des femmes en couches prévues à l'article L. 122-32 du présent code ;
-
-2. Les périodes limitées à une durée ininterrompue d'un an pendant lesquelles l'exécution du contrat de travail est suspendue
-pour cause d'accident du travail ou de maladie professionnelle ;
-
-3. Les périodes pendant lesquelles un salarié se trouve rappelé sous les drapeaux à un titre quelconque, à condition que le
-point de départ de ces périodes se place au cours d'une mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 6
-
-	**Cite**:
-
-	  - Code du travail - art. L122-32 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1251-38 (VD)
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-4-4 (M)
 
 	**Codifié par**:
 
@@ -8901,113 +9832,42 @@ point de départ de ces périodes se place au cours d'une mission.
 
 ###### Article L124-7
 
-Les salariés liés par un contrat de travail temporaire sont régis, en ce qui concerne les conditions d'exécution du travail
-pendant la durée des missions, par celles des mesures législatives, réglementaires et conventionnelles qui sont applicables
-au lieu du travail.
+Si l'utilisateur continue à faire travailler après la fin de sa mission un salarié temporaire sans avoir conclu avec lui un
+contrat de travail ou sans nouveau contrat de mise à disposition, ce salarié est réputé lié à l'utilisateur par un contrat de
+travail à durée indéterminée. Dans ce cas l'ancienneté du salarié est appréciée à compter du premier jour de sa mission chez
+l'utilisateur. Elle est déduite de période d'essai éventuellement prévue.
 
-Pour l'application de l'alinéa précédent, les conditions d'exécution du travail comprennent limitativement ce qui a trait à
-la durée du travail, au travail de nuit, au repos hebdomadaire et des jours fériés, à l'hygiène et à la sécurité, à l'emploi
-des femmes et des enfants, des jeunes travailleurs et des étrangers.
-
-L'observation des mesures ci-dessus définies est à la charge de l'utilisateur ou de ses préposés. Il en est de même en ce qui
-concerne la médecine du travail dans la mesure où l'activité exercée au service de l'utilisateur nécessite une surveillance
-médicale spéciale au sens de la réglementation relative à la médecine du travail.
+Lorsqu'un utilisateur a recours à un salarié d'une entreprise de travail temporaire en violation caractérisée des
+dispositions des articles L. 124-2 et L. 124-2-1 [*conditions d'emploi*] ou en dépassant les durées [*de mission*] fixées aux
+articles L. 124-2-2 ou L. 124-2-3, ce salarié peut faire valoir auprès de l'utilisateur les droits afférents à un contrat à
+durée indéterminée prenant effet au premier jour de sa mission.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°72-1 1972-01-03 ART. 7
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 6 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. L124-2-1 (M)
+	  - Code du travail - art. L124-2-2 (M)
+	  - Code du travail - art. L124-2-3 (M)
 
 	**Cité par**:
 
 	  - Code du travail - art. L125-3 (M)
 	  - Code du travail - art. L152-2 (AbD)
 	  - Code du travail - art. R152-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-##### REGLES DE CONTROLE .
-
-###### Article L124-11
-
-Les entrepreneurs de travail temporaire sont tenus [*obligation*] de fournir à l'autorité administrative des éléments
-d'information, notamment d'ordre statistique, sur les opérations qu'ils effectuent ainsi que toute justification du paiement
-des charges dont ils sont redevables au titre de la sécurité sociale. Doit, en outre, être inclus dans ces éléments
-d'information un relevé mensuel des contrats de mise à disposition qu'ils ont conclus avec les utilisateurs, comprenant la
-durée de ces contrats, la nature des postes de travail occupés et l'identité des entreprises utilisatrices.
-
-Le décret [*en conseil d'état*] prévu à l'article L. 124-10 précise la nature de ces éléments d'information ; il détermine
-également la périodicité et la forme de leur production.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 34
-
-	**Cité par**:
-
-	  - Décret n°92-969 du 7 septembre 1992 - art. 1 (V)
-	  - Décret n°95-182 du 21 février 1995 - art. 9 (Ab)
-	  - Code du travail - art. D341-5-6 (Ab)
-	  - Code du travail - art. D341-5-8 (V)
-	  - Code du travail - art. R124-4 (M)
-	  - Code du travail - art. R124-4-1 (VT)
-	  - Code du travail - art. R152-6 (VT)
-	  - Code du travail - art. R351-5 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L124-10 (AbD)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. R124-4 (V)
-	  - TXT_SOURCE: Code du travail - art. R124-4-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L124-12
-
-Lorsqu'une entreprise mentionnée à l'article L. 125-1 conclut avec un salarié un contrat tendant à le mettre à la disposition
-provisoire d'utilisateurs, cette entreprise est tenue [*obligation*] d'en avertir l'antenne de la section locale de l'Agence
-nationale pour l'emploi [*ANPE*] prévue à l'article L. 330-6 ou à défaut au service de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 35
-
-	**Cite**:
-
-	  - Code du travail - art. L125-1 (M)
-	  - Code du travail - art. L330-6 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. L125-3 (AbD)
-	  - Code du travail - art. R124-4 (M)
-	  - Code du travail - art. R152-6 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. R124-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Modifié par**:
-
-	  - Ordonnance 82-131 1982-02-05 ART. 7 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
 
 
 #### MARCHANDAGE .
@@ -9074,25 +9934,40 @@ Toute opération à but lucratif ayant pour objet exclusif le prêt de main-d'oe
 prévues à l'article L. 152-2 dès lors qu'elle n'est pas effectuée dans le cadre des dispositions du livre 1er, titre II,
 chapitre IV du présent code relatives au travail temporaire.
 
-Les articles L. 124-7, L. 124-9, L. 124-13, L. 124-14,
+Les articles L. 124-4-6, L. 124-9, L. 124-12, L. 124-14,
 
-L. 341-3, L. 420-3, dernier alinéa, ainsi que les articles 23 à 31 de la loi n. 72-1 du 3 janvier 1972 sur le travail
-temporaire restent applicables aux opérations de prêts de main-d'oeuvre à but non lucratif.
+L. 341-3, L. 420-3.II ainsi que les articles 23 à 31 de la loi n° 72-1 du 3 janvier 1972 sur le travail temporaire sont
+applicables aux opérations de prêts de main-d'oeuvre à but non lucratif.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°72-1 1972-01-03 ART. 23 A 31
-	  - Code du travail - art. L124-13 (M)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 23 (V)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 24 (V)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 25 (V)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 26 (V)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 27 (V)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 28 (Ab)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 29 (Ab)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 30 (V)
+	  - Loi n°72-1 du 3 janvier 1972 - art. 31 (V)
+	  - Code du travail - art. L124-12 (M)
 	  - Code du travail - art. L124-14 (Ab)
-	  - Code du travail - art. L124-7 (M)
+	  - Code du travail - art. L124-4-6 (M)
+	  - Code du travail - art. L124-9 (AbD)
 	  - Code du travail - art. L341-3 (M)
-	  - Code du travail L124-1 A D124-2
+	  - L420-3 II, L152-2
 
 	**Modifié par**:
 
-	  - Loi n°73-608 1973-07-06 ART. 2 JORF 7 JUILLET 1973
+	  - Ordonnance 82-131 1982-02-05 ART. 11 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+	  - TXT_ASSOCIE: Code du travail - art. L152-3 (AbD)
+	  - TXT_ASSOCIE: Code du travail L152-2 : SANCTIONS PENALES
 
 	**Cité par**:
 
@@ -9133,10 +10008,6 @@ temporaire restent applicables aux opérations de prêts de main-d'oeuvre à but
 	  - Code du travail - art. L763-3 (AbD)
 	  - Code du travail - art. L785-2 (Ab)
 	  - Code général des collectivités territoriales - art. L1414-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L152-3 (AbD)
 
 	**Codifié par**:
 
@@ -11937,56 +12808,6 @@ punie d'une amende de 2.000 F à 10.000 F [*montant*] et, en cas de récidive, d
 	**Cite**:
 
 	  - Code du travail L122-39 à L122-42
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-##### TRAVAIL TEMPORAIRE .
-
-###### Article L152-2
-
-Toute infraction aux dispositions des articles L. 124-1, L. 124-10 et L. 125-3 est punie d'une amende de /R/2.000 F /R/Loi
-0008 : 4.000 F// à 10.000 F [*montant*].
-
-La récidive est punie d'une amende de /R/4.000 F /R/Loi  0008 : 8.000 F// à 20.000 F et d'un emprisonnement de deux mois à
-six mois ou de l'une de ces peines seulement.
-
-Dans tous les cas prévus au présent article, le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité
-d'entrepreneur de travail temporaire pour une durée de deux ans à dix ans.
-
-Sont passibles d'une amende de /R/4.000 F/R/Loi  0008 :
-
-8.000 F// à 20.000 F et d'un emprisonnement de deux mois à six mois ou de l'une de ces deux peines seulement ceux qui,
-directement ou par personne interposée, contreviennent à l'interdiction prononcée en application de l'alinéa qui précéde.
-
-//LOI  0621 10-07-1976 : Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du
-jugement aux portes des établissements de l'entreprise et sa publication dans les journaux qu'il désigne//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 du 3 janvier 1972 - art. 33, v. init.
-
-	**Cite**:
-
-	  - Code du travail - art. L124-1 (M)
-	  - Code du travail - art. L124-10 (AbD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L124-2 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L124-2-1 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L124-2-2 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L124-3 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L124-4 (AbD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L125-3 (M)
-	  - Code du travail - art. L152-2-2 (AbD)
 
 	**Codifié par**:
 
@@ -30452,6 +31273,33 @@ Ces dispositions sont d'ordre public.
 	  - Loi n°1956-04-27
 
 
+###### Article L412-3
+
+Pour l'application dans les entreprises de travail temporaire des conditions d'effectif prévues au présent chapitre, il est
+tenu compte, d'une part, des salariés permanents de ces entreprises, d'autre part, des travailleurs qui ont été liés à elles
+par des contrats de travail temporaires pendant une durée totale d'au moins trois mois au cours de la dernière année civile
+[*ancienneté*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 I JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
+	**Cité par**:
+
+	  - Ordonnance no 91-245 du 25 février 1991 portant ex - art. 2 (VT)
+	  - Décret n°2004-20 du 6 janvier 2004 - art. 2 (Ab)
+
+
 #### Chapitre III : Marques syndicales.
 
 ###### Article L413-1
@@ -33043,32 +33891,6 @@ présent titre.
 	  - Code du travail L410-1 A L413-2
 
 
-###### Article L412-3
-
-Pour l'application dans les entreprises de travail temporaire des conditions d'effectif prévues au présent chapitre, il est
-tenu compte, d'une part, des salariés permanents de ces entreprises, d'autre part, des travailleurs qui ont été liés à elles
-par des contrats de travail temporaires pendant une durée totale d'au moins six mois au cours de la dernière année civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°2004-20 du 6 janvier 2004 - art. 2 (Ab)
-	  - Ordonnance no 91-245 du 25 février 1991 portant ex - art. 2 (VT)
-
-	**Cite**:
-
-	  - Code du travail L412-1 A L412-17
-
-	**Anciens textes**:
-
-	  - Loi n°72-721 1972-01-03 ART 10
-
-
 ###### Article L412-4
 
 Dans toutes les entreprises employant habituellement au moins cinquante salariés [*condition d'effectif*], quelles que soient
@@ -33366,36 +34188,37 @@ Conseil d'Etat compte tenu du nombre des salariés.
 
 ###### Article L412-12
 
-Le ou les délégués-syndicaux doivent [*obligation*] être /M/de nationalité française, être âgés de vingt et un ans accomplis/
-M/LOI  0630 11-07-1975 : âgés de dix huit ans accomplis// travailler dans l'entreprise depuis un an au moins et n'avoir
-encouru aucune des condamnations prévues aux articles L. 5 et L. 6 du code électoral. /P/Dans les conditions prévues dans les
-traités internationaux et sous réserve de réciprocité ils peuvent être de nationalité étrangère/P/LOI  0630 11-07-1975// .
+Le ou les délégués syndicaux doivent être âgés de dix-huit ans accomplis, travailler dans l'entreprise depuis un an au moins
+[*ancienneté*] et n'avoir encouru aucune des condamnations prévues aux articles L. 5 et L. 6 du Code électoral
+[*conditions*].
 
 Le délai d'un an prévu à l'alinéa ci-dessus est réduit à quatre mois dans le cas de création d'entreprise ou d'ouverture
-d'établissement. Dans les entreprises de travail temporaire la condition d'ancienneté prévue à l'alinéa précédent est
-appréciée en ce qui concerne les travailleurs temporaires, en totalisant les périodes pendant lesquelles ces salariés ont été
-liés à ces entreprises par des contrats de travail temporaires au cours des dix-huit mois précédant la désignation du délégué
-syndical, ce délai étant réduit à six mois dans le cas de création d'entreprise ou d'ouverture d'établissement.
+d'établissement. Dans les entreprises de travail temporaire la condition d'ancienneté prévue à l'alinéa précédent est fixée à
+six mois pour les travailleurs temporaires. Elle est appréciée en totalisant les périodes pendant lesquelles ces salariés ont
+été liés à ces entreprises par des contrats de travail temporaire au cours des dix-huit mois précédant la désignation du
+délégué syndical, ce délai étant réduit à six mois dans le cas de création d'entreprise ou d'ouverture d'établissement.
 
 Les fonctions de délégué syndical sont compatibles avec celles de délégué du personnel, de représentant du personnel au
 comité d'entreprise ou d'établissement ou de représentant syndical au comité d'entreprise ou d'établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°68-1179 1968-12-27 ART. 10
-	  - Loi n°72-1 1972-01-03 ART. 11
-	  - Code du travail - art. L412-10 (M)
-	  - Code du travail - art. L412-11 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 III JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
 	**Cite**:
 
-	  - Code électoral L005 ET L006
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
 
 	**Cité par**:
 
@@ -33409,6 +34232,11 @@ comité d'entreprise ou d'établissement ou de représentant syndical au comité
 
 	  - Code du travail - art. L2143-5 (VD)
 	  - Code du travail - art. L412-14 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L412-10 (M)
+	  - Code du travail - art. L412-11 (M)
 
 
 ###### Article L412-13
@@ -33668,7 +34496,8 @@ Un décret fixe les conditions d'application du présent titre dans l'argicultur
 
 Pour l'appréciation dans les entreprises de travail temporaire des conditions d'effectifs prévues au présent titre, il est
 tenu compte, d'une part, des salariés permanents de ces entreprises, d'autre part, des travailleurs qui ont été liés à elles
-par des contrats de travail temporaire pendant une durée totale d'au moins six mois au cours de la dernière année civile.
+par des contrats de travail temporaire pendant une durée totale d'au moins trois mois au cours de la dernière année civile
+*ancienneté*.
 
 **Liens relatifs à cet article**
 
@@ -33676,25 +34505,25 @@ par des contrats de travail temporaire pendant une durée totale d'au moins six 
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 IV JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L421-3 (M)
 
-	**Cite**:
-
-	  - Code du travail L420-1 A L420-24
-
-	**Anciens textes**:
-
-	  - Loi n°72-721 1972-01-03 ART. 10
-
 
 ###### Article L420-3
 
-I.- Les délégués du personnel ont pour mission :
+I - Les délégués du personnel ont pour mission :
 
 - de présenter aux employeurs toutes les réclamations individuelles ou collectives qui n'auraient pas été directement
-satisfaites, relatives à l'application des taux de salaire et des classifications professionnelles du code du travail et des
+satisfaites, relatives à l'application des taux de salaire et des classifications professionnelles, du Code du travail et des
 autres lois et règlements, concernant la protection ouvrière, l'hygiène, la sécurité et la prévoyance sociale ;
 
 - de saisir l'inspection du travail de toutes les plaintes et observations relatives à l'application des prescriptions
@@ -33704,38 +34533,41 @@ L'inspecteur du travail doit se faire accompagner dans ses visites par le délé
 
 Les salariés conservent la faculté de présenter eux-mêmes leurs observations à l'employeur et à ses représentants.
 
-II.- Dans les entreprises utilisatrices des salariés liés par un contrat de travail temporaire au sens du chapitre IV, titre
-II du livre Ier du présent code, ceux-ci peuvent faire présenter leurs réclamations individuelles et collectives concernant
-les conditions d'exécution du travail pendant la durée de la mission prévue à l'article L. 125-2, par les délégués du
-personnel de ces entreprises dans les conditions fixées au présent titre.
+II - Dans les entreprises utilisatrices des salariés liés par un contrat de travail temporaire au sens du chapitre IV du
+titre II du livre Ier du présent code, ceux-ci peuvent faire présenter, par les délégués du personnel de ces entreprises,
+dans les conditions fixées au présent titre, leurs réclamations individuelles et collectives concernant l'application des
+dispositions des articles L. 124-4-2 *rémunération*, L. 124-4-6 *conditions de travail* et L. 124-4-7 *transport et
+restaurant*.
 
-III.- //LOI  0005 03-01-1975 : Dans les entreprises comportant moins de cinquante salariés, les délégués du personnel doivent
-être réunis et consultés par l'employeur qui envisage de procéder à un licenciement collectif pour motif économique d'ordre
-conjoncturel ou structurel. Le procès-verbal de cette réunion est transmis à l'autorité administrative compétente.
+Les délégués du personnel peuvent prendre connaissance des contrats définis à l'article L. 124-3, passés avec les entreprises
+de travail temporaire pour la mise à disposition de salariés temporaires *droit de communication*.
 
-Lorsque le nombre de licenciements envisagé est au moins égal à dix ans dans une même période de trente jours, la
-consultation visée à l'alinéa précédent a lieu dans les formes prévues au chapitre Ier du titre II du livre III du présent
-code// .
+III - Dans les entreprises comportant moins de cinquante salariés *effectif*, les délégués du personnel doivent être réunis
+et consultés *obligatoirement* par l'employeur qui envisage de procéder à un licenciement collectif pour motif économique
+d'ordre conjoncturel ou structurel. Le procès-verbal de cette réunion est transmis à l'autorité administrative compétente.
+Lorsque le nombre de licenciements envisagé est au moins égal à dix dans une même période de trente jours, la consultation
+visée à l'alinéa précédent a lieu dans les formes prévues au chapitre Ier du titre II du livre III du présent Code.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté  1946-09-30 ART. 6
-
-	**Anciens textes**:
-
-	  - Loi n°46-730 1946-04-16 ART. 2
-	  - Loi n°72-1 1972-01-03 ART. 15
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 V JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
 	**Cite**:
 
-	  - Code du travail - art. L125-2 (M)
-	  - Code du travail L321-1 A L321-2
+	  - Code du travail - art. L124-3 (M)
+	  - Code du travail - art. L124-4-2 (AbD)
+	  - Code du travail - art. L124-4-6 (M)
+	  - Code du travail - art. L124-4-7 (AbD)
 
 	**Nouveaux textes**:
 
@@ -33953,11 +34785,12 @@ juillet 1944 modifiée et du 26 septembre 1944.
 
 ###### Article L420-10
 
-Dans les entreprises de travail temporaire, les conditions d'ancienneté prévues aux articles L. 420-8 et L. 420-9 sont
-appréciées, en ce qui concerne les travailleurs temporaires, en totalisant les périodes pendant lesquelles ces salariés ont
-été liés à ces entreprises par un contrat de travail temporaire soit au cours des douze mois précédant l'élection s'il s'agit
-de l'électorat, soit au cours des dix-huit mois précédant l'élection s'il s'agit de l'éligibilité, ce délai étant réduit à
-six mois dans le cas de création d'entreprises ou d'ouverture d'établissement.
+Dans les entreprises de travail temporaire les conditions d'ancienneté prévues aux articles L. 420-8 et L. 420-9 sont fixées
+pour les salariés temporaires, à trois mois en ce qui concerne l'électorat et six mois en ce qui concerne l'éligibilité. Ces
+conditions sont appréciées en totalisant les périodes pendant lesquelles ces salariés ont été liés à ces entreprises par des
+contrats de travail temporaire au cours des douze mois ou des dix-huit mois précédant l'élection, selon qu'il s'agit
+d'électorat ou d'éligibilité, ce délai étant réduit à six mois dans le cas de création d'entreprise ou d'ouverture
+d'établissement.
 
 **Liens relatifs à cet article**
 
@@ -33965,22 +34798,27 @@ six mois dans le cas de création d'entreprises ou d'ouverture d'établissement.
 
 	  - Décret n°73-1047 1973-11-15
 
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 VI JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
+
 	**Cité par**:
 
 	  - Code du travail - art. L420-11 (T)
 	  - Code du travail - art. L420-13 (T)
 
+	**Cite**:
+
+	  - Code du travail - art. L420-8 (T)
+	  - Code du travail - art. L420-9 (M)
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L423-9 (M)
-
-	**Cite**:
-
-	  - Code du travail L420-2 ET L420-9
-
-	**Anciens textes**:
-
-	  - Loi n°72-721 1972-01-03 ART. 11
 
 
 ###### Article L420-11
@@ -34490,18 +35328,22 @@ comité d'entreprise après avis des organisations syndicales les plus représen
 
 Pour l'appréciation, dans les entreprises de travail temporaire, des conditions d'effectif prévues au présent titre, il est
 tenu compte, d'une part, des salariés permanents de ces entreprises, d'autre part, des travailleurs qui ont été liés à elles
-par des contrats de travail temporaires pendant une durée totale d'au moins six mois au cours de la dernière année civile.
+par des contrats de travail temporaires pendant une durée totale d'au moins trois mois au cours de la dernière année civile
+[*ancienneté*].
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 10
-	  - Code du travail - art. L431-1 (T)
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-131 1982-02-05 ART. 15 VII JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
 
 	**Cité par**:
 
@@ -34525,9 +35367,9 @@ par des contrats de travail temporaires pendant une durée totale d'au moins six
 	  - Code du travail - art. L2322-6 (VD)
 	  - Code du travail - art. L431-8 (M)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code du travail L431-1 A L437-4
+	  - Code du travail - art. L431-1 (T)
 
 
 ###### Article L431-3
@@ -35115,26 +35957,26 @@ syndicales en application des ordonnances des 27 juillet modifiée et 26 septemb
 
 ###### Article L433-5
 
-Dans les entreprises de travail temporaire les conditions d'ancienneté prévues aux articles L. 433-3 et L. 433-4 ci-dessus
-sont appréciées, en ce qui concerne les travailleurs temporaires, en totalisant les périodes pendant lesquelles ces salariés
-ont été liés à ces entreprises par des contrats de travail temporaires, soit au cours des douze mois précédant l'élection
-s'il s'agit de l'électorat, soit au cours des dix-huit mois précédant l'élection s'il s'agit de l'éligibilité, ce délai étant
-réduit à six mois dans le cas de création d'entreprise ou d'ouverture d'établissement.
+Dans les entreprises de travail temporaire les conditions d'ancienneté prévues aux articles L. 433-3 et L. 433-4 sont fixées,
+pour les salariés temporaires, à trois mois en ce qui concerne l'électorat et à six mois en ce qui concerne l'éligibilité.
+Ces conditions sont appréciées en totalisant les périodes pendant lesquelles ces salariés ont été liés à ces entreprises par
+des contrats de travail temporaire au cours des douze mois ou des dix-huit mois précédant l'élection selon qu'il s'agit
+d'électorat ou d'éligibilité, ce délai étant réduit à six mois dans le cas de création d'entreprise ou d'ouverture
+d'établissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 11
-	  - Code du travail - art. L433-4 (T)
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
-	**Modifié par**:
+	**Créé par**:
 
 	  - Ordonnance 82-131 1982-02-05 ART. 15 IX JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-131 1982-02-05 ART. 16 : FIXE LA DATE ET LA DUREE D'APPLICATION DE L'ORDONNANCE
 
 	**Cité par**:
 
@@ -35153,9 +35995,14 @@ réduit à six mois dans le cas de création d'entreprise ou d'ouverture d'étab
 	  - Code du travail - art. L433-3 (M)
 	  - Code du travail - art. L433-4 (M)
 
+	**Anciens textes**:
+
+	  - Code du travail - art. L433-4 (T)
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L433-6 (M)
+	  - Code du travail - art. L433-6 (T)
 
 
 ###### Article L433-6
