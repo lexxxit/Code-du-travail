@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-04-14
+Version Consolidée au 1976-06-04
 
 # Partie législative ancienne
 
@@ -66119,222 +66119,6 @@ de la qualité de demandeur à tenir le bureau qu'il désire exploiter.
 
 ##### Section 2 : Travailleurs handicapés
 
-##### Sous-section 1 : Dispositions générales.
-
-###### Article R323-24
-
-Lorsque la qualité de travailleur handicapé a été reconnue en application de l'article L. 323-11 la commission départementale
-d'orientation des infirmes donne un avis sur l'orientation professionnelle de l'intéressé et se prononce sur l'opportunité
-des mesures à prendre pour faciliter son reclassement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L323-11 (M)
-
-	**Anciens textes**:
-
-	  - Loi   1957-11-23 ART. 2 (PARTIE)
-
-
-###### Article R323-25
-
-La compétence [*ratione personae*] de la commission départementale s'étend à toutes les personnes qui demandent le bénéfice
-de dispositions législatives et réglementaires figurant dans le présent code au titre des handicapés physiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi   1957-11-23 ART. 2
-
-
-###### Article R323-26
-
-La commission départementale compétente est déterminée par la résidence de l'intéressé [*compétence rationae loci*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi   1957-11-23 ART. 2 (PARTIE)
-
-
-###### Article R323-27
-
-Pour l'examen des questions qui lui sont soumises en vertu des dispositions des articles L. 323-9 et suivants la commission
-d'orientation des infirmes [*composition*], comprend, outre les membres énumérés à l'article 16 du décret du 11 juin 1954, un
-représentant de l'organisme appelé à supporter éventuellement les frais de rééducation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail L323-9 ET S.
-	  - Décret  1954-06-11 ART. 16
-
-	**Anciens textes**:
-
-	  - Décret n°62-881 1962-07-26 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R323-28
-
-Il est constitué dans son sein [*commission d'orientation des infirmes*] une sous-commission permanente chargée d'instruire
-les dossiers et de présenter les propositions de décisions.
-
-Cette sous-commission peut, en outre, être habilitée par la commission d'orientation des infirmes et dans les limites et
-conditions fixées par celle-ci à exercer en son nom les attributions qui lui sont dévolues par les articles L. 323-9 et
-suivants, et notamment à prononcer l'avis d'orientation en cas d'urgence.
-
-Toutefois, la sous-commission permanente est tenue [*obligation*] de renvoyer les dossiers à la commission d'orientation des
-infirmes dans sa formation plénière sur la demande de la majorité de ses membres ou du président.
-
-La sous-commission permanente adresse annuellement un rapport sur ses travaux à la commission d'orientation des infirmes en
-vue de l'établissement du rapport d'ensemble que cette dernière commission est tenue de présenter par application de
-l'article R. 323-50.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R323-101 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R323-50 (M)
-	  - Code du travail L323-9 ET S.
-
-	**Anciens textes**:
-
-	  - Décret  1962-07-26 ART. 3
-
-
-###### Article R323-29
-
-La sous-commission permanente comprend les membres suivants :
-
-- le directeur départemental du travail et de la main-d'oeuvre ou son représentant, président, assisté, le cas échéant, du
-fonctionnaire chargé du contrôle des lois sociales en agriculture ;
-
-- le chef de la section départementale de l'Agence nationale pour l'emploi ou son représentant ;
-
-- le médecin inspecteur du travail et de la main-d'oeuvre ou son représentant ;
-
-- le directeur départemental de l'action sanitaire et sociale ;
-
-- le représentant de l'organisme, ou service appelé à supporter, le cas échéant, les dépenses de rééducation ;
-
-- un [*nombre*] psychotechnicien des services de sélection au ministère chargé du travail ;
-
-- une assistante sociale des services de main-d'oeuvre.
-
-Ces deux derniers membres sont nommés par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1962-07-26 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R323-30
-
-Le secrétariat de la commission d'orientation des infirmes est assuré par les services de la direction départementale du
-travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1962-07-26 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R323-31
-
-Dès réception de la demande [*d'inscription*] prévue à l'article R. 323-44, le service de l'emploi la transmet au secrétariat
-de la commission.
-
-Au cas où l'intéressé se trouve en traitement dans un autre département que celui de sa résidence habituelle, le secrétariat
-de la commission d'orientation des infirmes du lieu de résidence charge le secrétariat de la commission du département où
-s'effectue le traitement, des examens et de l'enquête prévus à l'alinéa précédent.
-
-Si le travailleur handicapé change de lieu de résidence à l'issue de son traitement, ou de sa rééducation, la commission
-d'orientation compétente est celle du nouveau lieu de résidence.
-
-Lorsque l'intéressé est employé dans une entreprise située dans un autre département que celui de sa résidence habituelle et
-s'inscrit en vue d'obtenir la reconnaissance de la qualité de travailleur handicapé, le secrétariat de la commission
-d'orientation des infirmes du lieu de résidence charge la commission d'orientation des infirmes du lieu de travail de
-l'instruction du dossier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R323-44 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R323-49 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1962-07-26 ART. 1
-
-
-###### Article R323-33
-
-Dans le délai d'un mois après sa notification, la décision de la commission d'orientation des infirmes peut faire l'objet
-d'un recours devant la commission [*départementale des handicapés*] prévue à l'article L. 323-34.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L323-34 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1957-11-23 ART. 13 AL. 2
-
-
 ##### Sous-section 4 : Education, rééducation professionnelle et réentraînement au travail.
 
 ###### Article R323-36
@@ -72792,6 +72576,52 @@ police judiciaire *autorités compétentes*.
 	  - Loi   1924-04-26 ART. 16 (PARTIE)
 
 
+##### SECTION 2 : TRAVAILLEURS HANDICAPES
+
+##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.
+
+###### Article R323-32
+
+Au vu des divers éléments d'appréciation dont elle dispose et après audition du handicapé et, le cas échéant, des autres
+personnes intéressées, la commission technique d'orientation et de reclassement professionnel reconnaît, s'il y a lieu, la
+qualité de travailleur handicapé en application de l'article L. 323-10 et classe l'intéressé en application de l'article L.
+323-23.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1962-07-26 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-83 du 17 janvier 1986 - art. 42-4 (M)
+	  - Décret n°91-155 du 6 février 1991 - art. 38-3 (V)
+	  - Décret n°95-179 du 20 février 1995 - art. 2 (V)
+	  - Décret n°95-252 du 6 mars 1995 - art. 2 (V)
+	  - Décret n°95-473 du 24 avril 1995 - art. 2 (V)
+	  - Décret n°95-787 du 14 juin 1995 - art. 3 (V)
+	  - Décret n°95-933 du 17 août 1995 - art. 1 (Ab)
+	  - Décret n°97-498 du 16 mai 1997 - art. 1 (V)
+	  - Décret n°97-758 du 10 juillet 1997 - art. 2-1 (V)
+	  - Arrêté du 24 juillet 2015 - art. 1 (V)
+	  - Code du travail - art. D323-12 (Ab)
+	  - Code du travail - art. D323-6 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-10 (M)
+	  - Code du travail - art. L323-23 (Ab)
+
+
 #### Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
 
 ##### SECTION 1 : MUTILES DE GUERRE
@@ -74091,42 +73921,6 @@ prévues à l'article R. 321-10.
 
 #### TRAVAILLEURS HANDICAPES .
 
-###### Article R323-32
-
-Au vu des divers éléments d'appréciation figurant au dossier, la commission d'orientation des infirmes classe les
-travailleurs intéressés suivant la gravité de leur handicap [*critère*] qui est appréciée par rapport aux conditions exigées
-pour l'exercice de l'emploi occupé ou pour l'orientation du placement.
-
-Le reclassement peut être décidé pour une période déterminée à l'issue de laquelle la sous-commission permanente doit
-procéder [*obligation*] à un nouvel examen de l'affaire. En toute hypothèse, le classement peut être revisé en cas de
-changement d'activité professionnelle du travailleur ou de modifications survenues dans son handicap.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1962-07-26 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°86-83 du 17 janvier 1986 - art. 42-4 (M)
-	  - Décret n°91-155 du 6 février 1991 - art. 38-3 (V)
-	  - Décret n°95-179 du 20 février 1995 - art. 2 (V)
-	  - Décret n°95-252 du 6 mars 1995 - art. 2 (V)
-	  - Décret n°95-473 du 24 avril 1995 - art. 2 (V)
-	  - Décret n°95-787 du 14 juin 1995 - art. 3 (V)
-	  - Décret n°95-933 du 17 août 1995 - art. 1 (Ab)
-	  - Décret n°97-498 du 16 mai 1997 - art. 1 (V)
-	  - Décret n°97-758 du 10 juillet 1997 - art. 2-1 (V)
-	  - Arrêté du 24 juillet 2015 - art. 1 (V)
-	  - Code du travail - art. D323-12 (Ab)
-	  - Code du travail - art. D323-6 (VT)
-
-
 ##### READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .
 
 ###### Article R323-34
@@ -74187,6 +73981,48 @@ les effets des mesures d'agrément prévues par les décrets précités des 2 se
 	  - Code du travail - art. R323-36 (Ab)
 	  - Code du travail - art. R323-37 (VT)
 	  - Code du travail - art. R323-41-1 (VT)
+
+
+###### Article R323-35
+
+/R/La commission d'orientation des infirmes/R/DECR.0479 02-06-1976 : commission technique d'orientation et de reclassement
+professionnel// est consultée sur toutes les demandes ou propositions de rééducation ou de réadaptation d'un travailleur
+handicapé faites en application d'une des législations énumérées à l'article L. 323-18. En cas d'urgence, l'organisme de
+prise en charge peut,
+
+à titre provisoire, prononcer l'admission de l'intéressé, sous réserve de transmettre dans les trois jours [*délai*] son
+dossier à la commission. En ce cas, celle-ci émet par priorité et d'urgence l'avis d'orientation prévu par l'article L.
+323-23.
+
+La commission donne également son avis sur la nature, les modalités et la durée de la réadaptation, rééducation ou formation
+professionnelle appropriée. En cas de prolongation de la période de stage ou en cas de mutation de section, la commission
+sera saisie à nouveau pour avis. Elle est tenue informée avant la fin du stage des résultats de celui-ci. Ces informations
+sont portées sans délai à la connaissance de la commission par l'intermédiaire du directeur départemental du travail et de la
+main-d'oeuvre du département où se trouve situé le centre en cause de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-18 (M)
+	  - Code du travail - art. L323-23 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-36 (Ab)
+	  - Code du travail - art. R323-37 (VT)
+
+	**Anciens textes**:
+
+	  - Décret n°1962-07-26 ART. 8
 
 
 ###### Article R323-37
@@ -74463,6 +74299,32 @@ suivant la procédure prévue à l'article R. 323-42.
 	  - Code du travail - art. R323-42 (M)
 
 
+###### Article R323-47
+
+Pour l'application des dispositions de l'article L. 323-21 /R/la commission d'orientation des infirmes ou, éventuellement, la
+sous-commission permanente/R/DECR.0479 02-06-1976 : la commission technique d'orientation et de reclassement professionnel//
+fixe, le cas échéant, après expertise, la date de la consolidation de l'affection invalidante dont est atteint le travailleur
+handicapé.    Les modalités de la procédure d'expertise sont déterminées par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1962-07-26 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-21 (M)
+
+
 ###### Article R323-48
 
 Pour l'application des dispositions de l'article L. 323-22 relatives au décompte du personnel, les travailleurs employés à
@@ -74488,25 +74350,59 @@ temps partiel ne sont pris en compte que pour une fraction proportionnelle du co
 	  - Décret  1962-07-26 ART. 19
 
 
-###### Article R323-50
+###### Article R323-49
 
-Les services de l'emploi présentent chaque année à la commission départementale d'orientation des infirmes un rapport sur les
-résultats des placements. Celle-ci établit un rapport d'ensemble à l'intention des commissions régionales consultatives
-d'emploi et de reclassement des travailleurs handicapés.
+/R/La commission d'orientation des infirmes/R/DECR.0479 02-06-1976 : la commission technique d'orientation et de reclassement
+professionnel// territorialement compétente en vertu de l'article R. 323-31 est avisée des placements des travailleurs
+handicapés effectués à l'issue des stages de rééducation professionnelle proposés par elle.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code du travail - art. R323-28 (Ab)
-
 	**Anciens textes**:
 
-	  - Décret  1962-07-26 ART. 18
+	  - Décret  1962-07-26 ART. 17
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-31 (Ab)
+
+
+###### Article R323-50
+
+Le directeur départemental du travail [*attributions*] et de la main-d'oeuvre fait connaître chaque année à la commission
+technique d'orientation et de reclassement professionnel les résultats des placements concernant les travailleurs handicapés.
+
+Cette information est reprise dans le rapport prévu à l'article D. 323-3-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1962-07-26 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. D323-3-16 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-28 (Ab)
 
 
 ###### Article R323-51
@@ -75273,19 +75169,19 @@ Elle peut entendre les parties.
 
 ###### Article R323-77
 
-Les recours devant la commission départementale des handicapés doivent être formés dans le délai de :
+Le recours devant la commission départementale des handicapés doit être formé :
 
-- un mois, lorsqu'ils portent sur l'application des articles L. 323-21 et L. 323-23 ;
+Dans le délai d'un mois lorsqu'il porte sur l'application des articles L. 323-10, L. 323-21 ou L. 323-23 ;
 
-- trois jours, lorsqu'ils sont formés en application de l'article L. 323-24 (alinéa 4) ;
+Dans le délai de trois jours lorsqu'il est formé en application de l'article L. 323-24 (alinéa 4) ;
 
-- huit jours, lorsqu'ils sont formés en application de l'article L. 323-24 (alinéa 6).
+Dans le délai de huit jours lorsqu'il est formé en application de l'article L. 323-24 (alinéa 6).
 
-Ces délais [*point de départ*] courent à compter de la notification de la décision de la commission d'orientation des
-infirmes ou de la décision de l'inspecteur du travail.
+Ces délais courent à compter de la notification de la décision de la commission technique d'orientation et de reclassement
+professionnel [*point de départ*].
 
-Les recours doivent être motivés et être formés par lettre recommandée [*condition de forme*] avec demande d'avis de
-réception.
+Les recours doivent être motivés et être présentés sous [*condition*] forme [*obligatoire*] de lettre recommandée avec
+demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -75299,15 +75195,20 @@ réception.
 	  - Code du travail - art. R323-101 (Ab)
 	  - Code du travail - art. R323-78 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cite**:
 
+	  - Code du travail - art. L323-10 (M)
 	  - Code du travail - art. L323-21 (M)
 	  - Code du travail - art. L323-23 (Ab)
-	  - Code du travail L323-21, L323-23, L323-24 AL. 4 ET 6
+	  - Code du travail L323-24 AL. 4 ET 6
 
 	**Anciens textes**:
 
-	  - Décret  1962-07-26 ART. 34
+	  - Décret n°1962-07-26 ART. 34
 
 
 ###### Article R323-78
@@ -97312,7 +97213,401 @@ travail [*fonctionnaire*] .
 
 ##### Section 2 : Travailleurs handicapés
 
+##### Sous-section 1 : Dispositions générales.
+
+###### Article D323-3-1
+
+La commission technique d'orientation et de reclassement professionnel prévue à l'article L. 323-11 est composée comme suit :
+
+a) Un conseiller général élu ainsi qu'un suppléant par l'Assemblée dont ils font partie ;
+
+b) Quatre [*nombre*] personnes proposées conjointement en raison de leur compétence par le directeur départemental du travail
+et de la main-d'oeuvre et le directeur du travail, chef du service régional des lois sociales en agriculture, dont au moins
+un représentant de l'Agence nationale pour l'emploi [*ANPE*] et un médecin du travail ;
+
+c) Trois personnes proposées en raison de leur compétence par le directeur départementaL de l'action sanitaire et sociale,
+dont au moins un médecin ;
+
+d) Une personne proposée en raison de sa compétence par le chef du service départemental de l'office national des anciens
+combattants et victimes de guerre ;
+
+e) Un médecin conseil des organismes de sécurité sociale sur proposition conjointe du directeur régional de la sécurité
+sociale et du directeur du travail, chef du service des lois sociales en agriculture ;
+
+f) Quatre représentants des organismes d'assurance maladie et des organismes débiteurs des prestations familiales choisis sur
+proposition conjointe du directeur régional de sécurité sociale et du directeur du travail, chef du service régional des lois
+sociales en agriculture, parmi les personnes présentées par les conseils d'administration de ces organismes.
+
+g) Deux personnes choisies en raison de leur compétence sur proposition conjointe du directeur départemental du travail et de
+la main-d'oeuvre et du directeur départemental de l'action sanitaire et sociale parmi les personnes présentées par les
+organismes gestionnaires des centres de rééducation professionnelle, des ateliers protégés et des centres d'aide par le
+travail du département ;
+
+h) Deux personnes choisies en raison de leur compétence dans les mêmes conditions que ci-dessus parmi les personnes
+présentées par les associations représentatives des travailleurs handicapés ;
+
+i) Une personnalité qualifiée choisie sur proposition du directeur départemental du travaiL et de la main-d'oeuvre parmi les
+personnes présentées par les organisations syndicales d'employeurs les plus représentatives ;
+
+j) Une personne qualifiée choisie dans les mêmes conditions parmi les personnes présentées par les organisations syndicales
+de salariés les plus représentatives.
+
+Les présentations prévues aux f à j ci-dessus doivent être faites [*délai*] dans le mois qui suit la réception de la lettre
+invitant les organismes, associations et organisations syndicales à opérer lesdites présentations.
+
+Les membres prévus au a ci-dessus sont élus à la suite de chaque renouvellement du conseil général.
+
+Les membres autres que ceux prévus au a ci-dessus sont nommés par le préfet pour trois ans [*durée*] renouvelables. Un
+suppléant de chacun de ses membres est nommé dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-3-2 (VT)
+	  - Code du travail - art. D323-3-9 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-11 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L323-11 (M)
+
+
+###### Article D323-3-2
+
+Dans certains départements l'effectif [*de la commission technique d'orientation et de reclassement professionnel*] résultant
+des dispositions de l'article D. 323-3-1 est doublé ou triplé en fonction des besoins du département concerné sans que cette
+majoration puisse avoir pour effet de modifier la répartition faite par ledit article.
+
+Un arrêté du ministre du travail et du ministre de la santé fixe la liste de ces départements en précisant pour chacun d'eux
+si l'effectif de la commission est doublé ou triplé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-3-9 (M)
+
+
+###### Article D323-3-3
+
+La commission [*technique d'orientation et de reclassement professionnel*] peut appeler à participer occasionnellement à ses
+travaux à titre consultatif toute les personnes susceptibles de l'éclairer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-3-10 (VT)
+
+
+###### Article D323-3-4
+
+La commission [*technique d'orientation et de reclassement professionnel*] dispose d'un secrétariat permanent dirigé par un
+secrétaire et un secrétaire adjoint nommés par le préfet sur proposition conjointe du directeur départemental du travail et
+de la main-d'oeuvre et du directeur départemental de l'action sanitaire et sociale et choisis parmi les agents des services
+dépendant de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-5
+
+Une équipe technique étudie les cas soumis à la commission [*technique d'orientation et de reclassement professionnel*]
+recueille les avis nécessaires et présente la synthèse de ses travaux à la commission qui statue.
+
+L'équipe peut faire appel aux spécialistes qui lui sont extérieurs et dont le concours lui paraît nécessaire pour mener à
+bien l'instruction des demandes dont elle est saisie.
+
+Dans tous les cas, un ou plusieurs membres de l'équipe prend contact avec le handicapé et, s'il y a lieu, avec les parents de
+celui-ci ou avec les personnes qui en ont la charge effective ou qui sont ses représentants légaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-6
+
+La compétence territoriale de la commission [*technique d'orientation et de reclassement professionnel*] est déterminée par
+le lieu de résidence du handicapé.
+
+Cette compétence peut toutefois être renvoyée par le président de la commission du lieu de résidence à celle du département
+ou l'intéressé se trouve en traitement ou en rééducation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-7
+
+La commission [*technique d'orientation et de reclassement professionnel*] est saisie :
+
+Par le handicapé lui-même ;
+
+Par ses parents ou par les personnes qui en ont la charge effective ou qui sont ses représentants légaux ;
+
+Par le directeur départemental de l'action sanitaire et sociale et le directeur départemental du travail et de la main-
+d'oeuvre ou le fonctionnaire qui exerce les fonctions de ce dernier compte tenu de l'activité professionnelle de l'assuré ;
+
+Par l'Agence nationale pour l'emploi [*ANPE*], avec l'accord du handicapé, lorsqu'elle a enregistré une demande d'emploi de
+celui-ci ;
+
+Par l'organisme d'assurance maladie intéressé ;
+
+Par l'organisme ou service appelé à payer une allocation à l'intéressé au titre de son handicap ;
+
+Ou par l'autorité responsable de tout centre, établissement ou service médical ou social intéressé.
+
+Dans tous les cas le handicapé et, s'il y a lieu, les personnes qui en ont la charge effective ou qui sont les représentants
+légaux sont informés de la saisine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-3-5 (VT)
+
+
+###### Article D323-3-8
+
+La commission technique d'orientation et de reclassement professionnel est divisée en deux [*nombre*] sections spécialisées.
+
+La première section est saisie des cas dans lesquels le handicap ne fait pas obstacle à la mise en oeuvre des mesures prévues
+au chapitre III du titre II de livre III du code du travail. Elle est notamment chargée [*attributions*] d'apprécier
+l'aptitude au travail, de reconnaître la qualité de travailleur handicapé et de se prononcer sur l'orientation et le
+reclassement de l'intéressé.
+
+La deuxième section connaît des cas autres que ceux que définit l'alinéa précédent. Elle est notamment chargée d'apprécier le
+taux d'invalidité et le degré d'aptitude au travail, de se prononcer sur l'orientation de l'intéressé ainsi que sur son
+admission dans un établissement spécialisé et, en particulier, dans ceux qui sont prévus aux articles 46 et 47 de la loi n.
+75-534 du 30 juin 1975 et de déterminer si l'état ou la situation du handicapé justifie l'attribution de la ou des
+allocations prévues aux articles 35 et 36 de la même loi ainsi que de l'allocation de logement instituée par la loi modifiée
+n. 71-582 du 16 juillet 1971.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-582 1971-07-16
+	  - Loi n°75-534 1975-06-30 ART. 35 ET 36, 46 ET 47
+	  - Code du travail L323-1 A L323-39
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-9
+
+Lors de sa première réunion la commission [*technique d'orientation et de reclassement professionnel*] procède à la
+constitution des deux sections spécialisées en répartissant ses membres, compte tenu de leurs qualifications respectives,
+entre lesdites sections.
+
+Lorsque l'effectif de la commission est doublé ou triplé par application de l'article D. 323-3-2, chaque section comprend
+deux ou trois formations qui sont constituées comme il est dit à l'alinéa précédent et qui exercent les attributions de la
+section spécialisée dont elles sont l'expression.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. D323-3-2 (V)
+
+
+###### Article D323-3-10
+
+Un même membre de la commission [*technique d'orientation et de reclassement professionnel*] peut être appelé à siéger dans
+les sections spécialisées ou dans deux [*nombre*] au plus de leur formations.
+
+L'effectif d'une section ou de chacune de ses formations ne peut être supérieur à 10 membres, non compris le président.
+
+Le président de la commission est de droit président de chacune des sections spécialisées. En cas d'absence ou d'empêchement,
+cette présidence est assurée par le directeur départemental du travail et de la main-d'oeuvre pour la première section et par
+le directeur départemental de l'action sanitaire et sociale pour la deuxième.
+
+Lorsque les sections comprennent plusieurs formations et que la présidence de celles-ci ne peut être assurée conformément à
+la règle posée à l'alinéa précédent, cette présidence est confiée à un membre de la commission appartenant à la formation
+intéressée et qui est désigné par le président de la commission sur proposition, selon le cas, de l'un ou de l'autre des
+directeurs mentionnés audit alinéa.
+
+En cas de partage des voix, à la commission ou dans les sections ou formations, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-11
+
+Lorsque l'instruction d'une demande est achevée, cette demande est soumise pour décision à la section compétente compte tenu
+du rapport présenté par l'équipe technique.
+
+Si cette section estime qu'elle n'est pas compétente, l'affaire est immédiatement transmise à l'autre section où elle doit
+être examinée en priorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-12
+
+Le handicapé et, s'il y a lieu, son représentant légal ou la personne qui en a la charge effective sont convoqués ainsi que
+l'auteur de la demande, lorsque ce dernier est une personne différente, à la séance au cours de laquelle la commission
+examine la demande.
+
+Cette convocation est envoyée au moins dix jours [*délai*] à l'avance.
+
+Elle précise l'heure et le lieu de convocation ; elle rappelle la faculté offerte au handicapé de se faire assister par une
+personne de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-13
+
+La commission tient, sur convocation de son président, au moins deux [*nombre minimum*] séances par an.
+
+Les sections ou leurs formations sont réunies à la diligence du président de la commission ou de la personne qui lui est
+substituée en cas d'absence ou d'empêchement.
+
+La commission, les sections et les formations ne peuvent valablement délibérer que si plus de la moitié de leurs membres est
+présente [*condition*] .
+
+La commission, les sections et les formations siègent au chef-lieu du département [*lieu*] . A la majorité de leurs membres
+ou sur décision du président de la commission elles peuvent se réunir dans une autre ville du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D323-3-14
+
+Toute affaire portée devant une section ou devant une des formations de celle-ci est renvoyée devant la commission elle-même
+s'il en est ainsi décidé [*condition*] par le président de la commission, de la section ou de la formation ou par majorité
+des membres de cette section ou formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1220 du 19 décembre 2003 - art. 2 () JORF 21 décembre 2003
+
+
+###### Article D323-3-15
+
+Outre leurs motifs, les décisions de la commission [*technique d'orientation et de reclassement professionnel*] doivent
+préciser le délai dans lequel elles seront révisées. Ce délai ne peut excéder cinq ans [*limite*].
+
+Les décisions sont notifiées dans le délai d'un mois au demandeur et aux autres personnes ou organismes intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 20 décembre 1991 - art. 3 (V)
+	  - Arrêté du 4 juillet 1986 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1220 du 19 décembre 2003 - art. 2 () JORF 21 décembre 2003
+
+
+###### Article D323-3-16
+
+Chaque année le président de la commission adresse au préfet un rapport sur les travaux de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1220 du 19 décembre 2003 - art. 2 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-50 (Ab)
+
+
 ##### Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.
+
+###### Article D323-4
+
+Les primes de reclassement prévues à l'article L. 323-16 peuvent être attribuées aux travailleurs handicapés auxquels cette
+qualité aura été reconnue par la commission technique d'orientation et de reclassement professionnelle et qui auront été
+admis sur avis favorable de celle-ci à suivre un stage de rééducation, de réadaptation et de formation professionnelle dans
+un des centres mentionnés à l'article R. 323-34.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-5 (VT)
+	  - Code du travail - art. D323-8 (VT)
+
 
 ###### Article D323-5
 
@@ -97343,6 +97638,26 @@ admission en stage.
 	  - Code du travail - art. D5213-16 (Ab)
 
 
+###### Article D323-7
+
+La demande d'attribution de la prime de reclassement est adressée par l'intéressé à la commission  technique d'orientation et
+de reclassement professionnel au plus tard dans le mois qui suit la fin du stage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-8 (VT)
+
+
 ###### Article D323-8
 
 La commission examine la demande ci-dessus au regard des dispositions des articles D. 323-4 et D. 323-6 en tenant compte
@@ -97367,7 +97682,80 @@ rééducation.
 	  - Code du travail - art. D5213-19 (Ab)
 
 
+###### Article D323-9
+
+Les décisions de la commission technique d'orientation et de reclassement professionnel portant fixation de la prime sont
+transmises au directeur départemental du travail et de la main-d'oeuvre du siège de la commission en vue de leur notification
+aux intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D323-10
+
+La prime de reclassement est payée au bénéficiaire en un versement effectué dans le mois qui suit la notification de la
+décision de la commission technique d'orientation et de reclassement professionnel.
+
+Toutefois, la commission peut prescrire un échelonnement des versements dans la limite d'une période maximum de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D5213-21 (Ab)
+
+
 ##### Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.
+
+###### Article D323-11
+
+En vue de l'application des dispositions de l'article L. 323-25 la commission technique d'orientation et de reclassement
+professionnel, soit à la demande des parties, soit au moment du classement du travailleur handicapé dans l'une des catégories
+prévues à l'article L. 323-23 fixe, s'il y a lieu, et suivant les modalités indiquées à l'article D. 323-12, l'abattement
+pouvant être effectué par l'employeur sur le salaire versé au travailleur handicapé en raison du poste de travail qu'il
+occupe dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-12 (Ab)
+	  - Code du travail - art. D323-15 (Ab)
+	  - Code du travail - art. D323-16 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-23 (Ab)
+	  - Code du travail - art. L323-25 (M)
+
 
 ###### Article D323-12
 
@@ -97470,6 +97858,33 @@ respectivement avec les inspecteurs divisionnaires et les inspecteurs départeme
 
 	  - Code du travail - art. D323-15 (Ab)
 	  - Code du travail - art. D323-16 (Ab)
+
+
+###### Article D323-15
+
+La décision prise en vertu de l'article D. 323-11 ou de l'article D. 323-14 par la la commission technique d'orientation et
+de reclassement professionnel ou par le directeur départemental ou régional du travail et de la main-d'oeuvre sous forme de
+décision individuelle et pour une durée déterminée, est notifiée aux parties qui peuvent, à l'expiration de ce délai,
+solliciter sa reconduction ou sa révision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. D323-11 (M)
+	  - Code du travail - art. D323-14 (Ab)
 
 
 ###### Article D323-16
@@ -99161,6 +99576,24 @@ demande.
 	  - Décret n°73-1048 1973-11-15
 
 
+###### Article D323-18
+
+La demande tendant à l'octroi du prêt d'honneur doit [*obligation*] être adressée par l'intéressé au secrétariat de la /M/
+commission départementale d'orientation des infirmes /M/DECR.0478 02-06-1976 : commission technique d'orientation et de
+reclassement professionnel// compétente au plus tard dans le mois qui suit la fin du stage de rééducation. La Commission
+instruit la demande et la soumet avec son avis motivé au ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1964-09-22 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
 ###### Article D323-19
 
 Le ministre chargé du travail peut saisir la section permanente du conseil supérieur pour le reclassement professionnel et
@@ -99390,38 +99823,6 @@ Le préfet est chargé d'organiser le secrétariat de la commission département
 
 ##### SOUS-SECTION 2 : READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
 
-###### Article D323-4
-
-Les primes de reclassement prévues à l'article L. 323-16 peuvent être attribuées aux travailleurs handicapés auxquels cette
-qualité aura été reconnue par la commission départementale d'orientation des infirmes et qui auront été admis sur avis
-favorable de celle-ci à suivre un stage de rééducation, de réadaptation et de formation professionnelle dans un des centres
-mentionnés à l'article R. 323-34.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1401 1962-11-24 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cité par**:
-
-	  - Code du travail - art. D323-5 (VT)
-	  - Code du travail - art. D323-8 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L323-1 (M)
-	  - Code du travail - art. R323-34 (M)
-
-
 ###### Article D323-6
 
 Le montant de la prime de reclassement est fixé à une somme comprise entre 300 F et 750 F  en fonction notamment des
@@ -99449,120 +99850,6 @@ ressources dont peut disposer le bénéficiaire.
 
 	  - Décret n°1962-11-24 art. 3
 	  - Décret n°70-1091 1970-11-30
-
-
-###### Article D323-9
-
-Les décisions de la commission d'orientation des infirmes portant fixation de la prime sont transmises au directeur
-départemental du travail et de la main-d'oeuvre du siège de la commission en vue de leur notification aux intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1962-11-24 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article D323-10
-
-La prime de reclassement est payée au bénéficiaire en un versement effectué dans le mois qui suit la notification de la
-décision de la commission départementale d'orientation des infirmes.
-
-Toutefois, la commission peut prescrire un échelonnement des versements dans la limite d'une période maximum de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1962-11-24 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-##### SOUS-SECTION 2 : REEDAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
-
-###### Article D323-7
-
-La demande d'attribution de la prime de reclassement est adressée par l'intéressé à la commission départementale
-d'orientation des infirmes au plus tard dans le mois qui suit la fin du stage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cité par**:
-
-	  - Code du travail - art. D323-8 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°62-1401 1962-11-24 art. 4
-
-
-##### SOUS-SECTION 3 : PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES.
-
-###### Article D323-11
-
-En vue de l'application des dispositions de l'article L. 323-25 la commission d'orientation des infirmes,soit à la demande
-des parties, soit au moment du classement du travailleur handicapé dans l'une des catégories prévues à l'article L. 323-23
-fixe, s'il-y-a-lieu, et suivant les modalités indiquées à l'article D. 323-12, l'abattement pouvant être effectué par
-l'employeur sur le salaire versé au travailleur handicapé en raison du poste de travail qu'il occupe dans l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D323-12 (Ab)
-	  - Code du travail - art. D323-15 (Ab)
-	  - Code du travail - art. D323-16 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L323-23 (Ab)
-	  - Code du travail - art. L323-25 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°64-127 1964-02-07 art. 1
-
-
-###### Article D323-15
-
-La décision prise en vertu de l'article D. 323-11 ou de l'article D. 323-14 par la commission d'orientation des infirmes ou
-par le directeur départemental ou régional du travail et de la main-d'oeuvre sous forme de décision individuelle et pour une
-durée déterminée, est notifiée aux parties qui peuvent, à l'expiration de ce délai, solliciter sa reconduction ou sa
-révision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. D323-11 (M)
-	  - Code du travail - art. D323-14 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1964-02-07 art. 5
 
 
 ## PLACEMENT ET EMPLOI
