@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-11-24
+Version Consolidée au 1979-12-02
 
 # Partie législative ancienne
 
@@ -51952,90 +51952,7 @@ autorisations d'absence pourront être accordées.
 
 ### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
 
-#### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
-
-###### Article R51-11-1
-
-Sans préjudice des dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle concernant les
-conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles R. 516-1 à R. 516-7, R. 516-31 à
-R. 516-35, R. 517-1, R. 517-3 à R. 517-5 //DECR.1237 28-12-1976 :
-
-R. 517-6 (2. alinéa)// et R. 517-7 à R. 517-10 sont applicables dans ces trois départements.
-
-Dans ces mêmes départements, le président du conseil de prud'homme dispose, en référé, des pouvoirs à l'article R.
-
-516-18.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°82-1073 du 15 décembre 1982 - art. 42 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L51-11-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R516-18 (M)
-	  - Code du travail - art. R517-1 (Ab)
-	  - Code du travail R516-1 A R516-7, R516-31 A R516-35, R516-18
-
-
 #### INSTITUTION DES CONSEILS DE PRUD'HOMMES .
-
-###### Article R511-1
-
-Avant la création d'un conseil de prud'hommes ou la modification d'un conseil de prud'hommes existant, le ministre chargé du
-travail doit [*obligation*] publier au Journal officiel [*JORF*] un avis indiquant :
-
-a) L'étendue de la compétence d'attribution et de la compétence territoriale du conseil existant ou à créer ;
-
-b) Les sections et catégories dans lesquelles sont groupées les professions soumises à la juridiction du conseil existant ou
-à créer ;
-
-c) Le nombre de conseillers à élire dans chacune des catégories ;
-
-d) Dans le cas où le décret se propose d'apporter les modifications à l'organisation d'un conseil existant, les points sur
-lesquels portent ces modifications.
-
-//DECR.0808 19-09-1974 : L'avis invitera les chambres de commerce et d'industrie, les chambres d'agriculture et les chambres
-des métiers, les organisations professionnelles et toutes les personnes intéressées, à faire connaître au ministre du travail
-dans le délai d'un mois leurs observations et avis// .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R511-2
-
-Le décret d'institution détermine le ressort du conseil, le nombre de catégories dans lesquelles sont réparties les
-professions soumises à sa juridiction et le nombre des prud'hommes affectés à chaque catégorie, sans que le nombre total des
-membres du conseil puisse être impair ou inférieur à douze [*limites*] . Les ouvriers et les employés du commerce et de
-l'industrie sont classés dans des catégories distinctes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 3 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
 
 ###### Article R511-3
 
@@ -52076,336 +51993,6 @@ Les élections pour le renouvellement triennal prévu à l'article L. 512-3 ont 
 	**Cite**:
 
 	  - Code du travail - art. L512-3 (M)
-
-
-###### Article R512-2
-
-La réunion des prud'hommes en assemblée générale de section mentionnée à l'article L. 512-4 a lieu dans la première quinzaine
-de janvier [*période*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L512-4 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L512-4 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R51-11-1 (Ab)
-	  - Code du travail - art. R513-119 (M)
-
-
-###### Article R512-3
-
-En cas de création ou à la suite d'un renouvellement intégral, le sort décide si c'est un employeur ou si c'est un salarié
-qui préside le premier.
-
-Il en est donc de même quand un élément n'est pas représenté dans le conseil ou la section pendant une ou plusieurs périodes
-triennales par application de l'article L. 513-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Cite**:
-
-	  - Code du travail - art. L513-9 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-4 (VT)
-	  - Code du travail - art. R512-5 (VT)
-	  - Code du travail - art. R512-6 (VT)
-	  - Code du travail - art. R515-2 (VT)
-
-
-###### Article R512-4
-
-Exceptionnellement dans le cas prévu dans l'article L. 513-9 [*s'il y a lieu de procéder à des élections complémentaires*] ,
-le président et le vice-président peuvent être pris tous deux soit parmi les prud'hommes salariés soit parmi les prud'hommes
-employeurs, si le conseil ne se trouve composé que de conseillers appartenant à l'un ou l'autre élement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Cite**:
-
-	  - Code du travail - art. L513-9 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-5 (VT)
-
-
-###### Article R512-5
-
-Les réclamations contre l'élection des membres du bureau sont soumises à la cour d'appel [*compétence*] dans les conditions
-déterminées par l'article R. 513-13 ; elles doivent être présentées dans la quinzaine [*délai*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Cite**:
-
-	  - Code du travail - art. R513-13 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R515-2 (M)
-
-
-###### Article R512-6
-
-Si le président ou le vice-président élu refuse de se faire installer, donne sa démission ou est déclaré démissionnaire par
-application de l'article L. 514-1 et si l'une de ces éventualités se reproduit au cours d'une même année, il n'est pourvu à
-la vacance que lors du prochain renouvellement du bureau [*période*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 13
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Cite**:
-
-	  - Code du travail - art. L514-1 (M)
-
-
-###### Article R512-7
-
-Les présidents et vice-présidents de sections se réunissent chaque année [*périodicité*] pour élire parmi les premiers, dans
-les formes et conditions prescrites aux articles L. 512-4 et L. 512-5 et en respectant les conditions d'alternance prévues
-par ce dernier article, le président général du conseil, lequel est chargé des rapports avec l'administration et entre les
-sections, de l'administration intérieure et de la discipline.
-
-Ils nomment également selon les mêmes règles d'alternance un vice-président général.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Cite**:
-
-	  - Code du travail - art. L512-4 (M)
-	  - Code du travail - art. L512-5 (M)
-
-
-###### Article R512-8
-
-Il est attaché à chaque conseil un greffier en chef et, s'il y a lieu, un ou plusieurs secrétaires-greffiers. Dans les
-conseils comprenant plusieurs sections, chaque section peut être pourvue d'un greffier en chef et, au besoin, d'un ou
-plusieurs secrétaire-greffiers. Les postes de greffier en chef et de secrétaire-greffier sont créés et supprimés par décret
-rendu sur proposition du ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*831-1 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-6 (VT)
-	  - Code du travail - art. R512-9 (VT)
-
-
-###### Article R512-9
-
-Le greffier en chef assiste et tient la plume aux audiences des bureaux de conciliation et de jugement ainsi que, s'il y a
-lieu, aux audiences de référé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 15 (V)
-	  - Décret n°81-835 du 8 septembre 1981 - art. 2 (V)
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*831-1 (V)
-
-
-###### Article R512-10
-
-Les greffiers en chef et secrétaires-greffiers de conseils de prud'hommes sont nommés et mis à la retraite par arrêté
-préfectoral. Ils bénéficient du régime des congés et, le cas échéant, du régime d'assurance des fonctionnaires du département
-où ils exercent leurs fonctions.
-
-Le cumul des fonctions de notaire, d'huissier, de greffier d'une part, et de celles de greffier en chef du conseil de
-prud'hommes, d'autre part, est possible sous les réserves qui sont fixées par le décret prévu à l'article L. 512-7.
-
-Dans les conseils ou sections de conseils où il n'existe pas de secrétaire-greffier, le greffier en chef peut être, en cas
-d'empêchement, suppléé par un ancien conseiller prud'homme ou un ancien greffier en chef du conseil de prud'hommes désigné
-par le bureau de conciliation ou le bureau de jugement, ou à défaut, par le greffier du tribunal d'instance dont le ressort
-comprend la commune où siège le conseil.
-
-Les conditions d'indemnisation ou greffier en chef ainsi désigné sont fixées par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
-
-	**Cite**:
-
-	  - Code du travail - art. L512-7 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R51-11-1 (Ab)
-
-
-###### Article R512-11
-
-L'honorariat peut être conféré par décret aux anciens présidents et aux anciens membres des conseils de prud'hommes ayant
-exercé leurs fonctions pendant douze ans [*durée*] .
-
-Le décret prévu à l'alinéa précédent est pris sur la proposition du tribunal de grande instance [*compétence*] après avis du
-conseil de prud'hommes, chacune de ces juridictions statuant en assemblée générale.
-
-L'honorariat peut être retiré suivant la même procédure.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
-
-
-###### Article R512-12
-
-Les membres honoraires d'un conseil de prud'hommes peuvent assister aux audiences d'installation et, avec voix consultative,
-aux assemblées générales de ce conseil.
-
-Ils peuvent porter auxdites audiences et assemblées générales ainsi que dans les cérémonies publiques l'insigne [*médaille en
-argent*] prévu à l'article R. 514-3.
-
-Les anciens conseillers prud'hommes admis à l'honorariat ne peuvent en faire mention ni dans la publicité ou la
-correspondance commerciale, ni dans les actes de procédure ou les actes extra-judiciaires [*interdiction*] ; en toute autre
-circonstance ils ne peuvent faire état de cette distinction sans préciser le conseil de prud'hommes au titre duquel elle leur
-a été conférée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 20
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-11 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. R514-3 (M)
 
 
 #### ELECTION DES PRUD'HOMMES
@@ -52621,110 +52208,21 @@ ledit article est fixé dans ce cas par un arrêté préfectoral.
 	  - Code du travail - art. R513-1 (M)
 
 
-#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DU REFERE.
-
-###### Article R515-1
-
-Le bureau de conciliation est composé d'un prud'homme salarié et d'un prud'homme employeur. Le règlement particulier de
-chaque section établit un roulement entre tous les prud'hommes salariés et tous les prud'hommes employeurs.
-
-La présidence appartient alternativement au salarié et à l'employeur, suivant un roulement établi par ledit règlement.
-
-Celui des deux qui préside le bureau le premier est désigné par le sort.
-
-Exceptionnellement et dans les cas prévus à l'article L. 513-9 les deux membres composant le bureau peuvent être pris parmi
-les prud'hommes salariés ou parmi les prud'hommes employeurs si la section ne se trouve composée que d'un seul collège.
-
-Les séances du bureau de conciliation ont lieu au moins une fois par semaine [*périodicité*] . Elles ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 55, 56
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L513-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R516-18 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-18 (VT)
-
-
-###### Article R515-2
-
-A défaut du président, ou du vice-président que son tour de rôle appelle à la présidence, celle-ci peut être exercée par un
-conseiller faisant partie de l'élément auquel appartient le président ou le vice-président défaillant et désigné comme
-suppléant dans les formes prévues aux articles L. 512-4, R. 512-2, L. 512-5. En l'absence de cette désignation, la présidence
-revient au conseiller le plus ancien en fonctions dans le même élément ; s'il y a égalité dans la durée des fonctions, au
-plus âge.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 57 AL. 2
-	  - Décret n°72-90 1972-01-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L512-2 (M)
-	  - Code du travail - art. L512-4 (M)
-	  - Code du travail - art. R512-5 (M)
-
-
 #### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE.
-
-###### Article R515-3
-
-Exceptionnellement dans les cas prévus à l'article L. 513-9 [*élections complémentaires*], le bureau de jugement peut
-valablement délibérer avec un nombre de membres pair et au moins égal à quatre [*quorum*], alors même qu'il ne serait pas
-formé d'un nombre égal de salariés et d'employeurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 58
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L513-9 (M)
-
-
-#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT .
 
 ###### Article R515-4
 
-L'assemblée générale du conseil de prud'hommes ou de l'une de ses sections a la faculté de décider, par voie de disposition
-générale, qu'en cas d'urgence, les mesures prévues à l'article R. 516-18 pourront être ordonnées en référé.
+Chaque conseil de prud'hommes comprend une formation de référé commune à l'ensemble des sections du conseil de prud'hommes.
 
-Dans ce cas, les audiences de référé seront tenues par un conseiller prud'homme employeur et par un conseiller prud'homme
-salarié de la section compétente désignés à cet effet par l'assemblée générale, aux jours et heures fixés par celle-ci.
+Cette formation est composée d'un prud'homme salarié et d'un prud'homme employeur.
 
-/A/Néanmoins, l'assemblée générale du conseil ou de l'une de ses sections peut décider que les audiences de référé seront
-tenues par le président du conseil de prud'hommes, par un vice-président ou par un conseiller prud'homme de la section
-compétente, désigné à cet effet.
+L'assemblée générale du conseil de prud'hommes désigne chaque année, selon les dispositions de l'article L. 512-7, les
+conseillers prud'hommes employeurs et les conseillers prud'hommes salariés appelés à tenir les audiences de référé. Le nombre
+des conseillers prud'hommes ainsi désignés doit être suffisant pour assurer, selon un roulement établi par le règlement
+intérieur du conseil de prud'hommes, le service des audiences de référé.
 
-L'assemblée générale peut également décider que les audiences de référé seront tenues par le juge départiteur/A/Conseil
-d'Etat 11-02-1977// .
+La présidence des audiences de référé est assurée alternativement par un conseiller prud'homme employeur et par un conseiller
+prud'homme salarié dans les conditions fixées par le règlement intérieur.
 
 **Liens relatifs à cet article**
 
@@ -52738,14 +52236,9 @@ d'Etat 11-02-1977// .
 	  - Décret n°82-1073 du 15 décembre 1982 - art. 35 (V)
 	  - Code du travail - art. R512-5 (VT)
 
-	**Anciens textes**:
-
-	  - Code du travail - art. R515-5 (Ab)
-	  - Code du travail R515-5, R515-6 (1973)
-
 	**Cite**:
 
-	  - Code du travail - art. R516-18 (M)
+	  - Code du travail - art. L512-7 (M)
 
 	**Liens**:
 
@@ -52753,79 +52246,6 @@ d'Etat 11-02-1977// .
 
 
 #### PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES
-
-###### Article R516-39
-
-Les exceptions de procédure doivent être, à peine d'irrecevabilité, soulevées avant toute défense au fond ou fin de non-
-recevoir. Elles peuvent, sous cette réserve, être encore soulevées devant le bureau de jugement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-38 (V)
-	  - Code du travail R516-38 (1979)
-
-
-###### Article R516-40
-
-Le conseiller rapporteur ou le bureau de jugement peut ordonner [*pouvoirs*] toutes mesures nécessaires à la conservation des
-preuves ou des objets litigieux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-39 (V)
-	  - Code du travail R516-39 (1979)
-
-
-###### Article R516-41
-
-En cas de partage des voix, l'affaire est renvoyée à une audience ultérieure du bureau de conciliation, du bureau de jugement
-ou de la formation de référé, présidée par le juge départiteur, et qui doit [*obligation*] être tenue dans le mois du renvoi.
-
-Le juge départiteur est le juge du tribunal d'instance dans le ressort duquel siège le conseil de prud'hommes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R516-40 (M)
-	  - Code du travail R516-40 (1979)
-
-
-###### Article R516-42
-
-En cas de conciliation et sauf exécution immédiate, des extraits du procès-verbal peuvent être délivrés. Ils valent titre
-exécutoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R51-11-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail R516-41 (1979)
-
 
 ###### Article R516-44
 
@@ -53404,37 +52824,6 @@ préavis dans la même limite.
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
-
-
-#### COMPETENCE DES CONSEILS DE PRUD'HOMMES .
-
-###### Article R517-2
-
-Lorsque le conseil est divisé en sections, la section compétente est déterminée par le genre de travail, quel que soit la
-nature de l'établissement.
-
-Toutefois les litiges entre employeurs et salariés exerçant des professions de nature autre qu'industrielle ou commerciale
-sont, sous réserve des dispositions de l'article L. 511-5 (dernier alinéa)[*gens de maison*], portés soit devant la section
-agricole, soit devant la section des professions diverses suivant la nature de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°79-1022 du 23 novembre 1979 - art. 19 (V)
-	  - Décret n°82-1073 du 15 décembre 1982 - art. 37 (V)
-
-	**Cite**:
-
-	  - Code du travail L511-5 DERNIER AL.
-
-	**Anciens textes**:
-
-	  - Code du travail R517-1 (1973)
 
 
 #### OUVERTURE DES VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES .
@@ -86382,90 +85771,236 @@ l'occasion d'une demande de licenciement pour cause économique fourni les rense
 
 #### Conseils de prud'hommes
 
-##### Chapitre IV : Statut des conseillers prud'hommes.
+##### Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 
-###### Article R514-1
+###### Article R51-11-1
 
-Chaque conseil de prud'hommes prépare en assemblée générale un règlement intérieur.
+Sans préjudice des dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle concernant les
+conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles R512-2, R512-10, R516-1 à
+R516-7,
 
-Ce règlement n'est exécutoire qu'après approbation [*condition préalable*] par le ministre de la justice, et, en ce qui
-concerne les attributions administratives et consultatives du conseil,
+R516-33 à R516-35, R516-42, R517-1, R517-3 à R517-5, R517-6 (2e alinéa) et R517-7 à R517-10 sont applicables dans ces trois
+départements.
 
-par le ministre chargé du travail.
+Dans ces mêmes départements, le président du conseil de prud'hommes dispose, en référé, des pouvoirs prévus aux articles
+R516-30 et R516-31. Lorsqu'il n'existe pas de conseil de prud'hommes dans la circonscription d'un tribunal d'instance,
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 36
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R514-2
-
-Les conseils de prud'hommes se réunissent en assemblée générale, à la demande, soit de l'autorité supérieure, soit de la
-moitié plus un des membres en exercice, ou lorsque le président le juge utile. Le procès-verbal de l'assemblée générale est
-transmis dans la quinzaine [*délai*] , par le président, au ministre de la justice, et, s'il y a lieu, au ministre chargé du
-travail.
+ces pouvoirs sont exercés par le juge de ce tribunal d'instance [*compétence*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°58-1292 1958-12-22 ART. 37
+	  - SPEC_APPLI: Décret n°82-1073 1982-12-15 ART. 41 : Les dispositions du chapitre XI du titre I du livre V du Code du travail sont abrogées à compter de la date prévue à l'article 42 de la loi du 6 mai 1982 susvisée *15 janvier 1983*
+	  - TXT_ASSOCIE: Code du travail - art. L51-11-1 (M)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R514-3
-
-Les membres des conseils de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
-en sautoir, une médaille signe de leurs fonctions. Cette médaille est en vermeil pour le président du conseil de prud'hommes
-et, à l'audience, pour le président du bureau de jugement ; elle est en argent pour les autres conseillers. D'un module de 65
-mm, elle porte à l'avers une tête symbolisant la République, placée de profil, tournée à droite et entourée de la mention
-République française.
-
-Au moyen d'une attache d'une largeur de 75 mm portant des rameaux de laurier et d'olivier, la médaille est suspendue à un
-ruban d'une largeur de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°82-1073 1982-12-15 ART. 41 JORF 15 DECEMBRE 1982
 
 	**Cité par**:
 
-	  - Code du travail - art. R512-12 (M)
+	  - Décret n°82-1073 du 15 décembre 1982 - art. 42 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R512-10 (M)
+	  - Code du travail - art. R512-2 (M)
+	  - Code du travail - art. R516-30 (M)
+	  - Code du travail - art. R516-31 (M)
+	  - Code du travail - art. R516-42 (M)
+	  - Code du travail - art. R517-1 (Ab)
+	  - Code du travail - art. R517-6 (Ab)
+	  - Code du travail R512-2, R512-10, R516-1 A R516-7, R516-33 A R516-35, R516-42
 
 
-##### Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions
+##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
-##### Section 1 : Compétence.
+##### Section 1 : Organisation et fonctionnement de la juridiction.
 
-###### Article R517-1
+###### Article R512-3
 
-Le conseil de prud'hommes territorialement compétent pour connaître d'un litige est celui dans le ressort duquel est situé
-l'établissement ou est effectué le travail.
+La réunion des conseillers prud'hommes en assemblée générale,
 
-Si le travail est effectué en dehors de tout établissement , la demande est portée devant le conseil de prud'hommes du
-domicile du salarié.
+en assemblée de section et, le cas échéant, en assemblée de chambre, mentionnées à l'article L. 512-7, a lieu chaque année
+pendant le mois de janvier dans l'ordre fixé ci-après [*date*] :
 
-Le salarié peut toujours saisir le conseil de prud'hommes du lieu où l'engagement a été contracté ou celui du lieu où
-l'employeur est établi.
+1° L'assemblée générale du conseil de prud'hommes élit, dans les formes et conditions prescrites aux articles L. 512-7 à L.
+512-9, le président et le vice-président du conseil de prud'hommes.
 
-Toute clause qui directement ou indirectement déroge aux dispositions qui précèdent est réputée non écrite.
+L'élection du président et du vice-président de la juridiction doit précéder l'audience solennelle tenue au conseil de
+prud'hommes en application de l'article R. 711-2 du code de l'organisation judiciaire ;
+
+2° L'assemblée de chaque section élit le président et le vice-président de section ;
+
+3° Lorsque plusieurs chambres ont été constituées au sein d'une même section en application de l'article L. 512-3,
+
+l'assemblée de chambre élit le président et le vice-président de la chambre.
+
+Le procès-verbal de ces assemblées est adressé dans les quarante-huit heures au procureur général de la cour d'appel
+[*autorité compétente*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°65-1187 1965-12-20 ART. 8
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire R711-2
+	  - Code du travail - art. L512-3 (M)
+	  - Code du travail - art. L512-7 (M)
+	  - Code du travail - art. L512-8 (AbD)
+	  - Code du travail - art. L512-9 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-4 (VT)
+	  - Code du travail - art. R512-5 (VT)
+	  - Code du travail - art. R512-6 (VT)
+	  - Code du travail - art. R515-2 (VT)
+
+
+###### Article R512-6
+
+Si un président ou un vice-président élu refuse de se faire installer, donne sa démission ou est déclaré démissionnaire par
+application de l'article L. 514-11 et si l'une de ces éventualités se reproduit au cours d'une même année, il n'est pourvu à
+la vacance que lors du renouvellement annuel prévu à l'article R. 512-3 [*date*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L514-11 (M)
+	  - Code du travail - art. R512-3 (M)
+
+
+###### Article R512-8
+
+Le conseil de prud'hommes se réunit en assemblée générale,
+
+à la demande soit du premier président de la cour d'appel,
+
+soit de la majorité des membres en exercice, soit lorsque le président ou le vice-président le jugent utile [*conditions
+quorum*]. Le procès-verbal de l'assemblée générale, établi par le greffier en chef sous la responsabilité du président, est
+transmis dans la quinzaine [*délai*], par le président, au garde des sceaux, ministre de la justice, et au ministre chargé du
+travail [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*831-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-6 (VT)
+	  - Code du travail - art. R512-9 (VT)
+
+
+### Titre Ier : Conflits individuels - Conseils de prud'hommes
+
+#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.
+
+###### Article R511-1
+
+Avant la création, la suppression, la modification du ressort ou le transfert du siège d'un conseil de prud'hommes, le
+ministre chargé du travail doit publier au Journal officiel un avis indiquant [*mentions obligatoires*] :
+
+a) Le siège du conseil à créer ou à supprimer ou en cas de transfert le nouveau siège du conseil ;
+
+b) L'étendue de la compétence territoriale du conseil à créer et du ou des conseils dont le ressort est affecté par la
+création, la suppression ou la modification envisagée ;
+
+c) L'effectif des conseillers des différentes sections du conseil à créer ou dont l'organisation doit être modifiée.
+
+L'avis invite les organismes et les autorités énumérés à l'article L. 511-3 à faire connaître au ministre chargé du travail
+[*autorité compétente*], dans le délai de trois mois, leurs observations et avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R511-2
+
+Le décret d'institution du conseil de prud'hommes fixe le siège et le ressort du conseil et indique la date à laquelle il
+sera procédé à l'élection des conseillers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
+
+##### Section 1 : Organisation et fonctionnement de la juridiction.
+
+###### Article R512-4
+
+En cas de création de chambre, l'assemblée de chambre procède à l'élection du président et du vice-président de chambre, sans
+attendre l'époque fixée à l'article R. 512-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1423-14 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R512-3
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-5 (VT)
+
+
+###### Article R512-7
+
+Outre les attributions prévues à l'article L. 515-4, le président du conseil de prud'hommes assure l'administration et la
+discipline intérieure de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R512-10
+
+L'honorariat peut être conféré par arrêté du garde des sceaux, ministre de la justice, aux anciens présidents et aux anciens
+membres des conseils de prud'hommes ayant exercé leurs fonctions pendant douze ans [*durée*].
+
+L'arrêté prévu à l'alinéa précédent est pris sur la proposition du président du tribunal de grande instance [*autorité
+compétente*] dans le ressort duquel est situé le siège du conseil, après avis de l'assemblée générale du conseil de
+prud'hommes.
+
+L'honorariat peut être retiré suivant la même procédure.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -86475,12 +86010,167 @@ Toute clause qui directement ou indirectement déroge aux dispositions qui préc
 
 	  - Code du travail - art. R51-11-1 (Ab)
 
-	**Cite**:
 
-	  - Code du travail R519-6 ET R519-7
+###### Article R512-11
+
+Les membres honoraires d'un conseil de prud'hommes peuvent assister, aux côtés des membres de la juridiction, aux audiences
+d'installation et à l'audience solennelle prévue à l'article R. 711-2 du code de l'organisation judiciaire.
+
+Ils peuvent porter auxdites audiences et dans les cérémonies publiques l'insigne prévu à l'article R. 512-12.
+
+Les anciens conseillers prud'hommes admis à l'honorariat ne peuvent en faire mention ni dans la publicité ou la
+correspondance commerciale, ni dans les actes de procédure ou les actes extra-judiciaires ; en toute autre circonstance ils
+ne peuvent faire état de cette distinction sans préciser le conseil de prud'hommes au titre duquel elle leur a été conférée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
 
 
-### Titre Ier : Conflits individuels - Conseils de prud'hommes
+###### Article R512-12
+
+Les membres du conseil de prud'hommes portent, soit à l'audience, soit dans les cérémonies publiques, suspendue à un ruban,
+en sautoir, une médaille signe de leurs fonctions. Cette médaille est en bronze doré pour le président du conseil de
+prud'hommes et, à l'audience, pour le président du bureau de jugement ; elle est en bronze argenté [*matière*] pour les
+autres conseillers. D'un module de 65 mm, elle porte à l'avers la mention République française et une tête symbolisant la
+République, placée de profil, tournée à droite.
+
+Au moyen d'une attache d'une largeur de 75 mm portant un rameau d'olivier, la médaille est suspendue à un ruban d'une largeur
+de 75 mm, divisé dans le sens vertical en deux parties égales, rouge et bleue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R422-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-11 (VT)
+
+
+###### Article R512-13
+
+Le premier président de la cour d'appel et le procureur général procèdent à l'inspection des conseils de prud'hommes de leur
+ressort.
+
+Ils s'assurent, chacun en ce qui le concerne, de la bonne administration des services judiciaires et de l'expédition normale
+des affaires ; ils peuvent respectivement déléguer ces pouvoirs pour des actes déterminés à des magistrats du siège ou du
+parquet placés sous leur autorité.
+
+Ils rendent compte chaque année au garde des sceaux, ministre de la justice, des constatations qu'ils ont faites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R851-1 (M)
+
+
+###### Article R512-14
+
+Lorsqu'une des sections d'un conseil de prud'hommes ne peut se constituer ou ne peut fonctionner pour quelque cause que ce
+soit, le premier président de la cour d'appel [*autorité compétente*], saisi sur requête du procureur général, désigne la
+section correspondante d'un autre conseil de prud'hommes ou, à défaut, un tribunal d'instance, pour connaître des affaires
+inscrites au rôle de la section ou dont cette dernière aurait dû être ultérieurement saisie.
+
+Lorsque la section du conseil de prud'hommes est de nouveau en mesure de fonctionner, le premier président de la cour
+d'appel, saisi dans les mêmes conditions, constate cet état de fait et fixe la date à compter de laquelle les affaires
+doivent être à nouveau portées devant cette section. La section du conseil de prud'hommes ou le tribunal d'instance désigné
+par le premier président demeure cependant saisi des affaires qui lui ont été soumises en application de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
+
+###### Article R515-1
+
+Le bureau de conciliation est composé d'un prud'homme salarié et d'un prud'homme employeur. Le règlement particulier de
+chaque section établit un roulement entre tous les prud'hommes salariés et tous les prud'hommes employeurs.
+
+La présidence appartient alternativement au salarié et à l'employeur, suivant un roulement établi par ledit règlement.
+
+Celui des deux qui préside le bureau le premier est désigné par le sort.
+
+Exceptionnellement et dans les cas prévus à l'article L. 513-8 les deux membres composant le bureau peuvent être pris parmi
+les prud'hommes salariés ou parmi les prud'hommes employeurs si la section ne se trouve composée que d'un seul collège.
+
+Les séances du bureau de conciliation ont lieu au moins une fois par semaine [*périodicité*] . Elles ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 55, 56
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R516-18 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-18 (VT)
+
+
+###### Article R515-2
+
+A défaut du président, ou du vice-président que son tour de rôle appelle à la présidence, celle-ci peut être exercée par un
+conseiller faisant partie de l'élément auquel appartient le président ou le vice-président défaillant et désigné comme
+suppléant dans les formes prévues aux articles L. 512-7, R. 512-3, L. 512-8. En l'absence de cette désignation, la présidence
+revient au conseiller le plus ancien en fonctions dans le même élément ; s'il y a égalité dans la durée des fonctions, au
+plus âgé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 57 AL. 2
+	  - Décret n°72-90 1972-01-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R515-3
+
+Exceptionnellement dans les cas prévus à l'article L. 513-8 [*élections complémentaires*], le bureau de jugement peut
+valablement délibérer avec un nombre de membres pair et au moins égal à quatre [*quorum*], alors même qu'il ne serait pas
+formé d'un nombre égal de salariés et d'employeurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 58
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
 
 #### Chapitre VI : Procédure devant les conseils de prud'hommes.
 
@@ -86677,6 +86367,152 @@ dispositions du deuxième alinéa de l'article R. 516-8.
 	  - Code du travail - art. R516-8
 
 
+##### Section 5 : Le conseiller rapporteur.
+
+###### Article R516-22
+
+Le conseiller rapporteur est un conseiller prud'homme. Il peut faire partie de la formation de jugement.
+
+Lorsque deux conseillers rapporteurs sont désignés dans la même affaire, ils doivent être l'un employeur, l'autre salarié.
+Ils procèdent ensemble à leur mission.
+
+**Nota:**
+
+(1) Par décisions n° 97 407,97 408 et 97 413 en date du 11 février 1977 (J.O. du 26 avril 1977), le Conseil d'Etat statuant
+au contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résultent de l'article 4 du décret du 12
+septembre 1974, en tant qu'ils permettent à un conseiller rapporteur unique de prendre des mesures de caractère
+juridictionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-21 (M)
+	  - Code du travail - art. R516-22 (VT)
+	  - Code du travail - art. R516-23 (VT)
+	  - Code du travail - art. R516-24 (VT)
+	  - Code du travail - art. R516-25 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R516-21 A R516-25
+
+
+###### Article R516-23
+
+Le conseiller [*prud'homme*] rapporteur peut entendre les parties.
+
+Il peut les inviter à fournir les explications qu'il estime nécessaires à la solution du litige et les mettre en demeure de
+produire dans le délai qu'il détermine tous documents ou justifications propres à éclairer le conseil de prud'hommes faute de
+quoi il peut passer outre et renvoyer l'affaire devant le bureau de jugement qui tirera toute conséquence de l'abstension de
+la partie ou de son refus. Il peut entendre toute personne dont l'audition paraît utile à la manifestation de la vérité,
+ainsi que procéder lui-même ou faire procéder à toutes mesures d'instruction.
+
+**Nota:**
+
+Par décisions n° 97 407,97 408 et 97 413 en date du 11 février 1977 (J.O. du 26 avril 1977), le Conseil d'Etat statuant au
+contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résultent de l'article 4 du décret du 12 septembre
+1974, en tant qu'ils permettent à un conseiller rapporteur unique de prendre des mesures de caractère juridictionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-21 (M)
+	  - Code du travail - art. R516-22 (VT)
+	  - Code du travail - art. R516-23 (VT)
+	  - Code du travail - art. R516-24 (VT)
+	  - Code du travail - art. R516-25 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R516-21 A R516-25
+
+
+###### Article R516-24
+
+Si les parties se concilient, même partiellement, le conseiller rapporteur constate dans un procès-verbal la teneur de
+l'accord intervenu.
+
+Nota - Par décisions n° 97 407, 97 408 et 97 413 en date du 11 février 1977 (J.O. du 26 avril 1977), le Conseil d'Etat
+statuant au contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résultent de l'article 4 du décret du 12
+septembre 1974, en tant qu'ils permettent à un conseiller rapporteur unique de prendre des mesures de caractère
+juridictionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-5 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R516-21
+	  - Décret n°1974-09-12 ART. 4
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-22 (VT)
+	  - Code du travail - art. R516-23 (VT)
+	  - Code du travail - art. R516-24 (VT)
+	  - Code du travail - art. R516-25 (VT)
+
+
+###### Article R516-25
+
+Les décisions prises par le conseiller rapporteur sont toujours provisoires et n'ont pas autorité de chose jugée au
+principal. Elles sont immédiatement exécutoires, et ne peuvent faire l'objet d'un recours qu'avec le jugement sur le fond
+sous réserve des règles particulières à l'expertise.
+
+**Nota:**
+
+Par décisions n° 97 407,97 408 et 97 413 en date du 11 février 1977 (J.O. du 26 avril 1977), le Conseil d'Etat statuant au
+contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résultent de l'article 4 du décret du 12 septembre
+1974, en tant qu'ils permettent à un conseiller rapporteur unique de prendre des mesures de caractère juridictionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-6 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-21 (M)
+	  - Code du travail - art. R516-22 (VT)
+	  - Code du travail - art. R516-23 (VT)
+	  - Code du travail - art. R516-24 (VT)
+	  - Code du travail - art. R516-25 (VT)
+
+	**Cite**:
+
+	  - Décret n°1974-09-12 ART. 4
+
+
 ##### Section 6 : Le jugement.
 
 ###### Article R516-28
@@ -86714,7 +86550,114 @@ Les conseils de prud'hommes ne connaissent pas de l'exécution forcée de leurs 
 	  - Code du travail - art. R1454-27 (V)
 
 
+##### Section 9 : Dispositions générales et diverses.
+
+###### Article R516-38
+
+Les exceptions de procédure doivent être, à peine d'irrecevabilité, soulevées avant toute défense au fond ou fin de non-
+recevoir [*époque*]. Elles peuvent, sous cette réserve, être encore soulevées devant le bureau de jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R516-39 (M)
+
+
+###### Article R516-39
+
+Le conseiller rapporteur ou le bureau de jugement peut ordonner toutes mesures nécessaires à la conservation des preuves ou
+des objets litigieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R516-38 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R516-40 (M)
+
+
+###### Article R516-43
+
+Dans tous les cas où, en vertu des dispositions législatives en vigueur, un tribunal d'instance est appelé à statuer en
+matière prud'homale, les demandes sont formées, instruites et jugées conformément aux règles établies par le présent titre.
+En cas de recours, il est procédé comme en matière prud'homale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R516-13 (M)
+
+
 #### Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions
+
+##### Section 1 : Compétence.
+
+###### Article R517-1
+
+Le conseil de prud'hommes territorialement compétent pour connaître d'un litige est celui dans le ressort duquel est situé
+l'établissement ou est effectué le travail.
+
+Si le travail est effectué en dehors de tout établissement ou à domicile, la demande est portée devant le conseil de
+prud'hommes du domicile du salarié.
+
+Le salarié peut toujours saisir le conseil de prud'hommes du lieu où l'engagement a été contracté ou celui du lieu où
+l'employeur est établi.
+
+Toute clause qui directement ou indirectement déroge aux dispositions qui précèdent est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-1187 1965-12-20 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R51-11-1 (Ab)
+
+
+###### Article R517-2
+
+Les affaires sont réparties entre les sections du conseil de prud'hommes en fonction des règles prévues à l'article L. 512-2
+et régissant l'appartenance des salariés aux différentes sections.
+
+En cas de difficulté ou de contestation relatives à la connaissance d'une affaire par une section, et quel que soit le stade
+de la procédure auquel survient cette difficulté ou cette contestation, le dossier est transmis au président du conseil de
+prud'hommes [*autorité compétente*], qui, après avis du vice-président, renvoie l'affaire à la section qu'il désigne par une
+ordonnance non susceptible de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-1022 du 23 novembre 1979 - art. 19 (V)
+	  - Décret n°82-1073 du 15 décembre 1982 - art. 37 (V)
+
 
 ##### Section 2 : Ouverture des voies de recours.
 
