@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-07-06 00:00:01 +0200
+Version Consolidée au 1979-07-12
 
 # Partie législative ancienne
 
@@ -61867,6 +61867,95 @@ présent paragraphe.
 
 	  - Code du travail - art. R212-4 (M)
 	  - Code du travail R212-8 A R212-9
+
+
+##### B - Dispositions concernant la procédure d'autorisation des heures supplémentaires.
+
+###### Article R212-11
+
+Les décisions qui sont prises en vertu du premier alinéa de l'article L. 212-7 après les consultations définies audit alinéa
+doivent être notifiées dans les quinze jours suivant le dépôt de la demande. A défaut d'une notification dans ce délai,
+l'autorisation est réputée accordée [*accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-540 1981-05-12 ART. 1 : TRANSFERE L'ARTICLE R212-10 EN R212-11
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L212-7 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R212-11-1 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail R212-10 (1981)
+
+
+###### Article R212-11-1
+
+Les recours hiérarchiques dirigés contre les décisions prévues à l'article R. 212-11 sont portés devant le directeur régional
+du travail et de l'emploi [*compétence*].
+
+Ces recours doivent, à peine de forclusion, être présentés dans les quinze jours suivant la notification des décisions
+contestées [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-540 1981-05-12 ART. 1 : TRANSFERE L'ARTICLE R212-10-1 EN R212-11-1
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R212-11 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R212-11-2 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail R212-10-1 (1981)
+
+
+###### Article R212-11-2
+
+Lorsqu'il statue sur les recours prévus à l'article R. 212-11-1, le directeur régional du travail et de l'emploi se prononce
+en tenant compte notamment de la situation de l'emploi [*critères*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-540 1981-05-12 ART. 1 : TRANSFERE L'ARTICLE R212-10-2 EN R212-11-2
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R212-11-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail R212-10-2 (1981)
 
 
 ##### C - Dispositions communes.
