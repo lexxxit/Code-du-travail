@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-09-15
+Version Consolidée au 1974-09-15 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -74351,9 +74351,13 @@ révélé que postérieurement à la saisine du conseil de prud'hommes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1452-6 (VT)
 
 
 ### Titre II : Conflits collectifs
