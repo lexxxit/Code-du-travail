@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-19
+Version Consolidée au 1979-01-19 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -35442,67 +35442,6 @@ domicile du demandeur dans le même ressort de cour d'appel ou, à défaut, deva
 	  - Code du travail - art. L1423-11 (VD)
 
 
-#### ELECTION DES PRUD'HOMMES
-
-##### ELECTORAT .
-
-###### Article L513-3-1
-
-Par dérogation aux dispositions des articles L. 513-1,
-
-L. 513-2 et L. 513-3 ci-dessus, les ressortissants étrangers peuvent participer aux élections des conseillers prud'hommes
-s'ils remplissent les conditions autres que celle de nationalité, prévues par les articles précités [*inscrits sur listes
-électorales, exercer une profession depuis trois ans (ancienneté)*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L513-1 (M)
-	  - Code du travail - art. L513-2 (M)
-	  - Code du travail - art. L513-3 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. L513-5 (M)
-	  - Code du travail - art. R513-33 (VT)
-	  - Code du travail - art. R513-37 (VT)
-	  - Code du travail - art. R513-50 (VT)
-
-
-##### SCRUTIN, INSTALLATION DES PRUDHOMMES
-
-##### ELECTIONS COMPLEMENTAIRES.
-
-###### Article L513-10
-
-Les règles établies par les articles L. 10, L. 61, L. 87, L. 113, L. 114 et L. 115 du code électoral s'appliquent aux
-opérations électorales pour les conseils de prudhommes.
-
-Les dispositions de l'article L. 86 dudit code sont en outre applicables à toute personne qui aura réclamé et obtenu une
-inscription sur deux ou plusieurs listes électorales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code électoral - art. L10 (V)
-	  - Code électoral - art. L113 (M)
-	  - Code électoral - art. L114 (V)
-	  - Code électoral - art. L115 (Ab)
-	  - Code électoral - art. L61 (V)
-	  - Code électoral - art. L86 (M)
-	  - Code électoral - art. L87 (V)
-
-
 #### ELECTION DES CONSEILLERS PRUD'HOMMES
 
 ##### ELIGIBILITE.
@@ -35734,46 +35673,6 @@ inscription sur deux ou plusieurs listes électorales.
 	  - Code du travail - art. R512-4 (M)
 	  - Code du travail - art. R515-1 (M)
 	  - Code du travail - art. R515-3 (M)
-
-
-#### DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
-
-###### Article L514-14
-
-Les conseils de prud'hommes ou leurs sections peuvent être dissous par décret rendu sur la proposition du ministre de la
-justice [*conditions de forme*.
-
-Dans ce cas les élections générales doivent avoir lieu dans le délai de deux mois à partir de la date du décret de
-dissolution *]point de départ*.
-
-Jusqu'à l'installation du nouveau conseil ou de la nouvelle section, les litiges sont portés devant le tribunal d'instance du
-domicile du défendeur.
-
-En cas de dissolution d'une section ou d'un conseil,
-
-les secrétaires et secrétaires adjoints sont maintenus dans leurs fonctions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 53
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1442-15 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-6 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R514-1 A R514-6
 
 
 #### STATUT DES CONSEILLERS PRUD'HOMMES
@@ -55563,40 +55462,32 @@ greffiers des tribunaux d'instance.
 
 	**Codifié par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier 1979
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. R519-2 (Ab)
 
-	**Anciens textes**:
-
-	  - Code du travail 2 al. 3
-
 
 ###### Article R111-2
 
-Le contrat d'apprentissage conclu sous seing privé est établi en quatre exemplaires au moins [*condition de forme*], signés
-par les deux parties ; un pour le maître, un pour l'apprenti ou, s'il est mineur, pour son représentant légal, un pour le
-directeur départemental du travail et de la main-d'oeuvre, le quatrième devant être remis au maire qui l'adresse en franchise
-au greffier en chef du conseil de prud'hommes ou, à défaut, au greffier du tribunal d'instance du domicile du maître.
+Le contrat d'apprentissage conclu sous seing privé est établi en quatre exemplaires au moins, signés par les deux parties ;
+un pour le maître, un pour l'apprenti ou, s'il est mineur, pour son représentant légal, un pour le directeur départemental du
+travail et de la main-d'oeuvre, le quatrième devant être remis au maire qui l'adresse en franchise au greffier en chef du
+conseil de prud'hommes ou, à défaut, au greffier du tribunal d'instance du domicile du maître.
 
 L'acte sous seing privé acquiert date certaine par le visa qu'y appose le maire ou, à défaut, le secrétaire du conseil de
 prud'hommes ou le greffier du tribunal d'instance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier 1979
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R111-3
