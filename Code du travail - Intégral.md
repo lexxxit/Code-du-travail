@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-09-26
+Version Consolidée au 1975-09-26 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -87412,15 +87412,22 @@ médecins dont le rôle est limité aux opérations définies à l'article L. 77
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L771-8
+	  - Code du travail - art. L771-9
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. L771-9 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. R773-2 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R7214-9 (Ab)
 
 	**Cité par**:
 
@@ -87434,14 +87441,22 @@ II du code du travail relatives à la médecine du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail
+	  - Code du travail - art. R773-1
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R7214-10 (Ab)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R773-1 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
 
 
 ###### Article R773-3
@@ -87453,13 +87468,17 @@ selon que ladite surveillance présente pour eux un caractère principal ou acce
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. L771-8
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R7214-3 (Ab)
 
 
 ###### Article R773-4
@@ -87472,17 +87491,23 @@ Cette affiliation doit être demandée dans le délai [*obligatoire*] d'un mois 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L771-8
+	  - Code du travail - art. L772-1
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R7214-5 (V)
+	  - Code du travail - art. R7214-6 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. R773-9 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
 
 
 ###### Article R773-5
@@ -87494,13 +87519,17 @@ médicale et qui n'entre en vigueur qu'après approbation par le directeur régi
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. L771-8
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R7214-4 (V)
 
 
 ###### Article R773-6
@@ -87513,13 +87542,14 @@ travail et ne peut dès lors justifier une réduction de la rémunération due e
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. R7214-7 (V)
+	  - Code du travail - art. R7214-8 (V)
 
 
 ##### Section 2 : Examens médicaux.
@@ -87531,13 +87561,14 @@ après.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail
+	  - Code du travail - art. L771-8
 
 
 ###### Article R773-8
@@ -87552,13 +87583,14 @@ son emploi.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. R7214-11 (Ab)
+	  - Code du travail - art. R7214-14 (Ab)
 
 
 ###### Article R773-9
@@ -87576,13 +87608,19 @@ l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. R7214-12 (Ab)
+	  - Code du travail - art. R7214-13 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. R773-10
+	  - Code du travail - art. R773-4
 
 
 ###### Article R773-10
@@ -87628,13 +87666,13 @@ lors de visites antérieures.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. R7214-16 (Ab)
 
 
 ###### Article R773-12
@@ -87644,13 +87682,13 @@ travail pour raisons médicales a excédé trois semaines [*durée*].
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R797-1 (M)
+	  - Code du travail - art. R7214-15 (Ab)
 
 
 ### Titre IX : Pénalités
@@ -94926,10 +94964,6 @@ et de faire procéder à tous essais que la commission d'homologation juge néce
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cité par**:
 
 	  - Décret n°81-170 du 20 février 1981 - art. 38 (Ab)
@@ -94941,6 +94975,14 @@ et de faire procéder à tous essais que la commission d'homologation juge néce
 	  - Décret n°81-410 du 15 avril 1981 - art. 13 (Ab)
 	  - Décret n°81-411 du 15 avril 1981 - art. 15 (Ab)
 	  - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail
 
 	**Liens**:
 
@@ -95040,10 +95082,6 @@ Les références visées aux paragraphes 1. et 2. ci-dessus doivent être inscri
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cité par**:
 
 	  - Décret n°81-170 du 20 février 1981 - art. 38 (Ab)
@@ -95055,6 +95093,14 @@ Les références visées aux paragraphes 1. et 2. ci-dessus doivent être inscri
 	  - Décret n°81-410 du 15 avril 1981 - art. 13 (Ab)
 	  - Décret n°81-411 du 15 avril 1981 - art. 15 (Ab)
 	  - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail
 
 
 ###### Article D233-8
@@ -95077,10 +95123,6 @@ an.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cité par**:
 
 	  - Décret n°81-170 du 20 février 1981 - art. 38 (Ab)
@@ -95092,6 +95134,10 @@ an.
 	  - Décret n°81-410 du 15 avril 1981 - art. 13 (Ab)
 	  - Décret n°81-411 du 15 avril 1981 - art. 15 (Ab)
 	  - Décret n°81-938 du 13 octobre 1981 - art. 30 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article D233-9
