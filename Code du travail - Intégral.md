@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-07-18
+Version Consolidée au 1976-08-12
 
 # Partie législative ancienne
 
@@ -94843,6 +94843,276 @@ suspendue pour cette catégorie :
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R3122-7 (V)
+
+
+##### Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.
+
+###### Article D212-5
+
+Les dispositions de la présente section sont applicables aux travailleurs des entreprises qui ne relèvent pas d'un accord
+conclu en ce domaine entre des organisations professionnelles et syndicales les plus représentatives sur le plan national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D212-10 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-11 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-12 (T)
+	  - TXT_ASSOCIE: Code du travail - art. D212-6 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-7 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D744-1 (V)
+
+
+###### Article D212-6
+
+Le repos compensateur prévu à l'article L. 212-5-1 doit être pris en dehors de la période du 1er juillet au 31 août
+[*limite*] et ne peut être accolé au congé annuel payé, que celui-ci soit pris en une ou plusieurs fois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D212-10 (M)
+	  - TXT_ASSOCIE: Code du travail - art. D212-12 (T)
+	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-9 (V)
+	  - TXT_ASSOCIE: Code du travail - art. L212-5-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. D212-10 (VT)
+	  - Code du travail - art. D212-11 (VT)
+	  - Code du travail - art. D212-12 (T)
+	  - Code du travail - art. D212-9 (VT)
+
+
+###### Article D212-7
+
+La demande du bénéfice du repos compensateur doit être formulée au moins une semaine à l'avance.
+
+Elle doit préciser la date et la durée du repos.
+
+Dans les sept jours [*obligations*] suivant la réception de la demande, l'employeur doit faire connaître à l'intéressé, soit
+son accord, soit, après consultation des délégués du personnel, les raisons relevant d'impératifs liés au fonctionnement de
+l'entreprise ou de l'exploitation qui motivent le report de la demande.
+
+Dans ce dernier cas, l'employeur doit proposer au salarié une autre date à l'intérieur du délai de deux mois prévu à
+l'article D. 212-9 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
+
+
+###### Article D212-8
+
+Lorsque des impératifs liés au fonctionnement de l'entreprise ou de l'exploitation font obstacle à ce que plusieurs demandes
+soient simultanément satisfaites, les demandeurs sont départagés, selon l'ordre de priorité ci-après :
+
+Demandes déjà différées ;
+
+Situation de famille ;
+
+Ancienneté dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D212-10 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3121-12 (V)
+
+
+###### Article D212-9
+
+En tout état de cause, la durée pendant laquelle le repos peut être différé par l'employeur ne peut excéder deux mois.
+
+Toutefois, dans le cas où ce délai aurait pour effet de reporter le repos à l'intérieur de la période fixée à l'article D.
+212-6, il se trouve suspendu dès l'ouverture de cette période pour recommencer à courir au terme de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D212-10 (VT)
+	  - Code du travail - art. D212-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. D212-6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D212-6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3121-13 (V)
+
+
+###### Article D212-10
+
+Sous réserve des dispositions des articles D. 212-6, D. 212-8 et D. 212-9, le repos compensateur doit obligatoirement être
+pris dans un délai maximum de deux mois suivant l'ouverture du droit.
+
+Le droit au repos compensateur est réputé ouvert dès que la durée de ce repos, calculée suivant les modalités prévues à
+l'article L. 212-5-1, atteint huit heures [*durée*] .
+
+Toutefois, lorsque l'application des dispositions ci-dessus aurait pour effet de situer le repos à l'intérieur de la période
+fixée à l'article D. 212-6, le délai prévu au premier alinéa du présent article se trouve suspendu dès l'ouverture de cette
+période pour recommencer à courir au terme de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D212-11 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-6 (V)
+	  - TXT_ASSOCIE: Code du travail - art. L212-5-1 (M)
+
+	**Cité par**:
+
+	  - Décret n°2001-1202 du 17 décembre 2001 - art. 1 (V)
+	  - Code du travail - art. D212-11 (Ab)
+	  - Code du travail - art. D212-22 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. D212-6 (V)
+	  - Code du travail - art. L212-5-1 (M)
+	  - Code du travail D212-6, D212-8 ET D212-9
+
+
+###### Article D212-11
+
+Le salarié est tenu régulièrement informé à compter du 1er septembre 1976 [*date-point de départ*] de ses droits acquis en
+matière de repos compensateur sur son bulletin de paie ou sur une fiche annexée au bulletin qui indique le nombre d'heures de
+repos portées au crédit de l'intéressé. Dès que ce nombre atteint huit heures, elle comporte en outre une mention notifiant
+l'ouverture du droit et rappelant le délai fixé à l'article D. 212-10 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°83-40 du 26 janvier 1983 - art. 10 (M)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 8 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D212-10 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°92-1323 du 18 décembre 1992 - art. 1 () JORF 19 décembre 1992
+
+	**Cite**:
+
+	  - Code du travail - art. D212-10 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D212-12 (T)
+
+
+###### Article D212-12
+
+Dans les établissements où l'activité présente des variations saisonnières importantes [*conditions*] , il peut être
+substitué à la période prévue à l'article D. 212-6, après avis du comité d'entreprise ou, à défaut, des délégués du
+personnel, une autre période, dont la durée ne doit pas excéder deux mois, déterminée en fonction des exigences de
+fonctionnements propres à l'établissement. Cette procédure peut être mise en oeuvre, au choix de l'employeur, soit au niveau
+de l'établissement, soit au niveau de l'entreprise.
+
+L'employeur est tenu d'en aviser l'inspecteur du travail dans un délai de deux semaines [*obligations*] .
+
+Toutefois, lorsque les conditions de fonctionnement de l'établissement présentent des particularités de nature à justifier
+une dérogation à la durée maximum de deux mois prévue au premier alinéa du présent article, l'employeur peut en adresser la
+demande à l'inspecteur du travail qui la transmet au directeur du travail.
+
+Cette demande doit être motivée et accompagnée de l'avis du comité d'entreprise ou, à défaut, de celui des délégués du
+personnel.    Le directeur du travail prend sa décision au vu d'un rapport établi par l'inspecteur du travail indiquant,
+notamment, si la situation de l'établissement est de nature à justifier l'octroi de la dérogation sollicitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. D212-6 (V)
+
+	**Cité par**:
+
+	  - Décret n°2000-118 du 14 février 2000 - art. 6 (V)
+	  - Code du travail - art. D212-14 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D212-11 (Ab)
+	  - Code du travail - art. D212-11 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D212-13 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. D212-6 (V)
 
 
 ### Titre II : Repos et congés
