@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-19 00:00:01 +0100
+Version Consolidée au 1979-01-21
 
 # Partie législative ancienne
 
@@ -77679,10 +77679,127 @@ chargé des anciens combattants et victimes de guerre.
 	  - Loi  1924-04-26 art. 3 (PARTIE)
 
 
+###### Article R323-3
+
+Tout employeur assujetti aux dispositions de l'article L. 323-2 qui a occupé pendant au moins deux mois consécutifs [*durée*]
+au cours d'une période de douze mois s'étendant du 1er avril au 31 mars, un nombre de salariés supérieur à dix ou quinze,
+suivant la distinction prévue aux alinéas 1 et 3 dudit article, est tenu d'adresser au préfet, dans la première quinzaine du
+mois d'avril, sous pli recommandé avec demande d'avis de réception, une déclaration établie en quatre exemplaires, comportant
+[*mentions obligatoires*] :
+
+1. La liste des salariés définis à l'article L. 323-1 et à l'article L. 323-4 (troisième tiret), qu'il a employés au cours
+des douze mois écoulés ;
+
+2. La nomenclature des emplois existant dans l'entreprise ou l'organisme au moment de la déclaration.
+
+3. La liste des emplois réservés aux bénéficiaires des articles L. 323-1 et L. 323-4 (troisième tiret).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-33 1956-01-13 art. 1
+	  - Décret n°70-1336 1970-12-14
+	  - Loi n°1924-04-26 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-1 (M)
+	  - Code du travail L323-2 AL. 1, 3, L323-1, L323-4 AL. 5
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-17 (P)
+	  - Code du travail - art. R323-19 (P)
+	  - Code du travail - art. R323-2 (VT)
+	  - Code du travail - art. R323-4 (M)
+	  - Code du travail - art. R323-5 (M)
+	  - Code du travail - art. R323-6 (M)
+	  - Code du travail - art. R323-7 (M)
+
+
+###### Article R323-7
+
+Les employeurs assujettis aux dispositions des articles L. 323-1 et suivants qui n'utilisent pas le nombre prescrit de
+bénéficiaires doivent faire connaître dans les quarante-huit heures par lettre recommandée avec demande d'avis de réception à
+l'agence locale ou à l'agence spécialisée de l'Agence nationale pour l'emploi toutes les vacances concernant les emplois
+réservés en vertu de l'article R. 323-6.
+
+Si une entreprise est créée en cours d'année ou si l'effectif d'une entreprise atteint en cours d'année le nombre de salariés
+fixé à l'article L. 323-2, l'obligation établie ci-dessus s'applique aux vacances affectant tous les emplois existant dans
+l'entreprise tant que l'employeur n'utilise pas le nombre prescrit de bénéficiaires et n'est pas en mesure d'établir la
+déclaration de l'article R. 323-3 et au plus tard jusqu'au 15 avril de l'année de référence.
+
+Dans les quinze jours suivant la réception de la déclaration, l'Agence nationale pour l'emploi doit adresser à l'employeur un
+bénéficiaire. A défaut de présentation dans ce délai, l'employeur reprend sa liberté d'embauchage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-1 (M)
+	  - Code du travail - art. L323-2 (M)
+	  - Code du travail - art. R323-3 (M)
+	  - Code du travail - art. R323-6 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-14 (Ab)
+	  - Code du travail - art. R323-5 (M)
+	  - Code du travail - art. R323-9 (M)
+
+
+###### Article R323-9
+
+Sous-réserve des dispositions de l'article R. 323-11 [*contestations pendant la période d'essai*], l'employeur est tenu
+d'accepter en cours d'année, dans la limite du nombre de bénéficiaires manquants et dans les emplois prévus à l'article R.
+323-7, les candidats proposés par l'Agence nationale pour l'emploi même si aucune vacance ne se produit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°85-1343 du 16 décembre 1985 - art. 2 (Ab)
+	  - Arrêté du 14 mars 1988 - art. 2 (V)
+	  - Décret n°98-1227 du 29 décembre 1998 - art. 2 (V)
+	  - Code du travail - art. D323-2-6 (VT)
+	  - Code du travail - art. R323-9-1 (VT)
+	  - Code du travail - art. R323-9-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R323-11 (M)
+	  - Code du travail - art. R323-7 (M)
+
+
 ###### Article R323-10
 
-Tout bénéficiaire présenté par le service de la main-d'oeuvre est soumis à une période d'essai dont la durée est celle fixée
-par les conventions collectives ou, à défaut, par les us et coutumes.
+Tout bénéficiaire présenté par l'agence nationale pour l'emploi est soumis à une période d'essai dont la durée est celle
+fixée par les conventions collectives ou, à défaut, par les us et coutumes.
 
 Si l'employeur refuse d'embaucher à l'essai le bénéficiaire,
 
@@ -77702,15 +77819,15 @@ bénéficier de l'exonération [*de la redevance*] prévue à l'article R. 323-1
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, à l'exception des mots, au deuxième alinéa, "après avoir pris l'accord de l'inspecteur des lois sociales en agriculture
+
 	**Cite**:
 
 	  - Code du travail - art. L323-2 (M)
 	  - Code du travail - art. L323-6 (M)
 	  - Code du travail R323-15 al. 2 2
-
-	**Anciens textes**:
-
-	  - Décret n°1956-01-13 art. 5
 
 
 ###### Article R323-11
@@ -77880,15 +77997,20 @@ Toute fausse déclaration entraîne [*sanction*] le paiement du double de la red
 
 ###### Article R323-16
 
-Le défaut de paiement du salaire tel qu'il est déterminé en application de l'article L. 325-5 l'article L. 323-5 donne lieu
-[*sanction*] à la charge de l'employeur contrevenant au paiement d'une redevance égale au double de la différence entre le
-salaire effectivement payé et le salaire dû en application des dispositions dudit article [*montant, calcul*].
+Le défaut de paiement du salaire tel qu'il est déterminé en application de l'article L. 323-5 donne lieu *sanction* à la
+charge de l'employeur contrevenant au paiement d'une redevance égale au double de la différence entre le salaire
+effectivement payé et le salaire dû en application des dispositions dudit article *montant, calcul*.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - PEREMPTION: Décret n°88-76 1988-01-22 art. 1 JORF 23 janvier 1988
 
 	**Cite**:
 
@@ -77899,9 +78021,50 @@ salaire effectivement payé et le salaire dû en application des dispositions du
 
 	  - Code du travail - art. R323-13 (P)
 
-	**Anciens textes**:
 
-	  - Décret  1959-08-03 art. 3 Al. final
+###### Article R323-17
+
+Dans le courant du deuxième trimestre de chaque année et au vue des décisions prises l'année précédente par la commission
+départementale de contrôle en application de l'article R. 323-13 le préfet examine la situation de chaque entreprise ou
+organisme d'après les déclarations prévues à l'article R. 323-3 et les renseignements fournis par la direction départementale
+du travail et de la main-d'oeuvre.
+
+Lors de cet examen il est tenu compte, au bénéfice du chef d'entreprise de l'emploi des travailleurs [*victimes civiles de
+guerre, mutilés du travail, handicapé*] définis à l'article R. 323-15, chacun d'eux étant susceptible de compter en
+remplacement d'un bénéficiaire manquant.
+
+Il est également tenu compte de l'exonération dont peut bénéficier, en application de l'article R. 323-15, l'employeur qui a
+adressé dans les délais les nomenclature et liste prévues aux 2° et 3° de l'article R. 323-3. Toutefois, le bénéfice de cette
+exonération, qui vaut jusqu'au 31 mars [*date limite*] de la période considérée, ne peut être accordé dans les cas suivants :
+
+a) Défaut de déclaration de vacance concernant un emploi réservé, à partir du jour où la vacance s'est produite.
+
+b) Refus d'embaucher un candidat bénéficiaire présenté par le service chargé du placement pour le nombre de jours qu'aurait
+dû effectuer dans l'entreprise le candidat refusé, à moins que le motif du refus ne soit reconnu justifié dans les conditions
+prévues à l'article R. 321-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - PEREMPTION: Décret n°88-76 1988-01-22 art. 1 JORF 23 janvier 1988
+
+	**Cite**:
+
+	  - Code du travail - art. R321-10 (M)
+	  - Code du travail - art. R323-13 (P)
+	  - Code du travail - art. R323-14 (Ab)
+	  - Code du travail - art. R323-15 (P)
+	  - Code du travail - art. R323-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-18 (P)
 
 
 ###### Article R323-18
@@ -78163,27 +78326,54 @@ qualité de travailleur handicapé en application de l'article L. 323-10 et clas
 
 L'employeur qui n'a pas occupé le nombre prescrit de bénéficiaires doit compléter la déclaration prévue à l'article R. 323-3
 par la liste des salariés ouvrant droit à une réduction de la redevance en exécution de l'article R. 323-15 (alinéa 3) et
-employés pendant la période couverte par cette déclaration, avec toutes précisions utiles *mentions obligatoires*, notamment
-sur leur titre de pension ou sur la date de la décision de la commission d'orientation des infirmes relative à la
-reconnaissance de la qualité de handicapé physique au sens de l'article L. 323-10, la période d'emploi, le poste de travail
-occupé et le salaire perçu.
+employés pendant la période couverte par cette déclaration, avec toutes précisions utiles [*mentions obligatoires*],
+notamment sur leur titre de pension ou sur la date de la décision de la commission technique d'orientation et de reclassement
+professionnel relative à la reconnaissance de la qualité de handicapé physique au sens de l'article L. 323-10, la période
+d'emploi, le poste de travail occupé et le salaire perçu.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-33 1956-01-13 art. 2
-	  - Décret n°70-1336 1970-12-14
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 	**Cite**:
 
 	  - Code du travail - art. L323-10 (M)
 	  - Code du travail - art. R323-3 (M)
 	  - Code du travail R323-3, R323-15 AL. 3
+
+
+###### Article R323-5
+
+L'envoi de la déclaration prévue à l'article R. 323-3 vaut offre d'emploi pour le nombre de bénéficiaires manquant dans
+l'entreprise ou l'organisme.
+
+Cette offre s'applique à la période de douze mois suivant la notification de l'accord défini à l'article R. 323-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-17 (M)
+	  - Code du travail - art. R323-91 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R323-3 (M)
+	  - Code du travail - art. R323-6 (M)
 
 
 ### Titre IV : MAIN-D'OEUVRE ETRANGERE
@@ -79229,230 +79419,39 @@ de l'emploi [*point de départ*] .
 
 ##### OBLIGATIONS DES EMPLOYEURS .
 
-###### Article R323-5
-
-L'envoi de la nomenclature prévue à l'article R. 323-3 (2.) vaut offre d'emploi jusqu'au 31 mars [*date limite*] de l'année
-suivante pour le nombre de bénéficiaires manquant éventuellement dans l'entreprise ou l'organisme sous réserve du respect des
-dispositions de l'article R. 323-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-33 1956-01-13 ART. 1, 2. (FIN)
-	  - Décret n°70-1336 1970-12-14
-
-	**Cité par**:
-
-	  - Code du travail - art. R323-17 (M)
-	  - Code du travail - art. R323-91 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. R323-7 (M)
-	  - Code du travail R323-3 PAR. 2, R323-7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ###### Article R323-6
 
-Au vu de la déclaration prévue à l'article R. 323-3 le préfet détermine des emplois pour lesquels il se réserve de présenter
-à l'employeur des candidats au cours des douze mois [*période*] à venir.
+Les employeurs assujettis aux dispositions des articles L. 323-1 et suivants sont tenus de réserver certains emplois au
+profit des bénéficiaires de ces dispositions, après consultation du médecin du travail et avis du comité d'entreprise ou, à
+défaut, des délégués du personnel.
 
-Un exemplaire de la déclaration, complétée par l'indication de ces emplois est renvoyée à l'employeur par le préfet.
+Les réservations ainsi opérées font l'objet de la liste prévue au 3° de l'article R. 323-3.
+
+Les réservations ne deviennent définitives qu'après accord [*condition*] du directeur départemental du travail et de l'emploi
+qui dispose d'un délai de trois mois à compter de la date limite d'envoi de la déclaration annuelle pour notifier à
+l'employeur soit son accord, soit les modifications qu'il apporte à la liste proposée.
+
+En l'absence de notification dans le délai susindiqué, la liste proposée par l'employeur est regardée comme approuvée
+[*accord tacite*].
+
+L'employeur fait connaître, selon le cas, au comité d'entreprise ou aux délégués du personnel les modifications apportées par
+le directeur départemental du travail et de l'emploi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°56-33 1956-01-13 ART. 9
-	  - Décret n°70-1336 1970-12-14
-	  - Loi n°1924-04-26 ART. 5
+	  - Décret n°73-1048 1973-11-15
 
 	**Cite**:
 
 	  - Code du travail - art. R323-3 (M)
+	  - Code du travail L323-1 ET S.
 
 	**Cité par**:
 
 	  - Code du travail - art. R323-5 (M)
 	  - Code du travail - art. R323-7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R323-7
-
-Les employeurs qui, assujettis aux dispositions des articles L. 323-1 et suivants n'utilisant pas le nombre prescrit de
-bénéficiaires doivent faire connaître dans les quarante huit heures [*délai*] par lettre recommandée avec avis de réception
-au service de la main-d'oeuvre toutes les vacances d'emploi qui se produisent dans les catégories professionnelles réservées
-en vertu de l'article R. 323-6.
-
-Si une entreprise est créée en cours d'année ou si l'effectif d'une entreprise atteint en cours d'année le nombre de salariés
-fixé à l'article L. 323-2 [*condition*] l'obligation édictée ci-dessus s'applique aux vacances d'emploi de toutes les
-catégories professionnelles tant que le chef d'entreprise n'utilise pas le nombre prescrit de bénéficiaires et n'est pas en
-mesure d'établir la nomenclature de l'article R. 323-3, et au plus tard jusqu'au 15 avril [*date limite*] de la période de
-référence.
-
-Dans un délai de huit jours francs à dater de la réception de la déclaration le service de la main-d'oeuvre doit adresser à
-l'employeur un bénéficiaire. A défaut de présentation dans ce délai, l'employeur reprend sa liberté d'embauchage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L323-1 (M)
-	  - Code du travail - art. L323-2 (M)
-	  - Code du travail - art. R323-3 (M)
-	  - Code du travail - art. R323-6 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R323-14 (Ab)
-	  - Code du travail - art. R323-5 (M)
-	  - Code du travail - art. R323-9 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1959-08-03 ART. 2
-	  - Décret n°70-1337 1970-12-14 ART. 1
-
-
-###### Article R323-8
-
-Le service de main-d'oeuvre lorsqu'il recueille l'inscription d'un demandeur d'emploi bénéficiaire des dispositions de la
-présente section doit inviter l'intéressé à fournir des justifications sur sa qualité de prioritaire.
-
-La fiche établie au nom de l'intéressé mentionne les justifications fournies et est complétée le cas échéant, par les
-résultats d'examens médicaux et psychotechniques qu'il peut être invité à subir.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1956-01-13 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail R323-1 A R323-23
-
-
-###### Article R323-9
-
-Sous réserve des dispositions de l'article R. 323-11 [*contestations pendant la période d'essai*], l'employeur est tenu
-d'accepter en cours d'année, dans la limite du nombre de bénéficiaires manquants et dans les catégories d'emplois prévues à
-l'article R. 323-7, les candidats proposés par le service de la main-d'oeuvre même si aucune vacance ne se produit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°85-1343 du 16 décembre 1985 - art. 2 (Ab)
-	  - Arrêté du 14 mars 1988 - art. 2 (V)
-	  - Décret n°98-1227 du 29 décembre 1998 - art. 2 (V)
-	  - Code du travail - art. D323-2-6 (VT)
-	  - Code du travail - art. R323-9-1 (VT)
-	  - Code du travail - art. R323-9-2 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. R323-11 (M)
-	  - Code du travail - art. R323-7 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1956-01-13 ART. 4
-
-
-###### Article R323-14
-
-Toutes les déclarations de vacance d'emploi souscrites par un même employeur en application de l'article R. 323-7 sont
-consignées sur le feuillet intercalaire annexé à la fiche "employeur" du fichier général.
-
-Tous les feuillets intercalaires sont arrêtés le 31 décembre [*date limite*] de chaque année et centralisés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°56-33 1956-01-13 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R323-17 (P)
-
-	**Cite**:
-
-	  - Code du travail - art. R323-7 (M)
-
-
-##### REGIME DE REDEVANCES .
-
-###### Article R323-17
-
-Dans le courant du deuxième trimestre de chaque année et au vu des décisions prises l'année précédente par la commission
-départementale de contrôle en application de l'article R. 323-14,
-
-le préfet examine la situation de chaque entreprise ou organisme d'après les déclarations prévues à l'article R. 323-3 et les
-renseignements fournis par la direction départementale du travail et de la main-d'oeuvre.
-
-Lors de cet examen il est tenu compte, au bénéfice du chef d'entreprise de l'emploi des travailleurs [*victimes civiles de
-guerre, mutilés du travail, handicapé*] définis à l'article R. 323-15, chacun d'eux étant susceptible de compter en
-remplacement d'un bénéficiaire manquant.
-
-Il est également tenu compte de l'exonération dont peut bénéficier, en application de l'article R. 323-15, l'employeur qui a
-adressé dans les délais la nomenclature prévue à l'article R. 323-5. Toutefois, le bénéfice de cette exonération, qui vaut
-jusqu'au 31 mars [*date limite*] de la période considérée, ne peut être accordé dans les cas suivants :
-
-a) Défaut de déclaration de vacance d'emploi dans une catégorie réservée, à partir du jour où le vacance s'est produite ;
-
-b) Refus d'embaucher un candidat bénéficiaire présenté par le service chargé du placement pour le nombre de jours qu'aurait
-dû effectuer dans l'entreprise le candidat refusé, à moins que le motif du refus ne soit reconnu justifié dans les conditions
-prévues à l'article R. 321-10.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1956-01-13 ART. 12
-	  - Décret n°70-1336 1970-12-14 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R321-10 (M)
-	  - Code du travail - art. R323-14 (Ab)
-	  - Code du travail - art. R323-15 (P)
-	  - Code du travail - art. R323-3 (M)
-	  - Code du travail - art. R323-5 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R323-18 (P)
 
 
 #### TRAVAILLEURS HANDICAPES .
@@ -79836,18 +79835,7 @@ maximum global, les bénéficiaires des deux régimes en cause pouvant être dan
 
 ###### Article R323-44
 
-Les services de l'emploi sont chargés du placement des handicapés. Ces services utilisent les techniques de placement propres
-à procurer au travailleur handicapé l'emploi auquel il est physiquement et professionnellement apte et suivent l'adaptation
-de celui-ci à son travail.
-
-Le travailleur handicapé doit [*obligation*] demander son inscription au service de l'emploi dont il relève.
-
-Lorsque, par suite d'une affection ou d'un accident réduisant ses capacités professionnelles, une personne est en traitement
-dans un établissement de soins, il appartient à cet établissement de demander, en accord avec l'intéressé ou son représentant
-légal, son inscription auprès du service de l'emploi du lieu de résidence.
-
-En outre, les organismes ou institutions chargés de l'application de la législation dont bénéficie l'intéressé peuvent
-provoquer cette inscription.
+L'Agence nationale pour l'emploi est chargée du placement des handicapés.
 
 **Liens relatifs à cet article**
 
@@ -79855,13 +79843,13 @@ provoquer cette inscription.
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cité par**:
 
 	  - Code du travail - art. R323-31 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi   1957-11-23 ART. 9
 
 
 ###### Article R323-45
@@ -80040,25 +80028,26 @@ Cette information est reprise dans le rapport prévu à l'article D. 323-3-16.
 
 ###### Article R323-51
 
-Tout chef d'entreprise ou d'organisme mentionné aux alinéas 1er, 2 et 3 de l'article L. 323-12 et assujetti à l'obligation
-d'emploi d'un pourcentage de travailleurs handicapés, en application d'un des arrêtés prévu à l'article L. 323-19 ou à
-l'obligation d'emploi d'un pourcentage de travailleurs handicapés et de mutilés de guerre dans les conditions prévues aux
-articles R. 323-22 et R. 323-43, doit adresser au préfet dans la première quinzaine du mois d'avril de chaque année une
-déclaration établie en quatre [*nombre*] exemplaires, conformément au modèle reproduit à l'annexe IV du présent code et
-comportant [*mentions obligatoires*] :
+Tout chef d'entreprise ou d'organisme mentionné aux 1°, 2° et 3° de l'article L. 323-12 et assujetti à l'obligation d'emploi
+d'un pourcentage de travailleurs handicapés en application d'un des arrêtés prévus à l'article L. 323-19 ou à l'obligation
+d'emploi d'un pourcentage de travailleurs handicapés et de mutilés de guerre dans les conditions définies aux articles R.
+323-22 et R. 323-43 doit adresser au préfet, sous pli recommandé avec demande d'avis de réception, dans la première quinzaine
+du mois d'avril de chaque année, une déclaration établie en quatre exemplaires et comportant [*mentions obligatoires*] :
 
-- la liste des salariés bénéficiaires des articles L. 323-9 et suivants et, le cas échéant, des articles L. 323-1 et suivants
-occupés pendant les douze mois précédents [*période*] ;
+1° La liste des salariés bénéficiaires des articles L. 323-9 et suivants et, le cas échéant, des articles L. 323-1 et
+suivants occupés pendant les douze mois précédents ;
 
-- la nomenclature des emplois existant dans l'entreprise au 31 mars [*date*] de l'année d'établissement de la déclaration ;
+2° La liste des salariés ouvrant droit à une réduction de la redevance par application de l'article R. 323-15 ;
 
-- la liste des salariés ouvrant droit à une réduction de la redevance en application de l'article R. 323-15.
+3° S'il y a lieu, la liste des contrats conclus au cours de l'année écoulée avec des ateliers protégés, des centres de
+distribution du travail à domicile ou des centres d'aide par le travail ainsi que toutes justifications permettant de
+calculer le nombre d'heures de travail consacrées par des travailleurs handicapés à l'exécution de ces contrats et celui des
+heures qu'aurait requises l'exécution de ces contrats dans les conditions ordinaires de production ;
 
-- //DECR.0077 17-01-1978 : S'il y a lieu, la liste des contrats conclus, au cours de l'année écoulée, avec des ateliers
-protégés, des centres de distribution de travail à domicile ou des centres d'aide par le travail, ainsi que toutes
-justifications permettant de calculer le nombre d'heures de travail consacré par les travailleurs handicapés à l'exécution de
-ces contrats et le nombre d'heures qu'aurait requises l'exécution de ces contrats dans les conditions ordinaires de
-production//.
+4° La nomenclature des emplois existant dans l'entreprise ou l'organisme au 31 mars [*date*] de l'année de la déclaration ;
+
+5° La liste des emplois réservés aux bénéficiaires des articles L. 323-9 et suivants et, le cas échéant, des articles L.
+323-1 et suivants, compte tenu s'il y a lieu des dispositions des articles L. 323-20 et R. 323-52.
 
 **Liens relatifs à cet article**
 
@@ -80075,20 +80064,19 @@ production//.
 	  - Code du travail - art. R323-54 (Ab)
 	  - Code du travail - art. R323-94 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cite**:
 
+	  - Code du travail - art. L323-12 (M)
 	  - Code du travail - art. L323-19 (Ab)
-	  - Code du travail - art. L323-9 (Ab)
+	  - Code du travail - art. L323-20 (Ab)
 	  - Code du travail - art. R323-15 (P)
 	  - Code du travail - art. R323-22 (P)
 	  - Code du travail - art. R323-43 (M)
-	  - Code du travail ANNEXE IV
-	  - Code du travail L323-1 ET S, L323-9, L323-19
-
-	**Anciens textes**:
-
-	  - Décret n°62-881 1962-07-26 ART. 24 ET ART. 25 TRANSITOIRE
-	  - Décret n°70-1338 1970-12-14
+	  - Code du travail L323-12, L323-19, L323-9 et S., L.323-1 et S., L323-20
 
 
 ###### Article R323-52
@@ -80124,9 +80112,11 @@ l'article L. 323-20 à l'obligation de réserver dans son entreprise certains em
 
 ###### Article R323-53
 
-L'un des exemplaires de la déclaration [*annuelle*] prévue aux articles R. 323-51 et R. 323-52 est renvoyé à l'employeur à
-titre d'accusé de réception avec la mention, s'il y a lieu, de la ou des réductions de délais prévus à l'article R. 323-54,
-qui lui sont accordées.
+L'envoi de la déclaration prévue à l'article R. 323-51 vaut offre d'emploi dans la limite des vacances, pour le nombre de
+bénéficiaires manquant dans l'entreprise ou l'organisme.
+
+Cette offre s'applique à la période de douze mois suivant la notification de l'accord défini à l'article R. 323-54 dans la
+mesure des vacances.
 
 **Liens relatifs à cet article**
 
@@ -80134,35 +80124,37 @@ qui lui sont accordées.
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cite**:
 
 	  - Code du travail - art. R323-51 (M)
-	  - Code du travail - art. R323-52 (M)
 	  - Code du travail - art. R323-54 (M)
 
 	**Cité par**:
 
 	  - Code du travail - art. R323-56 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°1962-07-26 ART. 27
-	  - Décret n°70-1338 1970-12-14 ART. 1
-
 
 ###### Article R323-54
 
-Tout employeur ou organisme prévu à l'article L. 323-11 et relevant des articles L. 323-18 et L. 323-19 doit [*obligation*],
+Les employeurs assujettis aux dispositions de l'article R. 323-51 sont tenus de réserver certains emplois au profit des
+bénéficiaires de ces dispositions, après consultation du médecin du travail et avis du comité d'entreprise ou, à défaut, des
+délégués du personnel.
 
-par une déclaration spéciale, signaler au service de l'emploi l'existence de toute vacance dans un emploi réservé, ainsi que
-l'existence de toute vacance dans un emploi quelconque lorsque le pourcentage des bénéficiaires n'est pas atteint dans un
-établissement.
+Les réservations ainsi opérées font l'objet de la liste prévue au 5° de l'article R. 323-51.
 
-Dans un délai de huit jours francs à dater de la réception de la déclaration le service de l'emploi présente à l'employeur ou
-organisme un travailleur handicapé.
+Ces réservations ne deviennent définitives qu'après accord [*condition*] du directeur départemental du travail et de l'emploi
+qui dispose d'un délai de trois mois à compter de la date limite d'envoi de la déclaration annuelle pour notifier à
+l'employeur soit son accord, soit les modifications qu'il apporte à la liste proposée.
 
-A défaut de présentation d'un candidat dans ce délai qui peut être éventuellement réduit par l'inspecteur du travail et de la
-main-d'oeuvre l'employeur reprend sa liberté d'embauchage.
+En l'absence de notification dans le délai susindiqué, la liste proposée par l'employeur est regardée comme approuvée
+[*accord tacite*].
+
+L'employeur fait connaître, selon le cas, au comité d'entreprise ou aux délégués du personnel les modifications apportées par
+le directeur départemental du travail et de l'emploi.
 
 **Liens relatifs à cet article**
 
@@ -80170,11 +80162,13 @@ main-d'oeuvre l'employeur reprend sa liberté d'embauchage.
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cite**:
 
-	  - Code du travail - art. L323-11 (M)
-	  - Code du travail - art. L323-18 (M)
-	  - Code du travail - art. L323-19 (Ab)
+	  - Code du travail - art. R323-51 (M)
 
 	**Cité par**:
 
@@ -80182,32 +80176,46 @@ main-d'oeuvre l'employeur reprend sa liberté d'embauchage.
 	  - Code du travail - art. R323-55 (Ab)
 	  - Code du travail - art. R323-94 (Ab)
 
-	**Anciens textes**:
-
-	  - Loi n°1957-11-23 ART. 14
-
 
 ###### Article R323-55
 
-Le service de l'emploi peut dispenser l'employeur de présenter des déclarations de vacance pour certaines catégories
-d'emploi.
+Les employeurs assujettis aux dispositions de l'article L. 323-12 (1°, 2° et 3°) qui n'utilisent pas le nombre prescrit de
+bénéficiaires doivent faire connaître dans les quarante-huit heures, par lettre recommandée avec demande d'avis de réception,
+à l'Agence nationale pour l'emploi toutes les vacances concernant les emplois réservés en vertu de l'article R. 323-54.
+
+Si une entreprise est créée en cours d'année, l'obligation établie ci-dessus s'applique aux vacances affectant tous les
+emplois existant dans l'entreprise tant que l'employeur n'utilise pas le nombre prescrit de bénéficiaires et n'est pas en
+mesure d'établir la déclaration de l'article R. 323-51 et au plus tard jusqu'au 15 avril de l'année de référence.
+
+Dans les quinze jours suivant la réception de la déclaration, l'Agence nationale pour l'emploi présente à l'employeur des
+travailleurs handicapés compte tenu du nombre des vacances à pourvoir. L'employeur est tenu [*obligation*] d'embaucher le
+candidat ainsi présenté sous réserve des dispositions de l'article L. 323-24.
+
+A défaut de présentation d'un candidat dans le délai susindiqué, qui peut être réduit par l'inspecteur du travail,
+l'employeur reprend sa liberté d'embauchage.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1962-07-26 ART. 28 AL. 2
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-12 (M)
+	  - Code du travail - art. L323-24 (M)
+	  - Code du travail - art. R323-54 (M)
+	  - Code du travail R323-54, R.323-51
 
 
 ###### Article R323-56
 
-L'employeur assujetti aux obligations [*déclaration de vacance d'emploi*] prévues à l'article R. 323-53 est tenu d'embaucher
-les candidats présentés par les services de l'emploi sous réserve des dispositions de l'article L. 323-24 [*refus pendant
-période d'essai*].
+Le directeur départemental du travail et de l'emploi peut dispenser un ou des employeurs de présenter des déclarations de
+vacance pour certains emplois. Cette dispense est communiquée à l'Agence nationale pour l'emploi.
 
 **Liens relatifs à cet article**
 
@@ -80215,35 +80223,29 @@ période d'essai*].
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Liens**:
 
-	  - Code du travail - art. L323-24 (M)
-	  - Code du travail - art. R323-53 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1962-07-26 ART. 28 AL. 1
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ###### Article R323-57
 
-L'employeur qui désire, à titre exceptionnel, bénéficier de la réduction de délai prévue au troisième alinéa de l'article R.
-323-54 doit [*condition*] la demander lors de la déclaration de vacance d'emploi. La décision est prise par l'inspecteur du
-travail et de la main-d'oeuvre.
+La réduction de délai prévue au dernier alinéa de l'article R. 353-55 doit être demandée par l'employeur dans la déclaration
+mentionnée au premier alinéa du même article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1962-07-26 ART. 29
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cite**:
 
-	  - Code du travail R323-54 AL. 3
+	  - Code du travail R353-55
 
 
 ###### Article R323-58
