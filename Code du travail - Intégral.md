@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-08-12 00:00:01 +0200
+Version Consolidée au 1976-08-17
 
 # Partie législative ancienne
 
@@ -21187,6 +21187,72 @@ combattants et victimes de guerre.
 
 ##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.
 
+###### Article L323-9
+
+L'emploi et le reclassement des personnes handicapées constituent un élément de la politique de l'emploi et sont l'objet de
+concertation notamment avec les organisations représentatives des employeurs et des travailleurs, les organismes ou
+associations de handicapés et les organismes ou associations spécialisés.
+
+Le reclassement des travailleurs handicapés comporte, outre la réadaptation fonctionnelle prévue par les textes en vigueur,
+complétée éventuellement par un réentraînement à l'effort :
+
+L'orientation ;
+
+La rééducation ou la formation professionnelle pouvant inclure, le cas échéant, un réentraînement scolaire ;
+
+Le placement.
+
+L'Etat peut consentir une aide financière aux établissements, organismes et employeurs mentionnés à l'article L. 323-12 afin
+de faciliter la mise ou la remise au travail en milieu ordinaire de production des travailleurs handicapés. Cette aide peut
+concerner, notamment, l'adaptation des machines ou des outillages, l'aménagement de postes de travail, y compris l'équipement
+individuel nécessaire aux travailleurs handicapés pour occuper ces postes, et les accès aux lieux de travail. Elle peut
+également être destinée à compenser les charges supplémentaires d'encadrement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-355 du 4 mai 1972 - art. 34-1 (VD)
+	  - Loi n°75-534 du 30 juin 1975 - art. 29 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 164 K (P)
+	  - Code du travail - art. L122-32-5 (AbD)
+	  - Code du travail - art. L133-5 (M)
+	  - Code du travail - art. L420-5 (T)
+	  - Code du travail - art. L432-3 (AbD)
+	  - Code du travail - art. L437-1 (Ab)
+	  - Code du travail - art. R323-116 (VT)
+	  - Code du travail - art. R323-117 (VT)
+	  - Code du travail - art. R323-118 (VT)
+	  - Code du travail - art. R323-119 (VT)
+	  - Code du travail - art. R323-51 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 12 () JORF 1ER JUILLET 1975 date d'entrée en vigueur le 17 AOUT 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°76-769 1976-08-09 : DIFFERE LA DATE D'ENTREE EN VIGUEUR DE L'ARTICLE 12 DE LA LOI DU 30 JUIN 1975
+	  - TXT_SOURCE: Code du travail - art. R323-116 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-117 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-118 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-119 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-120 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-121 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-122 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-123 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-124 (V)
+	  - TXT_SOURCE: Code du travail - art. R323-126 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L323-10
 
 Est considéré comme travailleur handicapé au sens de la présente section, toute personne dont les possibilités d'obtenir ou
@@ -21354,6 +21420,50 @@ inobservation porte un préjudice à l'intérêt collectif qu'elles représenten
 
 ##### SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
 
+###### Article L323-15
+
+Tout travailleur handicapé répondant aux conditions fixées ci-dessus peut bénéficier d'une réadaptation, d'une rééducation ou
+d'une formation professionnelle, soit dans un centre public ou privé institué ou agréé conformément à la législation spéciale
+dont relève l'intéressé, soit dans un centre collectif ou d'entreprise créé en vertu des dispositions législatives ou
+réglementaires relatives à la formation professionnelle soit chez un employeur dans les conditions prévues par les
+dispositions législatives et réglementaires en vigueur.
+
+Les conventions conclues en application de l'article L. 920-3 entre l'Etat et les établissements et centres de formation
+professionnelle déterminent, s'il y a lieu, les conditions d'admission en fonction des difficultés particulières rencontrées
+par les diverses catégories de travailleurs handicapés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 15 () JORF 1er juillet date d'entrée en vigueur 17 août 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°76-769 1976-08-09 JORF 17 AOUT : DIFFERE L'ENTREE EN VIGUEUR DE L'ARTICLE 15 I DE LA LOI DU 30 JUIN 1975
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code du travail - art. D121-1 (VT)
+	  - Code du travail - art. L323-18 (M)
+	  - Code du travail - art. R323-34 (M)
+	  - Code du travail - art. R323-36 (Ab)
+	  - Code du travail - art. R323-37 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L920-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi  1957-11-23 art. 5
+
+
 ###### Article L323-16
 
 Les travailleurs handicapés bénéficient des aides financières accordées aux stagiaires de la formation professionnelle et
@@ -21379,6 +21489,40 @@ législation dont il relève.
 	**Cite**:
 
 	  - Code du travail L960-1 A L960-18
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L323-17
+
+Tout établissement, tout groupe d'établissements appartenant à une même activité professionnelle, employant plus de cinq
+mille salariés doit assurer, après avis médical, le réentraînement au travail et la rééducation professionnelle des malades
+et des blessés de l'établissement ou du groupe d'établissements.
+
+Les modalités d'application du présent article et les conditions dans lesquelles les inspecteurs du travail et de la main-
+d'oeuvre peuvent mettre les chefs d'entreprise en demeure de se conformer aux prescriptions de l'alinéa précédent sont fixées
+par règlement d'administration publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 16 () JORF 1ER juillet 1975 date d'entrée en vigueur 17 AOUT 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°76-769 1976-08-09 : DIFFERE L'ENTREE EN VIGUEUR DE L'ARTICLE 16 DE LA LOI DU 30 JUIN 1975
+	  - TXT_ASSOCIE: Code du travail - art. R362-2 (V)
+	  - TXT_ASSOCIE: Code du travail R362-2 : SANCTIONS PENALES
+
+	**Cité par**:
+
+	  - Code du travail - art. L362-1 (AbD)
+	  - Code du travail - art. R323-38 (VT)
+	  - Code du travail - art. R323-39 (VT)
+	  - Code du travail - art. R362-2 (VT)
 
 	**Codifié par**:
 
@@ -22400,42 +22544,6 @@ l'article 167 du code de la famille et de l'aide sociale.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 167 (M)
-
-
-##### READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL .
-
-###### Article L323-17
-
-Tout établissement, tout groupe d'établissements appartenant à une même activité professionnelle, employant plus de cinq
-mille ouvriers doit assurer, après avis médical, le réentraînement au travail et la rééducation professionnelle des malades
-et des blessés de l'établissement ou du groupe d'établissements.
-
-Les modalités d'application du présent article et les conditions dans lesquelles les inspecteurs du travail et de la main-
-d'oeuvre peuvent mettre les chefs d'entreprise en demeure de se conformer aux prescriptions de l'alinéa précédent sont fixées
-par règlement d'administration publique.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°76-769 1976-08-09 : DIFFERE L'ENTREE EN VIGUEUR DE L'ARTICLE 16 DE LA LOI DU 30 JUIN 1975
-	  - TXT_ASSOCIE: Code du travail - art. R362-2 (V)
-	  - TXT_ASSOCIE: Code du travail R362-2 : SANCTIONS PENALES
-
-	**Cité par**:
-
-	  - Code du travail - art. L362-1 (AbD)
-	  - Code du travail - art. R323-38 (VT)
-	  - Code du travail - art. R323-39 (VT)
-	  - Code du travail - art. R362-2 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1957-11-23 ART. 7
 
 
 ##### PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .
