@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-06-10
+Version Consolidée au 1975-06-20
 
 # Partie législative ancienne
 
@@ -1576,6 +1576,37 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 19 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L121-3
+
+Est nulle et de nul effet [*sanction*] toute clause attributive de juridiction incluse dans un contrat de travail.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 81
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1221-5 (VD)
 
 	**Codifié par**:
 
@@ -4180,6 +4211,43 @@ du travail au 1er mai 2008.
 ##### Prime de transport
 
 ##### Conversion de certains avantages en nature.
+
+###### Article L142-3
+
+Une prime spéciale uniforme mensuelle de transport est allouée aux salariés employés dans les entreprises des professions
+prévues à l'article L. 142-2 et dont le lieu de travail est situé dans la première zone de la région parisienne.
+
+Sont toutefois exclus du bénéfice de cette prime ceux des salariés définis à l'alinéa précédent dont le transport est
+intégralement assuré ou remboursé par l'employeur //DECRET 493 1975-06-11 : ou qui sont logés par l'employeur// dans des
+conditions telles qu'ils ne supportent aucun frais de transport pour se rendre au lieu de leur travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1948-09-22 ART. 3
+	  - Arrêté 1948-09-28 ART. 2
+	  - Loi n°50-205 1950-02-11 ART. 2
+	  - Loi n°60-760 1960-07-30 ART. 1
+
+	**Abrogé par**:
+
+	  - Loi n°82-684 1982-08-04 ART. 6 JORF 5 août 1984 en vigueur le 1er OCTOBRE 1982 RECTIFICATIF JORF 1er NOVEMBRE 1982
+
+	**Cité par**:
+
+	  - Loi n°82-684 du 4 août 1982 - art. 6 (V)
+	  - Code du travail - art. D142-1 (VT)
+	  - Code du travail - art. R154-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L142-2 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L142-4
 
@@ -10850,6 +10918,41 @@ exercent une activité mentionnée à l'alinéa premier.
 	  - Loi n°1953-08-06 ART. 4
 
 
+###### Article L211-5
+
+Comme il est dit à l'article L. 58 du code des débits de boissons il est interdit d'employer, dans les débits de boissons à
+consommer sur place, des femmes mineures, à l'exception de celles qui appartiennent à la famille du débitant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des débits de boissons L58
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°1917-10-01 ART. 9
+	  - Loi n°1941-09-24
+	  - Loi n°74-631 1974-07-05 ART. 16 II
+
+	**Cité par**:
+
+	  - Loi n°92-675 du 17 juillet 1992 - art. 17 (V)
+	  - Code du travail - art. R211-1 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-637 du 7 juillet 2000
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4153-6 (VD)
+
+
 ##### Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes.
 
 ###### Article L211-6
@@ -12037,6 +12140,60 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 37
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L221-9
+
+Sont admis de droit à donner le repos hebdomadaire par roulement les établissements appartenant aux catégories suivantes :
+
+1. Fabrication de produits alimentaires destinés à la consommation immédiate ;
+
+2. Hôtels, restaurants et débits de boissons ;
+
+3. Débits de tabac ;
+
+4. Magasins de fleurs naturelles ;
+
+5. Hôpitaux, hospices, asiles, hôpitaux psychiatriques, maisons de retraite, dispensaires, maisons de santé, pharmacies ;
+
+6. Etablissements de bains ;
+
+7. Entreprises de journaux et d'information ;
+
+8. Entreprises de spectacles ;
+
+9. Musées et expositions ;
+
+10. Entreprises de location de chaises, de moyens de locomotion ;
+
+11. Entreprise d'éclairage et de distribution d'eau et de force motrice ;
+
+12. Entreprises de transport par terre autres que les chemins de fer ; entreprises de transport et de travail aériens ;
+
+13. Entreprises d'émission et de réception de télégraphie sans fil.
+
+Un décret en Conseil d'Etat énumère les autres catégories d'établissements qui peuvent bénéficier du droit de donner le repos
+hebdomadaire par roulement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2001-754 du 29 août 2001 - art. 1 (V)
+	  - Décret n°2001-1222 du 21 décembre 2001 - art. 1 (V)
+	  - Décret n°2003-248 du 18 mars 2003 - art. 1 (V)
+	  - Code du travail - art. L221-18 (AbD)
+	  - Code du travail - art. R221-3 (VT)
+	  - Code du travail - art. R221-4 (VT)
+	  - Code du travail - art. R221-4-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-1 : SANCTIONS PENALES
 
 	**Codifié par**:
 
@@ -13765,6 +13922,41 @@ Les fêtes légales ci-après désignées sont des jours fériés :
 	  - Loi n°1905-12-09 art. 42
 	  - Loi n°1922-10-24
 	  - Loi n°1947-04-30 art. 1
+
+
+###### Article L222-2
+
+Les jeunes travailleurs et apprentis, âgés de moins de dix-huit ans et les femmes ne peuvent être employés les jours de fête
+reconnus par la loi, même pour rangement d'atelier, dans les usines, manufactures, mines, carrières, chantiers, ateliers et
+leurs dépendances de quelque nature que ce soit, publics ou privés, laïques ou religieux, même lorsque ces établissements ont
+un caractère d'enseignement professionnel ou de bienfaisance, ainsi que dans les offices publics et ministériels les
+professions libérales, les sociétés civiles les syndicats professionnels et associations de quelque nature que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L222-4 (AbD)
+	  - Code du travail - art. L620-8 (Ab)
+	  - Code du travail - art. R226-2 (VT)
+	  - Code du travail - art. R262-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3164-6 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R262-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail 52
+	  - Loi n°1941-03-21
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L222-3
@@ -16284,61 +16476,6 @@ qu'à ceux des chemins de fer dont les repos sont réglés par des dispositions 
 
 	  - Code du travail 2030
 	  - Loi n°1941-03-21
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L221-9
-
-Sont admis de droit à donner le repos hebdomadaire par roulement les établissements appartenant aux catégories suivantes :
-
-1. Fabrication de produits alimentaires destinés à la consommation immédiate ;
-
-2. Hôtels, restaurants et débits de boissons ;
-
-3. Débits de tabac ;
-
-4. Magasins de fleurs naturelles ;
-
-5. Hôpitaux, hospices, asiles, hôpitaux psychiatriques, maisons de retraite, dispensaires, maisons de santé, pharmacies ;
-
-6. Etablissements de bains ;
-
-7. Entreprises de journaux et d'information ;
-
-8. Entreprises de spectacles ;
-
-9. Musées et expositions ;
-
-10. Entreprises de location de chaises, de moyens de locomotion ;
-
-11. Entreprise d'éclairage et de distribution d'eau et de force motrice ;
-
-12. Entreprises de transport par terre autres que les chemins de fer ; entreprises de transport et de travail aériens ;
-
-13. Entreprises d'émission et de réception de télégraphie sans fil.
-
-Un règlement d'administration publique énumère les catégories d'établissements qui, par application du présent article,
-peuvent bénéficier du droit de donner le repos hebdomadaire par roulement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°75-493 1975-06-11
-	  - Code du travail 2038 I
-
-	**Cité par**:
-
-	  - Décret n°2001-754 du 29 août 2001 - art. 1 (V)
-	  - Décret n°2001-1222 du 21 décembre 2001 - art. 1 (V)
-	  - Décret n°2003-248 du 18 mars 2003 - art. 1 (V)
-	  - Code du travail - art. L221-18 (AbD)
-	  - Code du travail - art. R221-3 (VT)
-	  - Code du travail - art. R221-4 (VT)
-	  - Code du travail - art. R221-4-1 (VT)
 
 	**Codifié par**:
 
@@ -19346,6 +19483,61 @@ et aux fonctionnaires et agents du ministère de l'agriculture désignés par d�
 
 ##### Section 2 : Travail clandestin.
 
+###### Article L324-12
+
+Les infractions aux interdictions mentionnées à l'article L. 324-9 sont constatées par les officiers et agents de police
+judiciaire, les agents de la direction générale des impôts et de la direction générale des douanes, les inspecteurs du
+travail et de la main-d'oeuvre et des inspecteurs des lois sociales en agriculture au moyen de procès-verbaux transmis
+directement au parquet.
+
+Pour effectuer cette constatation, les agents précités disposent des pouvoirs d'investigation accordés par les textes
+particuliers qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-648 1972-07-11 art. 5
+
+	**Cité par**:
+
+	  - Décret n°92-515 du 12 juin 1992 - art. 3 (V)
+	  - Loi n°98-546 du 2 juillet 1998 - art. 6 (Ab)
+	  - Loi n°2003-1199 du 18 décembre 2003 - art. 73 (V)
+	  - Décret n°2005-455 du 12 mai 2005 - art. 1 (V)
+	  - Décret n°2005-455 du 12 mai 2005 - art. 10 (V)
+	  - Décret n°2005-455 du 12 mai 2005 - art. 7 (V)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1724 quater (M)
+	  - Code de la sécurité sociale. - art. L114-19 (V)
+	  - Code de la sécurité sociale. - art. L133-4-2 (V)
+	  - Code de la sécurité sociale. - art. L243-13-1 (Ab)
+	  - Code du travail - art. L320 (AbD)
+	  - Code du travail - art. L324-11-1 (AbD)
+	  - Code du travail - art. L324-11-2 (AbD)
+	  - Code du travail - art. L324-12-1 (V)
+	  - Code du travail - art. L324-13 (AbD)
+	  - Code du travail - art. L324-13-2 (Ab)
+	  - Code du travail - art. L324-14-1 (AbD)
+	  - Code du travail - art. L325-1 (AbD)
+	  - Code du travail - art. L516-2 (AbD)
+	  - Code du travail - art. L620-3 (M)
+	  - Code du travail - art. L620-9 (VT)
+	  - Code du travail - art. R320-5 (VT)
+	  - Code du travail - art. R324-9 (VT)
+	  - Code du travail - art. R362-1 (VT)
+	  - Code du travail - art. R814-9 (VT)
+	  - Livre des procédures fiscales - art. L73 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L324-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L324-13
 
 Les agents des administrations fiscales et des organismes de sécurité sociale et de mutualité sociale agricole soumis au
@@ -20427,46 +20619,10 @@ Tout employeur [*obligations*] est tenu de notifier à cette agence toute place 
 	  - Décret n°73-1046 1973-11-15
 
 
-#### Chapitre II : PLACEMENT PRIVE
-
-##### SECTION 2 : PLACEMENT PAYANT.
-
-###### Article L312-11
-
-Il est interdit de vendre soit à l'abonnement, soit au numéro, des feuilles d'offres ou de demandes d'emploi.
-
-Sans préjudice de l'application des dispositions de l'article L. 312-4, ne sont pas considérées comme feuilles d'offres ou de
-demandes d'emploi les journaux ou périodiques qui, n'ayant manifestement pas pour objet des opérations de placement par voie
-d'annonces, insèrent les offres ou demandes d'emploi à condition qu'il ne soit pas consacré à ces offres ou demandes plus de
-la moitié de la surface du journal ou périodique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L312-4 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R361-2 (VT)
-
-	**Anciens textes**:
-
-	  - Code du travail 88
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-## PLACEMENT
-
-### SERVICE PUBLIC DU PLACEMENT .
-
 ###### Article L311-5
 
 Les dispositions qui précèdent ne portent pas atteinte à la liberté de l'embauchage direct sous réserve que celui-ci soit
-opéré en conformité, s'il y a lieu, des dispositions des articles L. 321-1 à L. 321-3 [*condition*].
+opéré en conformité, s'il y a lieu, des dispositions des articles L. 321-1 et L. 321-12 [*condition*].
 
 Sous réserve de l'application des dispositions législatives et réglementaires relatives à la réquisition civile des
 personnes, à la réintégration et à l'emploi par priorité des mobilisés et assimilés, nul employeur n'est tenu d'agréer le
@@ -20478,14 +20634,6 @@ d'emploi, nul n'est tenu d'accepter l'emploi qui lui est proposé par cette agen
 Toutefois, le motif du refus doit être notifié à l'agence.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1030 1945-05-24 ART. 8
-	  - Loi n°72-617 1972-07-05
-	  - Code du travail 1082 a
-	  - Ordonnance 1945-11-02 ART. 30
-	  - Ordonnance 1967-07-13
 
 	**Cité par**:
 
@@ -20542,6 +20690,38 @@ Toutefois, le motif du refus doit être notifié à l'agence.
 	  - Code du travail - art. L321-1 (M)
 	  - Code du travail - art. L321-2 (M)
 	  - Code du travail - art. L321-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### Chapitre II : PLACEMENT PRIVE
+
+##### SECTION 2 : PLACEMENT PAYANT.
+
+###### Article L312-11
+
+Il est interdit de vendre soit à l'abonnement, soit au numéro, des feuilles d'offres ou de demandes d'emploi.
+
+Sans préjudice de l'application des dispositions de l'article L. 312-4, ne sont pas considérées comme feuilles d'offres ou de
+demandes d'emploi les journaux ou périodiques qui, n'ayant manifestement pas pour objet des opérations de placement par voie
+d'annonces, insèrent les offres ou demandes d'emploi à condition qu'il ne soit pas consacré à ces offres ou demandes plus de
+la moitié de la surface du journal ou périodique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L312-4 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R361-2 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail 88
 
 	**Codifié par**:
 
@@ -21274,6 +21454,75 @@ pensionné pendant la période d'essai.
 	  - Loi  1924-04-26 ART. 8, ART. 9
 
 
+###### Article L323-6
+
+1.- Au chef-lieu de chaque département siège une commission départementale de contrôle composée comme suit :
+
+Le magistrat prévu à l'article L. 323-34, président ;
+
+Le directeur régional du travail et de la main-d'oeuvre ou son représentant, assisté, le cas échéant, du fonctionnaire chargé
+du contrôle des lois sociales agricoles dans l'entreprise ou l'organisme intéressé ;
+
+Un médecin ou l'un des médecins attachés au centre de rééducation professionnelle des mutilés s'il s'en trouve un dans le
+département et s'il n'en existe pas dans le département un médecin choisi par la cour d'appel ;
+
+Un représentant du service départemental de l'office national des anciens combattants et victimes de guerre ;
+
+Un des membres de la commission d'orientation des infirmes désigné par le préfet ;
+
+Un employeur et un ouvrier ou employé, tous deux pensionnés de guerre.
+
+2.- Cette commission a pour rôle :
+
+1. De statuer comme juridiction administrative sur les litiges prévus :
+
+- à l'article L. 323-5 [*salaire*] ;
+
+- à l'article L. 323-24 [*période d'essai*] lorsqu'ils intéressent des bénéficiaires de la présente section ;
+
+2. De déterminer, sauf recours du ministre du travail, les redevances dues par les assujettis qui ne se sont pas conformés
+aux dispositions de la présente section.
+
+3.- Ces redevances font l'objet de titres de perception établis par le préfet. Elles sont recouvrées suivant les règles
+applicables aux créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-954 du 3 août 1959 - art. 6, v. init.
+	  - Loi n°1924-04-26
+	  - Loi n°1957-11-23
+
+	**Cité par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 96 (V)
+	  - Code de l'action sociale et des familles - art. R243-7 (Ab)
+	  - Code du travail - art. L323-35 (Ab)
+	  - Code du travail - art. R323-10 (M)
+	  - Code du travail - art. R323-11 (M)
+	  - Code du travail - art. R323-120 (VT)
+	  - Code du travail - art. R323-121 (VT)
+	  - Code du travail - art. R323-122 (VT)
+	  - Code du travail - art. R323-126 (VT)
+	  - Code du travail - art. R323-45 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D323-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-24 (M)
+	  - Code du travail - art. L323-34 (Ab)
+	  - Code du travail - art. L323-5 (M)
+	  - Code du travail L323-1 A L323-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L323-7
 
 Les associations ayant pour objet principal la défense des intérêts des bénéficiaires de la présente section, peuvent exercer
@@ -21350,6 +21599,65 @@ combattants et victimes de guerre.
 ##### SECTION 2 : TRAVAILLEURS HANDICAPES
 
 ##### SOUS-SECTION 1 : DISPOSITIONS GENERALES.
+
+###### Article L323-12
+
+Sont assujettis aux dispositions de la présente section :
+
+1. Les établissements industriels, commerciaux, et leurs dépendances, de quelque nature qu'ils soient, artisanaux,
+coopératifs, laïques ou religieux même s'ils ont un caractère d'enseignement ou de bienfaisance ;
+
+2. Les employeurs des professions libérales, les offices publics et ministériels, les sociétés, les syndicats professionnels,
+les associations, les groupements de quelque nature que ce soit et notamment les organismes jouissant de la personnalité
+civile et de l'autonomie financière dont la majeure partie des ressources est constituée par des cotisations légalement
+obligatoires ;
+
+3. Les employeurs des professions agricoles utilisant les services des salariés définis à l'article 1144 (1. à 7., 9. et 10)
+du code rural ;
+
+4. Et selon des modalités fixées par règlement d'administration publique les administrations de l'Etat, des départements et
+des communes ainsi que les établissements publics et semi-publics, quel que soit leur caractère, les entreprises nationales,
+les sociétés d'économie mixte et les entreprises privées chargées d'un service public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 27 (Ab)
+	  - Décret n°78-392 du 17 mars 1978 - art. 1 (Ab)
+	  - Loi n°2005-102 du 11 février 2005 - art. 96 (V)
+	  - CODE DES COMMUNES. - art. L412-4 (Ab)
+	  - Code de l'action sociale et des familles - art. L243-1 (Ab)
+	  - Code du travail - art. D323-14 (Ab)
+	  - Code du travail - art. L323-19 (Ab)
+	  - Code du travail - art. L323-21 (V)
+	  - Code du travail - art. L323-24 (Ab)
+	  - Code du travail - art. L323-35 (Ab)
+	  - Code du travail - art. L323-9 (AbD)
+	  - Code du travail - art. R323-22 (P)
+	  - Code du travail - art. R323-43 (Ab)
+	  - Code du travail - art. R323-51 (Ab)
+	  - Code du travail - art. R323-55 (Ab)
+	  - Code du travail - art. R323-58-1 (Ab)
+	  - Code du travail - art. R323-59-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°87-517 1987-07-10 art. 2 3° JORF 12 juillet 1987 en vigueur le 1er janvier 1988 rectificatif JORF 19 novembre 1987
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L323-23 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L323-9 A L323-35
+	  - Code rural 1144 PAR. 1 A 7, 9 ET 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L323-13
 
@@ -21496,6 +21804,64 @@ Les caractéristiques et les conditions d'attribution desdits labels sont fixée
 	**Anciens textes**:
 
 	  - Loi   1957-11-23 ART. 25
+
+
+##### SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.
+
+###### Article L323-34
+
+Une commission départementale des handicapés statue sur les contestations nées de l'application des articles L. 323-10,
+
+L. 323-21, L. 323-23 et L. 323-24.
+
+Elle est présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel et comprend en
+outre :
+
+- le directeur régional du travail et de la main-d'oeuvre ou son représentant assisté, le cas échéant, du fonctionnaire
+chargé du contrôle des lois sociales agricoles dans l'entreprise ou l'organisme intéressé ;
+
+- un médecin, membre de la commission technique d'orientation et de reclassement professionnel désigné par le préfet ;
+
+- un représentant des employeurs et un représentant des salariés désignés par le préfet parmi les membres de la commission
+départementale de la main-d'oeuvre.
+
+Le président, si cette mesure d'instruction préparatoire lui paraît opportune, peut ordonner toute expertise utile.
+
+Les décisions de la commissions ne sont susceptibles d'aucun recours autre que celui prévu à l'article L. 323-28.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°76-478 du 2 juin 1976 - art. 4 (M)
+	  - Loi n°2005-102 du 11 février 2005 - art. 101 (V)
+	  - Code du travail - art. L323-6 (M)
+	  - Code du travail - art. L323-8-1 (AbD)
+	  - Code du travail - art. R323-33 (Ab)
+	  - Code du travail - art. R323-45 (Ab)
+	  - Code du travail - art. R323-58 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°87-517 1987-07-10 art. 2 10° JORF 12 juillet 1987 en vigueur le 1er janvier 1988 rectificatif JORF 19 novembre 1987
+
+	**Cite**:
+
+	  - Code du travail - art. L323-10 (M)
+	  - Code du travail - art. L323-21 (M)
+	  - Code du travail - art. L323-23 (Ab)
+	  - Code du travail - art. L323-24 (M)
+	  - Code du travail - art. L323-28 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L323-35 (T)
+	  - Décret n°1959-08-03 ART. 8
+	  - Loi n°1957-11-23 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ##### SECTION 2 bis : HANDICAPES SOCIAUX.
@@ -22233,62 +22599,6 @@ l'article 167 du code de la famille et de l'aide sociale.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 167 (M)
-
-
-###### Article L323-12
-
-Sont assujettis aux dispositions de la présente section :
-
-1. Les établissements industriels, commerciaux, et leurs dépendances, de quelque nature qu'ils soient, artisanaux,
-coopératifs, laïques ou religieux même s'ils ont un caractère d'enseignement ou de bienfaisance ;
-
-2. Les employeurs des professions libérales, les offices publics et ministériels, les sociétés, les syndicats professionnels,
-les associations, les groupements de quelque nature que ce soit et notamment les organismes jouissant de la personnalité
-civile et de l'autonomie financière dont la majeure partie des ressources est constituée par des cotisations légalement
-obligatoires ;
-
-3. Les employeurs des professions agricoles définies par les articles 616, 1060 (4, 5, 6 et 7), 1144, 1149, 1152 du code
-rural ;
-
-4. Et selon des modalités fixées par règlement d'administration publique les administrations de l'Etat, des départements et
-des communes ainsi que les établissements publics et semi-publics, quel que soit leur caractère, les entreprises nationales,
-les sociétés d'économie mixte et les entreprises privées chargées d'un service public.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°75-534 du 30 juin 1975 - art. 27 (Ab)
-	  - Décret n°78-392 du 17 mars 1978 - art. 1 (Ab)
-	  - Loi n°2005-102 du 11 février 2005 - art. 96 (V)
-	  - CODE DES COMMUNES. - art. L412-4 (Ab)
-	  - Code de l'action sociale et des familles - art. L243-1 (Ab)
-	  - Code du travail - art. D323-14 (Ab)
-	  - Code du travail - art. L323-19 (Ab)
-	  - Code du travail - art. L323-21 (V)
-	  - Code du travail - art. L323-24 (Ab)
-	  - Code du travail - art. L323-35 (Ab)
-	  - Code du travail - art. L323-9 (AbD)
-	  - Code du travail - art. R323-22 (P)
-	  - Code du travail - art. R323-43 (Ab)
-	  - Code du travail - art. R323-51 (Ab)
-	  - Code du travail - art. R323-55 (Ab)
-	  - Code du travail - art. R323-58-1 (Ab)
-	  - Code du travail - art. R323-59-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L323-23 (Ab)
-	  - Loi n°1957-11-23 ART. 3
-
-	**Cite**:
-
-	  - Code du travail L323-9 A L323-35
-	  - Code rural 1144 PAR. 1 A 7, 9 ET 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
 
 
 ##### READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL .
@@ -25621,6 +25931,76 @@ code du travail, soit de stipulations conventionnelles.
 
 #### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.
 
+###### Article L441-2
+
+Les contrats conclus en application de l'article L. 441-1 doivent, pour ouvrir droit aux exonérations prévues aux articles L.
+441-4 et L. 441-10 ci-après :
+
+1. Prévoir une participation de l'ensemble des travailleurs de l'entreprise sous forme :
+
+Soit d'une participation collective aux résultats ;
+
+Soit d'une participation au capital ou à une opération d'autofinancement ;
+
+Soit d'une participation à l'accroissement de la productivité ;
+
+Soit de tout autre mode de rémunération collective permettant de réaliser une association effective des travailleurs à
+l'entreprise ;
+
+2. Instituer un système d'information du personnel et de vérification des modalités d'exécution de l'accord ;
+
+3. Avoir été déposés au greffe du tribunal d'instance du lieu où ils ont été conclus ;
+
+4. Avoir été homologués par l'autorité administrative.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 1986-10-21 art. 33 : les dispositions de la présente ordonnance sont applicables au premier jour
+du premier exercice suivant, à l'exception du 4° du présent article qui est immédiatement abrogé.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+	**Cité par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 5 (T)
+	  - Décret n°92-1367 du 29 décembre 1992 - art. 1 (Ab)
+	  - Décret n°2003-1109 du 21 novembre 2003 - art. 55 (V)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 36 (V)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 38 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 (V)
+	  - Code du travail - art. L132-27 (AbD)
+	  - Code du travail - art. L441-3 (AbD)
+	  - Code du travail - art. L441-4 (Ab)
+	  - Code du travail - art. L441-5 (Ab)
+	  - Code du travail - art. L441-6 (Ab)
+	  - Code du travail - art. L441-9 (Ab)
+	  - Code du travail - art. L444-12 (Ab)
+	  - Code du travail - art. R441-1 (M)
+	  - Code du travail - art. R441-10 (Ab)
+	  - Code du travail - art. R441-4 (M)
+	  - Code du travail - art. R441-5 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L441-1 (M)
+	  - Code du travail L441-1, L441-4 ET L441-10
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R441-5 (M)
+
+
 ###### Article L441-3
 
 Tout contrat conclu en application de l'article L. 441-1 doit préciser notamment [*contenu*] :
@@ -26071,6 +26451,76 @@ premier jour du premier exercice suivant.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R442-36 (Ab)
+
+
+###### Article L442-6
+
+Par dérogation aux dispositions qui précèdent, des accords conclus dans les conditions prévues à l'article L. 442-11 peuvent
+établir un régime de participation comportant une base de calcul et des modalités différentes de celles définies aux articles
+L. 442-2, L. 442-4 et L. 442-5. Toutefois, ces accords n'entrent en vigueur et ne dispensent de l'application des règles
+définies auxdits articles que si, respectant les principes posés par le présent chapitre, ils comportent pour les salariés
+des avantages au moins équivalents et ont été homologués selon la procédure définie à l'article L. 442-17 ci-dessous.
+
+Dans les accords conclus au sein d'un groupe de sociétés, l'équivalence des avantages consentis aux salariés s'apprécie
+globalement au niveau du groupe et non entreprise par entreprise.
+
+L'application des accords mentionnés aux alinéas précédents donne lieu, s'ils ont été homologués, au bénéfice des
+dispositions des articles L. 442-8 et L. 442-9 ci-dessous.
+
+**Nota:**
+
+[*Nota - Ordonnance 86-1134 du 21 octobre 1986 art. 33 : les dispositions de la présente ordonnance sont applicables au
+premier jour du premier exercice suivant.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°68-1172 du 27 décembre 1968 - art. 62, v. init.
+	  - Ordonnance 1967-08-17 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
+
+	**Cité par**:
+
+	  - Décret n°87-948 du 26 novembre 1987 - art. 2 (M)
+	  - Décret n°87-948 du 26 novembre 1987 - art. 3 (M)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 1 (V)
+	  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
+	  - Code de la sécurité sociale. - art. L651-1 (M)
+	  - Code du travail - art. L439-1 (M)
+	  - Code du travail - art. L442-1 (AbD)
+	  - Code du travail - art. L442-10 (Ab)
+	  - Code du travail - art. L442-18 (AbD)
+	  - Code du travail - art. L442-2 (AbD)
+	  - Code du travail - art. L444-12 (Ab)
+	  - Code du travail - art. R442-19 (Ab)
+	  - Code du travail - art. R442-38 (Ab)
+	  - Code du travail - art. R442-41 (Ab)
+	  - Code du travail - art. R442-42 (Ab)
+	  - Code du travail - art. R443-1-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3324-2 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L442-11 (M)
+	  - Code du travail - art. L442-17 (Ab)
+	  - Code du travail - art. L442-4 (M)
+	  - Code du travail - art. L442-5 (M)
+	  - Code du travail - art. L442-8 (Ab)
+	  - Code du travail - art. L442-9 (Ab)
+	  - Code du travail L442-1 A L442-17
 
 
 ###### Article L442-8
@@ -28531,8 +28981,8 @@ ministériels, les professions libérales, les sociétés civiles, les syndicats
 que ce soit employant au moins cinquante salariés.
 
 Il est également constitué des comités d'entreprise dans les exploitations, entreprises et établissements agricoles et
-assimilés et dans les organismes professionnels agricoles de quelque nature qu'ils soient, mentionnés aux articles 1060 (4, 6
-et 7) 1144 (1er alinéa), 1149 et 1152 du Code rural.
+assimilés et dans les organismes professionnels agricoles de quelque nature qu'ils soient, employant les salariés définis à
+l'article 1144 (1. à 7., 9. et 10.) du code rural.
 
 Dans les entreprises employant moins de cinquante salariés, des arrêtés du ministre chargé du travail, du ministre chargé de
 l'industrie et des autres ministres intéressés déterminent soit les entreprises ou les catégories d'entreprises, soit les
@@ -28583,11 +29033,12 @@ comité d'entreprise après avis des organisations syndicales les plus représen
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L431-2 (M)
+	  - Code du travail - art. L431-3 (Ab)
 	  - Code du travail - art. L431-3 (M)
 
 	**Cite**:
 
-	  - Code rural 1144 PAR. 1 A 7, 9 ET 10, 1060, 1149 ET 1152
+	  - Code rural 1144
 
 
 ###### Article L431-2
@@ -29948,67 +30399,6 @@ nationales que si elles entrent dans le champ d'application défini au chapitre 
 	  - Code du travail L131-1 A L131-3
 
 
-###### Article L441-2
-
-Les contrats conclus en application de l'article L. 441-1 doivent, pour ouvrir droit aux exonérations prévues aux articles L.
-441-7 et L. 441-15 ci-après :
-
-1. Prévoir une participation de l'ensemble des travailleurs de l'entreprise sous forme :
-
-Soit d'une participation collective aux résultats ;
-
-Soit d'une participation au capital ou à une opération d'autofinancement ;
-
-Soit d'une participation à l'accroissement de la productivité ;
-
-Soit de tout autre mode de rémunération collective permettant de réaliser une association effective des travailleurs à
-l'entreprise ;
-
-2. Instituer un système d'information du personnel et de vérification des modalités d'exécution de l'accord ;
-
-3. Avoir été déposés au greffe du tribunal d'instance du lieu où ils ont été conclus ;
-
-4. Avoir été homologués par l'autorité administrative.
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V)
-	  - Décret n°87-544 du 17 juillet 1987 - art. 5 (T)
-	  - Décret n°92-1367 du 29 décembre 1992 - art. 1 (Ab)
-	  - Décret n°2003-1109 du 21 novembre 2003 - art. 55 (V)
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 36 (V)
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 38 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 (V)
-	  - Code du travail - art. L132-27 (AbD)
-	  - Code du travail - art. L441-3 (AbD)
-	  - Code du travail - art. L441-4 (Ab)
-	  - Code du travail - art. L441-5 (Ab)
-	  - Code du travail - art. L441-6 (Ab)
-	  - Code du travail - art. L441-9 (Ab)
-	  - Code du travail - art. L444-12 (Ab)
-	  - Code du travail - art. R441-1 (M)
-	  - Code du travail - art. R441-10 (Ab)
-	  - Code du travail - art. R441-4 (M)
-	  - Code du travail - art. R441-5 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L441-1 (M)
-	  - Code du travail L441-1, L441-4 ET L441-10
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R441-5 (M)
-
-
 #### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
 
 ##### REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .
@@ -30121,66 +30511,6 @@ pas /R/20 F par personne/R/DECR.0808 19-09-1974 : un montant fixé par décret//
 
 	  - TXT_ASSOCIE: Code du travail - art. R442-10 (Ab)
 	  - TXT_ASSOCIE: Code du travail - art. R442-9 (Ab)
-
-
-###### Article L442-6
-
-Par dérogation aux dispositions qui précèdent, des accords conclus dans les conditions prévues à l'article L. 442-1 peuvent
-établir un régime de participation comportant une base de calcul et des modalités différentes de celles définies aux articles
-L. 442-2, L. 442-4 et L. 442-5. Toutefois, ces accords n'entrent en vigueur et ne dispensent de l'application des règles
-définies auxdits articles que si, respectant les principes posés par le présent chapitre, ils comportent pour les salariés
-des avantages au moins équivalents et ont été homologués selon la procédure définie à l'article L. 442-7 ci-dessous.
-
-Dans les accords conclus au sein d'un groupe de sociétés, l'équivalence des avantages consentis aux salariés s'apprécie
-globalement au niveau du groupe et non entreprise par entreprise.
-
-L'application des accords mentionnés aux alinéas précédents donne lieu, s'ils ont été homologués, au bénéfice des
-dispositions des articles L. 442-8 et L. 442-9 ci-dessous.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-1172 du 27 décembre 1968 - art. 62, v. init.
-	  - Ordonnance 1967-08-17 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°87-948 du 26 novembre 1987 - art. 2 (M)
-	  - Décret n°87-948 du 26 novembre 1987 - art. 3 (M)
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 39 (V)
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 1 (V)
-	  - Loi n°2008-111 du 8 février 2008 - art. 5 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 bis A (M)
-	  - Code de la sécurité sociale. - art. L651-1 (M)
-	  - Code du travail - art. L439-1 (M)
-	  - Code du travail - art. L442-1 (AbD)
-	  - Code du travail - art. L442-10 (Ab)
-	  - Code du travail - art. L442-17 (Ab)
-	  - Code du travail - art. L442-18 (AbD)
-	  - Code du travail - art. L442-2 (AbD)
-	  - Code du travail - art. L444-12 (Ab)
-	  - Code du travail - art. R442-19 (Ab)
-	  - Code du travail - art. R442-38 (Ab)
-	  - Code du travail - art. R442-41 (Ab)
-	  - Code du travail - art. R442-42 (Ab)
-	  - Code du travail - art. R443-1-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3324-2 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L442-4 (M)
-	  - Code du travail - art. L442-5 (M)
-	  - Code du travail - art. L442-8 (Ab)
-	  - Code du travail - art. L442-9 (Ab)
-	  - Code du travail L442-1 A L442-17
 
 
 ###### Article L442-7
@@ -32179,6 +32509,39 @@ conseil de prud'hommes est situé à plus de cinq kilomètres du siège du tribu
 	  - TXT_ASSOCIE: Code du travail D51-10-1 ET D51-10-2
 
 
+#### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
+
+###### Article L51-11-1
+
+Sans préjudice des dispositions prévues par les décrets du 24 avril 1920 et du 16 juin 1922 concernant les conseils de
+prud'hommes industriels et les conseils de prud'hommes commerciaux d'Alsace et de Lorraine, les articles L. 513-1 à L. 513-5
+et L. 517-1 sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
+	  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L517-1 (P)
+	  - Code du travail L513-1 A L513-5, L517-1
+	  - Décret n°1920-04-24
+	  - Décret n°1922-06-16
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R51-11-1 (Ab)
+
+
 ### CONFLITS INDIVIDUELS - CONSEILS DE PRUD OMMES
 
 #### BUREAU DE CONCILIATION, BUREAU DE JUGEMENT .
@@ -33378,6 +33741,33 @@ du travail au 1er mai 2008.
 	  - Code du travail R2523-3
 
 
+###### Article L524-6
+
+Les attributions conférées par les chapitres III et IV [*conciliation, médiation*] aux directeurs régionaux et inspecteurs du
+travail et de la main-d'oeuvre sont exercées par les inspecteurs divisionnaires et les inspecteurs des lois sociales en
+agriculture en ce qui concerne les professions agricoles /M/définies par l'article 1060 du code rural/M/DECR.0493
+11-06-1975 : utilisant les services des salariés définis à l'article 1144 (1. à 7., 9. et 10.) du code rural// .
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144 PAR. 1 A 7, 9 ET 10
+	  - Code du travail L523-1 A L524-8
+
+	**Anciens textes**:
+
+	  - Loi n°50-205 1950-02-11 ART. 20
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Loi n°82-957 1982-11-13 ART. 21 JORF 14 NOVEMBRE 1982
+
+
 ###### Article L524-7
 
 Un règlement d'administration publique [*RAP*] détermine les modalités de la procédure en médiation et les conditions
@@ -33992,9 +34382,10 @@ durée des repos.
 
 ###### Article L620-7
 
-Les chefs d'établissements, directeurs ou gérants des magasins, boutiques et autres locaux visés à l'article L. 221-12 sont
-tenus de faire afficher à des endroits apparents les dispositions de cet article, ainsi que les noms et les adresses des
-inspecteurs de la circonscription.
+Les chefs d'établissement, directeurs ou gérants des magasins, boutiques et autres locaux en dépendant dans lesquels des
+marchandises et objets divers sont manutentionnés ou offerts au public par un personnel féminin sont tenus de faire afficher
+à des endroits apparents les dispositions réglementaires relatives au nombre de sièges obligatoires dans chaque salle ainsi
+que le nom et l'adresse de l'inspecteur du travail de la circonscription.
 
 **Liens relatifs à cet article**
 
@@ -34016,14 +34407,7 @@ inspecteurs de la circonscription.
 
 	  - TXT_SOURCE: Code du travail - art. D620-1 (V)
 	  - TXT_SOURCE: Code du travail - art. D620-3 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L221-12 (AbD)
-
-	**Anciens textes**:
-
-	  - Code du travail 2091
+	  - TXT_ASSOCIE: Code du travail R632-1 : SANCTIONS PENALES
 
 
 ## Livre VI : Contrôle de l'application de la législation et de la réglementation du travail
@@ -36655,35 +37039,6 @@ portant règlement d'administration publique fixera les mesures d'application de
 
 #### Chapitre Ier : Travailleurs à domicile
 
-###### Article L721-5
-
-Le travailleur à domicile qui utilise le concours d'un auxiliaire est responsable de l'application à celui-ci de l'ensemble
-des dispositions législatives et réglementaires applicables aux salariés, sous réserve de l'application de l'article L.
-124-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L124-2 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. L611-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L7413-4 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 33
-
-
 ##### Section 1 : Dispositions générales.
 
 ###### Article L721-1
@@ -36865,6 +37220,43 @@ du travail au 1er mai 2008.
 	**Cite**:
 
 	  - Code du travail L721-1 A L721-23
+
+
+###### Article L721-5
+
+Le travailleur à domicile qui utilise le concours d'un auxiliaire est responsable de l'application à celui-ci de l'ensemble
+des dispositions législatives et réglementaires applicables aux salariés, sous réserve de l'application de l'article L.
+125-2.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L125-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L611-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7413-4 (VD)
 
 
 ###### Article L721-7
@@ -42399,6 +42791,63 @@ d'outre-mer sera soumis au même régime que dans les départements métropolita
 
 ##### Section 1 : Salaire minimum de croissance.
 
+###### Article L814-1
+
+Chaque fois que le salaire minimum applicable en métropole est relevé en application des dispositions de l'article L. 141-3
+le salaire minimum de chaque département d'outre-mer est relevé à la même date et dans les mêmes proportions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-457 du 24 mai 1969 - art. 5-3 (V)
+	  - Arrêté du 30 décembre 1981 - art. 1 (P)
+	  - Arrêté du 30 décembre 1981 - art. 2 (P)
+	  - Arrêté du 30 décembre 1981 - art. 3 (P)
+	  - Arrêté du 30 décembre 1981 - art. 4 (P)
+	  - Arrêté du 30 mai 1988 - art. 1 (P)
+	  - Arrêté du 28 février 1989 - art. 1 (P)
+	  - Arrêté du 29 mars 1990 - art. 1 (P)
+	  - Arrêté du 29 novembre 1990 - art. 1 (P)
+	  - Décret n°91-769 du 2 août 1991 - art. 1 (V)
+	  - Arrêté du 27 février 1992 - art. 1 (V)
+	  - Arrêté du 26 avril 1996 - art. 1 (V)
+	  - Arrêté du 2 novembre 1981 - art. 1 (P)
+	  - Arrêté du 27 février 1987 - art. 1 (P)
+	  - Arrêté du 28 décembre 1983 - art. 1 (P)
+	  - Arrêté du 29 mars 1985 - art. 1 (P)
+	  - Arrêté du 29 septembre 1983 - art. 1 (P)
+	  - Arrêté du 30 avril 1982 - art. 1 (P)
+	  - Arrêté du 30 mai 1986 - art. 1 (P)
+	  - Arrêté du 30 octobre 1984 - art. 1 (P)
+	  - Arrêté du 31 mai 1983 - art. 1 (P)
+	  - Arrêté du 31 mai 1983 - art. 2 (P)
+	  - Code de la sécurité sociale. - art. D841-1 (Ab)
+	  - Code du travail - art. L814-3 (AbD)
+
+	**Anciens textes**:
+
+	  - Loi n°70-7 1970-01-02
+	  - Code du travail - art. L811-1 (M)
+	  - Code du travail livre 1 art 31 x g (ancien)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 29 mars 1990 - art. 1 (P)
+
+	**Cite**:
+
+	  - Code du travail - art. L141-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3423-1 (VD)
+
+
 ###### Article L814-2
 
 Le salaire minimum de croissance [*SMIC*] de chaque département d'outre-mer est fixé chaque année compte tenu de la situation
@@ -42423,6 +42872,104 @@ ministres.
 	**Cité par**:
 
 	  - Code du travail - art. L814-4 (AbD)
+
+
+###### Article L814-3
+
+En cours d'année un décret en conseil des ministres peut porter le salaire minimum de croissance de chaque département
+d'outre-mer à un niveau supérieur à celui résultant de l'application des dispositions de l'article L. 814-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3423-3 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L814-1 (M)
+
+
+###### Article L814-4
+
+Les améliorations du pouvoir d'achat ainsi intervenues en cours d'année entrent en compte pour la fixation annuelle du
+salaire minimum de croissance de chaque département d'outre-mer en application de la règle fixée à l'article L. 814-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3423-4 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L814-2 (M)
+
+
+### Titre II : Réglementation du travail
+
+#### Chapitre II : Services médicaux du travail.
+
+###### Article L822-3
+
+Suivant l'importance des entreprises, les services médicaux du travail peuvent être propres à une seule entreprise ou communs
+à plusieurs.
+
+Les dépenses afférentes aux services médicaux du travail sont à la charge des employeurs ; dans le cas de services communs à
+plusieurs entreprises, ces frais sont répartis proportionnellement au nombre des salariés.
+
+Lorsque le service médical du travail est assuré par les soins d'un groupement ou organisme distinct de l'établissement
+occupant les travailleurs bénéficiaires de ce service les responsables dudit groupement ou organisme sont soumis, dans les
+mêmes conditions que le chef d'établissement et sous les mêmes sanctions, aux prescriptions de la présente loi et des décrets
+pris pour son application.
+
+Des décrets pris sur le rapport du ministre chargé du travail et du ministre chargé des départements d'outre-mer déterminent
+les conditions d'organisation et de fonctionnement des services médicaux du travail dans chacun des départements d'outre-mer
+en ce qui concerne les entreprises mentionnées à l'article L. 822-2 autres que les entreprises de transport et les mines et
+carrières.
+
+En ce qui concerne les entreprises de transport les décrets ci-dessus prévus sont pris sur le rapport des mêmes ministres et
+du ministre chargé des travaux publics et des transports.
+
+En ce qui concerne les mines et carrières ces décrets sont pris sur le rapport des ministres énumérés au quatrième alinéa ci-
+dessus et du ministre chargé de l'industrie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-592 1948-03-30 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-285 du 30 mars 2000 - art. 5 (V) JORF 1er avril 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L822-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L882-1 (Ab)
+	  - Code du travail - art. R882-1 (VT)
+	  - Code rural - art. L717-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L882-1 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
 
 
 ### Titre III : Placement et emploi
@@ -42592,117 +43139,6 @@ tels journaux qu'il désigne, le tout aux frais du délinquant.
 
 ## DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
 
-### CONVENTIONS RELATIVES AU TRAVAIL
-
-#### SALAIRE MINIMUM DE CROISSANCE .
-
-###### Article L814-1
-
-Chaque fois que le salaire minimum applicable en métropole est relevé en application des dispositions de l'article L. 141-4
-le salaire minimum de chaque département d'outre-mer est relevé à la même date et dans les mêmes proportions.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°69-457 du 24 mai 1969 - art. 5-3 (V)
-	  - Arrêté du 30 décembre 1981 - art. 1 (P)
-	  - Arrêté du 30 décembre 1981 - art. 2 (P)
-	  - Arrêté du 30 décembre 1981 - art. 3 (P)
-	  - Arrêté du 30 décembre 1981 - art. 4 (P)
-	  - Arrêté du 30 mai 1988 - art. 1 (P)
-	  - Arrêté du 28 février 1989 - art. 1 (P)
-	  - Arrêté du 29 mars 1990 - art. 1 (P)
-	  - Arrêté du 29 novembre 1990 - art. 1 (P)
-	  - Décret n°91-769 du 2 août 1991 - art. 1 (V)
-	  - Arrêté du 27 février 1992 - art. 1 (V)
-	  - Arrêté du 26 avril 1996 - art. 1 (V)
-	  - Arrêté du 2 novembre 1981 - art. 1 (P)
-	  - Arrêté du 27 février 1987 - art. 1 (P)
-	  - Arrêté du 28 décembre 1983 - art. 1 (P)
-	  - Arrêté du 29 mars 1985 - art. 1 (P)
-	  - Arrêté du 29 septembre 1983 - art. 1 (P)
-	  - Arrêté du 30 avril 1982 - art. 1 (P)
-	  - Arrêté du 30 mai 1986 - art. 1 (P)
-	  - Arrêté du 30 octobre 1984 - art. 1 (P)
-	  - Arrêté du 31 mai 1983 - art. 1 (P)
-	  - Arrêté du 31 mai 1983 - art. 2 (P)
-	  - Code de la sécurité sociale. - art. D841-1 (Ab)
-	  - Code du travail - art. L814-3 (AbD)
-
-	**Anciens textes**:
-
-	  - Loi n°70-7 1970-01-02
-	  - Code du travail L811-1 (1973)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté du 29 mars 1990 - art. 1 (P)
-
-	**Cite**:
-
-	  - Code du travail - art. L141-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3423-1 (VD)
-
-
-###### Article L814-3
-
-En cours d'année un décret en conseil des ministres peut porter le salaire minimum de croissance [*SMIC*] de chaque
-département d'Outre-mer à un niveau supérieur à celui résultant de l'application des dispositions de l'article L. 811-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-7 1970-01-02
-	  - Code du travail L811-3 (1973)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3423-3 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L811-2 (M)
-
-
-###### Article L814-4
-
-Les améliorations du pouvoir d'achat ainsi intervenues en cours d'année entrent en compte pour la fixation annuelle du
-salaire minimum de croissance [*SMIC*] de chaque département d'outre-mer en application de la règle fixée à l'article L.
-811-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-7 1970-01-02
-	  - Code du travail L811-4 (1973)
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3423-4 (VD)
-
-	**Cite**:
-
-	  - Code du travail L811-3
-
-
 ### REGLEMENTATION DU TRAVAIL
 
 #### DUREE DU TRAVAIL .
@@ -42795,56 +43231,6 @@ Ces services sont assurés comme il est dit à l'article L. 241-2 par des médec
 	  - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
 
 
-###### Article L822-3
-
-Suivant l'importance des entreprises, les services médicaux du travail peuvent être propres à une seule entreprise ou communs
-à plusieurs.
-
-Les dépenses afférentes aux services médicaux du travail sont à la charge des employeurs ; dans le cas de services communs à
-plusieurs entreprises, ces frais sont répartis proportionnellement au nombre des salariés.
-
-Lorsque le service médical du travail est assuré par les soins d'un groupement ou organisme distinct de l'établissement
-occupant les travailleurs bénéficiaires de ce service les responsables dudit groupement ou organisme sont soumis, dans les
-mêmes conditions que le chef d'établissement et sous les mêmes sanctions, aux prescriptions de la présente loi et des décrets
-pris pour son application.
-
-Des décrets pris sur le rapport du ministre chargé du travail et du ministre chargé des départements d'outre-mer déterminent
-les conditions d'organisation et de fonctionnement des services médicaux du travail dans chacun des départements d'outre-mer
-en ce qui concerne les entreprises mentionnées à l'article L. 822-1 autres que les entreprises de transport et les mines et
-carrières.
-
-En ce qui concerne les entreprises de transport les décrets ci-dessus prévus sont pris sur le rapport des mêmes ministres et
-du ministre chargé des travaux publics et des transports.
-
-En ce qui concerne les mines et carrières ces décrets sont pris sur le rapport des ministres énumérés au quatrième alinéa ci-
-dessus et du ministre chargé de l'industrie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°48-592 1948-03-30 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L822-1 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. L882-1 (Ab)
-	  - Code du travail - art. R882-1 (VT)
-	  - Code rural - art. L717-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L882-1 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R882-1 (M)
-
-
 ### PLACEMENT ET EMPLOI
 
 #### DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
@@ -42905,6 +43291,34 @@ celle mentionnée sur ladite carte.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R883-1 (V)
+
+
+#### EMPLOI
+
+##### PROTECTION DE LA MAIN-D'OEUVRE NATIONALE .
+
+###### Article L832-1
+
+Les dispositions du chapitre II du titre IV du Livre III ne sont pas applicables [*non*] dans les départements [*outre-mer*]
+de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R881-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail L342-1 A L342-7
+
+	**Anciens textes**:
+
+	  - Décret n°48-502 1948-08-30 ART. 1 III AL. 12-2
 
 
 #### GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
@@ -95877,6 +96291,150 @@ central d'entreprise à plus de quinze titulaires et un nombre égal de suppléa
 	  - Code du travail - art. L435-5 (AbD)
 
 
+### INTERESSEMENT ET PARTICIPATION .
+
+#### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .
+
+###### Article D442-1
+
+Les entreprises sont autorisées à payer directement aux salariés les sommes leur revenant au titre de la participation
+lorsque celles-ci n'atteignent pas 50 F [*montant limite*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article D442-2
+
+Dans le cas prévu à l'article L. 442-12, les sommes inscrites en comptes courants portent intérêts au taux annuel de 5 p. 100
+à compter du premier jour du quatrième mois [*date point de départ*] suivant la clôture de l'exercice au titre duquel la
+participation est attribuée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-104 1968-01-31 ART. 1
+	  - Code du travail D440-3 (1975)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L442-12 (M)
+
+
+###### Article D442-3
+
+Le taux de l'intérêt qui, en application de l'article R. 442-28, majore le montant de la réserve spéciale de participation
+lorsque les rectifications apportées à la déclaration des résultats de l'exercice entraînent une augmentation de la
+participation des salariés est fixé à 5%.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-104 1968-01-31 ART. 2
+	  - Code du travail D440-4 (1975)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R442-28 (Ab)
+
+
+## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+
+### Titre III : Les comités d'entreprise
+
+#### Chapitre VII : Amélioration des conditions de travail.
+
+###### Article D437-1
+
+Pour l'application de l'article L. 437-3, le crédit global d'heures consacrées aux visites qui ont pour objet l'amélioration
+des conditions de travail ne peut être inférieur à dix heures par semestre dans les entreprises industrielles et dans les
+entreprises agricoles assimilables à des entreprises industrielles, n'occupant pas habituellement plus de 100 salariés
+[*effectifs*]. Au-delà de 100 salariés ce montant minimum est augmenté d'une heure par tranche supplémentaire de 100
+salariés, l'effectif total étant arrondi à la centaine la plus proche.
+
+Le montant minimum du crédit global, déterminé comme il est prévu à l'alinéa précédent, est majoré de 10 p. 100 lorsque la
+surface couverte développée par personne occupée est supérieure à 50 mètres carrés. Ce temps est arrondi à la demi-heure
+immédiatement supérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L437-3 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. D437-2 (VT)
+
+
+###### Article D437-2
+
+Dans les entreprises autres que celles visées à l'article D. 437-1, le montant minimum du crédit global est égal [*calcul*] à
+la moitié de celui fixé par application des dispositions de l'article D. 437-1 susvisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D437-3
+
+A défaut de l'accord [*visite de l'entreprise*] prévu par l'article L. 437-3, les membres titulaires du comité d'entreprise
+répartissent entre eux le crédit global d'heures, tel qu'il résulte de l'application des articles D. 437-1 et D. 437-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D437-4
+
+Pour les mines et carrières dans lesquelles existent des délégués à la sécurité (délégués mineurs et délégués permanents de
+la surface), un arrêté du ministre chargé de l'industrie et du ministre chargé du travail fixera, en tant que du besoin, les
+règles de coordination entre les visites de ces délégués et celles qui auront pour objet l'amélioration des conditions de
+travail ; il pourra notamment limiter le nombre de personnes habilitées à effectuer ces dernières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
 ## CONFLITS DU TRAVAIL
 
 ### CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES
@@ -102353,6 +102911,120 @@ Trois conseillers de l'enseignement technique.
 	  - Décret n°95-328 du 20 mars 1995 - art. 3 () JORF 25 mars 1995
 
 
+### Titre IV : De l'aide de l'Etat.
+
+###### Article D940-1
+
+Les conventions prévues au troisième alinéa de l'article L. 940-1 du code du travail sont arrêtées conformément à l'un des
+modèles annexés au décret n° 74-835 du 23 septembre 1974.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Cite**:
+
+	  - Décret n°74-835 du 23 septembre 1974
+
+	**Créé par**:
+
+	  - Décret n°75-494 du 11 juin 1975, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D6122-4 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D940-5 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L940-1 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L941-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L940-1 (T)
+
+
+###### Article D940-2
+
+Ces conventions doivent préciser [*obligation*] les articles figurant dans les "dispositions communes applicables aux
+conventions de formation professionnelle comportant une aide de l'Etat", annexées au décret n° 74-835 du 23 septembre 1974
+qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+
+	**Cité par**:
+
+	  - Code du travail - art. D940-5 (VT)
+
+
+###### Article D940-3
+
+Les conventions conclues par les ministres ou par les préfets de région et les divers organismes intéressés, conformément aux
+conventions annexées au décret n° 74-835 du 23 septembre 1974, ouvrent droit au concours de l'Etat, notamment à l'aide du
+fonds de la formation professionnelle et de la promotion sociale, dans les conditions prévues par lesdites conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+
+
+###### Article D940-4
+
+Sur décision du groupe permanent de hauts fonctionnaires prévu par l'article L. 910-1 du code du travail, il pourra être
+dérogé aux dispositions communes applicables aux conventions de formation professionnelle comportant une aide de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+
+
+###### Article D940-6
+
+Le présent titre est applicable aux conventions comportant une aide de l'Etat passées à partir du 1er janvier 1975 [*date
+point de départ*]. Les conventions passées en application du décret n° 67-996 du 15 novembre 1967 pourront rester en vigueur
+jusqu'au 31 décembre 1975.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+
+
 ### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18
 
 #### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.
@@ -102814,6 +103486,32 @@ Deux représentants d'associations de parents d'élèves de l'enseignement techn
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°75-228 du 4 avril 1975 - art. 1 (V)
+
+
+### AIDE DE L'ETAT .
+
+###### Article D940-5
+
+Le groupe permanent de la formation professionnelle peut, après avis de la délégation permanente du conseil national de la
+formation professionnelle, de la promotion sociale et de l'emploi, autoriser la conclusion de conventions de type particulier
+quand la nature de la formation à dispenser, la structure particulière de l'organisme de formation ou les méthodes
+pédagogiques mises en oeuvre ne permettent pas l'application normale des clauses des conventions prévues à l'article D. 940-1
+ci-dessus ou des dispositions communes prévues à l'article D. 940-2 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
+
+	**Cite**:
+
+	  - Code du travail - art. D940-1 (V)
+	  - Code du travail - art. D940-2 (V)
 
 
 ## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
