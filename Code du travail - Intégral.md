@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-08-23
+Version Consolidée au 1979-09-13
 
 # Partie législative ancienne
 
@@ -58985,6 +58985,78 @@ travailleur handicapé est reconnue au cours de leur apprentissage.
 	  - Code du travail R119-72 ET R119-74
 
 
+#### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972
+
+##### Chapitre VII : DU CONTRAT D'APPRENTISSAGE
+
+##### PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.
+
+###### Article R117-1
+
+L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
+l'établissement [*compétence*]. Cette demande précise :
+
+a) les nom et prénoms de l'employeur ou la dénomination de l'entreprise quand celle-ci est une société ;
+
+b) le nombre de salariés de l'entreprise, autres que les apprentis ;
+
+c) les noms et qualifications professionnelles des personnes responsables de la formation des apprentis ;
+
+d) le nombre d'apprentis que l'employeur est à même d'accueillir simultanément, dans la limite du plafonnement prévu à
+l'alinéa suivant.
+
+Des plafonds d'emploi simultané d'apprentis sont définis en vue d'assurer la qualité de la formation pratique donnée aux
+apprentis. Ils sont fixés dans les conditions ci-après :
+
+Le nombre maximum d'apprentis pouvant être accueillis simultanément dans une entreprise ou un établissement est fixé à deux
+apprentis ne se trouvant pas dans la même année de formation lorsque l'employeur travaille seul dans son entreprise, et à un
+apprenti supplémentaire pour chaque personne autre que l'employeur travaillant dans l'entreprise et possédant les
+qualifications prévues à l'article R. 117-3 ci-après.
+
+Lorsque l'employeur reçoit des élèves de classes préparatoires rattachées à des établissements d'enseignement professionnel
+ou à des collèges de premier cycle, ces élèves sont pris en compte, dans le calcul précédent, au même titre que les
+apprentis.
+
+Pour une branche professionnelle déterminée, un arrêté interministériel pris après avis de la commission professionnelle
+consultative nationale compétente pour la branche considérée, peut fixer un ou des plafonds d'emploi simultané d'apprentis,
+différents de ceux qui sont prévus au présent article. Ces plafonds sont fixés en tenant compte, d'une part et s'il y a lieu,
+des divers types d'entreprises existant dans la branche considérée et, d'autre part, de la relation qui doit être maintenue
+entre le nombre des apprentis et celui des personnes possédant les qualifications prévues à l'article R. 117-3.
+
+A titre temporaire, un chef d'entreprise ou d'établissement peut être autorisé par le comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi à engager en surnombre un élève d'une classe préparatoire rattachée à
+un établissement d'enseignement professionnel ou à un collège de premier cycle, s'il prend l'engagement de recruter ce
+dernier ultérieurement en qualité d'apprenti.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+	  - TXT_SOURCE: Arrêté du 10 mars 1992
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 16 juillet 1986 - art. ANNEXE (P)
+	  - Code du travail - art. R116-11 (VT)
+	  - Code du travail - art. R117-2 (M)
+	  - Code du travail - art. R119-35 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L117-5 (M)
+	  - Code du travail - art. R117-3 (M)
+
+
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 #### Chapitre VII : Du contrat d'apprentissage
@@ -70485,59 +70557,6 @@ et clôture le compte de liquidation.
 
 
 ##### CONTRAT D'APPRENTISSAGE
-
-##### AGREMENT DE L'EMPLOYEUR .
-
-###### Article R117-1
-
-L'agrément prévu à l'article L. 177-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
-l'établissement. Cette demande précise [*mentions*] :
-
-a) Les noms et prénoms de l'employeur ou la dénomination de l'entreprise quand celle-ci est une société ;
-
-b) Le nombre de salariés de l'entreprise, autres que les apprentis ;
-
-c) Les noms et qualifications professionnelles des personnes responsables de la formation des apprentis ;
-
-d) Le nombre d'apprentis que l'employeur et à même d'accueillir simultanément, dans la limite du plafonnement prévu à
-l'alinéa suivant.
-
-En vue d'assurer la qualité de la formation pratique donnée aux apprentis, des arrêtés interministériels fixent pour chaque
-branche professionnelle un ou des plafonds d'emploi simultané d'apprentis.
-
-Ces arrêtés sont pris après avis de la commission professionnelle consultative nationale compétente pour la profession
-considérée.
-
-Les plafonds ci-dessus prévus sont déterminés en tenant compte, d'une part et s'il y a lieu, des divers types d'entreprise
-existant dans la branche considérée et, d'autre part, de la relation qui doit être maintenue entre le nombre des apprentis et
-celui des autres salariés de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 10 mars 1992
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 10 mars 1992 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 16 juillet 1986 - art. ANNEXE (P)
-	  - Code du travail - art. R116-11 (VT)
-	  - Code du travail - art. R117-2 (M)
-	  - Code du travail - art. R119-35 (M)
-
-	**Cite**:
-
-	  - Code du travail L177-5
-
 
 ##### DUREE DE L'APPRENTISSAGE .
 
