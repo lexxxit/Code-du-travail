@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-24
+Version Consolidée au 1978-03-24 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -57282,20 +57282,29 @@ apprentis auxquels la qualité de travailleur handicapé est reconnue au cours d
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
-	  - TXT_ASSOCIE: Code du travail - art. R119-77 (V)
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
 	  - Code du travail - art. D117-1 (M)
 	  - Code du travail - art. D117-2 (VT)
 	  - Code du travail - art. R119-72 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L117-9
+	  - Code du travail - art. R119-77
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R119-77 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R6222-48 (V)
+	  - Code du travail - art. R6222-49 (M)
 
 
 ###### Article R119-79
@@ -57327,18 +57336,29 @@ horaire minimum de croissance applicable au premier jour du mois de juillet comp
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L117-17
+	  - Code du travail - art. L119-5
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
 	  - TXT_ASSOCIE: Code du travail - art. L119-5 (AbD)
 
 	**Cité par**:
 
 	  - Code du travail - art. R119-72 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R6222-55 (V)
+	  - Code du travail - art. R6222-56 (V)
+	  - Code du travail - art. R6222-57 (V)
+	  - Code du travail - art. R6222-58 (V)
 
 
 ### Titre II : Contrat de travail
