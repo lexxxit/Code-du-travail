@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-02-01 00:00:01 +0100
+Version Consolidée au 1981-04-13
 
 # Partie législative ancienne
 
@@ -100215,6 +100215,41 @@ art. 30.*
 	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
 
 
+###### Article R970-17
+
+Sauf dispositions réglementaires contraires un fonctionnaire ayant déjà bénéficié d'autorisations d'absence pour suivre
+pendant son temps de service une action de préparation aux concours administratifs ou aux examens professionnels :
+
+- en cas de succès dès la première année, ne peut bénéficier d'autorisations d'absence pour suivre un autre cycle pédagogique
+avant un délai de douze mois à compter de la fin de la session de formation ;
+
+- en cas d'échec, peut bénéficier une seconde fois d'autorisations d'absence pour suivre le même cycle mais, quel que soit le
+résultat, il ne pourra alors bénéficier d'aucune autorisation d'absence pour suivre un nouveau cycle avant vingt-quatre mois.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-339 1981-04-07 art. 1 JORF 13 avril 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
 ##### Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.
 
 ###### Article R970-18
@@ -100251,6 +100286,99 @@ art. 30.*
 
 	  - Arrêté du 31 décembre 1975 - art. 4 (V)
 	  - Code du travail - art. R970-19 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-19
+
+Lorsque la disponibilité a été accordée à un agent en application de l'article 9-a ci-dessus, un contrat d'études peut lui
+être alloué. Le contingent annuel des contrats d'études et les modalités d'attribution font l'objet d'arrêtés du ministre du
+budget et du ministre chargé de la fonction publique.
+
+Lorsque la mise en disponibilité est accordée en application de l'article 9-b ci-dessus, pour suivre une formation ayant reçu
+l'agrément de l'Etat au titre du présent article et sous réserve qu'il ait accompli au moins trois années ou l'équivalent de
+trois années de services effectifs dans l'administration, le fonctionnaire peut percevoir une indemnité mensuelle forfaitaire
+égale à 85 p. 100 du traitement brut et de l'indemnité de résidence qu'il percevait au moment de sa mise en disponibilité. Le
+montant de cette indemnité ne peut toutefois excéder le traitement et l'indemnité de résidence afférents à l'indice brut 379
+d'un agent en fonctions à Paris.
+
+Cette indemnité est à la charge du service dont relève l'intéressé. La durée pendant laquelle elle est versée est limitée à
+douze mois. Ces douze mois peuvent être utilisés en une seule fois ou répartis au long de la carrière en stages à temps plein
+d'une durée minimale de trois mois.
+
+Un fonctionnaire ayant bénéficié d'une autorisation d'absence pour participer à une action de formation relevant du titre II
+ne peut obtenir une mise en disponibilité pour formation dans les douze mois qui suivent la fin de l'action pour laquelle
+l'autorisation lui a été accordée.
+
+L'agrément prévu à l'alinéa 2 est accordé par arrêté du ministre chargé de la fonction publique, après avis du groupe de
+coordination de la formation professionnelle continue dans la fonction publique et de la commission de la formation
+professionnelle du conseil supérieur de la fonction publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 31 décembre 1975 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°81-339 1981-04-07 art. 3 JORF 13 avril 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R970-18 (Ab)
+	  - Code du travail R970-18, L960-1 A L960-16
+
+
+###### Article R970-19-1
+
+La demande de mise en disponibilité pour suivre une formation doit être formulée au plus tard soixante jours à l'avance.
+
+Elle doit indiquer la date à laquelle commence la formation, sa désignation et sa durée, ainsi que le nom de l'organisme
+responsable .
+
+Dans les trente jours qui suivent le réception de la demande, le chef de service doit faire connaître à l'intéressé sa
+décision.
+
+Le fonctionnaire mis en disponibilité pour formation est astreint à rester au service de l'Etat pendant une période dont la
+durée est égale au triple de celle pendant laquelle l'indemnité prévue à l'article 10 ci-dessus lui a été versée.
+
+Le fonctionnaire doit, à la fin de chaque mois et au moment de la reprise du travail, remettre à l'administration une
+attestation de présence effective en formation.
+
+En cas de constat d'absence sans motif valable, il est mis fin à la disponibilité de l'agent ; celui-ci doit alors rembourser
+les indemnités perçues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-339 1981-04-07 art. 4 JORF 13 avril 1981
 
 	**Abrogé par**:
 
@@ -100509,6 +100637,358 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 	**Cite**:
 
 	  - Code du travail
+
+
+###### Article R970-29
+
+Sauf dispositions réglementaires contraires, un agent ayant déjà bénéficié d'autorisations d'absence pour suivre pendant son
+temps de service une action de préparation aux concours administratifs ou aux examens professionnels :
+
+- en cas de succès dès la première année, ne peut bénéficier d'autorisation d'absence pour suivre un autre cycle pédagogique
+avant un délai de douze mois à compter de la fin de la session de formation ;
+
+- en cas d'échec, peut bénéficier une seconde fois d'autorisation d'absence pour suivre le même cycle mais, quel que soit le
+résultat, il ne pourra alors bénéficier d'aucune autorisation d'absence pour suivre un nouveau cycle avant vingt-quatre mois.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 1 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+##### Sous-section 3 : Actions choisies par les agents non titulaires en vue de leur formation personnelle.
+
+###### Article R970-30
+
+I - Les agents non titulaires visés à l'article 1er et justifiant de trois années ou l'équivalent de trois années de services
+effectifs dans l'administration et désirant suivre, en vue de leur formation personnelle, une des actions de formation ayant
+reçu l'agrément de l'Etat au titre du présent article, ont droit sur demande adressée à leur chef de service à un congé de
+formation. Peuvent être prises en compte les interruptions de service si leur total n'excède pas deux mois au cours de la
+période considérée.
+
+Le total des périodes de congés accordées pour formation sur le fondement des dispositions du présent titre ne peut excéder
+trois ans.
+
+Un agent ayant bénéficié d'une autorisation d'absence pour participer à une action de formation relevant du titre II ne peut
+obtenir une mise en congé pour formation dans les douze mois qui suivent la fin de l'action pour laquelle l'autorisation lui
+a été accordée.
+
+II - L'agrément prévu à l'alinéa I est accordé par arrêté du ministre chargé de la fonction publique, après avis du groupe de
+coordination de la formation professionnelle continue dans la fonction publique et de la commission de formation
+professionnelle du conseil supérieur de la fonction publique.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 2 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-31 (M)
+	  - Code du travail - art. R970-32 (M)
+
+
+###### Article R970-31
+
+L'agent mis en congé pour formation peut percevoir une indemnité mensuelle forfaitaire égale à 85 p. 100 du traitement brut
+et de l'indemnité de résidence qu'il percevait au moment de sa mise en congé.
+
+Le montant de cette indemnité ne peut toutefois excéder le traitement et l'indemnité de résidence afférents à l'indice brut
+379 d'un agent en fonctions à Paris.
+
+Cette indemnité est à la charge du service dont relève l'intéressé. La durée pendant laquelle elle est versée est limitée à
+douze mois qui peuvent être fractionnés en une ou plusieurs fois en stages à temps plein d'une durée minimale de trois mois.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 3 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-32
+
+La demande de congé doit être formulée au plus tard soixante jours à l'avance [*délai*].
+
+Elle doit indiquer [*mentions obligatoires*] la date à laquelle commence la formation, sa désignation et sa durée ainsi que
+le nom de l'organisme responsable.
+
+Dans les trente jours qui suivent la réception de la demande, le chef de service doit faire connaître à l'intéressé son
+accord ou les raisons qui motivent le rejet ou le report de la demande.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 4 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-33
+
+L'agent bénéficiaire du congé de formation doit, à la fin de chaque mois et au moment de la reprise du travail, remettre à
+l'administration une attestation de fréquentation effective du stage.
+
+La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé et le
+remboursement des rémunérations perçues.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 5 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-34
+
+Les agents non titulaires visés à l'article 1er ont droit, pendant les trois premières années de présence dans
+l'administration et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé pour suivre une action de formation
+ayant reçu l'agrément de l'Etat. Cet agrément est accordé par arrêté du ministre chargé de la fonction publique. Le droit à
+congé est ouvert aux intéressés dès qu'ils ont accompli six mois de services effectifs.
+
+Ce congé est assimilé à une période de service effectif.
+
+La durée de congé, qui ne peut excéder 200 heures par an, ne peut être imputée sur la durée du congé payé annuel.
+
+Les heures de congé peuvent être reportées d'une année à l'autre à la demande des agents intéressés.
+
+Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à
+temps partiel.
+
+La demande de congé doit être formulée dans les conditions fixées à l'article 11.
+
+La durée pendant laquelle le congé peut être reporté pour raison de service ne peut excéder trois mois.
+
+Ce report du congé ne peut entraîner sa suppression pour les agents qui atteignent l'âge de vingt ans ou une durée de trois
+ans de présence dans l'administration après le dépôt de leur demande. Ils conservent le droit de prendre le congé défini au
+premier alinéa au-delà de vingt ans ou après plus de trois ans de présence dans l'administration sans préjudice de
+l'application éventuelle de l'article 9 du présent décret.
+
+Les agents perçoivent leur rémunération pendant la durée de leur congé. Cette rémunération est à la charge du service dont
+relève l'intéressé.
+
+Le bénéficiaire d'un congé accordé en application du présent article doit, à la fin de chaque mois et au moment de la reprise
+du travail, remettre au chef de service dont il relève une attestation de fréquentation effective du stage. La non-
+fréquentation du stage sans motif valable entraîne la suppression du congé et le remboursement des rémunérations perçues. Il
+en est de même de l'exercice d'une activité rémunérée.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 6 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+##### Sous-section 4 : Participation des agents ayant quitté l'administration à des stages de formation professionnelle continue.
+
+###### Article R970-35
+
+Les agents non titulaires visés à l'article 1er qui, après leur départ de l'administration, participent à une action de
+formation du type de celles définies à l'article 1er de la loi du 17 juillet 1978 peuvent bénéficier des aides financières
+accordées par l'Etat aux stagiaires de la formation professionnelle dans le cadre du chapitre II de la même loi et des textes
+réglementaires pris pour son application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 8 JORF 13 avril 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-35 (M)
+
+
+###### Article R970-36
+
+Les agents non titulaires visés à l'article 1er comptant au moins trois années de services effectifs dans l'administration et
+auxquels une décision de licenciement a été notifiée sont de droit mis en congé, sauf si cette décision constitue une
+sanction disciplinaire ou a pour motif l'insuffisance professionnelle, s'ils s'inscrivent, entre la date de préavis et celle
+du licenciement, à une action de formation du type de celles définies à l'article 1er de la loi du 17 juillet 1978 agréée par
+l'Etat dans les conditions fixées à l'article 10 de la loi du 17 juillet 1978.
+
+Sont prises en compte au titre des services effectifs continus les interruptions de service dont le total n'excède pas deux
+mois au cours de la période considérée.
+
+Pendant cette période, l'intéressé continue à percevoir sa rémunération. Si le stage se poursuit après la date de
+licenciement, il bénéficie, jusqu'à la fin du stage, des aides financières calculées dans les conditions prévues au chapitre
+II de la loi mentionnée ci-dessus et par les textes pris pour son application.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 9 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-37 (VT)
+
+
+###### Article R970-37
+
+La perception d'une rémunération dans les conditions fixées à l'article R. 970-36 ne fait pas obstacle au versement de
+l'indemnité de licenciement prévue par le décret n° 72-512 du 22 juin 1972.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-340 1981-04-07 art. 1 JORF 13 avril 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
@@ -102044,388 +102524,6 @@ effectuer.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R950-25 (Ab)
-
-
-### MODALITES D'APPLICATION DE L'ARTICLE L970-3
-
-#### PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .
-
-###### Article R970-29
-
-Sauf dispositions réglementaires contraires, un agent ayant déjà bénéficié d'autorisations d'absence pour suivre pendant son
-temps de service une action de préparation aux concours administratifs ou aux examens professionnels ne peut prétendre au
-bénéfice d'un autre cycle pédagogique de même nature avant un délai de douze mois à compter de la fin de la session de
-formation.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-#### ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .
-
-###### Article R970-30
-
-I. Les agents non titulaires exerçant à temps plein des fonctions permanentes comptant plus de trois ans de services
-effectifs continus [*ancienneté*] dans l'administration et qui désirent suivre, en vue de leur formation personnelle, une des
-actions de formation ayant reçu l'agrément de l'Etat, au titre du présent article ont droit, sur demande adressée à leur chef
-de service, à un congé. Peuvent être pris en compte les interruptions de service si leur total n'excède pas deux mois au
-cours de la période considérée.
-
-II. Dans chaque administration centrale, établissement public national, service départemental, régional ou interrégional
-relevant de chaque ministère, la satisfaction de certaines demandes est différée si le nombre d'heures de congé accordées en
-application de la présente sous-section dépasse 1 p. 100 du nombre total des heures de travail effectuées l'année précédente
-par l'ensemble des agents mentionnés au I ci-dessus.
-
-III. Le congé correspond à la durée du stage, sans pouvoir excéder trois mois [*limite*] s'il s'agit d'un stage continu à
-temps plein, ou 300 heures s'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou
-à temps partiel.
-
-Le stage peut toutefois excéder trois mois ou 300 heures s'il s'agit d'un stage ayant fait l'objet d'un agrément spécial.
-
-IV. L'agrément prévu au I et l'agrément spécial prévu au III du présent article sont accordés par arrêté du ministre chargé
-de la fonction publique, après avis du groupe de coordination de la formation professionnelle continue dans la fonction
-publique et de la commission de formation professionnelle du conseil supérieur de la fonction publique.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R970-31 (M)
-	  - Code du travail - art. R970-32 (M)
-
-	**Cite**:
-
-	  - Code du travail R970-30 A R970-37
-
-
-###### Article R970-31
-
-Les agents bénéficiaires du congé défini à l'article R. 970-30 perçoivent une rémunération égale à 75 p. 100 de leur
-traitement brut soumis à retenue pour cotisation de sécurité sociale et augmenté de l'indemnité de résidence ; la période du
-stage pendant laquelle les agents perçoivent cette rémunération ne peut excéder [*limite*] un jour ouvrable par deux mois de
-présence effective dans l'administration, au-delà des trois premières années.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R970-30 (M)
-
-
-###### Article R970-32
-
-I. Lorsque les dispositions de l'article R. 970-30 ne permettent pas de satisfaire toutes les demandes, la priorité est
-accordée, dans l'ordre :
-
-Aux demandes présentées et qui ont déjà été différées ;
-
-Aux demandes qui sont formulées par les agents ayant le plus d'ancienneté dans l'administration.
-
-II. Un agent ayant bénéficié d'une action ou d'un congé de formation prévu aux sous-sections I, II et III de la présente
-section ne peut prétendre au bénéfice d'un nouveau congé de formation avant un délai exprimé en mois, et dont la durée est
-égale au huitième de la durée, exprimée en heures, de l'action précédemment suivie.
-
-III. Le nombre d'heures de congé auxquelles ont droit les agents au titre de l'aricle R. 970-30 peut être reporté d'une année
-à l'autre à la demande des agents intéressés.
-
-IV. Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein
-ou à temps partiel.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R970-30 (M)
-	  - Code du travail R970-22 A R970-37
-
-
-###### Article R970-33
-
-L'agent bénéficiaire du congé de formation doit [*obligation périodicité*] à la fin de chaque mois et au moment de la reprise
-du travail, remettre à l'administration une attestation de fréquentation effective du stage.
-
-La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé et le
-remboursement des rémunérations perçues [*sanction*].
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-###### Article R970-34
-
-Les agents non titulaires exerçant à temps plein des fonctions permanentes dans un service de l'Etat ou dans un établissement
-public de l'Etat n'ayant pas le caractère industriel et commercial ont droit, pendant les trois premières années de présence
-dans l'administration et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé pour suivre une action de
-formation ayant reçu l'agrément de l'Etat au titre de l'article L. 930-2. Le droit à congé est ouvert aux intéressés dés
-qu'ils ont accompli six mois de services effectifs [*ancienneté*].
-
-Ce congé est assimilé à une période de service effectif.
-
-La durée du congé, qui ne peut excéder cent heures par an, ne peut être imputée sur la durée du congé payé annuel.
-
-Les dispositions des articles R. 930-7 à R. 930-12 sont applicables aux agents mentionnés au premier alinéa du présent
-article.
-
-Les agents perçoivent leur rémunération pendant la durée de leur congé. Cette rémunération est à la charge du service dont
-relève l'intéressé.
-
-Le bénéficiaire d'un congé accordé en application du présent article doit, à la fin de chaque mois [*date*] et au moment de
-la reprise du travail, remettre au chef de service dont il relève une attestation de fréquentation effective du stage. La
-non-fréquentation du stage sans motif valable entraîne la suppression du congé et le remboursement des rémunérations perçues.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Cite**:
-
-	  - Code du travail - art. L930-2 (M)
-	  - Code du travail R930-7 A R930-12
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-
-#### PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .
-
-###### Article R970-35
-
-les agents non titulaires exerçant à temps plein des fonctions permanentes qui, aprés leur départ de l'administration,
-s'inscrivent à l'un des stages de conversion ou de promotion professionnelle mentionnés à l'article L. 940-2 peuvent
-bénéficier des aides financières accordées par l'Etat aux stagiaires de formation professionnelle dans le cadre du titre VI
-du présent livre et des textes réglementaires pris pour son application.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R970-35 (M)
-
-	**Cite**:
-
-	  - Code du travail L960-1 A L960-16
-
-
-###### Article R970-36
-
-Les agents non titulaires occupant à temps plein un emploi permanent comptant au moins trois années [*ancienneté*] de
-services effectifs et continus dans l'administration et auxquels une décision de licenciement a été notifiée sont de droit
-mis en congé, sauf si cette décision constitue une sanction disciplinaire ou a pour motif l'insuffisance professionnelle,
-s'ils s'inscrivent, entre la date de préavis et celle du licenciement, à un stage de conversion ou de formation
-professionnelle agréé par l'Etat dans les conditions fixées à l'article L. 960-2.
-
-Sont prises en compte au titre des services effectifs continus les interruptions de service régulières et dont le total
-n'excède pas deux mois au cours de la période considérée.
-
-Pendant cette période, ils continuent à percevoir leur rémunération. Si le stage se poursuit après la date de licenciement,
-l'intéressé bénéficie, jusqu'à la fin du stage, des aides financières calculées dans les conditions prévues au titre VI du
-présent livre et par les textes pris pour son application.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Cite**:
-
-	  - Code du travail - art. L960-2 (M)
-	  - Code du travail L960-1 A L960-16
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R970-37 (VT)
-
-
-###### Article R970-37
-
-La perception d'une rémunération dans les conditions fixées à l'article R. 970-36 ne fait pas obstacle au versement de
-l'indemnité de licenciement prévue par le décret n° 72-512 du 22 juin 1972.
-
-**Nota:**
-
-[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
-	  - Décret n°75-205 1975-03-26
-
-	**Cite**:
-
-	  - Décret n°72-512 1972-06-22
-	  - Code du travail - art. R970-36 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
 ### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER
