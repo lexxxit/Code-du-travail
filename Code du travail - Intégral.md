@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-06
+Version Consolidée au 1980-01-17
 
 # Partie législative ancienne
 
@@ -54144,6 +54144,41 @@ Le personnel du centre est recruté sur proposition du directeur ; il est placé
 	  - Code du travail - art. R116-6 (M)
 
 
+###### Article R116-6
+
+Le conseil de perfectionnement comprend, dans les proportions fixées par la convention portant création du centre :
+
+Des représentants des organisations professionnelles d'employeurs et de salariés intéressés par le fonctionnement du centre ;
+
+Des représentants de l'organisme gestionnaire ;
+
+Des représentants élus par le personnel d'enseignement et d'encadrement du centre ;
+
+Des représentants élus des apprentis ;
+
+Eventuellement, des personnes qualifiées en raison de leur expérience pédagogique et professionnelle désignées par
+l'organisme gestionnaire sur la proposition des membres du conseil de perfectionnement précédemment énumérés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cité par**:
+
+	  - Décret n°85-1265 du 29 novembre 1985 - art. 43 (Ab)
+	  - Code du travail - art. R116-1 (M)
+	  - Code du travail - art. R116-4 (M)
+	  - Code du travail - art. R116-5 (M)
+	  - Code du travail - art. R119-38 (VT)
+	  - Code rural - art. R*811-46 (M)
+
+
 ###### Article R116-7
 
 Le conseil de perfectionnement se réunit au moins trois fois par an [*périodicité*]. Il est obligatoirement consulté
@@ -67940,48 +67975,6 @@ amende de 1.300 F à 3.000 F (1) [*montant*].
 ##### CENTRES DE FORMATION D' APPRENTIS
 
 ##### CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS
-
-##### ORGANISATION DES CENTRES .
-
-###### Article R116-6
-
-Le conseil de perfectionnement comprend, dans les proportions fixées par la convention portant création du centre :
-
-Des représentants des organisations professionnelles d'employeurs et de salariés intéressés par le fonctionnement du centre ;
-
-Des représentants de l'organisme gestionnaire ;
-
-Des représentants élus par le personnel d'enseignement et d'encadrement du centre ;
-
-Des représentants élus des apprentis.
-
-Les modalités d'application du présent article sont, en tant que de besoin, fixées par le règlement intérieur prévu à
-l'article R. 116-8 ci-dessous.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-280 1972-04-12 ART. 6
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°85-1265 du 29 novembre 1985 - art. 43 (Ab)
-	  - Code du travail - art. R116-1 (M)
-	  - Code du travail - art. R116-4 (M)
-	  - Code du travail - art. R116-5 (M)
-	  - Code du travail - art. R119-38 (VT)
-	  - Code rural - art. R*811-46 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R116-8 (M)
-
 
 ##### FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
 
