@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-18
+Version Consolidée au 1978-03-23
 
 # Partie législative ancienne
 
@@ -50815,50 +50815,6 @@ il est donné lecture du procès-verbal de réception.
 	  - Code du travail - art. R513-30 (M)
 
 
-#### DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
-
-###### Article R514-4
-
-Les articles 505 à 508 et 510 à 516 du code de procédure civile sont applicables aux conseils de prud'hommes et à leurs
-membres pris individuellement.
-
-Les articles 17 de la loi du 30 août 1883 et 13 du décret n° 58-1281 du 22 décembre 1958 portant application de l'ordonnance
-
-n° 58-1273 du 22 décembre 1958 et relatifs à l'organisation judiciaire sont applicables à la juridiction des prud'hommes en
-tout ce qu'ils n'ont pas de contraire aux dispositions du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1281 du 22 décembre 1958 - art. 13, v. init.
-	  - Ordonnance 58-1273 1958-12-22
-	  - Code de procédure civile - art. 505 (V)
-	  - Code de procédure civile - art. 506 (V)
-	  - Code de procédure civile - art. 507 (Ab)
-	  - Code de procédure civile - art. 508 (Ab)
-	  - Code de procédure civile - art. 510 (V)
-	  - Code de procédure civile - art. 511 (Ab)
-	  - Code de procédure civile - art. 512 (Ab)
-	  - Code de procédure civile - art. 513 (V)
-	  - Code de procédure civile - art. 514 (Ab)
-	  - Code de procédure civile - art. 515 (Ab)
-	  - Code de procédure civile - art. 516 (V)
-	  - Loi n°1883-08-30 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*721-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*721-2 (V)
-
-
 #### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DU REFERE.
 
 ###### Article R515-1
@@ -69531,63 +69487,6 @@ Ces allocations sont versées directement aux centres jusqu'à concurrence des s
 	  - Décret n°1962-07-26 ART. 9
 
 
-##### Sous-section 9 : Dispositions applicables aux administrations et entreprises prévues à l'article L. 323-12 (4°)
-
-##### Paragraphe 1 : Accession aux emplois réservés.
-
-###### Article R323-102
-
-Pour l'examen des candidatures la commission d'orientation des infirmes ou sa sous-commission permanente [*composition*] est
-complétée par le président du comité médical départemental mentionné à l'article 5 du décret du 14 février 1959, ou par un
-membre de ce comité désigné par ledit président.
-
-Un ou plusieurs fonctionnaires désignés par le préfet et chargés de représenter chacune des administrations ou organismes
-dont relèvent le ou les emplois postulés assistent à la séance de la commission départementale d'orientation et sont
-obligatoirement entendus par celle-ci.
-
-Un arrêté du ministre chargé de la fonction publique fixe les modalités de la désignation de ce fonctionnaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret  1959-02-14 ART. 5
-
-	**Anciens textes**:
-
-	  - Décret n°65-1112 1965-12-16 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-##### Paragraphe 2 : Accession aux emplois publics par concours.
-
-###### Article R323-110
-
-L'appréciation de l'aptitude physique des travailleurs handicapés candidats à un emploi public pourvu par voie de concours
-est opérée dans les conditions définies à l'article R. 323-101.
-
-Par exception, cette appréciation est opérée par la commission établie en application du décret du 20 juillet 1959, lorsqu'il
-s'agit d'un recours de recrutement du personnel enseignant relevant du ministère de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. R323-101 (M)
-	  - Décret  1959-07-20
-
-	**Anciens textes**:
-
-	  - Décret n°65-1112 1965-12-16 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ##### SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
 
 ###### Article R323-118
@@ -79713,25 +79612,15 @@ La limite d'âge pour le dépôt des candidatures est fixé à cinquante ans.
 Le directeur départemental du travail et de la main-d'oeuvre statue sur la recevabilité de la demande au regard des
 conditions définies à l'article R. 400 du Code des pensions militaires d'invalidité et des victimes de guerre.
 
-La commission départementale d'orientation des infirmes [*attribution*] ou sa sous-commission permanente dans les conditions
-fixées à l'article R. 323-28 reconnaît au candidat, s'il y a lieu, la qualité de travailleur handicapé. Elle détermine si la
-demande d'emploi présentée par un candidat reconnu, travailleur handicapé peut être immédiatement retenue ou, s'il y a lieu,
-à réadaptation ou rééducation professionnelle préalable eu égard aux aptitudes physiques et intellectuelles de ce candidat, à
-la nature de l'emploi ou aux emplois postulés.
-
-Dans ce dernier cas la décision de la commission fixe les mesures nécessaires pour assurer cette réadaptation ou rééducation.
-
-Si l'admission à l'emploi demandé est assortie d'épreuves spéciales d'aptitude physique, ces épreuves sont subies devant
-l'administration intéressée et la commission ne se prononce qu'après avoir reçu notification du résultat de ces épreuves.
-
-Toute décision de la commission est notifiée au candidat.
+La décision de la commission siégeant dans la formation résultant de l'article 1er du décret n. 78-392 du 17 mars 1978 est
+notifiée au candidat.
 
 Dans le cas d'admission de la demande, cette décision, qui est également notifiée à l'administration dont relève l'emploi
 demandé, indique que le handicap n'est pas compatible avec l'exercice des fonctions afférentes à cet emploi.
 
-Un recours peut être formé contre la décision de la commission départementale d'orientation devant la commission
-départementale des handicapés dans le délai d'un mois fixé à l'article R. 323-77. Ce délai est rappelé dans la notification
-de la décision de la commission départementale d'orientation.
+Un recours peut être formé contre la décision de la commission susindiquée devant la commission départementale des handicapés
+dans le délai d'un mois fixé à l'article R. 323-77. Ce délai est rappelé dans la notification de la décision de la commission
+siégeant dans la formation résultant de l'article 1er du décret n. 78-392 du 17 mars 1978.
 
 La décision de la commission départementale des handicapés peut faire l'objet d'un recours en cassation devant le Conseil
 d'Etat. L'existence de ce recours est rappelée dans la notification de la décision dont il s'agit.
@@ -79742,21 +79631,21 @@ d'Etat. L'existence de ce recours est rappelée dans la notification de la déci
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Cite**:
+
+	  - Décret n°78-392 du 17 mars 1978 - art. 1 (M)
+	  - Code du travail - art. R323-77 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. R400 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
 	**Cité par**:
 
 	  - Code du travail - art. R323-108 (Ab)
 	  - Code du travail - art. R323-109 (Ab)
 	  - Code du travail - art. R323-110 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. R323-28 (Ab)
-	  - Code du travail - art. R323-77 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. R400 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°65-1112 1965-12-16 ART. 8
 
 
 ###### Article R323-103
@@ -88904,6 +88793,43 @@ La période prévue au même article est constituée par les deux mois précéda
 	  - TXT_ASSOCIE: Code du travail - art. L731-4 (AbD)
 
 
+###### Article R731-4
+
+L'indemnité journalière est due pour chaque heure perdue à partir de la deuxième au cours d'une même semaine. Toutefois,
+lorsque la journée qui suit l'arrêt de travail est entièrement chômée, elle est indemnisée dès la première heure.
+
+La limite d'indemnisation en fonction du salaire prévue à l'article L. 731-5 est fixée [*plafond*] aux trois quarts du
+salaire.
+
+Le nombre maximum d'heures de travail prévu au même article L. 731-5 est fixé à neuf heures par jour dans la limite de
+quarante-cinq heures par semaine.
+
+Le nombre maximum des indemnités journalières prévu audit article est fixé à cinquante-cinq.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-131 1963-02-16 ART. 1
+	  - Décret n°69-624 1969-06-14 ART. 2
+	  - Loi n°1946-10-21 ART. 5 AL. 1 ET AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 18 février 2003 - art. 4 (V)
+	  - Arrêté du 18 février 2003 - art. 5 (M)
+	  - Code du travail - art. R731-17 (VT)
+	  - Code du travail - art. R731-20 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L731-5 (AbD)
+
+
 ###### Article R731-5
 
 Une déclaration signée de l'entrepreneur ou de son représentant et des délégués du personnel est adressée à la caisse de
@@ -92962,46 +92888,6 @@ relevé de nouvelles infractions.
 ### BATIMENT ET TRAVAUX PUBLICS
 
 #### INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
-
-###### Article R731-4
-
-L'indemnité journalière est due pour chaque heure perdue à partir de la troisième au cours d'une même semaine. Toutefois,
-lorsque la journée qui suit l'arrêt de travail est entièrement chômée, elle est indemnisée dès la première heure.
-
-La limite d'indemnisation en fonction du salaire prévue à l'article L. 731-5 est fixée aux trois quarts du salaire
-[*plafond*].
-
-Le nombre maximum d'heures de travail prévu au même article L. 731-5 est fixé à huit heures par jour.
-
-Le nombre maximum des indemnités journalières prévu audit article est fixé à soixante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-131 1963-02-16 ART. 1
-	  - Décret n°69-624 1969-06-14 ART. 2
-	  - Loi n°1946-10-21 ART. 5 AL. 1 ET AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 18 février 2003 - art. 4 (V)
-	  - Arrêté du 18 février 2003 - art. 5 (M)
-	  - Code du travail - art. R731-17 (VT)
-	  - Code du travail - art. R731-20 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L731-5 (AbD)
-
-	**Cite**:
-
-	  - Code du travail 731-5
-
 
 ###### Article R731-20
 
