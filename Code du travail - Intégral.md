@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-10-20
+Version Consolidée au 1981-10-30
 
 # Partie législative ancienne
 
@@ -102685,6 +102685,559 @@ de départ*] du début du mois qui suit celui au cours duquel un apprenti a atte
 
 
 ### Titre II : CONTRAT DE TRAVAIL
+
+#### Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
+
+##### Section 2 : Résiliation du contrat de travail à durée indéterminée.
+
+###### Article D122-1
+
+Lorsqu'un conseil de prud'hommes a ordonné d'office le remboursement des allocations de chômage dans les conditions prévues
+au deuxième alinéa de l'article L. 122-14-4 du code du travail, le secretaire-greffier [*greffier*] du conseil de
+prud'hommes, à l'expiration du délai d'appel, adresse à l'organisme concerné une copie certifiée conforme du jugement en
+précisant si ce dernier a fait ou non l'objet d'un appel.
+
+La copie certifiée conforme du jugement est adressée par lettre simple à l'institution qui a versé les indemnités de chômage
+si celle-ci est désignée dans les pièces de la procédure ou, à défaut, à l'institution du lieu où demeure le salarié.
+
+Lorsque le remboursement des allocations de chômage a été ordonné d'office par une cour d'appel, le secrétaire-greffier
+[*greffier*] de cette juridiction adresse à l'organisme concerné, selon les formes prévues à l'alinéa précédent, une copie
+certifiée conforme de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D412-79 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-6 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+
+
+###### Article D122-2
+
+La demande en recouvrement est portée devant le tribunal d'instance du lieu où demeure l'employeur [*ressort*]. Tout autre
+juge doit se déclarer d'office incompétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D412-79 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-7 (T)
+
+
+###### Article D122-3
+
+La demande est formée par simple requête remise ou adressée au secrétariat-greffe.
+
+Elle indique la dénomination, la forme et le siège social de l'institution et de l'employeur si ce dernier est une personne
+morale, ainsi que l'organe qui les représente légalement ; si l'employeur est une personne physique, elle indique ses nom,
+prénoms, profession et adresse [*mentions obligatoires*].
+
+Elle précise le montant des allocations dont le remboursement a été ordonné.
+
+La copie certifiée conforme de la décision et un relevé de compte individuel de l'allocataire sont joints à la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D412-79 (M)
+	  - Code du travail - art. D122-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-8 (T)
+
+
+###### Article D122-4
+
+Au vu de ces documents, le juge rend une ordonnance portant injonction de payer. La requête et l'ordonnance sont conservées
+au secrétariat-greffe, à titre de minute.
+
+Les documents produits sont provisoirement conservés au secrétariat-greffe [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D412-79 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-9 (T)
+
+
+###### Article D122-5
+
+Une copie certifiée conforme de la requête et de l'ordonnance est notifiée à l'employeur par le secrétaire-greffier par
+lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D412-79 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-10 (T)
+
+
+###### Article D122-6
+
+L'employeur peut s'opposer à l'ordonnance portant injonction de payer, en formant opposition devant le tribunal d'instance
+qui a rendu l'ordonnance [*juridiction compétente*].
+
+L'opposition est formée dans le mois qui suit la notification de l'ordonnance [*délai*].
+
+Toutefois, si la notification n'a pas été faite à personne, l'opposition est recevable jusqu'à l'expiration du délai d'un
+mois suivant le premier acte signifié à personne ou, à défaut, suivant la première mesure d'exécution ayant pour effet de
+rendre indisponibles en tout ou partie les biens de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-11 (T)
+	  - Code du travail - art. D122-9 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D122-7 (VT)
+	  - Code du travail - art. D122-8 (VT)
+
+
+###### Article D122-7
+
+A peine de nullité, l'acte de notification de l'ordonnance informe l'employeur qu'il doit payer à l'institution le montant
+des allocations versées sauf à former opposition s'il a à faire valoir des moyens de défense [*mentions obligatoires*].
+
+Sous la même sanction, l'acte de notification [*contenu*] :
+
+Indique le délai dans lequel l'opposition doit être formée, le tribunal devant lequel elle doit être portée et les formes
+selon lesquelles elle doit être faite ;
+
+Avertit l'employeur qu'il peut prendre connaissance au greffe des documents produits par l'institution, et qu'à défaut
+d'opposition dans le délai indiqué il ne peut plus contester la créance et peut être contraint de la payer par toutes voies
+de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-10 (V)
+	  - Code du travail - art. D122-12 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-2 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. D122-8 (VT)
+
+
+###### Article D122-8
+
+L'opposition est formée au secrétariat-greffe soit par déclaration contre récépissé, soit par lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-11 (V)
+	  - Code du travail - art. D122-13 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-3 (T)
+
+
+###### Article D122-9
+
+Le secrétaire-greffier [*greffier*] convoque l'employeur et l'institution par lettre recommandée avec demande d'avis de
+réception, quinze jours au moins avant la date de l'audience [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-12 (V)
+	  - Code du travail - art. D122-14 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-4 (T)
+
+
+###### Article D122-10
+
+Si aucune des parties ne se présente [*non*], le tribunal constate l'extinction de l'instance. Celle-ci rend non avenue
+l'ordonnance portant injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-13 (V)
+	  - Code du travail - art. D122-15 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-5 (T)
+
+
+###### Article D122-11
+
+Le tribunal d'instance [*juridiction compétente*] statue sur l'opposition quel que soit le montant des allocations dont le
+remboursement a été réclamé. Le jugement du tribunal se substitue à l'ordonnance portant injonction de payer.
+
+Le tribunal statue à charge d'appel lorsque le montant de la demande excède le taux de sa compétence en dernier ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-14 (V)
+	  - Code du travail - art. D122-16 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-6 (T)
+
+
+###### Article D122-12
+
+Si, dans son opposition, l'employeur prétend que le remboursement des indemnités de chômage a été ordonné dans un cas où
+cette mesure est exclue par la loi, le tribunal d'instance renvoie l'affaire à la juridiction qui a statué aux fins d'une
+rétractation éventuelle du jugement sur ce point. La rétractation ne peut en aucun cas remettre en question la chose jugée
+entre l'employeur et le travailleur licencié, ni l'appréciation portée par la juridiction sur l'absence de cause réelle et
+sérieuse du licenciement.
+
+Le secrétaire-greffier [*greffier*] du tribunal d'instance transmet aussitôt le dossier de l'affaire à cette juridiction.
+
+Le secrétaire-greffier [*greffier*] de la juridiction qui a statué convoque l'institution et l'employeur, selon le cas,
+devant le bureau de jugement du conseil de prud'hommes ou devant la chambre sociale de la cour d'appel, quinze jours au moins
+à l'avance [*délai*], par lettre recommandée avec demande d'avis de réception [*condition de forme*].
+
+La juridiction qui a statué se prononce sur l'ensemble du litige résultant de l'opposition et est habilitée à liquider la
+somme due par l'employeur à l'institution.
+
+La décision qui se prononce sur la demande de rétractation est mentionnée sur la minute et sur les expéditions du jugement.
+
+L'auteur d'une demande dilatoire ou abusive de rétractation peut être condamné à une amende civile de 100 F à 10.000 F
+[*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-15 (V)
+	  - Code du travail - art. D122-17 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-7 (T)
+
+
+###### Article D122-13
+
+En l'absence d'opposition dans le mois qui suit la notification de l'ordonnance portant injonction de payer [*délai*],
+quelles que soient les modalités de la notification, ou en cas de désistement de l'employeur qui a formé opposition,
+l'institution peut demander l'apposition sur l'ordonnance de la formule exécutoire.
+
+L'ordonnance produit tous les effets d'un jugement contradictoire. Elle n'est pas susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-16 (V)
+	  - Code du travail - art. D122-18 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-8 (T)
+
+
+###### Article D122-14
+
+La demande tendant à l'apposition de la formule exécutoire est formée au secrétariat-greffe soit par déclaration, soit par
+lettre simple [*condition de forme*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-17 (V)
+	  - Code du travail - art. D122-19 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-9 (T)
+
+
+###### Article D122-15
+
+Les documents produits par l'institution et conservés provisoirement au secrétariat-greffe lui sont restitués sur sa demande
+dès l'opposition ou au moment où l'ordonnance est revêtue de la formule exécutoire [*date*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-10 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-18 (V)
+	  - Code du travail - art. D122-20 (T)
+
+
+###### Article D122-16
+
+En cas de pourvoi en cassation dirigé contre une décision qui a condamné un employeur pour licenciement sans cause réelle et
+sérieuse en application des dispositions de l'article L. 122-14-4 du code du travail, la cassation du chef de décision qui
+emporte condamnation au profit du salarié atteint le chef de la décision qui ordonne d'office le remboursement des indemnités
+de chômage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Code du travail L122-14-4 AL. 2
+
+	**Transféré par**:
+
+	  - Décret n°89-861 du 27 novembre 1989 - art. 1 () JORF 28 novembre 1989
+
+	**Anciens textes**:
+
+	  - Code du travail - art. D122-11 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D122-19 (V)
+	  - Code du travail - art. D122-21 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+
 
 #### Chapitre IV : Travail temporaire.
 
