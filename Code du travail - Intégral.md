@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-26 00:00:01 +0100
+Version Consolidée au 1978-04-01
 
 # Partie législative ancienne
 
@@ -107446,14 +107446,16 @@ travailleur et à celui-ci d'exécuter des travaux rétribués pendant la durée
 
 ### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison
 
-#### Chapitre Ier : Surveillance médicale.
+#### Chapitre III : Assistantes maternelles
+
+##### Section 1 : Dispositions générales.
 
 ###### Article D773-1
 
-La création et la constitution des services médicaux du travail interentreprises destinés uniquement à assurer la
-surveillance médicale des gardiens d'immeubles à usage d'habitation et des employés de maison, sont soumises aux règles
-applicables aux autres services interentreprises en ce qui concerne tant la définition de leur compétence territoriale que
-leur agrément.
+Sans préjudice des sommes et des fournitures destinées à l'entretien des enfants, la rémunération des assistantes maternelles
+visées à l'article 123-1 du code de la famille et de l'aide sociale ne peut être inférieure à deux fois le montant du salaire
+minimum de croissance [*SMIC*] par enfant et par jour, pour une durée de garde égale ou supérieure à huit heures ; pour une
+durée inférieure, la rémunération minimale est égale à un quart du salaire minimum de croissane par heure.
 
 **Liens relatifs à cet article**
 
@@ -107464,16 +107466,16 @@ leur agrément.
 	**Cité par**:
 
 	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
 
 
 ###### Article D773-2
 
-Le président du service interentreprises doit établir chaque année dans la forme prévue par un arrêté du ministre chargé du
-travail, un rapport sur l'organisation, le fonctionnement et la gestion financière du service médical dont un exemplaire est
-transmis à l'inspecteur du travail et un exemplaire au médecin inspecteur du travail compétents.
-
-Dans les services administrés paritairement, ce rapport est transmis aux services d'inspection par le président du conseil
-d'administration avec les observations du conseil.
+L'indemnité compensatrice prévue à l'article L. 773-5 ne peut être inférieure au montant du salaire minimum de croissance
+[*SMIC*] par journée entière  d'absence d'un enfant.
 
 **Liens relatifs à cet article**
 
@@ -107484,12 +107486,41 @@ d'administration avec les observations du conseil.
 	**Cité par**:
 
 	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-5 (M)
+
+
+##### Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.
+
+###### Article D773-3
+
+La rémunération des assistantes maternelles est majorée, conformément à l'article L. 773-10 dans les cas où des contraintes
+réelles, dues aux soins particuliers ou à l'éducation spéciale entraînés par l'état de l'enfant pèsent sur elles.
+
+Cette majoration est révisée périodiquement compte tenu de l'évolution de l'état de l'enfant. Elle ne peut être inférieure à
+la moitié du salaire de croissance par enfant et par journée de garde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-10 (M)
 
 
 ###### Article D773-4
 
-Le médecin du travail établit chaque année dans la forme prévue par un arrêté du ministre chargé du travail un rapport dont
-un exemplaire est transmis à l'inspecteur du travail et un exemplaire au médecin inspecteur du travail compétents.
+Le montant minimal de l'indemnité de licenciement prévue à l'article L. 773-15 est égal, par année d'ancienneté, à deux
+dixièmes de la moyenne mensuelle des sommes que l'intéressée a perçues au cours des six derniers mois.
 
 **Liens relatifs à cet article**
 
@@ -107500,6 +107531,10 @@ un exemplaire est transmis à l'inspecteur du travail et un exemplaire au médec
 	**Cité par**:
 
 	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L773-15 (M)
 
 
 ### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
