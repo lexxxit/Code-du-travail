@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-05-07
+Version Consolidée au 1974-05-19
 
 # Partie législative ancienne
 
@@ -64189,6 +64189,70 @@ dessous.
 	  - Décret n°59-1014 1959-08-29 ART. 1
 
 
+###### Article R441-1-1
+
+Lorsque les contrats prévus à l'article précédent sont passés au sein du comité d'entreprise, ils sont conclus entre, d'une
+part, le chef d'entreprise et, d'autre part, la délégation du personnel statuant à la majorité. Ils sont constatés par le
+procès-verbal de la séance au cours de laquelle ils ont été conclus [*formalité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Décret n°74-482 1974-05-17 ART. 1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+	**Cite**:
+
+	  - Code du travail - art. R441-1 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R441-9 (Ab)
+
+
+###### Article R441-1-2
+
+La dénonciation d'un contrat passé au sein du comité d'entreprise est constatée par le procès-verbal de la séance au cours de
+laquelle cette dénonciation a eu lieu [*formalité obligatoire*] .
+
+La partie qui dénonce un contrat doit aussitôt notifier cette décision par lettre recommandée avec demande d'avis de
+réception au directeur départemental du travail et de la main-d'oeuvre ou au fonctionnaire assimilé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Décret n°74-482 1974-05-17 ART. 1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+	**Cité par**:
+
+	  - Code du travail - art. R441-9 (Ab)
+
+
 ###### Article R441-2
 
 L'application du contrat prévoyant l'association ou l'intéressement du personnel est suivie :
@@ -64334,6 +64398,50 @@ système de participation retenu.
 	  - Code du travail - art. R441-10 (Ab)
 
 
+###### Article R441-7
+
+La demande d'homologation est adressée par le chef d'entreprise au directeur départemental du travail et de la main-d'oeuvre
+du siège de l'entreprise ou du principal établissement, accompagnée du contrat d'intéressement ou d'association et d'une
+copie de l'accord de salaires en vigueur. Le dossier doit comprendre toutes justifications utiles [*formalités obligatoires*]
+et les observations de chacune des parties signataires.
+
+Les règles fixées par les articles R. 442-5 et R. 442-6 et par le premier alinéa du présent article sont également
+applicables en ce qui concerne les avenants éventuellement apportés à des contrats en cours de validité ainsi qu'en cas de
+renouvellement des contrats arrivés à expiration.
+
+L'homologation peut être retirée dans les conditions prévues à l'article R. 441-5. La décision de retrait d'homologation peut
+faire l'objet d'une réclamation selon la procédure définie à l'article R. 441-6.
+
+Toute décision d'homologation, de refus ou de retrait d'homologation fait l'objet, dans les conditions prévues à l'article L.
+441-3, d'un dépôt au greffe du tribunal d'instance en vue d'y être annexée au contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+	**Cite**:
+
+	  - Code du travail - art. L441-3 (M)
+	  - Code du travail - art. R441-5 (M)
+	  - Code du travail - art. R441-6 (M)
+	  - Code du travail - art. R442-5 (Ab)
+	  - Code du travail - art. R442-6 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R441-13 (Ab)
+
+
 ###### Article R441-8
 
 Seules les entreprises dans lesquelles les salaires effectivement pratiqués sont ceux qui résultent d'un accord de salaires
@@ -64361,6 +64469,33 @@ datant de moins de deux ans au moment de la conclusion ou du renouvellement du c
 	**Cite**:
 
 	  - Code du travail R441-1 A R441-17
+
+
+###### Article R441-9
+
+A l'exception des articles R. 441-1-1 et R. 441-1-2 et des articles R. 441-5 à R. 441-7, les dispositions de la présente
+section ne sont pas applicables [*hors champ*] aux contrats d'intéressement à la productivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail R441-10 A R441-17
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+	**Cite**:
+
+	  - Code du travail - art. R441-1-1 (Ab)
+	  - Code du travail - art. R441-1-2 (Ab)
+	  - Code du travail R441-1 A R441-9
 
 
 ##### Section 2 : Contrat d'intéressement à la productivité.
@@ -64488,70 +64623,6 @@ l'article R. 441-2 et dans les conditions fixées aux articles R. 441-2 et R. 44
 
 	  - Code du travail - art. R441-2 (Ab)
 	  - Code du travail - art. R441-3 (Ab)
-
-
-###### Article R441-13
-
-Sous réserve des dispositions des articles R. 441-14 et R. 441-15 ci-après, les demandes d'exonération sont examinées selon
-la procédure prévues aux articles R. 441-5, R. 441-6, R. 441-7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R441-14 (Ab)
-	  - Code du travail - art. R441-15 (Ab)
-	  - Code du travail - art. R441-5 (M)
-	  - Code du travail - art. R441-6 (M)
-	  - Code du travail - art. R441-7 (M)
-
-
-###### Article R441-14
-
-Lorsque la commission départementale prévue par l'article L. 441-5 examine les demandes d'exonération présentées en
-application de la présente section, son secrétariat est assuré par les services de la direction départementale du commerce
-intérieur et des prix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L441-5 (Ab)
-	  - Code du travail R441-10 A R441-17
-
-	**Cité par**:
-
-	  - Code du travail - art. R441-13 (Ab)
-
-
-###### Article R441-15
-
-Les appels contre les décisions de rejet prises par les commissions départementales et fondées sur les dispositions de la
-présente section sont adressés au ministre chargé du travail qui provoque la réunion de la commission nationale prévue
-l'article L. 441-6 .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L441-6 (Ab)
-	  - Code du travail R441-10 A R441-17
-
-	**Cité par**:
-
-	  - Code du travail - art. R441-13 (Ab)
 
 
 ###### Article R441-16
@@ -65255,17 +65326,23 @@ le directeur régional du travail et de la main-d'oeuvre ou par le fonctionnaire
 
 ###### Article R442-19
 
-Pour l'examen des accords prévus à l'article L. 442-6, le Centre d'étude des revenus et des coûts est composé comme suit :
+Pour l'examen des accords mentionnés à l'article L. 442-6, le centre d'étude des revenus et des coûts est complété
+[*composition*] comme suit :
 
-Le président du Centre d'étude des revenus et des coûts, président ;
+Trois [*nombre*] personnalités nommées pour une durée de trois ans, en raison de leur compétence en matière de participation,
+par décret pris sur proposition du président du centre d'étude des revenus et des coûts ;
 
-Les membres du conseil du Centre d'étude des revenus et des coûts ;
+Cinq représentants des employeurs ;
 
-Deux représentants des employeurs ;
-
-Deux [*nombre*] représentants des salariés.
+Cinq représentants des salariés.
 
 Les représentants des employeurs et des salariés sont désignés par décret.
+
+Participent aux délibérations du centre avec voix consultative, le directeur général des impôts, le directeur du Trésor, le
+directeur général du travail et de l'emploi, le chef du service interministériel de l'intéressement et de la participation ou
+leurs représentants, un représentant du ministre chargé de l'industrie, et, pour les accords relevant de leurs attributions,
+le directeur des affaires sociales au ministère de l'agriculture et du développement rural ou son représentant et un
+représentant du ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
@@ -65273,13 +65350,55 @@ Les représentants des employeurs et des salariés sont désignés par décret.
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
 	**Anciens textes**:
 
 	  - Décret n°87-544 du 17 juillet 1987 - art. 24 (T)
+	  - Code du travail R442-20 (1973)
 
 	**Cite**:
 
 	  - Code du travail - art. L442-6 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R441-6 (Ab)
+
+
+###### Article R442-20
+
+Le centre est, pour l'exercice de la mission qui lui est donnée par l'article L. 442-17, assisté d'un rapporteur général et
+de rapporteurs spéciaux qui lui soumettent après étude les accords susmentionnés sur lesquels un commissaire du Gouvernement
+nommé par décret peut présenter des observations écrites ou orales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+	**Anciens textes**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 25 (MMN)
+
+	**Cite**:
+
+	  - Code du travail - art. L442-17 (Ab)
 
 	**Cité par**:
 
@@ -65381,6 +65500,52 @@ l'entreprise.
 	**Cite**:
 
 	  - Code du travail - art. L420-19 (T)
+
+
+###### Article R442-24
+
+L'employeur doit [*obligation*] présenter dans les six mois [*délai*] qui suivent la clôture de chaque exercice un rapport au
+comité d'entreprise ou à la commission spécialisée créée par ce comité dans des conditions analogues à celles prévues par
+l'article L. 434-3.
+
+Ce rapport comporte notamment :
+
+Les éléments servant de base au calcul du montant de la réserve spéciale de participation des travailleurs pour l'exercice
+écoulé ;
+
+Des indications précises sur la gestion et l'utilisation des sommes affectées à cette réserve.
+
+Lorsque le comité d'entreprise est appelé à siéger pour examiner ce rapport, les questions ainsi examinées doivent faire
+l'objet de réunions distinctes ou d'une mention spéciale à son ordre du jour. Le comité peut se faire assister par l'expert-
+comptable prévu à l'article L. 432-4.
+
+Dans tous les cas où il n'existe pas de comité d'entreprise, le rapport mentionné ci-dessus doit être présenté aux délégués
+du personnel prévus par le titre II du présent livre et adressé à chaque salarié présent dans l'entreprise à l'expiration du
+délai de six mois suivant la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
+
+	**Anciens textes**:
+
+	  - Décret n°87-544 du 17 juillet 1987 - art. 29 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L434-3 (T)
+	  - Code du travail L420-1 A L420-24
 
 
 ###### Article R442-25
@@ -75549,23 +75714,30 @@ est soumise directement à l'inspecteur du travail qui doit être saisi dans les
 
 ###### Article R441-5
 
-La commission départementale prévue à l'article L. 441-5 pour l'examen des demandes d'exonération présentées au titre de
-l'association ou de l'intéressement des travailleurs à l'entreprise, est composée comme suit :
+L'homologation prévue à l'article L. 441-2 est prononcée si le contrat répond aux conditions prévues à la présente section,
+
+s'il est établi que l'entreprise satisfait aux obligations prévues et, notamment, qu'elle a effectué régulièrement le
+versement des impôts et des cotisations de sécurité sociale dont elle est redevable et qu'elle satisfait aux obligations
+résultant de la législation sur les comités d'entreprise et les délégués du personnel par une commission départementale
+composée comme suit :
 
 Le préfet du département intéressé, président ;
 
-Le directeur départemental des impôts ;
+Le directeur des services fiscaux du département ou son représentant ;
 
-Le directeur départemental du commerce intérieur et des prix ;
+Le directeur départemental du travail et de la main-d'oeuvre ou son représentant ;
 
-Le directeur départemental du travail et de la main-d'oeuvre ;
+Le directeur régional de la sécurité sociale ou son représentant ;
 
-Le directeur régional de la sécurité sociale, ou leurs représentants.
+L'inspecteur divisionnaire des lois sociales en agriculture ou son représentant s'il s'agit d'une entreprise agricole.
 
 La commission peut, le cas échéant, faire appel à titre consultatif aux représentants de tout département ministériel
-intéressé.
+interessé.
 
-Son secrétariat est assuré par les services de la direction départementale du travail et de la main-d'oeuvre.
+Elle peut, si elle désire être éclairée sur la portée ou sur un point particulier du contrat, consulter l'employeur et les
+organisations syndicales signataires qui peuvent, de leur côté, demander à être entendus.
+
+Le secrétariat de la commission est assuré par les services de la direction départementale du travail et de la main-d'oeuvre.
 
 **Liens relatifs à cet article**
 
@@ -75575,12 +75747,14 @@ Son secrétariat est assuré par les services de la direction départementale du
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 	  - TXT_ASSOCIE: Code du travail - art. L441-2 (Ab)
 	  - TXT_ASSOCIE: Code du travail - art. L441-5 (Ab)
 
 	**Cite**:
 
-	  - Code du travail - art. L441-5 (Ab)
+	  - Code du travail - art. L441-2 (M)
+	  - Code du travail R441-1 A R441-9
 
 	**Cité par**:
 
@@ -75590,27 +75764,16 @@ Son secrétariat est assuré par les services de la direction départementale du
 
 ###### Article R441-6
 
-La commission nationale instituée auprès du ministre chargé du travail par l'article L. 441-6 en vue d'examiner, à titre
-consultatif, les réclamations contre les décisions de la commission départementale refusant le bénéfice des exonérations est
-saisie soit par l'employeur soit à la demande de la commission départementale.
+Les réclamations contre les décisions de la commission départementale refusant l'homologation doivent [*obligation*] être
+adressées dans un délai de deux mois [*point de départ*] à compter de la notification au ministre du travail, de l'emploi et
+de la population qui les soumet au centre d'études des revenus et des coûts, composé suivant les règles définies par les
+articles R. 442-19 et R. 442-20.
 
-Elle est présidée par un membre du Conseil d'Etat ou un magistrat de la Cour des comptes ; elle comprend [*composition*] en
-outre :
-
-Le directeur général des impôts ;
-
-Le directeur général du commerce intérieur et des prix ;
-
-Le directeur général du travail et de l'emploi ;
-
-Le directeur de la sécurité sociale ;
-
-Le conseiller chargé de l'information pour la productivité des entreprises, ou leurs représentants.
-
-La commission peut, le cas échéant, faire appel à titre consultatif au représentant de tout département ministériel
-intéressé.
-
-Son secrétariat est assuré par les services de la direction générale du travail et de l'emploi.
+L'homologation peut être accordée, sur avis conforme du centre d'étude des revenus et des coûts, par décision conjointe du
+ministre du travail et du ministre de l'économie et des finances. La décision d'homologation doit être également signée par
+le ministre chargé de l'agriculture, s'il s'agit d'une entreprise agricole, et par le ministre chargé des transports s'il
+s'agit d'une entreprise de la marine marchande ou d'une autre entreprise soumise à l'inspection du travail sous l'autorité du
+ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
@@ -75618,12 +75781,9 @@ Son secrétariat est assuré par les services de la direction générale du trav
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
-
-	  - Code du travail - art. L441-6 (Ab)
-
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 	  - TXT_ASSOCIE: Code du travail - art. L441-6 (Ab)
 
 	**Cité par**:
@@ -75631,38 +75791,10 @@ Son secrétariat est assuré par les services de la direction générale du trav
 	  - Code du travail - art. R441-13 (Ab)
 	  - Code du travail - art. R441-7 (Ab)
 
-
-###### Article R441-7
-
-Le chef d'entreprise adresse la demande d'exonération au préfet du département du siège de l'entreprise ou de l'établissement
-accompagnée du contrat d'association ou d'intéressement et d'une copie de l'accord de salaire en vigueur. Le dossier doit
-être établi en cinq [*nombre*] exemplaires.
-
-La commission départementale, réunie à la diligence du préfet, président, peut demander à l'employeur et aux organisations
-syndicales signataires tous éclaircissements et justifications qu'elle juge nécessaires. L'employeur et les organisations
-syndicales signataires sont, sur leur demande entendus par la commission.
-
-Les appels contre les décisions de refus sont adressées dans le délai de quinze jours au ministre chargé du travail, qui
-provoque la réunion de la commission nationale.
-
-Dans le cas où l'une des organisations syndicales signataires ou la commission départementale désire engager la procédure de
-retrait d'exonération prévue à l'article L. 441-7, le dossier doit obligatoirement être transmis suivant le cas, au
-secrétariat de la commission départementale ou à celui de la commission nationale accompagné de toutes justifications utiles.
-La décision ne peut être prise qu'après consultation de chacune des parties signataires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cite**:
 
-	  - Code du travail - art. L441-7 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R441-13 (Ab)
+	  - Code du travail - art. R442-19 (M)
+	  - Code du travail - art. R442-20 (M)
 
 
 #### PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
@@ -75900,84 +76032,6 @@ Décès du bénéficiaire ou de son conjoint.
 	  - Code du travail - art. R442-7 (Ab)
 
 
-##### ACCORDS PASSES ENTRE LES ENTREPRISES ET LEUR PERSONNEL .
-
-###### Article R442-20
-
-Le directeur général des impôts, le directeur du Trésor, le directeur général du travail et de l'emploi, le directeur de la
-technologie, de l'environnement industriel et des mines ou leurs représentants participent aux délibérations du Centre avec
-voix consultative. Le centre est, pour l'exercice de la mission qui lui est donnée par l'article L. 442-17, assisté d'un
-rapporteur général et de rapporteurs spéciaux qui lui soumettent, après étude, les accords susmentionnés sur lesquels un
-commissaire du Gouvernement, nommé par décret, peut présenter des observations écrites ou orales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Décret n°87-544 du 17 juillet 1987 - art. 25 (MMN)
-
-	**Cite**:
-
-	  - Code du travail - art. L442-17 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R441-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail R442-19 (1974)
-
-
-##### INFORMATION DES SALARIES .
-
-###### Article R442-24
-
-Dans le cas prévu à l'article L. 442-12 et dans celui où les accords entre le personnel et l'entreprise ne comportent pas de
-dispositions en ce qui concerne l'information des salariés, l'employeur présente un rapport dans les six mois [*délai*] qui
-suivent la clôture de chaque exercice :
-
-Soit au comité d'entreprise ;
-
-Soit à la commission spécialisée créée par ce comité dans des conditions analogues à celles prévues par l'article L. 434-3 ;
-
-Soit, à défaut de comité d'entreprise, aux délégués du personnel prévus par le titre II du présent livre.
-
-Ce rapport comporte notamment :
-
-Les éléments servant de base au calcul du montant de la réserve spéciale de participation des travailleurs pour l'exercice
-écoulé ;
-
-Des indications précises sur la gestion et l'utilisation des sommes affectées à cette réserve.
-
-Lorsque le comité d'entreprise est appelé à siéger pour examiner ce rapport, les questions ainsi examinées doivent
-[*obligation*] faire l'objet de réunions distinctes ou d'une mention spéciale à son ordre du jour. Le comité peut se faire
-assister par l'expert comptable prévu à l'article L. 432-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Décret n°87-544 du 17 juillet 1987 - art. 29 (T)
-	  - Décret n°67-1112 1967-12-19 ART. 25
-	  - Ordonnance 67-695 1967-04-17
-
-	**Cite**:
-
-	  - Code du travail - art. L432-4 (T)
-	  - Code du travail - art. L434-3 (T)
-	  - Code du travail - art. L442-12 (M)
-	  - Code du travail L420-1 A L420-24
-
-
 #### PLAN D'EPARGNE D'ENTREPRISE
 
 ##### COMPOSITION ET GESTION DU PORTEFEUILLE .
@@ -76026,27 +76080,6 @@ année ces revenus aux propriétaires des parts.
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
-
-
-### INTERESSEMENT OU PARTICIPATION
-
-#### ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE
-
-##### CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .
-
-###### Article R441-9
-
-Les dispositions précédentes ne s'appliquent pas en matière de participation à l'accroissement de la productivité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail R441-1 A R441-8
 
 
 ## CONFLITS DE TRAVAIL
@@ -91842,68 +91875,6 @@ central d'entreprise à plus de quinze titulaires et un nombre égal de suppléa
 
 	  - Code du travail - art. L435-2 (T)
 	  - Code du travail - art. L435-5 (AbD)
-
-
-### INTERESSEMENT ET PARTICIPATION .
-
-###### Article D440-1
-
-Le comité national consultatif constitué auprès du ministre du travail par l'article L. 441-8 est composé comme suit :
-
-Le ministre du travail ou son représentant, président ;
-
-Un représentant du ministre de l'économie et des finances ;
-
-Un représentant du commissariat général du Plan ;
-
-Le président de la commission nationale prévue à l'article L. 441-6 ;
-
-Des représentants en nombre égal des organisations syndicales d'employeurs et de travailleurs les plus représentatives sur le
-plan national, nommés par le ministre du travail sur proposition desdites organisations, à raison de deux membres pour
-chacune des organisations syndicales de travailleurs précitées.
-
-La représentation des employeurs comprendra, obligatoirement deux membres représentant les petites et moyennes entreprises
-[*PME*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-540 1959-04-17
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°74-482 1974-05-17 ART. 7 JORF 19 MAI
-
-	**Cite**:
-
-	  - Code du travail - art. L441-6 (Ab)
-	  - Code du travail - art. L441-8 (Ab)
-
-
-###### Article D440-2
-
-Le président peut, à la demande du comité ou de sa propre initiative, inviter à participer aux travaux, à titre consultatif,
-toute personne ayant une connaissance particulière ou une expérience effective des questions concernant l'intéressement du
-personnel à l'entreprise, ainsi que, le cas échéant, les représentants des différents départements ministériels intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-540 1959-04-17
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Abrogé par**:
-
-	  - Décret n°74-482 1974-05-17 ART. 7 JORF 19 MAI
 
 
 ## CONFLITS DU TRAVAIL
