@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-05-19
+Version Consolidée au 1974-07-05
 
 # Partie législative ancienne
 
@@ -37307,6 +37307,77 @@ du travail au 1er mai 2008.
 	  - Code du travail LIVRE I A VI
 
 
+###### Article L761-2
+
+Le journaliste professionnel est   celui qui a pour occupation principale, régulière et rétribuée l'exercice de sa profession
+dans une ou plusieurs publications quotidiennes ou périodiques ou dans une ou plusieurs agences de presse et qui en tire le
+principal de ses ressources. 
+
+Le correspondant, qu'il travaille sur le territoire français ou à l'étranger, est un journaliste professionnel s'il reçoit
+des appointements fixes et remplit les conditions prévues au paragraphe précédent. 
+
+Sont assimilés aux journalistes professionnels les collaborateurs directs de la rédaction : rédacteurs-traducteurs,
+sténographes-rédacteurs, rédacteurs-reviseurs, reporters-dessinateurs, reporters-photographes, à l'exclusion des agents de
+publicité et de tous ceux qui n'apportent, à un titre quelconque qu'une collaboration occasionnelle. 
+
+Toute convention par laquelle une entreprise de presse s'assure, moyennant rémunération, le concours d'un journaliste
+professionnel au sens du premier alinéa du présent article est présumée être un contrat de travail. Cette présomption
+subsiste quels que soient le mode et le montant de la rémunération ainsi que la qualification donnée à la convention par les
+parties.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°82-652 du 29 juillet 1982 - art. 93-1 (Ab)
+	  - Loi n°82-652 du 29 juillet 1982 - art. 93-2 (M)
+	  - Loi n°84-937 du 23 octobre 1984 - art. 14 (Ab)
+	  - Loi n°87-39 du 27 janvier 1987 - art. 10 (V)
+	  - Décret n°87-210 du 27 mars 1987 - art. 1 (Ab)
+	  - Décret n°90-96 du 25 janvier 1990 - art. 1 (Ab)
+	  - Loi n°93-924 du 20 juillet 1993 - art. 1 (V)
+	  - Loi n°93-924 du 20 juillet 1993 - art. 2 (V)
+	  - Arrêté du 5 mai 2006 - art. ANNEXE (V)
+	  - Code de la sécurité sociale. - art. L311-3 (V)
+	  - Code de la sécurité sociale. - art. L382-1 (V)
+	  - Code du travail - art. L761-10 (AbD)
+	  - Code du travail - art. L761-13 (AbD)
+	  - Code du travail - art. L761-14 (AbD)
+	  - Code du travail - art. L761-15 (AbD)
+	  - Code du travail - art. L761-3 (AbD)
+	  - Code du travail - art. L761-7 (AbD)
+	  - Code du travail - art. L761-8 (AbD)
+	  - Code du travail - art. L761-9 (AbD)
+	  - Code du travail - art. R761-20 (VT)
+	  - Code du travail - art. R761-3 (VT)
+	  - Code monétaire et financier - art. L621-31 (V)
+	  - Code monétaire et financier - art. R621-30-1 (V)
+	  - Code monétaire et financier - art. R621-30-2 (V)
+	  - Code monétaire et financier - art. R621-30-3 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L7111-3 (VD)
+	  - Code du travail - art. L7111-4 (VD)
+	  - Code du travail - art. L7112-1 (VD)
+
+
 ###### Article L761-3
 
 Toute convention contraire aux dispositions des articles L. 761-1, L. 761-2, L. 761-4 à L. 761-8, L. 761-12 à L. 761-14 est
@@ -40146,64 +40217,6 @@ mis à la retraite. Cette indemnité et celle prévue au premier alinéa du pré
 	**Cite**:
 
 	  - Code du travail L122-1 A L122-42
-
-
-### JOURNALISTES PROFESSIONNELS .
-
-###### Article L761-2
-
-Le journaliste professionnel [*définition*] est celui qui a pour occupation principale, régulière et rétribuée l'exercice de
-sa profession dans une publication quotidienne ou périodique éditée en France ou dans une agence française d'information, et
-qui en tire le principal des ressources nécessaires à son existence.
-
-Le correspondant, qu'il travaille sur le territoire français ou à l'étranger, est un journaliste professionnel s'il reçoit
-des appointements fixes et remplit les conditions prévues au paragraphe précédent.
-
-Sont assimilés aux journalistes professionnels les collaborateurs directs de la rédaction : rédacteurs-traducteurs,
-sténographes-rédacteurs, rédacteurs-réviseurs, reporters-dessinateurs, reporters-photographes, à l'exclusion des agents de
-publicité et de tous ceux qui n'apportent, à un titre quelconque qu'une collaboration occasionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Loi n°82-652 du 29 juillet 1982 - art. 93-1 (Ab)
-	  - Loi n°82-652 du 29 juillet 1982 - art. 93-2 (M)
-	  - Loi n°84-937 du 23 octobre 1984 - art. 14 (Ab)
-	  - Loi n°87-39 du 27 janvier 1987 - art. 10 (V)
-	  - Décret n°87-210 du 27 mars 1987 - art. 1 (Ab)
-	  - Décret n°90-96 du 25 janvier 1990 - art. 1 (Ab)
-	  - Loi n°93-924 du 20 juillet 1993 - art. 1 (V)
-	  - Loi n°93-924 du 20 juillet 1993 - art. 2 (V)
-	  - Arrêté du 5 mai 2006 - art. ANNEXE (V)
-	  - Code de la sécurité sociale. - art. L311-3 (V)
-	  - Code de la sécurité sociale. - art. L382-1 (V)
-	  - Code du travail - art. L761-10 (AbD)
-	  - Code du travail - art. L761-13 (AbD)
-	  - Code du travail - art. L761-14 (AbD)
-	  - Code du travail - art. L761-15 (AbD)
-	  - Code du travail - art. L761-3 (AbD)
-	  - Code du travail - art. L761-7 (AbD)
-	  - Code du travail - art. L761-8 (AbD)
-	  - Code du travail - art. L761-9 (AbD)
-	  - Code du travail - art. R761-20 (VT)
-	  - Code du travail - art. R761-3 (VT)
-	  - Code monétaire et financier - art. L621-31 (V)
-	  - Code monétaire et financier - art. R621-30-1 (V)
-	  - Code monétaire et financier - art. R621-30-2 (V)
-	  - Code monétaire et financier - art. R621-30-3 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R761-3 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1029 B AL. 3 ET 4
 
 
 ### ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES
