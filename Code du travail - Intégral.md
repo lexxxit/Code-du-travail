@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-01-03
+Version Consolidée au 1974-01-26
 
 # Partie législative ancienne
 
@@ -91568,22 +91568,16 @@ salaire normalement attribué pour des travaux analogues.
 	  - Décret  1949-07-15 ART. 7
 
 
-## PLACEMENTS ET EMPLOI
-
-### TRAVAILLEURS PRIVES D'EMPLOI
-
-#### GARANTIES DE RESSOURCES .
-
 ###### Article D351-8
 
-A compter du 29 janvier 1973 *date*, les taux des allocations d'aide publique aux travailleurs privés d'emploi prévues à
-l'article R. 351-8 sont fixés ainsi qu'il suit :
+A compter du 14 janvier 1974 *date*, les taux journaliers des allocations d'aide publique aux travailleurs privés d'emploi
+fixés à l'article R. 351-8 du code du travail sont modifiés ainsi qu'il suit :
 
 Ayant-Droit :
 
-- Allocation principale pendant les trois premiers mois : 8,90 Francs, après le troisième mois : 8,10 Francs .
+- Allocation principale pendant les trois premiers mois : 10 Francs, après le troisième mois : 9,10 Francs .
 
-- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 3,60 Francs, après le troisième mois : 3,60
+- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 4 Francs, après le troisième mois : 4
 Francs .
 
 **Liens relatifs à cet article**
@@ -91595,10 +91589,6 @@ Francs .
 	**Cité par**:
 
 	  - Décret n°79-530 du 3 juillet 1979 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R351-8 (M)
 
 
 ## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
