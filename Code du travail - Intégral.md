@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-09-29
+Version Consolidée au 1979-10-01
 
 # Partie législative ancienne
 
@@ -34883,6 +34883,73 @@ la majorité des deux tiers de celui-ci// .
 
 #### PLANS D'EPARGNE D'ENTREPRISE .
 
+###### Article L443-5
+
+Le portefeuille collectif doit, sous réserve de ce qui est dit à l'alinéa suivant, être exclusivement composé d'actions de
+sociétés d'investissement à capital variable.
+
+Dans les entreprises employant plus de cent salariés [*effectifs*], ce portefeuille peut toutefois comprendre, soit
+exclusivement des valeurs mobilières émises par l'entreprise, soit des valeurs mobilières françaises diversifiées comprenant
+ou non des titres de l'entreprise.
+
+Lorsqu'il est fait usage de la faculté prévue à l'alinéa précédent il est constitué un fonds commun de placement dont les
+parts appartiennent aux salariés participant aux plans d'épargne d'entreprise.
+
+/A/Par dérogation à l'article 3 du décret n° 57-1342 du 28 décembre 1957/A/LOI  0594 13-07-1979//, ces fonds communs de
+placement peuvent être gérés par l'entreprise dans les conditions prévues par le plan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°57-1342 du 28 décembre 1957 - art. 3 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°66-537 du 24 juillet 1966 - art. 180 (Ab)
+	  - Loi n°66-537 du 24 juillet 1966 - art. 186-3 (Ab)
+	  - Loi n°66-537 du 24 juillet 1966 - art. 285 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 165 (M)
+	  - Loi n°86-912 du 6 août 1986 - art. 2 (Ab)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 42 (MMN)
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 20 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 82 (M)
+	  - Code de commerce - art. L228-39 (M)
+	  - Code de commerce. - art. L225-129 (M)
+	  - Code de commerce. - art. L225-129-6 (M)
+	  - Code de commerce. - art. L225-138 (M)
+	  - Code de commerce. - art. L225-138-1 (V)
+	  - Code du travail - art. L442-7 (AbD)
+	  - Code du travail - art. L443-1-2 (AbD)
+	  - Code du travail - art. L443-2 (Ab)
+	  - Code du travail - art. L443-3 (AbD)
+	  - Code du travail - art. L443-6 (M)
+	  - Code du travail - art. L444-3 (AbD)
+	  - Code du travail - art. L444-9 (AbD)
+	  - Code du travail - art. R443-1 (Ab)
+	  - Code du travail - art. R443-12 (Ab)
+	  - Code du travail - art. R443-7 (M)
+	  - Code du travail - art. R471-3 (V)
+	  - Code monétaire et financier - art. L212-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Anciens textes**:
+
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 25 (MMN)
+	  - Loi n°65-997 1965-12-29 ART. 5
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L443-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L212-15 (V)
+
+
 ###### Article L443-6
 
 Sauf dans les cas énumérés par le décret prévu à l'article L. 443-10, les actions ou parts acquises pour le compte des
@@ -64822,6 +64889,1005 @@ normal de travail.
 	  - Code du travail - art. R4141-5 (V)
 	  - Code du travail - art. R4141-6 (V)
 	  - Code du travail - art. R4141-9 (V)
+
+
+###### Article R231-45
+
+En vue de la consultation prévue à l'article L. 432-1 (alinéa 4) (L. 432-3 alinéa 7), le chef d'entreprise informe le comité
+d'entreprise des actions qui ont été menées au cours de l'année écoulée, dans les domaines définis aux articles R. 231-35, R.
+231-36, R. 231-37 et R. 231-39 en faisant ressortir le montant des sommes imputées sur la participation prévue à l'article L.
+950-1.
+
+Dans les entreprises occupant plus de 300 salariés [*effectif*] un rapport écrit détaillé est remis au comité
+[*information*].
+
+Dans les entreprises mentionnées à l'alinéa précédent, il est également remis un programme des actions proposées dans les
+mêmes domaines, pour l'année à venir, au bénéfice des salariés définis aux articles R. 231-38.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+
+
+##### Section 5 : Substances et préparations dangereuses pour les travailleurs
+
+##### Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.
+
+###### Article R231-46
+
+Des arrêtés du ministre chargé du travail pris après avis du conseil supérieur de la prévention des risques professionnels
+peuvent prescrire pour certaines des substances ou préparations régies par les règlements prévus à l'article L. 231-7 que des
+prélèvements et analyses seront effectués [*obligatoirement*] à la charge des fabricants, importateurs ou vendeurs, par les
+laboratoires agréés par le ministre chargé du travail en application de l'article L. 231-7 (5e alinéa). Ces arrêtés fixent
+éventuellement la périodicité de ces prélèvements et analyses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L231-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-54-9 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-60 (T)
+
+
+###### Article R231-47
+
+Les décrets en Conseil d'Etat, pris dans les conditions prévues à l'article L. 231-7 et relatifs aux différents catégories de
+substances et de préparations, définiront les conditions dans lesquelles les fabricants, importateurs ou vendeurs portent à
+la connaissance des chefs d'établissement et travailleurs indépendants utilisateurs les renseignements relatifs à la
+composition des substances ou préparations visées à la présente section, aux risques qu'elles présentent et aux précautions à
+prendre dans leur emploi [*information*].
+
+Lorsqu'une substance ou une préparation paraît de nature à faire courir des risques aux travailleurs, sa fabrication, sa mise
+en vente, sa vente, son importation, sa cession à quelque titre que ce soit ainsi que son emploi peuvent être interdits ou
+limités par les règlements d'administration publique pris dans les conditions prévues par l'article L. 231-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°92-1261 du 3 décembre 1992 - art. 2 () JORF 5 décembre 1992 date d'entrée en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code du travail - art. L231-7 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-54-5 (T)
+
+
+###### Article R231-48
+
+En cas d'urgence motivée par un grave danger pour les travailleurs, le ministre chargé du travail [*autorité compétente*]
+peut, par arrêtés, limiter, réglementer ou interdire la commercialisation ou l'utilisation à quelque titre que ce soit ainsi
+que l'emploi de la substance ou préparation dangereuse, sans recueillir l'avis du conseil supérieur de la prévention des
+risques professionnels. La durée de validité de ces arrêtés ne peut excéder six mois non renouvelables. Elle peut toutefois
+être portée à douze mois après avis du conseil supérieur de la prévention des risques professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°97-331 du 10 avril 1997 - art. 4 (VT)
+	  - Code du travail - art. R231-49 (T)
+	  - Code du travail - art. R231-58 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-57 (M)
+	  - Code du travail - art. R231-57 (V)
+
+
+###### Article R231-49
+
+Dans tous les cas où est intervenu un règlement ou un arrêté pris par application des articles R. 231-47 (2e alinéa) et R.
+231-48, les fabricants, importateurs ou vendeurs sont tenus [*obligation*] de prendre toutes dispositions pour informer les
+utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R231-48 (T)
+	  - Code du travail R231-47 AL. 2, R231-48
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-53-1 (V)
+
+
+###### Article R231-50
+
+Pour l'application de la présente sous-section, lorsque les substances ou préparations mentionnées à l'article L. 231-7 sont
+utilisées principalement dans des établissements et exploitations agricoles, le ministre chargé de l'agriculture [*autorité
+compétente*] et la commission nationale d'hygiène et de sécurité du travail en agriculture sont substitués au ministre chargé
+du travail et au conseil supérieur de la prévention des risques professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L231-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-58-2 (T)
+
+
+##### SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.
+
+###### Article R231-51
+
+Sans préjudice de la déclaration prévue à l'article 3 de la loi n. 77-771 du 12 juillet 1977 sur le contrôle des produits
+chimiques, les fabricants, les importateurs et les vendeurs de substances chimiques ou de préparations les contenant doivent
+fournir à un organisme agréé par le ministre chargé du travail les informations prévues par l'article L. 231-7 (3e alinéa)
+pour toute substance destinée à être mise pour la première fois sur le marché soit en l'état, soit au sein d'une préparation
+ou d'un matériel, et susceptible d'être utilisée dans les établissements soumis aux dispositions du titre III du livre II du
+présent code.
+
+La même obligation s'impose pour toute préparation destinée à être mise pour la première fois sur le marché et contenant
+l'une au moins des substances classées en application du livre V, titre III, chapitre Ier, du code de la santé publique (2è
+partie) ou des substances désignées par arrêté du ministre chargé du travail.
+
+Toutefois, le ministre chargé du travail peut, par arrêté, fixer les seuils pour les substances contenues dans ces
+préparations au-dessous desquels les fabricants, les importateurs et les vendeurs seront dispensés de ladite obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°77-771 du 12 juillet 1977 - art. 3 (Ab)
+	  - Code du travail L231-7 AL. 3, L231-1 A L235-8
+	  - Code de la santé publique L626 A L630-2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 14 avril 1989
+	  - TXT_SOURCE: Arrêté du 14 avril 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. Annexe I (Ab)
+	  - TXT_SOURCE: Arrêté du 14 mars 1986 - art. Annexe II (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1979 - art. ANNEXE 1 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R231-54 (T)
+
+	**Cité par**:
+
+	  - Arrêté du 5 janvier 1993 - art. 4 (Ab)
+	  - Arrêté du 19 mars 1993 - art. 1 (M)
+	  - Arrêté du 4 novembre 1993 - art. 11 (V)
+	  - Arrêté du 20 avril 1994 - art. 23 (Ab)
+	  - Arrêté du 20 avril 1994 - art. 6 (V)
+	  - Arrêté du 10 mai 1994 - art. 1 (V)
+	  - Décret n°95-978 du 24 août 1995 - art. 3 (Ab)
+	  - Décret n°99-55 du 26 janvier 1999 - art. 2 (Ab)
+	  - Décret n°99-1046 du 13 décembre 1999 - art. 8 (VT)
+	  - Décret n°2002-540 du 18 avril 2002 - art. 3 (Ab)
+	  - Décret n°2002-540 du 18 avril 2002 - art. Annexe II (Ab)
+	  - Décret n°2003-937 du 30 septembre 2003 - art. 3 (Ab)
+	  - Décret n°2004-187 du 26 février 2004 - art. 10 (Ab)
+	  - Décret n°2004-187 du 26 février 2004 - art. 14 (Ab)
+	  - Décret n°2004-187 du 26 février 2004 - art. 2 (Ab)
+	  - Décret n°2004-187 du 26 février 2004 - art. 20 (Ab)
+	  - Arrêté du 19 mai 2004 - art. 7 (V)
+	  - Arrêté du 9 novembre 2004 - art. 1 (V)
+	  - Arrêté du 9 novembre 2004 - art. 2 (V)
+	  - Arrêté du 9 novembre 2004 - art. 3 (V)
+	  - Arrêté du 9 novembre 2004 - art. 9 (V)
+	  - Arrêté du 4 août 2006 - art. 2 (V)
+	  - Arrêté du 7 décembre 2007 (VT)
+	  - Arrêté du 7 juillet 2009 (V)
+	  - Arrêté du 9 novembre 2009 (V)
+	  - Arrêté du 15 mars 2010 - art. 1 (V)
+	  - Arrêté du 12 août 2010 (V)
+	  - Arrêté du 14 janvier 2011 (V)
+	  - Arrêté du 8 décembre 2011 (V)
+	  - Arrêté du 14 décembre 2013 (V)
+	  - Arrêté du 14 mars 1986 - art. 1 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. 4 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. 8 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. ANNEXE 1 (Ab)
+	  - Code de l'environnement - art. L151-1 (V)
+	  - Code de l'environnement - art. R213-48-13 (VD)
+	  - Code de l'environnement - art. R521-2 (V)
+	  - Code de l'environnement - art. R522-31 (M)
+	  - Code de l'environnement - art. R522-37 (V)
+	  - Code de la santé publique - art. R513-10-14 (M)
+	  - Code des douanes - art. 266 nonies (V)
+	  - Code des douanes - art. 266 octies (M)
+	  - Code des douanes - art. 266 sexies (VT)
+	  - Code du travail - art. R231-52-7 (VT)
+	  - Code du travail - art. R231-52-8 (VT)
+	  - Code du travail - art. R231-53 (VT)
+	  - Code du travail - art. R231-54 (T)
+	  - Code du travail - art. R231-54-1 (VT)
+	  - Code du travail - art. R231-54-2 (VT)
+	  - Code du travail - art. R231-54-4 (T)
+	  - Code du travail - art. R231-56 (M)
+	  - Code du travail - art. R231-57 (T)
+	  - Code du travail - art. R231-60 (T)
+	  - Code rural - art. R716-19 (V)
+	  - Code rural - art. R716-2 (V)
+	  - Code rural - art. R719-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52 (M)
+
+
+###### Article R231-52
+
+Les organismes agréés au sens de l'article L. 231-7 (3e alinéa) sont désignés par arrêtés du ministre chargé du travail après
+avis du conseil supérieur de la prévention des risques professionnels. L'arrêté d'agrément fixe les modalités techniques
+d'exécution de la mission de ces organismes.
+
+L'agrément peut être retiré dans les mêmes formes, après que l'organisme agréé a été appelé à présenter ses observations,
+lorsque celui-ci ne se conforme pas aux prescriptions réglementaires en vigueur ou qu'il n'est plus en mesure d'assurer sa
+mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 20 septembre 1979 - art. 15 (V)
+	  - Arrêté du 5 janvier 1993 - art. Annexe (M)
+	  - Arrêté du 20 avril 1994 - art. 1 (V)
+	  - Arrêté du 20 avril 1994 - art. 11 (Ab)
+	  - Arrêté du 20 avril 1994 - art. 12 (Ab)
+	  - Arrêté du 20 avril 1994 - art. 13 (Ab)
+	  - Arrêté du 20 avril 1994 - art. 9 (Ab)
+	  - Arrêté du 27 juin 1994 - art. 4 (AbD)
+	  - Code du travail - art. R231-52-11 (M)
+	  - Code du travail - art. R231-52-12 (M)
+	  - Code du travail - art. R231-52-15 (M)
+	  - Code du travail - art. R231-52-2 (VT)
+	  - Code du travail - art. R231-52-3 (VT)
+	  - Code du travail - art. R231-52-4 (VT)
+	  - Code du travail - art. R231-52-7 (VT)
+	  - Code du travail - art. R231-62 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 14 août 1979
+	  - TXT_SOURCE: Arrêté du 14 août 1979 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 août 1979 - art. 2 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R231-52-3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R231-51 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-1 (M)
+
+	**Cite**:
+
+	  - Code du travail L231-7 AL. 3
+
+
+###### Article R231-54
+
+I - Les informations à fournir en application de l'article R. 231-51 (1er alinéa) ci-dessus sont les suivantes pour toute
+substance chimique mise pour la première fois sur le marché :
+
+Nom, prénoms, adresse et qualité du signataire de l'envoi ;
+
+Désignation chimique normalisée et désignation commerciale de la substance et éventuellement de la préparation ou du matériel
+qui la contient ;
+
+Formule chimique de la substance ;
+
+Principe du procédé par lequel elle est obtenue ;
+
+Propriétés physiques de la substance ;
+
+Impuretés et additifs pouvant être associés à la substance ;
+
+S'il y a lieu, composition de la préparation ou nature du matériel qui contient la substance et teneur de la substance dans
+cette préparation ou ce matériel ;
+
+Conditionnement commercial de la substance ou, s'il y a lieu, de la préparation ou du matériel où cette substance est
+incluse ;
+
+Méthodes de détection et de dosage de la substance ;
+
+Résultats d'essais de toxicité aiguë et subaiguë, d'action corrosive ou irritante ;
+
+Résultats d'essais de mutagénèse à court terme ;
+
+Résultats d'essais d'inflammation ou d'explosion ;
+
+Usages envisagés dans les établissements visés à l'article L. 231-1 et précautions à prendre dans l'utilisation.
+
+Le fabricant ou l'importateur doit joindre aux informations prévues ci-dessus tous autres éléments dont il dispose qui
+seraient utiles à l'appréciation des risques encourus par les travailleurs, notamment le résultats d'essais sur le
+métabolisme ou sur la toxicité chronique ou sur d'autres effets à long terme si ces essais ont été réalisés.
+
+Les fabricants ou importateurs de substances chimiques peuvent toutefois se dispenser de fournir tout ou partie des résultats
+d'essais prévus au premier alinéa ci-dessus s'ils peuvent établir par d'autres moyens l'innocuité ou le degré de nocivité de
+ces substances pour les travailleurs.
+
+II - Dans le cas de préparations [*contenant des substances vénéneuses*] visées à l'article R. 231-51 (2e alinéa ci-dessus),
+les éléments suivants doivent être fournis :
+
+Nom, prénoms, adresse et qualité du signataire de l'envoi ;
+
+Désignation commerciale de la préparation ;
+
+Composition qualitative de la préparation ;
+
+Teneurs dans la préparation des substances visées à l'article R. 231-51 (2e alinéa) ;
+
+Etat physique et conditionnement commercial de la préparation ;
+
+Usages envisagés dans les établissements mentionnés à l'article L. 231-1 et précautions à prendre dans l'utilisation.
+
+III - Le fabricant ou l'importateur fait connaître, le cas échéant, à l'organisme agréé celles des informations mentionnées
+aux I et II ci-dessus dont la diffusion lui apparaîtrait de nature à entraîner la divulgation des secrets de fabrication. Ces
+dispositions ne peuvent faire obstacle à la fourniture des renseignements prévus à l'article R. 231-60 (4e et 5e alinéas) ni
+à l'application des règlements prévus à l'article R. 231-47 (1er alinéa).
+
+IV - Les pièces à fournir en application du présent article doivent être rédigées [*obligatoirement*] en langue française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°86-570 1986-03-14 art. 3 JORF 18 mars 1986
+
+	**Cité par**:
+
+	  - Arrêté du 5 janvier 1993 - art. Annexe (Ab)
+	  - Décret n°97-331 du 10 avril 1997 - art. 1 (VT)
+	  - Arrêté du 14 mars 1986 - art. 4 (Ab)
+	  - Arrêté du 14 mars 1986 - art. 5 (Ab)
+	  - Arrêté du 14 mars 1986 - art. 7 (Ab)
+	  - Code du travail - art. R231-54-1 (T)
+	  - Code du travail - art. R231-54-3 (T)
+	  - Code du travail - art. R231-54-5 (T)
+	  - Code du travail - art. R231-54-6 (T)
+	  - Code du travail - art. R231-55 (T)
+	  - Code du travail - art. R231-56-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail L231-1, R231-51 AL. 1 ET 2, R231-47 AL. 1, R231-60 AL. 4 ET 5
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-3 (M)
+
+
+###### Article R231-55
+
+En tant que de besoin, des arrêtés du ministre chargé du travail définissent les modalités des essais auxquels devront être
+soumises les substances et préparations et précisent les informations à fournir en application de l'article R. 231-54 ci-
+dessus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-806 du 17 juin 1955 - art. Tableau 40 (Ab)
+	  - Décret n°96-98 du 7 février 1996 - art. 20 (Ab)
+	  - Arrêté du 20 août 1996 - art. 5 (M)
+	  - Code du travail - art. R231-55-2 (VT)
+	  - Code du travail - art. R231-56-4-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 20 août 1996
+	  - TXT_SOURCE: Arrêté du 20 août 1996 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1996 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1996 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1996 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1996 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1996 - art. ANNEXE (V)
+	  - TXT_SOURCE: Arrêté du 17 novembre 1997
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-10 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-54 (Ab)
+
+
+###### Article R231-56
+
+Les informations visées à l'article R. 231-51 ci-dessus sont adressées en deux exemplaires en recommandé avec avis de
+réception par le fabricant ou l'importateur à l'organisme agréé [*condition de forme*] . L'organisme agréé fait connaître au
+fabricant ou à l'importateur dans un délai d'un mois si le dossier est recevable ou non. A défaut de réponse dans ce délai,
+le dossier est considéré comme recevable [*accord tacite*].
+
+Si l'organisme agréé estime le dossier irrecevable, il demande au fabricant ou à l'importateur de le rectifier ou de le
+compléter. L'organisme agréé adresse au ministre chargé du travail copie de sa demande de rectification ou de complément avec
+un exemplaire du dossier. Si le fabricant ou l'importateur conteste la demande de l'organisme agréé, il en saisit le ministre
+chargé du travail et envoie copie de son recours à l'organisme agréé. Le ministre chargé du travail statue dans un délai d'un
+mois et notifie sa décision au fabricant ou à l'importateur et à l'organisme agréé. L'absence de notification d'une réponse à
+l'expiration de ce délai vaut rejet de la demande. L'organisme agréé dispose à nouveau d'un délai d'un mois à compter de la
+réception d'un dossier rectifié ou complété pour examiner sa recevabilité [*procédure*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 5 janvier 1993
+	  - TXT_SOURCE: Arrêté du 5 janvier 1993 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 5 janvier 1993 - art. Annexe (Ab)
+	  - Arrêté du 5 janvier 1993 - art. 1 (V)
+	  - Arrêté du 2 novembre 2007 (V)
+	  - Arrêté du 30 octobre 2007 (V)
+	  - Arrêté du 14 décembre 2013 (V)
+	  - Décret n°2016-756 du 7 juin 2016 - art. 2
+	  - Code de la sécurité sociale. - art. D461-25 (M)
+	  - Code du travail - art. R231-12-5 (VT)
+	  - Code du travail - art. R231-54 (VT)
+	  - Code du travail - art. R231-57 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-51 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-11 (M)
+
+
+###### Article R231-57
+
+Toute substance chimique ou préparation peut être mise sur le marché à titre onéreux [*vente*] ou gratuit dès que le dossier
+a été reconnu recevable [*condition*] ou est considéré comme tel en application de l'article R. 231-56.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R231-48 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-12 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-52-13 (VT)
+	  - Code du travail - art. R231-52-4 (VT)
+	  - Code du travail - art. R231-53-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-56 (M)
+
+
+###### Article R231-58
+
+Dans un délai d'un mois à compter de la date à laquelle le dossier a été reconnu recevable l'organisme agréé adresse
+[*obligation*] au ministre chargé du travail avec son avis préliminaire un exemplaire du dossier ou des compléments fournis
+par le fabricant ou l'importateur.
+
+S'il apparaît que la substance ou la préparation est susceptible de présenter un danger grave pour les travailleurs, le
+ministre [*autorité compétente*] peut prendre toutes dispositions conservatoires dans les formes prévues à l'article R.
+231-48.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Arrêté du 5 janvier 1993 - art. Annexe (Ab)
+	  - Arrêté du 20 août 1996 - art. 5 (Ab)
+	  - Arrêté du 20 août 1996 - art. ANNEXE (Ab)
+	  - Décret n°2003-1254 du 23 décembre 2003 - art. 5 (V)
+	  - Arrêté du 20 décembre 2004 - art. 1 (V)
+	  - Code du travail - art. R231-12-5 (VT)
+	  - Code du travail - art. R231-52-14 (M)
+	  - Code du travail - art. R231-59 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-48 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-13 (M)
+	  - Code du travail - art. R231-59 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R231-64 (T)
+
+
+###### Article R231-59
+
+Après avoir adressé au ministre chargé du travail l'avis préliminaire prévu à l'article R. 231-58, l'organisme agréé procède
+à un examen détaillé du dossier. Le fabricant ou l'importateur peut être invité par demande motivée de l'organisme agréé :
+
+A fournir toutes justifications complémentaires dont il dispose ;
+
+A effectuer de nouveaux essais pouvant concerner notamment le métabolisme ou la toxicité chronique du produit ou d'autres
+effets à long terme sur la santé des travailleurs.
+
+L'organisme agréé peut également procéder ou faire procéder à la charge du fabricant ou de l'importateur dûment prévenu à des
+essais permettant de contrôler les informations fournies ou à des essais complémentaires. A cet effet, le fabricant ou
+l'importateur est tenu de fournir, à la demande de l'organisme agréé, des échantillons de la substance ou de la préparation
+[*obligation*].
+
+En cas de contestation sur la nature ou l'importance des essais à effectuer ou des renseignements à fournir, le fabricant ou
+l'importateur saisit le ministre chargé du travail [*compétence recours*] qui statue et notifie sa décision au fabricant ou à
+l'importateur, d'une part, à l'organisme agréé, d'autre part.
+
+Sans préjudice d'informations complémentaires qui pourraient être recueillies ultérieurement en application des alinéas
+précédents, l'organisme agréé, dans un délai d'un an à compter de la date à laquelle le dossier a été reconnu recevable,
+porte à la connaissance du ministre chargé du travail le résultat de ses études avec son avis et lui propose éventuellement
+les dispositions à prendre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Arrêté du 14 mars 1986 - art. 6 (Ab)
+	  - Code du travail - art. R231-54-3 (T)
+	  - Code du travail - art. R231-60 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-14 (M)
+	  - Code du travail - art. R231-55-4 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-58 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R231-58 (T)
+
+
+###### Article R231-60
+
+L'un des organismes agréés au sens de l'article L. 231-7 (3e alinéa) est désigné, avec l'accord de celui-ci, par arrêté du
+ministre chargé du travail en vue d'assurer la conservation et l'exploitation ultérieure des dossiers établis en application
+de l'article R. 231-51 ci-dessus ainsi que de leurs compléments et des résultats des essais prévus à l'article R. 231-59. Le
+ministre chargé du travail fixe par arrêté les conditions dans lesquelles l'organisme désigné exerce cette mission.
+
+Les autres organismes agréés adressent à l'organisme désigné copie de l'ensemble des documents mentionnés à l'alinéa ci-
+dessus.
+
+L'organisme désigné complète les dossiers ainsi recueillis pour chaque substance ou préparation par tout document s'y
+rapportant. A cette fin, les résultats des analyses prévues à l'article R. 231-46 du présent code sont adressés par le
+laboratoire agréé à l'organisme désigné.
+
+L'organisme désigné est habilité à fournir à toutes personnes qui en font la demande et concernées par la protection des
+travailleurs, notamment aux médecins du travail, les renseignements qu'il détient relatifs aux dangers que présente une
+substance ou une préparation, aux précautions à prendre dans son emploi, son stockage, son transport ou son élimination et à
+la nature et la teneur de toutes substances figurant dans la liste prévue à l'article R. 231-51 (2e alinéa) contenues dans
+une préparation, à l'exclusion de toute autre information relevant du secret de fabrication.
+
+L'organisme désigné est également habilité à fournir aux inspecteurs du travail, aux médecins inspecteurs du travail, aux
+ingénieurs-conseils des caisses régionales de l'assurance maladie mentionnés à l'article L. 423 du code de la sécurité
+sociale et aux agents chargés du contrôle de la prévention, agréés et assermentés, mentionnés à l'article 1244-3 (2e alinéa)
+du code rural tout renseignement qu'il détient sur la composition des préparations. Il est également habilité à fournir ces
+mêmes renseignements aux chefs des centres de traitement des intoxications prévus par l'article L. 658-3 du code de la santé
+publique qui son tenus de garder le secret dans les conditions fixées par l'article 7 du décret n. 77-1558 du 28 décembre
+1977 relatif à la constitution du dossier et aux transmissions préalables à la mise sur le marché d'un produit cosmétique ou
+d'un produit d'hygiène corporelle. Les demandes de renseignements au titre du présent alinéa sont faites par écrit à
+l'organisme désigné qui les enregistre [*condition de forme*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 7 (Ab)
+	  - Code du travail - art. R231-46 (T)
+	  - Code du travail - art. R231-51 (M)
+	  - Code du travail - art. R231-59 (T)
+	  - Code du travail L231-7 AL. 3, R231-51, R231-59, R231-46
+	  - Code de la santé publique - art. L658-3 (M)
+	  - Code de la sécurité sociale L423
+	  - Code rural 1244-3 AL. 2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 14 août 1979
+	  - TXT_SOURCE: Arrêté du 14 août 1979 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 août 1979 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 27 juin 1994 - art. 4 (AbD)
+	  - Arrêté du 14 août 1979 - art. 1 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. 6 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. 8 (Ab)
+	  - Code du travail - art. R231-54-5 (T)
+	  - Code du travail - art. R231-62 (T)
+	  - Code du travail - art. R231-64 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-15 (M)
+
+
+###### Article R231-61
+
+Les responsables des organismes agréés prennent toutes dispositions utiles pour que les informations mentionnées à l'article
+R. 231-54-III ne soient accessibles qu'aux personnes qu'ils ont désignées pour en assurer la garde et qui sont astreintes au
+secret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail R231-54 III
+
+
+###### Article R231-62
+
+En application de l'article L. 231-7 (4e alinéa), les fabricants et importateurs versent à l'organisme agréé pour chaque
+dossier qu'ils présentent une redevance forfaitaire destinée à la couverture de ses frais en vue d'assurer l'exploitation des
+informations fournies.
+
+En vue de la conservation et de l'exploitation ultérieure des informations fournies, les mêmes fabricants et importateurs
+versent une redevance complémentaire à l'organisme désigné en application de l'article R. 231-60.
+
+Le montant des redevances visées aux alinéas précédents est fixé par arrêté du ministre chargé du travail. La justification
+du paiement des redevances est jointe au dossier fourni en application de l'article R. 231-52.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 26 septembre 1979
+	  - TXT_SOURCE: Arrêté du 26 septembre 1979 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1979 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 26 septembre 1979 - art. 3 (V)
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 29 décembre 1987
+	  - TXT_SOURCE: Arrêté du 29 décembre 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 décembre 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 décembre 1987 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 mars 1990
+	  - TXT_SOURCE: Arrêté du 5 mars 1990 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 mars 1990 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 mars 1990 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 octobre 1986
+	  - TXT_SOURCE: Arrêté du 1 octobre 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 octobre 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 octobre 1986 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 janvier 1985
+	  - TXT_SOURCE: Arrêté du 7 janvier 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 janvier 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 janvier 1985 - art. 3 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 26 septembre 1979 - art. 1 (V)
+	  - Arrêté du 29 décembre 1987 - art. 1 (Ab)
+	  - Arrêté du 29 décembre 1987 - art. 3 (Ab)
+	  - Arrêté du 5 mars 1990 - art. 1 (Ab)
+	  - Arrêté du 5 mars 1990 - art. 3 (Ab)
+	  - Arrêté du 28 juin 1994 - art. 6 (AbD)
+	  - Arrêté du 13 août 1996 - art. 2 (Ab)
+	  - Arrêté du 8 juillet 1998 - art. 3 (V)
+	  - Arrêté du 16 juillet 2007 - art. 3 (V)
+	  - Arrêté du 1 octobre 1986 - art. 1 (Ab)
+	  - Arrêté du 1 octobre 1986 - art. 3 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. 5 (Ab)
+	  - Arrêté du 20 septembre 1979 - art. 6 (Ab)
+	  - Arrêté du 7 janvier 1985 - art. 1 (Ab)
+	  - Code du travail - art. R231-60 (VT)
+	  - Code du travail - art. R231-62-2 (VT)
+	  - Code du travail - art. R231-63-3 (VT)
+	  - Code du travail - art. R231-63-4 (VT)
+	  - Code du travail - art. R231-64-1 (VT)
+	  - Code du travail - art. R231-65-1 (VT)
+	  - Code du travail - art. R231-65-3 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-52 (T)
+	  - Code du travail L231-7 AL. 4, R231-52, R231-60
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-17 (T)
+
+
+##### Sous-section 3 : Dispositions diverses.
+
+###### Article R231-63
+
+Pour l'application de l'article L. 231-7 (5e alinéa), un arrêté du ministre chargé du travail, pris sur avis du conseil
+supérieur de la prévention des risques professionnels, fixe les modalités d'agrément des organismes chargés d'effectuer les
+analyses des produits visés par cet article.
+
+Le ministre chargé du travail établit une liste d'organismes agréés en précisant pour chacun d'eux les types d'analyses qu'il
+est susceptible d'effectuer et les conditions auxquelles l'agrément est éventuellement soumis. L'agrément est révocable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°80-203 du 12 mars 1980 - art. 6 (Ab)
+	  - Code du travail - art. R231-60 (VT)
+	  - Code du travail - art. R231-64 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-55-3 (V)
+
+	**Cite**:
+
+	  - Code du travail L231-7 AL. 5
+
+
+###### Article R231-64
+
+Lorsque l'inspecteur du travail met le chef d'établissement en demeure de faire procéder à des analyses en application de
+l'article L. 231-7 (5e alinéa), il fixe le délai dans lequel les résultats de ces analyses devront lui être adressés par le
+chef d'établissement.
+
+Le chef d'établissement choisit un organisme compétent sur la liste prévue à l'article R. 231-63 ci-dessus. Le prélèvement
+des échantillons de produits à analyser et leur expédition à l'organisme agréé choisi sont effectués sous le contrôle de
+l'inspecteur du travail.
+
+Les résultats des analyses sont adressés par le chef d'établissement à l'inspecteur du travail, qui en transmet copie au
+médecin inspecteur du travail et à l'organisme désigné en application de l'article R. 231-60.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-58 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-60 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-63 (T)
+	  - Code du travail L231-7 AL. 5, R231-60, R231-63
+
+
+###### Article R231-65
+
+S'il conteste la nature ou l'importance des analyses demandées ou le délai qui lui est imposé par l'inspecteur du travail, le
+chef d'établissement peut adresser, dans les huit jours de la mise en demeure, un recours au directeur départemental du
+travail et de l'emploi, ou au fonctionnaire assimilé. Le recours est suspensif ; toutefois, il ne fait pas obstacle à
+l'exécution du prélévement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-58-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-65-2 (VT)
+
+
+##### SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS
+
+##### SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.
+
+###### Article R231-53
+
+La fourniture des informations prévues par l'article L. 231-7 (3e alinéa) n'est pas exigée pour les préparations destinées
+exclusivement à des usages médicaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Arrêté du 5 janvier 1993 - art. 1 (Ab)
+	  - Arrêté du 5 janvier 1993 - art. 3 (Ab)
+	  - Arrêté du 5 janvier 1993 - art. Annexe (Ab)
+	  - Arrêté du 30 juin 1997 - art. Annexe I (V)
+	  - Arrêté du 30 juin 1997 - art. Annexe I (VD)
+	  - Arrêté du 30 juin 1997 - art. Annexe I (VT)
+	  - Arrêté du 30 juin 1997 - art. Annexe III (Ab)
+	  - Arrêté du 30 juin 1997 - art. Annexe III (V)
+	  - Décret n°2004-187 du 26 février 2004 - art. 20 (Ab)
+	  - Arrêté du 30 avril 2004 - art. 18 (V)
+	  - Arrêté du 22 décembre 2008 - art. Annexe I (V)
+	  - Code de l'environnement - art. R522-38 (M)
+	  - Code du travail - art. R231-52-7 (VT)
+	  - Code du travail - art. R231-54-2 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R231-46-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-52-2 (V)
+
+	**Cite**:
+
+	  - Code du travail L231-7 AL. 3
 
 
 #### Chapitre III : Sécurité
