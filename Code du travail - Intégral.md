@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-01
+Version Consolidée au 1981-01-08
 
 # Partie législative ancienne
 
@@ -3816,6 +3816,484 @@ indemnité de rupture.
 	  - Décret n°73-1046 1973-11-15
 
 
+##### Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.
+
+###### Article L122-32-1
+
+Le contrat de travail du salarié victime d'un accident du travail, autre qu'un accident de trajet, ou d'une maladie
+professionnelle est suspendu pendant la durée de l'arrêt de travail provoqué par l'accident ou la maladie ainsi que, le cas
+échéant, pendant le délai d'attente et la durée du stage de réadaptation, de rééducation ou de formation professionnelle que,
+conformément à l'avis de la commission mentionnée à l'article L. 323-11, doit suivre l'intéressé. Le salarié bénéficie d'une
+priorité en matière d'accès aux actions de formation professionnelle.
+
+La durée des périodes de suspension est prise en compte pour la détermination de tous les avantages légaux ou conventionnels
+liés à l'ancienneté dans l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 20 (Ab)
+	  - Décret n°84-216 du 29 mars 1984 - art. 5 (Ab)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 10 (MMN)
+	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 2 (MMN)
+	  - Décret n°87-544 du 17 juillet 1987 - art. 11 (MMN)
+	  - Décret n°88-368 du 15 avril 1988 - art. 3 (V)
+	  - Décret n°89-392 du 14 juin 1989 - art. 2 (V)
+	  - Loi n°2004-811 du 13 août 2004 - art. 29 (VT)
+	  - Arrêté du 19 février 1986 - art. Annexe (V)
+	  - Code du travail - art. L122-32-3 (AbD)
+	  - Code du travail - art. L122-32-4 (AbD)
+	  - Code du travail - art. L351-9 (M)
+	  - Code du travail - art. L441-2 (AbD)
+	  - Code du travail - art. L442-4 (AbD)
+	  - Code du travail - art. R351-10 (M)
+	  - Code du travail - art. R442-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-7 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-2
+
+Au cours des périodes de suspension, l'employeur ne peut résilier le contrat de travail à durée indéterminée que s'il
+justifie soit d'une faute grave de l'intéressé, soit de l'impossibilité où il se trouve, pour un motif non lié à l'accident
+ou à la maladie, de maintenir ledit contrat.
+
+Il ne peut résilier le contrat de travail à durée déterminée que s'il justifie soit d'une faute grave de l'intéressé, soit
+d'un cas de force majeure.
+
+Toute résiliation du contrat de travail prononcée en méconnaissance des dispositions du présent article est nulle.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-13 (VD)
+	  - Code du travail - art. L1226-18 (VD)
+	  - Code du travail - art. L1226-9 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-3
+
+Les dispositions de l'article L. 122-32-1 [*suspension*] ne font pas obstacle à l'échéance du contrat de travail à durée
+déterminée.
+
+Toutefois, lorsque ce contrat comporte une clause de renouvellement, l'employeur ne peut, au cours des périodes définies au
+premier alinéa dudit article, refuser le renouvellement que s'il justifie d'un motif réel et sérieux, étranger à l'accident
+ou à la maladie. A défaut, il devra verser au salarié une indemnité correspondant au préjudice subi. Cette indemnité ne peut
+être inférieure au montant des salaires et avantages que le salarié aurait reçus jusqu'au terme de la période suivante de
+validité du contrat prévue par la clause de renouvellement.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-3-6 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-32-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-19 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-4
+
+A l'issue des périodes de suspension définies à l'article L. 122-32-1, le salarié, s'il y est déclaré apte par le médecin du
+travail, retrouve son emploi ou un emploi similaire assorti d'une rémunération équivalente.
+
+Les conséquences de l'accident ou de la maladie professionnelle ne peuvent entraîner pour l'intéressé aucun retard de
+promotion ou d'avancement au sein de l'entreprise.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°82-397 du 11 mai 1982 - art. 33 (M)
+	  - Code du travail - art. L122-32-7 (AbD)
+	  - Code du travail - art. L122-32-9 (AbD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L122-32-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-8 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-5
+
+Si le salarié est déclaré par le médecin du travail inapte à reprendre, à l'issue des périodes de suspension, l'emploi qu'il
+occupait précédemment, l'employeur est tenu de lui proposer, compte tenu des conclusions écrites du médecin du travail et des
+indications qu'il formule sur l'aptitude du salarié à exercer l'une des tâches existant dans l'entreprise et après avis des
+délégués du personnel, un autre emploi approprié à ses capacités et aussi comparable que possible à l'emploi précédemment
+occupé, au besoin par la mise en oeuvre de mesures telles que mutations, transformations de postes ou aménagement du temps de
+travail.
+
+S'il ne peut proposer un autre emploi, l'employeur est tenu [*condition de forme*] de faire connaître par écrit
+[*obligation*] les motifs qui s'opposent au reclassement.
+
+Les transformations de postes peuvent donner lieu à attribution d'une aide financière de l'Etat [*pour les travailleurs
+handicapés*] dans les conditions fixées au dernier alinéa de l'article L. 323-9.
+
+L'employeur ne peut prononcer le licenciement que s'il justifie soit de l'impossibilité où il se trouve de proposer un emploi
+dans les conditions prévues ci-dessus, soit du refus par le salarié de l'emploi proposé dans ces conditions.
+
+S'il prononce le licenciement, l'employeur doit respecter les procédures prévues à la section II du présent chapitre en cas
+de résiliation du contrat de travail à l'initiative de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°82-397 du 11 mai 1982 - art. 33 (M)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 21 (Ab)
+	  - Décret n°99-456 du 1 juin 1999 - art. 1 (V)
+	  - Code du travail - art. L122-32-9 (AbD)
+	  - Code du travail - art. L213-5 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-9 (Ab)
+	  - Code du travail L323-9, L122-4 A L122-14-11
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail L122-32-9 : APPLICATION AU CONTRAT A DUREE DETERMINEE
+
+
+###### Article L122-32-6
+
+La rupture du contrat de travail dans les cas prévus au quatrième alinéa de l'article L. 122-32-5 ouvre droit, pour le
+salarié, à une indemnité compensatrice [*de délai-congé*] d'un montant égal à celui de l'indemnité prévue à l'article L.
+122-8, ainsi qu'à une indemnité spéciale de licenciement qui, sauf dispositions conventionnelles plus favorables, est égale
+au double de l'indemnité prévue par l'article L. 122-9 [*montant*].
+
+Toutefois, les indemnités prévues à l'alinéa ci-dessus ne sont pas dues par l'employeur qui établit que le refus par le
+salarié du reclassement qui lui est proposé est abusif.
+
+Les dispositions du présent article ne se cumulent pas avec les avantages de même nature prévus par des dispositions
+conventionnelles ou contractuelles en vigueur lors de la promulgation de la loi n° 81-3 du 7 janvier 1981 et destinés à
+compenser le préjudice résultant de la perte de l'emploi consécutive à l'accident du travail ou à la maladie professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°81-3 1981-01-07
+	  - Code du travail - art. L122-8 (M)
+	  - Code du travail - art. L122-9 (Ab)
+	  - Code du travail L122-32-5 AL. 4, L122-8, L122-9
+
+	**Cité par**:
+
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code du travail - art. L122-32-11 (AbD)
+	  - Code du travail - art. L122-32-7 (AbD)
+	  - Code du travail - art. L122-32-8 (AbD)
+	  - Code du travail - art. L122-32-9 (AbD)
+	  - Code du travail - art. L143-10 (AbD)
+	  - Code du travail - art. R516-18 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-14 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail L122-32-8 : BASE DE CALCUL
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-7
+
+Lorsqu'un licenciement est prononcé en méconnaissance des dispositions de l'article L. 122-32-4 ou des premier et quatrième
+alinéas de l'article L. 122-32-5, le tribunal saisi peut proposer la réintégration du salarié dans l'entreprise, avec
+maintien de ses avantages acquis ; en cas de refus par l'une ou l'autre des parties, le tribunal octroie au salarié une
+indemnité. Cette indemnité, qui ne peut être inférieure à douze mois de salaires, est due sans préjudice de l'indemnité
+compensatrice et, le cas échéant, de l'indemnité spéciale de licenciement prévues à l'article L. 122-32-6.
+
+Lorsqu'un licenciement est prononcé en méconnaissance des dispositions du cinquième alinéa de l'article L. 122-32-5, il est
+fait application des dispositions prévues par l'article L. 122-14-4 pour le cas de non-observation de la procédure requise.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code du travail - art. L122-32-11 (AbD)
+	  - Code du travail - art. L122-32-8 (AbD)
+	  - Code du travail - art. L122-32-9 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-4 (M)
+	  - Code du travail - art. L122-32-4 (AbD)
+	  - Code du travail - art. L122-32-6 (M)
+	  - Code du travail L122-32-4, L122-32-5 AL. 1, AL. 4 ET AL. 5, L122-32-6, L122-14-4
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-15 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail L122-32-9 : APPLICATION AU CONTRAT A DUREE DETERMINEE
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-8
+
+Les indemnités [*compensatrices de délai-congé, de licenciement*] prévues aux articles L. 122-32-6 et L. 122-32-7 sont
+calculées sur la base du salaire moyen qui aurait été perçu par l'intéressé au cours des trois derniers mois s'il avait
+continué à travailler au poste qu'il occupait avant l'arrêt de travail provoqué par l'accident ou la maladie professionnelle.
+
+Pour le calcul de ces indemnités, la notion de salaire est définie par le taux personnel, les primes, les avantages de toute
+nature, les indemnités et les gratifications qui composent le revenu.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L122-32-6 (M)
+	  - Code du travail - art. L122-32-7 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-32-9 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-16 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail L122-32-9 : APPLICATION AU CONTRAT A DUREE DETERMINEE
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-9
+
+Les dispositions des deux derniers alinéas de l'article L. 122-32-5 et des articles L. 122-32-6 à L. 122-32-8 ne sont pas
+applicables lorsque le salarié est titulaire d'un contrat à durée déterminée.
+
+Si l'employeur justifie qu'il se trouve dans l'impossibilité de proposer un emploi, dans les conditions prévues au premier
+alinéa de l'article L. 122-32-5, au salarié titulaire d'un tel contrat, ou si le salarié refuse un emploi offert dans ces
+conditions, l'employeur est en droit de demander la résolution judiciaire du contrat. La juridiction saisie prononce la
+résolution après vérification des motifs invoqués et fixe le montant de la compensation financière due au salarié.
+
+En cas de rupture du contrat par l'employeur en méconnaissance des dispositions de l'article L. 122-32-4 du premier alinéa de
+l'article L. 122-32-5 ou du second alinéa du présent article, le salarié a droit à une indemnité correspondant au préjudice
+subi. Cette indemnité ne peut être inférieure au montant des salaires et avantages qu'il aurait reçus jusqu'au terme de la
+période en cours de validité de son contrat.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code du travail - art. L122-32-11 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-32-4 (AbD)
+	  - Code du travail - art. L122-32-5 (M)
+	  - Code du travail - art. L122-32-6 (M)
+	  - Code du travail - art. L122-32-7 (AbD)
+	  - Code du travail - art. L122-32-8 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-20 (VD)
+	  - Code du travail - art. L1226-21 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-32-10
+
+Les dispositions de la présente section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un
+accident du travail ou d'une maladie professionnelle, survenu ou contractée au service d'un autre employeur.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-6 (VD)
+
+	**Cite**:
+
+	  - Code du travail L122-32-1 A L122-32-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+###### Article L122-32-11
+
+En cas de règlement judiciaire ou de liquidation des biens, les dispositions des articles L. 143-11-5 à L. 143-11-7
+[*privilèges et garanties de la créance de salaire*] sont applicables au paiement des indemnités [*compensatrice de délai-
+congé, de licenciement*] prévues aux articles L. 122-32-6, L. 122-32-7 et L. 122-32-9.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L122-3-13 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-32-6 (M)
+	  - Code du travail - art. L122-32-7 (AbD)
+	  - Code du travail - art. L122-32-9 (AbD)
+	  - Code du travail - art. L143-11-5 (P)
+	  - Code du travail - art. L143-11-6 (T)
+	  - Code du travail - art. L143-11-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1226-17 (VD)
+	  - Code du travail - art. L1226-22 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### Chapitre IV : Travail temporaire
 
 ##### Section 1 : Règles générales.
@@ -7417,9 +7895,12 @@ limite de cinq heures par semaine, par l'inspecteur du travail, après avis conf
 
 ###### Article L120-1
 
-Les dispositions des chapitres Ier, II (sections I, II, III, IV, V), III, IV, V, VI du présent titre sont applicables
-notamment aux salariés des offices publics et ministériels, des professions libérales, des sociétés civiles, des syndicats
-professionnels, des associations de quelque nature que ce soit.
+Les dispositions des chapitres Ier, II (sections I, II, III, IV, IV-I, V, V-I), III, IV, V, VI du présent titre sont
+applicables notamment aux salariés des offices publics et ministériels, des professions libérales, des sociétés civiles, des
+syndicats professionnels, des associations de quelque nature que ce soit.
+
+[*Dispositions relatives au contrat de travail : licenciement, protection de la maternité, travail temporaire, marchandage,
+cautionnements*].
 
 **Liens relatifs à cet article**
 
@@ -7428,13 +7909,13 @@ professionnels, des associations de quelque nature que ce soit.
 	  - Code du travail - art. L1111-1 (VD)
 	  - Code du travail - art. L1211-1 (VD)
 
+	**Cite**:
+
+	  - Code du travail L121-1 A L122-32-11
+
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1941-03-21 art. 1
 
 
 ###### Article L121-1
@@ -10355,13 +10836,14 @@ pour les soixante derniers jours de travail ou d'apprentissage [*période*] doiv
 être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond mensuel identique
 pour toutes les catégories de bénéficiaires.
 
-Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à /M/la somme des portions de rémunérations mensuelles
-insaisissables et incessibles/M/LOI  1194 27-12-1973 : Deux fois le plafond retenu pour le calcul des cotisations de sécurité
-sociale//.
+Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux fois le plafond retenu pour le calcul des
+cotisations de sécurité sociale [*montant*].
 
 Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
-proprement dits, mais encore tous les accessoires et notamment l'indemnité due pour inobservation /R/ du délai-congé /R/ LOI
-11 1979-03-01 : du [*délai de*] préavis prévu à l'article L. 122-3-1 et du délai-congé prévu à l'article L. 122-6//.
+proprement dits, mais encore tous les accessoires et notamment l'indemnité due pour inobservation du préavis [*en cas de
+contrat à durée déterminée*] prévu à l'article L. 122-3-1 et du délai-congé prévu à l'article L. 122-6 et l'indemnité
+compensatrice [*de délai-congé en cas de licenciement de salarié victime d'un accident du travail*] prévue à l'article L.
+122-32-6 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -10411,27 +10893,15 @@ proprement dits, mais encore tous les accessoires et notamment l'indemnité due 
 	  - Code du travail - art. L751-15 (AbD)
 	  - Code du travail - art. L786-1 (AbD)
 
-	**Anciens textes**:
-
-	  - Loi n°67-563 1967-07-13 art. 155
-	  - Code du travail 1047 a
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°79-11 1979-01-03 art. 9 : DATE D'APPLICATION DE LA LOI
-
 	**Cite**:
 
 	  - Code du travail - art. L122-3-1 (M)
+	  - Code du travail - art. L122-32-6 (M)
 	  - Code du travail - art. L122-6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°79-11 1979-03-01 art. 7 JORF 4 janvier
 
 
 ###### Article L143-11
