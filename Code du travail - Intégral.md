@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-03-22 00:00:01 +0100
+Version Consolidée au 1979-04-01
 
 # Partie législative ancienne
 
@@ -50148,56 +50148,35 @@ définies aux articles ci-après.
 
 ###### Article L960-3
 
-I.- Les travailleurs qui suivent un stage de conversion, au sens du 1. de l'article L. 940-2 lorsqu'il s'agit d'un stage à
-temps plein, reçoivent une rémunération calculée sur la base de la durée légale hebdomadaire de travail, quels que soient les
-horaires pratiqués par le centre de formation, et selon un barême établi :
+I - Lorsqu'un travailleur salarié bénéficie, en vertu des dispositions législatives ou contractuelles, d'un congé en vue de
+suivre un stage de formation agréé par l'Etat, celui-ci prend en charge sa rémunération dans les conditions suivantes :
 
-1. Pour les travailleurs salariés, en fonction du salaire du dernier emploi ;
+a) Lorsque la durée du stage est inférieure ou égale à un an ou à mille deux cent heures pour les stages à temps partiel,
+l'Etat verse une rémunération calculée sur la base de la durée légale hebdomadaire du travail en fonction du salaire de
+l'emploi occupé avant l'entrée en stage.
 
-2. Pour les travailleurs non salariés agricoles, en fonction du salaire minimum de croissance [*SMIC*] ;
+Cette rémunération est versée à partir de la cinquième semaine ou de la cent soixante et unième heure pour les stages à temps
+partiel si la durée du stage est inférieure à trois mois ou cinq cents heures pour les stages à temps partiel. Elle est
+versée à partir de la quatorzième semaine ou de la cinq cent unième heure pour les autres stages, et de la dix-septième
+semaine ou de la six cent unième heure pour les stagiaires ayant bénéficié des dispositions du quatrième alinéa de l'article
+L. 930-1-7 concernant le personnel d'encadrement.
 
-3. Pour les travailleurs non salariés non agricoles, en fonction du revenu professionnel retenu pour le calcul des
-cotisations d'assurance maladie du régime institué par la loi n. 66-509 du 12 juillet 1966.
+b) Lorsque la durée du stage est supérieure à un an ou à mille deux cents heures pour les stages à temps partiel et à la
+condition que les stagiaires aient exercé une activité professionnelle salariée pendant trois mois au moins, l'Etat verse une
+rémunération mensuelle calculée en fonction du salaire minimum de croissance à partir de la quatorzième semaine ou de la cinq
+cent unième heure.
 
-Cette rémunération ne peut, en aucun cas, être inférieure [*limite*] à 90 p. 100 du salaire minimum de croissance. Elle peut
-comporter un plafond.
+c) Dans certaines conditions définies par décret en Conseil d'Etat, cette aide peut être versée avant la cent soixante et
+unième heure ou, le cas échéant, la cinq cent unième heure.
 
-Les travailleurs qui suivent un stage à mi-temps reçoivent une rémunération proportionnelle calculée dans les conditions
-déterminées ci-dessus et sur la base d'une durée fixée par décret.
-
-II.- Sont assimilés aux travailleurs qui suivent un stage de conversion pour l'application du paragraphe I du présent
-article :
-
-1. Les jeunes gens qui satisfont aux conditions d'ouverture de l'allocation d'aide publique aux travailleurs sans emploi ;
-
-2. Les jeunes gens dont l'entrée en stage a lieu moins d'un an après l'accomplissement du service national ;
-
-3. Les mères de famille qui désirent occuper un emploi exigeant une qualification ;
-
-4. Les femmes célibataires qui ont assumé ou assument, de fait ou de droit, les charges de tierce personne dans leur milieu
-familial.
-
-Les stagiaires visés au présent article sont rémunérés en fonction du salaire minimum de croissance.
-
-Les femmes élevant trois enfants ou, lorsqu'elles sont chef de famille, celles qui ont au moins un enfant à charge,
-bénéficient d'une rémunération majorée.
+II - Ces rémunérations sont versées directement aux stagiaires ou remboursées à leurs employeurs lorsque ceux-ci maintiennent
+intégralement le salaire.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Circulaire 6 1972-02-21
-	  - TXT_ASSOCIE: Décret n°71-981 du 10 décembre 1971 - art. 2 (V)
-	  - TXT_ASSOCIE: Code du travail - art. L960-5 (M)
-
-	**Cite**:
-
-	  - Loi n°66-509 1966-07-12
-	  - Code du travail - art. L940-2 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 25 (V)
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
@@ -50214,6 +50193,10 @@ bénéficient d'une rémunération majorée.
 	  - Code du travail - art. R960-7 (T)
 	  - Code du travail - art. R961-11 (M)
 
+	**Cite**:
+
+	  - Code du travail - art. L930-1-7 (T)
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L961-3 (M)
@@ -50225,15 +50208,19 @@ bénéficient d'une rémunération majorée.
 
 ###### Article L960-4
 
-L'Etat rembourse aux entreprises, pour chaque travailleur qui suit un stage de prévention au sens du 1° de l'article L. 940-2
-et qu'elles continuent de rémunérer dans les conditions prévues à son contrat de travail, une somme calculée en fonction du
-salaire versé.
+L'Etat rembourse, dans des conditions fixées par décret en Conseil d'Etat, une fraction de la rémunération maintenue par les
+employeurs aux travailleurs qui suivent des stages de formation agréés par l'Etat, organisés à l'initiative desdits
+employeurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 26 (V)
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
@@ -50246,30 +50233,27 @@ salaire versé.
 	  - Code du travail - art. R960-16 (T)
 	  - Code du travail - art. R960-2 (T)
 
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L961-4 (AbD)
-
-	**Cite**:
-
-	  - Code du travail L940-2 PAR. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
+	  - Code du travail - art. L961-4 (M)
 
 
 ###### Article L960-5
 
-Le barème de rémunération prévu au 1  du paragraphe I de l'article L. 960-3 comporte des taux majorés au bénéfice des
-travailleurs salariés qui ont été licenciés depuis moins de six mois pour des motifs autres que disciplinaires ou qui suivent
-un stage de conversion organisé en application des conventions prévues à l'article L. 322-2.
+Lorsqu'elles suivent des stages agréés par l'Etat, les personnes inscrites comme demandeurs d'emploi perçoivent une
+rémunération calculée à partir du montant de leur salaire antérieur ou, à défaut, du salaire minimum de croissance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 27 (V)
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
+	  - TXT_ASSOCIE: Code du travail - art. L960-3 (M)
 
 	**Cité par**:
 
@@ -50278,15 +50262,6 @@ un stage de conversion organisé en application des conventions prévues à l'ar
 	  - Code du travail - art. L960-6 (M)
 	  - Code du travail - art. R960-11 (T)
 	  - Code du travail - art. R961-11 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L322-2 (M)
-	  - Code du travail L960-3 I-1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L960-3 (M)
 
 	**Nouveaux textes**:
 
@@ -50299,21 +50274,15 @@ un stage de conversion organisé en application des conventions prévues à l'ar
 
 ###### Article L960-6
 
-Le montant des rémunérations prévu aux articles L. 960-3 et L. 960-5 comprend la contribution de l'Etat et, le cas échéant,
-celle d'organismes paritaires créés par des accords entre organisations professionnelles et syndicales.
-
-Dans ce dernier cas, une convention passée entre l'Etat et lesdits organismes déterminera les modalités de leur participation
-au financement des indemnités versées aux stagiaires.
+Les travailleurs non salariés bénéficient d'une rémunération calculée en fonction du salaire minimum de croissance, à
+condition d'avoir exercé une activité professionnelle salariée ou non salariée pendant au moins douze mois dont six
+consécutifs, dans les trois années qui précèdent l'entrée en stage.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 28 (V)
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
@@ -50322,27 +50291,25 @@ au financement des indemnités versées aux stagiaires.
 	  - Code du travail - art. R960-11 (T)
 	  - Code du travail - art. R961-11 (M)
 
-	**Cite**:
-
-	  - Code du travail - art. L960-3 (M)
-	  - Code du travail - art. L960-5 (M)
-
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L961-6 (AbD)
 
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L960-7
 
-Les travailleurs qui suivent des stages d'adaptation, au sens du 2  de l'article L. 940-2 sont rémunérés par leur employeur
-dans les conditions prévues à leur contrat de travail. L'Etat peut prendre en charge une partie de cette rémunération.
+Les frais de transport, supportés par les stagiaires qui reçoivent une rémunération de l'Etat pour les déplacements de toute
+nature nécessités par les stages, donnent lieu à un remboursement total ou partiel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 29 (V)
-	  - Code du travail - art. L961-7 (AbD)
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
@@ -50351,9 +50318,13 @@ dans les conditions prévues à leur contrat de travail. L'Etat peut prendre en 
 	  - Code du travail - art. R322-4 (VT)
 	  - Code du travail - art. R960-16 (T)
 
-	**Cite**:
+	**Transféré par**:
 
-	  - Code du travail L940-2 PAR. 2
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L961-7 (AbD)
 
 	**Codifié par**:
 
@@ -50362,25 +50333,12 @@ dans les conditions prévues à leur contrat de travail. L'Etat peut prendre en 
 
 ###### Article L960-8
 
-Les travailleurs qui suivent un stage de promotion professionnelle inscrit sur la liste spéciale prévue au troisième alinéa
-de l'article L. 960-2 lorsqu'ils ne sont pas titulaires d'un contrat de travail ou lorsque leur contrat de travail est
-maintenu sans rémunération perçoivent une indemnité mensuelle.
-
-Le montant de cette indemnité, qui varie selon le niveau de la formation reçue et qui ne peut être inférieure au salaire
-minimum de croissance [*SMIC*], est fixé chaque année compte tenu de l'évolution du plafond des cotisations de sécurité
-sociale.
-
-Toutefois, pour certaines formations d'une durée inférieure à un an, l'indemnité pourra être calculée dans les conditions
-prévues à l'article L. 960-3.
-
-La perception de l'indemnité prévue au présent article ne fait pas obstacle à l'obtention des prêts institués par l'article
-L. 960-1.
+Les fonds d'assurance-formation sont dotés de la personnalité morale. Un décret en Conseil d'Etat fixe les règles relatives à
+leur constitution, à leurs attributions, à leur fonctionnement et aux contrôles auxquels ils sont soumis, ainsi qu'aux
+modalités de reversement au Trésor public des fonds non utilisés et des dépenses non admises par les agents commissionnés
+visés à l'article L. 950-8.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 du 16 juillet 1971 - art. 30 (V)
 
 	**Cité par**:
 
@@ -50389,17 +50347,26 @@ L. 960-1.
 	  - Arrêté du 27 octobre 1978 - art. 1 (P)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter HB (M)
 	  - Code du travail - art. L950-2 (M)
+	  - Code du travail - art. L960-2 (M)
 	  - Code du travail - art. R960-29-1 (Ab)
 	  - Code du travail - art. R960-44 (T)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
+
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
+
 	**Cite**:
 
-	  - Code du travail - art. L960-2 (M)
-	  - Code du travail - art. L960-3 (M)
+	  - Code du travail - art. L950-8 (M)
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L961-8 (AbD)
+	  - Code du travail - art. L961-8 (M)
 
 	**Codifié par**:
 
@@ -50408,32 +50375,44 @@ L. 960-1.
 
 ###### Article L960-9
 
-L'Etat rembourse aux entreprises, pour chaque travailleur salarié qui suit un stage de promotion professionnelle inscrit sur
-la liste spéciale prévue au troisième alinéa de l'article L. 960-2 et qu'elles continuent de rémunérer, une somme égale à
-l'indemnité prévue à l'article précédent, dans les limites du salaire versé.
+Les fonds d'assurance-formation destinés aux salariés d'une ou plusieurs branches professionnelles contribuent au
+développement de la formation professionnelle continue. Ils réunissent des moyens financiers à l'aide desquels ils versent
+notamment une rémunération de substitution aux salariés bénéficiaires d'un congé de formation au cours des stages mentionnés
+à l'article L. 900-2.
 
-Le travailleur salarié reçoit de l'Etat, lorsque sa rémunération est inférieure à l'indemnité susvisée, une indemnité
-complémentaire dont le montant est égal [*calcul*] à la différence entre le montant de l'indemnité allouée aux stagiaires non
-titulaires d'un contrat de travail et le montant de sa rémunération.
+Ils doivent être agréés par l'Etat après avis du conseil national de la formation professionnelle, de la promotion sociale et
+de l'emploi ou de sa délégation permanente ou des comités régionaux de la formation professionnelle, de la promotion sociale
+et de l'emploi.
+
+Leur gestion est assurée paritairement.
+
+Les contributions versées par les employeurs ne sont soumises ni aux cotisations de sécurité sociale, ni, le cas échéant, à
+la taxe sur les salaires. Elles sont déductibles pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés
+dû par les employeurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 31 (V)
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
 	  - Décret n°79-249 du 27 mars 1979 - art. 25 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis G (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 237 quinquies (MMN)
+	  - Code du travail - art. L960-2 (M)
 	  - Code du travail - art. R960-16 (T)
 	  - Code du travail - art. R960-35 (T)
 	  - Code du travail - art. R960-40 (T)
 
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
+
 	**Cite**:
 
-	  - Code du travail - art. L960-2 (M)
+	  - Code du travail - art. L900-2 (M)
 
 	**Nouveaux textes**:
 
@@ -50446,40 +50425,21 @@ titulaires d'un contrat de travail et le montant de sa rémunération.
 
 ###### Article L960-10
 
-Lorsque des travailleurs qui bénéficient, en vertu de dispositions législatives, réglementaires ou contractuelles, de congés
-en vue de suivre des stages d'entretien ou de perfectionnement des connaissances au sens du 4. de l'article L. 940-2,
-reçoivent, du fait d'un engagement pris par l'employeur, soit une rémunération de substitution versée par un fonds
-d'assurance formation [*FAF*], soit, en l'absence de fonds d'assurance formation, la rémunération prévue à leur contrat de
-travail, l'Etat peut prendre en charge une partie de leur rémunération, dans les conditions fixées aux I et II ci-après.
+Les travailleurs indépendants, les membres des professions libérales et des professions non salariées, ainsi que les
+employeurs non assujettis à l'obligation instituée par l'article L. 950-1 du présent code, peuvent créer dans les professions
+ou les branches professionnelles considérées des fonds d'assurance-formation de non-salariés.
 
-I.- Les fonds d'assurance formation sont alimentés par des contributions qui peuvent être versées par les employeurs et les
-salariés selon les modalités fixées par les conventions créant ces fonds. Ils sont destinés exclusivement au financement des
-dépenses de fonctionnement des stages de formation et à la couverture, pendant les périodes de stages, des salaires ainsi que
-des contributions incombant aux employeurs au titre des charges sociales et de la taxe sur les salaires lorsqu'elle continue
-d'être due en application du II de l'article 1er de la loi n. 68-1043 du 29 novembre 1968 relative à diverses dispositions
-d'ordre économique et financier.
-
-Sous réserve que le fonds d'assurance formation ait une personnalité distincte de celle de l'entreprise et que celle-ci ne
-conserve pas la propriété et la disposition des sommes qui lui sont versées, les contributions à la charge des employeurs ne
-sont passibles ni des cotisations de sécurité sociale, ni, le cas échéant, de la taxe sur les salaires. Sous les mêmes
-conditions, elles sont déductibles pour l'établissement de l'impôt sur le revenu ou de l'impôt sur les sociétés dû par les
-employeurs. Les contributions à la charge des travailleurs sont déductibles pour l'établissement de l'impôt sur le revenu dû
-par les intéressés.
-
-II.- Dans le cas où, en l'absence de fonds d'assurance formation, les travailleurs bénéficient du maintien de la rémunération
-prévue à leur contrat de travail, l'Etat peut participer à cette rémunération si les stages suivis sont inscrits sur une
-liste établie paritairement par des organisations syndicales d'employeurs et de salariés.
+Ces fonds sont alimentés au moyen de ressources dégagées par voie de concertation entre les organisations professionnelles
+intéressées ou les chambres de métiers, les chambres de commerce et d'industrie ou les chambres d'agriculture. Les chefs
+d'entreprises non assujetties à la participation peuvent adhérer pour eux-mêmes ainsi que pour les salariés de leur
+entreprise, moyennant une cotisation spécifique dont le montant est arrêté par le conseil de gestion du fonds d'assurance-
+formation des non-salariés concerné.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - Loi n°68-1043 du 29 novembre 1968 - art. 1, v. init.
-	  - Code du travail L940-2 PAR. 4
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART.32
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
@@ -50494,8 +50454,17 @@ liste établie paritairement par des organisations syndicales d'employeurs et de
 	  - Code du travail - art. L992-2 (AbD)
 	  - Code rural - art. R*823-3 (M)
 
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L950-1 (M)
+
 	**Nouveaux textes**:
 
+	  - Code du travail - art. L961-10 (M)
 	  - Code du travail - art. L961-10 (VD)
 
 	**Codifié par**:
@@ -50505,16 +50474,14 @@ liste établie paritairement par des organisations syndicales d'employeurs et de
 
 ###### Article L960-11
 
-Les travailleurs salariés, qui bénéficient d'un congé sans rémunération pour suivre des stages d'entretien ou de
-perfectionnement des connaissances inscrits sur la liste spéciale prévue au troisième alinéa de l'article L. 960-2, pourront
-recevoir une indemnité horaire calculée en fonction du salaire minimum de croissance *SMIC*.
+Tous les litiges auxquels peuvent donner lieu la liquidation, le versement et le remboursement des rémunérations et
+indemnités prévues au présent titre relèvent de la compétence des tribunaux de l'ordre judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°71-575 du 16 juillet 1971 - art. 33 (V)
-	  - Code du travail - art. L960-15 (T)
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
 
 	**Cité par**:
 
@@ -50522,13 +50489,23 @@ recevoir une indemnité horaire calculée en fonction du salaire minimum de croi
 	  - Code du travail - art. L960-2 (M)
 	  - Code du travail - art. R960-6 (Ab)
 
+	**Transféré par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L960-15 (T)
+	  - Code du travail L960-15 (1973)
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L961-11 (AbD)
+	  - Code du travail - art. L961-11 (M)
 
 	**Cite**:
 
-	  - Code du travail L960-2 AL. 3
+	  - Code du travail L960-1 A L960-12
 
 	**Codifié par**:
 
@@ -50537,14 +50514,44 @@ recevoir une indemnité horaire calculée en fonction du salaire minimum de croi
 
 ###### Article L960-12
 
-Lorsque des membres de professions non-salariées suivent des stages d'entretien ou de perfectionnement des connaissances au
-sens du 4  de l'article L. 940-2, l'Etat prendra en charge une partie de leur rémunération, à la condition que des fonds de
-même objet que ceux prévus à l'article L. 960-10 aient été établis par et pour les intéressés.
+I. - Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les conditions d'application du présent titre et
+notamment :
+
+1. Les conditions et les modalités techniques et financières de l'agrément prévu à l'article L. 960-2 ;
+
+2. Les conditions et les modalités d'attribution et de versement des rémunérations prévues aux articles L. 960-3, L. 960-5 et
+L. 960-6 ;
+
+3. Les conditions de prise en charge par l'Etat d'une fraction des rémunérations mentionnées à l'article L. 960-4 ;
+
+4. Les conditions de remboursement des frais de transport prévus à l'article L. 960-7.
+
+II. - Des décrets fixent :
+
+1. Les montant et limite prévus à l'article L. 960-2 (alinéa 3) ;
+
+2. Les modalités de calcul de la rémunération proportionnelle prévue à l'article L. 960-2 (alinéa final) ;
+
+3. Le taux des rémunérations prévues aux articles L. 960-3 et L. 960-5 ;
+
+4. La fraction de rémunération prise en charge par l'Etat en application de l'article L. 960-4.
+
+III. - Les textes susvisés seront, préalablement à leur publication, soumis pour avis à la délégation permanente du conseil
+national de la formation professionnelle, de la promotion sociale et de l'emploi.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°79-249 1979-03-27 ART. 25 (FIXE LA DATE D'APPLICATION DE L'ARTICLE)
+
 	**Cité par**:
 
+	  - Décret n°79-249 du 27 mars 1979 - art. 25 (V)
 	  - Code du travail - art. L950-8 (M)
 	  - Code du travail - art. L990-1 (T)
 	  - Code du travail - art. L990-2 (T)
@@ -50552,20 +50559,24 @@ même objet que ceux prévus à l'article L. 960-10 aient été établis par et 
 	  - Code du travail - art. L992-2 (AbD)
 	  - Code du travail - art. R960-42 (M)
 	  - Code du travail - art. R960-6 (T)
-	  - Décret n°79-249 du 27 mars 1979 - art. 25 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°84-130 1984-02-24 ART. 11 III JORF 25 FEVRIER 1984
 
 	**Anciens textes**:
 
 	  - Code du travail - art. L960-16 (T)
-	  - Loi n°71-575 du 16 juillet 1971 - art. 34 (V)
+	  - Code du travail L960-16 (1973)
 
 	**Cite**:
 
-	  - Code du travail L960-10 ET L960-4 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
+	  - Code du travail - art. L960-2 (M)
+	  - Code du travail - art. L960-3 (M)
+	  - Code du travail - art. L960-4 (M)
+	  - Code du travail - art. L960-5 (M)
+	  - Code du travail - art. L960-6 (M)
+	  - Code du travail - art. L960-7 (M)
 
 
 ### DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .
@@ -98089,21 +98100,27 @@ C.O.D.E.R..
 	  - Décret n°73-1048 1973-11-15
 
 
-### MESURES D'APPLICATION DE L'ARTICLE L930-1 .
+### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.
 
 ###### Article R930-1
 
-Les dispositions de la présente section sont applicables aux travailleurs des entreprises qui ne relèvent pas d'un accord
-conclu en matière de formation professionnelle continue par les organisations professionnelles et syndicales les plus
-représentatives sur le plan national.
+La demande de congé doit être formulée au plus tard soixante jours à l'avance lorsqu'elle comporte une interruption continue
+du travail d'au moins six mois et au plus tard trente jours à l'avance lorsqu'elle concerne :
+
+La participation à un stage ou un enseignement de moins de six mois ;
+
+La participation à un stage ou un enseignement à temps partiel ;
+
+Le passage ou la préparation d'un examen.
+
+Elle doit indiquer avec précision selon le cas soit la date du début du stage ou de l'enseignement, la désignation et la
+durée de celui-ci ainsi que le nom de l'organisme qui en est responsable, soit l'intitulé et la date de l'examen concerné.
+Dans ce dernier cas, un certificat d'inscription doit être joint à la demande.
+
+Dans les dix jours suivant la réception de la demande, l'employeur doit faire connaître à l'intéressé sa réponse en
+indiquant, le cas échéant, les raisons qui motivent le rejet ou le report de la demande.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 1
 
 	**Codifié par**:
 
@@ -98111,118 +98128,115 @@ représentatives sur le plan national.
 
 	**Nouveaux textes**:
 
+	  - Code du travail - art. R931-1 (M)
 	  - Code du travail - art. R931-1 (V)
 
 	**Cite**:
 
-	  - Code du travail R930-1 A R930-16
+	  - Code du travail L930-1 A L930-1-12
 
 
 ###### Article R930-2
 
-Lorsque des travailleurs suivent des stages du fait de la seule décision de la direction de l'entreprise ou de ses
-représentants, le nombre de travailleurs ou le nombre d'heures de congé accordées dans ce cas sont divisés par deux pour le
-calcul des pourcentages définis aux paragraphes II et III de l'article L. 930-1.
+Les demandes de congé qui ne peuvent être satisfaites intégralement du fait des dispositions soit des articles L. 930-1-2 et
+L. 930-1-3, soit de l'article L. 930-1-8, soit des II et III de l'article L. 930-1-12, sont retenues suivant l'ordre de
+priorité suivant :
+
+Demandes présentées pour passer un examen ;
+
+Demandes déjà présentées et qui ont été différées ;
+
+Celles qui sont formulées par les travailleurs dont le stage ou l'enseignement a dû être interrompu pour des motifs reconnus
+valables, après avis du comité d'entreprise ou, à défaut, des délégués du personnel ;
+
+Celles qui sont formulées par les travailleurs ayant le plus d'ancienneté dans l'entreprise.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Conseil d'Etat 1974-06-28
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 D4
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 2
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R931-2 (V)
-
 	**Cite**:
 
-	  - Code du travail L930-1 PAR. II ET III
+	  - Code du travail - art. L930-1-12 (T)
+	  - Code du travail - art. L930-1-2 (T)
+	  - Code du travail - art. L930-1-3 (T)
+	  - Code du travail - art. L930-1-8 (T)
+	  - Code du travail L930-1 A L930-1-12
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R931-2 (M)
+	  - Code du travail - art. R931-2 (V)
 
 
 ###### Article R930-3
 
-La demande de congé doit être formulée au plus tard [*délai*] soixante jours à l'avance lorsqu'elle comporte une interruption
-continue du travail d'au moins six mois et au plus tard trente jours à l'avance lorsqu'elle concerne la participation à un
-stage continu de moins de six mois ou à un stage à temps partiel.
-
-Elle doit indiquer [*mentions obligatoires*] , avec précision la date d'ouverture du stage, la désignation et la durée de
-celui-ci ainsi que le nom de l'organisme qui en est responsable.
-
-Dans les dix jours suivant la réception de la demande, l'employeur doit faire connaître à l'intéressé soit son accord, soit
-les raisons qui motivent le rejet ou le report de la demande.
+La durée pendant laquelle le congé de formation ou le congé d'enseignement peut être différé, en raison de conséquences
+préjudiciables à la production et à la marche de l'entreprise, ne peut excéder un an.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 3
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-738 1984-07-17 art. 1, art. 3 JORF 29 juillet date d'entrée en vigueur 1er juillet 1984
 
 	**Nouveaux textes**:
 
+	  - Code du travail - art. R931-3 (M)
 	  - Code du travail - art. R931-3 (V)
 
+	**Cite**:
+
+	  - Code du travail L930-1 A L930-1-12
+
+
+### DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.
 
 ###### Article R930-4
 
-Lorsque les dispositions des II et III de l'article L. 930-1 ne permettent pas de satisfaire toutes les demandes, la priorité
-est accordée dans l'ordre :
+Le bénéficiaire du congé de formation ou d'enseignement doit, a la fin de chaque mois et au moment de la reprise du travail,
+remettre à l'entreprise une attestation de fréquentation effective du stage ou d'exercice effectif de l'enseignement.
 
-Aux demandes présentées au titre dudit article L. 930-1 et qui ont déjà été différées ;
+Le salarié qui, sans motif valable, cesse de fréquenter le stage ou d'exercer l'enseignement pour lesquels le congé a été
+accordé perd le bénéfice dudit congé.
 
-A celles qui sont formulées par les travailleurs dont le stage a dû être interrompu pour des motifs reconnus valables, après
-avis du comité d'entreprise ou, à défaut, des délégués du personnel ;
+Dans le cas où le congé de formation est accordé en vue de passer un examen, le bénéficiaire de ce congé doit fournir à
+l'entreprise un certificat attestant qu'il a pris part à toutes les épreuves de l'examen.
 
-A celles qui sont formulées par les travailleurs ayant le plus d'ancienneté dans l'entreprise.
+Lorsque, sans motif valable, le salarié ne peut produire ledit certificat, il perd le bénéfice du maintien du salaire prévu à
+l'article L. 930-1-7 ou à l'article L. 930-2.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 4
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L930-1-7 (T)
+	  - Code du travail - art. L930-2 (M)
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R931-4 (M)
 
-	**Cite**:
-
-	  - Code du travail L930-1 II et III
-
 
 ###### Article R930-5
 
-La durée pendant laquelle le congé peut être différé, en application du V de l'article L. 930-1, ne peut excéder un an
-[*limite*].
+Les comités d'entreprise ou d'établissement et, dans les entreprises employant plus de 300 salariés, les commissions prévues
+au cinquième alinéa de l'article L. 432-1 sont consultés sur les problèmes généraux relatifs à l'application du présent
+titre ; ils sont en outre informés des possibilités de congé qui ont été accordées aux travailleurs, des conditions dans
+lesquelles ces congés ont été accordés ainsi que des résultats obtenus.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 5
 
 	**Codifié par**:
 
@@ -98232,6 +98246,12 @@ La durée pendant laquelle le congé peut être différé, en application du V d
 
 	  - Décret n°79-252 du 27 mars 1979 - art. 1 (Ab)
 
+	**Cite**:
+
+	  - Code du travail - art. L432-1 (T)
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L930-2 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. L930-1 (T)
@@ -98240,39 +98260,17 @@ La durée pendant laquelle le congé peut être différé, en application du V d
 
 	**Nouveaux textes**:
 
+	  - Code du travail - art. R931-5 (M)
 	  - Code du travail - art. R931-5 (V)
-
-	**Cite**:
-
-	  - Code du travail L930-1 V
 
 
 ###### Article R930-6
 
-Aucun travailleur ayant bénéficié d'un congé de formation autre que le congé prévu à l'article L. 930-2 ne peut prétendre
-dans la même entreprise, au bénéfice d'un nouveau congé de formation avant un délai [*de franchise*] exprimé en mois et dont
-la durée est égale au huitième de la durée exprimée en heures, du stage précédemment suivi.
-
-Dans le cas ou des travailleurs suivent des stages du fait de la seule décision de la direction de l'entreprise ou de ses
-représentants, la durée du délai visée au premier paragraphe, exprimée en mois, est ramenée au seizième de la durée exprimée
-en heures du stage précédemment suivi.
-
-En tout état de cause, ce délai ne peut être inférieur à douze mois ni supérieur à douze ans [*limite*].
-
-//DECR.0893 04-08-1977 :
-
-Les dispositions des alinéas précédents ne s'appliquent pas aux titulaires d'un livret d'épargne [*pour entreprise
-artisanale*] institué par l'article 80 de la loi n. 76-1232 du 29 décembre 1976 et à leur conjoint salarié qui peuvent
-bénéficier sans condition de délai, dans l'année qui précède ou qui suit l'échéance du plan d'épargne, d'un congé de
-formation d'une durée maximum de 400 heures en vue de les préparer à la fonction du chef d'entreprise//.
+Dans les entreprises ou organismes où les attributions du comité d'entreprise sont dévolues à d'autres organismes, ceux-ci
+sont substitués au comité d'entreprise pour l'application des dispositions de l'article L. 930-1-5 et des articles R. 930-1 à
+R. 930-19.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 6
 
 	**Codifié par**:
 
@@ -98280,8 +98278,10 @@ formation d'une durée maximum de 400 heures en vue de les préparer à la fonct
 
 	**Cite**:
 
-	  - Loi n°76-1232 1976-12-29
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L930-1-5 (T)
 	  - Code du travail - art. L930-2 (M)
+	  - Code du travail L930-1-5, R930-1 A R930-19
 
 	**Nouveaux textes**:
 
@@ -98292,29 +98292,40 @@ formation d'une durée maximum de 400 heures en vue de les préparer à la fonct
 	  - Code du travail - art. R940-3 (T)
 	  - Code du travail - art. R941-3 (VT)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Conseil d'Etat 1974-06-28
-
-
-### MESURES D'APPLICATION DE L'ARTICLE L930-2 .
+### MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.
 
 ###### Article R930-7
 
-La durée minimale de présence dans l'entreprise, mentionnée au V (1.) de l'article L. 930-2, est fixée à six mois
-[*ancienneté*].
+Aucun travailleur ayant bénéficié d'un congé de formation entrant dans la prévision des articles L. 930-1 et L. 930-1-7 ne
+peut prétendre, dans la même entreprise, au bénéfice d'un nouveau congé de formation avant le délai déterminé ci-après.
+
+Ce délai est de six mois pour les stages d'une durée inférieure ou égale à quatre-vingts heures.
+
+Il est porté à un an pour les stages d'une durée comprise entre quatre-vingt-une et cent soixante heures.
+
+Pour les stages plus longs, la durée de ce délai, exprimée en mois, est égale au douzième de la durée, exprimée en heures du
+stage, du cours ou de la session précédemment suivie.
+
+En tout état de cause, le délai prévu aux alinéas précédents ne peut être supérieur à huit ans.
+
+Les dispositions des alinéas précédents ne s'appliquent pas aux titulaires d'un livret d'épargne institué par l'article 80 de
+loi n. 76-1232 du 29 décembre 1976 et à leur conjoint salarié qui peuvent bénéficier sans condition de délai, dans l'année
+qui précède ou qui suit l'échéance du plan d'épargne, d'un congé de formation d'une durée maximum de 400 heures en vue de les
+préparer à la fonction de chef d'entreprise.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 7
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°76-1232 1976-12-29 ART. 80
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. L930-1-7 (T)
+	  - Code du travail L930-1 A L930-1-11
 
 	**Liens**:
 
@@ -98327,29 +98338,22 @@ La durée minimale de présence dans l'entreprise, mentionnée au V (1.) de l'ar
 
 	**Nouveaux textes**:
 
+	  - Code du travail - art. R931-7 (M)
 	  - Code du travail - art. R931-7 (V)
-	  - Code du travail R930-13 (1979)
-
-	**Cite**:
-
-	  - Code du travail L930-2 V-1
 
 
 ###### Article R930-8
 
-Les heures de congé auxquelles ont droit les travailleurs mentionnés à l'article L. 930-2 peuvent être reportées d'une année
-à l'autre, à la demande des travailleurs intéréssés.
-
-Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à
-temps partiel .
+Le congé de formation prévu au dernier alinéa de l'article L. 930-1 est accordé en vue de l'obtention de titres ou de
+diplômes de l'enseignement technologique homologués dans les conditions fixées aux alinéas 4 et 5 de l'article 8 de la loi n.
+71-577 du 16 juillet 1971.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 8
+	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (M)
+	  - Code du travail L930-1 A L930-1-11
 
 	**Codifié par**:
 
@@ -98359,34 +98363,23 @@ temps partiel .
 
 	  - Décret n°78-526 du 3 avril 1978 - art. 14 (V)
 
-	**Cite**:
-
-	  - Code du travail - art. L930-2 (M)
-
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R930-14 (T)
 	  - Code du travail - art. R931-8 (V)
-	  - Code du travail R930-14 (1979)
 
 
 ###### Article R930-9
 
-La demande de congé doit être formulée au plus tard trente jours à l'avance [*délai*] .
+Au cours d'une même année civile, les travailleurs peuvent prétendre au bénéfice d'un ou de plusieurs congé pour passer un
+examen en vue de l'obtention des titres ou diplômes définis à l'article précédent.
 
-Elle doit indiquer avec précision la date d'ouverture du stage, la désignation et la durée de celui-ci ainsi que le nom de
-l'organisme qui en est responsable.
+En outre, la durée du ou des congés destinés à la préparation de tels examens ne peut dépasser par année vingt-quatre heures
+du temps de travail.
 
-Dans les dix jours suivant la réception de la demande, l'employeur doit faire connaître [*réponse*] à l'intéressé soit son
-accord, soit les raisons qui motivent le rejet ou le report de la demande.
+La durée totale de ces congés n'est pas prise en compte pour le calcul du délai prévu à l'article R. 930-7.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 9
 
 	**Codifié par**:
 
@@ -98400,47 +98393,95 @@ accord, soit les raisons qui motivent le rejet ou le report de la demande.
 
 	  - Code du travail - art. R930-15 (T)
 	  - Code du travail - art. R931-9 (V)
-	  - Code du travail R930-15 (1979)
 
 	**Cite**:
 
-	  - Code du travail L930-2 V-3
+	  - Code du travail - art. R930-7 (T)
+	  - Code du travail L930-1 A L930-1-11
 
 
-###### Article R930-10
+### MESURES D'APPLICATION DE L'ARTICLE L930-2 .
 
-La durée pendant laquelle le congé peut être différé, en application de V (3.) de l'article L. 930-2, ne peut excéder trois
-mois [*limite*].
+###### Article R930-13
+
+La durée minimale de présence dans l'entreprise, mentionnée au IV (1.) de l'article L. 930-2 est fixée à trois mois.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 10
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cité par**:
-
-	  - Décret n°78-526 du 3 avril 1978 - art. 14 (V)
-	  - Code du travail - art. R930-12 (T)
-
 	**Nouveaux textes**:
 
-	  - Code du travail - art. R930-16 (T)
-	  - Code du travail - art. R931-10 (M)
-	  - Code du travail R930-16 (1979)
+	  - Code du travail - art. R930-19 (T)
+	  - Code du travail - art. R931-13 (M)
+	  - Code du travail - art. R931-13 (V)
 
 	**Cite**:
 
-	  - Code du travail L930-2 V-3
+	  - Code du travail L930-2 IV
 
 
-###### Article R930-11
+###### Article R930-15
+
+La demande de congé doit être formulée au plus tard trente jours à l'avance.
+
+Elle doit indiquer avec précision la date d'ouverture du stage, la désignation et la durée de celui-ci ainsi que le nom de
+l'organisme qui en est responsable.
+
+Dans les dix jours suivant la réception de la demande, l'employeur doit faire connaître à l'intéressé soit son accord, soit
+les raisons qui motivent le rejet ou le report de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R930-9 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R931-15 (M)
+	  - Code du travail - art. R931-15 (V)
+
+
+###### Article R930-16
+
+La durée pendant laquelle le congé peut être différé, en application de IV (3.) de l'article L. 930-2, ne peut excéder trois
+mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R930-10 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R930-18 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R931-16 (M)
+
+
+###### Article R930-17
 
 Lorsque les nécessités propres de l'entreprise ou de l'exploitation font obstacle à ce que toutes les demandes présentées au
 titre de l'article L. 930-2 soient simultanément satisfaites, les candidats sont départagés selon l'ordre de priorité ci-
@@ -98455,46 +98496,36 @@ Demandes formulées par les travailleurs ayant la plus grande durée de présenc
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 11
-
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cité par**:
-
-	  - Code du travail - art. R930-12 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R930-17 (T)
-	  - Code du travail - art. R931-11 (V)
-	  - Code du travail R930-17 (1979)
-
 	**Cite**:
 
-	  - Code du travail l930-2
-
-
-###### Article R930-12
-
-Le report de congé résultant de l'application des articles R. 930-10 et R. 930-11 ci-dessus n'entraîne pas suppression du
-droit à congé pour les travailleurs qui atteindraient l'âge de vingt ans ou deux ans de présence [*ancienneté*] dans
-l'entreprise après le dépôt de leur demande. Sans préjudice de l'application éventuelle des dispositions de /M/L'article L.
-930-7/M/DECR.0808 19-09-1974 : l'article L. 930-1//, les travailleurs conservent le droit de prendre le congé prévu à
-l'article L. 930-2 au-delà de l'âge de vingt ans ou après plus de deux ans de présence dans l'entreprise.
-
-**Liens relatifs à cet article**
+	  - Code du travail - art. L930-2 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 12
+	  - Code du travail - art. R930-11 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R930-18 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R931-17 (M)
+	  - Code du travail - art. R931-17 (V)
+
+
+###### Article R930-18
+
+Le report de congé résultant de l'application des articles R. 930-17 n'entraîne pas suppression du droit à congé pour les
+travailleurs qui atteindraient l'âge de vingt ans ou deux ans d'activité professionnelle après le dépôt de leur demande. Sans
+préjudice de l'application éventuelle des dispositions de l'article L. 930-1, les travailleurs conservent le droit de prendre
+le congé prévu à l'article L. 930-2 au-delà de l'âge de vingt ans ou après plus de deux ans d'activité professionnelle.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -98504,82 +98535,25 @@ l'article L. 930-2 au-delà de l'âge de vingt ans ou après plus de deux ans de
 
 	  - Code du travail - art. L930-1 (M)
 	  - Code du travail - art. L930-2 (M)
-	  - Code du travail - art. R930-10 (T)
-	  - Code du travail - art. R930-11 (T)
-	  - Code du travail L930-2, L930-1, L930-7
+	  - Code du travail - art. R930-16 (M)
+	  - Code du travail - art. R930-17 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R930-12 (T)
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. R930-18 (T)
-	  - Code du travail - art. R931-12 (Ab)
-	  - Code du travail R930-18 (1979)
+	  - Code du travail - art. R931-18 (M)
+	  - Code du travail - art. R931-18 (V)
 
 
-###### Article R930-13
+###### Article R930-19
 
 Toute décision de refus ou de report de congé doit être prise après avis du comité d'entreprise ou, à défaut, des délégués du
-personnel [*consultation préalable*] .
+personnel.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 13
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R930-19 (T)
-	  - Code du travail - art. R931-13 (V)
-	  - Code du travail R930-19 (1979)
-
-
-### MESURES D'APPLICATION DES ARTICLES L930-1 ET L930-2 .
-
-###### Article R930-14
-
-Le bénéficiaire du congé de formation doit [*obligation*] à la fin de chaque mois [*périodicité*] et au moment de la reprise
-du travail, remettre à l'entreprise une attestation de fréquentation effective du stage.
-
-La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé
-[*sanction*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TTRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R931-14 (V)
-
-
-###### Article R930-15
-
-Les comité d'entreprise ou d'établissement et, dans les entreprises employant plus de 300 salariés, [*effectifs*] les
-commissions prévues au quatrième alinéa de l'article L. 432-1 sont consultés sur les problèmes généraux relatifs à
-l'application du présent titre, ils sont en outre informés des possibilités de congé qui ont été ouvertes aux travailleurs,
-des conditions dans lesquelles ces congés ont été accordées ainsi que des résultats obtenus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 15
 
 	**Codifié par**:
 
@@ -98587,27 +98561,31 @@ des conditions dans lesquelles ces congés ont été accordées ainsi que des r�
 
 	**Cite**:
 
-	  - Code du travail - art. L432-1 (T)
-	  - Code du travail R930-1 A R930-16
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R931-15 (V)
-
-
-###### Article R930-16
-
-Dans les entreprises ou organismes où les attributions du comité d'entreprise sont dévolues à d'autres organismes, ceux-ci
-sont substitués au comité d'entreprise pour l'application des dispositions de l'article L. 930-1 (V)[* Bénéfice du congé de
-formation*] et des articles R. 930-1 à R. 930-15.
-
-**Liens relatifs à cet article**
+	  - Code du travail - art. L930-2 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°71-575 1971-07-16 ART. 7, 8 DU TITRE III
-	  - Loi n°71-575 du 16 juillet 1971 - art. 7 (V)
-	  - Décret n°71-977 1971-12-10 ART. 16
+	  - Code du travail - art. R930-13 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R931-19 (M)
+	  - Code du travail - art. R931-19 (V)
+
+
+### MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.
+
+###### Article R930-10
+
+Les salariés définis au I de l'article L. 930-1-12 ont droit à une autorisation d'absence, en vue de dispenser un
+enseignement technologique relevant de leur spécialité professionnelle :
+
+a) Soit à temps partiel, l'absence de l'entreprise ne pouvant alors excéder quatre heures par semaine ou dix-huit heures par
+mois ;
+
+b) Soit à temps plein pour une durée n'excédant pas un an.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -98615,15 +98593,103 @@ formation*] et des articles R. 930-1 à R. 930-15.
 
 	**Cité par**:
 
-	  - Code du travail - art. R930-18 (T)
+	  - Décret n°78-526 du 3 avril 1978 - art. 14 (V)
+	  - Code du travail - art. R930-12 (T)
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. R931-16 (M)
+	  - Code du travail - art. R930-16 (T)
+	  - Code du travail - art. R931-10 (M)
 
 	**Cite**:
 
-	  - Code du travail L930-1 V
+	  - Code du travail L930-1-12 I
+
+
+###### Article R930-11
+
+L'autorisation d'absence en vue de dispenser un enseignement à temps partiel est accordée pour une période maximale d'un an.
+Son renouvellement éventuel doit faire l'objet d'une nouvelle demande à l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1-12 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R930-12 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R930-17 (T)
+	  - Code du travail - art. R931-11 (M)
+	  - Code du travail - art. R931-11 (V)
+
+
+###### Article R930-12
+
+Aucun travailleur ayant bénéficié par application des articles précédents d'un congé d'enseignement à temps partiel ne peut
+prétendre, dans la même entreprise, au bénéfice d'un nouveau congé d'enseignement avant le délai déterminé ci-après.
+
+Ce délai est de six mois pour les périodes d'enseignement inférieures ou égales à quatre-vingts heures.
+
+Il est porté à un an pour les périodes d'enseignement d'une durée comprise entre quatre-vingt-une et cent soixante heures.
+
+Pour les périodes plus longues, la durée de ce délai, exprimée en mois, est égale au douzième de la durée, exprimée en
+heures, de la période d'enseignement dispensé.
+
+En tout état de cause, le délai prévu aux alinéas ci-dessus ne peut être supérieur à huit ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1-12 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R930-18 (T)
+	  - Code du travail - art. R931-12 (Ab)
+
+
+### MESURE D'APPLICATION DE L'ARTICLE L. 930-2
+
+###### Article R930-14
+
+Les heures de congé auxquelles ont droit les travailleurs mentionnés à l'article L. 930-2 peuvent être reportées d'une année
+à l'autre, à la demande des travailleurs intéréssés.
+
+Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à
+temps partiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R930-8 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R931-14 (M)
+	  - Code du travail - art. R931-14 (V)
 
 
 ### MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10
@@ -99428,26 +99494,6 @@ chaque période de stage correspondant à une année scolaire.
 	  - Code du travail R960-24 ET R960-25
 
 
-###### Article R960-29-1
-
-L'Etat prend à sa charge la rémunération des stagiaires mentionnés à l'article R. 940-1.
-
-Lorsque ces stagiaires suivent un stage de promotion professionnelle, leur rémunération est, par application du troisième
-alinéa de l'article L. 960-3, calculée dans les conditions prévues à l'article L. 960-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L960-3 (M)
-	  - Code du travail - art. L960-8 (M)
-	  - Code du travail - art. R940-1 (T)
-
-
 #### STAGES OUVRANT DROIT A REMUNERATION .
 
 ###### Article R960-2
@@ -99641,96 +99687,6 @@ l'agriculture, obligation peut être faite aux stagiaires de justifier de condit
 	  - Code du travail - art. R960-26 (M)
 
 
-###### Article R960-5
-
-Les stages définis au 3. de l'article L. 940-2 doivent, en outre, être inscrits sur une liste spéciale établie par décision
-du Premier ministre en application de l'article L. 960-18 III. 
-
-Cette liste indique, [*mentions*] pour chaque stage, la durée totale et la durée hebdomadaire de la formation, le niveau de
-qualification auquel cette formation conduit, ainsi que le nombre maximum de stagiaires susceptibles d'être rémunérés chaque
-année au titre des articles L. 900-1 à L. 980-7.
-
-Les travailleurs âgés de vingt et un an au moins et qui justifient d'un minimum de trois années de pratique professionnelle
-dans un emploi qualifié occupé à temps plein ont droit à l'indemnité prévue à l'article L. 960-8 lorsqu'ils suivent un stage
-inscrit sur la liste prévue au premier alinéa du présent article.
-
-Les travailleurs qui ne remplissent pas les conditions d'âge et de pratique professionnelle prévues à l'alinéa précédent
-peuvent être admis à suivre les stages mentionnés au premier alinéa du présent article lorsque la totalité des places
-offertes pour un stage n'est pas prise par les candidats satisfaisant auxdites conditions et que la capacité de ces
-travailleurs leur permet de suivre utilement ces stages. 
-
-Dans ce cas, ces travailleurs relèvent, selon qu'ils sont ou non titulaires d'un contrat de travail, du régime de
-rémunération applicable aux stages visés au 1. ou 2. de l'article L. 940-2.
-
-Toutefois, le montant de la rémunération qui leur est versée ou qui donne lieu à un remboursement de l'Etat à leur employeur
-ne peut être supérieur au montant de l'indemnité de promotion professionnelle afférente au stage suivi.
-
-Lorsqu'un stage est rayé de la liste, les stagiaires en cours de formation continuent néanmoins à percevoir leur rémunération
-pendant toute la durée précédemment fixée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R960-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R961-5 (V)
-
-	**Cite**:
-
-	  - Code du travail L900-1 A L980-7
-
-
-###### Article R960-6
-
-Les stages [*dits d'entretien ou de perfectionnement des connaissances*] définis au 4. de /R/l'article L. 940-2/R/loi  0754 :
-l'article L. 900-2// et auxquels s'applique l'article L. 960-11 [*indemnité horaire calculée en fonction du SMIC*] doivent
-également être inscrits sur une liste spéciale établie par décision du Premier ministre en application de l'article L. 960-18
-III, et comportant les mêmes mentions que la liste prévue à l'article R. 960-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 JUILLET 1978
-
-	**Cité par**:
-
-	  - Décret n°80-1155 du 31 décembre 1980 - art. 2 (V)
-	  - Code de la sécurité sociale. - art. R356-2 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L960-11 (P)
-	  - Code du travail - art. R960-5 (Ab)
-	  - Code du travail L900-2, L940-2 PAR. 4
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R961-6 (M)
-
-
 #### MODALITES DE CALCUL ET DE VERSEMENT DES REMUNERATIONS
 
 ##### REMUNERATIONS VERSEES AUX STAGIAIRES .
@@ -99798,29 +99754,6 @@ servant d'assiette pour le calcul de la cotisation obligatoire au régime d'assu
 	  - Code du travail R960-6 (1979)
 
 
-###### Article R960-8
-
-Les rémunérations dues aux stagiaires peuvent, pour une même catégorie de stages, varier notamment en fonction de l'âge des
-intéressés.
-
-L'âge retenu est celui atteint par le stagiaire à la date de l'ouverture effective du stage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R961-8 (V)
-
-
 ###### Article R960-9
 
 Les rémunérations dues aux stagiaires sont liquidées sur demande établie par les intéressés dès le début du stage et adressée
@@ -99852,53 +99785,6 @@ dans les mêmes conditions au centre national pour l'aménagement des structures
 
 	  - Code du travail - art. R990-8 (T)
 	  - Code du travail - art. R992-8 (VT)
-
-
-###### Article R960-10
-
-Il ne peut être exigé à l'appui des demandes prévues à l'article précédent de pièces justificatives autres que celles qui
-permettent de vérifier que les intéressés entrent bien dans l'une des catégories définies au titre VI du livre IX du présent
-code (parties L et R) et de connaître leur âge et, le cas échéant, le salaire qu'ils percevaient antérieurement ou, s'il
-s'agit de travailleurs non salariés des professions non agricoles, le revenu professionnel servant d'assiette pour le calcul
-de la cotisation obligatoire au régime d'assurance maladie.
-
-Les pièces justificatives du salaire perçu antérieurement à l'entrée en stage par les travailleurs salariés ou du dernier
-revenu professionnel pour les travailleurs non salariés de professions non agricoles doivent être remises au directeur de
-l'établissement ou du centre au plus tard dans les trois mois [*délai*] suivant l'ouverture effective du stage.
-
-A défaut de remise de ces pièces dans le délai prescrit, les stagiaires ne peuvent prétendre à une autre rémunération que
-celle afférente à la rémunération minimum garantie de la catégorie dont ils relèvent [*sanction*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire 6 1972-02-21
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R960-11 (T)
-	  - Code du travail - art. R960-14 (T)
-	  - Code du travail - art. R961-11 (M)
-	  - Code du travail - art. R990-8 (T)
-	  - Code du travail - art. R992-8 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R961-10 (V)
-
-	**Cite**:
-
-	  - Code du travail L960-1 A L960-16
 
 
 ###### Article R960-11
@@ -100159,37 +100045,6 @@ national pour l'aménagement des structures des exploitations agricoles.
 
 #### PROTECTION SOCIALE DES STAGIAIRES .
 
-###### Article R960-18
-
-Pour l'application des dispositions de l'article L. 960-15, l'Etat participe à la cotisation due au titre des accidents du
-travail et des maladies professionnelles dans la même proportion qu'aux rémunérations lorsque le stagiaire est titulaire d'un
-contrat de travail. Dans le cas où le stagiaire n'a pas de contrat de travail, l'Etat prend en charge la totalité de cette
-cotisation.
-
-Dans les deux cas, le taux de cette cotisation est celui qui résulte des mesures d'application de l'article L. 132 du code de
-la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L960-15 (Ab)
-	  - Code de la sécurité sociale L132
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R962-3 (V)
-
-
 ###### Article R960-19
 
 Sous réserve de l'application des dispositions du présent titre, les obligations qui incombent à l'employeur en vertu des
@@ -100239,55 +100094,6 @@ accompli.
 
 	  - Code du travail - art. R963-1 (M)
 	  - Code du travail R960-16 (1979)
-
-
-###### Article R960-20
-
-Les cotisations obligatoirement dues par les employeurs, au titre des assurances sociales et des prestations familiales, pour
-des stagiaires relevant du régime des assurances sociales des salariés agricoles, leur sont remboursées par l'Etat, sur les
-crédits du fonds d'action sociale pour l'aménagement des structures agricoles, dans la même proportion que celle à laquelle
-il participe à la rémunération de ces stagiaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 20
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R963-2 (V)
-
-
-###### Article R960-21
-
-Lorsque les stagiaires relevant du régime des assurances sociales des salariés agricoles ne sont pas titulaires d'un contrat
-de travail, les cotisations dues en raison des stages, au titre des assurances sociales agricoles, sont calculées sur la base
-de taux forfaitaires fixés par décret.
-
-Les cotisations patronales résultant des dispositions de l'alinéa précédent ainsi que les cotisations d'allocations
-familiales dues pour les mêmes stagiaires sont intégralement prises en charge par l'Etat sur les crédits du fonds d'action
-sociale pour l'aménagement des structures agricoles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-575 1971-07-16 TITRE VI
-	  - Décret n°71-980 1971-12-10 ART. 21
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R963-3 (V)
 
 
 ###### Article R960-22
@@ -101520,6 +101326,162 @@ compétent en conformité avec les objectifs définis au premier alinéa de l'ar
 	  - Code du travail - art. R980-4 (T)
 	  - Code du travail - art. R981-3 (V)
 	  - Code du travail - art. R990-3 (T)
+
+
+### MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10
+
+###### Article R980-5
+
+Les stagiaires résidant dans un département d'outre-mer qui suivent, dans ce même département, un stage donnant lieu à
+rémunération à la charge de l'Etat ont droit :
+
+Au remboursement de la totalité des frais de transport exposés au début et à la fin du stage pour rejoindre l'établissement
+ou le centre de formation et en revenir, à condition que la distance à parcourir à partir de leur domicile soit supérieure à
+25 km ;
+
+Au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur famille, à condition que la
+distance à parcourir soit supérieure à 25 km, à raison :
+
+Pour les stagiaires âgés de moins de dix-huit ans, d'un voyage mensuel ;
+
+Pour les autres stagiaires, lorsqu'ils sont célibataires, d'un voyage si la durée du stage est supérieure à huit mois ;
+
+Pour les autres stagiaires, lorsqu'ils sont mariés ou chargés de famille, d'un voyage si la durée du stage est comprise entre
+trois et huit mois et de deux voyages si cette durée est supérieure à huit mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail L930-1, L950-1 A L950-10
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R980-4 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. R980-4 (T)
+	  - Code du travail - art. R981-4 (M)
+
+
+###### Article R980-6
+
+Les stagiaires résidant en Guadeloupe, Guyane ou Martinique qui suivent un stage donnant lieu à rémunération à la charge de
+l'Etat dans l'un des deux autres départements, ont droit au remboursement de la totalité des frais de transport exposés au
+début et à la fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir.
+
+Ces stagiaires ont également droit au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur
+famille, à raison d'un voyage si la durée du stage est supérieure à six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail L930-1, L950-1 A L950-10
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R981-5 (V)
+
+
+#### REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.
+
+###### Article R980-4
+
+Les dispositions de l'article R. 960-19 (1er alinéa) sont applicables aux stagiaires qui suivent dans un département d'outre-
+mer un stage ouvrant droit à rémunération à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°93-958 du 27 juillet 1993 - art. 4 (V)
+	  - Décret n°94-595 du 15 juillet 1994 - art. 1 (Ab)
+	  - Décret n°96-487 du 4 juin 1996 - art. 3 (V)
+	  - Décret n°97-278 du 24 mars 1997 - art. 3 (V)
+	  - Décret n°98-909 du 12 octobre 1998 - art. 3 (V)
+	  - Code du travail - art. R980-3 (T)
+	  - Code du travail - art. R980-4 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail - art. R960-19 (T)
+	  - Code du travail L930-1, L950-1 A L950-10
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R980-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R980-5 (Ab)
+	  - Code du travail - art. R981-4 (V)
+	  - Code du travail - art. R990-4 (T)
+
+
+###### Article R980-7
+
+Les stagiaires résidant dans un département d'outre-mer et qui suivent en France métropolitaine un stage donnant lieu à
+rémunération à la charge de l'Etat ont droit au remboursement de la totalité des frais de transport exposés au début et à la
+fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir, sur décision individuelle du Premier
+ministre prise après avis du groupe permanent de hauts fonctionnaires prévu à l'article L. 910-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L910-1 (M)
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail L910-1, L930-1, L950-1 A L950-10
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R981-6 (Ab)
+
+
+###### Article R980-8
+
+Le remboursement des frais de transport est effectué dans les conditions prévues aux articles R. 960-9 à R. 960-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-1058 1984-11-30 art. 1 jorf 1er décembre 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L930-1 (M)
+	  - Code du travail R960-9 A R960-13
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R981-7 (Ab)
+	  - Code du travail - art. R990-8 (T)
 
 
 ## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
@@ -114791,164 +114753,6 @@ jusqu'au 31 décembre 1975.
 	**Abrogé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
-
-
-### Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18
-
-#### Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.
-
-###### Article D981-1
-
-Les stagiaires qui suivent dans un département d'outre-mer un stage défini aux 1., 3. ou 5. de /R/l'article L. 940-2/R/loi
-0754 : l'article L. 900-2// [*conversion, prévention, promotion professionnelle, préformation, formation, préparation à la
-vie professionnelle ou spécialisation*] et qui reçoivent de ce fait, en application de ladite loi, une rémunération ont droit
-au remboursement de la totalité des frais de transport exposés à l'occasion des déplacements effectués en fonction des
-nécessités des stages.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet
-
-	**Anciens textes**:
-
-	  - Code du travail - art. D980-1 (T)
-
-	**Cite**:
-
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L940-2 (M)
-
-
-###### Article D981-2
-
-Les stagiaires résidant dans un département d'outre-mer qui suivent, dans ce même département, un stage défini au 1., 3. ou
-5. de /R/l'article L. 940-2/R/loi 0754 : l'article L. 900-2// et qui reçoivent de ce fait, en application de ladite loi, une
-rémunération ont droit :
-
-Au remboursement de la totalité des frais de transport exposés au début et à la fin du stage pour rejoindre l'établissement
-ou le centre de formation et en revenir, à condition que la distance à parcourir à partir de leur domicile soit supérieure à
-25 kilomètres.
-
-Au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur famille, à condition que la
-distance à parcourir soit supérieure à 25 kilomètres, à raison :
-
-Pour les stagiaires âgés de moins de dix-huit ans et bénéficiant des dispositions de l'article L. 960-13, d'un voyage
-mensuel ; Pour les autres stagiaires, lorsqu'ils sont célibataires, d'un voyage si la durée du stage est supérieure à huit
-mois. Pour les autres stagiaires, lorsqu'ils sont mariés ou chargés de famille, d'un voyage si la durée du stage est comprise
-entre trois et huit mois et de deux voyages si cette durée est supérieure à huit mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet
-
-	**Anciens textes**:
-
-	  - Code du travail - art. D980-2 (T)
-
-	**Cité par**:
-
-	  - Code du travail - art. D981-12 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L940-2 (M)
-	  - Code du travail - art. L960-13 (P)
-
-
-###### Article D981-3
-
-Les stagiaires résidant en Guadeloupe, Guyane ou Martinique [*départements d'outre-mer*] qui suivent un stage défini au 1. ou
-3. de /R/l'article L. 940-2/R/loi  0754 : l'article L. 900-2// [*conversion, prévention, promotion professionnelle*], dans
-l'un des deux autres départements, ont droit au remboursement de la totalité des frais de transport exposés au début et à la
-fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir.
-
-Ces stagiaires ont également droit au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur
-famille, à raison d'un voyage si la durée du stage est supérieure à six mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet
-
-	**Cité par**:
-
-	  - Code du travail - art. D981-4 (M)
-	  - Code du travail - art. D981-4-1 (Ab)
-	  - Code du travail - art. D981-5 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L940-2 (M)
-
-
-###### Article D981-4
-
-Les stagiaires résidant dans un département d'outre-mer et qui suivent un stage défini aux 1. ou 3. de /R/l'article L. 940-2/
-R/loi 0754 : l'article L. 900-2// en France métropolitaine ont droit au remboursement de la totalité des frais de transport
-exposés au début et à la fin du stage pour rejoindre l'établissement ou le centre de formation et en revenir, sur décision
-individuelle du Premier ministre prise après avis du groupe permanent de hauts fonctionnaires prévu à l'article L. 910-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°78-754 1978-07-17, ART. 1-III JORF 18 juillet
-
-	**Cité par**:
-
-	  - Code du travail - art. D981-13 (Ab)
-	  - Code du travail - art. D981-4-1 (Ab)
-	  - Code du travail - art. D981-6 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L910-1 (M)
-	  - Code du travail - art. L940-2 (M)
-
-
-###### Article D981-5
-
-Le remboursement des frais de transport est effectué dans les conditions prévues aux articles R. 960-11 à R. 960-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D981-14 (Ab)
-	  - Code du travail - art. D981-3 (M)
-	  - Code du travail - art. D981-6 (M)
-
-	**Cite**:
-
-	  - Code du travail R960-11 A R960-14
 
 
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
