@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-09-10 00:00:01 +0200
+Version Consolidée au 1981-10-01
 
 # Partie législative ancienne
 
