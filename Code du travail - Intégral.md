@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-02-28 00:00:01 +0100
+Version Consolidée au 1980-03-14
 
 # Partie législative ancienne
 
@@ -82917,6 +82917,36 @@ travail [*autorité compétente*].
 	  - Code du travail - art. R512-9 (VT)
 
 
+##### Section 2 : Organisation et fonctionnement du secrétariat-greffe.
+
+###### Article R512-35
+
+Les greffiers en chef [*attribution*] tiennent la comptabilité administrative des dépenses de fonctionnement énoncées à
+l'article L. 51-10-2 du code du travail.
+
+Ils sont habilités à recevoir les sommes déposées par les parties à l'instance à titre de provision. Ces sommes sont versées
+dans un compte de dépôt au Trésor.
+
+Une régie de recettes et une régie d'avances peuvent être créées dans chaque juridiction auprès de l'ordonnateur secondaire
+des dépenses du budget du ministère de la justice en vue de l'encaissement ou du paiement des recettes ou des dépenses
+énoncées à l'article 9 du décret n° 64-486 du 28 mai 1964.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-486 1964-05-28 ART. 9
+	  - Code du travail - art. L51-10-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
 ### Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 #### Chapitre Ier : Attributions et institution des conseils de prud'hommes.
@@ -82970,6 +83000,33 @@ sera procédé à l'élection des conseillers.
 #### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
 ##### Section 1 : Organisation et fonctionnement de la juridiction.
+
+###### Article R512-1
+
+Le siège et le ressort des conseils de prud'hommes sont fixés conformément au tableau annexé au présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L512-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1422-4 (V)
+
 
 ###### Article R512-4
 
@@ -83148,6 +83205,340 @@ par le premier président demeure cependant saisi des affaires qui lui ont été
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R1423-33 (M)
+
+
+##### Section 2 : Organisation et fonctionnement du secrétariat-greffe.
+
+###### Article R512-18
+
+Chaque conseil de prud'hommes comporte un secrétariat-greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2005 - art. Annexe (V)
+
+
+###### Article R512-19
+
+Le premier président de la cour d'appel [*autorité compétente*] fixe, après avis du président du conseil de prud'hommes, les
+jours et heures d'ouverture au public du secrétariat-greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-20
+
+Sous le contrôle du président du conseil de prud'hommes, le greffier en chef dirige les services administratifs de la
+juridiction et assume la responsabilité de leur fonctionnement.
+
+Lorsqu'il est chargé de la direction de secrétariats-greffes de plusieurs conseils de prud'hommes, il exerce ses fonctions
+sous le contrôle respectif de chacun des présidents de ces conseils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-21
+
+Le greffier en chef [*attributions*] administre le personnel du secrétariat-greffe. Il le répartit et l'affecte dans les
+différents services du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-22
+
+Le greffier en chef [*attributions*] prépare chaque année et soumet au président et au vice-président le projet de budget de
+la juridiction.
+
+Il gère les crédits alloués à la juridiction et assure notamment l'acquisition, la conservation et le renouvellement du
+matériel, du mobilier, des revues et ouvrages de la bibliothèque. Il surveille l'entretien des locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-23
+
+Le greffier en chef organise l'accueil du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-24
+
+Le greffier en chef [*attributions*] tient à jour les dossiers, les répertoires et les registres ; il dresse les actes, notes
+et procès-verbaux prévus par les codes ; il assiste les conseillers prud'hommes à l'audience ; il met en forme les décisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-32 (VT)
+	  - Code du travail - art. R512-33 (VT)
+
+
+###### Article R512-25
+
+Le greffier en chef est dépositaire des dossiers des affaires, des minutes et des archives et en assure la conservation. Il
+délivre les expéditions et les copies.
+
+L'établissement et la délivrance des reproductions de toute pièce conservée dans les services du conseil de prud'hommes ne
+peuvent être assurés que par lui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-26
+
+Le greffier en chef [*attribution*] établit l'état de l'activité de la juridiction selon la périodicité et le modèle fixés
+par le garde des sceaux, ministre de la justice. Cet état est adressé avec, s'il y a lieu, les observations du président et
+du vice-président, au ministre de la justice, sous le couvert des chefs de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-27
+
+Selon les besoins du service, le greffier en chef peut désigner sous sa responsabilité un ou plusieurs agents du secrétariat-
+greffe pour exercer partie des fonctions qui lui sont attribuées aux articles précédents *délégation de*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-28
+
+Lorsque l'emploi de greffier en chef est vacant ou lorsque le greffier en chef est empêché ou absent, la suppléance ou
+l'intérim est assuré par le greffier en chef adjoint.
+
+S'il existe plusieurs greffiers en chef adjoints, le greffier en chef, ou s'il ne peut le faire le président de la
+juridiction, désigne l'un des greffiers en chef adjoints pour assurer la suppléance ou l'intérim.
+
+A défaut de greffier en chef adjoint, un chef de service ou un autre agent du secrétariat-greffe est désigné dans les mêmes
+conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-29
+
+Les greffiers en chef adjoints [*attributions*] assistent le greffier en chef.
+
+Ils peuvent diriger plusieurs services du secrétariat-greffe ou contrôler l'activité de tout ou partie du personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-30
+
+Les chefs de service de secrétariat-greffe sont placés à la tête d'un ou de plusieurs services. Ils assistent le greffier en
+chef en l'absence de greffier en chef adjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-31
+
+Un secrétaire-greffier peut être placé à la tête d'un service lorsque l'importance de celui-ci ne justifie pas que ces
+fonctions soient confiées à un fonctionnaire appartenant au corps des greffiers en chef.
+
+A titre exceptionnel, un secrétaire-greffier peut également être chargé des fonctions de greffier en chef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+
+###### Article R512-32
+
+Les greffiers en chef adjoints, les chefs de service de secrétariat-greffe et les fonctionnaires du corps des secrétaires-
+greffiers exercent, dans l'affectation qui leur est donnée par le greffier en chef, les attributions confiées à celui-ci par
+l'article R. 512-24.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+	**Cite**:
+
+	  - Code du travail - art. R512-24 (M)
+
+
+###### Article R512-33
+
+Des personnels appartenant aux catégories C et D et, le cas échéant, des auxilaires et des vacataires, concourent au
+fonctionnement des différents services des secrétariats-greffes.
+
+Ces personnels peuvent, à titre exceptionnel et après avoir prêté le serment prévu à l'article 34 du décret n° 79-1071 du 12
+décembre 1979 *condition*, être chargés des fonctions énumérées à l'article R. 512-24 et de la délivrance des expéditions et
+copies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Décret n°79-1071 du 12 décembre 1979 - art. 34 (V)
+	  - Code du travail - art. R512-24 (M)
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+	**Cité par**:
+
+	  - Décret n°2002-197 du 14 février 2002 - art. 2 (Ab)
+	  - Décret n°2003-466 du 30 mai 2003 - art. 6 (V)
+
+
+###### Article R512-34
+
+Selon les besoins du service, les agents des secrétariats-greffes peuvent être délégués dans les services administratifs d'un
+autre conseil de prud'hommes du ressort de la même cour d'appel *déplacement*.
+
+Cette délégation est prononcée par décision des chefs de cour après consultation du président du conseil de prud'hommes, du
+vice-président et du greffier en chef. Elle ne peut excéder une durée de deux mois. Toutefois, le garde des sceaux, ministre
+de la justice, peut la renouveler dans la limite d'une durée totale de huit mois.
+
+Les agents délégués dans une autre juridiction perçoivent des indemnités dans les mêmes conditions que celles qui sont
+prévues pour les fonctionnaires de leur catégorie par le décret n° 66-619 du 10 août 1966.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°66-619 1966-08-10
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2005 - art. Annexe (V)
 
 
 #### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
@@ -83950,6 +84341,58 @@ Lorsque la demande de récusation est portée devant la Cour d'appel, elle est j
 	**Cité par**:
 
 	  - Code du travail - art. R851-3 (VT)
+
+
+#### Chapitre IX : Emoluments, indemnités et droits alloués aux huissiers et témoins
+
+##### Section 1 : Huissiers de justice.
+
+###### Article R519-1
+
+Il est alloué aux huissiers de justice, pour l'usage de leur ministère accompli en matière prud'homale, des émoluments égaux
+à la moitié de ceux prévus pour des actes de même nature par leur tarif en matière civile et commerciale [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R519-10 (Ab)
+
+
+##### Section 2 : Témoins.
+
+###### Article R519-2
+
+Il est alloué aux témoins entendus en matière prud'homale, s'ils le demandent, une indemnité de comparution et,
+éventuellement, une indemnité de voyage et de séjour égales à celles attribuées aux témoins appelés à déposer en matière
+civile [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-196 du 10 mars 1980 - art. 2 () JORF 14 MARS
+
+	**Cité par**:
+
+	  - Code du travail - art. R519-1 (Ab)
+	  - Code du travail - art. R519-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R519-11 (Ab)
 
 
 ### Titre II : Conflits collectifs
