@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-07-20
+Version Consolidée au 1978-07-29
 
 # Partie législative ancienne
 
@@ -52908,34 +52908,6 @@ l'article R. 523-2.
 
 ##### COMPOSITION DES COMMISSIONS DE CONCILIATION .
 
-###### Article R523-4
-
-La commission nationale de conciliation comprend [*composition*] :
-
-Le ministre chargé du travail ou son représentant, président ;
-
-Un représentant du ministre chargé des affaires économiques ;
-
-Quatre représentants des employeurs ;
-
-Quatre représentants des salariés [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 4
-	  - Décret n°68-763 1968-08-23 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R523-7 (VT)
-
-
 ###### Article R523-5
 
 La commission régionale de conciliation comprend une section à compétence régionale et éventuellement des sections à
@@ -53221,31 +53193,6 @@ peuvent être apportées à cette compétence territoriale par arrêté du minis
 	  - Décret n°73-1048 1973-11-15
 
 
-###### Article R523-20
-
-La commission nationale de conciliation fonctionnant au ministère de l'agriculture comprend :
-
-Le ministre de l'agriculture ou son représentant, président ;
-
-Le ministre chargé du travail ou son représentant ;
-
-Un représentant du ministre chargé des affaires économiques ;
-
-Trois représentants des employeurs ;
-
-Trois représentants des salariés [*nombre*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ###### Article R523-21
 
 Les commissions régionales de conciliation comprennent une section à compétence régionale et, éventuellement, des sections à
@@ -53295,24 +53242,6 @@ départementale de l'agriculture// ;
 	**Anciens textes**:
 
 	  - Décret n°58-615 1958-07-18 ART. 20
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R523-23
-
-Lorsque le conflit examiné par une commission ou une section de conciliation concerne la catégorie des cadres, un
-représentant de cette catégorie est adjoint aux autres représentants des travailleurs et le nombre des représentants des
-employeurs est porté à quatre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-615 1958-07-18 ART. 21
-	  - Code du travail - art. R523-24 (T)
 
 	**Codifié par**:
 
@@ -85054,6 +84983,34 @@ Lorsque la demande de récusation est portée devant la Cour d'appel, elle est j
 
 ##### Section 3 : Composition des commissions de conciliation
 
+###### Article R523-4
+
+La commission nationale de conciliation comprend [*composition*] :
+
+Le ministre chargé du travail ou son représentant, président ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Cinq représentants des employeurs ;
+
+Cinq représentants des salariés [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-615 1958-07-18 ART. 4
+	  - Décret n°68-763 1968-08-23 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R523-7 (VT)
+
+
 ###### Article R523-9
 
 Les membres des commissions doivent [*condition*] être de nationalité française et jouir de leurs droits civils et
@@ -85125,6 +85082,31 @@ La commission nationale de conciliation siège au ministère de l'agriculture.
 	**Abrogé par**:
 
 	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+
+###### Article R523-20
+
+La commission nationale de conciliation fonctionnant au ministère de l'agriculture comprend :
+
+Le ministre de l'agriculture ou son représentant, président ;
+
+Le ministre chargé du travail ou son représentant ;
+
+Un représentant du ministre chargé des affaires économiques ;
+
+Cinq représentants des employeurs ;
+
+Cinq représentants des salariés [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-615 1958-07-18 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
 
 
 #### Chapitre IV : Médiation
