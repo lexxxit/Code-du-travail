@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-01-01
 
 # Partie législative ancienne
 
@@ -22775,6 +22775,95 @@ vigueur. Ce délai de dix ans est réduit à raison d'une année par enfant mine
 	  - Ordonnance 1945-11-02 ART. 17
 
 
+###### Article L341-6
+
+Il est interdit à toute personne d'engager ou de conserver [*de façon irrégulière*] à son service un étranger non muni du
+titre l'autorisant à exercer une activité salariée en France, lorsque la possession de ce titre est exigée en vertu soit de
+dispositions législatives ou réglementaires, soit de traités ou accords internationaux.
+
+Il est également interdit à toute personne d'engager ou de conserver à son service un étranger dans une catégorie
+professionnelle, une profession ou une zone géographique autres que celles qui sont mentionnées, le cas échéant, sur le titre
+[*de travail*] prévu à l'alinéa précédent.
+
+**Nota:**
+
+[*Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 15 ter (Ab)
+	  - Décret n°86-567 du 14 mars 1986 - art. 5 (Ab)
+	  - Décret n°90-200 du 5 mars 1990 - art. 6 (Ab)
+	  - Décret n°92-311 du 31 mars 1992 - art. 25 bis (Ab)
+	  - Décret n°93-584 du 26 mars 1993 - art. 6 (Ab)
+	  - Décret n°93-990 du 3 août 1993 - art. 21 bis (Ab)
+	  - Loi n°97-210 du 11 mars 1997 - art. 27 (V)
+	  - Loi n°97-210 du 11 mars 1997 - art. 31 (V)
+	  - Décret n°97-638 du 31 mai 1997 - art. 9 (VT)
+	  - Décret n°99-752 du 30 août 1999 - art. 2 (V)
+	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (M)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 42-1 (V)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (V)
+	  - Décret n°2006-660 du 6 juin 2006 - art. 1 (Ab)
+	  - Décret n°2006-660 du 6 juin 2006 - art. 2 (Ab)
+	  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
+	  - Arrêté du 12 novembre 1986 - art. 1 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-6 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (M)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R626-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R626-2 (V)
+	  - Code de la construction et de l'habitation. - art. R433-9 (M)
+	  - Code de la route - art. R243-2 (Ab)
+	  - Code de procédure pénale - art. 78-2-1 (M)
+	  - Code des marchés publics - art. *49 (Ab)
+	  - Code des marchés publics - art. *50 (Ab)
+	  - Code des marchés publics - art. 45 (Ab)
+	  - Code des marchés publics. - art. 45 (Ab)
+	  - Code du travail - art. L325-1 (AbD)
+	  - Code du travail - art. L341-11 (AbD)
+	  - Code du travail - art. L341-3 (M)
+	  - Code du travail - art. L341-6-1 (AbD)
+	  - Code du travail - art. L341-6-4 (AbD)
+	  - Code du travail - art. L341-7 (AbD)
+	  - Code du travail - art. L364-2 (AbD)
+	  - Code du travail - art. L364-2-1 (P)
+	  - Code du travail - art. L364-2-2 (P)
+	  - Code du travail - art. L364-3 (AbD)
+	  - Code du travail - art. L611-13 (AbD)
+	  - Code du travail - art. L611-15-1 (AbD)
+	  - Code du travail - art. L611-6 (M)
+	  - Code du travail - art. L831-1 (AbD)
+	  - Code du travail - art. R341-27 (VT)
+	  - Code du travail - art. R341-29 (VT)
+	  - Code du travail - art. R341-31 (VT)
+	  - Code du travail - art. R341-33 (T)
+	  - Code du travail - art. R341-34 (VT)
+	  - Code du travail - art. R341-35 (T)
+	  - Code du travail - art. R341-37 (T)
+	  - Code du travail - art. R341-40 (T)
+	  - Code du travail - art. R364-1 (VT)
+	  - Code général des collectivités territoriales - art. L1414-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°81-941 1981-10-17 ART. 4 I JORF 20 OCTOBRE date d'entrée en vigueur 1ER JANVIER 1982
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L364-3 (M)
+	  - TXT_ASSOCIE: Code du travail - art. R364-1 (M)
+	  - TXT_ASSOCIE: Code du travail R364-1 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ##### (en vigueur jusqu'au 1er janvier 2007 au plus tard)
 
 ###### Article L341-1
@@ -24654,6 +24743,43 @@ jusqu'au 1er mars 1995 pour les Territoires d'Outre-Mer et la collectivité terr
 	**Cite**:
 
 	  - Code du travail L341-3 AL. 3
+
+
+###### Article L364-2-2
+
+En cas de condamnation pour les faits prévus à l'article L. 341-6 [*travail clandestin*], le tribunal peut ordonner, aux
+frais de la personne condamnée, l'affichage du jugement aux portes des établissements [*lieu*] de l'entreprise et sa
+publication dans les journaux qu'il désigne.
+
+Il peut également prononcer la confiscation de tout ou partie des outils, machines, matériaux, véhicules, utilisés ou stockés
+à l'occasion de l'infraction ou qui auront servi à la commettre, ainsi que du produit du travail effectué par les étrangers
+dépourvus de l'autorisation [*de travail*] visée à l'article L. 341-4.
+
+Le tribunal devra désigner les objets sur lesquels portera la confiscation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°81-941 1981-10-17 ART. 8 : DIFFERE LA DATE D'ENTREE EN VIGUEUR
+
+	**Créé par**:
+
+	  - Loi n°81-941 1981-10-17 art. 4 II JORF 20 octobre date d'entrée en vigueur 1er janvier 1982
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Code du travail - art. L883-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L341-4 (M)
+	  - Code du travail - art. L341-6 (M)
 
 
 ###### Article L364-4
@@ -27767,95 +27893,6 @@ décret en Conseil d'Etat.
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L341-6
-
-Il est interdit à toute personne d'engager ou de conserver [*de façon irrégulière*] à son service un étranger non muni du
-titre l'autorisant à exercer une activité salariée en France, lorsque la possession de ce titre est exigée en vertu soit de
-dispositions législatives ou réglementaires, soit de traités ou accords internationaux.
-
-Il est également interdit à toute personne d'engager ou de conserver à son service un étranger dans une catégorie
-professionnelle, une profession ou une zone géographique autres que celles qui sont mentionnées, le cas échéant, sur le titre
-prévu à l'alinéa précédent.
-
-//LOI 0621 10-07-1976 : En cas de condamnation pour les faits visés au présent article, le tribunal peut ordonner, aux frais
-de la personne condamnée, l'affichage du jugement aux portes des établissements de l'entreprise et sa publication dans les
-journaux qu'il désigne [*sanctions*]// .
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 12 (Ab)
-	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 15 ter (Ab)
-	  - Décret n°86-567 du 14 mars 1986 - art. 5 (Ab)
-	  - Décret n°90-200 du 5 mars 1990 - art. 6 (Ab)
-	  - Décret n°92-311 du 31 mars 1992 - art. 25 bis (Ab)
-	  - Décret n°93-584 du 26 mars 1993 - art. 6 (Ab)
-	  - Décret n°93-990 du 3 août 1993 - art. 21 bis (Ab)
-	  - Loi n°97-210 du 11 mars 1997 - art. 27 (V)
-	  - Loi n°97-210 du 11 mars 1997 - art. 31 (V)
-	  - Décret n°97-638 du 31 mai 1997 - art. 9 (VT)
-	  - Décret n°99-752 du 30 août 1999 - art. 2 (V)
-	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 4 (M)
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 42-1 (V)
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (V)
-	  - Décret n°2006-660 du 6 juin 2006 - art. 1 (Ab)
-	  - Décret n°2006-660 du 6 juin 2006 - art. 2 (Ab)
-	  - Décret n°2007-1167 du 2 août 2007 - art. 23 (V)
-	  - Arrêté du 12 novembre 1986 - art. 1 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L314-6 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (M)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. R626-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R626-2 (V)
-	  - Code de la construction et de l'habitation. - art. R433-9 (M)
-	  - Code de la route - art. R243-2 (Ab)
-	  - Code de procédure pénale - art. 78-2-1 (M)
-	  - Code des marchés publics - art. *49 (Ab)
-	  - Code des marchés publics - art. *50 (Ab)
-	  - Code des marchés publics - art. 45 (Ab)
-	  - Code des marchés publics. - art. 45 (Ab)
-	  - Code du travail - art. L325-1 (AbD)
-	  - Code du travail - art. L341-11 (AbD)
-	  - Code du travail - art. L341-3 (M)
-	  - Code du travail - art. L341-6-1 (AbD)
-	  - Code du travail - art. L341-6-4 (AbD)
-	  - Code du travail - art. L341-7 (AbD)
-	  - Code du travail - art. L364-2 (AbD)
-	  - Code du travail - art. L364-2-1 (P)
-	  - Code du travail - art. L364-2-2 (P)
-	  - Code du travail - art. L364-3 (AbD)
-	  - Code du travail - art. L611-13 (AbD)
-	  - Code du travail - art. L611-15-1 (AbD)
-	  - Code du travail - art. L611-6 (M)
-	  - Code du travail - art. L831-1 (AbD)
-	  - Code du travail - art. R341-27 (VT)
-	  - Code du travail - art. R341-29 (VT)
-	  - Code du travail - art. R341-31 (VT)
-	  - Code du travail - art. R341-33 (T)
-	  - Code du travail - art. R341-34 (VT)
-	  - Code du travail - art. R341-35 (T)
-	  - Code du travail - art. R341-37 (T)
-	  - Code du travail - art. R341-40 (T)
-	  - Code du travail - art. R364-1 (VT)
-	  - Code général des collectivités territoriales - art. L1414-4 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°70-1303 1970-12-31 ART. 1
-	  - Code du travail 2064
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L364-3 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R364-1 (M)
-	  - TXT_ASSOCIE: Code du travail L341-7 : SANCTION DU NON-RESPECT DES DISPOSITIONS DE L'ALINEA 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ### TRAVAILLEURS PRIVES D'EMPLOI
 
 #### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
@@ -29109,6 +29146,41 @@ En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amend
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L8256-1 (VD)
+
+
+###### Article L364-2-1
+
+Toute infraction aux dispositions du premier alinéa de l'article L. 341-6 [*emploi d'un étranger de façon irrégulière*] est
+punie d'un emprisonnement de deux mois à un an et d'une amende de 2.000 F à 20.000 F, ou de l'une de ces deux peines
+seulement.
+
+En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 40.000 F.
+
+L'amende est appliquée autant de fois qu'il y a d'étrangers concernés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 25 (M)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Code du travail - art. L364-3-1 (P)
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°81-941 1981-10-17 ART. 3 JORF 20 OCTOBRE date d'entrée en vigueur 1ER JANVIER 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°81-941 1981-10-17 ART. 8 : DIFFERE LA DATE D'ENTREE EN VIGUEUR
+
+	**Cite**:
+
+	  - Code du travail - art. L341-6 (M)
 
 
 ###### Article L364-3
@@ -81323,198 +81395,6 @@ l'article R. 322-25.
 
 	  - Code du travail - art. R322-20 (Ab)
 	  - Code du travail - art. R322-25 (Ab)
-
-
-#### CONVENTIONS DE COOPERATION
-
-##### CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES .
-
-###### Article R322-7
-
-Les conventions mentionnées à l'article R. 322-1 (2°) peuvent prévoir pour les travailleurs âgés, faisant l'objet d'un
-licenciement économique ou menacés de faire l'objet d'un tel licenciement, privés de tout ou partie de leur rémunération et
-qui, selon une procédure qui doit être fixée par chaque convention, auront été déclarés non susceptibles d'un reclassement
-effectif, l'attribution d'une allocation spéciale.
-
-Ces conventions fixent le montant des ressources garanties et compte tenu des rémunérations versées par les entreprises et
-des prestations du régime interprofessionnel d'aide aux travailleurs privés d'emploi, le montant de l'allocation spéciale.
-
-L'allocation spéciale est servie jusqu'à la liquidation des prestations vieillesse et au plus tard jusqu'à soixante-cinq ans
-et trois mois.
-
-En cas de reprise d'une activité professionnelle, elle cesse d'être servie.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°46-2959 du 31 décembre 1946 - art. 113 (Ab)
-	  - Arrêté du 1 février 1982 - art. 1 (V)
-	  - Arrêté du 23 novembre 1983 - art. 7 (V)
-	  - Décret n°84-295 du 20 avril 1984 - art. 1 (Ab)
-	  - Décret n°84-295 du 20 avril 1984 - art. 2 (Ab)
-	  - Décret n°84-295 du 20 avril 1984 - art. 3 (Ab)
-	  - Décret n°84-295 du 20 avril 1984 - art. 4 (Ab)
-	  - Décret n°84-295 du 20 avril 1984 - art. 6 (Ab)
-	  - Décret n°84-295 du 20 avril 1984 - art. 7 (Ab)
-	  - Décret n°84-495 du 25 juin 1984 - art. 1 (V)
-	  - Décret n°84-523 du 28 juin 1984 - art. 1 (Ab)
-	  - Décret n°86-791 du 30 juin 1986 - art. 1 (V)
-	  - Décret n°86-791 du 30 juin 1986 - art. 3 (V)
-	  - Décret n°87-185 du 20 mars 1987 - art. ANNEXE, 2 (Ab)
-	  - Arrêté du 15 avril 1987 - art. 10 (V)
-	  - Arrêté du 15 avril 1987 - art. 3 (V)
-	  - Décret n°87-270 du 15 avril 1987 - art. 1 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 2 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 3 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 4 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 5 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 7 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 8 (Ab)
-	  - Décret n°87-270 du 15 avril 1987 - art. 9 (Ab)
-	  - Arrêté du 15 septembre 1987 - art. 1 (V)
-	  - Arrêté du 15 septembre 1987 - art. 3 (V)
-	  - Arrêté du 15 septembre 1987 - art. 4 (V)
-	  - Arrêté du 26 octobre 1987 - art. 2 (Ab)
-	  - Arrêté du 24 mars 1993 - art. 1 (V)
-	  - Arrêté du 24 mars 1993 - art. 3 (V)
-	  - Décret n°93-451 du 24 mars 1993 - art. 1 (An)
-	  - Décret n°93-451 du 24 mars 1993 - art. 2 (An)
-	  - Décret n°93-451 du 24 mars 1993 - art. 3 (Ab)
-	  - Décret n°93-451 du 24 mars 1993 - art. 4 (Ab)
-	  - Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
-	  - Décret n°93-451 du 24 mars 1993 - art. 6 (Ab)
-	  - Décret n°93-451 du 24 mars 1993 - art. 7 (Ab)
-	  - Décret n°93-451 du 24 mars 1993 - art. 8 (Ab)
-	  - Décret n°98-1024 du 12 novembre 1998 - art. 1 (V)
-	  - Décret n°98-1024 du 12 novembre 1998 - art. 3 (V)
-	  - Décret n°98-1024 du 12 novembre 1998 - art. 4 (V)
-	  - Décret n°98-1024 du 12 novembre 1998 - art. 5 (V)
-	  - Arrêté du 1 avril 1999 - art. 1 (V)
-	  - Arrêté du 1 avril 1999 - art. 8 (V)
-	  - Arrêté du 1 avril 1999 - art. 9 (V)
-	  - Arrêté du 20 avril 1999 - art. 1 (V)
-	  - Arrêté du 20 avril 1999 - art. 10 (V)
-	  - Arrêté du 20 avril 1999 - art. 5 (V)
-	  - Arrêté du 20 avril 1999 - art. 9 (V)
-	  - Décret n°2008-244 du 7 mars 2008 - art. 10 (V)
-	  - Arrêté du 1 décembre 1986 - art. 1 (V)
-	  - Arrêté du 12 mars 1985 - art. 1 (P)
-	  - Arrêté du 12 mars 1985 - art. 2 (P)
-	  - Arrêté du 15 janvier 1986 - art. 1 (V)
-	  - Arrêté du 15 janvier 1986 - art. 2 (Ab)
-	  - Arrêté du 20 avril 1984 - art. 1 (Ab)
-	  - Arrêté du 20 avril 1984 - art. 2 (Ab)
-	  - Arrêté du 20 avril 1984 - art. 5 (Ab)
-	  - Arrêté du 25 juin 1984 - art. 1 (P)
-	  - Arrêté du 25 juin 1984 - art. 2 (P)
-	  - Arrêté du 9 août 1985 - art. 1 (V)
-	  - Code du travail - art. R322-10 (M)
-	  - Code du travail - art. R322-7-2 (VT)
-	  - Code du travail - art. R322-8 (M)
-	  - Code du travail - art. R5123-33 (VD)
-	  - Code rural - art. R751-52 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 23 novembre 1983 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°84-523 du 28 juin 1984
-	  - TXT_SOURCE: Décret n°84-523 du 28 juin 1984 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°84-523 du 28 juin 1984 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°86-791 du 30 juin 1986
-	  - TXT_SOURCE: Décret n°86-791 du 30 juin 1986 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°86-791 du 30 juin 1986 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°86-791 du 30 juin 1986 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 10 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 8 (V)
-	  - TXT_SOURCE: Arrêté du 15 avril 1987 - art. 9 (V)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°87-270 du 15 avril 1987 - art. 9 (Ab)
-	  - TXT_SOURCE: Décret n°90-368 du 27 avril 1990
-	  - TXT_SOURCE: Décret n°90-368 du 27 avril 1990 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Décret n°93-450 du 24 mars 1993
-	  - TXT_ASSOCIE: Décret n°93-450 du 24 mars 1993 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 1 (An)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 2 (An)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Décret n°93-1371 du 30 décembre 1993
-	  - TXT_ASSOCIE: Décret n°94-227 du 21 mars 1994
-	  - TXT_SOURCE: Décret n°97-438 du 30 avril 1997
-	  - TXT_SOURCE: Décret n°97-438 du 30 avril 1997 - art. 2 (An)
-	  - TXT_SOURCE: Décret n°98-1023 du 12 novembre 1998
-	  - TXT_SOURCE: Décret n°98-1024 du 12 novembre 1998
-	  - TXT_SOURCE: Décret n°98-1024 du 12 novembre 1998 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°98-1024 du 12 novembre 1998 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°98-1024 du 12 novembre 1998 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°98-1024 du 12 novembre 1998 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°98-1024 du 12 novembre 1998 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 10 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 11 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 4 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 6 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 7 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 8 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 9 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 10 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 8 (V)
-	  - TXT_SOURCE: Arrêté du 20 avril 1999 - art. 9 (V)
-	  - TXT_SOURCE: Arrêté du 11 août 1980
-	  - TXT_SOURCE: Arrêté du 11 août 1980 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 11 août 1980 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 11 août 1980 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 11 août 1980 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 11 août 1980 - art. 5 (Ab)
-	  - TXT_SOURCE: Arrêté du 11 août 1980 - art. 6 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. R322-1 (M)
 
 
 #### AIDES A LA MOBILITE GEOGRAPHIQUE
