@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-03
+Version Consolidée au 1979-10-04
 
 # Partie législative ancienne
 
@@ -74138,6 +74138,341 @@ avis du directeur régional du travail et de la main-d'oeuvre sans préjudice, l
 	  - Loi n°1940-08-27
 
 
+### Titre V : Travailleurs privés d'emploi
+
+#### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi
+
+##### Section 1 : Privation totale d'emploi
+
+##### SOUS-SECTION 2 : CONTROLE.
+
+###### Article R351-7
+
+Les institutions mentionnées à l'article L. 351-2 [*UNEDIC, ASSEDIC*] communiquent périodiquement aux directions
+départementales du travail et de l'emploi et à l'A.N.P.E. [*ANPE*] les indications nécessaires sur les personnes
+bénéficiaires des allocations prévues par un accord agréé, ainsi que tous renseignements administratifs nécessaires à
+l'accomplissement des missions de contrôle prévues à l'article R. 351-5. Elles communiquent aux organismes de sécurité
+sociale les renseignements nécessaires à la garantie des droits sociaux des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. R351-5 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-12 (M)
+	  - Code du travail - art. R351-6 (M)
+
+
+#### Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+
+##### SECTION 1 : PRIVATION TOTALE D'EMPLOI
+
+##### SOUS-SECTION 2 : CONTROLE.
+
+###### Article R351-9
+
+Si le contrôle conduit à constater qu'un travailleur ne peut légalement bénéficier du revenu de remplacement prévu par
+l'article L. 351-1, le directeur départemental du travail et de l'emploi [*autorité compétente*] fait connaître à l'intéressé
+et aux institutions compétentes mentionnées à l'article L. 351-2 [*UNEDIC, ASSEDIC*] sa décision motivée de l'exclure
+temporairement ou définitivement du bénéfice de ce revenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°80-897 du 18 novembre 1980 - art. 23 (V)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 21 (Ab)
+	  - Code du travail - art. D353-9 (Ab)
+	  - Code du travail - art. R351-10 (M)
+	  - Code du travail - art. R351-11 (Ab)
+	  - Code du travail - art. R351-14 (M)
+	  - Code du travail - art. R351-6 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-1 (M)
+	  - Code du travail - art. L351-2 (M)
+
+
+###### Article R351-10
+
+Le travailleur intéressé ou les institutions mentionnées à l'article L. 351-2 doivent, s'ils entendent contester la décision
+prise par le directeur départemental du travail et de l'emploi en application de l'article R. 351-9, former un recours
+gracieux préalable.
+
+Ce recours est soumis pour avis à une commission départementale composée du directeur départemental du travail et de
+l'emploi, du chef du service départemental du travail et de la protection sociale agricoles et d'employeurs et de salariés en
+nombre égal nommés par le préfet sur proposition des organisations professionnelles et syndicales les plus représentatives
+dans le département.
+
+Le recours de l'allocataire n'est pas suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. R351-9 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-11 (Ab)
+	  - Code du travail - art. R351-38 (Ab)
+	  - Code du travail - art. R351-6 (M)
+	  - Code du travail - art. R351-8 (VT)
+
+
+##### SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.
+
+###### Article R351-11
+
+Pour satisfaire à l'obligation d'affiliation définie à l'article L. 351-3, tout employeur qui embauche pour la première fois
+un salarié qu'il est tenu d'assurer contre le risque de privation d'emploi en vertu dudit article doit adresser un bordereau
+d'affiliation [*condition de forme*] à celle des institutions mentionnées à l'article L. 351-2 [*ASSEDIC*] qui est
+territorialement et professionnellement compétente.
+
+Quelle que soit la date à laquelle le bordereau d'affiliation est reçu par l'institution compétente, l'affiliation prend
+effet à la date d'embauchage du premier salarié [*point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°90-217 du 8 mars 1990 - art. 6 (V)
+	  - Code du travail - art. R365-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
+
+
+###### Article R351-12
+
+Les employeurs affiliés aux institutions mentionnées à l'article L. 351-2 doivent déclarer à ces dernières les rémunérations
+versées aux salariés qu'ils sont tenus d'assurer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-13 (M)
+	  - Code du travail - art. R351-57 (Ab)
+	  - Code du travail - art. R365-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
+
+
+###### Article R351-13
+
+Les déclarations prévues à l'article R. 351-12 et le paiement des cotisations afférentes aux rémunérations déclarées doivent
+être faits aux mêmes dates que le paiement des cotisations dues au régime général de sécurité sociale.
+
+Toutefois, les employeurs sont autorisés à n'effectuer qu'une déclaration et un versement par an lorsque le montant de ce
+versement est inférieur au minimum fixé par les conventions et accords mentionnés aux articles L. 351-2 et L. 351-9.
+
+Les employeurs auxquels s'appliquent les dispositions du premier alinéa du présent article doivent renvoyer à celle des
+institutions mentionnées à l'article L. 351-2 dont ils relèvent, après l'avoir dûment complété, le bordereau de
+régularisation annuelle que celle-ci leur adresse. Le cas échéant, l'employeur joint à ce bordereau le versement y afférent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°90-217 du 8 mars 1990 - art. 6 (V)
+	  - Décret n°2001-498 du 11 juin 2001 - art. 5 (Ab)
+	  - Code de l'action sociale et des familles - art. R522-67 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14 (M)
+	  - Code du travail - art. R351-14 (M)
+	  - Code du travail - art. R351-22 (VT)
+	  - Code du travail - art. R351-35-1 (VT)
+	  - Code du travail - art. R351-47 (M)
+	  - Code du travail - art. R365-1 (M)
+	  - Code du travail - art. R833-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code du travail - art. R351-12 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
+
+
+##### SOUS-SECTION 4 : DISPOSITIONS DIVERSES.
+
+###### Article R351-15
+
+Les allocations [*de chômage*] prévues par le règlement élaboré en application de l'article L. 351-9 ne peuvent se cumuler
+avec des prestations de vieillesse de la sécurité sociale au-delà du trimestre suivant l'entrée en jouissance des prestations
+[*période*].
+
+Toutefois, le cumul est possible, sous réserve, le cas échéant, de certaines limitations apportées par les institutions
+mentionnées à l'article L. 351-2 [*UNEDIC, ASSEDIC*], en cas de perte d'un emploi occupé avant soixante-cinq ans et
+postérieurement à la demande de liquidation de la pension [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
+	  - Code du travail - art. R351-17 (M)
+	  - Code du travail - art. R351-24 (P)
+	  - Code du travail - art. R351-3 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-9 (M)
+
+
+###### Article R351-16
+
+Les détenus libérés sont admis au bénéfice de l'allocation forfaitaire prévue à l'article L. 351-6 après une durée de
+détention égale à la durée d'activité préalable prévue en vertu de l'article L. 351-4 pour l'allocation de base
+[*condition*]. Lorsque la durée de détention est inférieure à cette durée, il peut lui être ajouté, en tant que de besoin,
+celle des périodes de travail accomplies antérieurement auprès d'un employeur entrant dans le champ d'application des
+conventions et accords mentionnés aux articles L. 351-2 à L. 351-9.
+
+Les institutions mentionnées à l'article L. 351-2 [*UNEDIC, ASSEDIC*] ne peuvent statuer sur les droits des détenus libérés
+qu'après avoir recueilli les avis prévus à l'article L. 351-6 (2e alinéa).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-216 du 29 mars 1984 - art. 8 (Ab) JORF 31 MARS 1984
+
+	**Cité par**:
+
+	  - Décret n°84-216 du 29 mars 1984 - art. 8 (Ab)
+	  - Code du travail - art. R351-17 (M)
+	  - Code du travail - art. R351-22 (M)
+	  - Code du travail - art. R351-24 (P)
+	  - Code du travail - art. R351-35 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-4 (M)
+	  - Code du travail - art. L351-6 (M)
+	  - Code du travail L351-4, L351-6, L351-2 A L351-6, L351-2
+
+
+###### Article R351-17
+
+Sont admis au bénéfice de l'allocation forfaitaire [*de chômage*] prévue à l'article L. 351-6, dans les conditions
+déterminées par les institutions visées à l'article L. 351-2 [*UNEDIC, ASSEDIC*].
+
+1. Les travailleurs salariés expatriés, non couverts par les dispositions des articles L. 351-3 et L. 351-11-2 qui, lors de
+leur retour en France, se trouvent privés d'emploi, sous réserve qu'ils remplissent les conditions de durée d'appartenance ou
+de travail fixées par le règlement du régime national interprofessionnel d'allocations spéciales aux travailleurs sans emploi
+de l'industrie et du commerce ;
+
+2. Les rapatriés, ces derniers peuvent cumuler l'allocation de l'article L. 351-6 avec l'allocation de subsistance prévue par
+la loi n. 61-1439 du 26 décembre 1961 dans des limites déterminées par les institutions mentionnées à l'article L. 351-2 ;
+
+3. Les ressortissants étrangers ou apatrides dont le titre de séjour mentionne qu'ils ont sollicité l'asile en France ;
+toutefois, en cas de prise en charge totale par un centre d'hébergement, l'allocation de l'article L. 351-6 peut être
+supprimée ou réduite dans des conditions déterminées par les institutions mentionnées à l'article L. 351-2 ;
+
+4. Les artistes non salariés appartenant aux professions entrant dans les catégories des arts graphiques, plastiques,
+dramatiques, musicaux, chorégraphiques, audiovisuels, cinématographiques et littéraires, qui justifient de leur
+professionnalité et qui ont pendant une durée déterminée retiré de l'exercice de leur profession des moyens d'existence
+réguliers.
+
+Bénéficient également de l'allocation forfaitaire [*de chômage*] prévue à l'article L. 351-6, dans les conditions fixées par
+les institutions visées à l'article L. 351-2 [*UNEDIC, ASSEDIC*] :
+
+1. Les marins-pêcheurs liés envers un armateur en vertu d'un contrat d'engagement pour servir à bord d'un navire de moins de
+50 tonneaux et rémunérés à la part ;
+
+2. Les ouvriers dockers occasionnels justifiant d'un minimum de références de travail, qui n'ont pu être occupés
+régulièrement et dont l'indemnisation n'est pas assurée en l'état des accords conclus dans le cadre de l'article L. 351-9 ;
+
+3. Les personnes admises à bénéficier des dispositions de la loi n. 79-10 du 3 janvier 1979 [*salariés privés d'emploi qui
+créent une entreprise*].
+
+Toutefois, les dispositions du présent article ne font pas obstacle à ce que les catégories de personnes énumérées ci-dessus
+puissent, en vertu d'accords ultérieurs, bénéficier de l'une ou l'autre des allocations prévues par le règlement visé à
+l'article L. 351-9. Dans cette hypothèse, elles cesseraient de bénéficier des dispositions du présent article [*non cumul*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°61-1439 1961-12-26
+	  - Loi n°79-10 1979-01-03
+	  - Code du travail - art. L351-11-2 (M)
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L351-6 (M)
+	  - Code du travail - art. L351-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-216 du 29 mars 1984 - art. 8 (Ab) JORF 31 MARS 1984
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-18 (VT)
+	  - Code du travail - art. R351-22 (M)
+	  - Code du travail - art. R351-24 (P)
+
+
 ### Titre VI : Pénalités
 
 #### Chapitre Ier : Placement
@@ -74401,6 +74736,50 @@ Ces pénalités ne sauraient préjudicier à l'application de celles prévues pa
 	**Anciens textes**:
 
 	  - Décret n°72-985 1972-10-24 art. 23
+
+
+#### Chapitre V : Travailleurs privés d'emploi.
+
+###### Article R365-1
+
+L'employeur qui aura contrevenu aux dispositions du premier alinéa de l'article L. 351-3, des articles L. 351-14, R. 351-11,
+R. 351-12, R. 351-13, R. 351-14 et du dernier alinéa de l'article R. 351-21 sera puni d'une amende de 2.500 F à 5.000 F
+[*montant*].
+
+L'employeur qui aura indûment retenu par devers lui la contribution ouvrière instituée par l'article L. 351-12 et précomptée
+sur le salaire sera puni d'un emprisonnement de dix jours à un mois [*durée*] et d'une amende de 2.500 F à 5.000 F
+[*montant*], ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L351-12 (M)
+	  - Code du travail - art. L351-14 (M)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. R351-11 (M)
+	  - Code du travail - art. R351-12 (M)
+	  - Code du travail - art. R351-13 (M)
+	  - Code du travail - art. R351-14 (M)
+	  - Code du travail - art. R351-21 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L351-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L351-5 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. R351-2 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R351-3 (M)
+	  - TXT_ASSOCIE: Code du travail - art. R351-4 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R351-5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R351-53 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R833-7 (VT)
 
 
 ## REGLEMENTATION DU TRAVAIL
@@ -84623,62 +85002,18 @@ garanti prévu à l'article L. 141-8.
 
 ### TRAVAILLEURS PRIVES D'EMPLOI
 
-#### GARANTIES DE RESSOURCES
-
-##### ALLOCATION D'AIDE PUBLIQUE
+#### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
 
 ##### PRIVATION TOTALE D'EMPLOI
 
-##### REGIME GENERAL .
+##### CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.
 
 ###### Article R351-1
 
-Sont considérés comme involontairement privés d'emploi :
-
-1. Les travailleurs salariés habituellement occupés par un employeur et tirant de cet emploi une rémunération régulière et
-non une rémunération d'appoint, lorsqu'ils ont perdu leur emploi et qu'il ne peut leur en être procuré un nouveau, bien
-qu'ils aient la capacité et la volonté de travailler.
-
-Sont également considérés comme ayant perdu leur emploi, alors même qu'il n'ont pas fait l'objet d'une mesure de
-licenciement, les salariés d'une entreprise qui a cessé toute activité depuis plus de deux quatorzaines [*durée*] sous
-réserve que les intéressés se soient fait inscrire comme demandeurs d'emploi [*condition*].
-
-2. Les jeunes gens des deux sexes, âgés de seize ans au moins, n'ayant aucune activité, salariée ou non, et qui justifient de
-l'une ou de l'autre des conditions suivantes :
-
-a) Soit être inscrits depuis plus de six mois [*délai*] comme demandeurs d'emploi et avoir depuis moins d'un an ou obtenu le
-diplôme du baccalauréat de l'enseignement secondaire, ou achevé un cycle complet de l'enseignement technologique, ou effectué
-un stage agréé ou conventionné de préformation ou de formation professionnelle ;
-
-b) Soit être inscrits depuis plus de trois mois comme demandeurs d'emploi et avoir obtenu depuis moins d'un an un diplôme de
-licence ou un diplôme reconnu équivalent par le ministre chargé des enseignements supérieurs, ou un diplôme de l'enseignement
-technologique, ou un diplôme de sortie d'une école professionnelle de l'Etat, ou un diplôme soit d'une école technique privée
-reconnue par l'Etat, soit d'un centre de formation professionnelle dont les stages sont agréés ou conventionnés et conduisent
-à une qualification professionnelle.
-
-Le délai d'un an visé aux a et b ci-dessus est augmenté d'une durée égale à celle du service national pour les jeunes gens
-incorporés à l'expiration de leurs études ou de leur stage.
-
-3. Les jeunes gens des deux sexes, âgés de seize ans au moins et de vingt-cinq ans au plus, n'ayant aucune activité, salariée
-ou non, n'étant pas en mesure de se prévaloir des dispositions du 1. ou du 2. ci-dessus, et qui satisfont aux trois
-conditions suivantes :
-
-a) Avoir eu après leur seizième anniversaire une activité, notamment poursuivi des études ;
-
-b) Etre inscrits comme demandeurs d'emploi ;
-
-c) Justifier qu'ils apportent effectivement à leur famille une aide indispensable au soutien de celle-ci, cette dernière
-condition étant appréciée par le directeur départemental du travail. Pour l'application de la présente disposition la famille
-comprend exclusivement le conjoint, les parents et beaux-parents ainsi que les enfants mineurs.
-
-4.//DECR.0320 28-03-1977 : Les détenus libérés, dans les conditions et sous réserve des exclusions prévues à l'article L.
-351-4 (3e alinéa)//.
+Sont considérées comme étant à la recherche d'un emploi, pour l'application de l'article L. 351-1, les personnes inscrites
+comme demandeurs d'emploi qui accomplissent des actes positifs de recherche d'emploi.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 1
 
 	**Codifié par**:
 
@@ -84705,17 +85040,17 @@ comprend exclusivement le conjoint, les parents et beaux-parents ainsi que les e
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°92-787 du 13 août 1992
+	  - TXT_ASSOCIE: Code du travail R351-5 (CONTROLE)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-1 (M)
 
 
 ###### Article R351-2
 
-Les travailleurs étrangers, sous réserve d'avoir été en situation régulière au regard des dispositions réglementant
-l'exercice des activités professionnelles salariées par les étrangers pendant la période de travail exigée pour l'ouverture
-du droit à l'aide publique, bénéficiant dans les mêmes conditions que les travailleurs français des allocations du présent
-paragraphe tant qu'ils se trouvent en situation régulière au regard de ces mêmes dispositions.
-
-Toutefois, des dérogations aux conditions ci-dessus posées peuvent être consenties au profit des ressortissants des pays
-ayant conclu avec la France des accords de réciprocité.
+Les bénéficiaires de la garantie de ressources prévue à l'article L. 351-5 sont dispensés de la condition de recherche
+d'emploi prévue à l'article L. 351-1.
 
 **Liens relatifs à cet article**
 
@@ -84735,52 +85070,21 @@ ayant conclu avec la France des accords de réciprocité.
 	  - Code du travail - art. R620-6-1 (VT)
 	  - Code du travail - art. R833-7 (VT)
 
+	**Cite**:
+
+	  - Code du travail - art. L351-1 (M)
+	  - Code du travail - art. L351-5 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
 
-	**Cite**:
-
-	  - Code du travail R351-1 A R351-14
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-06-25 ART. 2
-
 
 ###### Article R351-3
 
-Ne peuvent bénéficier de l'aide publique aux travailleurs sans emploi :
-
-1. Les personnes qui ne peuvent justifier de leur inscription comme demandeur d'emploi ;
-
-2. Les personnes qui ne peuvent justifier avoir accompli cent cinquante jours, ou, pour les travailleurs à domicile et les
-travailleurs intermittents et assimilés, mille heures de travail salariées au cours des douze mois qui précèdent leur
-inscription comme demandeur d'emploi sous réserve des dispositions du 2. //DECR.0321 28-03-1977 : et 3.// de l'article R.
-351-1 et de l'article R. 351-15 ;
-
-//DECR.0321 28-03-1977 : Pour les détenus libérés, les jours de détention sont assimilés à des jours de travail// .
-
-3. Les personnes âgées de plus de soixante-cinq ans [*âge limite, retraite*] ou qui se trouvent privées de travail en raison
-de leur inaptitude physique à l'exercice d'un emploi ;
-
-4. Les personnes dont le chômage est provoqué par un différend collectif de travail intéressant l'établissement qui les
-emploient. Toutefois, dans le cas d'un lock-out se prolongeant plus de trois jours [*durée*], le ministre chargé du travail
-peut autoriser le versement des allocations d'aide publique à ces travailleurs, bien que leur contrat de travail ne soit pas
-rompu ;
-
-5. Les chômeurs saisonniers. Toutefois ceux-ci peuvent bénéficier des allocations d'aide publique si leur état de chômage a
-un caractère exceptionnel [*condition*] à l'époque de l'année à laquelle il se produit. Ils doivent alors faire la preuve
-qu'au cours d'une des deux années précédentes ils occupaient à la même époque et pendant la même période un emploi salarié
-dont ils tiraient une rémunération régulière ;
-
-6. Les personnes qui ont été licenciées pour faute grave ou qui ont quitté volontairement leur emploi sans motif légitime.
-Toutefois, après examen du dossier par la commission [*départementale*] prévue à l'article R. 351-21, les intéressés pourront
-être admis au bénéfice de l'aide publique à l'expiration d'un délai maximum de six semaines ;
-
-7. Les personnes qui ont quitté leur emploi pour raison de mise à la retraite. Cependant, si elles ont occupé un nouvel
-emploi salarié pendant six mois au moins, elles peuvent, si elles perdent celui-ci et si elles n'ont pas dépassé l'âge de
-soixante-cinq ans, être amenées au bénéfice de l'aide publique sous réserve des dispositions de l'article R. 351-14.
+Les travailleurs étrangers bénéficient du revenu de remplacement prévu à l'article L. 351-1 dans les mêmes conditions que les
+travailleurs français s'il se trouvent en situation régulière au regard des dispositions réglementant l'exercice par eux des
+activités professionnelles salariées [*condition*].
 
 **Liens relatifs à cet article**
 
@@ -84799,38 +85103,30 @@ soixante-cinq ans, être amenées au bénéfice de l'aide publique sous réserve
 
 	**Cite**:
 
-	  - Code du travail - art. R351-14 (M)
-	  - Code du travail - art. R351-15 (M)
-	  - Code du travail - art. R351-21 (M)
-	  - Code du travail R351-1 AL. 2
+	  - Code du travail - art. L351-1 (M)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R351-30 (P)
 	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 3
 
 
 ###### Article R351-4
 
-Doivent être exclus du bénéfice des allocations d'aide publique aux travailleurs sans emploi :
+Sont exclus du bénéfice [*non*] du revenu de remplacement prévu par l'article L. 351-1 :
 
-1. Les allocataires qui n'ont pas répondu sans raison valable aux convocations de l'Agence nationale pour l'emploi ;
+1° Les travailleurs qui refusent, sans motif légitime, un emploi ressortissant à leur spécialité ou compatible avec leur
+formation antérieure et rétribué à un taux de salaire normalement pratiqué dans le profession et la région ;
 
-2. Les allocataires qui ont refusé, sans motif valable, un emploi offert par l'Agence nationale pour l'emploi [*ANPE*], soit
-au lieu de leur résidence, soit dans tout autre lieu dans les limites de la France métropolitaine. L'emploi offert doit
-ressortir soit à leur spécialité, soit à toute autre activité professionnelle compatible avec leur formation antérieure et
-leurs aptitudes. Cet emploi doit être rétribué au taux de salaire normalement pratiqué dans la profession ou la région ;
+2° Les travailleurs qui refusent, sans motif légitime, de suivre une action de formation prévue aux 1° et 3° à 6° de
+l'article L. 900-2 ;
 
-3. Les chômeurs qui ont touché indûment ls allocations ou ceux qui ont fait sciemment des déclarations inexactes [*fraude*]
-ou présenté des attestations mensongères. Le cas échéant, les sommes indûment perçues donnent lieu à répétition sans
-préjudice des sanctions prévues à /M/L'alinéa 3 de l'article L. 351-6 /M/DECR.0808 19-09-1974 : l'article L. 365-1// et aux
-articles 59, 60 et 405 du code pénal ;
+3° Les travailleurs qui refusent, sans motif légitime, de répondre aux convocations des agents chargés du contrôle ;
 
-4. Les allocataires qui refusent de suivre des cours de formation ou de perfectionnement professionnel.
+4° Les travailleurs qui refusent, sans motif légitime, de se soumettre à une visite médicale auprès des services médicaux de
+la main-d'oeuvre destinées à vérifier leur aptitude au travail ;
+
+5° Les travailleurs qui, sciemment, ont fait des déclarations inexactes, présenté des attestations mensongères ou touché
+indûment le revenu de remplacement prévu à l'article L. 351-1.
 
 **Liens relatifs à cet article**
 
@@ -84838,10 +85134,11 @@ articles 59, 60 et 405 du code pénal ;
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Liens**:
 
-	  - Code pénal 59, 60
-	  - Code du travail - art. L365-1 (M)
+	  - TXT_ASSOCIE: Décret n°92-787 du 13 août 1992
+	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
+	  - TXT_ASSOCIE: Code du travail R351-5 (CONTROLE)
 
 	**Cité par**:
 
@@ -84849,71 +85146,25 @@ articles 59, 60 et 405 du code pénal ;
 	  - Code du travail - art. R351-5 (M)
 	  - Code du travail - art. R365-1 (VT)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R351-30 (P)
-	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
-	  - TXT_ASSOCIE: Décret n°92-787 du 13 août 1992
+	  - Code du travail - art. L351-1 (M)
+	  - Code du travail L351-1, L900-2 AL. 1, 3, 4, 5, 6
 
-	**Anciens textes**:
 
-	  - Décret n°67-806 1967-09-25 ART. 4
-
+##### CONTROLE.
 
 ###### Article R351-5
 
-Les allocations principales et les majorations [*personnes ou enfants à charge*] prévues à l'article L. 351-4 ne peuvent se
-[*non*] cumuler :
-
-1. Avec des prestations de vieillesse de la sécurité sociale. Toutefois, le cumul est autorisé pendant le trimestre suivant
-l'entrée en jouissance des prestations.
-
-Les rappels d'arrérages correspondant à une période d'une durée supérieure sont reversés au Trésor, au compte "Produits
-divers", par les organismes de sécurité sociale, dans la limite des sommes versées au titre des allocations d'aide publique.
-
-La durée pendant laquelle les chômeurs peuvent bénéficier de l'aide publique aux travailleurs sans emploi en attendant la
-liquidation de leurs prestations de vieillesse de la sécurité sociale ne peut excéder six mois [*limite*].
-
-2° Avec l'aide sociale allouée conformément aux dispositions des chapitres V et VI du titre III du code de la famille et de
-l'aide sociale /P/sauf pour les personnes mentionnées à l'article 171 dudit code/P/DECR. 1549 1977-12-31// ;
-
-3. Avec les pensions d'invalidité des deuxième et troisième catégories accordées en application des articles 310 et suivants
-du Code de la sécurité sociale.
-
-Lorsqu'une pension d'invalidité des deuxième et troisième catégories est accordée à un bénéficiaire de l'aide publique aux
-travailleurs privés d'emploi, celui-ci cesse de percevoir cette aide, sous réserve d'une possibilité de cumul pendant une
-période ne pouvant excéder trois mois. Le montant des rappels correspondant à une période d'une durée supérieure à trois mois
-est réversé au Trésor au compte "Produits divers" par les organismes de sécurité sociale dans la limite des sommes versées au
-titre des allocations d'aide publique.
-
-Les allocations d'aide publique ne sont pas dues pendant la période durant laquelle le travailleur licencié perçoit, au titre
-d'indemnité de préavis, un revenu égal à son salaire de base antérieur.
-
-//DECR. 1549 1977-12-31 : L'allocation principale et les majorations prévues à l'article L. 351-4 se cumulent avec
-l'allocation compensatrice prévue à l'article 39 de la loi n° 75-534 du 30 juin 1975 lorsque celle-ci est attribuée à une
-personne handicapée à raison des frais supplémentaires que lui impose l'exercice de son activité professionnelle. Toutefois,
-pour bénéficier de ce cumul, la personne handicapée doit saisir la commission technique d'orientation et de reclassement
-professionnel, en vue d'un nouvel examen de sa situation, dans le délai d'un mois à compter du changement de sa situation au
-regard de l'emploi. A défaut, seules sont dues les allocations prévues à l'article L. 351-4, à l'exclusion de l'allocation
-compensatrice//.
+Le contrôle de l'application des dispositions des articles R. 351-1 et R. 351-4 ainsi que des conditions d'aptitude au
+travail et de privation d'emploi prévues à l'article L. 351-4 relève de la compétence des services extérieurs du travail et
+de l'emploi.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale TITRE III CHAP. V ET VI
-	  - Loi n°75-534 du 30 juin 1975 - art. 39 (M)
-	  - Code du travail - art. L351-4 (M)
-	  - Code de la famille et de l'aide sociale D171
-	  - Code de la sécurité sociale  310 ET S.
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Décret n°77-1549 1977-12-31 ART. 18-II JORF 12 janvier 1978
 
 	**Cité par**:
 
@@ -84927,22 +85178,22 @@ compensatrice//.
 	  - Code du travail - art. R620-6-1 (VT)
 	  - Code du travail - art. R620-6-3 (VT)
 
+	**Cite**:
+
+	  - Code du travail - art. L351-4 (M)
+	  - Code du travail - art. R351-1 (M)
+	  - Code du travail - art. R351-4 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
 
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 5
-	  - Décret n°71-693 1971-08-17 ART. 1
-
 
 ###### Article R351-6
 
-Si un allocataire trouve occasionnellement une occupation rémunérée de courte durée, il doit en faire la déclaration au chef
-de la section en précisant le montant des rémunérations perçues. Le préfet [*autorité compétente*], sur proposition du
-directeur départemental du travail et de la main-d'oeuvre apprécie, d'après la nature et l'importance du travail occasionnel
-auquel se livre l'intéressé, si l'allocataire doit continuer à percevoir les allocations d'aide publique.
+Sans préjudice de l'application des dispositions de l'article L. 351-21 (dernier alinéa), les agents publics chargés des
+opérations de contrôle peuvent se faire communiquer par l'Agence nationale pour l'emploi tous documents et informations
+nécessaires à l'accomplissement de leur mission de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -84963,61 +85214,15 @@ auquel se livre l'intéressé, si l'allocataire doit continuer à percevoir les 
 	  - Code du travail - art. R351-22 (P)
 	  - Code du travail - art. R351-7 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R351-22 (P)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 6
-
-
-###### Article R351-7
-
-Les travailleurs privés d'emploi, admis au bénéfice de l'aide publique, reçoivent :
-
-a) L'allocation principale mentionnée à l'article L. 351-4. Toutefois ceux d'entre eux qui, âgés de moins de dix-huit ans,
-vivent au foyer de leurs ascendants ou tuteurs et n'ont pas la qualité de chef de famille ne bénéficient que de la majoration
-pour personnes à charge ;
-
-b) Une majoration pour leur conjoint non travailleur ou, en l'absence du conjoint pour un de leurs ascendants ou l'un des
-ascendants du conjoint remplaçant ce dernier au foyer si cette personne se trouve effectivement à leur charge [*condition*].
-
-Ils reçoivent également une majoration pour chacun de leurs descendants et pupilles ou ceux de leurs conjoints âgés de moins
-de vingt et un ans ne travaillant pas ou qui se trouvent dans l'impossibilité, par suite d'infirmité ou de maladie, de se
-livrer à un travail salarié, s'ils n'ouvrent pas droit aux prestations familiales ou à toute autre prestation.
-
-Toutefois, les personnes ayant dépassé l'âge de l'obligation scolaire ne pourront faire l'objet d'une majoration que si elles
-sont régulièrement inscrites comme demandeurs d'emploi ou fréquentent régulièrement un établissement d'enseignement ou sont
-en apprentissage et, dans ce cas, perçoivent par jour une rémunération inférieure à deux fois le salaire horaire minimum de
-croissance [*SMIC*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cite**:
 
-	  - Code du travail - art. L351-4 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-12 (M)
-	  - Code du travail - art. R351-6 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 7
+	  - Code du travail - art. L351-21 (T)
 
 
 ###### Article R351-8
 
-Un décret fixe les taux de l'allocation principale d'aide publique et ceux des majorations pour personnes ou enfants à
-charge.
-
-Ce décret peut prévoir des taux majorés pour les trois premiers mois [*période*] d'admission à l'aide publique.
+Les maires sont tenus de faciliter aux agents chargés du contrôle l'accomplissement des missions prévues à l'article R.
+351-5.
 
 **Liens relatifs à cet article**
 
@@ -85033,225 +85238,19 @@ Ce décret peut prévoir des taux majorés pour les trois premiers mois [*pério
 	  - Code du travail - art. R351-14 (M)
 	  - Code du travail - art. R351-6 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 8
-	  - Décret n°71-693 1971-08-17 ART. 2
-
-
-###### Article R351-9
-
-Les taux majorés prévus à l'alinéa 2 de l'article R. 351-8 ci-dessus sont applicables à concurrence d'une durée totale
-d'indemnisation de trois mois à compter de l'admission [*point de départ*], alors même que l'écoulement de cette durée est
-interrompu par l'occupation d'un emploi, l'accomplissement d'un stage de formation professionnelle ou l'attribution
-d'indemnités journalières au titre d'un régime de sécurité sociale.
-
-Lorsqu'au moment de sa réadmission le travailleur intéressé justifie des références de travail prévues à l'article R. 351-10
-ci-dessous, il bénéficie de l'intégralité du régime des taux majorés définis à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°80-897 du 18 novembre 1980 - art. 23 (V)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 21 (Ab)
-	  - Code du travail - art. D353-9 (Ab)
-	  - Code du travail - art. R351-10 (M)
-	  - Code du travail - art. R351-11 (Ab)
-	  - Code du travail - art. R351-14 (M)
-	  - Code du travail - art. R351-6 (M)
-
 	**Cite**:
 
-	  - Code du travail R351-8 AL. 2
+	  - Code du travail - art. R351-5 (M)
 
-	**Anciens textes**:
 
-	  - Décret n°67-806 1967-09-25 ART. 9
-	  - Décret n°71-693 1971-08-17 ART. 2
-
-
-###### Article R351-10
-
-Les allocations d'aide publique ne sont attribuées aux demandeurs d'emploi qu'à l'expiration d'un délai de carence de trois
-jours.
-
-Le point de départ de ce délai est le jour de la rupture du contrat de travail ou de l'expiration du délai congé ou, en ce
-qui concerne les détenus libérés, de la libération.
-
-Le délai de carence n'est pas appliqué dans les cas prévus aux 2. et 3. de l'article R. 351-1 ou s'il s'agit d'admettre à
-nouveau au bénéfice de l'aide publique un allocataire ayant involontairement perdu son emploi moins de trois mois après
-l'avoir obtenu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-11 (Ab)
-	  - Code du travail - art. R351-38 (Ab)
-	  - Code du travail - art. R351-6 (M)
-	  - Code du travail - art. R351-8 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 10
-	  - Décret n°71-693 1971-08-17 ART. 3
-
-
-###### Article R351-11
-
-Les travailleurs privés d'emploi bénéficient de l'aide publique sans limitation de durée. Toutefois, au-delà de douze mois,
-les allocations et majorations sont réduites de 10 p. 100 pour chaque année supplémentaire d'indemnisation. Cependant, pour
-les allocataires atteignant l'âge de cinquante-cinq ans, le taux de réduction ne peut excéder 30 p. 100, quelle que soit la
-durée de l'indemnisation.
-
-Les réductions prévues à l'alinéa 1er ci-dessus s'appliquent tant que les allocataires n'ont pas occupé à nouveau un emploi
-salarié pendant plus de trois mois.
-
-Dans le cas où la période de reprise du travail est inférieure à trois mois, la durée de l'indemnisation à prendre en
-considération, pour le calcul des réductions, est augmentée d'une durée égale au temps de travail.
-
-Ces réductions ne sont pas applicables aux travailleurs qui perdent leur emploi après l'âge de cinquante-cinq ans.
-
-Ces réductions prévues à l'alinéa 1er du présent article peuvent être suspendues à titre exceptionnel, dans une région
-déterminée par arrêté du ministre chargé du travail, pris après de la commission permanente du comite supérieur de l'emploi
-lorsque la situation de l'emploi le justifie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°90-217 du 8 mars 1990 - art. 6 (V)
-	  - Code du travail - art. R365-1 (M)
-
-
-###### Article R351-12
-
-Le montant des allocations d'aide publique complété, le cas échéant, par les prestations des articles L. 351-10 à L. 351-20
-ne peut dépasser 90% de la rémunération antérieure brute du travailleur privé d'emploi. Ce pourcentage est porté à 95% dans
-le cas où les intéressés perçoivent une ou plusieurs des majorations prévues à l'article R. 351-7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-13 (M)
-	  - Code du travail - art. R351-57 (Ab)
-	  - Code du travail - art. R365-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R351-57 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. R351-7 (M)
-	  - Code du travail L351-10 A L351-20
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 12
-	  - Décret n°71-693 1971-08-17 ART. 4
-
-
-###### Article R351-13
-
-L'allocation d'aide publique jointe aux autres ressources de toute nature du travailleur privé d'emploi, de son conjoint et
-des ascendants et descendants vivant sous son toit ne peut dépasser les maxima fixés par un barème établi par le ministre
-chargé du travail. Toutefois, n'entrent pas en ligne de compte pour le calcul de ces ressources :
-
-a) Les prestations familiales :
-
-b) La retraite d'ancien combattant ainsi que les prestations afférentes à la médaille militaire et à la légion d'Honneur ;
-
-c) Le montant des allocations d'assurance accordé par les caisses régies par les articles D. 353-1 et suivants ainsi que le
-montant des prestations accordées en application des articles L. 351-10 à L. 351-20 du présent code ;
-
-d) L'allocation de compensation des grands infirmes travailleurs.
-
-N'entrent en compte que pour moitié de leur montant :
-
-1. Les pensions de mutilés de guerre et les pensions de veuves de guerre attribuées en application de la loi du 31 mars 1919
-modifiée ;
-
-2. Les pensions de victimes civiles de la guerre attribuées en application des lois du 27 juin 1919, modifiée, et du 20 mai
-1946 ;
-
-3. Les salaires des descendants vivant au foyer, à moins qu'eux-mêmes n'aient la qualité de chef de famille.
-
-Dans ce dernier cas, il doit être considéré qu'il y a un foyer séparé ;
-
-4. Les ressources des ascendants vivant au foyer n'ouvrant pas droit à majoration au titre des personnes à charge ;
-
-5. Les pensions de mutilés du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°90-217 du 8 mars 1990 - art. 6 (V)
-	  - Décret n°2001-498 du 11 juin 2001 - art. 5 (Ab)
-	  - Code de l'action sociale et des familles - art. R522-67 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14 (M)
-	  - Code du travail - art. R351-14 (M)
-	  - Code du travail - art. R351-22 (VT)
-	  - Code du travail - art. R351-35-1 (VT)
-	  - Code du travail - art. R351-47 (M)
-	  - Code du travail - art. R365-1 (M)
-	  - Code du travail - art. R833-7 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R351-14 (M)
-
-	**Cite**:
-
-	  - Code du travail D353-1 ET S.
-	  - Loi   1919-03-31
-	  - Loi   1919-06-27
-	  - Loi   1946-05-20
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 13
-
+##### OBLIGATIONS DES EMPLOYEURS.
 
 ###### Article R351-14
 
-Les dispositions de l'article précédent ne sont pas applicables aux bénéficiaires des allocations à taux majoré [*personnes
-et enfants à charge*] prévues par les articles R. 351-8 et R. 351-9 ci-dessus, exception faite des personnes [*retraites*]
-mentionnées à l'article R. 351-3 (7.).
+Les employeurs sont tenus de fournir aux salariés les attestations et justifications qui leur permettent d'exercer leurs
+droits aux prestations prévues par la présente section.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 14
-	  - Décret n°71-693 1971-08-17 ART. 5
 
 	**Codifié par**:
 
@@ -85272,6 +85271,7 @@ mentionnées à l'article R. 351-3 (7.).
 	  - TXT_ASSOCIE: Décret n°98-1180 du 23 décembre 1998 - art. 2 (V)
 	  - TXT_ASSOCIE: Décret n°98-1180 du 23 décembre 1998 - art. 3 (V)
 	  - TXT_ASSOCIE: Code du travail - art. R351-13 (M)
+	  - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
 
 	**Cité par**:
 
@@ -85286,106 +85286,24 @@ mentionnées à l'article R. 351-3 (7.).
 
 	**Cite**:
 
-	  - Code du travail - art. R351-13 (M)
-	  - Code du travail - art. R351-8 (M)
-	  - Code du travail - art. R351-9 (M)
-	  - Code du travail R351-3 AL. 7, R351-8, R351-9, R351-13
+	  - Code du travail R351-1 A 351-14
 
 
-##### PROCEDURE D'ADMISSION ET DE CONTROLE .
-
-###### Article R351-15
-
-Toute personne sollicitant le bénéfice des allocations d'aide publique aux travailleurs privés d'emploi doit [*condition*]
-déposer une demande d'admission à la section locale de l'Agence nationale pour l'emploi [*ANPE*] dont elle relève du fait de
-sa résidence.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-17 (M)
-	  - Code du travail - art. R351-24 (P)
-	  - Code du travail - art. R351-3 (M)
-	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
-	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R351-16
-
-Les bénéficiaires de l'aide publique doivent [*obligation*] fournir, avant l'expiration de la durée d'indemnisation de trois
-mois au taux majoré, aux sections locales de l'Agence nationale pour l'emploi [*ANPE*] dont ils relèvent, toute indication
-utile sur les ressources dont ils disposent, soit personnellement, soit du fait des membres de leur famille vivant sous leur
-toit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°84-216 du 29 mars 1984 - art. 8 (Ab)
-	  - Code du travail - art. R351-17 (M)
-	  - Code du travail - art. R351-22 (M)
-	  - Code du travail - art. R351-24 (P)
-	  - Code du travail - art. R351-35 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 19
-
-
-###### Article R351-17
-
-Toute personne [*mise à la retraite*] mentionnée à l'article R. 351-3 (7.) et remplissant, du fait de l'occupation d'un
-nouvel emploi salarié pendant six mois au moins [*période*], les conditions prévues à l'article R. 351-3 (2.) doit
-simultanément déposer [*obligation*] la demande d'admission prévue à l'article R. 351-15 ci-dessus et fournir les indications
-[*ressources*] mentionnées à l'article R. 351-16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R351-15 (M)
-	  - Code du travail - art. R351-16 (M)
-	  - Code du travail R351-3 AL. 2 ET 7
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-18 (VT)
-	  - Code du travail - art. R351-22 (M)
-	  - Code du travail - art. R351-24 (P)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 20
-
+##### PRIVATION PARTIELLE D'EMPLOI.
 
 ###### Article R351-18
 
-Les opérations de contrôle de la qualité de bénéficiaire de l'aide publique sont effectuées par les sections locales de
-l'Agence nationale pour l'emploi [*ANPE*] qui peuvent :
+Les allocations prévues par l'article L. 351-19 sont attribuées par le préfet [*autorité compétente*] sur proposition du
+directeur départemental du travail et de l'emploi.
 
-- adresser toute convocation utile aux allocataires ;
+Ces allocations peuvent être attribuées, en cas de réduction ou de suspension d'activité imputables à la conjoncture
+économique, à des difficultés d'approvisionnement en matières premières ou en énergie, à un sinistre, à des intempéries de
+caractère exceptionnel, à une transformation, restructuration ou modernisation de l'entreprise ou à toute autre circonstance
+de caractère exceptionnel.
 
-- prescrire à ceux-ci de se présenter à des jours et heures déterminés pour communication d'offre d'emploi, vérification de
-la situation d'inactivité ;
-
-- procéder ou faire procéder à des enquêtes.
+Toutefois, ces allocations sont attribuées dans la limite de contingents annuels d'heures indemnisables [*condition*] fixés
+pour les différentes branches professionnelles par arrêté du ministre chargé du travail. Cette limite ne peut être dépassée
+que dans des cas exceptionnels par décision conjointe du ministre chargé du travail et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -85406,7 +85324,6 @@ la situation d'inactivité ;
 	  - TXT_SOURCE: Arrêté du 26 janvier 1981 - art. 1 (P)
 	  - TXT_SOURCE: Arrêté du 7 février 1983
 	  - TXT_SOURCE: Arrêté du 7 février 1983 - art. 1 (P)
-	  - TXT_ASSOCIE: Code du travail - art. R351-22 (P)
 
 	**Cité par**:
 
@@ -85420,14 +85337,117 @@ la situation d'inactivité ;
 	  - Code du travail - art. R351-24 (P)
 	  - Code du travail - art. R351-61 (P)
 
+	**Cite**:
+
+	  - Code du travail - art. L351-19 (MMN)
+
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R351-50 (M)
+	  - Code du travail - art. R351-50 (P)
 
-	**Anciens textes**:
 
-	  - Décret n°67-806 1967-09-25 ART. 21
+###### Article R351-20
 
+En cas de fermeture d'un établissement pour mise en congé annuel du personnel, les travailleurs qui ne remplissent pas les
+conditions requises pour bénéficier de la totalité de ce congé peuvent prétendre individuellement aux allocations pour
+privation partielle d'emploi, compte tenu des journées ou des indemnités compensatrices de congés payés dont ils auraient pu
+bénéficier pendant la période de référence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-1026 du 22 novembre 1984 - art. 3 ()
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993
+	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-21 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R351-52 (P)
+	  - Code du travail - art. R351-52 (V)
+
+
+###### Article R351-21
+
+Les allocations attribuées en application de l'article L. 351-19 prennent la forme d'indemnités horaires dont le taux est
+fixé par décret pris sur le rapport du ministre chargé du travail et du ministre chargé du budget.
+
+Pour les salariés effectuant légalement un nombre d'heures de travail supérieur à quarante heures par semaine, l'indemnité
+accordée par heure de travail perdue est égale au quotient de quarante indemnités horaires fixées en application de l'alinéa
+ci-dessus par le nombre d'heures déterminé par les textes concernant la durée de leur travail.
+
+L'allocation pour privation partielle d'emploi est liquidée mensuellement [*périodicité*].
+
+Les indemnités sont versées aux salariés par l'employeur qui est remboursé sur production d'états visés par l'autorité
+administrative compétente.
+
+Lorsqu'il a été fait application par l'employeur d'un accord agréé relatif à l'indemnisation complémentaire du chômage
+partiel et prévoyant le versement aux salarié d'une indemnité incluant le montant de l'allocation visée à l'article L.
+351-19, l'employeur est remboursé du montant global de la participation de l'Etat figurant sur chacun des bordereaux.
+
+Toutefois, en cas de règlement judiciaire ou de liquidation de biens, ou de difficultés financières de l'employeur, le préfet
+peut, sur proposition du directeur départemental du travail et de l'emploi, faire procéder au paiement direct des allocations
+aux salariés.
+
+La procédure de paiement direct des allocations aux salariés peut également être employée pour assurer sous le contrôle des
+services de l'emploi l'indemnisation des travailleurs à domicile habituellement occupés par plusieurs employeurs.
+
+A l'occasion du paiement des allocations, un document indiquant le nombre des heures indemnisées, les taux appliqués et les
+sommes versées au titre de la période considérée est remis au salarié par l'employeur, ou, en cas de paiement direct, par les
+services chargés du paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-1026 du 22 novembre 1984 - art. 3 ()
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993
+	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993 - art. 3 (V)
+	  - TXT_ASSOCIE: Code du travail R365-1 (PENALITES)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-19 (MMN)
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-22 (P)
+	  - Code du travail - art. R351-23 (P)
+	  - Code du travail - art. R351-3 (M)
+	  - Code du travail - art. R365-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R351-53 (M)
+	  - Code du travail - art. R351-53 (P)
+
+
+#### GARANTIES DE RESSOURCES
+
+##### ALLOCATION D'AIDE PUBLIQUE
+
+##### PRIVATION TOTALE D'EMPLOI
+
+##### PROCEDURE D'ADMISSION ET DE CONTROLE .
 
 ###### Article R351-19
 
@@ -85458,79 +85478,6 @@ ressources dont il dispose et dont disposent les membres de sa famille vivant so
 	**Anciens textes**:
 
 	  - Décret n°67-806 1967-09-25 ART. 22
-
-
-###### Article R351-20
-
-Au vu du dossier transmis par la section locale compétente de l'Agence nationale pour l'emploi [*ANPE*], le préfet statue sur
-proposition du directeur départemental du travail et de la main-d'oeuvre sur la demande d'admission à l'aide publique.
-
-//DECR.0321 28-03-1977 : Lorsque la demande est présentée par un détenu libéré, le préfet doit au préalable se faire
-communiquer un bulletin n. 2 du casier judiciaire de l'intéressé et recueillir l'avis de la commission de l'application des
-peines ou, s'il s'agit d'un prévenu, du ministère public//.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993
-	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-21 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R351-52 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 23
-
-
-###### Article R351-21
-
-Toute personne ayant sollicité le bénéfice de l'aide publique et qui conteste la décision qui lui a été notifiée peut former
-un recours gracieux auprès du préfet qui soumet celui-ci, pour avis, à une commission départementale.
-
-Cette commission comprend [*composition*], outre le directeur départemental, un nombre égal d'employeurs et de salariés
-nommés par le préfet sur proposition des organisations professionnelles et syndicales les plus représentatives à l'échelon
-départemental.
-
-Des représentants de l'Agence nationale pour l'emploi [*ANPE*] et de l'A.S.S.E.D.I.C. dont relèvent les travailleurs ayant
-formé un recours peuvent être, le cas échéant, appelés à participer aux réunions de la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993
-	  - TXT_ASSOCIE: Décret n°93-634 du 27 mars 1993 - art. 3 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R351-22 (P)
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-22 (P)
-	  - Code du travail - art. R351-23 (P)
-	  - Code du travail - art. R351-3 (M)
-	  - Code du travail - art. R365-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R351-53 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 24
 
 
 ###### Article R351-22
@@ -86893,54 +86840,6 @@ l'occasion d'une demande de licenciement pour cause économique fourni les rense
 
 	  - Code du travail R361-3 (novembre 1973)
 	  - Décret n°72-985 1972-10-24 ART. 33
-
-
-#### TRAVAILLEURS PRIVES D'EMPLOI .
-
-###### Article R365-1
-
-Sont punies d'une amende jusqu'à 2.000 F [*montant*] les infractions aux dispositions des articles L. 351-10 (1er alinéa), L.
-351-11, L. 351-14 et L. 351-16 et à celles des articles R. 351-32, R. 351-34, R. 351-35 et R. 351-37.
-
-L'employeur qui a indûment retenu par devers lui la contribution ouvrière instituée par l'article L. 351-13 et précomptée sur
-le salaire est puni d'un emprisonnement de un mois à deux mois [*durée*] et d'une amende de 1.000 F à 2.000 F, ou de l'une de
-ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L351-11 (M)
-	  - Code du travail - art. L351-13 (M)
-	  - Code du travail - art. L351-14 (M)
-	  - Code du travail - art. L351-16 (P)
-	  - Code du travail - art. R351-32 (P)
-	  - Code du travail - art. R351-34 (P)
-	  - Code du travail - art. R351-35 (P)
-	  - Code du travail - art. R351-37 (P)
-	  - Code du travail L351-10 AL. 1, L351-11, L351-13, L351-14, L351-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L351-4 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L351-5 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. R351-2 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R351-3 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R351-4 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R351-5 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R351-53 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. R833-7 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°72-985 1972-10-24 ART. 39
 
 
 ## Livre V : Conflits du travail
@@ -94227,37 +94126,6 @@ précédent alinéa à l'inscription auprès du service spécialisé du port hab
 
 #### Chapitre III : Personnels des entreprises de manutention des ports
 
-##### Section 1 : Aide publique aux dockers occasionnels privés d'emploi.
-
-###### Article R743-1
-
-Sous réserve d'une justification de 150 jours de travail [*durée*] effectués dans les douze mois précédant leur demande
-[*période*] dont 75 en cette qualité, les dockers non bénéficiaires des dispositions de la loi du 6 septembre 1947 portant
-organisation du travail de manutention dans les ports ou de celles des articles 84 et suivants du code des ports maritimes
-peuvent bénéficier de l'allocation d'aide publique aux travailleurs sans emploi s'ils justifient ne pas avoir travaillé au
-cours d'une quatorzaine plus de 6 journées ou plus de 12 demi-journées bien qu'ils se soient présentés tous les jours aux
-heures habituelles d'embauchage et qu'ils aient été pointés par le bureau central de la main-d'oeuvre du port.
-
-Les dockers privés d'emploi doivent se présenter au contrôle au moins deux fois par jour. En aucun cas [*interdiction*], les
-dockers occasionnels ne peuvent percevoir en une semaine, salaire et allocation d'aide publique réunis, une somme supérieure
-maximale prévue pour les travailleurs en état de chômage partiel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code des ports maritimes 84 ET SUIVANTS
-	  - Loi n°1947-09-06
-
-
 ##### Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.
 
 ###### Article R743-2
@@ -95078,43 +94946,6 @@ et R. 761-18.
 
 
 #### Chapitre II : Artistes, auteurs, compositeurs, gens de lettres
-
-##### Section 1 : Aide aux travailleurs privés d'emploi.
-
-###### Article R762-1
-
-Les artistes non-salariés appartenant aux professions entrant dans les catégories des arts plastiques, graphiques,
-dramatiques et musicaux, les auteurs et compositeurs de musique ainsi que les gens de lettres peuvent être admis au bénéfice
-de l'aide publique aux travailleurs sans emploi aux conditions suivantes :
-
-1) Etre inscrit comme demandeur d'emploi ;
-
-2) Produire un certificat de professionnalité délivré soit par un groupement ou organisme agréé à cet effet par le ministre
-chargé du travail, soit par l'une des commissions de professionnalité créées en application du décret n  65-1132 du 24
-décembre 1965 ou de l'arrêté interministériel du 1er octobre 1949 ;
-
-3) Avoir retiré de l'exercice de leur profession des moyens d'existence réguliers pendant les trois années précédant
-l'inscription comme demandeur d'emploi.
-
-Les artistes non-salariés bénéficiant d'un régime de sécurité sociale ne peuvent percevoir les allocations d'aide publique
-aux travailleurs privés d'emploi [*chômage*] que dans la mesure où [*limite*] les périodes de travail dont ils se réclament
-ont donné lieu au versement des cotisations de sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1949-10-01
-	  - Décret n°65-1132 1965-12-24
-
-	**Anciens textes**:
-
-	  - Décret n°67-806 1967-09-25 ART. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 
 ##### Section 2 : Artistes du spectacle
 
@@ -105621,6 +105452,65 @@ Elles doivent, en outre, être affichées dans l'entreprise ou l'établissement.
 
 #### Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi
 
+##### Section 1 : Privation totale d'emploi.
+
+###### Article D351-1
+
+Les conventions particulières prévues à l'article L. 351-5 (6) et à l'article L. 351-6-2-II [*prolongation*] doivent, pour
+être agréées, satisfaire aux conditions suivantes :
+
+1° Elles doivent être conclues sur le plan national entre organisations syndicales d'employeurs et de travailleurs pour des
+activités économiques soumises à de fortes réductions d'effectifs. La situation des activités justifiant l'intervention de
+telles conventions est constatée par arrêté du ministre du travail et de la participation pris après avis du comité supérieur
+de l'emploi ;
+
+2° Elles doivent bénéficier aux travailleurs touchés par des licenciements économiques dans des entreprises ou établissements
+qui sont implantés dans des zones où ces licenciements sont de nature à affecter gravement l'équilibre local de l'emploi ;
+
+3° Elles ne peuvent, sauf renouvellement soumis à agrément, produire d'effet qu'à l'égard des travailleurs licenciés pendant
+une période conventionnelle d'un an ou plus ;
+
+4° Pour les conventions particulières conclues au titre de l'article L. 351-5 (6), le taux unique, ou les taux trimestriels,
+de l'allocation spéciale ne peut excéder le taux le plus élevé retenu par l'accord prévu à l'article L. 351-9.
+
+Pour les conventions particulières conclues au titre de l'article L. 351-6-2-II, la durée des prolongations collectives de
+droits ne peut excéder un an [*limite*] ;
+
+5° Les conventions doivent organiser les modalités de leur financement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D351-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. D351-2 (VT)
+
+
+###### Article D351-2
+
+Les conventions particulières [*de prolongation de droits*] visées à l'article précédent ne prennent effet qu'après
+l'agrément par le ministre du travail et de la participation [*condition*].
+
+La procédure d'agrément est celle prévue à l'article L. 352-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. D351-1 (V)
+
+
 ##### Section 2 : PRIVATION PARTIELLE D'EMPLOI.
 
 ###### Article D351-3
@@ -105913,345 +105803,6 @@ mentionnées à l'article L. 352-2.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. D5427-15 (V)
-
-
-#### Chapitre III : Caisses d'assurance chômage.
-
-###### Article D353-1
-
-Les caisses d'assurance chômage créées par les syndicats ouvriers, patronaux ou mixtes, les chambres de métiers, les sociétés
-mutualistes et toutes associations professionnelles ou interprofessionnelles jouissant de la personnalité civile, peuvent si
-elles sont alimentées pour partie par les cotisations de leurs adhérents et satisfont aux conditions insérées au présent
-chapitre bénéficier des subventions de l'Etat sur le chapitre ouvert au budget du ministère chargé du travail pour les
-dépenses de chômage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1951-03-12 ART. 44
-	  - Décret n°65-583 1965-07-13 ART. 70
-	  - Décret n°67-806 1967-09-25
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-	**Cite**:
-
-	  - Code du travail D353-1 A D353-12
-
-
-###### Article D353-2
-
-Ces caisses [*Assurances chômage syndicales*] doivent avoir pour objet de venir en aide aux travailleurs salariés ou aux
-travailleurs indépendants complètement privés du travail dont ils tiraient leurs moyens d'existence, régulièrement inscrits
-comme demandeurs d'emploi et ayant la capacité de travailler.
-
-Elles doivent [*Obligations*] avoir une comptabilité distincte de celles des autres services du groupement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 45
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-
-###### Article D353-3
-
-A l'appui de sa première demande de subvention chaque caisse doit présenter à l'approbation du ministre chargé du travail un
-exemplaire de ses statuts [*condition*] .
-
-Toute modification apportée aux statuts doit être également soumise à l'approbation du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 46
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-
-###### Article D353-4
-
-Sont considérés comme travailleurs indépendants pour l'application du présent chapitre les travailleurs manuels et non
-manuels qui ne sont pas habituellement au service d'un employeur déterminé. 
-
-Sont assimilés aux travailleurs indépendants les chefs d'une entreprise artisanale au sens de l'acte dit loi du 21 mars 1941
-portant réorganisation du crédit artisanal, validée par l'ordonnance du 12 octobre 1945, c'est-à-dire les travailleurs
-exerçant un métier de façon indépendante, effectuant eux-mêmes des travaux manuels qui font l'objet de ce métier et
-n'occupant comme auxiliaire, en dehors des membres de leur famille, que deux   personnes au plus ; ce nombre peut être porté
-à trois s'il y a parmi eux un apprenti ayant passé un contrat écrit d'apprentissage. Sont considérés comme membres de la
-famille les conjoints, les ascendants, les enfants et petits-enfants et leurs conjoints ou les pupilles habitant avec eux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-	**Cite**:
-
-	  - Code du travail D353-1 A D353-12
-	  - Loi   1941-03-21
-	  - Ordonnance  1945-10-12
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 47
-
-
-###### Article D353-5
-
-Ne peuvent bénéficier   d'une subvention pour les secours qu'elles ont alloués à leurs membres en chômage complet que les
-caisses de travailleurs salariés ou indépendants composées de membres exerçant la même profession, des métiers similaires ou
-des professions connexes comptant 300 membres au minimum. 
-
-Toutefois pourront continuer à être subventionnées les caisses en activité à la date du 12 mars 1951 comptant 150 membres. 
-
-Ne sont considérés comme adhérents que les membres actifs à jour de leur cotisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 48
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-
-###### Article D353-6
-
-Les travailleurs salariés ou indépendants en chômage sont tenus [*obligation*] :
-
-1. De se faire inscrire comme demandeurs d'emploi auprès du service public de l'emploi dans le ressort duquel ils résident en
-indiquant les professions dans lesquelles ils désirent être occupés de préférence ;
-
-2. D'accepter l'emploi offert dans les conditions prévues à l'article R. 351-4 (2.) ;
-
-3. De se soumettre aux modes de contrôle prévus par les statuts, qui doivent obligatoirement comporter la signature pendant
-les heures de travail, sur un registre déposé au siège de la caisse, au jour et aux endroits qu'elle aura fixés.
-
-Les travailleurs salariés en chômage complet sont tenus de déclarer au service public de l'emploi lorsqu'ils perçoivent la
-dotation d'aide publique, les indemnités qu'ils auront perçues des caisses de chômage prévues à l'article D. 354-1. Dans le
-cas où le total des deux indemnités dépasse les plafonds fixés à l'article R. 351-12, le montant des allocations d'aide
-publique est réduit à due concurrence.
-
-Ils doivent en outre, avoir la capacité de travailler et satisfaire aux conditions fixées à l'article R. 351-1.
-
-Les travailleurs salariés ou indépendants en chômage qui ont refusé un emploi régulièrement offert par le service ou qui par
-des moyens frauduleux notamment en omettant de faire connaître à la caisse qu'ils se livraient à un travail rémunéré auraient
-touché des indemnités seront tenus au remboursement des sommes indûment perçues et, suivant le cas, exclus de la caisse ou
-privés de leur droit à l'indemnité pendant un temps déterminé sans préjudice des sanctions d'ordre pénal.
-
-Chaque membre actif ne peut faire partie que d'une seule caisse de chômage et n'a droit à une indemnité quelconque que six
-mois [*délai*] après son inscription à la caisse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 49
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-	**Cite**:
-
-	  - Code du travail - art. R351-1 (M)
-	  - Code du travail R351-4 PAR. 2
-
-
-###### Article D353-7
-
-Les statuts des caisses des travailleurs salariés ou indépendants doivent fixer [*obligation*] :
-
-1. La cotisation par membre actif affectée au service du chômage ;
-
-2. Le montant journalier et la durée des indemnités de chômage.
-
-Le taux de la cotisation et le montant de l'indemnité de chômage sont fixés de telle façon que, compte tenu des réserves de
-la caisse, des subventions de l'Etat et, éventuellement, des subventions des départements et des communes, l'équilibre
-financier de la caisse soit assuré.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-
-###### Article D353-8
-
-Les caisses de travailleurs salariés ou indépendants n'ont droit aux subventions de l'Etat qu'après avoir fonctionné pendant
-six mois [*délai*]. La subvention de l'Etat est calculée sur le montant des indemnités versées par les caisses de chômage au
-cours du semestre précédent, déduction faite des sommes allouées à celles-ci au cours du semestre considéré soit au titre de
-subvention du département ou de la commune, soit au titre d'avance de l'Etat ou des collectivités locales.
-
-Le montant des cotisations versées au titre du chômage involontaire par les membres actifs des caisses pendant un semestre
-donné doit être au moins égal à la moitié des indemnités allouées pendant le semestre précédent. Toutefois, les sommes
-prélevées par une caisse sur un fonds de réserves peuvent être assimilées aux cotisations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D353-9 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 51
-
-
-###### Article D353-9
-
-Les indemnités versées par les caisses d'assurance chômage de travailleurs salariés ou indépendants n'entrent en compte pour
-le calcul de la subvention de l'Etat que dans la limite des taux fixés conformément à l'article R. 351-9.
-
-La subvention [*taux*] est fixée à 40 p. 100 du montant des indemnités versées pendant le semestre sous réserve des
-dispositions prévues aux articles R. 351-5, D. 353-8 et D. 353-11.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-	**Cite**:
-
-	  - Code du travail - art. D353-11 (Ab)
-	  - Code du travail - art. D353-8 (Ab)
-	  - Code du travail - art. R351-5 (M)
-	  - Code du travail - art. R351-9 (M)
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 52
-
-
-###### Article D353-10
-
-Les caisses doivent envoyer six semaines [*délai*] au plus après chaque semestre au ministre chargé du travail un état dûment
-certifié indiquant [*contenu*] :
-
-a) Le nombre des membres actifs ;
-
-b) Le produit des cotisations ;
-
-c) Les recettes diverses et le montant du fonds de réserve ;
-
-d) Le nombre des chômeurs, des journées de chômage et le montant total des secours ;
-
-e) Pour chaque jour ou chaque semaine du semestre, le nombre des chômeurs indemnisés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 53
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
-
-
-###### Article D353-11
-
-Tout versement de secours à un chômeur donnera lieu à la délivrance d'un reçu individuel détaché d'un registre à souche,
-
-dont les talons resteront à la caisse et devront être présentés à toutes réquisitions aux agents du ministère chargé du
-travail ou du ministère des finances chargés du contrôle de ces caisses.
-
-Les caisses d'assurance contre le chômage doivent envoyer tous les mois, au chef du service départemental de la main-
-d'oeuvre, la liste nominative des bénéficiaires, avec l'adresse exacte et le montant des indemnités versées.
-
-L'ordonnancement des subventions est suspendu [*sanction*] à l'égard des caisses qui n'ont pas envoyé ladite liste dans le
-délai réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D353-9 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-03-12 ART. 54
-
-
-###### Article D353-12
-
-Les caisses sont tenues [*obligation*] de se soumettre au contrôle des agents du ministère chargé du travail et du ministère
-des finances et des affaires économiques désignés à cet effet qui, le cas échéant, établiront les états de reversement des
-subventions qui auraient été attribuées pour des indemnités irrégulièrement payées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1951-03-12 ART. 55
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
 
 
 ## EMPLOI
@@ -107087,61 +106638,6 @@ Le renouvellement de la carte temporaire de travail ne donne lieu qu'à un seul 
 ### TRAVAILLEURS PRIVES D'EMPLOI
 
 #### GARANTIES DE RESSOURCES .
-
-###### Article D351-1
-
-Le préfet peut prescrire l'occupation des travailleurs bénéficiaires de l'allocation d'aide publique à des travaux pour le
-compte de l'Etat ou d'un établissement public. Ces travailleurs sont employés dans les conditions fixées à l'article L.
-351-21.
-
-Lorsqu'une commune envisage d'occuper des bénéficiaires de l'aide publique dans les conditions prévues à l'article L. 351-21,
-elle doit au préalable aviser le préfet qui pourra prescrire l'occupation par priorité des intéressés à des travaux pour le
-compte de l'Etat ou d'un établissement public.
-
-L'attribution des allocations d'aide publique dans une commune peut être subordonnée à l'exécution par les bénéficiaires de
-ces allocations de travaux dans les conditions prévues à la première phrase de l'article L. 351-21.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D351-2 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-21 (T)
-
-	**Anciens textes**:
-
-	  - Décret  1949-07-15 ART. 1
-
-
-###### Article D351-2
-
-Les travaux auxquels les bénéficiaires de l'allocation d'aide publique peuvent être utilisés doivent être des travaux
-d'entretien ou de menus travaux. L'emploi de ces personnes ne peut avoir pour conséquence d'empêcher l'emploi de la main-
-d'oeuvre locale.
-
-Les bénéficiaires appelés à exécuter ces travaux ne peuvent être employés plus de trente heures par semaine [*limite*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. D351-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1949-07-15 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 
 ###### Article D351-4
 
