@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-01-04
+Version Consolidée au 1975-01-08
 
 # Partie législative ancienne
 
@@ -95259,15 +95259,18 @@ salaire normalement attribué pour des travaux analogues.
 
 ###### Article D351-8
 
-A compter du 14 janvier 1974 *date*, les taux journaliers des allocations d'aide publique aux travailleurs privés d'emploi
-fixés à l'article R. 351-8 du code du travail sont modifiés ainsi qu'il suit :
+A compter du 13 janvier 1975 *date*, les taux des allocations d'aide publique aux travailleurs privés d'emploi prévues à
+l'article R. 351-8 sont fixés ainsi qu'il suit :
 
-Ayant-Droit :
+Ayant-droit :
 
-- Allocation principale pendant les trois premiers mois : 10 Francs, après le troisième mois : 9,10 Francs .
+Allocation principale pendant les trois premiers mois :
 
-- Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 4 Francs, après le troisième mois : 4
-Francs .
+12 Francs, après le troisième mois : 11 Francs.
+
+Majoration pour conjoint ou personne à charge pendant les trois premiers mois : 4,80 Francs, après le troisième mois :
+
+4,80 Francs.
 
 **Liens relatifs à cet article**
 
@@ -95278,6 +95281,10 @@ Francs .
 	**Cité par**:
 
 	  - Décret n°79-530 du 3 juillet 1979 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R351-8 (M)
 
 
 ## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
