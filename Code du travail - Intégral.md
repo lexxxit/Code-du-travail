@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-12-27
+Version Consolidée au 1979-01-01
 
 # Partie législative ancienne
 
@@ -1038,6 +1038,76 @@ annuellement.
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L118-6
+
+Pour les employeurs inscrits au répertoire des métiers et, dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle,
+au registre des entreprises créé par le décret n. 73-942 du 3 octobre 1973, ainsi que pour ceux occupant dix salariés au plus
+[*condition*], non compris les apprentis, l'Etat prend en charge totalement, selon des taux fixés ou approuvés par arrêté
+ministériel, les cotisations sociales patronales et salariales d'origine légale et conventionnelle imposées par la loi dues
+au titre des salaires versés aux apprentis, dans les conditions prévues à l'article L. 118-5.
+
+Toutefois, les cotisations supplémentaires d'accidents du travail imposées en application des articles L. 133 du code de la
+sécurité sociale et 1158 du code rural sont exclues de cette prise en charge.
+
+La prise en compte des droits validables à l'assurance vieillesse ouverts pendant la période d'apprentissage s'effectue sur
+une base forfaitaire suivant des modalités fixées ou approuvées par décret tant en ce qui concerne les régimes de base que
+les régimes complémentaires.
+
+La prise en compte des cotisations dues au titre des articles L. 143-11-4, L. 351-13 et L. 731-9 du présent code s'effectue
+sur une base forfaitaire globale.
+
+La prise en charge par l'Etat du versement pour les transports prévu par les lois modifiées n° 71-559 du 12 juillet 1971 et
+n° 73-640 du 11 juillet 1973 et dû au titre des salaires versés aux apprentis par les employeurs visés à l'alinéa premier du
+présent article s'effectue sur la base d'un taux forfaitaire fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1158
+	  - Loi n°71-559 1971-07-12
+	  - Loi n°73-640 1973-07-11
+	  - Décret n°73-942 1973-10-03
+	  - Code du travail - art. L118-5 (M)
+	  - Code du travail - art. L143-11-4 (T)
+	  - Code du travail - art. L351-13 (M)
+	  - Code du travail - art. L731-9 (AbD)
+	  - Code de la sécurité sociale L133
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°79-13 1979-01-03 ART. 1 JORF 4 janvier date d'entrée en vigueur 1er janvier 1979
+
+	**Cité par**:
+
+	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
+	  - Décret n°79-917 du 16 octobre 1979 - art. 1 (Ab)
+	  - Décret n°80-106 du 1 février 1980 - art. 5 (P)
+	  - Loi n°81-734 du 3 août 1981 - art. 23 (P)
+	  - Arrêté du 4 décembre 1981 - art. 1 (V)
+	  - Loi n°82-660 du 30 juillet 1982 - art. 6 (P)
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 3 (V)
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 9 (V)
+	  - Loi n°87-572 du 23 juillet 1987 - art. 18 (AbD)
+	  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 A (Ab)
+	  - Code du travail - art. R119-3 (M)
+	  - Code du travail - art. R119-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 5 (Ab)
 
 
 ##### Chapitre IX : Dispositions diverses.
@@ -6776,52 +6846,6 @@ contraire dans le contrat.
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
-
-
-##### DISPOSITIONS FINANCIERES .
-
-###### Article L118-6
-
-Les employeurs inscrits au répertoire des métiers et dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle au
-registre des entreprises créé par le décret n. 73-942 du 3 octobre 1973, ainsi que ceux occupant dix salariés au plus
-[*effectif*] non compris les apprentis, reçoivent une prime par apprenti pour frais de formation. Le montant de cette prime
-est fixé par voie réglementaire. Elle est revisée annuellement en tenant compte de l'évolution du salaire de base des
-apprentis.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cite**:
-
-	  - Décret n°73-942 1973-10-03
-
-	**Cité par**:
-
-	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
-	  - Décret n°79-917 du 16 octobre 1979 - art. 1 (Ab)
-	  - Décret n°80-106 du 1 février 1980 - art. 5 (P)
-	  - Loi n°81-734 du 3 août 1981 - art. 23 (P)
-	  - Arrêté du 4 décembre 1981 - art. 1 (V)
-	  - Loi n°82-660 du 30 juillet 1982 - art. 6 (P)
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 3 (V)
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 9 (V)
-	  - Loi n°87-572 du 23 juillet 1987 - art. 18 (AbD)
-	  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 A (Ab)
-	  - Code du travail - art. R119-3 (M)
-	  - Code du travail - art. R119-4 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979
-	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 5 (Ab)
 
 
 ### CONTRAT DE TRAVAIL .
