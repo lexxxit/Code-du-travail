@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-10-18
+Version Consolidée au 1977-12-10
 
 # Partie législative ancienne
 
@@ -71686,6 +71686,37 @@ au chef d'entreprise et aux membres du comité [*formalité*].
 	  - Code du travail - art. R432-10 (VT)
 
 
+#### Chapitre VIII : Bilan social.
+
+###### Article R438-1
+
+La liste des informations prévues à l'article L. 438-4 est établie conformément au texte annexé au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L438-4 (AbD)
+	  - TXT_SOURCE: Code du travail - art. L438-4 (M)
+
+	**Cité par**:
+
+	  - Décret n°92-1367 du 29 décembre 1992 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R2323-17 (M)
+
+
 ### Titre IV : Intéressement et participation
 
 #### Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise
@@ -111019,5 +111050,122 @@ collèges d'enseignement technique et de l'article R. 322-9.
 	**Anciens textes**:
 
 	  - Décret n°70-827 1970-09-16 ART. 2
+
+
+# Annexes
+
+## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+
+### Titre 3 : Les comités d'entreprise
+
+#### Chapitre 8 : Bilan social
+
+##### Liste des informations figurant dans le bilan social, prévues à l'article L. 438-4.
+
+###### Article Annexe à l'article R438-1
+
+V FORMATION
+
+51 Formation professionnelle continue (44)
+
+Pourcentage de la masse salariale afférent à la formation continue    Montant consacré à la formation continue : formation
+interne ; formation effectuée en application de conventions ; versement à des fonds assurance formation ; versement auprès
+d'organismes agréés ; trésor et autres ; total
+
+Nombre de stagiaires II
+
+Nombre d'heures de stage II
+
+rémunérées
+
+non rémunérées
+
+Décomposition par type de stages à titre d'exemple : adaptation, formation professionnelle, entretien ou perfectionnement des
+connaissances
+
+52 Congés formation
+
+Nombre de salariés ayant bénéficié d'un congé formation rémunéré
+
+Nombre de salariés ayant bénéficié d'un congé formation non rémunéré
+
+Nombre de salariés auxquels a été refusé un congé formation
+
+53 Apprentissage
+
+Nombre de contrats d'apprentissage conclus dans l'année
+
+VI RELATIONS PROFESSIONNELLES
+
+61 Représentants du personnel et délégués syndicaux
+
+Composition des comités d'entreprise et/ou d'établissement avec indication, s'il y a lieu, de l'appartenance syndicale
+Participation aux élections (par collège) par collège par catégories de représentants du personnel
+
+Volume global des crédits utilisés pendant l'année considérée    Nombre de réunions avec les représentants du personnel et
+les délégués syndicaux pendant l'année considérée
+
+Dates et signatures et objet des accords conclus dans l'entreprise pendant l'année considérée    Nombre de personnes
+bénéficiaires d'un congé d'éducation ouvrière (45)
+
+62 Information et communication
+
+Nombre d'heures consacrées aux différentes  formes de réunion du personnel (46)
+
+Eléments caractéristiques du système d'accueil
+
+Eléments caractéristiques du système d'information ascendante ou descendante et niveau d'application
+
+Eléments caractéristiques du système d'entretiens individuels (47)
+
+63 Différends concernant l'application du droit du travail (48)
+
+Nombre de recours à des modes de solution non juridictionnels engagés dans l'année
+
+Nombre d'instances judiciaires engagées dans l'année et où l'entreprise est en cause
+
+Nombre de mises en demeure et nombre de procès-verbaux de l'inspecteur du travail pendant l'année considérée
+
+VII AUTRES CONDITIONS DE VIE RELEVANT DE L'ENTREPRISE
+
+71 Oeuvres sociales
+
+Contribution au financement, le cas échéant, du comité d'entreprise et des comités d'établissement
+
+Autres dépenses directement supportées par l'entreprise :
+
+logement, transport, restauration, loisirs, vacances, divers, total (49)
+
+72 Autres charges sociales
+
+Coût pour l'entreprise des prestations complémentaires (maladie, décès (50)
+
+NOTES
+
+(44) Conformément à la déclaration annuelle des employeurs n° 2483 relative au financement de la formation professionnelle
+continue.
+
+(45) Au sens de l'article L. 454-1 du Code du travail.
+
+(46) On entend par réunion du personnel, les réunions régulières de concertation, concernant les relations et conditions de
+travail organisées par l'entreprise.
+
+(47) Préciser leur périodicité.
+
+(48) Avec indication de la nature du différend et, le cas échéant, de la solution qui y a mis fin.
+
+(49) Dépenses consolidées de l'entreprise. La répartition est indiquée ici à titre d'exemple.
+
+(50) Versements directs ou par l'intermédiaire d'assurances
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L438-4 (M)
 
 
