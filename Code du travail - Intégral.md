@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-29
+Version Consolidée au 1981-01-30
 
 # Partie législative ancienne
 
@@ -7482,6 +7482,79 @@ formation d'apprentis.
 	  - Décret n°73-1046 1973-11-15
 
 
+##### CHAPITRE 6 : DES CENTRES DE FORMATION D'APPRENTIS.
+
+###### Article L116-2
+
+La création des centres de formation d'apprentis fait l'objet [*formalité*] de conventions passées avec l'Etat par les
+collectivités locales, les établissements publics, les compagnies consulaires, les chambres de métiers, les chambres
+d'agriculture, les établissements d'enseignement privés sous contrat simple ou d'association, les organisations
+professionnelles, les associations, les entreprises ou toute autre personne physique ou morale, après avis du comité régional
+de la formation professionnelle, de la promotion sociale et de l'emploi.
+
+Cet avis porte notamment sur les garanties de tous ordres présentées par le projet, et sur son intérêt, eu égard aux besoins
+de la formation professionnelle dans la zone d'action considérée.
+
+La demande de convention doit donner lieu à une décision dans un délai de six mois à compter du dépôt de la demande [*point
+de départ*]. En cas de réponse négative, de même qu'en cas de dénonciation de convention, la décision doit être motivée avec
+recours possible, dans les deux mois de sa notification, devant le groupe permanent de hauts fonctionnaires visé à l'article
+L. 910-1 du code du travail qui statue après avis de la commission permanente du conseil national de la formation
+professionnelle, de la promotion sociale et de l'emploi. Si la réponse négative ou la dénonciation de la convention
+concernent un centre de formation d'apprentis à recrutement national, le recours est porté, dans les mêmes conditions, devant
+le comité interministériel visé à l'article L. 910-1 du code du travail.
+
+Les recours ont un effet suspensif lorsqu'il s'agit d'une décision dénonçant une convention. Toutefois, le centre ne peut
+accepter l'inscription d'aucun apprenti pendant la durée de l'examen du recours.
+
+Les organismes [*compétents*] devant lesquels le recours est porté rendent leur décision dans un délai de trois mois.
+
+Des conventions types sont établies après consultation du conseil national de la formation professionnelle, de la promotion
+sociale et de l'emploi.
+
+Le décret prévu à l'article L. 119-4 ci-après détermine celles des clauses de ces conventions qui ont un caractère
+obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 13 (V)
+	  - Décret n°81-292 du 27 mars 1981 - art. 1 (Ab)
+	  - Décret n°81-292 du 27 mars 1981 - art. 3 (Ab)
+	  - Arrêté du 22 novembre 1990 - art. 2 (Ab)
+	  - Code de l'éducation - art. L337-4 (V)
+	  - Code du travail - art. D118 (VT)
+	  - Code du travail - art. D811-17 (Ab)
+	  - Code du travail - art. L115-1 (AbD)
+	  - Code du travail - art. L115-2 (AbD)
+	  - Code du travail - art. L116-3 (AbD)
+	  - Code du travail - art. L117 BIS-5 (AbD)
+	  - Code du travail - art. L118-2-2 (AbD)
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail - art. R116-1 (VT)
+	  - Code du travail - art. R116-18 (VT)
+	  - Code du travail - art. R116-27 (VT)
+	  - Code du travail - art. R119-67 (VT)
+	  - Code du travail - art. R119-76 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°81-69 du 28 janvier 1981 - art. 3 (V) JORF 30 janvier 1981
+
+	**Cite**:
+
+	  - Code du travail - art. L119-4 (M)
+	  - Code du travail - art. L910-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. R116-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### Titre 5 : PENALITES
 
 #### Chapitre 2 : CONTRAT DE TRAVAIL
@@ -7553,78 +7626,6 @@ jugement aux portes des établissements de l'entreprise et sa publication dans l
 #### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972 *DATE*
 
 ##### CENTRES DE FORMATION D'APPRENTIS .
-
-###### Article L116-2
-
-La création des centres de formation d'apprentis fait l'objet [*formalité*] de conventions passées avec l'Etat par les
-collectivités locales, les établissements publics, les compagnies consulaires, les chambres de métiers, les chambres
-d'agriculture, les établissements d'enseignement privés sous contrat simple ou d'association, les organisations
-professionnelles, les associations, les entreprises ou toute autre personne physique ou morale, après avis du comité régional
-de la formation professionnelle, de la promotion sociale et de l'emploi.
-
-Cet avis porte notamment sur les garanties de tous ordres présentées par le projet, et sur son intérêt, eu égard aux besoins
-de la formation professionnelle dans la zone d'action considérée.
-
-La demande de convention doit donner lieu à une décision dans un délai de six mois à compter du dépôt de la demande [*point
-de départ*]. En cas de réponse négative, de même qu'en cas de dénonciation de convention, la décision doit être motivée
-avec /M/appel possible devant le conseil national de la formation professionnelle, de la promotion sociale et de l'emploi /M/
-LOI  0767 12-07-1977 : recours possible, dans les deux mois de sa notification, devant le groupe permanent de hauts
-fonctionnaires visé à l'article L. 910-1 du code du travail qui statue après avis de la délégation permanente du conseil
-national de la formation professionnelle, de la promotion sociale et de l'emploi. Si la réponse négative ou la dénonciation
-de la convention concernent un centre de formation d'apprentis à recrutement national, le recours est porté, dans les mêmes
-conditions, devant le comité interministériel visé à l'article L. 910-1 du code du travail.
-
-Les recours ont un effet suspensif lorsqu'il s'agit d'une décision dénonçant une convention. Toutefois, le centre ne peut
-accepter l'inscription d'aucun apprenti pendant la durée de l'examen du recours.
-
-Les organismes devant lesquels le recours est porté rendent leur décision dans un délai de trois mois//.
-
-Des conventions types sont établies après consultation du conseil national de la formation professionnelle, de la promotion
-sociale et de l'emploi.
-
-Le décret prévu à l'article L. 119-4 ci-après détermine celles des clauses de ces conventions qui ont un caractère
-obligatoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16 ART. 4 JORF 17 juillet
-
-	**Cité par**:
-
-	  - Loi n°71-1130 du 31 décembre 1971 - art. 13 (V)
-	  - Décret n°81-292 du 27 mars 1981 - art. 1 (Ab)
-	  - Décret n°81-292 du 27 mars 1981 - art. 3 (Ab)
-	  - Arrêté du 22 novembre 1990 - art. 2 (Ab)
-	  - Code de l'éducation - art. L337-4 (V)
-	  - Code du travail - art. D118 (VT)
-	  - Code du travail - art. D811-17 (Ab)
-	  - Code du travail - art. L115-1 (AbD)
-	  - Code du travail - art. L115-2 (AbD)
-	  - Code du travail - art. L116-3 (AbD)
-	  - Code du travail - art. L117 BIS-5 (AbD)
-	  - Code du travail - art. L118-2-2 (AbD)
-	  - Code du travail - art. L118-3 (M)
-	  - Code du travail - art. R116-1 (VT)
-	  - Code du travail - art. R116-18 (VT)
-	  - Code du travail - art. R116-27 (VT)
-	  - Code du travail - art. R119-67 (VT)
-	  - Code du travail - art. R119-76 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L119-4 (M)
-	  - Code du travail - art. L910-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. R116-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
 
 ###### Article L116-3
 
@@ -98910,6 +98911,34 @@ matière d'équipement ainsi que les actions publiques et privées de formation 
 	  - Décret n°67-55 1967-01-18 ART. 2
 
 
+###### Article R910-3
+
+Le comité interministériel est assisté d'un groupe permanent composé d'un représentant de chacun des ministres énumérés à
+l'article R. 910-1, du délégué à la formation professionnelle, du commissaire au Plan, du délégué à l'aménagement du
+territoire ainsi que du président du conseil de gestion du fonds de la formation professionnelle et de la promotion sociale.
+
+Par décision du Premier ministre, des fonctionnaires qualifiés pour leur compétence en matière de formation professionnelle
+et de promotion sociale peuvent être appelés à participer à ses travaux ainsi que le directeur général de l'INSEE.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-69 du 28 janvier 1981 - art. 2 () JORF 30 janvier
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 4 () JORF 8 juin 2006
+
+	**Cite**:
+
+	  - Code du travail - art. R910-1 (M)
+
+
 ###### Article R910-4
 
 Le groupe permanent est chargé [*attributions*] de préparer les travaux du comité interministériel et de suivre l'application
@@ -99035,6 +99064,57 @@ différentes catégories appelées à bénéficier de la formation professionnel
 	**Cité par**:
 
 	  - Code du travail - art. R910-11 (Ab)
+
+
+###### Article R910-11
+
+I. - Il est créé une délégation à la formation professionnelle rattachée administrativement au secrétariat général du
+Gouvernement et mise à la disposition du ministre chargé de la formation professionnelle.
+
+Cette délégation est dirigée par un délégué à la formation professionnelle nommé par décret en conseil des ministres.
+
+II. - Le délégué à la formation professionnelle [*attribution*] prépare et anime la politique interministérielle de la
+formation professionnelle et de la promotion sociale, établie en concertation avec les milieux professionnels dans les
+conditions fixées aux articles R. 910-7 à R. 910-9 ci-dessus.
+
+Il suit la mise en oeuvre juridique, financière et technique de cette politique.
+
+Il gère, compte tenu des dispositions des articles R. 910-5 et R. 910-6 et du I ci-dessus les crédits inscrits au budget du
+Premier ministre pour le financement des actions de formation professionnelle.
+
+Il entretient les liaisons nécessaires avec les instances territoriales de coordination et de concertation dont il est
+question aux articles R. 910-12 et R. 910-14 ci-dessous. Il coordonne les actions décidées après avis de ces instances et
+s'assure de leur conformité à la politique interministérielle de la formation professionnelle et de la promotion sociale.
+
+Il concourt aux actions d'informations menées dans le cadre de cette politique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-69 du 28 janvier 1981 - art. 5 () JORF 30 janvier
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 4 () JORF 8 juin 2006
+
+	**Cité par**:
+
+	  - Code du travail - art. R910-10 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. R910-12 (M)
+	  - Code du travail - art. R910-14 (M)
+	  - Code du travail - art. R910-5 (Ab)
+	  - Code du travail - art. R910-6 (M)
+	  - Code du travail - art. R910-7 (Ab)
+	  - Code du travail - art. R910-8 (Ab)
+	  - Code du travail - art. R910-9 (M)
 
 
 ###### Article R910-12
@@ -100104,53 +100184,16 @@ voir pour les mises à jour le décret 75-205 du 26 mars 1975*
 
 ###### Article R910-1
 
-Le comité interministériel prévu à l'article L. 910-1 [*composition*] comprend, sous la présidence du Premier ministre, le
+Le comité interministériel prévu à l'article L. 910-1 [*composition*] comprend, sous la présidence du premier ministre, le
 ministre chargé de la réforme administrative, le ministre chargé de l'économie et des finances, le ministre chargé de
 l'éducation nationale, le ministre chargé de l'agriculture, le ministre chargé de l'industrie, le ministre chargé des
 affaires sociales ainsi que pour les affaires les concernant, les autres ministres intéressés à la formation professionnelle
 et à la promotion sociale. Le ministre de l'éducation nationale est le vice-président dudit comité.
 
-Le président du groupe permanent et le président du conseil de gestion du fonds de la formation professionnelle et de la
-promotion sociale prévu à l'article R. 910-5 siègent également au comité.
-
-Le commissaire général du Plan et le délégué à l'aménagement du territoire participent aux séances du comité.
+Le délégué à la formation professionnelle, le commissaire au Plan et le délégué à l'aménagement du territoire participent aux
+séances du comité.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L910-1 (M)
-	  - Code du travail - art. R910-5 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R910-3 (Ab)
-	  - Code du travail - art. R910-7 (Ab)
-	  - Code du travail - art. R960-40 (M)
-	  - Code du travail - art. R970-8 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°67-55 1967-01-18 ART. 1
-
-
-###### Article R910-3
-
-Le comité interministériel est assisté d'un groupe permanent composé d'un représentant de chacun des ministres énumérés à
-l'article R. 910-1, du commissaire général au Plan, du délégué à l'aménagement du territoire ainsi que du président du
-conseil de gestion du fonds de la formation professionnelle et de la promotion sociale. Par décision du Premier ministre, des
-fonctionnaires qualifiés pour leur compétence en matière de formation professionnelle et de promotion sociale peuvent être
-appelés à participer à ses travaux ainsi que le directeur général de l'INSEE.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-55 1967-01-18 ART. 3
 
 	**Codifié par**:
 
@@ -100158,11 +100201,18 @@ appelés à participer à ses travaux ainsi que le directeur général de l'INSE
 
 	**Modifié par**:
 
-	  - Décret n°81-69 du 28 janvier 1981 - art. 2 () JORF 30 JANVIER 1981
+	  - Décret n°81-69 du 28 janvier 1981 - art. 1 () JORF 30 janvier
 
 	**Cite**:
 
-	  - Code du travail - art. R910-1 (M)
+	  - Code du travail - art. L910-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R910-3 (Ab)
+	  - Code du travail - art. R910-7 (Ab)
+	  - Code du travail - art. R960-40 (M)
+	  - Code du travail - art. R970-8 (Ab)
 
 
 ###### Article R910-6
@@ -100193,13 +100243,14 @@ Le groupe permanent [*compétence*] peut être saisi de toute question relative 
 ###### Article R910-9
 
 Il est créé, au sein du conseil national de la formation professionnelle, de la promotion sociale et de l'emploi, une
-délégation permanente dont les membres sont nommés par décret parmi les catégories suivantes siégeant au conseil national :
+commission permanente dont les membres sont nommés par décret parmi les catégories suivantes siègeant au conseil national
+[*composition*] :
 
 Représentants des organisations syndicales de salariés et d'employeurs ;
 
 Représentants d'organismes publics et privés intéressés à la formation professionnelle ou à la promotion sociale.
 
-La délégation permanente du conseil national exerce, dans l'intervalle des sessions de ce dernier, les attributions
+La commission permanente du conseil national exerce, dans l'intervalle des sessions de ce dernier, les attributions
 suivantes :
 
 Elle est consultée sur les projets de conventions types concernant la création et le fonctionnement des centres de formation
@@ -100210,21 +100261,21 @@ d'apprentis qui lui sont soumises par les responsables de ces conventions ;
 
 Elle émet un avis sur les projets de décrets fixant les mesures d'application des articles L. 116-1 à L. 119-4.
 
-Le conseil national peut également décider des autres questions sur lesquelles il entend que la délégation permanente
+Le Conseil national peut également décider des autres questions sur lesquelles il entend que la commission permanente
 délibère en son nom.
 
-Le groupe permanent consulte la délégation permanente sur l'orientation et la mise en oeuvre de la politique de formation
+Le groupe permanent consulte la commission permanente sur l'orientation et la mise en oeuvre de la politique de formation
 professionnelle continue.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-55 1967-01-18 ART. 8 BIS
-
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-69 du 28 janvier 1981 - art. 3 (V) JORF 30 janvier
 
 	**Cité par**:
 
@@ -100240,63 +100291,23 @@ professionnelle continue.
 ###### Article R910-10
 
 Le secrétariat du comité interministériel du conseil national de la formation professionnelle, de la promotion sociale et de
-l'emploi, de la délégation permanente du conseil national, du groupe permanent et du conseil de gestion du fonds de la
-formation professionnelle et de la promotion sociale est assuré par un secrétariat général de la formation professionnelle.
-
-Le secrétaire général de la formation professionnelle est nommé par le Premier ministre.
+l'emploi, de la commission permanente du conseil national, du groupe permanent, du conseil de gestion du fonds de la
+formation professionnelle et de la promotion sociale et de la commission d'homologation des titres et diplômes de
+l'enseignement technologique est assuré par la délégation [*à la formation professionnelle*] créée par l'article R. 910-11.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-55 1967-01-18 ART. 9
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Modifié par**:
+	**Créé par**:
 
 	  - Décret n°81-69 du 28 janvier 1981 - art. 4 () JORF 30 janvier
 
+	**Cite**:
 
-###### Article R910-11
-
-Le secrétariat général [*attributions*] assure, en liaison avec les départements ministériels intéressés, les études
-concernant l'élaboration et la mise en oeuvre de la politique coordonnée et concertée de formation professionnelle et de
-promotion sociale.
-
-Il prépare l'examen des demandes de crédits qui sont adressées au conseil de gestion du fonds de la formation professionnelle
-et de la promotion sociale.
-
-Il prépare les travaux du conseil national de la formation professionnelle, de la promotion sociale et de l'emploi, et de sa
-délégation permanente.
-
-Il coordonne les actions de formation professionnelle et de promotion sociale menées au niveau régional.
-
-Il apporte son concours aux actions d'information dans le domaine de la formation professionnelle, de la promotion sociale et
-de l'emploi.
-
-Le secrétariat général de la formation professionnelle est rattaché administrativement au secrétariat général du
-Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. R910-10 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°67-55 1967-01-18 ART. 9 BIS
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Décret n°81-69 du 28 janvier 1981 - art. 5 () JORF 30 janvier
+	  - Code du travail - art. R910-11 (M)
 
 
 ###### Article R910-13
@@ -114665,6 +114676,25 @@ dérogé aux dispositions communes applicables aux conventions de formation prof
 	  - Code du travail - art. L910-1
 
 
+###### Article D940-5
+
+Le groupe permanent de la formation professionnelle peut, après avis de la commission permanente du conseil national de la
+formation professionnelle, de la promotion sociale et de l'emploi, autoriser la conclusion de conventions de type particulier
+quand la nature de la formation à dispenser, la structure particulière de l'organisme de formation ou les méthodes
+pédagogiques mises en oeuvre ne permettent pas l'application normale des clauses des conventions prévues à l'article D. 940-1
+ci-dessus ou des dispositions communes prévues à l'article D. 940-2 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°81-69 du 28 janvier 1981 - art. 3 (V) JORF 30 janvier
+
+
 ###### Article D940-6
 
 Le présent titre est applicable aux conventions comportant une aide de l'Etat passées à partir du 1er janvier 1975 [*date
@@ -114995,32 +115025,6 @@ l'emploi auprès du directeur régional du travail et de l'emploi.
 	  - Décret n°94-1168 du 28 décembre 1994 - art. 1 (V)
 	  - Code du travail - art. D910-4 (Ab)
 	  - Code du travail - art. D910-5 (M)
-
-
-### AIDE DE L'ETAT .
-
-###### Article D940-5
-
-Le groupe permanent de la formation professionnelle peut, après avis de la délégation permanente du conseil national de la
-formation professionnelle, de la promotion sociale et de l'emploi, autoriser la conclusion de conventions de type particulier
-quand la nature de la formation à dispenser, la structure particulière de l'organisme de formation ou les méthodes
-pédagogiques mises en oeuvre ne permettent pas l'application normale des clauses des conventions prévues à l'article D. 940-1
-ci-dessus ou des dispositions communes prévues à l'article D. 940-2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Créé par**:
-
-	  - Décret n°75-494 1975-06-11 art. 4 JORF 20 juin 1975
-
-	**Cite**:
-
-	  - Code du travail - art. D940-1 (V)
-	  - Code du travail - art. D940-2 (V)
 
 
 ## Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
