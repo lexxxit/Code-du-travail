@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-03-23 00:00:01 +0100
+Version Consolidée au 1978-03-24
 
 # Partie législative ancienne
 
@@ -55006,6 +55006,61 @@ rapport est en outre communiqué sans délai à ce fonctionnaire.
 	  - Code du travail - art. R119-69 (VT)
 
 
+##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
+
+###### Article R119-76
+
+La formation générale associée à la formation technologique, théorique et pratique complétant la formation reçue dans
+l'entreprise et prévue au contrat d'apprentissage peut être également dispensée, sur avis motivé de la commission technique
+d'orientation et de reclassement professionnel, dans une section de centre de formation d'apprentis ou dans un centre de
+formation d'apprentis adapté aux personnes handicapées, sous réserve qu'une convention ait été passée dans les conditions
+prévues à l'article L. 116-2. Cette convention peut être aménagée pour tenir compte de la spécificité des formations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cite**:
+
+	  - Code du travail - art. L116-2 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-72 (VT)
+
+
+###### Article R119-77
+
+Lorsque l'état de l'apprenti handicapé l'exige, l'enseignement donné dans le centre de formation d'apprentis en vue de
+conduire au diplôme prévu au contrat est réparti sur une période de temps égale à la durée normale d'apprentissage pour la
+formation considérée, augmentée d'un an au plus.
+
+L'annexe pédagogique de la convention régissant le centre de formation d'apprentis concerné fixe les conditions dans
+lesquelles est mise en oeuvre la règle posée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+	  - TXT_ASSOCIE: Code du travail - art. R119-78 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-72 (VT)
+	  - Code du travail - art. R119-78 (VT)
+
+
 ##### B - Mesures provisoires d'adaptation en matière d'apprentissage
 
 ##### Section 1 : Des accords provisoires
@@ -55731,6 +55786,36 @@ discipline prévus par lesdites règles statutaires.
 	  - Code du travail - art. R119-62 (Ab)
 	  - Code du travail R119-59 AL. 1, R119-62, R119-63 AL. 2
 	  - Code de l'artisanat - art. 42 (M)
+
+
+##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
+
+###### Article R119-74
+
+Lorsqu'il est fait application des dispositions de l'article R. 119-72, l'avis d'orientation prévu à l'article L. 117-3 est
+délivré par la commission technique d'orientation et de reclassement professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Abrogé par**:
+
+	  - Décret n°88-103 1988-01-29 art. 37 JORF 30 janvier 1988
+
+	**Cite**:
+
+	  - Code du travail - art. L117-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-72 (VT)
 
 
 #### DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
@@ -56908,6 +56993,104 @@ collègues.
 	  - Code du travail CHAP. IX, LIVRE I
 
 
+##### E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.
+
+###### Article R119-72
+
+Les dispositions des articles R. 119-73 à R. 119-79 ne peuvent recevoir application qu'à l'égard des jeunes travailleurs
+auxquels la qualité de travailleur handicapé est reconnue par application de l'article L. 323-10 et qui souscrivent le
+contrat d'apprentissage défini à l'article L. 115-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cite**:
+
+	  - Code du travail - art. L115-1 (M)
+	  - Code du travail - art. L323-10 (M)
+	  - Code du travail R119-73 A R119-79
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-73 (Ab)
+	  - Code du travail - art. R119-74 (Ab)
+	  - Code du travail - art. R119-75 (VT)
+
+
+###### Article R119-73
+
+La commission technique d'orientation et de reclassement professionnel prévue à l'article L. 323-11 peut accorder aux
+personnes handicapées définies à l'article précédent, compte-tenu de leur capacité de travail et de leurs possibilités
+d'intégration, une dérogation à l'âge maximum d'admission en apprentissage que fixe l'article L. 117-3.
+
+Cette dérogation ne peut avoir pour effet de porter à plus de vingt-trois ans [*limite*] l'âge de l'intéressé au début de son
+apprentissage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 10 (Ab)
+	  - Code du travail - art. L117-3 (M)
+	  - Code du travail - art. R323-11 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie, sous réserve qu'à la fin du 1er alinéa, les mots "que fixe l'article L. 117-3" soient remplacés par les mots "que fixe l'article 10 de l'ordonnanc
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-72 (VT)
+
+
+###### Article R119-75
+
+Lorsque l'une des personnes définies à l'article R. 119-72 est en mesure de suivre l'enseignement normal du centre de
+formation d'apprentis moyennant un aménagement particulier de la pédagogie appliquée dans ce centre, la mise en oeuvre de cet
+aménagement est soumise à autorisation.
+
+Lorsque l'une des personnes définis à l'article R. 119-72 n'est pas en mesure, en raison de son handicap, de fréquenter
+utilement le centre de formation d'apprentis correspondant à la formation prévue au contrat, elle peut être autorisée à
+suivre par correspondance un enseignement équivalent à celui que dispense ce centre.
+
+Les autorisations prévues aux deux alinéas précédents font l'objet de décisions individuelles prises, selon le cas, soit par
+le recteur, soit par l'ingénieur général d'agronomie, après avis motivé de la commission technique d'orientation et de
+reclassement professionnel dont relève l'apprenti. Le cas échéant, cet avis peut être joint à celui que prévoit l'article R.
+119-74.
+
+Les dispositions ci-dessus sont également applicables dans les mêmes conditions aux apprentis auxquels la qualité de
+travailleur handicapé est reconnue au cours de leur apprentissage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-72 (VT)
+
+	**Cite**:
+
+	  - Code du travail R119-72 ET R119-74
+
+
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 #### Chapitre VII : Du contrat d'apprentissage
@@ -57085,6 +57268,77 @@ coordonner l'organisation locale de l'apprentissage et le contrôle de la format
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+
+##### E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
+
+###### Article R119-78
+
+Dans le cas prévu à l'article R. 119-77, la durée de l'apprentissage est prolongée d'un an au plus sans préjudice de
+l'application, s'il y a lieu, de la règle posée à la fin de l'article L. 117-9 [*obligation d'inscription à l'examen*].
+
+Les dispositions de l'article R. 119-77 et du présent article sont également applicables dans les mêmes conditions aux
+apprentis auxquels la qualité de travailleur handicapé est reconnue au cours de leur apprentissage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+	  - TXT_ASSOCIE: Code du travail - art. R119-77 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D117-1 (M)
+	  - Code du travail - art. D117-2 (VT)
+	  - Code du travail - art. R119-72 (VT)
+
+
+###### Article R119-79
+
+Les primes prévues à l'article L. 119-5 donnent lieu à l'attribution au titre de chaque apprenti d'une somme globale qui est
+payée en deux versements égaux à l'issue de chacune des deux premières années d'apprentissage.
+
+Le montant de la somme susindiquée est déterminé par référence au salaire horaire minimum de croissance applicable au premier
+jour du mois de juillet compris dans la première année d'apprentissage.
+
+Les primes ne sont pas dues lorsque le contrat est résilié durant les deux premiers mois de l'apprentissage.
+
+Lorsque, passé ce délai, la résiliation résulte, par application de l'article L. 117-17, de l'accord exprès et bilatéral des
+parties, les primes sont dues mais la somme définie aux alinéas 1er et 2 ci-dessus est réduite proportionnellement à la durée
+effective de l'apprentissage.
+
+Lorsque, passé ledit délai, la résiliation est prononcée, par application de l'article L. 117-17, par le juge compétent en
+raison d'une faute grave de l'employeur ou de manquements répétés de celui-ci à ses obligations, les primes ne sont pas dues
+et l'employeur est tenu de rembourser les sommes qui ont pu lui être payées.
+
+La demande d'attribution des primes est adressée au directeur départemental du travail et de la main-d'oeuvre du lieu de
+résidence de l'employeur. Un arrêté des ministres intéressés fixe la liste des justifications qui doivent être jointes à
+cette demande.
+
+**Nota:**
+
+[ARR. 0000 15-03-1978 : le montant de la prime prévue à l'article L. 119-5 est fixé, par apprenti, à 520 fois le salaire
+horaire minimum de croissance applicable au premier jour du mois de juillet compris dans la première année d'apprentissage. ]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+	  - TXT_ASSOCIE: Code du travail - art. L119-5 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-72 (VT)
 
 
 ### Titre II : Contrat de travail
