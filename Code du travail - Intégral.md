@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-30
+Version Consolidée au 1981-01-30 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -114686,13 +114686,14 @@ ci-dessus ou des dispositions communes prévues à l'article D. 940-2 ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°81-69 du 28 janvier 1981 - art. 3 (V) JORF 30 janvier
+	  - Code du travail - art. D940-1
+	  - Code du travail - art. D940-2
 
 
 ###### Article D940-6
