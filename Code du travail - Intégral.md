@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-03
+Version Consolidée au 1980-01-05
 
 # Partie législative ancienne
 
@@ -69144,14 +69144,11 @@ en accord avec le ministre chargé de la famille,// et sur proposition de l'unio
 
 ###### Article R136-6
 
-Les membres suppléants, en nombre égal à celui des membres titulaires prévus aux articles R. 136-2 à R. 136-5 sont nommés
-dans les mêmes conditions.
+Des membres suppléants, en nombre double de celui des membres titulaires prévus aux articles R. 136-2 à R. 136-5, sont nommés
+dans les mêmes conditions. Toutefois l'un des deux suppléants de chacun des membres titulaires prévu, d'une part, au 4e,
+d'autre part, au 5e de l'article R. 136-3 peut être un salarié agricole [*composition*].
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-263 1950-03-03 ART. 5
 
 	**Codifié par**:
 
@@ -69159,7 +69156,10 @@ dans les mêmes conditions.
 
 	**Cite**:
 
-	  - Code du travail R136-2 A R136-5
+	  - Code du travail - art. R136-2 (M)
+	  - Code du travail - art. R136-3 (M)
+	  - Code du travail - art. R136-4 (M)
+	  - Code du travail - art. R136-5 (M)
 
 
 ###### Article R136-7
