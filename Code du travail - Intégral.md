@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-09-26 00:00:01 +0100
+Version Consolidée au 1975-10-19
 
 # Partie législative ancienne
 
@@ -67412,37 +67412,6 @@ contrôle financier des offices et établissements autonomes de l'Etat.
 ### CONDITIONS DU TRAVAIL
 
 #### DUREE DU TRAVAIL
-
-##### HEURES SUPPLEMENTAIRES .
-
-###### Article R212-11
-
-En ce qui concerne les entreprises, sociétés et organismes mentionnés à l'article L. 212-1, alinéa 2, du présent code, les
-attributions conférées par les dispositions de la présente section, soit au ministre chargé du travail, soit aux directeurs
-régionaux ou départementaux du travail et de main-d'oeuvre, soit aux inspecteurs du travail, sont respectivement exercées par
-le ministre chargé de l'agriculture, les inspecteurs divisionnaires des lois sociales en agriculture, et les inspecteurs
-départementaux des lois sociales en agriculture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-283 1946-02-25 ART. 3 ET 6
-	  - Loi n°71-1049 1971-12-24
-	  - Décret n°72-482 1972-06-14 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R212-11-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail R212-1 A R212-11
-
 
 ##### DISPOSITIONS RELATIVES AUX FEMMES .
 
