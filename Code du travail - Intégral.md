@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-12-02 00:00:01 +0100
+Version Consolidée au 1980-01-01
 
 # Partie législative ancienne
 
@@ -56142,6 +56142,465 @@ poursuivre leur activité jusqu'à l'expiration de ce délai.
 	  - Code du travail R124-1 A R124-14
 
 
+##### Section 4 : Règles applicables à la garantie financière exigée des entreprises de travail temporaire et à la substitution de l'utilisateur à l'entreprise de travail temporaire en cas de défaillance de celle-ci
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article R124-7
+
+La garantie exigée par l'article L. 124-8 ne peut résulter que d'un engagement de caution unique pris par une société de
+caution mutuelle régie par les dispositions de la loi du 13 mars 1917 ou un organisme de garantie collective agréé par le
+ministre chargé du travail et le ministre chargé de l'économie, une entreprise d'assurances, une banque ou un établissement
+financier habilité à donner caution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1980 - art. 2 (V)
+	  - Code du travail - art. R124-14 (M)
+	  - Code du travail - art. R124-15 (VT)
+
+
+###### Article R124-8
+
+La garantie prévue à l'article L. 124-8 a exclusivement pour objet d'assurer :
+
+1. Le paiement aux salariés mis à la disposition d'utilisateurs par une entreprise de travail temporaire, de leur salaire et
+des accessoires de celui-ci, de l'indemnité de précarité d'emploi et de l'indemnité compensatrice de congés payés ;
+
+2. Le paiement aux organismes de sécurité sociale ou autres institutions sociales, des cotisations obligatoires dues pour
+lesdits salariés ainsi que, le cas échéant, les remboursements de prestations prévus dans les cas où l'employeur n'a pas
+acquitté les cotisations dues dans les délais prescrits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-11 (VT)
+	  - Code du travail - art. R124-14 (M)
+	  - Code du travail - art. R124-17 (VT)
+	  - Code du travail - art. R124-18 (VT)
+	  - Code du travail - art. R124-21 (VT)
+	  - Code du travail - art. R124-22 (VT)
+	  - Code du travail - art. R124-24 (VT)
+	  - Code du travail - art. R124-26 (VT)
+	  - Code du travail - art. R124-9 (M)
+
+
+###### Article R124-9
+
+Le montant de la garantie financière est calculé, pour chaque entreprise de travail temporaire, en pourcentage du chiffre
+d'affaires hors taxes réalisé au cours du dernier exercice social et certifié par un expert comptable dans les six mois de la
+clôture de l'exercice. Si le dernier exercice social a une durée inférieure ou supérieure à douze mois, le chiffre d'affaires
+enregistré au cours de cet exercice est proportionnellement augmenté ou réduit pour être évalué sur douze mois.
+
+Le montant de la garantie, qui peut être revisé à tout moment et doit faire l'objet d'un réexamen chaque année, ne doit pas
+être inférieur à 8 p. 100 du chiffre d'affaires, ni, en tout cas, à un minimum fixé annuellement par décret, compte tenu de
+l'évolution moyenne des salaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1980 - art. 2 (V)
+
+
+###### Article R124-10
+
+En cas d'absorption ou de fusion d'entreprises de travail temporaire, le montant de la garantie de l'entreprise ainsi formée
+ne peut être inférieur au montant des garanties cumulées desdites entreprises. En cas d'apport partiel d'actif, la garantie
+de l'entreprise bénéficiaire de l'apport devra être augmentée en fonction de l'augmentation du chiffre d'affaires résultant
+de l'apport.
+
+En cas de scission d'une entreprise de travail temporaire, le montant de sa garantie est ventilé entre les entreprises issues
+de la scission, proportionnellement à leur chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R124-11
+
+L'entreprise de travail temporaire doit être en possession, pour chacun de ses établissements, d'une attestation de garantie
+délivrée par le garant, indiquant notamment le nom et l'adresse de celui-ci, le montant, la date de prise d'effet et la date
+d'expiration de la garantie accordée. Cette attestation de garantie est tenue à la disposition de l'inspecteur du travail
+compétent et des agents de contrôle des organismes de sécurité sociale et institutions sociales mentionnés à l'article R.
+124-8.
+
+L'entreprise de travail temporaire adresse, dans les dix jours après l'obtention ou le renouvellement de la garantie
+financière, une copie de cette attestation à la direction départementale du travail et de l'emploi ou, pour les professions
+agricoles, au service départemental du travail et de la protection sociale agricoles, ainsi qu'aux organismes de sécurité
+sociale et institutions sociales compétents pour chacun des établissements concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1980 - art. 2 (V)
+	  - Code du travail - art. R124-13 (VT)
+	  - Code du travail - art. R152-5 (M)
+	  - Code du travail - art. R152-6-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R124-8
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1251-14 (V)
+
+
+###### Article R124-12
+
+Les entrepreneurs de travail temporaire sont tenus de faire figurer sur tous documents concernant leur entreprise, notamment
+sur les contrats de travail qui les tient à chacun des salariés mis à la disposition d'un utilisateur et les contrats de mise
+à disposition qu'ils concluent avec les utilisateurs, le nom et l'adresse de leur garant ainsi que la référence à l'article
+L. 124-8 du code du travail.
+
+Ces mêmes indications doivent être affichées [*obligatoirement*] de manière visible dans les locaux de leurs établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L124-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-13 (M)
+	  - Code du travail - art. R152-6 (M)
+	  - Code du travail - art. R152-6-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R152-6-1 : SANCTIONS PENALES
+
+
+###### Article R124-13
+
+Un arrêté conjoint du ministre chargé du travail, du ministre chargé de la sécurité sociale et du ministre chargé de
+l'agriculture fixe les modèles des attestations prévues à l'avant-dernier alinéa de l'article L. 124-8 et à l'article R.
+124-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+##### Paragraphe 2 : Dispositions particulières aux différents modes de garantie.
+
+###### Article R124-14
+
+La garantie financière prévue à l'article R. 124-7 ne peut être donnée par des sociétés de caution mutuelle que si celles-ci
+ont pour objet unique de garantir les créances définies à l'article R.124-8 et si elles remplissent les conditions fixées aux
+alinéas ci-après.
+
+Sans préjudice des mesures de contrôle prévues par le décret du 19 mai 1951 susvisé, elles ne peuvent exercer leur activité
+qu'après avoir été agréées par la chambre syndicale des banques populaires, qui doit approuver leurs statuts et leur
+règlement intérieur ainsi que toute modification de leur conditions de fonctionnement.
+
+La chambre syndicale de banques populaires nomme des délégués permanents auprès de ces sociétés. Elle peut se faire
+représenter à toutes les réunions du conseil d'administration ou de tout autre organe de direction, où doivent être prises
+des décisions engageant la société ; à cette fin, les convocations et les ordres du jour doivent être adressés au délégué
+permanent désigné par la chambre syndicale dans les mêmes conditions qu'aux membres du conseil d'administration ou de
+l'organe de direction. La chambre syndicale peut, en cas de besoin, provoquer une réunion extraordinaire de ces derniers.
+
+La participation de ces sociétés de caution mutuelle aux dépenses qu'entraîne, pour la chambre syndicale des banques
+populaires, sa mission d'assistance et de contrôle, est fixée par la convention passée entre celle-ci et chacune de ces
+sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R124-7 (M)
+	  - Code du travail - art. R124-8 (M)
+	  - Décret  1951-05-19
+
+
+###### Article R124-15
+
+L'engagement de caution prévu à l'article R. 124-7 ne peut être pris par un organisme de garantie collective agréé, une
+entreprise d'assurances, une banque ou un établissement financier habilité à donner caution que si l'organisme, l'entreprise,
+la banque ou l'établissement financier peut légalement exercer son activité en France [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R124-16
+
+L'engagement de caution doit faire l'objet d'un contrat écrit précisant les conditions et le montant de la garantie accordée
+ainsi que les modalités du contrôle comptable que le garant peut exercer sur l'entreprise de travail temporaire.
+
+Ce contrat doit stipuler la renonciation du garant, en cas de défaillance de l'entreprise de travail temporaire, au bénéfice
+de discussion prévu aux articles 2021 à 2024 du code civil.
+
+Le contrat est tenu, au siège de l'entreprise de travail temporaire, à la disposition de l'inspecteur du travail compétent et
+des agents de contrôle des organismes de sécurité sociale et des institutions sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code civil - art. 2021 (T)
+	  - Code civil - art. 2022 (T)
+	  - Code civil - art. 2023 (T)
+	  - Code civil - art. 2024 (M)
+
+
+##### Paragraphe 3 : Mise en oeuvre de la garantie.
+
+###### Article R124-17
+
+L'entrepreneur de travail temporaire est regardé comme défaillant au sens de l'article L. 124-8 lorsqu'à l'expiration d'un
+délai de quinze jours suivant la réception d'une mise en demeure, il n'a pas payé tout ou partie des dettes énumérées à
+l'article R. 124-8.
+
+La mise en demeure peut émaner soit d'un salarié, soit d'un organisme de sécurité sociale ou d'une institution sociale, dès
+lors que leurs créances sont certaines, liquides et exigibles ; elle est faite par lettre recommandée avec demande d'avis de
+réception [*condition de forme*]. Le garant est informé par le créancier, soit par lettre recommandée avec demande d'avis de
+réception, soit par lettre remise, dont il est délivré récépissé, de l'envoi de la mise en demeure.
+
+L'entrepreneur de travail temporaire est également regardé comme défaillant lorsqu'il fait l'objet d'un règlement judiciaire
+ou d'une liquidation de biens ; dans ce cas le garant est informé, dans les mêmes formes, par le syndic, du jugement qui l'a
+prononcé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L124-8 (M)
+	  - Code du travail - art. R124-8 (M)
+
+
+###### Article R124-18
+
+Dès la constatation de la défaillance de l'entrepreneur de travail temporaire, tout titulaire de l'une des créances définies
+à l'article R. 124-8 peut adresser au garant une demande de paiement par lettre recommandée avec avis de réception ou par
+lettre remise au destinataire, dont il est délivré récépissé [*condition de forme*].
+
+En cas de règlement judiciaire ou de liquidation de biens de l'entreprise de travail temporaire, le syndic adresse au garant,
+dans le délai de dix jours prévu à l'article 51 de la loi du 13 juillet 1967 susvisée et dans les formes prévues à l'alinéa
+précédent, un relevé, visé par le juge-commissaire, des salaires et cotisations impayés, précisant les droits de chacun des
+créanciers et éventuellement les sommes déjà versées par ses soins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R124-8 (M)
+	  - Loi   1967-07-13 ART. 51
+
+
+###### Article R124-19
+
+Le garant doit payer les sommes dues dans les dix jours suivant la réception de la demande de paiement [*délai point de
+départ*].
+
+Lorsque le reliquat des paiements demandés excède le montant de la garantie financière, les créances de même nature sont
+réglées au marc le franc.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R124-20
+
+Si le garant conteste l'existence, l'exigibilité ou le montant de la créance, le salarié ou l'organisme social peut
+l'assigner directement devant les juridictions compétentes [*recours*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R124-21
+
+Le garant qui a payé les sommes définies à l'article R. 124-8 est subrogé, à due concurrence, dans tous les droits des
+salariés, des organismes de sécurité sociale et des institutions sociales contre l'entrepreneur de travail temporaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+##### Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.
+
+###### Article R124-22
+
+En cas d'insuffisance de la caution, l'utilisateur est, malgré toute convention contraire et en dépit des obligations qui
+découlent pour l'entrepreneur de travail temporaire des dispositions des articles L. 143-11-1 à L. 143-11-7 du présent code,
+substitué à l'entrepreneur de travail temporaire pour le paiement des sommes définies à l'article R. 124-8, qui restent dues
+pour la durée de l'utilisation, par lui, des travailleurs temporaires.
+
+Dans ce cas, soit le salarié ou l'organisme de sécurité sociale ou l'institution sociale, soit, en cas de règlement
+judiciaire ou de liquidation de biens, le syndic, avise l'utilisateur de l'insuffisance de la caution en lui adressant une
+demande de paiement des sommes restant dues, par lettre recommandée avec demande d'avis de réception ou par lettre remise à
+l'utilisateur, dont il est délivré récépissé [*condition de forme*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°76-1282 du 29 décembre 1976 - art. 20-1 (Ab)
+	  - Code de la sécurité sociale. - art. R243-20-4 (T)
+	  - Code de la sécurité sociale. - art. R243-20-5 (V)
+	  - Code rural - art. R741-30 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R124-8 (M)
+	  - Code du travail L143-11-1 A L143-11-7, R124-8
+
+
+###### Article R124-23
+
+Les salariés ainsi que les organismes de sécurité sociale et les institutions sociales ont une action directe contre
+l'utilisateur ainsi substitué, même lorsque celui-ci s'est acquitté en tout ou en partie des sommes qu'il devait à
+l'entrepreneur de travail temporaire pour la mise à disposition des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R124-24
+
+L'utilisateur qui a payé les sommes définies à l'article R. 124-8 qui restaient dues est subrogé, à due concurrence, dans
+tous les droits des salariés, des organismes de sécurité sociale ou des institutions sociales contre l'entrepreneur de
+travail temporaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R124-25
+
+Lorsqu'un organisme de sécurité sociale poursuit à l'encontre de l'utilisateur, substitué à un entrepreneur de travail
+temporaire en raison de l'insuffisance de la caution, le remboursement de prestations sociales pour défaut de versement des
+cotisations dues, la somme réclamée ne peut être supérieure au montant des cotisations dues pour les salariés mis à la
+disposition provisoire de l'utilisateur par ledit entrepreneur dans les conditions prévues aux articles L. 124-3 et L. 124-4
+du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+##### Paragraphe 5 : Cessation de la garantie.
+
+###### Article R124-26
+
+Lorsque l'engagement de caution dont bénéficie une entreprise de travail temporaire prend fin pour quelque cause que ce soit,
+l'activité de cette entreprise, ne peut être poursuivie que si elle a obtenu, dans les conditions prévues par la présente
+section, un autre engagement de caution, de manière que le paiement des dettes définies à l'article R. 124-8 soit garanti
+sans interruption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1980 - art. 2 (V)
+
+
+###### Article R124-27
+
+En cas de cessation de la garantie, le garant est tenu d'en aviser dans un délai de trois jours à compter de la date à
+laquelle il en est informé, par lettre recommandée avec demande d'avis de réception [*condition de forme*], les directions
+départementales du travail et de l'emploi, ou, pour les professions agricoles, les services départementaux du travail et de
+la protection sociale agricoles ainsi que les organismes chargés du recouvrement des cotisations de sécurité sociale, dans la
+circonscription desquels sont situés le siège de l'entreprise de travail temporaire et chacun de ses établissements
+[*compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1980 - art. 2 (V)
+	  - Code du travail - art. R152-6 (M)
+	  - Code du travail - art. R152-6-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R152-6-1 : SANCTIONS PENALES
+
+
 #### Chapitre V : Marchandage.
 
 ###### Article R125-1
@@ -68107,236 +68566,6 @@ de la sécurité sociale, pour le trimestre précédent.
 	  - Code du travail - art. L124-12 (M)
 
 
-##### REGLES APPLICABLES A LA SUBSTITUTION DE L'UTILISATEUR A  L'ENTREPRENEUR DE TRAVAIL TEMPORAIRE EN CAS DE DEFAILLANCE DE  CELUI-CI .
-
-###### Article R124-7
-
-Est regardé comme défaillant [*définition*] pour l'application du deuxième alinéa de l'article L. 124-8 l'entrepreneur de
-travail temporaire qui n'a pas payé, à l'expiration d'un délai de quinze jours suivant la mise en demeure à lui adressée,
-tout ou partie des dettes énumérées au troisième alinéa du même article [*salaires, indemnités, cotisations obligatoires*] et
-dont il est redevable au titre d'une mission de travail temporaire.
-
-La mise en demeure fait l'objet d'une lettre recommandée avec demande d'avis de réception de la part, selon le cas, d'un
-salarié, d'un organisme de sécurité sociale ou d'une institution sociale.
-
-L'utilisateur est avisé de l'envoi de la mise en demeure, au choix du créancier, soit dans la forme prévue à l'alinéa
-précédent, soit par lettre remise et dont il est délivré récépissé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 6 mars 1980 - art. 2 (V)
-	  - Code du travail - art. R124-14 (M)
-	  - Code du travail - art. R124-15 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L124-8 (M)
-
-
-###### Article R124-8
-
-En cas de défaillance de l'entrepreneur de travail temporaire, l'utilisateur lui est substitué, nonobstant toute convention
-contraire, pour le paiement du salaire, des accessoires de celui-ci, de l'indemnité de précarité d'emploi et de l'indemnité
-compensatrice de congés payés, échus à la date de la mise en demeure ou à échoir ultérieurement au titre de la même mission
-de travail temporaire.
-
-Le salarié a une action directe contre l'utilisateur ainsi substitué, même lorsque celui-ci s'est acquitté en tout ou en
-partie des sommes qu'il devait à l'entrepreneur de travail temporaire à l'occasion de la mission du salarié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-11 (VT)
-	  - Code du travail - art. R124-14 (M)
-	  - Code du travail - art. R124-17 (VT)
-	  - Code du travail - art. R124-18 (VT)
-	  - Code du travail - art. R124-21 (VT)
-	  - Code du travail - art. R124-22 (VT)
-	  - Code du travail - art. R124-24 (VT)
-	  - Code du travail - art. R124-26 (VT)
-	  - Code du travail - art. R124-9 (M)
-
-
-###### Article R124-9
-
-L'utilisateur qui a payé les sommes [*salaires, indemnités de précarité d'emploi et de congés-payés*] définies au premier
-alinéa de l'article R. 124-8 est subrogé, à due concurrence, dans les droits et actions [*en justice*] du salarié contre
-l'entrepreneur de travail temporaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 6 mars 1980 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R124-8 (M)
-
-
-###### Article R124-10
-
-L'action en justice qu'à défaut de paiement volontaire le salarié exerce contre l'utilisateur est portée devant le conseil de
-prud'hommes [*compétence*], juge du contrat de travail temporaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R124-11
-
-Sont regardées, pour l'application du deuxième alinéa de l'article L. 124-8, comme institutions sociales les institutions
-qui, en vertu de dispositions législatives ou réglementaires ou de stipulations conventionnelles, perçoivent des cotisations
-obligatoires destinées à financer en tout ou en partie des prestations servies à des salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 6 mars 1980 - art. 2 (V)
-	  - Code du travail - art. R124-13 (VT)
-	  - Code du travail - art. R152-5 (M)
-	  - Code du travail - art. R152-6-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L124-8 (M)
-
-
-###### Article R124-12
-
-En cas de défaillance de l'entrepreneur de travail temporaire, l'utilisateur lui est substitué, nonobstant toute convention
-contraire, pour le paiement [*champ d'application*] des cotisations obligatoires dues aux organismes de sécurité sociale ou
-aux institutions sociales.
-
-Cette substitution est limitée au paiement des cotisations échues ou à échoir concernant les salariés mis à la disposition de
-l'utilisateur par l'entrepreneur de travail temporaire, conformément aux dispositions des articles L. 124-3 et L. 124-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L124-3 (M)
-	  - Code du travail - art. L124-4 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-13 (M)
-	  - Code du travail - art. R152-6 (M)
-	  - Code du travail - art. R152-6-1 (VT)
-
-
-###### Article R124-13
-
-Indépendamment des actions résultant soit de l'article R. 124-12, soit de l'article R. 124-3, les organismes de sécurité
-sociale du régime général et du régime agricole sont habilités [*attributions*], en cas de défaillance de l'entrepreneur de
-travail temporaire à faire application à l'égard de l'utilisateur des dispositions, soit de l'article L. 160 du code de la
-sécurité sociale, soit de celles de l'article 1033-1 ou de l'article 1176 du code rural tel que ce dernier résulte de la loi
-susvisée du 25 octobre 1972, lorsque les cotisations de sécurité sociale, échues antérieurement à la date de l'accident ou de
-l'arrêt de travail, ont été acquittées après cette date.
-
-Lorsque l'action ouverte par les dispositions susindiquées du code de la sécurité sociale ou du code rural est dirigée contre
-l'utilisateur, celui-ci n'est tenu à remboursement que dans la limite des cotisations et majorations de retard afférentes aux
-salariés mis à sa disposition conformément aux dispositions des articles L. 124-3 et L. 124-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L124-4 (M)
-	  - Code du travail - art. R124-12 (M)
-	  - Code du travail - art. R124-3 (M)
-	  - Code de la sécurité sociale L160
-	  - Code rural 1033-I, 1176
-	  - Loi   1978-10-25
-
-
-###### Article R124-14
-
-Un arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture fixe le modèle de
-l'attestation [*des organismes de sécurité sociale*] prévue à l'article L. 124-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03 ART. 8
-	  - Décret n°73-305 1973-03-13 ART. 8 et 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L124-8 (M)
-
-
 ### (LOUAGE DE SERVICE)
 
 #### CONTRAT DE TRAVAIL
@@ -68507,15 +68736,14 @@ l'ouverture de l'entreprise.
 
 ###### Article R132-1
 
-Le dépôt prévu à l'article L. 132-8 est opéré, en quatre [*nombre*] exemplaires, aux soins de la partie la plus diligente et
-à frais communs.
+Le dépôt des conventions et accords collectifs et de leurs avenants et annexes, prévu à l'article L. 132-8, est opéré en cinq
+[*nombre*] exemplaires signés des parties.
 
-Trois exemplaires du texte de la convention collective, de ses avenants et annexes et des accords collectifs, signés par les
-parties, sont adressés dans les deux jours [*délai*] suivant le dépôt, par le secrétaire ou le greffier, deux au ministère
-chargé du travail, l'autre à la direction départementale du travail et de la main-d'oeuvre.
+Les déclarations de dénonciation et d'adhésion, intervenues en application des articles L. 132-6 et L. 132-9 sont déposées
+selon les mêmes modalités, par la partie qui en est signataire, à la direction ou au service dépositaire de la convention
+qu'elles concernent.
 
-En ce qui concerne les professions agricoles, les trois exemplaires sont adressés, deux au ministères chargé de l'agriculture
-et le troisième à l'inspection départementale des lois sociales en agriculture.
+Un récépissé est délivré au déposant.
 
 **Liens relatifs à cet article**
 
@@ -68538,27 +68766,20 @@ et le troisième à l'inspection départementale des lois sociales en agricultur
 
 	**Cite**:
 
+	  - Code du travail - art. L132-6 (M)
 	  - Code du travail - art. L132-8 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 1031 d AL. 2, 3
+	  - Code du travail - art. L132-9 (M)
 
 
 ###### Article R132-2
 
-Il est donné gratuitement communication à toute personne intéressée des conventions collectives de travail. Des copies
-certifiées conformes peuvent en être délivrées aux frais du demandeur.
+Toute personne intéressée peut prendre communication et obtenir copie certifiée conforme des textes déposés.
 
-Les émoluments des secrétaires et greffiers, le mode de recouvrement de frais et honoraires et le mode de communication des
-conventions sont fixés par décret.
+La communication est gratuite. Les copies certifiées conformes sont délivrées aux frais du demandeur dans des conditions
+fixées par arrêté interministériel. Toutefois, dans le cas où une instance juridictionnelle est engagée, la copie de tout ou
+partie de la convention ou de l'accord en cause est délivrée gratuitement aux personnes intéressées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-1187 1965-12-20
-	  - Code du travail 1031 d
 
 	**Codifié par**:
 
