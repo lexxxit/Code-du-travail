@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-01-01 00:00:01 +0100
+Version Consolidée au 1976-02-29
 
 # Partie législative ancienne
 
@@ -67019,6 +67019,45 @@ ministres [*du travail, de l'économie et des finances*] visés à l'article R. 
 
 ### Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
+#### Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
+
+##### Section 1 : Travailleurs étrangers.
+
+###### Article R341-7-1
+
+Une autorisation provisoire de travail peut être délivrée à l'étranger qui est appelé à exercer chez un employeur déterminé,
+pendant une période dont la durée initialement prévue n'excède pas un an [*limite*] une activité présentant, par sa nature ou
+les circonstances de son exercice, un caractère temporaire.
+
+La durée de validité de cette autorisation ne peut dépasser six mois. Elle est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+	  - TXT_ASSOCIE: Circulaire 3 1976-02-24
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 novembre date d'entrée en vigueur 29 février 1976
+
+	**Abrogé par**:
+
+	  - Décret n°84-1079 1984-12-04 art. 3 jorf 5 décembre 1984
+
+	**Cité par**:
+
+	  - Arrêté du 24 février 1976 - art. 1 (Ab)
+	  - Code du travail - art. D121-1 (M)
+	  - Code du travail - art. R341-2 (M)
+	  - Code du travail - art. R341-8 (VT)
+
+
 #### Chapitre II : Protection de la main-d'oeuvre nationale.
 
 ###### Article R342-1
@@ -76580,9 +76619,453 @@ modalités spéciales d'exercice du contrôle sur l'établissement.
 	  - Décret n°73-1048 1973-11-15
 
 
+### MAIN-DOEUVRE ETRANGERES
+
+#### TRAVAILLEURS ETRANGERS .
+
+###### Article R341-1
+
+Tout étranger pour exercer à temps plein ou à temps partiel une activité professionnelle salariée en France métropolitaine,
+
+doit être titulaire d'un titre de travail [*formalité obligatoire*]
+
+en cours de validité.
+
+Ce titre est délivré à la demande de l'intéressé, par le ministre chargé du travail qui en fixe les caractéristiques par
+arrêté.
+
+Il comporte pour l'étranger l'autorisation d'exercer une ou plusieurs activités professionnelles salariées ou toute activité
+professionnelle salariée de son choix dans un ou plusieurs départements ou sur l'ensemble du territoire métropolitain.
+
+Il doit être présenté à toute réquisition des autorités chargées du contrôle des conditions de travail.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 novembre date d'entrée en vigueur 29 février 1976
+
+	**Cité par**:
+
+	  - Décret n°86-1267 du 8 décembre 1986 - art. 1 (V)
+	  - Décret n°94-211 du 11 mars 1994 - art. 17 (Ab)
+	  - Décret n°2005-968 du 10 août 2005 - art. 4 (Ab)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R811-4 (V)
+	  - Code du travail - art. R341-1-1 (VT)
+	  - Code du travail - art. R831-1 (Ab)
+
+
 ### MAIN-DOEUVRE ETRANGERE
 
 #### TRAVAILLEURS ETRANGERS .
+
+###### Article R341-2
+
+Sauf application des dispositions des articles R. 341-7-1 [*autorisation provisoire*] et R. 341-7-2 ci-dessous [*contrat
+d'introduction*] le titre de travail est constitué par une carte de travail. Les cartes de travail sont de trois types :
+
+Carte temporaire de travail dite "carte A" ;
+
+Carte ordinaire de travail dite "carte B" ;
+
+Carte de travail pour toutes professions salariées dite "carte C".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 novembre date d'entrée en vigueur 29 février 1976
+
+	**Cité par**:
+
+	  - Arrêté du 24 février 1976 - art. 1 (Ab)
+	  - Code du travail - art. R341-2-2 (VT)
+	  - Code du travail - art. R341-2-3 (VT)
+	  - Code du travail - art. R341-2-4 (VT)
+	  - Code du travail - art. R341-3 (VT)
+	  - Code du travail - art. R341-6 (VT)
+	  - Code du travail - art. R341-7 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R341-3 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. R341-7-1 (Ab)
+	  - Code du travail - art. R341-7-2 (M)
+
+
+###### Article R341-3
+
+L'étranger venu en France pour y exercer une activité professionnelle salariée doit joindre à la première demande de titre de
+travail qu'il souscrit le contrat de travail [*formalité obligatoire*] à durée déterminée, visé par les services du ministre
+chargé du travail, qu'il a dû présenter pour franchir la frontière.
+
+L'étranger établi en France doit joindre à sa demande de titre de travail un engagement de travail précisant la profession,
+le salaire offert, la durée hebdomadaire du travail assuré et le lieu effectif de l'emploi. Sont toutefois dispensés de la
+production de cet engagement de travail les étrangers à qui la carte de travail pour toutes professions salariées est
+délivrée de plein droit en vertu de l'article R. 341-7 ci-dessous.
+
+Pour l'application du présent article sont considérés comme établis en France :
+
+1. Les étrangers titulaires d'une carte de séjour de résident ordinaire ou de résident privilégié en cours de validité ;
+
+2. Les étrangers titulaires d'une carte de séjour de résident temporaire en cours de validité qui remplissent en outre l'une
+des conditions suivantes :
+
+Etre titulaire ou avoir été titulaire d'une carte de travailleur étranger ;
+
+Exercer ou avoir exercé régulièrement en France une activité professionnelle non-salariée ;
+
+Etre entré en France en qualité de membre de la famille d'un travailleur étranger ou avoir été admis au séjour en cette
+qualité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 NOVEMBRE 1975 date d'entrée en vigueur 29 février 1976
+
+	**Cité par**:
+
+	  - Décret n°2005-968 du 10 août 2005 - art. 4 (Ab)
+	  - Arrêté du 29 février 1976 - art. 1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R811-4 (V)
+	  - Code du travail - art. R341-3-1 (VT)
+	  - Code du travail - art. R341-4 (VT)
+	  - Code du travail - art. R341-4-1 (VT)
+	  - Code du travail - art. R341-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R341-2 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R341-7 (Ab)
+
+
+###### Article R341-3-1
+
+Le travailleur titulaire d'une carte de travail venant à expiration peut en demander le renouvellement dans les conditions
+prévues, pour chaque type de cartes, par les articles R. 341-5,
+
+R. 341-6 et R. 341-7 ci-dessous.
+
+Sauf s'il se trouve involontairement privé d'emploi et en dehors des cas de renouvellement de plein droit de la carte de
+travail pour toutes professions salariées mentionnées à l'article R. 341-7, l'intéressé doit joindre à sa demande un
+engagement de travail précisant la profession, le salaire offert, la durée hebdomadaire du travail et le lieu effectif
+d'emploi.
+
+Si l'étranger est involontairement privé d'emploi à la date de la demande de renouvellement de la carte de travail, la
+validité de celle-ci est automatiquement prolongée de trois mois s'il s'agit d'une carte temporaire (carte A) et d'un an s'il
+s'agit d'une carte ordinaire (carte B) ou d'une carte de travail pour toutes professions salariées (carte C).
+
+Le travailleur reste en possession de sa carte initiale jusqu'à la notification qui lui est faite de la décision prise sur sa
+demande de renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 novembre date d'entrée en vigueur 29 février 1976
+
+	**Cité par**:
+
+	  - Code du travail - art. R341-4-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R341-5 (Ab)
+	  - Code du travail - art. R341-6 (Ab)
+	  - Code du travail - art. R341-7 (Ab)
+
+
+###### Article R341-4
+
+Pour accorder ou refuser le titre de travail sollicité le ministre chargé du travail prend notamment en considération les
+éléments [*critères*] suivants d'appréciation :
+
+1. La situation de l'emploi présente et à venir dans la profession demandée par le travailleur étranger et dans la région où
+il compte exercer cette profession ;
+
+2. Les conditions d'application par l'employeur de la réglementation relative au travail ;
+
+3. Les conditions d'emploi et de rémunération offertes au travailleur étranger, qui doivent être identiques à celles dont
+bénéficient les travailleurs français ;
+
+4. Les dispositions prises par l'employeur pour assurer ou faire assurer, dans des conditions normales, le logement du
+travailleur étranger.
+
+Seuls les éléments d'appréciation mentionnés aux 2 et 3 ci-dessus sont pris en considération pour l'examen des demandes
+présentées par les réfugiés et par les apatrides. En outre, la situation de l'emploi n'est pas opposable à certaines
+catégories de travailleurs déterminées en fonction soit des liens entretenus avec la France par leur pays d'origine, soit des
+services qu'ils ont eux-mêmes rendus à la France. Un arrêté du ministre chargé du travail énumère ces catégories.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 14 décembre 1984 - art. 6 (V)
+	  - TXT_ASSOCIE: Arrêté du 8 avril 1991
+	  - TXT_SOURCE: Arrêté du 12 juillet 1996
+	  - TXT_SOURCE: Arrêté du 29 février 1976
+	  - TXT_SOURCE: Arrêté du 29 février 1976 - art. 1 (M)
+	  - TXT_SOURCE: Arrêté du 29 février 1976 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 février 1976 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 février 1976 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 novembre date d'entrée en vigueur 29 février 1976
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1984 - art. 5 (V)
+	  - Décret n°2005-968 du 10 août 2005 - art. 4 (Ab)
+	  - Arrêté du 29 février 1976 - art. 1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R811-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R341-5 (M)
+
+
+###### Article R341-5
+
+La carte temporaire dite carte A, donne à son titulaire le droit d'exercer une activité professionnelle salariée déterminée
+dans le ou les départements qui y sont mentionnés.
+
+Elle a une durée de validité d'un an. Elle est renouvelable.
+
+Les demandes de renouvellement doivent être présentées au service compétent un mois avant la date d'expiration de la carte.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 NOVEMBRE 1975 date d'entrée en vigueur 29 FEVRIER 1976
+
+	**Cité par**:
+
+	  - Décret n°2016-1456 du 28 octobre 2016 - art. 9
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-38 (M)
+	  - Code du travail - art. R341-3-1 (M)
+	  - Code du travail - art. R341-4 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R341-4 (Ab)
+	  - Code du travail - art. R341-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R341-6 (M)
+
+
+###### Article R341-6
+
+La carte ordinaire, dite carte B, donne à son titulaire le droit d'exercer dans le ou les départements indiqués dans ce
+document la ou les activités professionnelles salariées qui y sont mentionnées.
+
+Elle peut être délivrée à l'étranger titulaire de la carte A arrivant à expiration qui justifie d'un an de travail en cette
+qualité.
+
+Elle a une durée de validité de trois ans. Elle est renouvelable.
+
+A l'occasion de ce renouvellement, le travailleur étranger peut être appelé à faire la preuve qu'il a effectivement exercé,
+depuis la délivrance de la carte ou le dernier renouvellement de celle-ci, la où les professions mentionnées sur ladite
+carte.
+
+Les demandes de renouvellement doivent [*obligation*] être présentées au service compétent dans les trois mois [*délai*]
+précédant l'expiration de la validité de la carte.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 NOVEMBRE 1975 date d'entrée en vigueur 29 FEVRIER 1976
+
+	**Cité par**:
+
+	  - Code du travail - art. R341-3-1 (M)
+	  - Code du travail - art. R341-8 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R341-5 (Ab)
+
+
+###### Article R341-7
+
+La carte de travail pour toutes professions salariées, dite carte C, donne à son titulaire le droit d'exercer sur l'ensemble
+du territoire de la France métropolitaine toute activité professionnelle salariée de son choix dans le cadre de la
+législation applicable à l'exercice de cette profession.
+
+Elle peut être délivrée au travailleur étranger titulaire d'une carte B arrivant à expiration qui justifie de trois ans de
+travail en cette qualité. Elle peut l'être également au conjoint d'un ressortissant étranger titulaire d'une carte de séjour
+en cours de validité résidant en France depuis plus de quatre ans.
+
+Elle a une durée de validité de dix ans. Elle est renouvelable.
+
+A l'occasion de ce renouvellement, le travailleur étranger peut être appelé à justifier de l'activité professionnelle
+salariée qu'il a effectivement exercée depuis la délivrance de la carte ou le dernier renouvellement de celle-ci.
+
+Les demandes de renouvellement doivent [*obligation*] être présentées au service compétent dans les trois mois [*délai*]
+précédant l'expiration de la validité de la carte.
+
+La carte de travail pour toutes professions salariées est délivrée, ou renouvelée, de plein droit :
+
+1. A l'étranger qui remplit les conditions prévues au 4. alinéa de l'article L. 341-5 du code du travail ;
+
+2. Au conjoint d'un ressortissant de nationalité française ;
+
+3. Au conjoint d'un ressortissant d'un Etat membre de la Communauté économique européenne [*CEE*] exerçant en France une
+activité professionnelle et titulaire de la carte de séjour de ressortissant de la Communauté économique européenne ;
+
+4. Au jeune étranger justifiant, lors de sa première demande de titre de travail, avoir accompli au cours des trois années
+précédentes deux ans de scolarité en France à condition que l'un de ses parents ait résidé en France pendant plus de quatre
+ans ;
+
+5. Au réfugié ou apatride justifiant de trois années de résidence en France ou ayant un ou plusieurs enfants de nationalité
+française.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+	  - TXT_SOURCE: Décret n°91-995 du 24 septembre 1991
+	  - TXT_SOURCE: Arrêté du 9 juillet 1985
+	  - TXT_SOURCE: Arrêté du 9 juillet 1985 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 juillet 1985 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 juillet 1985 - art. Annexe N° 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 juillet 1985 - art. Annexe N° 2 (V)
+
+	**Cité par**:
+
+	  - Décret n°46-1574 du 30 juin 1946 - art. 7-1 (Ab)
+	  - Arrêté du 14 décembre 1984 - art. 3 (V)
+	  - Décret n°86-1267 du 8 décembre 1986 - art. 1 (V)
+	  - Décret n°94-211 du 11 mars 1994 - art. 17 (Ab)
+	  - Décret n°94-211 du 11 mars 1994 - art. 18 (Ab)
+	  - Décret n°2005-968 du 10 août 2005 - art. 4 (Ab)
+	  - Arrêté du 29 février 1976 - art. 1 (M)
+	  - Arrêté du 9 juillet 1985 - art. 1 (V)
+	  - Arrêté du 9 juillet 1985 - art. Annexe N° 1 (V)
+	  - Arrêté du 9 juillet 1985 - art. Annexe N° 2 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-17 (M)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. R811-4 (V)
+	  - Code du travail - art. D121-1 (VT)
+	  - Code du travail - art. R341-1 (M)
+	  - Code du travail - art. R341-2 (M)
+	  - Code du travail - art. R341-3 (M)
+	  - Code du travail - art. R341-3-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 NOVEMBRE 1975 date d'entrée en vigueur 29 FEVRIER 1976
+
+	**Cite**:
+
+	  - Code du travail - art. L341-5 (Ab)
+
+
+###### Article R341-7-2
+
+Le contrat d'introduction de travailleur saisonnier visé par les services du ministre chargé du travail donne à son titulaire
+le droit d'exercer l'activité professionnelle salariée qui y est portée pendant sa durée de validité chez l'employeur qui a
+signé ce contrat.
+
+Cette durée de validité est au maximum de huit mois [*limite*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1976-02-24 : DATE D'ENTREE EN VIGUEUR DU DECRET 1088 DU 21 NOVEMBRE 1975
+	  - TXT_ASSOCIE: Circulaire 5 1976-03-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-1088 1975-11-21 ART. 1 JORF 25 NOVEMBRE 1975 date d'entrée en vigueur 29 FEVRIER 1976
+
+	**Cité par**:
+
+	  - Décret n°86-1267 du 8 décembre 1986 - art. 1 (V)
+	  - Décret n°94-211 du 11 mars 1994 - art. 17 (Ab)
+	  - Décret n°94-211 du 11 mars 1994 - art. 18 (Ab)
+	  - Arrêté du 29 février 1976 - art. 3 (Ab)
+	  - Code du travail - art. R341-2 (M)
+
 
 ###### Article R341-8
 
