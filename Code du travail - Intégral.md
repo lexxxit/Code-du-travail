@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-01-17
+Version Consolidée au 1982-02-01
 
 # Partie législative ancienne
 
@@ -791,6 +791,38 @@ terme.
 	**Cite**:
 
 	  - Code du travail - art. L122-12 (M)
+
+
+##### Chapitre VII bis : Du statut de l'apprenti.
+
+###### Article L117 BIS-3
+
+Les apprentis de l'un ou de l'autre sexe âgés de moins de dix-huit ans [*jeunes*] ne peuvent être employés [*interdiction*] à
+un travail effectif excédant huit heures par jour non plus que la durée fixée, pour une semaine, par l'article L. 212-1 et
+par l'article 992 du Code rural.
+
+Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la
+limite de cinq heures par semaine, par l'inspecteur du travail, après avis conforme du médecin du travail de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 992
+	  - Code du travail - art. L212-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 28 JORF 17 janvier date d'entrée en vigueur 1er février 1982
+	  - Ordonnance 82-109 1982-01-30 ART. 14 JORF 31 janvier date d'entrée en vigueur 1er février 1982
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R151-4 : SANCTIONS PENALES
 
 
 ##### Chapitre VIII : Dispositions financières.
@@ -7953,28 +7985,6 @@ contraire dans le contrat.
 	  - Décret n°73-1046 1973-11-15
 
 
-##### STATUT DE L'APPRENTI .
-
-###### Article L117 BIS-3
-
-/A/Dans les établissements ou dans les professions mentionnés à l'article L. 200-1/A/LOI 13 1979-01-03// Les apprentis de
-l'un ou de l'autre sexe âgés de moins de dix-huit ans [*jeunes*] ne peuvent être employés [*interdiction*] à un travail
-effectif de plus de huit heures par jour et de quarante heures par semaine [*durée maximum*].
-
-Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la
-limite de cinq heures par semaine, par l'inspecteur du travail, après avis conforme du médecin du travail de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L200-1 (AbD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ### CONTRAT DE TRAVAIL .
 
 ###### Article L120-1
@@ -12399,81 +12409,565 @@ justification, il en est donné avis immédiat au parquet.
 
 ##### Section 1 : Dispositions générales.
 
-###### Article L212-2-1
+###### Article L212-1
 
-Sous réserve des articles L. 212-9 et L. 212-13 et sauf stipulation contraire résultant d'une convention collective, lorsque
-la durée hebdomadaire du travail n'excède pas quarante heures, les employeurs peuvent, sur avis conforme du comité
-d'entreprise ou, à défaut, des délégués du personnel, et après en avoir informé l'inspecteur du travail et de l'emploi,
-déroger aux dispositions des décrets pris en application de l'article L. 212-2 en répartissant la durée hebdomadaire, soit
-sur quatre jours ouvrables, la répartition journalière devant alors être égale, soit sur quatre jours et demi.
+Dans les établissements ou les professions mentionnés à l'article L. 200-1 ainsi que dans les établissements artisanaux et
+coopératifs ou dans leurs dépendances, la durée légale du travail effectif des salariés est fixée à trente-neuf heures par
+semaine.
+
+Dans ces mêmes établissements et professions, la durée [*maximum*] quotidienne du travail effectif par salarié ne peut
+excéder dix heures, sauf dérogations dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 82-41 1982-01-16 ART. 3 : Toutefois, sous réserve de l'application de l'article L. 212-1, ces dispositions demeurent en vigueur jusqu'à l'intervention des mesures réglementaires précisant les conditions dans lesquelles la durée hebdomadair
-
-	**Abrogé par**:
-
-	  - Ordonnance 82-41 1982-01-16 ART. 3 JORF 17 JANVIER en vigueur le 1er FEVRIER 1982
-
 	**Cité par**:
 
+	  - Décret n°77-1465 du 28 décembre 1977 - art. 6 (Ab)
+	  - Décret n°78-1155 du 12 décembre 1978 - art. 1 (V)
+	  - Décret n°79-1155 du 28 décembre 1979 - art. 1 (V)
+	  - Ordonnance n°82-41 du 16 janvier 1982 - art. 26 (AbD)
+	  - Ordonnance n°82-272 du 26 mars 1982
+	  - Décret n°83-40 du 26 janvier 1983 - art. 2 (VT)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 4 (VT)
 	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
-	  - Loi n°93-1313 du 20 décembre 1993 - art. 39 (Ab)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 10 (M)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 8 (M)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 9 (M)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 8 (V)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 2 (VT)
-	  - Loi n°2016-1088 du 8 août 2016 - art. 12 (V)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 7 (An)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 9 (M)
+	  - Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 2 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 3 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 5 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 6 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 7 (Ab)
+	  - Décret n°88-361 du 15 avril 1988 - art. 2 (Ab)
+	  - Décret n°89-130 du 27 février 1989 - art. 2 (Ab)
+	  - Décret n°90-107 du 30 janvier 1990 - art. 1 (Ab)
+	  - Décret n°90-107 du 30 janvier 1990 - art. 2 (Ab)
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 15 (V)
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 9 (Ab)
+	  - Décret n°95-320 du 22 mars 1995 - art. 5 (Ab)
+	  - Décret n°95-320 du 22 mars 1995 - art. 6 (Ab)
+	  - Décret n°95-341 du 29 mars 1995 - art. 1 (Ab)
+	  - Décret n°95-341 du 29 mars 1995 - art. 2 (Ab)
+	  - Décret n°95-925 du 19 août 1995 - art. 10 (Ab)
+	  - Décret n°95-925 du 19 août 1995 - art. 9 (Ab)
+	  - Décret n°97-326 du 10 avril 1997 - art. 5 (V)
+	  - Loi n°98-461 du 13 juin 1998 - art. 3 (M)
+	  - Décret n°98-766 du 31 août 1998 - art. 1 (V)
+	  - Décret n°99-256 du 31 mars 1999 - art. 3 (V)
+	  - Décret n°99-735 du 27 août 1999 - art. 1 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 1 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
+	  - Décret n°2001-755 du 29 août 2001 - art. 1 (V)
+	  - Décret n°2001-1223 du 21 décembre 2001 - art. 1 (V)
+	  - Décret n°2002-374 du 20 mars 2002 - art. 3 (VT)
+	  - Décret n°2002-396 du 22 mars 2002 - art. 2 (V)
+	  - Décret n°2002-396 du 22 mars 2002 - art. 3 (V)
+	  - Décret n°2002-396 du 22 mars 2002 - art. 4 (V)
+	  - Décret n°2002-595 du 22 avril 2002 - art. 2 (V)
+	  - Décret n°2002-1526 du 24 décembre 2002 - art. 2 (V)
+	  - Décret n°2002-1526 du 24 décembre 2002 - art. 3 (V)
+	  - Décret n°2002-1526 du 24 décembre 2002 - art. 4 (V)
+	  - Décret n°2002-1526 du 24 décembre 2002 - art. 5 (V)
+	  - Décret n°2003-840 du 1 septembre 2003 - art. 2 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 8 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-4 (V)
+	  - Décret n°2003-1194 du 15 décembre 2003 - art. 2 (V)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 3 (VT)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 4 (VT)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 5 (VT)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 9 (VT)
+	  - Décret n°2003-1390 du 31 décembre 2003 - art. 2 (V)
+	  - Décret n°2003-1390 du 31 décembre 2003 - art. 3 (V)
+	  - Décret n°2004-1536 du 30 décembre 2004 - art. 2 (An)
+	  - Décret n°2004-1536 du 30 décembre 2004 - art. 3 (An)
+	  - Décret n°2005-40 du 20 janvier 2005 - art. 2 (V)
+	  - CODE DES COMMUNES. - art. R*121-24 (Ab)
+	  - Code de l'action sociale et des familles - art. L313-23-2 (V)
+	  - Code de l'action sociale et des familles - art. L546-3 (Ab)
+	  - Code de l'action sociale et des familles - art. R243-10 (M)
 	  - Code de l'aviation civile - art. D422-10 (V)
-	  - Code du travail - art. D341-5-4 (V)
-	  - Code du travail - art. L212-8-5 (M)
+	  - Code de l'aviation civile - art. D422-4 (V)
+	  - Code de l'aviation civile - art. R427-1 (V)
+	  - Code de la sécurité sociale. - art. L241-13-1 (Ab)
+	  - Code de la sécurité sociale. - art. R133-8 (M)
+	  - Code de la sécurité sociale. - art. R434-30 (V)
+	  - Code de la sécurité sociale. - art. R434-31 (T)
+	  - Code de la sécurité sociale. - art. R721-58 (Ab)
+	  - Code du travail - art. D212-12 (Ab)
+	  - Code du travail - art. D212-13 (T)
+	  - Code du travail - art. D212-16 (VT)
+	  - Code du travail - art. D212-17 (T)
+	  - Code du travail - art. L117 BIS-3 (AbD)
+	  - Code du travail - art. L133-5 (M)
+	  - Code du travail - art. L212-13 (AbD)
+	  - Code du travail - art. L212-15-3 (AbD)
+	  - Code du travail - art. L212-2 (AbD)
+	  - Code du travail - art. L212-2-1 (Ab)
+	  - Code du travail - art. L212-4-7 (AbD)
+	  - Code du travail - art. L212-5 (AbD)
+	  - Code du travail - art. L212-8 (AbD)
+	  - Code du travail - art. L212-9 (AbD)
+	  - Code du travail - art. L213-11 (VT)
+	  - Code du travail - art. L322-4-12 (VT)
+	  - Code du travail - art. L322-4-15-4 (AbD)
+	  - Code du travail - art. L322-4-9 (Ab)
+	  - Code du travail - art. L441-4 (AbD)
+	  - Code du travail - art. L900-2-1 (AbD)
+	  - Code du travail - art. L981-10 (Ab)
+	  - Code du travail - art. L981-7 (AbD)
+	  - Code du travail - art. R261-3 (VT)
+	  - Code du travail - art. R261-4 (VT)
+	  - Code du travail - art. R322-17-15 (VT)
+	  - Code du travail - art. R323-123 (VT)
+	  - Code du travail - art. R323-125 (VT)
+	  - Code du travail - art. R960-6 (T)
+	  - Code du travail - art. R961-6 (VT)
+	  - Code du travail maritime - art. 24 (V)
+	  - Code du travail maritime - art. 24-2 (V)
+	  - Code du travail maritime - art. 25 (V)
+	  - Code du travail maritime - art. 26 (M)
+	  - Code général des collectivités territoriales - art. D4134-27 (V)
+	  - Code général des collectivités territoriales - art. R2123-10 (T)
+	  - Code général des collectivités territoriales - art. R2123-9 (V)
+	  - Code général des collectivités territoriales - art. R3123-7 (V)
+	  - Code général des collectivités territoriales - art. R4135-7 (M)
+	  - Code rural - art. L713-19 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 1 JORF 17 janvier en vigueur le 1er février 1982
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 5 (V)
+	  - SPEC_APPLI: Décret n°99-735 du 27 août 1999
+	  - SPEC_APPLI: Décret n°99-735 du 27 août 1999 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°99-977 du 30 novembre 1999
+	  - TXT_ASSOCIE: Décret n°99-977 du 30 novembre 1999 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°99-977 du 30 novembre 1999 - art. 2 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R261-3 (V)
+	  - TXT_ASSOCIE: Code du travail R261-3 : SANCTIONS PENALES
 
 	**Cite**:
 
-	  - Code du travail - art. L212-13 (M)
-	  - Code du travail - art. L212-2 (M)
-	  - Code du travail - art. L212-9 (M)
+	  - Code du travail - art. L200-1 (AbD)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L212-3
+###### Article L212-2
 
-L'application des dispositions de l'article précédent ne porte aucune atteinte aux usages ou aux conventions collectives de
-travail qui fixeraient des limites inférieures.
+Des décrets en conseil des ministres déterminent les modalités d'application de l'article précédent pour l'ensemble des
+branches d'activité ou des professions ou pour une branche ou une profession particulière. Les décrets fixent notamment
+l'aménagement et la répartition des horaires de travail, les dérogations permanentes ou temporaires applicables dans certains
+cas et pour certains emplois, les modalités de récupération des heures de travail perdues et les mesures de contrôle de ces
+diverses dispositions.
+
+Ces décrets sont pris et révisés après consultation des organisations d'employeurs et de salariés intéressées et au vu, le
+cas échéant, des résultats des négociations intervenues entre ces dernières.
+
+Il peut être dérogé par convention ou accord collectif étendu ou par accord collectif d'entreprise ou d'établissement à
+celles des dispositions de ces décrets qui sont relatives à l'aménagement et à la répartition des horaires de travail, ainsi
+qu'à la récupération des heures de travail perdues.
+
+En cas de dénonciation ou de non-renouvellement de ces conventions ou accords collectifs, les dispositions de ces décrets
+auxquelles il avait été dérogé redeviennent applicables.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Ordonnance 82-41 1982-01-16 ART. 3 : Toutefois, sous réserve de l'application de l'article L. 212-1, ces dispositions demeurent en vigueur jusqu'à l'intervention des mesures réglementaires précisant les conditions dans lesquelles la durée hebdomadair
+	  - Décret n°77-1465 du 28 décembre 1977 - art. 6 (Ab)
+	  - Ordonnance n°82-41 du 16 janvier 1982 - art. 25 (V)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 3 (M)
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 15 (V)
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 9 (Ab)
+	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
+	  - Décret  n°2007-353 du 17 mars 2007 - art. 3 (VT)
+	  - CODE DES COMMUNES. - art. R*121-24 (Ab)
+	  - Code de l'action sociale et des familles - art. R243-10 (M)
+	  - Code de l'aviation civile - art. R427-1 (V)
+	  - Code de la sécurité sociale. - art. R434-30 (V)
+	  - Code de la sécurité sociale. - art. R434-31 (T)
+	  - Code du travail - art. D212-12 (M)
+	  - Code du travail - art. D212-13 (T)
+	  - Code du travail - art. D212-18 (VT)
+	  - Code du travail - art. L133-5 (M)
+	  - Code du travail - art. L212-2-1 (Ab)
+	  - Code du travail - art. L212-3 (Ab)
+	  - Code du travail - art. L221-24 (AbD)
+	  - Code du travail - art. L711-2 (AbD)
+	  - Code du travail - art. L821-1 (Ab)
+	  - Code du travail - art. R261-3 (VT)
+	  - Code du travail - art. R5221-21 (M)
+	  - Code général des collectivités territoriales - art. D4134-27 (V)
+	  - Code général des collectivités territoriales - art. R2123-10 (T)
+	  - Code général des collectivités territoriales - art. R2123-9 (V)
+	  - Code général des collectivités territoriales - art. R3123-7 (V)
+	  - Code général des collectivités territoriales - art. R4135-7 (M)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance 82-41 1982-01-16 ART. 3 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1222-7 (VD)
-	  - Code du travail - art. L142-1 (AbD)
+	  - Ordonnance 82-41 1982-01-16 ART. 2 JORF 17 janvier en vigueur le 1er février 1982
 
 	**Cite**:
 
-	  - Code du travail - art. L212-2 (M)
+	  - Code du travail - art. L212-1 (M)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code du travail 2010
+	  - TXT_ASSOCIE: Code du travail - art. R261-3 (V)
+	  - TXT_ASSOCIE: Code du travail R261-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### SECTION 3 : HEURES SUPPLEMENTAIRES.
+
+###### Article L212-5
+
+Dans les industries et les professions assujetties à la réglementation de la durée du travail, les heures supplémentaires
+effectuées au-delà de la durée hebdomadaire du travail fixée par l'article L. 212-1 ou de la durée considérée comme
+équivalente donnent lieu à une majoration de salaire fixée comme suit [*montant*] :
+
+25 p. 100 pour les huit premières heures ;
+
+50 p. 100 pour les heures suivantes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 5 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
 
 	**Cité par**:
 
-	  - Code rural - art. L713-19 (M)
-	  - Code rural ancien - art. 992-3 (Ab)
+	  - Décret n°87-897 du 30 octobre 1987 - art. 2 (V)
+	  - Décret n°88-361 du 15 avril 1988 - art. 3 (Ab)
+	  - Loi n°88-1202 du 30 décembre 1988 - art. 48 (V)
+	  - Décret n°91-342 du 3 avril 1991 - art. 5 (Ab)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 42 (Ab)
+	  - Décret n°95-1073 du 28 septembre 1995 - art. 10 (M)
+	  - Décret n°95-1073 du 28 septembre 1995 - art. 8 (M)
+	  - Décret n°95-1073 du 28 septembre 1995 - art. 9 (M)
+	  - Décret n°99-256 du 31 mars 1999 - art. 4 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 28 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 8 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 11 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 18 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 19 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 21 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
+	  - Loi n°2005-296 du 31 mars 2005 - art. 4 (V)
+	  - Loi n°2008-111 du 8 février 2008 - art. 2 (V)
+	  - Loi n°2008-111 du 8 février 2008 - art. 4 (V)
+	  - Code de la sécurité sociale. - art. D241-25 (VT)
+	  - Code de la sécurité sociale. - art. D241-7 (V)
+	  - Code de la sécurité sociale. - art. L131-10 (M)
+	  - Code de la sécurité sociale. - art. L241-13 (V)
+	  - Code du travail - art. D212-19 (M)
+	  - Code du travail - art. D212-22 (VT)
+	  - Code du travail - art. L142-1 (AbD)
+	  - Code du travail - art. L212-10 (AbD)
+	  - Code du travail - art. L212-15-4 (AbD)
+	  - Code du travail - art. L212-18 (VT)
+	  - Code du travail - art. L212-2-1 (Ab)
+	  - Code du travail - art. L212-4-7 (AbD)
+	  - Code du travail - art. L212-5-1 (AbD)
+	  - Code du travail - art. L212-6-1 (AbD)
+	  - Code du travail - art. L212-7-1 (AbD)
+	  - Code du travail - art. L212-8 (AbD)
+	  - Code du travail - art. L212-8-2 (Ab)
+	  - Code du travail - art. L212-8-5 (M)
+	  - Code du travail - art. L212-9 (AbD)
+	  - Code du travail - art. L227-1 (VT)
+	  - Code du travail - art. L620-2 (M)
+	  - Code du travail - art. R261-4 (VT)
+	  - Code du travail maritime - art. 26 (V)
+	  - Code rural - art. L713-19 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 5 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R261-4 (V)
+	  - TXT_ASSOCIE: Code du travail R261-4 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-5-1
+
+Les heures supplémentaires de travail visées à l'article L. 212-5 ouvrent droit à un repos compensateur obligatoire dont la
+durée est égale à 20 p. 100 du temps de travail accompli en heures supplémentaires au-delà de quarante-deux heures, dans les
+entreprises de plus de dix salariés [*effectif*].
+
+Dans toutes les entreprises, les heures supplémentaires effectuées au-delà du contingent fixé par le décret prévu au 1er
+alinéa de l'article L. 212-6 ouvrent droit à un repos compensateur obligatoire dont la durée est égale à 50 p. 100 de ces
+heures supplémentaires. Le repos prévu au premier alinéa du présent article ne leur est pas applicable.
+
+Le repos ne peut être pris que par journée entière, chacune étant réputée correspondre à huit heures de repos compensateur, à
+la convenance du salarié, en dehors d'une période fixée par voie réglementaire. Toutefois, ce repos pourra être pris par
+demi-journée dans certains secteurs d'activité déterminés par décret. Ce repos qui est assimilé à une période de travail
+effectif pour le calcul des droits du salarié donne lieu à une indemnisation qui ne doit entraîner aucune diminution par
+rapport à la rémunération que le salarié aurait perçue s'il avait accompli son travail.
+
+Un décret détermine, pour les travailleurs des entreprises qui ne relèvent pas d'un accord conclu, en ce domaine, entre des
+organisations syndicales d'employeurs et de salariés les plus représentatives au plan national :
+
+Les modalités d'information par l'employeur des droits acquis par le salarié ;
+
+Le délai de présentation à l'employeur de la demande du bénéfice du repos compensateur ;
+
+Le délai maximum suivant l'ouverture du droit pendant lequel le repos doit obligatoirement être pris ;
+
+Les conditions dans lesquelles l'attribution du repos compensateur peut être différée compte tenu des impératifs liés au
+fonctionnement de l'entreprise ou de l'exploitation.
+
+A défaut d'accord entre des organisations syndicales d'employeurs et de salariés les plus représentatives au plan national,
+un décret fixe également les modalités d'application du présent article en cas d'activités saisonnières.
+
+Le salarié dont le contrat de travail est résilié [*rupture*] avant qu'il ait pu bénéficier du repos compensateur auquel il a
+droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos [*condition*] reçoit une indemnité en
+espèces correspondant à ses droits acquis, déterminés suivant les modalités prévues au présent article. Cette indemnité est
+due sans qu'il y ait lieu de distinguer suivant que cette résiliation résulte du fait du salarié ou du fait de l'employeur.
+Elle est également due aux ayants droit du salarié dont le décès survient avant qu'il ait pu bénéficier du repos compensateur
+auquel il avait droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos. Elle est alors versée à
+ceux des ayants droit qui auraient qualité pour obtenir le paiement des salaires arriérés.
+
+L'indemnité ci-dessus a le caractère de salaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 6 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
+
+	**Cité par**:
+
+	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 9 (M)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 6 (M)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 7 (Ab)
+	  - Décret n°87-897 du 30 octobre 1987 - art. 2 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 19 (M)
+	  - Décret n°2000-150 du 23 février 2000 - art. 1 (V)
+	  - Décret n°2001-1202 du 17 décembre 2001 - art. 1 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
+	  - Code du travail - art. D212-10 (VT)
+	  - Code du travail - art. D212-22 (VT)
+	  - Code du travail - art. D212-6 (VT)
+	  - Code du travail - art. D744-1 (V)
+	  - Code du travail - art. D744-2 (V)
+	  - Code du travail - art. D744-3 (V)
+	  - Code du travail - art. L212-10 (AbD)
+	  - Code du travail - art. L212-18 (VT)
+	  - Code du travail - art. L212-4-7 (AbD)
+	  - Code du travail - art. L212-5 (AbD)
+	  - Code du travail - art. L212-6 (M)
+	  - Code du travail - art. L212-6-1 (AbD)
+	  - Code du travail - art. L212-7-1 (AbD)
+	  - Code du travail - art. L212-8 (AbD)
+	  - Code du travail - art. L212-8-1 (Ab)
+	  - Code du travail - art. L212-8-2 (Ab)
+	  - Code du travail - art. L212-9 (AbD)
+	  - Code du travail - art. L223-11 (AbD)
+	  - Code du travail - art. L223-4 (AbD)
+	  - Code du travail - art. L227-1 (VT)
+	  - Code du travail - art. R261-4 (VT)
+	  - Code du travail maritime - art. 26-1 (V)
+	  - Code rural - art. L713-19 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R261-4 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-6
+
+Un décret détermine un contingent annuel d'heures supplémentaires pouvant être effectuées après information de l'inspecteur
+du travail et, s'ils existent, du comité d'entreprise ou à défaut des délégués du personnel.
+
+Un contingent d'un volume supérieur ou inférieur peut être fixé par une convention ou un accord collectif étendu.
+
+A défaut de détermination du contingent par voie conventionnelle, les modalités de son utilisation doivent donner lieu au
+moins une fois par an [*périodicité*] à une consultation du comité d'entreprise ou des délégués du personnel s'ils existent,
+à moins que celles-ci ne soient prévues par une convention ou un accord d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 7 JORF 17 JANVIER 1982 en vigueur le 1er février 1982
+
+	**Cité par**:
+
+	  - Décret n°82-101 du 27 janvier 1982 - art. 1 (Ab)
+	  - Décret n°82-946 du 5 novembre 1982 - art. 1 (V)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 9 (VT)
+	  - Décret n°83-1009 du 2 novembre 1983 - art. 1 (V)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 6 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 7 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 8 (Ab)
+	  - Décret n°87-897 du 30 octobre 1987 - art. 2 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (V)
+	  - Décret n°2000-82 du 31 janvier 2000 - art. 1 (An)
+	  - Décret n°2000-82 du 31 janvier 2000 - art. 2 (An)
+	  - Décret n°2001-941 du 15 octobre 2001 - art. 4 (V)
+	  - Décret n°2002-625 du 25 avril 2002 - art. 1 (Ab)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 18 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 19 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 21 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 5 (VT)
+	  - Décret n°2005-306 du 31 mars 2005 - art. 15 (V)
+	  - Loi n°2005-296 du 31 mars 2005 - art. 4 (V)
+	  - Loi n°2008-111 du 8 février 2008 - art. 1 (V)
+	  - Code du travail - art. D212-18 (VT)
+	  - Code du travail - art. D212-25 (VT)
+	  - Code du travail - art. L142-1 (AbD)
+	  - Code du travail - art. L212-10 (AbD)
+	  - Code du travail - art. L212-16 (VT)
+	  - Code du travail - art. L212-5 (AbD)
+	  - Code du travail - art. L212-5-1 (AbD)
+	  - Code du travail - art. L212-6-1 (AbD)
+	  - Code du travail - art. L212-7 (AbD)
+	  - Code du travail - art. L212-7-1 (AbD)
+	  - Code du travail - art. L212-8 (AbD)
+	  - Code du travail - art. L212-8-1 (Ab)
+	  - Code du travail - art. L212-9 (AbD)
+	  - Code du travail - art. L932-1 (AbD)
+	  - Code du travail - art. R261-4 (VT)
+	  - Code rural - art. L713-19 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-946 du 5 novembre 1982
+	  - TXT_SOURCE: Décret n°82-946 du 5 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2002-625 du 25 avril 2002
+	  - TXT_SOURCE: Décret n°2002-625 du 25 avril 2002 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2002-625 du 25 avril 2002 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. R261-4 (V)
+	  - TXT_ASSOCIE: Code du travail R261-4 : SANCTIONS PENALES
+
+
+###### Article L212-8
+
+Sans préjudice des dispositions des articles L. 212-5 et du premier alinéa de l'article L. 212-5-1, la durée hebdomadaire du
+travail peut varier à condition que sur un an, cette durée n'excède pas en moyenne [*annuelle*] la durée légale fixée à
+l'article L. 212-1 et que les conditions de sa modulation soient prévues par une convention ou un accord collectif étendu ou
+par un accord collectif d'entreprise ou d'établissement. Dans ce cas, sauf dispositions conventionnelles différentes, seules
+les heures de travail effectuées au-delà de cette durée moyenne s'imputent sur le contingent prévu à l'article L. 212-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 9 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
+
+	**Cité par**:
+
+	  - Décret n°83-40 du 26 janvier 1983 - art. 4 (VT)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (Ab)
+	  - Décret n°83-1111 du 19 décembre 1983 - art. 3 (Ab)
+	  - Décret n°91-342 du 3 avril 1991 - art. 4 (Ab)
+	  - Décret n°91-342 du 3 avril 1991 - art. 5 (Ab)
+	  - Décret n°95-1073 du 28 septembre 1995 - art. 10 (M)
+	  - Décret n°95-1073 du 28 septembre 1995 - art. 8 (M)
+	  - Décret n°95-1073 du 28 septembre 1995 - art. 9 (M)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 8 (V)
+	  - Décret n°2000-82 du 31 janvier 2000 - art. 1 (An)
+	  - Décret n°2000-89 du 2 février 2000 - art. 8 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
+	  - Arrêté du 24 décembre 2002 - art. 2 (Ab)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 2 (VT)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 4 (VT)
+	  - Loi n°2004-626 du 30 juin 2004 - art. 5 (V)
+	  - Décret n°2004-821 du 18 août 2004 - art. 3 (V)
+	  - Loi n°2016-1088 du 8 août 2016 - art. 12 (V)
+	  - Code de la sécurité sociale. - art. D241-12 (Ab)
+	  - Code de la sécurité sociale. - art. D241-20 (Ab)
+	  - Code de la sécurité sociale. - art. D241-27 (VT)
+	  - Code du travail - art. D212-19 (VT)
+	  - Code du travail - art. D212-23 (VT)
+	  - Code du travail - art. D212-25 (VT)
+	  - Code du travail - art. L142-1 (AbD)
+	  - Code du travail - art. L212-10 (M)
+	  - Code du travail - art. L212-18 (VT)
+	  - Code du travail - art. L212-4-7 (AbD)
+	  - Code du travail - art. L212-6 (AbD)
+	  - Code du travail - art. L212-8-1 (Ab)
+	  - Code du travail - art. L212-8-2 (Ab)
+	  - Code du travail - art. L212-8-3 (Ab)
+	  - Code du travail - art. L212-8-4 (Ab)
+	  - Code du travail - art. L212-8-5 (AbD)
+	  - Code du travail - art. L212-9 (T)
+	  - Code du travail - art. L223-2 (AbD)
+	  - Code du travail - art. L223-9 (AbD)
+	  - Code du travail - art. L441-4 (AbD)
+	  - Code du travail - art. L620-2 (AbD)
+	  - Code du travail maritime - art. 24-2 (V)
+	  - Code rural ancien - art. 993-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (M)
+	  - Code du travail - art. L212-5 (M)
+	  - Code du travail - art. L212-5-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L212-8-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code rural - art. L713-14 (M)
+	  - Code rural - art. L713-15 (M)
+	  - Code rural - art. L713-16 (V)
 
 	**Codifié par**:
 
@@ -12655,6 +13149,53 @@ levées pour certaines industries désignées par un règlement d'administration
 
 ##### SECTION 5 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
 
+###### Article L212-13
+
+Dans les établissements ou dans les professions mentionnées à l'article L. 200-1, les jeunes travailleurs de l'un ou de
+l'autre sexe âgés de moins de dix-huit ans ne peuvent être employés à un travail effectif excédant huit heures par jour non
+plus que la durée fixée, pour une semaine, par l'article L. 212-1 [*interdiction*].
+
+Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la
+limite de cinq heures par semaine, par l'inspecteur du travail après avis conforme du médecin du travail de l'établissement.
+
+La durée du travail des intéressés ne peut en aucun cas être supérieure à la durée quotidienne ou hebdomadaire normale du
+travail des adultes employés dans l'établissement.
+
+L'employeur est tenu de laisser aux jeunes travailleurs et apprentis soumis à l'obligation de suivre des cours professionnels
+pendant la journée de travail le temps et la liberté nécessaire au respect de cette obligation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 29 JORF 17 JANVIER date d'entrée en vigueur 1ER février 1982
+
+	**Cité par**:
+
+	  - Décret n°95-182 du 21 février 1995 - art. 5 (V)
+	  - Rapport - art. 2 (V)
+	  - Code du travail - art. L212-14 (M)
+	  - Code du travail - art. L212-2-1 (Ab)
+	  - Code du travail - art. L213-9 (AbD)
+	  - Code du travail - art. R261-6 (VT)
+	  - Code rural - art. L715-1 (V)
+	  - Code rural ancien - art. 983 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L200-1 (AbD)
+	  - Code du travail - art. L212-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R261-6 (V)
+	  - TXT_ASSOCIE: Code du travail R261-6 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L212-14
 
 Les dispositions des articles L. 212-10 et L. 212-11 sont applicables aux adolescents mentionnés à l'article L. 212-13.
@@ -12728,6 +13269,52 @@ bien-être qui n'effectuent pas normalement un travail manuel.
 	  - Code du travail 21
 	  - Loi n°1941-03-21
 	  - Ordonnance 1967-09-27 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L213-2
+
+Tout travail entre vingt-deux heures et cinq heures est considéré comme travail de nuit.
+
+Toutefois, une convention ou un accord collectif étendu peut prévoir une autre période de sept heures consécutives, comprise
+entre 22 heures et 7 heures pouvant être substituée à la période prévue à l'alinéa précédent.
+
+L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord d'entreprise ou d'établissement ou à
+l'autorisation de l'inspecteur du travail donnée après consultation des délégués syndicaux et avis du comité d'entreprise ou
+des délégués du personnel, s'ils existent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 art. 10 JORF 17 janvier en vigueur le 1er février 1982
+
+	**Cité par**:
+
+	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
+	  - Décret n°2000-118 du 14 février 2000 - art. 12 (M)
+	  - Décret n°2007-1180 du 3 août 2007 - art. 3 (V)
+	  - Décret n°2007-1753 du 13 décembre 2007 - art. 3 (V)
+	  - Code du travail - art. L122-25-1-1 (AbD)
+	  - Code du travail - art. L213-1 (AbD)
+	  - Code du travail - art. L213-11 (VT)
+	  - Code du travail - art. L213-3 (M)
+	  - Code du travail - art. L213-4-1 (AbD)
+	  - Code du travail - art. L213-5 (AbD)
+	  - Code du travail - art. L213-6 (Ab)
+	  - Code du travail - art. R213-1 (VT)
+	  - Code du travail - art. R213-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3122-31 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail 22
 
 	**Codifié par**:
 
@@ -13069,6 +13656,43 @@ Ces dérogations ne sont valables que pour une durée maximum de deux semaines [
 ### Titre II : Repos et congés
 
 #### Chapitre Ier : Repos hebdomadaire.
+
+###### Article L221-1
+
+Les dispositions du présent chapitre s'appliquent aux personnes occupées dans les établissements mentionnés à l'alinéa 1er de
+l'article L. 200-1.
+
+Ces dispositions ne sont pas applicables aux personnels des chemins de fer dont les repos font l'objet de règles spéciales
+[*dérogations*]. Elles s'appliquent au personnel des entreprises de navigation intérieure selon des modalités fixées par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L112-3 (Ab)
+	  - Code du travail - art. R221-10 (VT)
+	  - Code du travail - art. R262-1 (M)
+	  - Décret n°83-40 du 26 janvier 1983 - art. 2 (VT)
+	  - Décret n°2003-1242 du 22 décembre 2003 - art. 9 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L200-1 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R262-1 (V)
+	  - TXT_ASSOCIE: Code du travail R262-1 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 31 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
+
 
 ###### Article L221-2
 
@@ -14085,6 +14709,29 @@ du travail au 1er mai 2008.
 	  - Code du travail - art. L3133-1 (VD)
 
 
+###### Article L222-1-1
+
+Les heures de travail perdues par suite de chômage des jours fériés, ne peuvent donner lieu à récupération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 12 JORF 17 janvier en vigueur le 1er février 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. D212-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3133-2 (VD)
+
+
 ###### Article L222-4
 
 Les apprentis ne peuvent être tenus en aucun cas, vis-à-vis de leur maître, à aucun travail de leur profession les jours de
@@ -14242,27 +14889,6 @@ du travail au 1er mai 2008.
 	  - Loi n°1947-04-30 ART. 3
 
 
-###### Article L222-8
-
-Les heures de travail perdues en raison du congé du 1er mai peuvent être récupérées.
-
-Les heures de travail récupérées sont rémunérées comme des heures normales de travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1947-04-30 art. 4
-
-	**Abrogé par**:
-
-	  - Ordonnance 82-41 1982-01-16 art. 13 JORF 17 janvier en vigueur le 1er février 1982
-
-
 ###### Article L222-9
 
 Les dispositions de la présente section sont applicables aux salariés définis à l'article 1144 (1° à 7°, 9° et 10°) (1) du
@@ -14333,6 +14959,46 @@ l'employeur dans les conditions fixées par les articles suivants.
 
 
 ##### Section 2 : Durée du congé.
+
+###### Article L223-2
+
+Le travailleur qui, au cours de l'année de référence, justifie avoir été occupé chez le même employeur pendant un temps
+équivalent à un minimum d'un mois de travail effectif, a droit à un congé [*payé*] dont la durée est déterminée [*calcul*] à
+raison de deux jours et demi ouvrables par mois de travail sans que la durée totale du congé exigible puisse excéder trente
+jours ouvrables [*maximum*].
+
+L'absence du travailleur ne peut avoir pour effet d'entraîner une réduction de ses droits à congé plus que proportionnelle à
+la durée de cette absence.
+
+Lorsque le nombre de jours ouvrables calculé conformément aux deux alinéas précédents n'est pas un nombre entier, la durée du
+congé est portée au nombre entier immédiatement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 14 JORF 17 janvier 1982 en vigueur le 1er février 1982
+
+	**Cité par**:
+
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 23 (V)
+	  - Loi n°2006-1640 du 21 décembre 2006 - art. 15 (V)
+	  - Code du travail - art. D732-7 (VT)
+	  - Code du travail - art. L117 BIS-5 (AbD)
+	  - Code du travail - art. L122-3-3 (AbD)
+	  - Code du travail - art. L223-11 (AbD)
+	  - Code du travail - art. L223-5 (AbD)
+	  - Code du travail - art. L223-9 (AbD)
+	  - Code du travail - art. L227-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L223-4
 
@@ -14460,76 +15126,67 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L223-9
+##### Section 3 : Indemnités de congé.
 
-Des arrêtés ministériels pris après consultation des organisations d'employeurs et de travailleurs intéressées les plus
-représentatives peuvent, pour certaines professions et pour la durée qu'ils fixent, prévoir que le congé annuel d'une durée
-excédant douze jours ouvrables peut être fractionné en deux ou plusieurs tranches dont l'une, de douze jours ouvrables, doit
-être attribuée pendant la période des congés fixée en application de l'article L. 223-7, les jours restant dus étant accordés
-en une ou plusieurs fois en dehors de cette période. Il est attribué deux jours ouvrables de congé supplémentaire lorsque le
-nombre des jours restant dus est au moins égal à cinq et un seul lorsqu'il est inférieur.
+###### Article L223-11
+
+L'indemnité afférente au congé [*payé*] prévu par l'article L. 223-2 est égale au dixième de la rémunération totale perçue
+par le salarié au cours de la période de référence [*montant*]. Pour la détermination de la rémunération totale [*mode de
+calcul*], il est tenu compte de l'indemnité de congé de l'année précédente ainsi que les indemnités afférentes au repos
+compensateur prévues à l'article L. 212-5-1 du présent code et l'article 993-1 du code rural et les périodes assimilées à un
+temps de travail [*congé payé, congé maternité, accident du travail, maladie professionnelle, service national*] par
+l'article L. 223-4 sont considérées comme ayant donné lieu à rémunération en fonction de l'horaire de travail de
+l'établissement.
+
+Lorsque la durée du congé est différente de celle qui est prévue à l'article L. 223-2, l'indemnité est calculée selon les
+règles fixées ci-dessus et proportionnellement à la durée du congé effectivement dû.
+
+Toutefois, l'indemnité prévue par les deux alinéas précédents ne peut être inférieure au montant de la rémunération qui
+aurait été perçue pendant la période de congé si le salarié avait continué à travailler, cette rémunération étant, sous
+réserve de l'observation des dispositions législatives et réglementaires en vigueur, calculée à raison tout à la fois du
+salaire gagné pendant la période précédant le congé et la durée du travail effectif de l'établissement.
+
+Un arrêté du ministre chargé du travail détermine les modalités d'application de cette disposition dans les professions
+mentionnées au premier alinéa de l'article L. 223-16.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 22 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
 
 	**Cité par**:
 
-	  - Code de l'action sociale et des familles - art. L444-4 (V)
-	  - Code du travail - art. L212-15-3 (AbD)
-	  - Code du travail - art. L774-3 (AbD)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)
+	  - Code de l'action sociale et des familles - art. D442-2 (V)
+	  - Code de l'action sociale et des familles - art. L442-1 (V)
+	  - Code du travail - art. D124-1 (VT)
+	  - Code du travail - art. D322-19 (VT)
+	  - Code du travail - art. D743-6 (Ab)
+	  - Code du travail - art. L122-32-25 (AbD)
+	  - Code du travail - art. L223-10 (Ab)
+	  - Code du travail - art. L223-9 (AbD)
 
 	**Cite**:
 
-	  - Code du travail - art. L223-7 (M)
+	  - Code du travail - art. L212-5-1 (M)
+	  - Code du travail - art. L223-16 (AbD)
+	  - Code du travail - art. L223-2 (M)
+	  - Code du travail - art. L223-4 (M)
+	  - Code rural 993-1
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. L3141-21 (VD)
+	  - Code du travail - art. L3141-22 (VD)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code du travail 2054 n al. 2
-	  - Loi n°1969-05-16 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Abrogé par**:
-
-	  - Ordonnance 82-41 1982-01-16 art. 20 JORF 17 janvier en vigueur le 1er février 1982
-
-
-###### Article L223-10
-
-Dans certains établissements le congé annuel peut être supprimé, en totalité ou en partie, par décision du ministre chargé du
-travail prise, le cas échéant, sur proposition du ministre intéressé. La suppression du congé donne lieu à attribution d'une
-indemnité compensatrice calculée dans les conditions prévues à l'article L. 223-11.
-
-Des dérogations peuvent être apportées dans les mêmes conditions aux règles relatives au fractionnement des congés et à la
-détermination de la période des congés telles qu'elles sont fixées par le présent chapitre, notamment dans les établissements
-dont l'activité présente des variations saisonnières importantes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance 82-41 1982-01-16 art. 21 JORF 17 janvier en vigueur le 1er février 1982
-
-	**Cite**:
-
-	  - Code du travail - art. L223-11 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 2054 m
-	  - Loi n°1969-05-16 art. 8
+	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
 
-
-##### Section 3 : Indemnités de congé.
 
 ###### Article L223-12
 
@@ -14678,6 +15335,48 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 54
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L223-15
+
+Lorsque le maintien en activité d'un établissement n'est pas assuré pendant un nombre de jours dépassant la durée fixée pour
+la durée des congés légaux annuels, l'employeur est tenu [*obligation*] pour chacun des jours ouvrables de fermeture excédant
+cette durée, de verser à son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière de congés payés.
+Cette indemnité journalière n'est pas cumulable avec l'indemnité de congés payés.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 23 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. D341-5-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3141-29 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
 
 	**Codifié par**:
 
@@ -15306,6 +16005,51 @@ du travail au 1er mai 2008.
 
 #### Chapitre Ier : REPOS HEBDOMADAIRE.
 
+###### Article L221-5-1
+
+Une convention ou un accord collectif étendu peut prévoir que les entreprises industrielles fonctionnant à l'aide d'un
+personnel d'exécution et d'encadrement composé de deux groupes dont l'un a pour seule fonction de suppléer l'autre pendant le
+ou les jours de repos accordés à celui-ci en fin de semaine sont autorisées à déroger à la règle prévue par l'article L.
+221-5 [*repos hebdomadaire le dimanche*].
+
+L'utilisation de cette dérogation est subordonnée à la conclusion d'un accord d'entreprise ou d'établissement ou à
+l'autorisation de l'inspecteur du travail donnée après consultation des délégués syndicaux et avis du comité d'entreprise ou
+des délégués du personnel, s'ils existent.
+
+La rémunération de ces salariés est majorée d'au moins 50 p. 100 par rapport à celle qui serait due pour une durée
+équivalente effectuée suivant l'horaire normal de l'entreprise.
+
+A défaut de convention ou d'accord collectif étendu, un décret en Conseil d'Etat peut prévoir les conditions dans lesquelles
+la dérogation prévue au premier alinéa peut être accordée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 11 JORF 17 JANVIER date d'entrée en vigueur 1ER FEVRIER 1982
+
+	**Cité par**:
+
+	  - Arrêté du 12 décembre 1985 - art. Annexe (V)
+	  - Code du travail - art. D341-5-4 (M)
+	  - Code du travail - art. L213-3 (AbD)
+	  - Code du travail - art. R221-14 (VT)
+	  - Code du travail - art. R221-15 (VT)
+	  - Code du travail - art. R221-17 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L221-5 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-1 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L221-10
 
 Sont également admises de droit à donner le repos hebdomadaire par roulement ;
@@ -15408,42 +16152,6 @@ employés tous les jours de la semaine, à la condition qu'ils aient au moins un
 #### Chapitre III : CONGES ANNUELS
 
 ##### SECTION 2 : DUREE DU CONGE *PAYE*.
-
-###### Article L223-2
-
-Le travailleur qui, au cours de l'année de référence, justifie avoir été occupé chez le même employeur pendant un temps
-équivalent à un minimum d'un mois de travail effectif, a droit à un congé dont la durée est déterminée [*calcul*] à raison de
-deux jours ouvrables par mois de travail sans que la durée totale du congé exigible puisse excéder vint-quatre jours
-ouvrables [*limite*] .
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°56-332 du 27 mars 1956 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R262-6 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°69-434 1969-05-16 ART. 1
-	  - Code du travail 2054 g AL. 1
-
-	**Cité par**:
-
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 23 (V)
-	  - Loi n°2006-1640 du 21 décembre 2006 - art. 15 (V)
-	  - Code du travail - art. D732-7 (VT)
-	  - Code du travail - art. L117 BIS-5 (AbD)
-	  - Code du travail - art. L122-3-3 (AbD)
-	  - Code du travail - art. L223-11 (AbD)
-	  - Code du travail - art. L223-5 (AbD)
-	  - Code du travail - art. L223-9 (AbD)
-	  - Code du travail - art. L227-1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
 
 ###### Article L223-6
 
@@ -18598,233 +19306,6 @@ cas de récidive dans un délai de trois ans, d'une amende de 6.000 à 15.000 F 
 
 ##### DISPOSITIONS GENERALES.
 
-###### Article L212-1
-
-Dans les établissements ou dans les professions mentionnés à l'article L. 200-1, ainsi que dans les établissements artisanaux
-et coopératifs ou dans leurs dépendances et dans les établissements publics hospitaliers et les hôpitaux psychiatriques
-[*champ d'application*], la durée du travail effectif des salariés de l'un ou de l'autre sexe et de tout âge ne peut excéder
-quarante heures par semaine [*limite*].
-
-/A/Des décrets sur le rapport du ministre de l'agriculture et du ministre chargé du travail rendront obligatoires les
-dispositions du précédent alinéa dans les entreprises et sociétés agricoles diverses qui, par la nature de leur activité et
-les conditions d'emploi et de travail de leur personnel sont assimilables à des entreprises industrielles et commerciales,
-ainsi que dans les organismes professionnels agricoles/A/LOI  1116 27-12-1974//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°74-1116 1974-12-27 ART. 2
-	  - Code du travail 2006
-	  - Loi n°1941-03-21
-	  - Loi n°1966-06-18
-
-	**Cité par**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 6 (Ab)
-	  - Décret n°78-1155 du 12 décembre 1978 - art. 1 (V)
-	  - Décret n°79-1155 du 28 décembre 1979 - art. 1 (V)
-	  - Ordonnance n°82-41 du 16 janvier 1982 - art. 26 (AbD)
-	  - Ordonnance n°82-272 du 26 mars 1982
-	  - Décret n°83-40 du 26 janvier 1983 - art. 2 (VT)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 4 (VT)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 7 (An)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 9 (M)
-	  - Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 2 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 3 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 5 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 6 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 7 (Ab)
-	  - Décret n°88-361 du 15 avril 1988 - art. 2 (Ab)
-	  - Décret n°89-130 du 27 février 1989 - art. 2 (Ab)
-	  - Décret n°90-107 du 30 janvier 1990 - art. 1 (Ab)
-	  - Décret n°90-107 du 30 janvier 1990 - art. 2 (Ab)
-	  - Décret n°92-1205 du 16 novembre 1992 - art. 15 (V)
-	  - Décret n°92-1205 du 16 novembre 1992 - art. 9 (Ab)
-	  - Décret n°95-320 du 22 mars 1995 - art. 5 (Ab)
-	  - Décret n°95-320 du 22 mars 1995 - art. 6 (Ab)
-	  - Décret n°95-341 du 29 mars 1995 - art. 1 (Ab)
-	  - Décret n°95-341 du 29 mars 1995 - art. 2 (Ab)
-	  - Décret n°95-925 du 19 août 1995 - art. 10 (Ab)
-	  - Décret n°95-925 du 19 août 1995 - art. 9 (Ab)
-	  - Décret n°97-326 du 10 avril 1997 - art. 5 (V)
-	  - Loi n°98-461 du 13 juin 1998 - art. 3 (M)
-	  - Décret n°98-766 du 31 août 1998 - art. 1 (V)
-	  - Décret n°99-256 du 31 mars 1999 - art. 3 (V)
-	  - Décret n°99-735 du 27 août 1999 - art. 1 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 1 (V)
-	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
-	  - Décret n°2001-755 du 29 août 2001 - art. 1 (V)
-	  - Décret n°2001-1223 du 21 décembre 2001 - art. 1 (V)
-	  - Décret n°2002-374 du 20 mars 2002 - art. 3 (VT)
-	  - Décret n°2002-396 du 22 mars 2002 - art. 2 (V)
-	  - Décret n°2002-396 du 22 mars 2002 - art. 3 (V)
-	  - Décret n°2002-396 du 22 mars 2002 - art. 4 (V)
-	  - Décret n°2002-595 du 22 avril 2002 - art. 2 (V)
-	  - Décret n°2002-1526 du 24 décembre 2002 - art. 2 (V)
-	  - Décret n°2002-1526 du 24 décembre 2002 - art. 3 (V)
-	  - Décret n°2002-1526 du 24 décembre 2002 - art. 4 (V)
-	  - Décret n°2002-1526 du 24 décembre 2002 - art. 5 (V)
-	  - Décret n°2003-840 du 1 septembre 2003 - art. 2 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 8 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-4 (V)
-	  - Décret n°2003-1194 du 15 décembre 2003 - art. 2 (V)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 3 (VT)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 4 (VT)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 5 (VT)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 9 (VT)
-	  - Décret n°2003-1390 du 31 décembre 2003 - art. 2 (V)
-	  - Décret n°2003-1390 du 31 décembre 2003 - art. 3 (V)
-	  - Décret n°2004-1536 du 30 décembre 2004 - art. 2 (An)
-	  - Décret n°2004-1536 du 30 décembre 2004 - art. 3 (An)
-	  - Décret n°2005-40 du 20 janvier 2005 - art. 2 (V)
-	  - CODE DES COMMUNES. - art. R*121-24 (Ab)
-	  - Code de l'action sociale et des familles - art. L313-23-2 (V)
-	  - Code de l'action sociale et des familles - art. L546-3 (Ab)
-	  - Code de l'action sociale et des familles - art. R243-10 (M)
-	  - Code de l'aviation civile - art. D422-10 (V)
-	  - Code de l'aviation civile - art. D422-4 (V)
-	  - Code de l'aviation civile - art. R427-1 (V)
-	  - Code de la sécurité sociale. - art. L241-13-1 (Ab)
-	  - Code de la sécurité sociale. - art. R133-8 (M)
-	  - Code de la sécurité sociale. - art. R434-30 (V)
-	  - Code de la sécurité sociale. - art. R434-31 (T)
-	  - Code de la sécurité sociale. - art. R721-58 (Ab)
-	  - Code du travail - art. D212-12 (Ab)
-	  - Code du travail - art. D212-13 (T)
-	  - Code du travail - art. D212-16 (VT)
-	  - Code du travail - art. D212-17 (T)
-	  - Code du travail - art. L117 BIS-3 (AbD)
-	  - Code du travail - art. L133-5 (M)
-	  - Code du travail - art. L212-13 (AbD)
-	  - Code du travail - art. L212-15-3 (AbD)
-	  - Code du travail - art. L212-2 (AbD)
-	  - Code du travail - art. L212-2-1 (Ab)
-	  - Code du travail - art. L212-4-7 (AbD)
-	  - Code du travail - art. L212-5 (AbD)
-	  - Code du travail - art. L212-8 (AbD)
-	  - Code du travail - art. L212-9 (AbD)
-	  - Code du travail - art. L213-11 (VT)
-	  - Code du travail - art. L322-4-12 (VT)
-	  - Code du travail - art. L322-4-15-4 (AbD)
-	  - Code du travail - art. L322-4-9 (Ab)
-	  - Code du travail - art. L441-4 (AbD)
-	  - Code du travail - art. L900-2-1 (AbD)
-	  - Code du travail - art. L981-10 (Ab)
-	  - Code du travail - art. L981-7 (AbD)
-	  - Code du travail - art. R261-3 (VT)
-	  - Code du travail - art. R261-4 (VT)
-	  - Code du travail - art. R322-17-15 (VT)
-	  - Code du travail - art. R323-123 (VT)
-	  - Code du travail - art. R323-125 (VT)
-	  - Code du travail - art. R960-6 (T)
-	  - Code du travail - art. R961-6 (VT)
-	  - Code du travail maritime - art. 24 (V)
-	  - Code du travail maritime - art. 24-2 (V)
-	  - Code du travail maritime - art. 25 (V)
-	  - Code du travail maritime - art. 26 (M)
-	  - Code général des collectivités territoriales - art. D4134-27 (V)
-	  - Code général des collectivités territoriales - art. R2123-10 (T)
-	  - Code général des collectivités territoriales - art. R2123-9 (V)
-	  - Code général des collectivités territoriales - art. R3123-7 (V)
-	  - Code général des collectivités territoriales - art. R4135-7 (M)
-	  - Code rural - art. L713-19 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 5 (V)
-	  - SPEC_APPLI: Décret n°99-735 du 27 août 1999
-	  - SPEC_APPLI: Décret n°99-735 du 27 août 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Décret n°99-977 du 30 novembre 1999
-	  - TXT_ASSOCIE: Décret n°99-977 du 30 novembre 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Décret n°99-977 du 30 novembre 1999 - art. 2 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R261-3 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L200-1 (AbD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L212-2
-
-Sous réserve des dispositions de l'article L. 133-5, des décrets rendus en conseil des ministres déterminent par profession,
-par industrie ou par catégorie professionnelle, pour l'ensemble du territoire ou pour une région, les modalités d'application
-de l'article précédent.
-
-Des décrets rendus en conseil des ministres peuvent fixer certaines modalités d'application de l'article précédent pour
-l'ensemble des professions ou pour certains groupes de professions.
-
-Ces décrets sont pris d'office soit à la demande d'une ou plusieurs organisations d'employeurs ou de salariés intéressées.
-Dans l'un et l'autre cas les organisations d'employeurs et de salariés intéressées sont consultées. Elles doivent donner leur
-avis dans le délai d'un mois.
-
-Ces décrets sont révisés dans les mêmes formes.
-
-Ils doivent se référer, dans le cas où il en existe, aux accords intervenus entre les organisations d'employeurs et de
-salariés intéressées.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°77-1465 du 28 décembre 1977 - art. 6 (Ab)
-	  - Ordonnance n°82-41 du 16 janvier 1982 - art. 25 (V)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 3 (M)
-	  - Décret n°92-1205 du 16 novembre 1992 - art. 15 (V)
-	  - Décret n°92-1205 du 16 novembre 1992 - art. 9 (Ab)
-	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
-	  - Décret  n°2007-353 du 17 mars 2007 - art. 3 (VT)
-	  - CODE DES COMMUNES. - art. R*121-24 (Ab)
-	  - Code de l'action sociale et des familles - art. R243-10 (M)
-	  - Code de l'aviation civile - art. R427-1 (V)
-	  - Code de la sécurité sociale. - art. R434-30 (V)
-	  - Code de la sécurité sociale. - art. R434-31 (T)
-	  - Code du travail - art. D212-12 (M)
-	  - Code du travail - art. D212-13 (T)
-	  - Code du travail - art. D212-18 (VT)
-	  - Code du travail - art. L133-5 (M)
-	  - Code du travail - art. L212-2-1 (Ab)
-	  - Code du travail - art. L212-3 (Ab)
-	  - Code du travail - art. L221-24 (AbD)
-	  - Code du travail - art. L711-2 (AbD)
-	  - Code du travail - art. L821-1 (Ab)
-	  - Code du travail - art. R261-3 (VT)
-	  - Code du travail - art. R5221-21 (M)
-	  - Code général des collectivités territoriales - art. D4134-27 (V)
-	  - Code général des collectivités territoriales - art. R2123-10 (T)
-	  - Code général des collectivités territoriales - art. R2123-9 (V)
-	  - Code général des collectivités territoriales - art. R3123-7 (V)
-	  - Code général des collectivités territoriales - art. R4135-7 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L212-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L821-1 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R261-3 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 2007
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ###### Article L212-4
 
 La durée du travail ci-dessus fixée s'entend du travail effectif à l'exclusion du temps nécessaire à l'habillage et au casse-
@@ -19195,176 +19676,25 @@ entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur c
 
 ##### HEURES SUPPLEMENTAIRES .
 
-###### Article L212-5
-
-Dans les industries et les professions assujetties à la réglementation de la durée du travail, les heures supplémentaires
-effectuées au-delà de la durée normale de travail de quarante heures par semaine ou de la durée considérée comme équivalente
-donnent lieu à une majoration de salaire fixée ainsi qu'il suit :
-
-1. Au-delà d'une durée normale de travail de quarante heures par semaine et jusqu'à quarante-huit-heures inclusivement,
-celle-ci ne pourra être inférieure à 25 p. 100 du salaire horaire ;
-
-2. Au-delà d'une durée de travail de quarante-huit heures, elle ne pourra être inférieure à 50 p. 100 du salaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°87-897 du 30 octobre 1987 - art. 2 (V)
-	  - Décret n°88-361 du 15 avril 1988 - art. 3 (Ab)
-	  - Loi n°88-1202 du 30 décembre 1988 - art. 48 (V)
-	  - Décret n°91-342 du 3 avril 1991 - art. 5 (Ab)
-	  - Loi n°93-1313 du 20 décembre 1993 - art. 42 (Ab)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 10 (M)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 8 (M)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 9 (M)
-	  - Décret n°99-256 du 31 mars 1999 - art. 4 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 28 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 8 (V)
-	  - Décret n°2000-118 du 14 février 2000 - art. 11 (V)
-	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 18 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 19 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 21 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
-	  - Loi n°2005-296 du 31 mars 2005 - art. 4 (V)
-	  - Loi n°2008-111 du 8 février 2008 - art. 2 (V)
-	  - Loi n°2008-111 du 8 février 2008 - art. 4 (V)
-	  - Code de la sécurité sociale. - art. D241-25 (VT)
-	  - Code de la sécurité sociale. - art. D241-7 (V)
-	  - Code de la sécurité sociale. - art. L131-10 (M)
-	  - Code de la sécurité sociale. - art. L241-13 (V)
-	  - Code du travail - art. D212-19 (M)
-	  - Code du travail - art. D212-22 (VT)
-	  - Code du travail - art. L142-1 (AbD)
-	  - Code du travail - art. L212-10 (AbD)
-	  - Code du travail - art. L212-15-4 (AbD)
-	  - Code du travail - art. L212-18 (VT)
-	  - Code du travail - art. L212-2-1 (Ab)
-	  - Code du travail - art. L212-4-7 (AbD)
-	  - Code du travail - art. L212-5-1 (AbD)
-	  - Code du travail - art. L212-6-1 (AbD)
-	  - Code du travail - art. L212-7-1 (AbD)
-	  - Code du travail - art. L212-8 (AbD)
-	  - Code du travail - art. L212-8-2 (Ab)
-	  - Code du travail - art. L212-8-5 (M)
-	  - Code du travail - art. L212-9 (AbD)
-	  - Code du travail - art. L227-1 (VT)
-	  - Code du travail - art. L620-2 (M)
-	  - Code du travail - art. R261-4 (VT)
-	  - Code du travail maritime - art. 26 (V)
-	  - Code rural - art. L713-19 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°99-256 du 31 mars 1999 - art. 5 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R261-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Loi n°1946-02-25 art. 1
-
-
-###### Article L212-6
-
-Des heures supplémentaires peuvent être effectuées en vue d'accroître la production. Les dispositions de la présente section
-sont applicables aux heures ainsi accomplies, ainsi qu'à l'ensemble de celles qui sont considérées comme heures
-supplémentaires, par application de la législation relative à la durée du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°82-101 du 27 janvier 1982 - art. 1 (Ab)
-	  - Décret n°82-946 du 5 novembre 1982 - art. 1 (V)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 9 (VT)
-	  - Décret n°83-1009 du 2 novembre 1983 - art. 1 (V)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 6 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 7 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 8 (Ab)
-	  - Décret n°87-897 du 30 octobre 1987 - art. 2 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (V)
-	  - Décret n°2000-82 du 31 janvier 2000 - art. 1 (An)
-	  - Décret n°2000-82 du 31 janvier 2000 - art. 2 (An)
-	  - Décret n°2001-941 du 15 octobre 2001 - art. 4 (V)
-	  - Décret n°2002-625 du 25 avril 2002 - art. 1 (Ab)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 18 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 19 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 21 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 5 (VT)
-	  - Décret n°2005-306 du 31 mars 2005 - art. 15 (V)
-	  - Loi n°2005-296 du 31 mars 2005 - art. 4 (V)
-	  - Loi n°2008-111 du 8 février 2008 - art. 1 (V)
-	  - Code du travail - art. D212-18 (VT)
-	  - Code du travail - art. D212-25 (VT)
-	  - Code du travail - art. L142-1 (AbD)
-	  - Code du travail - art. L212-10 (AbD)
-	  - Code du travail - art. L212-16 (VT)
-	  - Code du travail - art. L212-5 (AbD)
-	  - Code du travail - art. L212-5-1 (AbD)
-	  - Code du travail - art. L212-6-1 (AbD)
-	  - Code du travail - art. L212-7 (AbD)
-	  - Code du travail - art. L212-7-1 (AbD)
-	  - Code du travail - art. L212-8 (AbD)
-	  - Code du travail - art. L212-8-1 (Ab)
-	  - Code du travail - art. L212-9 (AbD)
-	  - Code du travail - art. L932-1 (AbD)
-	  - Code du travail - art. R261-4 (VT)
-	  - Code rural - art. L713-19 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°82-946 du 5 novembre 1982
-	  - TXT_SOURCE: Décret n°82-946 du 5 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°2002-625 du 25 avril 2002
-	  - TXT_SOURCE: Décret n°2002-625 du 25 avril 2002 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°2002-625 du 25 avril 2002 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R261-4 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1946-02-25 art. 2
-
-
 ###### Article L212-7
 
-Les heures supplémentaires de travail peuvent être effectuées dans les limites fixées à l'alinéa ci-dessous, après avis des
-organisations syndicales d'employeurs et de salariés, sur autorisation de l'inspecteur du travail. Celui-ci pourra,
-[*condition*] en cas de chômage, interdire le recours aux heures supplémentaires en vue de permettre l'embauchage de
+Les heures supplémentaires effectuées au-delà du contingent déterminé en application de l'article L. 212-6 peuvent être
+autorisées dans les limites fixées à l'alinéa ci-dessous, par l'inspecteur du travail après avis, s'ils existent, du comité
+d'entreprise ou, à défaut, des délégués du personnel.
+
+Celui-ci pourra, en cas de chômage, interdire le recours aux heures supplémentaires en vue de permettre l'embauchage de
 travailleurs sans emploi.
 
 La durée moyenne hebdomadaire de travail calculée sur une période quelconque de douze semaines consécutives ne peut dépasser
-quarante-huit [*limite*] heures. Dans certaines branches ou dans certaines régions, des décrets peuvent ramener cette durée à
-quarante-six heures. Au cours d'une même semaine, la durée du travail ne peut dépasser cinquante heures.
+quarante-six heures. Au cours d'une même semaine, la durée [*hebdomadaire*] du travail ne peut dépasser quarante-huit heures
+[*maximum, plafond*].
 
 A titre exceptionnel dans certains secteurs, dans certaines régions ou dans certaines entreprises, des dérogations
-applicables à des périodes déterminées peuvent être apportées à la limite quarante-huit heures fixée ci-dessus.
+applicables à des périodes déterminées peuvent être apportées à la limite de quarante six heures, fixée ci-dessus.
 
 En outre, en cas de circonstances exceptionnelles, certaines entreprises peuvent être autorisées à dépasser pendant une
-période limitée le plafond de cinquante heures fixé au deuxième alinéa du présent article, sans toutefois que ce dépassement
-puisse avoir pour effet de porter la durée du travail à plus de soixante heures par semaine.
+période limitée le plafond de quarante-huit heures fixé au deuxième alinéa du présent article, sans toutefois que ce
+dépassement puisse avoir pour effet de porter la durée du travail à plus de soixante heures par semaine.
 
 Le comité d'entreprise ou, à défaut, les délégués du personnel donnent leur avis sur ces dérogations. Cet avis est transmis à
 l'inspecteur du travail.
@@ -19373,6 +19703,10 @@ Un décret en Conseil d'Etat pris après avis de la commission supérieure des c
 mesures nécessaires à l'application des dispositions des alinéas 3 à 5 ci-dessus.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 	**Cité par**:
 
@@ -19415,9 +19749,9 @@ mesures nécessaires à l'application des dispositions des alinéas 3 à 5 ci-de
 	  - Code du travail - art. R261-4 (VT)
 	  - Code rural - art. L713-19 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1046 1973-11-15
+	  - Ordonnance 82-41 1982-01-16 ART. 8 JORF 17 janvier 1982 en vigueur le 1er février 1982
 
 	**Liens**:
 
@@ -19432,186 +19766,12 @@ mesures nécessaires à l'application des dispositions des alinéas 3 à 5 ci-de
 	  - TXT_ASSOCIE: Code du travail - art. R261-4 (V)
 	  - TXT_ASSOCIE: Code du travail R261-4 : DISPOSITIONS PENALES
 
-
-##### DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
-
-###### Article L212-13
-
-Dans les établissements ou dans les professions mentionnées à l'article L. 200-1, les jeunes travailleurs/A/et apprentis/A/
-LOI  0767 12-07-1977// de l'un ou de l'autre sexe âgés de moins de dix-huit ans [*minorité*] ne peuvent être employés à un
-travail effectif de plus de huit [*limite*] heures par jour et de quarante heures par semaine.
-
-Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la
-limite de cinq heures par semaine, par l'inspecteur du travail après avis conforme du médecin du travail de l'établissement.
-
-La durée du travail des intéressés ne peut en aucun cas [*interdiction*] être supérieure à la durée quotidienne ou
-hebdomadaire normale du travail des adultes employés dans l'établissement.
-
-L'employeur est tenu de laisser aux jeunes travailleurs et apprentis soumis à l'obligation de suivre des cours professionnels
-pendant la journée de travail le temps et la liberté nécessaire au respect de cette obligation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°95-182 du 21 février 1995 - art. 5 (V)
-	  - Rapport - art. 2 (V)
-	  - Code du travail - art. L212-14 (M)
-	  - Code du travail - art. L212-2-1 (Ab)
-	  - Code du travail - art. L213-9 (AbD)
-	  - Code du travail - art. R261-6 (VT)
-	  - Code rural - art. L715-1 (V)
-	  - Code rural ancien - art. 983 (Ab)
-
 	**Cite**:
 
-	  - Code du travail - art. L200-1 (AbD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R261-6 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 2018
-	  - Ordonnance  1967-09-27
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### DUREE
-
-##### HEURES SUPPLEMENTAIRES .
-
-###### Article L212-5-1
-
-Les heures supplémentaires de travail visées à l'article L. 212-5 ouvrent droit à un repos compensateur obligatoire dont la
-durée est égale à 20 p. 100 du temps de travail accompli en heures supplémentaires au-delà de quarante-quatre heures, dans
-les entreprises de plus de dix salariés.
-
-Cette durée est abaissée à quarante-trois heures à compter du 1er juillet 1977 et à quarante-deux heures à compter du 1er
-juillet 1978 [*point de départ*] .
-
-Le repos ne peut être pris que par journée entière, chacune étant réputée correspondre à huit heures de repos compensateur, à
-la convenance du salarié, en dehors d'une période fixée par voie réglementaire. Toutefois, ce repos pourra être pris par
-demi-journée dans certains secteurs d'activité déterminés par décret. Ce repos qui est assimilé à une période de travail
-effectif pour le calcul des droits du salarié donne lieu à une indemnisation qui ne doit entraîner aucune diminution par
-rapport à la rémunération que le salarié aurait perçue s'il avait accompli son travail.
-
-Un décret détermine, pour les travailleurs des entreprises qui ne relèvent pas d'un accord conclu, en ce domaine, entre des
-organisations syndicales d'employeurs et de salariés les plus représentatives au plan national :
-
-Les modalités d'information par l'employeur des droits acquis par le salarié ;
-
-Le délai de présentation à l'employeur de la demande du bénéfice du repos compensateur ;
-
-Le délai maximum suivant l'ouverture du droit pendant lequel le repos doit obligatoirement être pris ;
-
-Les conditions dans lesquelles l'attribution du repos compensateur peut être différée compte tenu des impératifs liés au
-fonctionnement de l'entreprise ou de l'exploitation.
-
-A défaut d'accord entre des organisations syndicales d'employeurs et de salariés les plus représentatives au plan national,
-un décret fixe également les modalités d'application du présent article en cas d'activités saisonnières.
-
-Le salarié dont le contrat de travail est résilié avant qu'il ait pu bénéficier du repos compensateur auquel il a droit ou
-avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos [*condition*] reçoit une indemnité en espèces
-correspondant à ses droits acquis, déterminés suivant les modalités prévues au présent article. Cette indemnité est due sans
-qu'il y ait lieu de distinguer suivant que cette résiliation résulte du fait du salarié ou du fait de l'employeur. Elle est
-également due aux ayants droit du salarié dont le décès survient avant qu'il ait pu bénéficier du repos compensateur auquel
-il avait droit ou avant qu'il ait acquis des droits suffisants pour pouvoir prendre ce repos. Elle est alors versée à ceux
-des ayants droit qui auraient qualité pour obtenir le paiement des salaires arriérés.
-
-L'indemnité ci-dessus a le caractère de salaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (M)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 9 (M)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 6 (M)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 7 (Ab)
-	  - Décret n°87-897 du 30 octobre 1987 - art. 2 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 19 (M)
-	  - Décret n°2000-150 du 23 février 2000 - art. 1 (V)
-	  - Décret n°2001-1202 du 17 décembre 2001 - art. 1 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
-	  - Code du travail - art. D212-10 (VT)
-	  - Code du travail - art. D212-22 (VT)
-	  - Code du travail - art. D212-6 (VT)
-	  - Code du travail - art. D744-1 (V)
-	  - Code du travail - art. D744-2 (V)
-	  - Code du travail - art. D744-3 (V)
-	  - Code du travail - art. L212-10 (AbD)
-	  - Code du travail - art. L212-18 (VT)
-	  - Code du travail - art. L212-4-7 (AbD)
-	  - Code du travail - art. L212-5 (AbD)
-	  - Code du travail - art. L212-6 (M)
-	  - Code du travail - art. L212-6-1 (AbD)
-	  - Code du travail - art. L212-7-1 (AbD)
-	  - Code du travail - art. L212-8 (AbD)
-	  - Code du travail - art. L212-8-1 (Ab)
-	  - Code du travail - art. L212-8-2 (Ab)
-	  - Code du travail - art. L212-9 (AbD)
-	  - Code du travail - art. L223-11 (AbD)
-	  - Code du travail - art. L223-4 (AbD)
-	  - Code du travail - art. L227-1 (VT)
-	  - Code du travail - art. R261-4 (VT)
-	  - Code du travail maritime - art. 26-1 (V)
-	  - Code rural - art. L713-19 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. D212-10 (M)
-	  - TXT_ASSOCIE: Code du travail - art. D212-6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
+	  - Code du travail - art. L212-6 (Ab)
 
 
 ### REPOS HEBDOMADAIRE .
-
-###### Article L221-1
-
-Les dispositions du présent chapitre s'appliquent aux personnes occupées dans les établissements mentionnés à l'alinéa 1er de
-l'article L. 200-1.
-
-Toutefois, ces dispositions ne sont pas applicables aux ouvriers et employés des entreprises de transport par eau, non plus
-qu'à ceux des chemins de fer dont les repos sont réglés par des dispositions spéciales.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°83-40 du 26 janvier 1983 - art. 2 (VT)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 9 (VT)
-	  - Code du travail - art. L112-3 (Ab)
-	  - Code du travail - art. R221-10 (VT)
-	  - Code du travail - art. R262-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L200-1 (AbD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R262-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 2030
-	  - Loi n°1941-03-21
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
 
 ###### Article L221-21
 
@@ -19657,7 +19817,7 @@ dérogation.
 
 ### CONGES ANNUELS
 
-#### DUREE DU CONGE .
+#### DUREE DU CONGE *PAYE*.
 
 ###### Article L223-3
 
@@ -19665,31 +19825,32 @@ La durée du congé annuel peut être majorée en raison de l'âge ou de l'ancie
 convention collective ou accord d'entreprise.
 
 Quelle que soit leur ancienneté dans l'entreprise, les jeunes travailleurs et apprentis âgés de moins de vingt et un ans
-[*limite*] au 30 avril [*date*] de l'année précédente, ont droit, s'ils le demandent, à un congé de vingt-quatre jours
-[*date*] ouvrables. Ils ne peuvent exiger aucune indemnité de congé payé pour les journées de vacance dont ils réclament le
-bénéfice en sus de celles qu'ils ont acquises, à raison du travail accompli au cours de la période de référence.
+[*limite*] au 30 avril [*date*] de l'année précédente, ont droit, s'ils le demandent, à un congé de trente jours [*date*]
+ouvrables. Ils ne peuvent exiger aucune indemnité de congé payé pour les journées de vacance dont ils réclament le bénéfice
+en sus de celles qu'ils ont acquises, à raison du travail accompli au cours de la période de référence.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°56-332 du 27 mars 1956 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R262-6 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°69-434 1969-05-16 ART. 2
-	  - Code du travail 2054 g AL. 2
 
 	**Cité par**:
 
 	  - Code du travail - art. D341-5-4 (V)
 	  - Code du travail - art. L117 BIS-5 (AbD)
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R262-6 : DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: Loi n°56-332 du 27 mars 1956 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 15 JORF 17 janvier 1982 en vigueur le 1er février 1982
+
+
+#### DUREE DU CONGE .
 
 ###### Article L223-7
 
@@ -19735,17 +19896,22 @@ Les conjoints travaillant dans une même entreprise ont droit à un congé simul
 
 ###### Article L223-8
 
-Le congé payé ne dépassant pas douze jours ouvrables doit être continu.
+Le congé payé ne dépassant pas douze jours ouvrables doit [*obligations*] être continu.
 
-Le congé d'une durée supérieure à douze jours ouvrables peut être fractionné par l'employeur avec l'agrément du salarié. Dans
-ce cas, une fraction doit être au moins de douze jours ouvrables continus compris entre deux jours de repos hebdomadaire.
+La durée [*maximum*] des congés pouvant être pris en une seule fois [*en continu*] ne peut excéder vingt-quatre jours
+ouvrables.
+
+Le congé principal d'une durée supérieure à douze jours ouvrables et au plus égale à vingt-quatre jours ouvrables peut être
+fractionné par l'employeur avec l'agrément du salarié [*condition*]. Dans ce cas, une fraction doit être au moins de douze
+jours ouvrables continus compris entre deux jours de repos hebdomadaire.
 
 Cette fraction doit être attribuée pendant la période du 1er mai au 31 octobre de chaque année. Les jours restant dus peuvent
-être accordés en une ou plusieurs fois en dehors de cette période. Il est attribué deux jours ouvrables de congé
+être accordés en une ou plusieurs fois en dehors de cette période. Il est attribué deux jours ouvrables de congé [*payé*]
 supplémentaire lorsque le nombre de jours de congé pris en dehors de cette période est au moins égal à six et un seul
-lorsqu'il est compris entre trois et cinq jours.
+lorsqu'il est compris entre trois et cinq jours. Les jours de congé principal dus en sus de vingt-quatre jours ouvrables ne
+sont pas pris en compte pour l'ouverture du droit à ce supplément.
 
-Des dérogations peuvent être apportées aux dispositions de l'alinéa précédent soit après accord individuel du salarié, soit
+Des dérogations peuvent être apportées aux dispositions de l'alinéa précèdent soit après accord individuel du salarié, soit
 par convention collective ou accord collectif d'établissement.
 
 Lorsque le congé s'accompagne de la fermeture de l'établissement, le fractionnement peut être effectué par l'employeur sur
@@ -19753,110 +19919,23 @@ avis conforme des délégués du personnel ou à défaut de délégués, avec l'
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance 82-41 1982-01-16 ART. 16 ART. 17 et ART. 19 JORF 17 janvier en vigueur le 1er février 1982
+
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L444-6 (V)
 	  - Code du travail - art. D762-1 (VT)
 	  - Code du travail - art. L223-2 (AbD)
 
-	**Anciens textes**:
-
-	  - Code du travail 2054 i
-	  - Loi n°1969-05-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### INDEMNITES DE CONGE.
-
-###### Article L223-11
-
-L'indemnité afférente au congé prévu par l'article L. 223-2 est égale au douzième de la rémunération totale perçue par le
-salarié au cours de la période de référence. Pour la détermination de la rémunération totale, il est tenu compte de
-l'indemnité de congé de l'année précédente ainsi que les indemnités afférentes au repos compensateur prévues à l'article L.
-212-5-1 du présent code et l'article 993-1 du code rural et les périodes assimilées à un temps de travail par l'article L.
-223-4 sont considérées comme ayant donné lieu à rémunération en fonction de l'horaire de travail de l'établissement.
-
-Lorsque la durée du congé est différente de celle qui est prévue à l'article L. 223-2, l'indemnité est calculée selon les
-règles fixées ci-dessus et proportionnellement à la durée du congé effectivement dû.
-
-Toutefois, l'indemnité prévue par les deux alinéas précédents ne peut être inférieure au montant de la rémunération qui
-aurait été perçue pendant la période de congé si le salarié avait continué à travailler, cette rémunération étant, sous
-réserve de l'observation des dispositions législatives et réglementaires en vigueur, calculée à raison tout à la fois du
-salaire gagné pendant la période précédant le congé et de la durée du travail effectif de l'établissement.
-
-Un arrêté du ministre chargé du travail détermine les modalités d'application de cette disposition dans les professions
-mentionnées au premier alinéa de l'article L. 223-16.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)
-	  - Code de l'action sociale et des familles - art. D442-2 (V)
-	  - Code de l'action sociale et des familles - art. L442-1 (V)
-	  - Code du travail - art. D124-1 (VT)
-	  - Code du travail - art. D322-19 (VT)
-	  - Code du travail - art. D743-6 (Ab)
-	  - Code du travail - art. L122-32-25 (AbD)
-	  - Code du travail - art. L223-10 (Ab)
-	  - Code du travail - art. L223-9 (AbD)
-
-	**Cite**:
-
-	  - Code du travail - art. L212-5-1 (M)
-	  - Code du travail - art. L223-16 (AbD)
-	  - Code du travail - art. L223-2 (M)
-	  - Code du travail - art. L223-4 (M)
-	  - Code rural 993-1
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3141-22 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 2054 j al. 1 à 4
-	  - Loi n°1969-05-16 art. 4 et 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L223-15
-
-Lorsque la fermeture pour congés payés d'un établissement se prolonge au-delà de /M/trois/M/DECR.0493 11-06-1975 : quatre//
-semaines, l'employeur est tenu [*obligation*] pour chacun des jours ouvrables de fermeture excédant cette durée, de verser à
-son personnel une indemnité qui ne peut être inférieure à l'indemnité journalière de congés payés. Cette indemnité
-journalière n'est pas cumulable avec l'indemnité de congés payés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. D341-5-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L3141-29 (VD)
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R262-6 (M)
-	  - TXT_ASSOCIE: Loi n°56-332 du 27 mars 1956 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Code du travail R262-6 : SANCTIONS PENALES
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Décret n°75-493 1975-06-11
-	  - Loi n°1946-04-29 ART. 2
-	  - Loi n°1956-03-27
 
 
 ### HYGIENE ET SECURITE .
