@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-10-04 00:00:01 +0100
+Version Consolidée au 1979-10-06
 
 # Partie législative ancienne
 
@@ -88857,6 +88857,64 @@ l'atelier et celle de leur sortie.
 	  - Code du travail 2089
 
 
+###### Article R620-4
+
+Les chefs des établissements, autres qu'agricoles, énumérés à l'article L231-1 doivent tenir à la disposition de l'inspecteur
+du travail, au siège de leur établissement, une liste de leurs chantiers et autres lieux de travail à caractère temporaire.
+
+Ils doivent, en outre aviser par écrit [*condition de forme*] l'inspecteur du travail de l'ouverture de tout chantier ou
+autre lieu de travail occupant dix personnes au moins pendant plus d'une semaine [*information*].
+
+**Nota:**
+
+Code du travail R632-1 : sanctions pénales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, à l'exception des mots :"autres qu' agricoles" (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
+
+	**Cité par**:
+
+	  - Décret n°85-682 du 4 juillet 1985 - art. 16 (M)
+	  - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
+	  - Arrêté du 2 mars 2004 - art. 9 (V)
+	  - Code du travail - art. R632-1 (VT)
+
+
+###### Article R620-5
+
+Les chefs des établissements agricoles mentionnés à l'article L231-1 doivent indiquer, à la demande de l'inspecteur du
+travail et de la protection sociale agricoles, le lieu de travail de chacun de leurs salariés.
+
+Ils doivent en outre, dans les huit jours de l'ouverture de tout chantier comptant plus de deux salariés et devant durer au
+moins un mois, en aviser par écrit le chef du service départemental du travail et de la protection sociale agricoles du
+département dans lequel se trouve le chantier, en précisant sa situation exacte, le nombre des salariés et la durée
+prévisible des travaux [*information*].
+
+**Nota:**
+
+Code du travail R632-1 : sanctions pénales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
+	  - Arrêté du 2 mars 2004 - art. 9 (V)
+	  - Code du travail - art. R324-10 (VT)
+	  - Code du travail - art. R632-1 (M)
+
+
 ### Titre III : Pénalités
 
 #### Chapitre Ier : Services de contrôle
@@ -88911,41 +88969,6 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R632-1 (V)
-
-
-## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL
-
-### OBLIGATIONS DES EMPLOYEURS .
-
-###### Article R620-4
-
-Les chefs des établissements énumérés à l'article /M/L. 221-1/M/DECR.0808 19-09-1974 : L. 231-1// doivent [*obligation*]
-tenir à la disposition de l'inspecteur du travail et de la main-d'oeuvre, au siège de leur établissement, une liste de leurs
-chantiers et autres lieux de travail à caractère temporaire.
-
-Ils doivent, en outre aviser par écrit l'inspecteur du travail de l'ouverture de tout chantier ou autre lieu de travail
-occupant dix personnes au moins pendant plus d'une semaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°85-682 du 4 juillet 1985 - art. 16 (M)
-	  - Décret n°87-231 du 27 mars 1987 - art. 3 (V)
-	  - Arrêté du 2 mars 2004 - art. 9 (V)
-	  - Code du travail - art. R632-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L231-1 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 2090 b
 
 
 ## Livre VII : Dispositions particulières à certaines professions
