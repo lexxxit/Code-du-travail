@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-07-06
+Version Consolidée au 1979-07-06 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -111696,17 +111696,21 @@ travailleurs sont déterminées par arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°48-592 1948-03-30 ART. 2 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
 	**Cité par**:
 
 	  - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3423-10 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R147-2
 
 
 ### Titre II : Réglementation du travail
