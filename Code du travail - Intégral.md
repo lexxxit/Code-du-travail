@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-01 00:00:01 +0100
+Version Consolidée au 1980-01-03
 
 # Partie législative ancienne
 
@@ -77984,6 +77984,34 @@ réduit de moitié.
 
 	  - Code du travail - art. R322-24 (T)
 	  - Décret  1970-03-16 ART. 14
+
+
+###### Article R322-14-1
+
+Les travailleurs [*quittant une region de sous-emploi*] mentionnés au troisième alinéa de l'article L. 322-3 bénéficient :
+
+1. D'une indemnité pour frais de déplacement pour eux-mêmes, leur conjoint et les personnes à leur charge ;
+
+2. D'une indemnité forfaitaire pour frais de transport de leur mobilier ;
+
+3. D'une prime de transfert et d'une indemnité de réinstallation variables en fonction de la composition de la famille. Le
+montant cumulé de ces prime et indemnité ne peut être inférieur à 800 fois ni supérieur à 2.000 fois le minimum garanti prévu
+à l'article L. 141-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
+
+	**Cite**:
+
+	  - Code du travail - art. L141-8 (AbD)
+	  - Code du travail - art. L322-3 (Ab)
 
 
 ##### AUTRES AIDES A LA MOBILITE .
