@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-06-11
+Version Consolidée au 1982-06-11 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -90170,13 +90170,13 @@ leur radiation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+	  - Code électoral - art. L62
 
 	**Cité par**:
 
@@ -90184,6 +90184,10 @@ leur radiation.
 	  - Code du travail - art. R513-2 (M)
 	  - Code du travail - art. R513-7 (M)
 	  - Code du travail - art. R513-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1441-1 (M)
 
 
 ###### Article R513-3
@@ -90193,13 +90197,17 @@ du contrat de travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+	  - Code du travail - art. L513-1
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1441-3 (M)
 
 
 ###### Article R513-4
@@ -92080,23 +92088,25 @@ le médiateur ainsi choisi et lui transmet le dossier constitué sur le différe
 
 La publication ou la diffusion des mentions relatives aux personnes à l'occasion de la consultation des états et de la liste
 électorale, prévue aux articles R. 513-12 et R. 513-20, ainsi que l'utilisation de la liste à des fins autres que des fins
-électorales seront punies des peines prévues pour les contraventions de la quatrième classe [*(1) montant*].
+électorales seront punies des peines prévues pour les contraventions de la quatrième classe.
 
 L'amende pourra être prononcée autant de fois qu'il y aura d'irrégularités.
 
-**Nota:**
-
-[(1) voir l'article 131-13 du code pénal. ]
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°82-490 1982-06-09 ART. 3 JORF 11 JUIN 1982
+	  - Code du travail - art. R1443-2 (V)
+	  - Code du travail - art. R1443-3 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R513-12
+	  - Code du travail - art. R513-20
 
 
 #### Chapitre Ier : Conflits individuels
