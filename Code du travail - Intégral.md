@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-05-07
+Version Consolidée au 1975-05-24
 
 # Partie législative ancienne
 
@@ -52564,6 +52564,68 @@ Moselle, sous réserve des exceptions et des règles spéciales résultant des a
 	  - Code du travail R119-48 A R119-64
 
 
+###### Article R119-67
+
+Nul ne peut être nommé inspecteur de l'apprentissage d'une chambre de métiers ou d'une chambre de commerce et d'industrie en
+application de l'article précédent s'il ne remplit les conditions fixées à l'article R. 119-59.
+
+Les inspecteurs de l'apprentissage des chambres de métiers et des chambres de commerce et d'industrie sont commissionnés par
+le ministre de l'éducation dans les conditions prévues à l'article R. 119-61.
+
+Toutefois, ceux qui étaient en fonctions avant le 17 juillet 1971 [*date limite*] recevront une commission à durée non
+limitée s'ils remplissent les conditions prévues au premier alinéa de l'article R. 119-59.
+
+Les dispositions de l'article R. 119-60 sont applicables aux inspecteurs de l'apprentissage des chambres de métiers et des
+chambres de commerce et d'industrie.
+
+Les dispositions des articles R. 119-63 et R. 119-64 ne sont pas applicables à ces inspecteurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R119-59 (Ab)
+	  - Code du travail - art. R119-60 (V)
+	  - Code du travail - art. R119-61 (M)
+	  - Code du travail - art. R119-63 (Ab)
+	  - Code du travail - art. R119-64 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail LIVRE 1, CHAPITRE 9
+
+
+###### Article R119-68
+
+Les dispositions de l'article R. 119-62 sont applicables aux inspecteurs de l'apprentissage des chambres de métiers et des
+chambres de commerce et d'industrie en cas de faute ou d'insuffisance professionnelle.
+
+Lorsque le conseil prévu au second alinéa de l'article R. 119-62 est appelé à donner un avis sur le cas d'un inspecteur de
+l'apprentissage des chambres de métiers ou des chambres de commerce et d'industrie, il est complété [*composition*] par deux
+représentants de la chambre de métiers ou de la chambre de commerce ou d'industrie intéressée qui sont désignés par celle-
+ci ; en outre, l'un des deux représentants élus des inspecteurs de l'apprentissage, qui est désigné par tirage au sort, est
+remplacé par un inspecteur de l'apprentissage des chambres de métiers ou des chambres de commerce et d'industrie élu par ses
+collègues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R119-62 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail CHAP. IX, LIVRE I
+
+
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 #### Chapitre IX : Dispositions diverses
@@ -52593,6 +52655,96 @@ général les procédés de fabrication dont ils pourraient prendre connaissance
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R6251-6 (V)
+
+
+##### Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+
+###### Article R119-66
+
+Le contrôle de la formation donnée aux apprentis dans les entreprises auxquelles s'applique le décret n° 73-942 du 3 octobre
+1973 est assuré par des inspecteurs de l'apprentissage qui relèvent des chambres de métiers des départements ci-dessus
+indiqués.
+
+Le contrôle de la formation donnée aux apprentis dans les entreprises relevant des secteurs de l'industrie et du commerce est
+assuré par des inspecteurs de l'apprentissage qui relèvent des chambres de commerce et d'industrie de ces mêmes départements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail CHAP. IX, LIVRE I
+
+	**Cite**:
+
+	  - Décret n°73-942 1973-10-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-67 (VT)
+
+
+###### Article R119-69
+
+Les dispositions des articles R. 119-52 et R. 119-54 (1er alinéa) [*accès aux locaux, communication des documents, contrôle
+des fonds, rapport, visite*] , ne sont pas applicables aux inspecteurs de l'apprentissage des chambres de métiers et des
+chambres de commerce et d'industrie.
+
+Les dispositions de l'article R. 119-51 sont applicables aux rapports des inspecteurs de l'apprentissage des chambres de
+métiers et des chambres de commerce et d'industrie. Toutefois, la transmission de ces rapports est assurée par le président
+de la chambre intéressée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R119-51 (M)
+	  - Code du travail - art. R119-52 (M)
+	  - Code du travail - art. R119-54 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail CHAP. IX, LIVRE I
+
+
+###### Article R119-70
+
+Chaque inspecteur de l'apprentissage des chambres de métiers et des chambres de commerce et d'industrie établit annuellement
+un rapport d'activité qui est transmis par le président de la chambre intéressée au préfet de région *autorité compétente*.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail CHAP. IX, LIVRE I
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R119-71
+
+Un règlement établi avec l'accord du préfet de région par le recteur et la chambre de métiers ou la chambre de commerce et
+d'industrie intéressée fixe les modalités de la coopération entre l'administration académique et cette chambre en vue de
+coordonner l'organisation locale de l'apprentissage et le contrôle de la formation des apprentis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du travail CHAP. IX, LIVRE I
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
 
 
 ### Titre II : Contrat de travail
