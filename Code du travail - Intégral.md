@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-10-01
+Version Consolidée au 1974-10-01 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -46458,82 +46458,6 @@ L'opposition est caduque [*sanction*] si la partie qui l'a faite ne se présente
 	  - Code du travail - art. R51-11-1 (Ab)
 
 
-#### VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES :    L'APPEL .
-
-###### Article R517-7
-
-L'appel est formé dans le délai d'un mois à compter [*point de départ*] de la notification du jugement, par une déclaration
-que la partie ou son représentant fait, ou adresse par pli recommandé [*condition de forme*] , au secrétariat du conseil de
-prud'hommes qui a rendu le jugement ou au secrétariat-greffe de la cour d'appel.
-
-Cette déclaration indique le jugement attaqué [*mentions*], le nom de la partie contre laquelle l'appel est formé, et, le cas
-échéant, les chefs du jugement auxquels se limite l'appel. Il est délivré récépissé de la déclaration d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-35 (VT)
-	  - Code du travail - art. R519-3 (Ab)
-	  - Code du travail - art. R851-3 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R517-5 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail R517-11 (1973)
-
-
-###### Article R517-8
-
-Le secrétariat du conseil de prud'hommes transmet immédiatement au secrétaire-greffier en chef de la cour d'appel une copie
-de la déclaration d'appel et le dossier de l'affaire. Il procède en même temps au virement des sommes afférentes aux frais de
-l'instance devant la cour.
-
-Copie de la déclaration d'appel est adressée à l'intimé,
-
-selon le cas, par le secrétariat du conseil de prud'hommes ou par le secrétariat-greffe de la cour d'appel [*formalités*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-35 (VT)
-	  - Code du travail - art. R519-3 (Ab)
-	  - Code du travail - art. R851-3 (VT)
-
-
-###### Article R517-9
-
-L'appel est porté devant la chambre sociale de la cour d'appel [*compétence*] . Les parties sont dispensées du ministère
-d'avoué.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-35 (VT)
-	  - Code du travail - art. R851-3 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail R517-8 (1975)
-
-
 #### RECUSATIONS .
 
 ###### Article R518-2
@@ -76419,9 +76343,13 @@ Elles peuvent se faire assister.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1453-1 (M)
 
 	**Cité par**:
 
@@ -76432,7 +76360,6 @@ Elles peuvent se faire assister.
 	**Anciens textes**:
 
 	  - Code du travail - art. R516-8 (M)
-	  - Code du travail R516-8 (1973)
 
 
 ###### Article R516-5
@@ -76453,9 +76380,13 @@ Devant la cour d'appel, les parties peuvent aussi se faire assister ou représen
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1453-2 (V)
 
 	**Cité par**:
 
@@ -76466,7 +76397,6 @@ Devant la cour d'appel, les parties peuvent aussi se faire assister ou représen
 	**Anciens textes**:
 
 	  - Code du travail - art. R516-8 (M)
-	  - Code du travail R516-8 (1973)
 
 
 ##### Section 3 : Saisine du conseil des prud'hommes.
@@ -76478,9 +76408,17 @@ dispositions du deuxième alinéa de l'article R. 516-8.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1452-5 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R516-8
 
 
 ##### Section 6 : Le jugement.
@@ -76494,9 +76432,13 @@ repris.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-23 (V)
 
 
 ##### Section 8 : L'exécution des jugements.
@@ -76507,9 +76449,13 @@ Les conseils de prud'hommes ne connaissent pas de l'exécution forcée de leurs 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1454-27 (V)
 
 
 #### Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions
