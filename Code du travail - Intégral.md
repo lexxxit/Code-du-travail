@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-12-31
+Version Consolidée au 1978-01-01
 
 # Partie législative ancienne
 
@@ -795,6 +795,57 @@ terme.
 
 ##### Chapitre VIII : Dispositions financières.
 
+###### Article L118-1
+
+Dans les conditions fixées par le décret en Conseil d'Etat prévu à l'article L. 119-4, une partie du salaire versé aux
+apprentis est admise, sans limitation, en exonération de la taxe d'apprentissage lorsque les employeurs sont redevables de
+cette taxe.
+
+Cette partie de salaire ne donne lieu à aucune charge sociale d'origine légale et conventionnelle, ni à aucune charge fiscale
+ou parafiscale.
+
+**Nota:**
+
+[*Nota - Loi 96-376 du 6 mai 1996 art. 3 VI : les dispositions de l'article 3 I sont applicables aux salaires versés à
+compter du 1er janvier 1996.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 9 avril 1979 - art. 1 (M)
+	  - Arrêté du 5 juin 1979 - art. 1 (M)
+	  - Décret n°80-106 du 1 février 1980 - art. 1 (P)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 13 (Ab)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 34 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 140 JA (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 (Ab)
+	  - Code de l'éducation - art. L214-13 (V)
+	  - Code du travail - art. D118 (VT)
+	  - Code du travail - art. D811-57 (Ab)
+	  - Code du travail - art. D811-58 (Ab)
+	  - Code du travail - art. D811-59 (Ab)
+	  - Code du travail - art. L117-15 (M)
+	  - Code du travail - art. L118-2 (M)
+	  - Code du travail - art. L118-2-2 (AbD)
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail - art. R119-2 (M)
+	  - Code du travail - art. R119-3 (M)
+	  - Code du travail - art. R119-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Abrogé par**:
+
+	  - Loi n°96-376 du 6 mai 1996 - art. 3 (V) JORF 7 mai 1996
+
+	**Cite**:
+
+	  - Code du travail - art. L119-4 (M)
+
+
 ###### Article L118-2
 
 Les concours apportés aux centres de formation d'apprentis par les redevables de la taxe d'apprentissage donnent lieu à
@@ -957,6 +1008,36 @@ Les conditions de cette formation seront précisées par décret en Conseil d'Et
 	  - Code du travail - art. L118-3-2 (AbD)
 	  - Code du travail - art. L118-3-2 (M)
 	  - Code du travail - art. L6241-3 (VD)
+
+
+###### Article L118-5
+
+Les cotisations sociales d'origine légale et conventionnelle imposées par la loi dues au titre des salaires versés aux
+apprentis sont calculées de façon forfaitaire sur la base du salaire légal de base des apprentis et sont révisés
+annuellement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 50-0 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis I (V)
+	  - Code du travail - art. D811 (VT)
+	  - Code du travail - art. L118-6 (AbD)
+	  - Code général des impôts, CGI. - art. 225 A (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: CODE GENERAL DES IMPOTS, CGI. - art. 231 bis I (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L6243-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ##### Chapitre IX : Dispositions diverses.
@@ -6595,52 +6676,48 @@ contraire dans le contrat.
 
 ##### DISPOSITIONS FINANCIERES .
 
-###### Article L118-1
+###### Article L118-6
 
-Dans les conditions fixées par le décret prévu à l'article L. 119-4, une partie du salaire versée aux apprentis :
-
-a) Est admise sans limitation en exonération de la taxe d'apprentissage lorsque les employeurs sont redevables de cette
-taxe ;
-
-b) Ou fait l'objet d'un concours financier prélevé sur les fonds collectés au titre de ladite taxe lorsque leurs employeurs
-ne sont pas en mesure d'imputer en tout ou partie cette part de salaire sur la taxe dont ils sont éventuellement redevables.
-Elle n'est pas soumise aux charges sociales, fiscales et parafiscales.
+Les employeurs inscrits au répertoire des métiers et dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle au
+registre des entreprises créé par le décret n. 73-942 du 3 octobre 1973, ainsi que ceux occupant dix salariés au plus
+[*effectif*] non compris les apprentis, reçoivent une prime par apprenti pour frais de formation. Le montant de cette prime
+est fixé par voie réglementaire. Elle est revisée annuellement en tenant compte de l'évolution du salaire de base des
+apprentis.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16 ART. 29 JORF 17 juillet
-
-	**Cité par**:
-
-	  - Arrêté du 9 avril 1979 - art. 1 (M)
-	  - Arrêté du 5 juin 1979 - art. 1 (M)
-	  - Décret n°80-106 du 1 février 1980 - art. 1 (P)
-	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 13 (Ab)
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 34 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 140 JA (P)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 (Ab)
-	  - Code de l'éducation - art. L214-13 (V)
-	  - Code du travail - art. D118 (VT)
-	  - Code du travail - art. D811-57 (Ab)
-	  - Code du travail - art. D811-58 (Ab)
-	  - Code du travail - art. D811-59 (Ab)
-	  - Code du travail - art. L117-15 (M)
-	  - Code du travail - art. L118-2 (M)
-	  - Code du travail - art. L118-2-2 (AbD)
-	  - Code du travail - art. L118-3 (M)
-	  - Code du travail - art. R119-2 (M)
-	  - Code du travail - art. R119-3 (M)
-	  - Code du travail - art. R119-4 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L119-4 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+	**Cite**:
+
+	  - Décret n°73-942 1973-10-03
+
+	**Cité par**:
+
+	  - Loi n°79-575 du 10 juillet 1979 - art. 9 (Ab)
+	  - Décret n°79-917 du 16 octobre 1979 - art. 1 (Ab)
+	  - Décret n°80-106 du 1 février 1980 - art. 5 (P)
+	  - Loi n°81-734 du 3 août 1981 - art. 23 (P)
+	  - Arrêté du 4 décembre 1981 - art. 1 (V)
+	  - Loi n°82-660 du 30 juillet 1982 - art. 6 (P)
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 3 (V)
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 9 (V)
+	  - Loi n°87-572 du 23 juillet 1987 - art. 18 (AbD)
+	  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 226 A (Ab)
+	  - Code du travail - art. R119-3 (M)
+	  - Code du travail - art. R119-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°79-917 du 16 octobre 1979 - art. 5 (Ab)
 
 
 ### CONTRAT DE TRAVAIL .
@@ -54737,6 +54814,137 @@ taxe due au titre de l'année 1976.
 	  - Code du travail - art. L118-3 (M)
 
 
+###### Article R119-2
+
+En application des articles L. 118-1 à L. 118-2-1 et L. 118-3-1 sont admis en exonération de la taxe d'apprentissage et sont
+pris en compte pour déterminer les sommes consacrées par une entreprise au financement de l'apprentissage au sens de
+l'article précédent :
+
+- a) Une partie du salaire versé aux apprentis, égale par apprenti à 11 p. 100 du SMIC ;
+
+- b) Les concours financiers apportés aux centres de formation d'apprentis institués par les articles L. 116-1 à L. 116-8 ;
+
+- c) Les concours financiers apportés aux écoles et centres prévus aux articles L. 118-2-1 et L. 118-3-1 ;
+
+- d) A défaut le versement au Trésor public prévu à l'article 4-I de la loi n. 71-578 du 16 juillet 1971.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-578 1971-07-16 ART. 4-I
+	  - Code du travail - art. L118-3-1 (T)
+	  - Code du travail L118-1 A L118-2-1, L118-3-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-27 (Ab)
+	  - Code du travail - art. R119-3 (VT)
+
+
+###### Article R119-3
+
+Les concours financiers mentionnés à l'article R. 119-2 ci-dessus sont destinés soit à assurer le fonctionnement ou
+l'équipement des centres et écoles rappelés audit article, soit à leur permettre d'opérer des versements au titre de la prime
+pour frais de formation établie par l'article L. 118-6.
+
+Ces concours sont versés soit directement à un centre ou à une école, soit aux organismes signataires des conventions cadres
+prévues à l'article R. 116-25 ou aux autres organismes collecteurs agréés en vertu de l'article 4 du décret n. 72-283 du 12
+avril 1972.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°72-283 du 12 avril 1972 - art. 4 (M)
+	  - Code du travail - art. L118-6 (M)
+	  - Code du travail - art. R116-25 (M)
+	  - Code du travail - art. R119-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 2003 - art. 1 (Ab)
+
+
+###### Article R119-4
+
+Le montant de la prime annuelle pour frais de formation établie par l'article L. 118-6 est fixé, pour 1978, à 1.600 F par
+apprenti ; les employeurs occupant moins de cinq salariés à la date de souscription du contrat d'apprentissage ouvrant droit
+à la prime bénéficient d'une prime au taux majoré de 2.500 F. Les apprentis ne sont pas pris en compte dans la détermination
+de cet effectif.
+
+Les montants ci-dessus mentionnés sont revisés annuellement par décret en tenant compte de l'évolution du salaire de base des
+apprentis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 17 février 1997
+	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 17 février 1997 - art. 1 (V)
+	  - Décret n°97-222 du 13 mars 1997 - art. 3 (V)
+	  - Code du travail - art. R119-29 (Ab)
+	  - Code du travail - art. R119-3 (M)
+	  - Code du travail - art. R119-33-1 (M)
+	  - Code du travail - art. R119-5 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K bis (Dis)
+
+	**Cite**:
+
+	  - Code du travail - art. L118-6 (M)
+
+
+###### Article R119-5
+
+La prime mentionnée à l'article précédent fait l'objet de versements semestriels à terme échu par le centre dans lequel est
+inscrit l'apprenti intéressé, sous réserve de l'assiduité de l'apprenti aux cours et autres activités pédagogiques organisées
+par le centre et à condition que l'agrément du maître d'apprentissage n'ait pas fait l'objet d'un retrait dans les conditions
+prévues à l'article L. 117-5, alinéa 4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-29 (Ab)
+	  - Code du travail - art. R119-3 (M)
+	  - Code du travail - art. R119-33-1 (M)
+	  - Code du travail - art. R119-4 (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K ter (P)
+
+	**Cite**:
+
+	  - Code du travail L117-5 AL. 4
+
+
 ##### B - Mesures provisoires d'adaptation en matière d'apprentissage
 
 ##### Section 1 : Des accords provisoires
@@ -55331,47 +55539,33 @@ exécutés jusqu'à leur terme.
 
 ##### Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
 
-###### Article R119-28
+###### Article R119-27
 
-Ouvrent droit au bénéfice de l'article R. 119-27, c, les écoles gérées par une entreprise ou un groupement d'entreprises,
-quel que soit le statut juridique de leurs élèves, sous réserve :
+Sont admis en exonération de la taxe d'apprentissage et pris en compte pour la détermination de la fraction de taxe prévue à
+l'article L. 118-3.
 
-a) Qu'elles existent depuis une date antérieure au 16 juillet 1971 ;
+a) Les concours financiers versés aux organismes bénéficiant d'un accord de transformation ou d'un avenant d'adaptation ;
 
-b) Qu'elles dispensent un enseignement à temps plein ;
-
-c) Qu'elles fonctionnement dans le cadre d'un accord national conclu entre les organisations syndicales d'employeurs et de
-salariés les plus représentatives ou en vertu de dispositions statutaires dans le cas des entreprises publiques dont le
-personnel est régi par un statut ;
-
-d) Qu'elles soient inscrites sur une liste établie par décision conjointe du ministre de l'éducation nationale, du ministre
-du travail, du ministre du développement industriel et scientifique et du ministre de l'économie et des finances ;
-
-e) Qu'elles ne fassent pas l'objet d'un contrat avec l'Etat passé au titre de la loi n. 59-1577 du 31 décembre 1959.
+c) Les salaires versés aux apprentis inscrits dans lesdits organismes, dans les limites fixées à l'article R. 119-2, a.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Circulaire  1972-10-24
-
-	**Anciens textes**:
-
-	  - Décret n°72-281 1972-04-12 ART. 23
-	  - Loi n°71-576 1971-07-16
-
-	**Cite**:
-
-	  - Loi n°59-1577 1959-12-31
-	  - Code du travail R119-27 c
+	  - TXT_ASSOCIE: Circulaire 1972-10-24
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - Code du travail - art. R119-27 (M)
+	  - Décret n°83-447 1983-06-01 ART. 15 JORF 5 JUIN 1983
+
+	**Cite**:
+
+	  - Code du travail - art. L118-3 (M)
+	  - Code du travail - art. R119-2 (M)
 
 
 ##### C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.
@@ -64849,6 +65043,65 @@ Il est interdit de laisser les salariés prendre leur repas dans les locaux affe
 	  - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
 
 
+###### Article R232-17
+
+Dans les établissements où le nombre des salariés désirant prendre habituellement leur repas sur les lieux de travail est au
+moins égal à vingt-cinq l'employeur est tenu [*obligation*] après avis du comité d'entreprise ou, à défaut, des délégués du
+personnel, de mettre un réfectoire à la disposition du personnel.
+
+Les parois et le sol de ce local doivent être imperméables.
+
+Le local doit être bien aéré et éclairé et convenablement chauffé pendant la saison froide.
+
+Il doit être pourvu de sièges et de tables en nombre suffisant pour que chaque usager dispose d'une place assise.
+
+Une installation permettant de réchauffer les plats, un poste d'eau potable et fraîche pour la boisson ainsi qu'un poste
+d'eau chaude par dix usagers prenant simultanément leur repas doivent être aménagés dans le réfectoire ou à proximité
+immédiate de celui-ci.
+
+Le réfectoire doit être nettoyé après chaque repas. Son accès est interdit aux usagers en dehors des heures prévues par le
+règlement intérieur.
+
+Dans les établissements disposant d'une cantine, le réfectoire peut être installé dans les locaux réservés à celle-ci.
+
+En outre, dans les établissements ou parties d'établissements où sont affectés des travaux de toute nature par des salariés
+appartenant ou non à l'entreprise et travaillant par équipes successives de façon habituelle et régulière selon un cycle
+continu ou semi-continu, l'employeur doit mettre à disposition de ces salariés et à proximité de leur lieu de travail un
+local spécial permettant de prendre des repas chauds.
+
+Ce local doit être installé, équipé et tenu de la même manière que le réfectoire ci-dessus défini. Il doit, en outre, être
+équipé de sièges confortables en nombre suffisant permettant aux salariés concernés de s'y reposer pendant les temps
+d'interruption de travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1913-07-10 ART. 7 AL. 2, 3, 4, 5, 6, 7 ET 8
+	  - Décret n°1960-10-05
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°65-48 1965-01-08 ART. 186 : dérogation dans les chantiers du bâtiment et des travaux publics de courte durée
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+	  - TXT_ASSOCIE: Code du travail - art. R232-44 (M)
+
+	**Cité par**:
+
+	  - Décret n°65-48 du 8 janvier 1965 - art. 186 (M)
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 17 (V)
+	  - Code du travail - art. R232-18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987
+
+
 ###### Article R232-18
 
 Dans les établissements non soumis aux dispositions de l'article précédent, l'autorisation de prendre les repas dans les
@@ -67299,191 +67552,6 @@ général d'agronomie, dans le délai de deux semaines à compter du jour où il
 	**Cite**:
 
 	  - Code du travail 117-13
-
-
-##### DISPOSITIONS FINANCIERES .
-
-###### Article R119-2
-
-En application des articles L. 118-1 et L. 118-2 sont admis en exonération de la taxe d'apprentissage et sont pris en compte
-pour déterminer les sommes consacrées par une entreprise au financement de l'apprentissage au sens de l'article précédent :
-
-a) Une partie du salaire versé aux apprentis, égale par apprenti :
-
-/M/A 15 p. 100 du S.M.I.C. pendant le premier semestre d'apprentissage ;
-
-A 10 p. 100 du S.M.I.C. pendant le ou les semestres suivants /M/DECR.0808 19-09-1974 : A 11 p. 100 du S.M.I.C.// ;
-
-b) Les concours financiers apportés aux centres de formation d'apprentis institués par les articles L. 116-1 à L. 116-8 ;
-
-c) A défaut, le versement au trésor public prévu à l'article 4-1 de la loi n. 71-578 du 16 juillet 1971.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-	  - Décret n°74-36 1974-01-17 JORF 19 janvier
-	  - Décret n°72-280 1972-04-12 ART. 59
-
-	**Cite**:
-
-	  - Loi n°71-578 1971-07-16 ART. 4-1
-	  - Code du travail - art. L118-1 (M)
-	  - Code du travail - art. L118-2 (M)
-	  - Code du travail L116-1 A L116-8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R119-27 (Ab)
-	  - Code du travail - art. R119-3 (VT)
-
-
-###### Article R119-3
-
-Les concours financiers mentionnés à l'article R. 119-2 b ci-dessus sont destinés soit à assurer le fonctionnement ou
-l'équipement  des centres de formation d'apprentis, soit à leur permettre d'opérer des versements, au titre de l'article L.
-118-1, au profit des employeurs mentionnés à l'article R. 119-4.
-
-Ces concours peuvent être versés soit directement à un centre, soit aux organismes signataires des conventions cadres prévues
-à l'article R. 116-25 ou aux autres organismes collecteurs agréés en vertu de l'article 4 du décret n. 72-283 du 12 avril
-1972.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-280 1972-04-12 ART. 60
-
-	**Cite**:
-
-	  - Décret n°72-283 du 12 avril 1972 - art. 4 (M)
-	  - Code du travail - art. L118-1 (M)
-	  - Code du travail - art. R116-25 (M)
-	  - Code du travail - art. R119-4 (M)
-	  - Code du travail R119-2 b, R119-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 30 juin 2003 - art. 1 (Ab)
-
-
-###### Article R119-4
-
-Les employeurs qui ne sont pas assujettis à la taxe d'apprentissage bénéficient du concours [*financier*] prévu à l'article
-L. 118-1. Ce concours est égal [*calcul*] aux sommes dont l'employeur aurait pu solliciter l'exonération s'il avait été
-assujetti à ladite taxe.
-
-Les employeurs qui sont redevables d'une taxe dont le montant total est inférieur à la somme des exonérations prévues à
-l'article R. 119-2 a peuvent également bénéficier de ce concours. Celui-ci est alors égal à la différence entre les sommes
-dont ils auront obtenu l'exonération et celles pour lesquelles ils auraient pu l'obtenir si le montant de la taxe due avait
-été suffisant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 17 février 1997
-	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 17 février 1997 - art. 2 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 17 février 1997 - art. 1 (V)
-	  - Décret n°97-222 du 13 mars 1997 - art. 3 (V)
-	  - Code du travail - art. R119-29 (Ab)
-	  - Code du travail - art. R119-3 (M)
-	  - Code du travail - art. R119-33-1 (M)
-	  - Code du travail - art. R119-5 (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K bis (Dis)
-
-	**Cite**:
-
-	  - Code du travail - art. L118-1 (M)
-	  - Code du travail R119-2 a
-
-	**Anciens textes**:
-
-	  - Décret n°72-280 1972-04-12 ART. 61
-
-
-###### Article R119-5
-
-Le concours financier prévu à l'article précédent est versé par le centre dans lequel est inscrit l'apprenti intéressé, au
-début de chaque année, pour les salaires payés au cours de l'année précédente, sous réserve de la constatation de l'assiduité
-aux cours et autres activités pédagogiques organisées par le centre de formation d'apprentis et à la condition qu'aucune
-insuffisance grave n'ait été constatée dans les formations pratiques reçues dans l'entreprise. Toutefois, sur sa demande,
-l'employeur peut bénéficier en cours d'année d'une avance forfaitaire.
-
-Les sommes nécessaires sont prélevées par l'organisme gestionnaire du centre sur le reliquat du produit des versements qu'il
-reçoit des employeurs en application de l'article R. 119-3 après prélèvement des sommes nécessaires au fonctionnement et,
-éventuellement, à l'équipement du centre, dans les limites des prévisions budgétaires établies en application de la
-convention passée entre l'Etat et l'organisme gestionnaire. Si ce reliquat est insuffisant, le centre peut recevoir une
-subvention de l'Etat dans les limites et selon les conditions fixées par la convention créant le centre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R119-29 (Ab)
-	  - Code du travail - art. R119-3 (M)
-	  - Code du travail - art. R119-33-1 (M)
-	  - Code du travail - art. R119-4 (M)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 140 K ter (P)
-
-
-##### MESURES PROVISOIRES D'ADAPTATION EN MATIERE D'APPRENTISSAGE
-
-##### DISPOSITIONS TRANSITOIRES RELATIVES AUX EXONERATIONS DE LA TAXE  D'APPRENTISSAGE .
-
-###### Article R119-27
-
-Sont admis en exonération de la taxe d'apprentissage et pris en compte pour la détermination de la fraction de taxe prévue à
-l'article L. 118-3 :
-
-a) Les concours financiers versés aux organismes bénéficiant d'un accord de transformation ou d'un avenant d'adaptation ;
-
-b) Les salaires versés aux apprentis inscrits dans lesdits organismes, dans les limites fixées à l'article R. 119-2, a ;
-
-c) A titre provisoire, et au plus tard jusqu'au /M/1er juillet 1976/M/DECR.0100 02-02-1977 : 1er juillet 1978// [*date
-limite*], les concours financièrs accordés aux écoles répondant aux conditions fixées à l'article suivant.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Circulaire  1972-10-24
-
-	**Anciens textes**:
-
-	  - Décret n°72-281 1972-04-12 ART. 22
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L118-3 (M)
-	  - Code du travail - art. R119-28 (Ab)
-	  - Code du travail R119-2 a, R119-28
 
 
 ##### INSPECTION DE L'APPRENTISSAGE .
