@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-02-05
+Version Consolidée au 1977-02-05 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -54589,6 +54589,30 @@ collègues.
 
 
 ### Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+
+#### Chapitre VII : Du contrat d'apprentissage
+
+##### Paragraphe 4 : Du contenu des contrats d'apprentissage.
+
+###### Article R117-10
+
+Le contrat d'apprentissage fait l'objet d'un écrit sous seing privé établi en trois exemplaires originaux. Chacun des
+exemplaires originaux doit être signé par l'employeur, par l'apprenti ainsi que par le représentant légal de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R6222-2 (V)
+
 
 #### Chapitre IX : Dispositions diverses
 
