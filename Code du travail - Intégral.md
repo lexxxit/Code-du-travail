@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-03-04
+Version Consolidée au 1975-05-07
 
 # Partie législative ancienne
 
@@ -69881,6 +69881,445 @@ amende de 1.300 F à 3.000 F (2) [*montant*].
 
 ### Titre II : EMPLOI
 
+#### Chapitre Ier : CONTROLE DE L'EMPLOI
+
+##### SECTION 1 : DISPOSITIONS GENERALES.
+
+###### Article R321-1
+
+Les employeurs des professions et établissements [*sous contrôle des services publics de la main-d'oeuvre*] prévus à
+l'article L. 321-1 (1.) sont tenus d'adresser, dans les huit premiers jours de chaque mois [*délai*], au directeur
+départemental du travail et de la main-d'oeuvre, le relevé des contrats de travail conclus ou résiliés au cours du mois
+précédent.
+
+Ce relevé doit contenir les mentions [*obligatoires*]
+
+suivantes :
+
+1. Nom et adresse de l'employeur ;
+
+2. Nature de l'activité de l'entreprise ;
+
+3. Nom, prénoms, nationalité, date de naissance, sexe adresse emploi et qualification du ou des salariés dont le contrat a
+été conclu ou résilié ;
+
+4. Date d'effet du ou des contrats de travail ou de leur résiliation avec, dans le cas de résiliation pour motif économique,
+l'indication de la nature de ce motif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 15 décembre 1977 - art. 2 (Ab)
+	  - Code du travail - art. R321-8 (VT)
+	  - Code du travail - art. R362-1 (T)
+	  - Code du travail - art. R362-1-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R320-1 (T)
+
+	**Cite**:
+
+	  - Code du travail L321-1 PAR. 1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
+
+
+###### Article R321-2
+
+Tout employeur assujetti aux dispositions de l'article L. 321-1 (2.) qui se propose de recruter du personnel doit,
+préalablement à la conclusion du ou des contrats de travail, adresser une demande d'autorisation au directeur départemental
+du travail et de la main-d'oeuvre.
+
+Cette demande, datée et signée, doit mentionner :
+
+1. Les nom et adresse de l'employeur ;
+
+2. La nature de l'activité de l'entreprise ;
+
+3. Les nom, prénoms, nationalité, date de naissance, sexe, adresse, emploi et qualification de la ou des personnes pour qui
+l'autorisation est demandée ;
+
+4. Le nom et l'adresse du précédent employeur, s'il y en a eu un ; à défaut, la demande précise s'il s'agit d'un travailleur
+privé d'emploi ou d'un travailleur devant occuper un premier emploi ;
+
+5. L'emploi et la qualification qui seront attribués à la personne embauchée ;
+
+6. Le cas échéant, le nombre des licenciements pour cause économique opérés au cours des douze mois précédents dans
+l'établissement dans lequel le ou les recrutements sont envisagés.
+
+La décision prise sur cette demande doit [*obligation*] parvenir à l'employeur dans un délai de sept jours à compter de la
+date d'envoi de celle-ci.
+
+Cette décision comporte soit l'admission ou le rejet de la demande présentée par l'employeur, soit la prorogation du délai
+ci-dessus pour une durée de sept jours au plus.
+
+A défaut de réception d'une décision dans le délai susindiqué, l'autorisation demandée est réputée [*présomption*] acquise.
+
+Le cachet apposé par l'administration des postes et télécommunications fait foi de la date d'envoi de la demande.
+
+La décision est prise par le directeur départemental du travail et de la main-d'oeuvre [*compétence*] qui en avise
+l'employeur par lettre recommandée.
+
+Cette lettre peut être remplacée par une notification accompagnée d'un reçu que l'employeur date et signe. Si l'employeur
+refuse de recevoir notification, il fait mention de ce refus sur ledit reçu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Décret n°85-301 du 5 mars 1985 - art. 2 (V)
+	  - Arrêté du 15 décembre 1977 - art. 3 (Ab)
+	  - Code du travail - art. R321-4 (M)
+	  - Code du travail - art. R321-5 (Ab)
+	  - Code du travail - art. R321-6 (M)
+	  - Code du travail - art. R321-7 (VT)
+	  - Code du travail - art. R321-8 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail L231-1 PAR. 2
+
+
+###### Article R321-3
+
+Tout employeur assujetti aux dispositions de l'article L. 321-2 (2.) qui désire licencier un salarié doit en faire la demande
+[*autorisation préalable*] au directeur départemental du travail et de la main-d'oeuvre. Cette demande, datée et signée,
+
+doit comporter, outre les indications prévues à l'article R. 321-2 ci-dessus (1., 2., 3.), les motifs invoqués pour justifier
+le licenciement.
+
+Les dispositions qui précèdent ne sont pas applicables aux employeurs qui relèvent du régime fixé par l'article R. 321-8.
+
+La décision statuant sur la demande prévue au premier alinéa du présent article est prise dans les conditions de forme et de
+délai définies à l'article R. 321-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Arrêté du 15 décembre 1977 - art. 3 (Ab)
+	  - Code du travail - art. R321-4 (M)
+	  - Code du travail - art. R321-5 (Ab)
+	  - Code du travail - art. R321-6 (M)
+	  - Code du travail - art. R321-8 (VT)
+	  - Code du travail - art. R362-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail L321-1 PAR. 2
+
+
+###### Article R321-4
+
+Pour l'exercice des attributions [*autorisation de licenciement*] qui lui appartiennent, en vertu des articles R. 312-2 et R.
+321-3, le directeur départemental du travail et de la main-d'oeuvre peut déléguer sa signature aux fonctionnaires placés sous
+son autorité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
+	  - Code du travail - art. D322-6 (VT)
+	  - Code du travail - art. R321-6 (M)
+	  - Code du travail - art. R321-8 (VT)
+	  - Code du travail - art. R321-9 (M)
+	  - Code du travail - art. R362-1 (T)
+	  - Code du travail - art. R362-1-1 (VT)
+	  - Code du travail - art. R436-5 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R321-2 (M)
+	  - Code du travail - art. R321-3 (M)
+
+
+###### Article R321-5
+
+Dans tout établissement ou profession relevant de l'article L. 321-1, les engagements, licenciements et démissions ainsi que
+l'expiration des contrats à durée déterminée sont consignés sur un registre spécial constamment tenu à la disposition des
+fonctionnaires chargés de veiller à l'application des dispositions du présent chapitre ainsi que des délégués du personnel.
+
+Ce registre indique pour chaque personne concernée [*mentions obligatoires*] :
+
+1. Les nom, prénoms, nationalité, date de naissance, sexe adresse, emploi et qualification ;
+
+2. Les dates d'entrée et de sortie de l'établissement ;
+
+3. Quand elles sont requises, la date des autorisations prévues aux articles R. 321-2 et R. 321-3 ou, à défaut, la date des
+demandes de l'employeur.
+
+Lorsque l'employeur d'au moins un salarié permanent fait appel à au moins un travailleur mis à sa disposition par une
+entreprise de travail temporaire, il est en outre tenu de consigner sur ce registre, pour chaque travailleur mis à
+disposition, les indications prévues aux 1. et 2. de l'alinéa précédent avec la mention "travailleur employé à titre
+temporaire". Le nom et l'adresse de l'entrepreneur de travail temporaire doivent également être précisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Arrêté du 15 décembre 1977 - art. 4 (Ab)
+	  - Code du travail - art. R321-6 (M)
+	  - Code du travail - art. R321-7 (VT)
+	  - Code du travail - art. R321-8 (VT)
+	  - Code du travail - art. R362-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°93-631 du 26 mars 1993
+	  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail - art. L321-1 (M)
+	  - Code du travail - art. R321-2 (M)
+	  - Code du travail - art. R321-3 (M)
+	  - Code du travail R321-1 A R321-11
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R321-11 (M)
+	  - Code du travail R321-11 (1973)
+
+
+###### Article R321-6
+
+Les attributions [*autorisation de licenciement*] conférées par les articles R. 321-2 et R. 321-3 au directeur départemental
+du travail et de la main-d'oeuvre sont exercées dans les branches d'activité échappant à la compétence de ce directeur par
+les fonctionnaires chargés du contrôle de l'emploi dans lesdites branches.
+
+Les dispositions de l'article R. 321-4 [*délégation*] sont applicables à ces fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
+	  - Code du travail - art. R312-2 (M)
+	  - Code du travail - art. R321-8 (VT)
+	  - Code du travail - art. R321-9 (M)
+	  - Code du travail - art. R362-1 (T)
+	  - Code du travail - art. R362-1-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R321-2 (M)
+	  - Code du travail - art. R321-3 (M)
+	  - Code du travail - art. R321-4 (M)
+
+
+###### Article R321-7
+
+Sous réserve des sanctions pénales prévues par les articles L. 361-1 et R. 362-1 (alinéa 2) les décisions prises en vertu des
+articles précédents ne portent pas atteinte aux dispositions de droit commun qui régissent les rapports entre employeurs et
+salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+	  - Code du travail - art. R321-8 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L361-1 (M)
+	  - Code du travail R362-1 AL. 2
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R321-9 (M)
+
+
+##### SECTION 2 : DISPOSITIONS SPECIALES.
+
+###### Article R321-8
+
+Tout employeur auquel sont applicables les articles L. 321-7 (1er alinéa) et L. 321-9 doit, sans préjudice de l'observation
+des règles posées à l'article L. 321-4, adresser au directeur départemental du travail et de la main-d'oeuvre une demande
+d'autorisation de licenciement comportant les mentions [*obligatoires*] suivantes :
+
+1. Nom et adresse de l'employeur ;
+
+2. Nature de l'activité de l'entreprise ;
+
+3. Nom, prénoms, nationalité, date et naissance, sexe, adresse, emploi et qualification du ou des salariés dont le
+licenciement est demandé ;
+
+4. Date à laquelle le ou les salariés concernés ont été embauchés par l'entreprise ;
+
+5. Nature de la ou des raisons économiques, financières ou techniques invoquées ;
+
+6. Mesures prises éventuellement pour réduire le nombre des licenciements et faciliter le reclassement du personnel faisant
+l'objet de la demande d'autorisation de licenciement ;
+
+7. Calendier prévisionnel des licenciements.
+
+La décision prise sur cette demande doit parvenir à l'employeur soit dans le délai de trente jours /M/prévu à l'article L.
+321-9 (alinéa 1er) s'il s'agit d'un licenciement collectif, soit dans un délai de sept jours prévu à l'alinéa 2 du même
+article s'il s'agit d'un licenciement individuel/M/DECR.0295 02-04-1976 :
+
+établi par l'article L. 321-9 (1er alinéa) lorsqu'il s'agit d'un licenciement relevant dudit alinéa, soit dans le délai de
+sept jours établi par l'article L. 321-9 (2. alinéa) lorsqu'il s'agit des autres cas de licenciement pour cause
+économique// . Ce dernier délai peut être prorogé pour une durée de sept jours au plus.
+
+Le délai court à compter de la date d'envoi de la demande d'autorisation.
+
+A défaut de réception d'une décision dans l'un ou l'autre délai, l'autorisation demandée est réputée acquise.
+
+Le cachet apposé par l'administration des postes et télécommunications fait foi de la date d'envoi de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (M)
+	  - Code du travail - art. R321-3 (M)
+	  - Code du travail - art. R321-8 (M)
+	  - Code du travail - art. R321-9 (M)
+	  - Code du travail - art. R362-1 (M)
+	  - Code du travail - art. R436-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L321-4 (M)
+	  - Code du travail - art. L321-9 (M)
+	  - Code du travail L321-7 AL. 1, L321-9, L321-4
+
+
+###### Article R321-9
+
+Toute personne qui aura contrevenu aux dispositions du premier alinéa de l'article L. 320-1 ainsi qu'à l'arrêté pris pour son
+application sera punie de la peine d'amende prévue pour les contraventions de la 4e classe.
+
+Sera punie de la même peine toute personne qui aura contrevenu aux dispositions de l'article L. 321-1 ou du 1° (b) de
+l'article L. 321-2 ou qui n'aura pas fourni les renseignements prévus aux articles R. 320-1, R. 321-1, R. 321-4 et R. 321-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - PEREMPTION: Décret n°87-134 1987-02-27 art. 3 III JORF 28 février 1987
+
+	**Cite**:
+
+	  - Code du travail - art. R321-4 (M)
+	  - Code du travail - art. R321-6 (M)
+	  - Code du travail - art. R321-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R321-7 (M)
+
+
+###### Article R321-11
+
+Sous réserve des sanctions pénales prévues par les articles L. 321-11 et R. 362-1 (alinéa 3) ainsi que des dispositions de
+l'article L. 321-12, les décisions prises en vertu des articles précédents ne portent pas atteinte aux dispositions de droit
+commun qui régissent les rapports entre employeurs et salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - PEREMPTION: Décret n°87-134 1987-02-27 art. 3 III JORF 28 février 1987
+
+	**Cite**:
+
+	  - Code du travail - art. L321-11 (M)
+	  - Code du travail - art. L321-12 (M)
+	  - Code du travail R362-1 AL. 3
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R321-9 (M)
+	  - Code du travail R321-9 (1973)
+
+
 #### Chapitre II : FONDS NATIONAL DE L'EMPLOI
 
 ##### SECTION 1 : CONVENTIONS DE COOPERATION
@@ -70451,308 +70890,12 @@ occupé et le salaire perçu.
 
 ### CONTROLE DE L'EMPLOI .
 
-###### Article R321-1
-
-Les employeurs des professions et établissements [*sous contrôle des services publics de la main-d'oeuvre*] prévus à
-l'article L. 321-1 (1.) sont tenus de porter tout embauchage ou résiliation de contrat de travail à la connaissance du
-service départemental de la main-d'oeuvre ou de la section locale de ce service, sous pli recommandé, dans les quarante-huit
-heures.
-
-Cet avis doit contenir les mentions [*obligatoires*] suivantes :
-
-1. Nom ou raison sociale de l'employeur et adresse ;
-
-2. Nom, prénoms, nationalité, âge, sexe, adresse et qualification professionnelle du ou des salariés embauchés ou licenciés ;
-
-3. Date de l'embauchage ou de la résiliation du contrat de travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
-	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
-	  - Arrêté du 15 décembre 1977 - art. 2 (Ab)
-	  - Code du travail - art. R321-8 (VT)
-	  - Code du travail - art. R362-1 (T)
-	  - Code du travail - art. R362-1-1 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R320-1 (T)
-
-	**Cite**:
-
-	  - Code du travail L321-1 PAR. 1
-
-
-###### Article R321-2
-
-Tout employeur assujetti aux dispositions de l'article L. 321-1 (2.) qui se propose de recruter du personnel doit
-[*obligation*], préalablement à la conclusion du contrat de travail, adresser une demande d'autorisation au service
-départemental de la main-d'oeuvre ou à la section locale de ce service.
-
-Cette demande, datée et signée, doit mentionner :
-
-1. Les nom, prénoms, adresse et raison sociale de l'employeur ;
-
-2. Les nom, prénoms, nationalité, âge, sexe, résidence habituelle et qualification ou spécialité professionnelle de la
-personne pour laquelle l'autorisation est demandée, ainsi que la désignation de son précédent employeur, s'il y a lieu ;
-
-3. La fonction ou l'emploi que doit remplir la personne à embaucher.
-
-Dans le cas où le travailleur est présenté par l'Agence nationale pour l'emploi [*ANPE*] la carte de présentation par elle
-délivrée tient lieu d'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Décret n°85-301 du 5 mars 1985 - art. 2 (V)
-	  - Arrêté du 15 décembre 1977 - art. 3 (Ab)
-	  - Code du travail - art. R321-4 (M)
-	  - Code du travail - art. R321-5 (Ab)
-	  - Code du travail - art. R321-6 (M)
-	  - Code du travail - art. R321-7 (VT)
-	  - Code du travail - art. R321-8 (VT)
-
-	**Cite**:
-
-	  - Code du travail L321-1 PAR. 2
-
-
-###### Article R321-3
-
-Tout employeur assujetti aux dispositions de l'article L. 321-1 (2.) qui désire licencier un salarié doit en faire la demande
-[*autorisation préalable*] au service départemental de la main-d'oeuvre ou à la section locale de ce service.
-
-Cette demande, datée et signée, doit comporter outre les indications prévues à l'article R. 321-1 ci-dessus (1. et 2.)
-
-les motifs invoqués pour justifier le licenciement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Arrêté du 15 décembre 1977 - art. 3 (Ab)
-	  - Code du travail - art. R321-4 (M)
-	  - Code du travail - art. R321-5 (Ab)
-	  - Code du travail - art. R321-6 (M)
-	  - Code du travail - art. R321-8 (VT)
-	  - Code du travail - art. R362-1 (M)
-
-	**Cite**:
-
-	  - Code du travail R321-1 PAR. 1 ET 2
-
-
-###### Article R321-4
-
-Toute personne employée dans un établissement assujetti aux dispositions de l'article L. 321-1 (2.) [*autorisation
-préalable*]
-
-qui désire rompre le contrat qui la lie à son employeur doit en adresser la demande [*formalité obligatoire*] au service
-départemental de la main-d'oeuvre ou à la section locale de ce service et en faire parvenir un double à son employeur.
-
-Cette demande, datée et signée, doit mentionner :
-
-1. Les nom, prénoms, nationalité, âge, sexe, résidence habituelle et qualification ou spécialité professionnelle de
-l'intéressé ;
-
-2. Les motifs qui justifient sa demande ;
-
-3. Eventuellement, l'emploi ou l'activité nouvelle que l'intéressé se propose d'occuper ou d'exercer.
-
-Le double de la demande adressée à l'employeur doit être envoyé par celui-ci, revêtu de son avis, dans un délai de vingt-
-quatre heures, au service départemental de la main-d'oeuvre ou à la section locale de ce service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
-	  - Code du travail - art. D322-6 (VT)
-	  - Code du travail - art. R321-6 (M)
-	  - Code du travail - art. R321-8 (VT)
-	  - Code du travail - art. R321-9 (M)
-	  - Code du travail - art. R362-1 (T)
-	  - Code du travail - art. R362-1-1 (VT)
-	  - Code du travail - art. R436-5 (VT)
-
-	**Cite**:
-
-	  - Code du travail L321-1 PAR. 2
-
-
-###### Article R321-5
-
-Dans un délai de sept jours francs à compter de la date d'envoi de la demande, le service est tenu [*obligation*] de faire
-connaître au demandeur, soit qu'il accorde, soit qu'il refuse l'autorisation d'embauchage ou de résiliation du contrat de
-travail, soit qu'il entend, avant de statuer, procéder à une enquête ou aux vérifications qu'il juge utiles.
-
-Le cachet apposé par l'administration des postes et télécommunications fait foi de la date d'envoi de la demande.
-
-Si la demande de résiliation du contrat de travail est justifiée par un motif d'incapacité physique, le service peut
-subordonner sa décision au résultat d'un examen médical pratiqué par un médecin assermenté choisi sur une liste dressée par
-le préfet.
-
-Lorsque la demande émane du salarié, notification de la décision doit être adressée à l'employeur.
-
-A défaut de réponse dans le délai prescrit à l'alinéa 1er, l'autorisation demandée est considérée [*présomption*] comme
-acquise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Arrêté du 15 décembre 1977 - art. 4 (Ab)
-	  - Code du travail - art. R321-6 (M)
-	  - Code du travail - art. R321-7 (VT)
-	  - Code du travail - art. R321-8 (VT)
-	  - Code du travail - art. R362-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°93-631 du 26 mars 1993
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R321-11 (M)
-
-
-###### Article R321-6
-
-Le délai prévu à l'article précédent est ramené à trois jours francs lorsque l'autorisation d'embauchage est sollicitée pour
-un travailleur sans emploi.
-
-Il est également fixé à la même durée lorsqu'une des parties invoque, à l'appui d'une demande de résiliation du contrat de
-travail, une faute grave [*condition*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Décret n°78-389 du 17 mars 1978 - art. 25-2 (V)
-	  - Code du travail - art. R312-2 (M)
-	  - Code du travail - art. R321-8 (VT)
-	  - Code du travail - art. R321-9 (M)
-	  - Code du travail - art. R362-1 (T)
-	  - Code du travail - art. R362-1-1 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. R321-5 (M)
-
-
-###### Article R321-7
-
-Tout refus opposé à une demande de résiliation de contrat de travail peut être porté [*recours*] devant le préfet qui statue
-après avis d'une commission consultative.
-
-Les membres de cette commission, nommés par le préfet, comprennent [*composition*] : deux représentants des employeurs et
-deux [*nombre*] représentants des travailleurs, proposés respectivement par les organisations syndicales les plus
-représentatives des employeurs et des travailleurs dans le département. Quatre membres suppléants sont désignés dans les
-mêmes conditions.
-
-La commission se réunit au siège de la direction départementale du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-	  - Code du travail - art. R321-8 (VT)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R321-9 (M)
-
-
-###### Article R321-8
-
-Le recours prévu à l'article précédent doit être formé dans les trois jours [*délai, point de départ*] qui suivent la
-réception de la notification du refus d'autorisation. A cet effet, le demandeur adresse une lettre recommandée au directeur
-départemental du travail et de la main-d'oeuvre.
-
-Le directeur départemental du travail et de la main-d'oeuvre fait connaître la décision du préfet au demandeur et en avise le
-chef du service départemental de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (M)
-	  - Code du travail - art. R321-3 (M)
-	  - Code du travail - art. R321-8 (M)
-	  - Code du travail - art. R321-9 (M)
-	  - Code du travail - art. R362-1 (M)
-	  - Code du travail - art. R436-5 (M)
-
-
-###### Article R321-9
-
-Sous réserve de l'application des sanctions prévues par les articles P.L. et P.R., les décisions prises en vertu des articles
-précédents ne portent pas atteinte aux dispositions de droit commun qui régissent les rapports entre employeurs et salariés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R321-11 (M)
-	  - Code du travail - art. R321-7 (M)
-
-
 ###### Article R321-10
 
-Il peut être alloué aux membres de la commission consultative des frais de vacations et, s'ils ne résident pas au lieu où
-siège cette commission, des frais de déplacement dans les conditions déterminées par arrêté du ministre chargé du travail et
-du ministre chargé des finances.
+L'information que le syndic ou l'employeur doit donner à l'autorité administrative en vertu de l'article L. 321-7 (alinéa 2)
+comporte les mentions [*obligatoires*] prévues aux 1. à 4. ainsi qu'aux 6. et 7. de l'article R. 321-8.
+
+Elle indique en outre la date à laquelle a été prononcé le règlement judiciaire ou la liquidation des biens.
 
 **Liens relatifs à cet article**
 
@@ -70766,41 +70909,14 @@ du ministre chargé des finances.
 	  - Code du travail - art. R323-17 (P)
 	  - Code du travail - art. R362-1 (M)
 
+	**Liens**:
 
-###### Article R321-11
-
-Dans tout établissement soumis aux prescriptions de l'article L. 321-1, les engagements, licenciements et démissions sont
-consignés sur un registre spécial constamment tenu à la disposition des fonctionnaires et agents chargés du contrôle.
-
-Ce registre indique pour chaque personne intéressée [*mentions obligatoires*] :
-
-1. Les nom, prénoms, nationalité, âge, sexe, adresse, qualification ou spécialité professionnelle ;
-
-2. Les dates d'entrée et de sortie de l'établissement ;
-
-3. Les décisions du service ou, à défaut, les dates des demandes adressées à ce service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (M)
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail R362-1 : SANCTIONS PENALES
 
 	**Cite**:
 
-	  - Code du travail - art. L321-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R321-5 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail - art. R321-9 (M)
+	  - Code du travail L321-7 AL. 2
 
 
 ### FONDS NATIONAL DE L'EMPLOI .
