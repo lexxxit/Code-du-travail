@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-03
+Version Consolidée au 1979-01-04
 
 # Partie législative ancienne
 
@@ -2192,6 +2192,83 @@ du travail au 1er mai 2008.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L1221-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L121-4
+
+On ne peut engager ses services qu'à temps ou pour une entreprise déterminée.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°79-11 1979-01-03 ART. 9 : DATE D'APPLICATION DE LA LOI
+
+	**Créé par**:
+
+	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 janvier 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-1 (T)
+
+	**Cité par**:
+
+	  - Code du travail - art. L721-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L121-6
+
+L'engagement d'un ouvrier ne peut excéder un an [*durée limite*], à moins qu'il ne soit contremaître, conducteur des autres
+ouvriers ou qu'il n'ait un traitement et des conditions stipulés par un acte exprès [*contrat*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°79-11 1979-01-03 ART. 9 : DATE D'APPLICATION DE LA LOI
+
+	**Créé par**:
+
+	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 JANVIER 1979
+
+	**Abrogé par**:
+
+	  - Ordonnance 82-130 1982-02-05 ART. 3 JORF 6 FEVRIER 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. L121-6-1 (AbD)
+	  - Code du travail - art. L721-6 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1221-6 (VD)
+	  - Code du travail - art. L1222-2 (VD)
 
 	**Codifié par**:
 
@@ -7134,6 +7211,28 @@ contraire dans le contrat.
 	  - Décret n°73-1046 1973-11-15
 
 
+##### STATUT DE L'APPRENTI .
+
+###### Article L117 BIS-3
+
+/A/Dans les établissements ou dans les professions mentionnés à l'article L. 200-1/A/LOI 13 1979-01-03// Les apprentis de
+l'un ou de l'autre sexe âgés de moins de dix-huit ans [*jeunes*] ne peuvent être employés [*interdiction*] à un travail
+effectif de plus de huit heures par jour et de quarante heures par semaine [*durée maximum*].
+
+Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la
+limite de cinq heures par semaine, par l'inspecteur du travail, après avis conforme du médecin du travail de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L200-1 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### CONTRAT DE TRAVAIL .
 
 ###### Article L120-1
@@ -7202,6 +7301,44 @@ textes, seul le texte rédigé dans la langue du salarié étranger peut être i
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+
+#### DISPOSITIONS GENERALES.
+
+###### Article L121-5
+
+Sous réserve des dispositions de l'article L. 122-3 ci-après, la durée du contrat de travail est, sauf convention contraire,
+réglée suivant les usages des lieux ou de la profession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°79-11 1979-01-03 ART. 9 : DATE D'APPLICATION DE LA LOI
+
+	**Créé par**:
+
+	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 janvier
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L122-2 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1221-2 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L721-6 (M)
 
 
 #### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS.
@@ -12103,8 +12240,8 @@ les professions mentionnées à l'alinéa 1er de l'article L. 200-1.
 
 Toutefois, à titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées par
 l'inspecteur du travail pour les établissements commerciaux et ceux du spectacle. En ce qui concerne les professions de la
-restauration et de l'hôtellerie, un décret en Conseil d'Etat détermine les conditions dans lesquelles il peut être dérogé aux
-dispositions de l'alinéa précédent.
+boulangerie, de la restauration et de l'hôtellerie, un décret en Conseil d'Etat détermine les conditions dans lesquelles il
+peut être dérogé aux dispositions de l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
