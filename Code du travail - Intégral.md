@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-07-13
+Version Consolidée au 1975-07-26
 
 # Partie législative ancienne
 
@@ -54404,6 +54404,51 @@ Il ne peut avoir lieu dans les débits de boissons ou magasins de vente, sauf po
 
 ##### Section 2 : Procédure de cession et de saisie-arrêt.
 
+###### Article R145-3
+
+La saisie-arrêt portant sur les rémunérations mentionnées à l'article L. 145-1 ne peut, quel qu'en soit le montant, être
+faite, même si le créancier a titre, qu'après un essai de conciliation devant le juge du tribunal d'instance de la résidence
+du débiteur.
+
+A cet effet, sur la réquisition du créancier, le juge convoque le débiteur devant lui au moyen d'une lettre recommandée
+adressée par le greffier avec demande d'avis de réception. Le délai pour la comparution est de huit jours à partir de la date
+de remise figurant à l'avis de réception.
+
+Les lieu, jour et heure de l'essai de conciliation sont indiqués verbalement au créancier au moment où il formule sa
+réquisition.
+
+A défaut d'avis de réception et si le débiteur ne se présente pas, le créancier doit, sauf s'il a un titre exécutoire, le
+citer à nouveau en conciliation par exploit d'huissier dans le délai prescrit à l'alinéa 2 du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
+
+	**Cité par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 45 (V)
+	  - Décret n°92-755 du 31 juillet 1992 - art. 47 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*321-29 (Ab)
+	  - Code de la sécurité sociale. - art. D814-29 (Ab)
+	  - Code du travail - art. L712-30 (AbD)
+	  - Code du travail - art. R145-10 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L145-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 64 al. 2
+	  - Décret n°72-788 1972-08-08 art. 176
+
+
 ###### Article R145-4
 
 Le juge du tribunal d'instance, assisté de son greffier, dresse procès-verbal sommaire de la comparution des parties, qu'elle
@@ -54546,6 +54591,34 @@ concurrence de la somme répartie.
 	**Anciens textes**:
 
 	  - Code du travail 66 derniers alinéas
+
+
+###### Article R145-11
+
+Le délai pour interjeter appel est de quinze jours. Il court pour les jugements contradictoires, du jour du prononcé du
+jugement pour les jugements réputés contradictoires du jour de leur notification.
+
+Le jugement contradictoire n'a pas besoin d'être signifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-707 du 8 août 1979 - art. 11 (M)
+	  - Code de la sécurité sociale. - art. D814-29 (Ab)
+	  - Code du travail - art. L712-30 (AbD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
 
 
 ###### Article R145-16
@@ -55114,6 +55187,45 @@ prendre part à la mainlevée prévue aux articles L. 154-4 et R. 145-16, des cr
 
 
 ## Livre II : Réglementation du travail
+
+### Chapitre préliminaire
+
+#### Section 2 : Agence nationale pour l'amélioration des conditions de travail.
+
+###### Article R200-5
+
+L'agence a pour objet d'entreprendre et de favoriser toute action tendant à améliorer les conditions de travail, notamment
+dans les domaines suivants :
+
+L'organisation du travail et du temps de travail ;
+
+L'environnement physique du travailleur et l'adaptation des postes et locaux de travail ;
+
+La participation des salariés à l'organisation du travail ;
+
+Les méthodes d'étude et d'appréciation des conditions de travail.
+
+A cette fin, elle est chargée, en particulier :
+
+De rassembler et diffuser l'information utile ;
+
+D'organiser des échanges et des rencontres ;
+
+De coordonner et susciter des recherches ;
+
+D'inciter les constructeurs à concevoir des machines et des bâtiments industriels adaptés ;
+
+D'apporter son concours à des actions de formation ;
+
+De susciter et d'encourager le développement d'opérations et d'expériences dans les services publics et les entreprises,
+notamment en fournissant des informations et en donnant la possibilité de consulter des experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
 
 ### Titre Ier : Conditions du travail
 
@@ -62038,43 +62150,6 @@ En cas de récidive dans le délai d'un an, les contrevenants seront passibles d
 	  - Décret n°72-985 1972-10-24 art. 14
 
 
-###### Article R260-2
-
-L'amende est appliquée autant de fois qu'il y a de personnes employées dans des conditions contraires aux prescriptions
-mentionnées aux articles R. 260-1, R. 261-1 /M/R. 261-2/M/DECR.0808 19-09-1974 : R. 261-5//, R. 261-6, R. 261-7.
-
-En cas de pluralité de contraventions entraînant les peines de la récidive, l'amende est appliquée autant de fois qu'il a été
-relevé de nouvelles infractions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R260-1 (Ab)
-	  - Code du travail - art. R261-1 (M)
-	  - Code du travail - art. R261-2 (Ab)
-	  - Code du travail - art. R261-5 (M)
-	  - Code du travail - art. R261-6 (M)
-	  - Code du travail - art. R261-7 (M)
-	  - Code du travail - art. R261-8 (M)
-	  - Code du travail - art. R262-1 (M)
-	  - Code du travail - art. R262-3 (M)
-	  - Code du travail - art. R262-6 (M)
-	  - Code du travail - art. R262-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R260-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°72-985 1972-10-24 art. 16
-
-
 #### Chapitre Ier : Conditions du travail
 
 ##### Section 1 : Age d'admission
@@ -65937,6 +66012,56 @@ d'origine et de leur situation personnelle et leur répartition sur le territoir
 
 ##### PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.
 
+###### Article R341-11-1
+
+Un comité consultatif est placé auprès de l'office national d'immigration.
+
+Il comprend :
+
+Le président du conseil d'administration, président ;
+
+Le directeur général du travail et de l'emploi ou son représentant et le directeur de la population et des migrations ou son
+représentant ;
+
+Un représentant du ministre des affaires étrangères ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ou des ministres chargés de l'industrie, du commerce et de l'artisanat ;
+
+Un représentant du ministre chargé de l'agriculture ;
+
+Cinq [*nombre*] représentants des organisations professionnelles d'employeurs et cinq représentants des organisations
+syndicales de travailleurs, nommés pour trois ans [*durée*] par arrêté du ministre du travail, sur proposition des
+organisations syndicales nationales les plus représentatives des employeurs et des travailleurs. Leurs fonctions sont
+renouvelables dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R341-11-2
+
+Le comité consultatif peut émettre des avis et des voeux sur toutes questions relevant des attributions du conseil
+d'administration. Le comité est obligatoirement consulté sur le projet de budget annuel de l'office et sur les rapports que
+le directeur est tenu d'adresser au conseil d'administration en vertu de l'article R. 341-19.
+
+Le président transmet au conseil d'administration les avis et les propositions du comité consultatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R341-19 (M)
+
+
 ###### Article R341-12
 
 Les services de l'Office sont placés sous l'autorité d'un directeur nommé par décret en conseil des ministres sur la
@@ -66698,6 +66823,532 @@ Ces pénalités ne sauraient préjudicier à l'application de celles prévues pa
 
 
 ## REGLEMENTATION DU TRAVAIL
+
+### AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .
+
+###### Article R200-6
+
+Le conseil d'administration de l'agence pour l'amélioration des conditions de travail comprend :
+
+1. Cinq [*nombre*] représentants des organisations d'employeurs les plus représentatives sur le plan national ;
+
+2. Cinq représentants des organisations syndicales de travailleurs les plus représentatives sur le plan national ;
+
+3. Deux personnes qualifiées en matière de conditions de travail ;
+
+4. Un représentant du ministre chargé du travail ;
+
+5. Un représentant du ou des ministres chargés de l'industrie, du commerce et de l'artisanat ;
+
+6. Un représentant des autres ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R200-7
+
+Sous réserve des dispositions de l'alinéa 4 du présent article, les membres du conseil d'administration sont nommés par
+arrêté du ministre chargé du travail.
+
+Les membres prévus aux 1. et 2. de l'article R. 200-6 sont nommés sur proposition soit des organisations d'employeurs, soit
+des organisations de travailleurs.
+
+Les membres prévus aux 5. et 6. de l'article R. 200-6 sont nommés sur proposition, le cas échéant conjointe, du ou des
+ministres qu'ils doivent représenter.
+
+Dans le cas de désaccord pour la désignation de ces derniers membres, la nomination de ceux-ci est faite par arrêté du
+Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 2 JORF 2 OCTOBRE 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-9 (T)
+
+	**Cite**:
+
+	  - Code du travail R200-6 AL. 1, 2, 5, 6
+
+
+###### Article R200-8
+
+Les membres prévus aux 1., 2. et 3. de l'article R. 200-6 [*représentant des organisations d'employeurs, de travailleurs ;
+personnes qualifiées en matière de conditions de travail*] sont nommés pour trois ans.
+
+Il est pourvu sans délai aux vacances qui viennent à se produire. Les nominations auxquelles il est ainsi procédé n'ont
+d'effet que jusqu'à l'expiration du mandat des membres remplacés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 2 JORF 2 OCTOBRE 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-10 (T)
+
+	**Cite**:
+
+	  - Code du travail R200-6 AL. 1, 2, 3
+
+
+###### Article R200-9
+
+L'élection du président du conseil d'administration est opérée à la majorité absolue des membres composant le conseil
+d'administration [*mode de scrutin*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1986 - art. 3 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-11 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-7 (Ab)
+
+
+###### Article R200-10
+
+La désignation des personnalités [*représentants des organisations d'employeurs et de travailleurs*] prévues au deuxième
+alinéa de l'article L. 200-7 est notifiée, selon le cas, par le président de l'Assemblée nationale, le président du Sénat ou
+par le président du Conseil économique et social au ministre chargé du travail qui en informe le président du conseil
+d'administration de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-12 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-8 (Ab)
+	  - Code du travail - art. R200-8 (V)
+
+	**Cite**:
+
+	  - Code du travail L200-7 AL. 2
+
+
+###### Article R200-11
+
+Outre les personnalités [*représentants des organisations d'employeurs et de travailleurs*] prévues au deuxième alinéa de
+l'article L. 200-7, assistent avec voix consultative aux réunions du conseil d'administration :
+
+Le contrôleur financier de l'agence ;
+
+Le directeur et l'agent comptable de celle-ci ;
+
+En tant que de besoin les représentants des ministres qui ne siègent pas au conseil d'administration lorsque celle-ci est
+appelé à connaître de questions entrant dans les attributions de ces ministres ;
+
+Toute personne dont il paraît utile de recueillir l'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-13 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-9 (T)
+	  - Code du travail - art. R200-9 (V)
+
+	**Cite**:
+
+	  - Code du travail L200-7 AL. 2
+
+
+###### Article R200-12
+
+Le conseil d'administration est réuni au moins quatre fois par an [*périodicité*], sur convocation de son président.
+
+Le président du conseil d'administration est tenu [*obligation*] de réunir celui-ci lorsque la demande lui en est présentée
+par la moitié au moins des membres en exercice [*condition*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-10 (T)
+	  - Code du travail - art. R200-10 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-14 (T)
+
+
+###### Article R200-13
+
+L'ordre du jour de chaque réunion [*du conseil d'administration*] est arrêté par le président.
+
+Doit [*obligation*] être portée à l'ordre du jour toute question dont l'inscription a été demandée par quatre [*nombre*]
+membres au moins du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-11 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-15 (T)
+
+
+###### Article R200-14
+
+Les délibérations du conseil d'administration ne sont valables [*condition*] que si la moitié au moins des membres en
+exercice sont présents [*quorum*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-12 (T)
+	  - Code du travail - art. R200-12 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-16 (T)
+
+
+###### Article R200-15
+
+Les délibérations du conseil d'administration sont prises à la majorité des membres présents. En cas de partage la voix du
+président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-13 (T)
+	  - Code du travail - art. R200-13 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-17 (T)
+
+
+###### Article R200-16
+
+Le procès-verbal de chaque séance, signé par le président, est adressé dans les quinze jours suivant la séance qu'il retrace
+au ministre chargé du travail et au ministre chargé des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-14 (T)
+	  - Code du travail - art. R200-14 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-18 (T)
+
+
+###### Article R200-17
+
+Indépendamment des attributions qu'il tient des décrets n. 53-1227 du 10 décembre 1953 et n. 62-1587 du 29 décembre 1962, le
+conseil d'administration délibère sur les orientations de l'activité de l'agence. Il arrête, sur proposition du directeur,
+l'organisation intérieure de l'agence ainsi que le règlement intérieur. Il donne un avis sur toute question qui lui est
+soumise par le président du conseil d'administration ou par le ministre du travail et, le cas échéant, par d'autres
+ministres.
+
+Les délibérations du conseil d'administration sont exécutoires si, dans les vingt jours [*délai*] suivant la notification du
+procès-verbal, le ministre chargé du travail n'a pas fait connaître son opposition motivée [*condition*] .
+
+Cependant ne sont exécutoires qu'après avoir été approuvées par arrêté conjoint des ministres chargés du travail et de
+l'économie et des finances les délibérations portant sur le budget, le compte financier, les emprunts, les acquisitions, les
+aliénations et échanges d'immeubles.
+
+Les ministres chargés du travail et de l'économie et des finances peuvent, par arrêté conjoint, exempter d'approbation
+certaines délibérations relatives aux modifications du budget ainsi qu'aux acquisitions, aux aliénations et échanges
+d'immeubles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 1953-12-10
+	  - Décret n°62-1587 1962-12-29
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-15 (T)
+	  - Code du travail - art. R200-15 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-19 (T)
+
+
+###### Article R200-18
+
+Les membres du conseil d'administration de l'agence ont droit au remboursement des frais de déplacement et de séjour
+effectivement supportés par eux à l'occasion des réunions du conseil, conformément aux dispositions du décret n. 66-619 du 10
+août 1966.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°66-619 1966-08-10
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-16 (T)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-20 (T)
+
+
+###### Article R200-19
+
+Le directeur est nommé par arrêté du ministre chargé du travail.
+
+Il représente l'agence en justice et dans tous les actes de la vie civile.
+
+Il assure la direction administrative, technique et financière de l'agence ; il en est l'ordonnateur.
+
+Il passe, au nom de l'agence, toute convention et contrat, il a autorité sur l'ensemble du personnel qu'il engage, nomme et
+licencie.
+
+Il est assisté dans ses tâches par un directeur adjoint.
+
+Le directeur peut déléguer sa signature à d'autres agents, à l'exclusion de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-17 (T)
+	  - Code du travail - art. R200-17 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-21 (T)
+
+
+###### Article R200-20
+
+Les ressources de l'agence comprennent notamment :
+
+Les subventions de l'Etat ;
+
+Les concours qu'elle peut recevoir des collectivités locales et des autres organismes publics ou privés ;
+
+La rémunération des services rendus ;
+
+Le produit des emprunts ;
+
+Les dons et legs et leurs revenus ;
+
+Toutes les personnes prévues par les lois et règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-18 (T)
+	  - Code du travail - art. R200-18 (V)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R200-23 (T)
+
+
+###### Article R200-21
+
+Le régime financier de l'agence est, sous réserve des dispositions résultant de la présente section, celui que fixent les
+décrets n. 53-1227 du 10 décembre 1953 et 62-1587 du 29 décembre 1962.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 1953-12-10
+	  - Décret n°62-1587 1962-12-29
+	  - Code du travail R200-5 A R200-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-19 (T)
+	  - Code du travail - art. R200-19 (V)
+
+
+###### Article R200-22
+
+La commission [*consultative des marchés*] prévue à l'article R. 330-9 du code du travail est compétente à l'égard des
+marchés passés par l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 2 JORF 2 OCTOBRE 1984
+
+	**Cite**:
+
+	  - Code du travail - art. R330-9 (M)
+
+
+###### Article R200-23
+
+L'agence est soumise au contrôle financier de l'Etat conformément aux dispositions du décret du 25 octobre 1935 instituant le
+contrôle financier des offices et établissements autonomes de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Transféré par**:
+
+	  - Décret n°84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R200-20 (T)
+	  - Code du travail - art. R200-20 (V)
+
+	**Cite**:
+
+	  - Décret n°1935-10-25
+
 
 ### CONDITIONS DU TRAVAIL
 
@@ -85296,6 +85947,178 @@ second alinéa de l'article R. 743-2.
 	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
+##### Section 3 : Amélioration des conditions de travail
+
+##### Paragraphe 1 : Commission paritaire spéciale.
+
+###### Article R743-6
+
+La commission paritaire spéciale prévue à l'article L. 743-1 (premier alinéa), comprend [*composition*] en nombre égal des
+représentants désignés par les organisations professionnelles d'employeurs les plus représentatives et par les organisations
+syndicales de travailleurs les plus représentatives.
+
+L'effectif de cette commission est fixé comme suit :
+
+Quatre [*nombre*] membres lorsque l'effectif maximum autorisé des dockers professionnels n'excède pas 200 ;
+
+Six membres lorsque le même effectif est compris entre 201 et 500 ;
+
+Huit membres lorsque le même effectif excède 500 [*limite*].
+
+Les membres sont désignés pour une durée de deux ans : leur mandat est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L743-1 (VT)
+
+
+###### Article R743-7
+
+Lors de chaque renouvellement, la commission élit un président et un vice-président qui sont rééligibles.
+
+Si le président est un représentant des employeurs, le vice-président est un représentant des travailleurs et réciproquement
+[*répartition des postes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R743-8
+
+La commission paritaire spéciale établit lors de sa première réunion un règlement intérieur qui précise les modalités de son
+fonctionnement, en particulier le nombre de ses réunions, ainsi que les conditions d'élaboration et de présentation des
+rapports et programme annuels que les entreprises sont tenues de lui soumettre conformément aux dispositions combinées des
+articles L. 437-2 [*amélioration des conditions de travail*] et L. 743-1.
+
+Dans les ports où l'effectif maximum autorisé des dockers professionnels excède 300 [*limite*], la commission paritaire
+spéciale doit se réunir au moins deux fois par an [*périodicité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R743-9
+
+La commission paritaire spéciale arrête chaque année [*périodicité*] le montant de ses dépenses de fonctionnement qui
+comprennent notamment, en application de l'article L. 437-3, la couverture des salaires et charges sociales afférents aux
+périodes de temps de travail consacrées par les dockers soit à ses séances, soit aux visites des entreprises.
+
+La couverture de ces dépenses est assurée par une contribution supportée par les employeurs et qui a pour assiette les
+salaires retenus pour le calcul des cotisations dues à la caisse de compensation des congés payés du port.
+
+Le taux de cette contribution est fixé annuellement par la commission paritaire spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R743-10
+
+L'encaissement des contributions et le paiement des dépenses [*de fonctionnement*] prévues à l'article R. 743-9 sont assurés
+par l'organisme de rattachement prévu à l'article L. 743-1 (2e alinéa).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R743-11
+
+Le règlement intérieur prévu à l'article R. 743-8 et, le cas échéant, les modalités apportées aux statuts de l'organisme de
+rattachement sont approuvés par le ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R743-12
+
+Le directeur du port ou l'ingénieur en chef du service maritime désigne un représentant qui a en permanence accès aux
+réunions de la commission paritaire spéciale et qui reçoit communication de toutes les pièces destinées à la commission.
+
+Peuvent en outre participer aux réunions de la commission, en tant que de besoin et avec voix consultative, des représentants
+des concessionnaires des outillages publics du port.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Anciens textes**:
+
+	  - Loi n°73-1195 1973-12-27 ART. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
 ### SECTION 3 : TRANSPORTS ET TELECOMMUNICATIONS
 
 #### Chapitre II : MARINS
@@ -87633,6 +88456,99 @@ travail, de l'intérieur et de l'agriculture.
 
 ### Titre VIII : Pénalités
 
+#### Chapitre Ier : Conventions relatives au travail
+
+###### Article R881-1
+
+Seront punis d'une amende de 3.000 F à 6.000 F (1) [*montant*] les employeurs qui paient des salaires inférieurs au salaire
+minimum [*SMIC*] prévu par les articles L. 814-1 à L. 814-4. 
+
+L'amende sera appliquée autant de fois qu'il y aura de travailleurs rémunérés dans des conditions illégales.
+
+En cas de récidive dans le délai d'un an, la peine d'amende pourra être portée à 12.000 F (1) et une peine d'emprisonnement
+de un mois à deux mois [*durée*] pourra être prononcée.
+
+En cas de pluralité de contraventions entraînant des peines de récidive, l'amende sera appliquée autant de fois qu'il aura
+été relevé de nouvelles contraventions. 
+
+En cas de condamnation, le tribunal peut ordonner l'affichage du jugement, conformément aux dispositions de l'article 471 du
+code pénal.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
+	  - Décret n°79-1013 du 28 novembre 1979 - art. 4 (P)
+	  - Arrêté du 30 décembre 1981 - art. 1 (P)
+	  - Arrêté du 30 décembre 1981 - art. 2 (P)
+	  - Arrêté du 30 décembre 1981 - art. 3 (P)
+	  - Arrêté du 30 décembre 1981 - art. 4 (P)
+	  - Décret n°82-219 du 27 février 1982 - art. 4 (P)
+	  - Décret n°82-555 du 30 juin 1982 - art. 4 (P)
+	  - Décret n°82-1015 du 1 décembre 1982 - art. 4 (P)
+	  - Décret n°83-153 du 2 mars 1983 - art. 4 (P)
+	  - Décret n°83-565 du 30 juin 1983 - art. 4 (P)
+	  - Décret n°84-535 du 27 juin 1984 - art. 4 (P)
+	  - Décret n°85-681 du 5 juillet 1985
+	  - Décret n°85-681 du 5 juillet 1985 - art. 4 (P)
+	  - Décret n°86-805 du 5 juillet 1986 - art. 4 (V)
+	  - Décret n°87-491 du 2 juillet 1987 - art. 4 (V)
+	  - Arrêté du 30 mai 1988 - art. 4 (P)
+	  - Décret n°88-794 du 29 juin 1988 - art. 4 (V)
+	  - Arrêté du 28 février 1989 - art. 4 (P)
+	  - Décret n°89-438 du 29 juin 1989 - art. 4 (V)
+	  - Arrêté du 29 mars 1990 - art. 4 (P)
+	  - Décret n°90-532 du 29 juin 1990 - art. 4 (V)
+	  - Arrêté du 29 novembre 1990 - art. 4 (P)
+	  - Décret n°90-1153 du 19 décembre 1990 - art. 2 (V)
+	  - Décret n°91-616 du 27 juin 1991 - art. 4 (V)
+	  - Décret n°92-17 du 3 janvier 1992 - art. 2 (V)
+	  - Décret n°92-600 du 1 juillet 1992 - art. 4 (V)
+	  - Décret n°92-1469 du 31 décembre 1992 - art. 3 (V)
+	  - Décret n°93-884 du 5 juillet 1993 - art. 4 (V)
+	  - Décret n°94-546 du 30 juin 1994 - art. 4 (V)
+	  - Décret n°94-1145 du 27 décembre 1994 - art. 3 (V)
+	  - Décret n°95-824 du 28 juin 1995 - art. 4 (V)
+	  - Décret n°95-1312 du 20 décembre 1995 - art. 3 (V)
+	  - Arrêté du 26 avril 1996 - art. 4 (V)
+	  - Décret n°96-571 du 26 juin 1996 - art. 4 (V)
+	  - Décret n°97-731 du 26 juin 1997 - art. 4 (V)
+	  - Décret n°98-518 du 24 juin 1998 - art. 4 (V)
+	  - Décret n°99-546 du 1 juillet 1999 - art. 4 (V)
+	  - Décret n°2000-589 du 29 juin 2000 - art. 4 (V)
+	  - Décret n°2001-554 du 28 juin 2001 - art. 6 (V)
+	  - Décret n°2002-941 du 25 juin 2002 - art. 4 (V)
+	  - Décret n°2003-564 du 27 juin 2003 - art. 4 (V)
+	  - Décret n°2004-633 du 1 juillet 2004 - art. 4 (V)
+	  - Décret n°2005-719 du 29 juin 2005 - art. 4 (V)
+	  - Décret n°2006-751 du 29 juin 2006 - art. 4 (V)
+	  - Décret n°2007-1052 du 28 juin 2007 - art. 4 (V)
+	  - Arrêté du 2 novembre 1981 - art. 4 (P)
+	  - Arrêté du 27 février 1987 - art. 4 (P)
+	  - Arrêté du 28 décembre 1983 - art. 4 (P)
+	  - Arrêté du 29 mars 1985 - art. 5 (P)
+	  - Arrêté du 29 septembre 1983 - art. 4 (P)
+	  - Arrêté du 30 avril 1982 - art. 4 (P)
+	  - Arrêté du 30 octobre 1984 - art. 4 (P)
+	  - Arrêté du 31 mai 1983 - art. 1 (P)
+	  - Arrêté du 31 mai 1983 - art. 2 (P)
+
+	**Cite**:
+
+	  - Code du travail L814-1 A L814-4
+
+	**Anciens textes**:
+
+	  - Décret n°72-985 1972-10-24 art. 3
+
+
 #### Chapitre II : Réglementation du travail
 
 ###### Article R882-1
@@ -87962,6 +88878,953 @@ ministre.
 	**Anciens textes**:
 
 	  - Décret n°67-55 1967-01-18 ART. 12
+
+
+### Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3
+
+#### Section 1 : Modalités d'application des dispositions de l'article L. 970-1.
+
+###### Article R970-1
+
+La formation professionnelle et la promotion sociale des agents de l'Etat et des établissements publics de l'Etat n'ayant pas
+un caractère industriel et commercial font l'objet d'une politique définie, animée et coordonnée en liaison avec les
+organisations représentatives du personnel selon les dispositions de la présente section.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-4 (Ab)
+	  - Code du travail - art. R970-8 (Ab)
+
+	**Cite**:
+
+	  - Code du travail R970-1 A R970-9
+
+
+###### Article R970-2
+
+Les comités techniques paritaires ministériels sont consultés sur les problèmes relatifs à l'application de la présente
+section aux agents des services intéressés et sur les aspects généraux des programmes de formation de leur ministère.
+
+Ils sont informés des possibilités de stages offertes annuellement aux agents ainsi que des résultats obtenus.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail R970-1 A R970-9
+
+
+###### Article R970-3
+
+Il est institué auprès du ministre chargé de la fonction publique un groupe de coordination de la formation professionnelle
+continue dans la fonction publique. Il comprend *composition* :
+
+Le directeur général de l'administration et de la fonction publique, président ;
+
+Le secrétaire général du comité interministériel de la formation professionnelle et de la promotion sociale ;
+
+Le directeur chargé de la formation continue au ministère de l'éducation nationale ;
+
+Le directeur du budget au ministère de l'économie et des finances ;
+
+Quatre *nombre* personnalités choisies pour leur compétence en matière de formation et désignées, pour une période de trois
+ans renouvelable, par arrêté du ministre chargé de la fonction publique.
+
+Les membres de droit peuvent se faire représenter par un suppléant désigné par arrêté du ministre dont ils relèvent.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-21 (Ab)
+	  - Code du travail - art. R970-4 (Ab)
+	  - Code du travail - art. R970-6 (Ab)
+	  - Code du travail - art. R970-9 (Ab)
+
+
+###### Article R970-4
+
+Le groupe [*de coordination de la formation professionnelle continue dans la fonction publique, attributions*] prévu à
+l'article R. 970-3 :
+
+Propose les orientations de la politique de formation professionnelle des agents de l'Etat ou des établissements mentionnés à
+l'article R. 970-1 ;
+
+Examine toutes mesures tendant à coordonner les programmes de formation professionnelle continue de chaque ministère et à
+promouvoir des programmes interministériels de formation permanente. Il est saisi de tout projet tendant à créer un type
+nouveau d'école ou de centre de formation professionnelle destinée principalement à des agents de l'Etat ou des
+établissements publics mentionnés à l'article R. 970-1 ;
+
+Examine le programme annuel de formation professionnelle continue de chaque département ministériel ainsi que les moyens
+financiers et pédagogiques correspondants ;
+
+Formule des suggestions sur l'utilisation des crédits de formation professionnelle destinés à la fonction publique inscrits
+au budget des services du Premier ministre.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R970-1 (Ab)
+	  - Code du travail - art. R970-3 (Ab)
+
+
+###### Article R970-5
+
+Le directeur général de l'administration et de la fonction publique tient régulièrement informé le groupe permanent [*de
+hauts fonctionnaires*] créé par l'article L. 910-1 des orientations et de l'évolution de la politique de formation
+professionnelle dans la fonction publique.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. L970-1 (M)
+
+
+###### Article R970-6
+
+L'assemblée plénière du conseil supérieur de la fonction publique émet un avis sur les orientations de la politique de
+formation professionnelle proposée par le groupe de coordination prévu à l'article R. 970-3.
+
+Elle examine un rapport du directeur général de l'administration et de la fonction publique sur les programmes de formation
+des départements ministériels et le bilan des actions entreprises.
+
+Elle est également consultée sur les principales questions relatives à l'élaboration et à la mise en oeuvre des actions de
+formation professionnelle dans l'administration ; elle peut émettre tous avis ou recommandations sur ces mêmes matières.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R970-3 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-7 (Ab)
+
+
+###### Article R970-7
+
+Il est institué au sein du conseil supérieur de la fonction publique une commission de la formation professionnelle continue
+composée de quatorze *nombre* membres nommmés par arrêté du Premier ministre, dont sept désignés sur proposition des
+organisations syndicales représentées au conseil supérieur et sept représentants de l'administration.
+
+Les représentants de l'administration comprennent *composition* :
+
+Le directeur général de l'administration et de la fonction publique, président ;
+
+Six directeurs d'administration centrale membres du conseil supérieur de la fonction publique.
+
+La commission de la formation professionnelle se réunit au moins deux fois par an *périodicité*. Dans l'intervalle des
+réunions du conseil supérieur de la fonction publique, elle exerce les attributions dévolues à l'assemblée plénière par
+l'article R. 970-6.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R970-6 (Ab)
+
+
+###### Article R970-8
+
+Le ministre chargé de la fonction publique présente chaque année [*périodicité*] au comité interministériel de la formation
+professionnelle et de la promotion sociale un rapport d'ensemble sur la politique menée en la matière au bénéfice des agents
+mentionnés à l'article R. 970-1.
+
+Le comité veille à la coordination de cette politique avec celle qui est prévue à l'article L. 910-1.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART.41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R910-1 (M)
+	  - Code du travail - art. R970-1 (Ab)
+
+
+###### Article R970-9
+
+La direction générale de l'administration et de la fonction publique est chargée [*attributions*] de la mise en oeuvre de la
+coordination des actions de formation professionnelle entreprises par les différents départements ministériels.
+
+La direction générale de l'administration et de la fonction publique :
+
+Gère les crédits inscrits au budget du Premier ministre au titre de la formation professionnelle des agents de l'Etat ;
+
+Assure le secrétariat du groupe de coordination prévu à l'article R. 970-3 et de la commission prévue à l'article R. 970-7 ;
+
+Prépare les rapports sur la formation professionnelle prévus aux articles R. 970-6 et R. 970-8 et procède aux enquêtes sur
+les actions de formation professionnelle nécessaires pour l'établissement de ces rapports ;
+
+Fournit aux autorités responsables ainsi qu'aux organisations syndicales représentatives du personnel toutes les informations
+nécessaires pour leur participation aux travaux du conseil supérieur de la fonction publique et de la commission prévue à
+l'article R. 970-7.
+
+**Nota:**
+
+*Nota - Le décret 73-562 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 1971-07-16 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R970-3 (Ab)
+	  - Code du travail R970-3, R970-6 A R970-8
+
+
+#### Section 2 : Modalités d'application des dispositions de l'article L. 970-2.
+
+###### Article R970-10
+
+La formation professionnelle et la promotion sociale dans la fonction publique sont assurées par le moyen de cycles de
+formation, de stages ou d'autres actions :
+
+Organisés à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires ;
+
+Offerts ou agréés par l'autorité responsable en vue de la préparation aux concours administratifs ;
+
+Choisis à l'initiative des fonctionnaires en vue de leur formation personnelle.
+
+Les fonctionnaires peuvent participer à ces cycles et stages pour y suivre ou y dispenser un enseignement dans les conditions
+définies par la présente section.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail R970-10 A R970-21
+
+
+##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires.
+
+###### Article R970-11
+
+Les cycles, stages ou autres actions ont pour objet, dans la limite des crédits ou éventuellement des emplois prévus à cet
+effet :
+
+De donner aux fonctionnaires accédant à un emploi une formation professionnelle, à la fois théorique et pratique, visant à
+les préparer, avant titularisation, à cet emploi ;
+
+De permettre à des fonctionnaires titulaires de maintenir ou de parfaire leur qualification professionnelle ;
+
+D'assurer l'adaptation des fonctionnaires à l'évolution des techniques ou des structures administratives ainsi qu'à
+l'évolution culturelle, économique et sociale et à la conversion découlant de ces évolutions.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-12
+
+Les fonctionnaires titulaires qui suivent ou qui dispensent une formation à l'initiative de l'administration sont maintenus
+en position d'activité.
+
+Ils peuvent toutefois être détachés auprès d'une école ou d'un centre de formation lorsque le statut de cet établissement le
+permet.
+
+Les dépenses de la formation professionnelle continue définie dans le présent titre sont supportées par l'administration à
+l'initiative de laquelle cette formation est organisée.
+
+Sauf dispositions particulières à un corps ou à un établissement, les fonctionnaires en formation bénéficient du maintien de
+leur traitement ainsi que, dans les conditions et selon les modalités fixées par arrêté du ministre de l'économie et des
+finances et du ministre chargé de la fonction publique, du maintien de leurs indemnités.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté  1974-10-08
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-13
+
+Lorsqu'un fonctionnaire titulaire a été admis à participer à une action de formation organisée par l'administration, il est
+tenu [*obligations*] de suivre l'ensemble des enseignements dispensés, le temps de formation valant temps de service effectif
+dans l'administration.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+##### Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.
+
+###### Article R970-14
+
+Les cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux
+concours administratifs ont pour objet de permettre aux fonctionnaires titulaires de se préparer à une promotion de grade ou
+à un changement de corps par la voie des examens professionnels ou concours réservés aux fonctionnaires.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-15
+
+Les cycles de formation, stages ou autres actions prévus à l'article R. 970-14 sont organisés ou agréés, dans des conditions
+fixées par arrêté ministériel, par l'administration dont relève l'agent ou par un autre département ministériel.
+
+Ils prennent notamment la forme :
+
+De cours par correspondance ;
+
+De cours organisés en dehors des heures consacrées à l'exécution du service ;
+
+Lorsque la nature de la préparation le justifie, de cours donnés en tout ou partie pendant la durée normale du travail.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-16
+
+Lorsque les cours sont donnés pendant les heures normalement consacrées au service, les fonctionnaires sont déchargés d'une
+partie de leurs obligations en vue de suivre ces cours ou de les dispenser.
+
+L'autorisation est donnée, selon les modalités définies par le ministre compétent ou, dans les établissements publics de
+l'Etat, par l'autorité compétente de l'établissement, dans la limite des places offertes et dans la mesure où elle est
+compatible avec le bon fonctionnement du service. Dans le cas où un fonctionnaire, désireux de bénéficier d'autorisations
+d'absence pour suivre pendant son temps de service une action de préparation à un concours administratif donné, se voit
+opposer deux fois de suite un refus dans le cadre du même service, il peut saisir le ministre compétent ou, dans un
+établissement public de l'Etat, l'autorité investie du pouvoir de nomination, qui statue après avoir recueilli l'avis de la
+commission paritaire.
+
+Les fonctionnaires appelés à suivre les cours ou à les dispenser sont rémunérés par application des textes en vigueur dont
+les dispositions seront éventuellement précisées par arrêté du ministre de l'économie et des finances, du ministre chargé de
+la fonction publique et du ministre intéressé.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté  1974-10-08
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+##### Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.
+
+###### Article R970-18
+
+Les fonctionnaires ont la possibilité de demander une mise en disponibilité :
+
+a) Pour effectuer des études ou recherches présentant un intérêt général en application de l'article 24 (alinéa b) du décret
+n° 59-309 du 14 février 1959 ;
+
+b) Pour convenances personnelles en application de l'article 24 (alinéa b) du décret susvisé du 14 février 1959 afin de
+parfaire leur formation personnelle ou de participer en qualité d'éducateur à des actions de formation professionnelle
+continue.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-309 1959-02-14 ART. 24
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 1975 - art. 4 (V)
+	  - Code du travail - art. R970-19 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-20
+
+Les dispositions du présent décret ne s'appliquent pas aux congés destinés à favoriser l'éducation ouvrière prévue à
+l'article 36 de l'ordonnance n° 59-244 du 4 février 1959.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-244 1959-02-04 ART. 36
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+
+###### Article R970-21
+
+Le groupe de coordination prévu à l'article R. 970-3 fera, à l'expiration d'un délai de trois ans suivant l'entrée en vigueur
+du présent chapitre, un rapport au comité interministériel de la formation professionnelle et de la promotion sociale sur les
+conditions d'application dudit chapitre. Il pourra proposer toutes mesures susceptibles d'améliorer et de rendre plus
+efficace la politique de formation professionnelle dans la fonction publique. Il proposera en tant que de besoin des
+modifications à apporter à la présente section.
+
+**Nota:**
+
+*Nota - Le décret 73-563 du 27 juin 1973, codifié à la présente section, a été abrogé par le décret 85-607 du 14 juin 1985
+art. 30.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
+
+	**Cite**:
+
+	  - Code du travail - art. R970-3 (Ab)
+
+
+#### Section 3 : Modalités d'application de l'article L. 970-3.
+
+###### Article R970-22
+
+Les agents civils non titulaires de l'Etat et des établissements publics de l'Etat n'ayant pas le caractère industriel et
+commercial bénéficient de la formation professionnelle continue dans les conditions fixées par la présente section.
+
+Les dispositions de la présente section ne sont pas applicables aux fonctionnaires de l'Etat et des établissements publics de
+l'Etat occupant, à la suite d'un détachement, des emplois de contractuels ni aux ouvriers affiliés au régime des pensions des
+ouvriers des établissements industriels de l'Etat fixé par le décret n° 65-836 du 24 septembre 1965.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+##### Sous-section 1 : Actions de formation organisées à l'initiative de l'administration.
+
+###### Article R970-23
+
+Les agents non titulaires peuvent participer, dans la limite des crédits ou éventuellement des emplois prévus à cet effet :
+
+Soit aux cycles de formation, stages et autres actions organisées à l'initiative de l'administration en vue soit de permettre
+à des fonctionnaires titulaires de maintenir ou de parfaire leur qualification professionnelle, soit d'assurer l'adaptation
+des fonctionnaires à l'évolution des techniques ou des structures administratives ainsi qu'à l'évolution culturelle,
+économique et sociale et à la conversion découlant de ces évolutions ;
+
+Soit à des cycles de formation, des stages et autres actions ayant le même objet ;
+
+Soit à des cycles d'adaptation à un premier ou à un nouvel emploi organisés par l'administration pour des agents non
+titulaires.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-26 (VT)
+
+
+###### Article R970-24
+
+Les agents non titulaires qui suivent et ceux qui dispensent une formation à l'initiative de l'administration bénéficient du
+maintien de leur traitement ainsi que, dans les conditions et selon les modalités fixées par arrêté du ministre de l'économie
+et des finances et du ministre chargé de la fonction publique, du maintien de leurs indemnités.
+
+Les dépenses afférentes aux actions de formation professionnelle continue définies dans la présente sous-section sont
+supportées par l'administration à l'initiative de laquelle cette formation est organisée.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-25
+
+Lorsqu'un agent non titulaire a été admis à participer à une action de formation définie par la présente sous-section, il est
+tenu [*obligation*], de suivre l'ensemble des enseignements dispensés, le temps de formation valant temps de service
+effectif.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-26
+
+L'accès des agents contractuels aux cycles et stages définis à l'article R. 970-23 peut être subordonné, dans les conditions
+fixées par arrêté du ministre dont relèvent les intéressés, à l'engagement d'accomplir, postérieurement au cycle ou stage,
+une période de services effectifs dans l'administration. En cas de rupture de l'engagement du fait de l'intéressé, celui-ci
+doit rembourser sa quote-part des frais d'organisation du cycle ou du stage et le montant de la rémunération qui lui a été
+versée pendant la période correspondante.
+
+Les dispositions du présent article ne sont applicables qu'à des cycles ou stages d'une durée supérieure à deux mois.
+L'engagement de servir dans l'administration ne peut excéder deux ans [*limite maximum*]. Toutefois, la durée de l'engagement
+pourra être augmentée et portée jusqu'à cinq années, pour certains stages d'une nature et d'un coût particuliers, par arrêté
+du ministre dont relèvent les intéressés.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+##### Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.
+
+###### Article R970-27
+
+Les agents non titulaires peuvent participer à des cycles ou stages organisés ou agréés par l'administration dans les
+conditions fixées aux articles R. 970-14 et R. 970-15 en vue de la préparation à des concours et à des examens
+professionnels, lorsque les intéressés remplissent ou sont susceptibles de remplir à la fin du cycle ou stage les conditions
+requises pour se présenter aux concours et examens.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-28
+
+I. Lorsque les cours sont donnés pendant les heures normalement consacrées au service, les agents intéressés sont déchargés
+d'une partie de leurs obligations en vue de suivre ces cours ou de les dispenser.
+
+II. L'autorisation est donnée, selon les modalités définies par le ministre compétent ou, dans les établissements publics de
+l'Etat, par autorité compétente de l'établissement dans la mesure où elle est compatible avec le bon fonctionnement du
+service.
+
+III. Dans le cas où un agent non titulaire, désireux de bénéficier d'autorisations d'absence pour suivre pendant son temps de
+service une action de préparation à un concours administratif donné, se verrait opposer deux [*nombre*] fois de suite un
+refus dans le cadre du même service, le ministre compétent ou, dans un établissement public de l'Etat, l'autorité investie du
+pouvoir de nomination statue sur le recours de l'intéressé après avoir recueilli l'avis de l'organisme paritaire compétent à
+cet effet, lorsqu'il existe.
+
+IV. Les agents non titulaires appelés à suivre les cours ou à les dispenser sont rémunérés par application des textes en
+vigueur dont les dispositions sont éventuellement précisées par arrêté du ministre de l'économie et des finances, du ministre
+chargé de la fonction publique et du ministre intéressé.
+
+V. Les dispositions de l'article L. 970-25 sont applicables aux agents non titulaires participant aux cycles ou stages
+définis par la présente sous-section.
+
+**Nota:**
+
+voir pour les mises à jour le décret 75-205 du 26 mars 1975*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
 ## FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
@@ -91081,6 +92944,388 @@ l'objet d'une publication au Journal Officiel.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R964-20 (Ab)
+
+
+### MODALITES D'APPLICATION DE L'ARTICLE L970-3
+
+#### PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .
+
+###### Article R970-29
+
+Sauf dispositions réglementaires contraires, un agent ayant déjà bénéficié d'autorisations d'absence pour suivre pendant son
+temps de service une action de préparation aux concours administratifs ou aux examens professionnels ne peut prétendre au
+bénéfice d'un autre cycle pédagogique de même nature avant un délai de douze mois à compter de la fin de la session de
+formation.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+#### ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .
+
+###### Article R970-30
+
+I. Les agents non titulaires exerçant à temps plein des fonctions permanentes comptant plus de trois ans de services
+effectifs continus [*ancienneté*] dans l'administration et qui désirent suivre, en vue de leur formation personnelle, une des
+actions de formation ayant reçu l'agrément de l'Etat, au titre du présent article ont droit, sur demande adressée à leur chef
+de service, à un congé. Peuvent être pris en compte les interruptions de service si leur total n'excède pas deux mois au
+cours de la période considérée.
+
+II. Dans chaque administration centrale, établissement public national, service départemental, régional ou interrégional
+relevant de chaque ministère, la satisfaction de certaines demandes est différée si le nombre d'heures de congé accordées en
+application de la présente sous-section dépasse 1 p. 100 du nombre total des heures de travail effectuées l'année précédente
+par l'ensemble des agents mentionnés au I ci-dessus.
+
+III. Le congé correspond à la durée du stage, sans pouvoir excéder trois mois [*limite*] s'il s'agit d'un stage continu à
+temps plein, ou 300 heures s'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou
+à temps partiel.
+
+Le stage peut toutefois excéder trois mois ou 300 heures s'il s'agit d'un stage ayant fait l'objet d'un agrément spécial.
+
+IV. L'agrément prévu au I et l'agrément spécial prévu au III du présent article sont accordés par arrêté du ministre chargé
+de la fonction publique, après avis du groupe de coordination de la formation professionnelle continue dans la fonction
+publique et de la commission de formation professionnelle du conseil supérieur de la fonction publique.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-31 (M)
+	  - Code du travail - art. R970-32 (M)
+
+	**Cite**:
+
+	  - Code du travail R970-30 A R970-37
+
+
+###### Article R970-31
+
+Les agents bénéficiaires du congé défini à l'article R. 970-30 perçoivent une rémunération égale à 75 p. 100 de leur
+traitement brut soumis à retenue pour cotisation de sécurité sociale et augmenté de l'indemnité de résidence ; la période du
+stage pendant laquelle les agents perçoivent cette rémunération ne peut excéder [*limite*] un jour ouvrable par deux mois de
+présence effective dans l'administration, au-delà des trois premières années.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R970-30 (M)
+
+
+###### Article R970-32
+
+I. Lorsque les dispositions de l'article R. 970-30 ne permettent pas de satisfaire toutes les demandes, la priorité est
+accordée, dans l'ordre :
+
+Aux demandes présentées et qui ont déjà été différées ;
+
+Aux demandes qui sont formulées par les agents ayant le plus d'ancienneté dans l'administration.
+
+II. Un agent ayant bénéficié d'une action ou d'un congé de formation prévu aux sous-sections I, II et III de la présente
+section ne peut prétendre au bénéfice d'un nouveau congé de formation avant un délai exprimé en mois, et dont la durée est
+égale au huitième de la durée, exprimée en heures, de l'action précédemment suivie.
+
+III. Le nombre d'heures de congé auxquelles ont droit les agents au titre de l'aricle R. 970-30 peut être reporté d'une année
+à l'autre à la demande des agents intéressés.
+
+IV. Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein
+ou à temps partiel.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R970-30 (M)
+	  - Code du travail R970-22 A R970-37
+
+
+###### Article R970-33
+
+L'agent bénéficiaire du congé de formation doit [*obligation périodicité*] à la fin de chaque mois et au moment de la reprise
+du travail, remettre à l'administration une attestation de fréquentation effective du stage.
+
+La non-fréquentation du stage sans motif valable entraîne la suppression du congé de formation accordé à l'intéressé et le
+remboursement des rémunérations perçues [*sanction*].
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+###### Article R970-34
+
+Les agents non titulaires exerçant à temps plein des fonctions permanentes dans un service de l'Etat ou dans un établissement
+public de l'Etat n'ayant pas le caractère industriel et commercial ont droit, pendant les trois premières années de présence
+dans l'administration et jusqu'à ce qu'ils atteignent l'âge de vingt ans révolus, à un congé pour suivre une action de
+formation ayant reçu l'agrément de l'Etat au titre de l'article L. 930-2. Le droit à congé est ouvert aux intéressés dés
+qu'ils ont accompli six mois de services effectifs [*ancienneté*].
+
+Ce congé est assimilé à une période de service effectif.
+
+La durée du congé, qui ne peut excéder cent heures par an, ne peut être imputée sur la durée du congé payé annuel.
+
+Les dispositions des articles R. 930-7 à R. 930-12 sont applicables aux agents mentionnés au premier alinéa du présent
+article.
+
+Les agents perçoivent leur rémunération pendant la durée de leur congé. Cette rémunération est à la charge du service dont
+relève l'intéressé.
+
+Le bénéficiaire d'un congé accordé en application du présent article doit, à la fin de chaque mois [*date*] et au moment de
+la reprise du travail, remettre au chef de service dont il relève une attestation de fréquentation effective du stage. La
+non-fréquentation du stage sans motif valable entraîne la suppression du congé et le remboursement des rémunérations perçues.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Cite**:
+
+	  - Code du travail - art. L930-2 (M)
+	  - Code du travail R930-7 A R930-12
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+
+#### PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .
+
+###### Article R970-35
+
+les agents non titulaires exerçant à temps plein des fonctions permanentes qui, aprés leur départ de l'administration,
+s'inscrivent à l'un des stages de conversion ou de promotion professionnelle mentionnés à l'article L. 940-2 peuvent
+bénéficier des aides financières accordées par l'Etat aux stagiaires de formation professionnelle dans le cadre du titre VI
+du présent livre et des textes réglementaires pris pour son application.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-35 (M)
+
+	**Cite**:
+
+	  - Code du travail L960-1 A L960-16
+
+
+###### Article R970-36
+
+Les agents non titulaires occupant à temps plein un emploi permanent comptant au moins trois années [*ancienneté*] de
+services effectifs et continus dans l'administration et auxquels une décision de licenciement a été notifiée sont de droit
+mis en congé, sauf si cette décision constitue une sanction disciplinaire ou a pour motif l'insuffisance professionnelle,
+s'ils s'inscrivent, entre la date de préavis et celle du licenciement, à un stage de conversion ou de formation
+professionnelle agréé par l'Etat dans les conditions fixées à l'article L. 960-2.
+
+Sont prises en compte au titre des services effectifs continus les interruptions de service régulières et dont le total
+n'excède pas deux mois au cours de la période considérée.
+
+Pendant cette période, ils continuent à percevoir leur rémunération. Si le stage se poursuit après la date de licenciement,
+l'intéressé bénéficie, jusqu'à la fin du stage, des aides financières calculées dans les conditions prévues au titre VI du
+présent livre et par les textes pris pour son application.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Cite**:
+
+	  - Code du travail - art. L960-2 (M)
+	  - Code du travail L960-1 A L960-16
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R970-37 (VT)
+
+
+###### Article R970-37
+
+La perception d'une rémunération dans les conditions fixées à l'article R. 970-36 ne fait pas obstacle au versement de
+l'indemnité de licenciement prévue par le décret n° 72-512 du 22 juin 1972.
+
+**Nota:**
+
+[*Nota - voir pour les mises à jour le décret 75-205 du 26 mars 1975*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 43 (V)
+	  - Décret n°75-205 1975-03-26
+
+	**Cite**:
+
+	  - Décret n°72-512 1972-06-22
+	  - Code du travail - art. R970-36 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°75-659 1975-07-23 art. 5 II JORF 26 juillet 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code du travail - art. L970-3 (M)
 
 
 ### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER
