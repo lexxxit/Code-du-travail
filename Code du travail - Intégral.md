@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-11-27
+Version Consolidée au 1976-12-07
 
 # Partie législative ancienne
 
@@ -13412,6 +13412,346 @@ de travail ni aux usages qui assureraient des congés payés de plus longue dur�
 
 ### Titre III : Hygiène, sécurité et conditions de travail
 
+#### Chapitre Ier : Dispositions générales.
+
+###### Article L231-1-2
+
+Les attributions conférées par le présent titre et par le chapitre III du titre VI du livre II [*pénalités*] soit au ministre
+chargé du travail, soit aux inspecteurs du travail dont il dispose sont respectivement exercées par le ministre chargé de
+l'agriculture et par les inspecteurs du travail placés sous l'autorité de ce ministre en ce qui concerne les établissements
+agricoles prévus à l'article L. 231-1.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 21 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 22 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 23 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 24 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 25 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 26 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 27 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 28 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 29 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 30 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 31 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 32 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 33 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 34 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 35 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 36 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 37 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 38 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 39 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 40 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 41 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 42 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 43 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 44 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 45 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 46 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 47 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 48 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 49 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 50 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 51 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 52 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 53 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 54 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 55 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 56 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 57 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 58 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 59 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 60 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 61 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 9 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Décret n°99-109 du 18 février 1999 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail L231-1 A L234-5
+
+	**Nouveaux textes**:
+
+	  - Code du travail R8111-3
+
+
+###### Article L231-1-3
+
+Le ministre de l'agriculture est assisté par un ou des organismes consultatifs qui sont notamment chargés de donner sur les
+règlements applicables aux établissements agricoles, au sens de l'article L. 231-1, l'avis prévu à l'article L. 231-3.
+
+Un décret en Conseil d'Etat détermine la composition, les règles de fonctionnement ainsi que, le cas échéant, les
+attributions, autres que celle qui a été ci-dessus établie, du ou des organismes prévus à l'alinéa précédent.
+
+Ce ou ces organismes comprennent un nombre égal de représentants des organisations d'employeurs et de représentants des
+organisations de salariés.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 21 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 22 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 23 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 24 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 25 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 26 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 27 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 28 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 29 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 30 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 31 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 32 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 33 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 34 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 35 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 36 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 37 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 38 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 39 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 40 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 41 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 42 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 43 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 44 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 45 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 46 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 47 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 48 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 49 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 50 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 51 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 52 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 53 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 54 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 55 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 56 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 57 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 58 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 59 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 60 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 61 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°88-1056 du 14 novembre 1988 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail L231-1 ET L231-3
+
+
+###### Article L231-3-2
+
+Des décrets en Conseil d'Etat, pris en application de l'article L. 231-2 et après avis des organisations syndicales
+d'employeurs et de salariés intéressées, organisent par branche d'activité, en fonction des risques constatés, la diminution
+progressive des modes de travail par équipes successives, des cadences et des rythmes de travail lorsqu'ils sont de nature à
+affecter l'hygiène et la sécurité des travailleurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°77-816 du 30 juin 1977
+	  - TXT_SOURCE: Décret n°79-846 du 28 septembre 1979 - art. 10 (VT)
+
+	**Cité par**:
+
+	  - Décret n°77-816 du 30 juin 1977 - art. 1 (Ab)
+	  - Décret n°77-816 du 30 juin 1977 - art. 2 (Ab)
+	  - Décret n°77-816 du 30 juin 1977 - art. 3 (Ab)
+	  - Décret n°77-816 du 30 juin 1977 - art. 4 (Ab)
+	  - Décret n°77-816 du 30 juin 1977 - art. 5 (Ab)
+	  - Décret n°82-397 du 11 mai 1982 - art. 23 (Ab)
+	  - Décret n°96-98 du 7 février 1996 - art. 4 (Ab)
+	  - Décret n°2000-564 du 16 juin 2000 - art. 4 (V)
+	  - Arrêté du 10 août 1979 - art. 14 (Ab)
+	  - Code du travail - art. L742-5 (VT)
+	  - Code du travail - art. R231-56-9 (VT)
+	  - Code rural - art. R717-6 (V)
+
+	**Transféré par**:
+
+	  - Loi n°91-1414 du 31 décembre 1991 - art. 6 () JORF 7 janvier 1992 en vigueur le 31 décembre 1992
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L231-3-3 (AbD)
+
+
+###### Article L231-5
+
+Le directeur départemental du travail et de la main-d'oeuvre,
+
+sur le rapport de l'inspecteur du travail constatant une situation dangereuse résultant d'une infraction aux dispositions des
+articles L. 232-1 et L. 233-1 du code du travail, notamment dans le cas où le risque professionnel trouve son origine dans
+les conditions d'organisation du travail ou d'aménagement du poste de travail, l'état des surfaces de circulation, l'état de
+propreté et d'ordre des lieux de travail, le stockage des matériaux et des produits de fabrication, le caractère plus ou
+moins approprié des matériels, outils et engins utilisés, leur contrôle et leur entretien, peut mettre en demeure les chefs
+d'établissement de prendre toutes mesures utiles pour y remédier.
+
+Cette mise en demeure est faite par écrit, datée et signée et fixe un délai d'exécution tenant compte des difficultés de
+réalisation. Si, à l'expiration de ce délai, l'inspecteur du travail constate que la situation dangereuse n'a pas cessé, il
+peut dresser procès-verbal au chef d'établissement. Par exception aux dispositions des articles L. 263-2 et L. 263-4 les
+infractions ainsi constatées sont punies de peines de police [*sanctions*] .
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1188 du 3 septembre 1955 - art. 28 (V)
+	  - Décret n°75-306 du 28 avril 1975 - art. 49 (Ab)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 65 (Ab)
+	  - Code du travail - art. L231-5-1 (AbD)
+	  - Code du travail - art. L231-9 (AbD)
+	  - Code du travail - art. L263-7 (AbD)
+	  - Code du travail - art. L362-1 (AbD)
+	  - Code du travail - art. L742-5 (VT)
+	  - Code du travail - art. R231-12 (T)
+	  - Code du travail - art. R231-13 (VT)
+	  - Code du travail - art. R231-13-1 (VT)
+	  - Code du travail - art. R711-8 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°76-1106 du 6 décembre 1976 - art. 14 () JORF 7 décembre 1976
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-7 (M)
+	  - TXT_ASSOCIE: Code du travail - art. R231-13-1 (V)
+
+	**Cite**:
+
+	  - Code du travail L263-2 ET L263-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L231-5-1
+
+Avant l'expiration du délai fixé en application soit de l'article L. 231-4, soit de l'article L. 231-5 et au plus tard dans
+les quinze jours [*délai*] qui suivent la mise en demeure prononcée sur le fondement de l'un ou de l'autre de ces articles,
+
+le chef d'établissement peut saisir d'une réclamation le directeur régional du travail et de la main-d'oeuvre.
+
+Cette réclamation est suspensive. Il y est statué dans un délai fixé par voie réglementaire.
+
+La non-communication au chef d'établissement de la décision du directeur régional dans le délai prévu à l'alinéa précédent
+vaut acceptation de la réclamation. Tout refus de la part du directeur régional doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. L236-1 (AbD)
+	  - Code du travail - art. L236-6 (AbD)
+	  - Code du travail - art. R742-8-11 (VD)
+
+	**Cite**:
+
+	  - Code du travail L231-4 ET L231-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### Chapitre II : Hygiène.
 
 ###### Article L232-1
@@ -13519,6 +13859,59 @@ du travail au 1er mai 2008.
 
 
 #### Chapitre III : Sécurité.
+
+###### Article L233-1
+
+Les établissements et locaux mentionnés à l'article L. 231-1 doivent être aménagés de manière à garantir la sécurité des
+travailleurs.
+
+Les machines, mécanismes, appareils de transmission, outils et engins doivent être installés et tenus dans les meilleures
+conditions possibles de sécurité.
+
+L'inspecteur du travail peut, sur mise en demeure, imposer au chef d'établissement de faire vérifier, par des organismes
+agréés par le ministère du travail, l'état de conformité des matériels énumérés à l'alinéa précédent avec les dispositions
+prévues par les décrets en Conseil d'Etat pris en application de l'article L. 233-5 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 3 octobre 1984 - art. 4 (V)
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 7 (V)
+	  - Arrêté du 9 juin 1993 - art. 22 (Ab)
+	  - Arrêté du 9 juin 1993 - art. 24 (Ab)
+	  - Arrêté du 1 mars 2004 - art. 22 (M)
+	  - Arrêté du 10 août 1979 - art. 5 (Ab)
+	  - Arrêté du 26 novembre 1981 - art. 1 (Ab)
+	  - Arrêté du 27 décembre 1984 - art. 1 (V)
+	  - Code de l'éducation - art. D421-150 (M)
+	  - Code du travail - art. L231-5 (AbD)
+	  - Code du travail - art. L236-4 (AbD)
+	  - Code du travail - art. R231-40 (VT)
+	  - Code du travail - art. R231-41 (VT)
+	  - Code du travail - art. R231-42 (VT)
+	  - Code du travail - art. R231-5 (Ab)
+	  - Code du travail - art. R231-6 (Ab)
+	  - Code du travail - art. R233-3 (M)
+	  - Code du travail - art. R233-72 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L233-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4221-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail 66 al. 2, al. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
 
 ###### Article L233-2
 
@@ -13633,6 +14026,48 @@ du travail au 1er mai 2008.
 	**Abrogé par**:
 
 	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
+###### Article L233-6
+
+L'acheteur d'un produit visé à l'article L. 231-7 ainsi que l'acheteur ou le locataire d'un matériel visé à l'article L.
+233-5 qui a été livré dans des conditions contraires aux dispositions de ces articles et des textes pris pour leur
+application peut, nonobstant toute clause contraire, dans le délai d'une année à compter du jour de la livraison, demander la
+résolution de la vente ou du bail ; le tribunal qui prononce cette résolution peut en outre accorder des dommages-intérêts à
+l'acheteur ou au locataire.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L231-7 (AbD)
+	  - TXT_ASSOCIE: Code du travail L263-3 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail - art. L231-7 (M)
+	  - Code du travail - art. L233-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4311-5 (VD)
+	  - Code du travail - art. L4411-7 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L233-7
@@ -13867,6 +14302,457 @@ du travail au 1er mai 2008.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L234-6
+
+Les dispositions du présent chapitre sont applicables aux établissements agricoles mentionnés à l'article L. 231-1.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail L234-1 A L234-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### Chapitre V : Dispositions spéciales applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail.
+
+###### Article L235-1
+
+Les maîtres d'ouvrage entreprenant la construction ou l'aménagement de bâtiments destinés à l'exercice d'une activité
+industrielle, commerciale ou agricole sont tenus [*obligation*] de se conformer à des règles édictées en vue de satisfaire
+aux dispositions législatives et réglementaires prévues dans l'intérêt de l'hygiène et de la sécurité du travail.
+
+Les règles prévues à l'alinéa précédent sont déterminées et leurs modalités d'application fixées par des décrets en Conseil
+d'Etat pris en application de l'article L. 231-2 et après avis des organisations professionnelles d'employeurs et de salariés
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L235-19 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-8 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L263-8 (M)
+	  - Code du travail - art. R235-1 (M)
+	  - Code du travail - art. R238-18 (VT)
+	  - Code du travail - art. R238-6 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L235-2
+
+Lorsqu'une opération de construction de bâtiment excède un montant fixé par voie réglementaire, le chantier relatif à cette
+opération doit disposer, en un point au moins [*minimum*] de son pèrimètre, d'une desserte en voirie, d'un raccordement à des
+réseaux de distribution d'eau potable et d'électricité, d'une évacuation des matières usées, dans des conditions telles que
+les locaux destinés au personnel du chantier soient conformes aux dispositions qui leur sont applicables en matière d'hygiène
+et de sécurité du travail.
+
+Un décret en Conseil d'Etat pris en application de l'article L. 231-2 fixe les conditions d'application de l'alinéa précédent
+et détermine en outre dans quels cas et selon quelles modalités il peut être exceptionnellement dérogé à la règle posée audit
+alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-996 du 19 août 1977 - art. 2 (M)
+	  - Décret n°77-996 du 19 août 1977 - art. 30 (M)
+	  - Arrêté du 7 mars 1995 - art. 1 (V)
+	  - Arrêté du 7 mars 1995 - art. Annexe (V)
+	  - Code du travail - art. L235-1 (AbD)
+	  - Code du travail - art. L235-3 (AbD)
+	  - Code du travail - art. L235-6 (AbD)
+	  - Code du travail - art. L235-8 (AbD)
+	  - Code du travail - art. L263-10 (AbD)
+	  - Code du travail - art. L263-3 (M)
+	  - Code du travail - art. L263-9 (M)
+	  - Code du travail - art. R238-1 (VT)
+	  - Code du travail - art. R238-8 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 30 (M)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 31 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 32 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 33 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 34 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 35 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 36 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 mars 1995
+	  - TXT_SOURCE: Arrêté du 7 mars 1995 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 mars 1995 - art. Annexe (V)
+	  - TXT_ASSOCIE: Code du travail - art. L263-3 (M)
+	  - TXT_ASSOCIE: Code du travail L263-3, L263-9 : SANCTIONS PENALES
+
+	**Transféré par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L235-16 (AbD)
+	  - Code du travail - art. L4532-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L235-3
+
+Les entrepreneurs appelés à travailler soit sur un des chantiers définis à l'article L. 235-2, soit sur un chantier relatif à
+une opération de génie civil excédant un montant fixé par voie réglementaire doivent, avant toute intervention sur ces
+chantiers, remettre au maître d'oeuvre un plan d'hygiène et de sécurité.
+
+Le plan doit être également remis pour avis aux représentants du personnel et aux médecins du travail des entreprises
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°65-48 du 8 janvier 1965 - art. 5 (Ab)
+	  - Décret n°77-996 du 19 août 1977 - art. 1 (Ab)
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 2 (V)
+	  - Décret n°83-817 du 13 septembre 1983 - art. 67, annexe (VT)
+	  - Code du travail - art. L235-5 (Ab)
+	  - Code du travail - art. L235-6 (Ab)
+	  - Code du travail - art. L263-10 (M)
+	  - Code du travail - art. R237-1 (VT)
+	  - Code du travail - art. R238-18 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L263-10 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L235-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4532-2 (VD)
+
+
+###### Article L235-4
+
+Le plan d'hygiène et de sécurité indique [*contenu*] de manière détaillée, pour tous les travaux que l'entrepreneur exécute
+directement ou qu'il sous-traite :
+
+Les mesures prévues, au stade de la conception du projet comme dans les différentes phases de son exécution, pour assurer la
+sécurité du personnel, compte tenu des techniques de construction employées et de l'organisation du chantier ;
+
+Les dispositions prises pour assurer les premiers secours aux accidentés et aux malades ;
+
+Les dispositions adoptées pour assurer l'hygiène des conditions de travail et celle des locaux destinés au personnel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-48 du 8 janvier 1965 - art. 5 (Ab)
+	  - Arrêté du 7 mars 1995 - art. Annexe III (Ab)
+	  - Décret n°2005-1325 du 26 octobre 2005 - art. 12 (V)
+	  - Code du travail - art. L235-1 (AbD)
+	  - Code du travail - art. L235-15 (AbD)
+	  - Code du travail - art. L235-5 (AbD)
+	  - Code du travail - art. L263-10 (AbD)
+	  - Code du travail - art. R237-1 (VT)
+	  - Code du travail - art. R238-16 (VT)
+	  - Code du travail - art. R238-17 (VT)
+	  - Code du travail - art. R238-3 (VT)
+	  - Code du travail - art. R238-48 (VT)
+	  - Code du travail - art. R238-5 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 9 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L235-5
+
+Lorsque, dans les cas prévus à l'article L. 235-3, le nombre des entreprises, y compris, dans des conditions fixées par
+décret, les entreprises sous-traitantes, dépasse un seuil fixé par voie réglementaire et que l'effectif prévisible des
+travailleurs doit dépasser à un moment quelconque des travaux un nombre fixé par la même voie, le maître de l'ouvrage est
+tenu d'insérer, dans les contrats conclus avec tous les entrepreneurs intéressés, une clause prévoyant la constitution d'un
+collège interentreprises d'hygiène et de sécurité [*obligations*] .
+
+Ce collège comprend obligatoirement le ou les maîtres d'oeuvre et les entrepreneurs ainsi que les sous-traitants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°77-612 du 9 juin 1977 - art. 1 (Ab)
+	  - Décret n°77-612 du 9 juin 1977 - art. 3 (Ab)
+	  - Décret n°77-612 du 9 juin 1977 - art. 6 (Ab)
+	  - Code du travail - art. L235-1 (AbD)
+	  - Code du travail - art. L263-10 (AbD)
+	  - Code du travail - art. R231-28 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 29 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L263-10 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L235-3 (Ab)
+
+
+###### Article L235-6
+
+Le collège interentreprises a pour mission :
+
+- De provoquer la mise en harmonie des plans prévus à l'article L. 235-3 et de leurs mises à jour ;
+
+- De contribuer à la coordination des mesures prises pour assurer le respect des règles d'hygiène et de sécurité du travail
+applicables au chantier ;
+
+- De vérifier qu'il est effectivement donné suite aux mesures retenues par les membres du collège ;
+
+L'intervention du collège interentreprises ne saurait modifier, d'une part, la nature et l'étendue des responsabilités qui
+incombent aux entrepreneurs en application des autres dispositions du code du travail et, d'autre part, les attributions et
+le fonctionnement des autres institutions compétentes en matière d'hygiène et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 29 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 février 2003
+	  - TXT_SOURCE: Arrêté du 25 février 2003 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 25 février 2003 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Décret n°77-996 du 19 août 1977 - art. 22 (Ab)
+	  - Arrêté du 13 décembre 1996 - art. ANNEXE (Ab)
+	  - Code du travail - art. L235-1 (AbD)
+	  - Code du travail - art. L235-7 (AbD)
+	  - Code du travail - art. L235-8 (AbD)
+	  - Code du travail - art. L235-9 (AbD)
+	  - Code du travail - art. L263-10 (AbD)
+	  - Code du travail - art. R237-1 (VT)
+	  - Code du travail - art. R238-18 (VT)
+	  - Code du travail - art. R238-25-1 (VT)
+	  - Code du travail - art. R238-25-2 (VT)
+	  - Code du travail - art. R238-28 (VT)
+	  - Code du travail - art. R238-30 (VT)
+	  - Code du travail - art. R238-31 (VT)
+	  - Code du travail - art. R238-34 (VT)
+	  - Code du travail - art. R238-36-1 (VT)
+	  - Code du travail - art. R238-47 (VT)
+
+	**Abrogé par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L235-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4532-8 (VD)
+
+
+###### Article L235-7
+
+Un décret en Conseil d'Etat pris en application de l'article L. 231-2 détermine les conditions d'établissement, d'application
+et de contrôle du plan d'hygiène et de sécurité ainsi que les règles de fonctionnement des collèges interentreprises
+d'hygiène et de sécurité et les modalités des relations qu'ils entretiennent avec les comités d'hygiène et de sécurité créés
+en application du 3. de l'article L. 231-2 ou, à défaut, avec les délégués du personnel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 1996 - art. ANNEXE (Ab)
+	  - Code du travail - art. L235-1 (AbD)
+	  - Code du travail - art. L235-8 (AbD)
+	  - Code du travail - art. L235-9 (AbD)
+	  - Code du travail - art. L263-10 (AbD)
+	  - Code du travail - art. R238-26 (VT)
+	  - Code du travail - art. R238-27 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-10 (M)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°77-996 du 19 août 1977 - art. 29 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4532-9 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L235-8
+
+Des décrets en Conseil d'Etat pris en application de l'article L. 231-2, déterminent les dispositifs ou aménagements de toute
+nature dont doivent être dotés les bâtiments qu'ils désignent en vue d'améliorer les conditions d'hygiène et de sécurité des
+travailleurs appelés à exercer leur activité dans ces bâtiments pour leur construction ou leur entretien.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L235-17 (AbD)
+	  - Code du travail - art. L4532-17 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L263-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail L263-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ### Titre III : HYGIENE ET SECURITE .
 
 ###### Article L231-6
@@ -13957,11 +14843,30 @@ substances, préparations ou produits.
 
 ###### Article L231-7
 
-Des règlements d'administration publique [*RAP*] sur le rapport des ministres chargés du travail et de l'industrie peuvent
-interdire l'emploi de certaines substances ou préparations dangereuses pour l'exécution de certains travaux industriels même
-lorsque ces travaux sont exécutés par des chefs d'établissement eux-mêmes ou par des travailleurs indépendants.
+Dans l'intèrêt de l'hygiène et de la sécurité du travail, peuvent être limitées, réglementées ou interdites la fabrication,
+la mise en vente, la vente, l'importation, la cession à quelque titre que ce soit ainsi que l'emploi des substances et
+préparations dangereuses pour les travailleurs.
 
-//DECR.1046 15-11-1973 : Les règlements ci-dessus prévus sont pris après avis de la commission d'hygiène industrielle// .
+Ces limitations, réglementations ou interdictions peuvent être établies même dans le cas où l'emploi desdites substances ou
+préparations est le fait du chef d'établissement ou des travailleurs indépendants.
+
+Avant toute mise sur le marché, à titre onéreux ou gratuit, des substances ou préparations qui peuvent faire courir des
+risques aux travailleurs, les fabricants, importateurs et vendeurs desdites substances ou préparations, doivent fournir à des
+organismes, au nombre desquels figurent notamment l'institut national de recherche et de sécurité, et qui sont agréés par le
+ministre chargé du travail, les informations nécessaires à l'appréciation de ces risques.
+
+Obligation peut, en outre, être faite aux fabricants, importateurs et vendeurs susvisés de participer à la conservation et à
+l'exploitation de ces informations et de contribuer à la couverture des dépenses qui en résultent.
+
+Par ailleurs, l'inspecteur du travail [*pouvoirs*] peut, après avis du médecin du travail, mettre en demeure le chef
+d'établissement de faire procéder, par des organismes agréés par le ministère du travail, à des analyses des produits visés
+au premier alinéa du présent article, en vue d'en connaître la composition et les effets sur l'organisme humain.
+
+Les mesures d'application du présent article font l'objet de règlements d'administration publique pris dans les conditions
+prévues à l'alinéa 1er de l'article L. 231-3, et après avis des organisations professionnelles d'employeurs et de salariés
+intéressées. Ces règlements peuvent notamment organiser des procédures spéciales lorsqu'il y a urgence à suspendre la
+commercialisation ou l'utilisation des substances et préparations dangereuses, et prévoir les modalités d'indemnisation des
+travailleurs atteints d'affections causées par ces produits.
 
 **Liens relatifs à cet article**
 
@@ -14051,10 +14956,9 @@ lorsque ces travaux sont exécutés par des chefs d'établissement eux-mêmes ou
 	  - Code rural - art. R717-20 (V)
 	  - Code rural - art. R717-6 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°71-410 1971-06-07
-	  - Code du travail 2080
+	  - Loi n°76-1106 du 6 décembre 1976 - art. 18 () JORF 7 décembre 1976
 
 	**Liens**:
 
@@ -14068,6 +14972,171 @@ lorsque ces travaux sont exécutés par des chefs d'établissement eux-mêmes ou
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L4411-4 (VD)
+
+	**Cite**:
+
+	  - Code du travail L231-3 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+### Titre III : SECURITE
+
+#### Chapitre III : SECURITE.
+
+###### Article L233-5
+
+Il est interdit d'exposer, de mettre en vente, de vendre, d'importer, de louer, de céder à quelque titre que ce soit ou
+d'utiliser :
+
+a) Des appareils, machines et éléments de machines qui ne sont pas construits, disposés, protégés ou commandés dans des
+conditions assurant la sécurité et l'hygiène des travailleurs ;
+
+b) Des protecteurs de machines ainsi que des dispositifs, équipements ou produits de protection qui ne sont pas de nature à
+garantir les travailleurs contre les dangers de tous ordres auxquels ils sont exposés.
+
+Des règlements d'administration publique [*RAP*] pris dans les conditions prévues à l'alinéa 1er de l'article L. 231-3 et
+après avis des organisations professionnelles d'employeurs et de salariés intéressés :
+
+1. Déterminent les matériels y compris les matériels agricoles, auxquels s'appliquent les dispositions du premier alinéa du
+présent article ;
+
+2. Définissent les conditions d'hygiène et de sécurité auxquelles les matériels les plus dangereux et les protecteurs de
+machines doivent satisfaire pour que soit assurée la protection des travailleurs et fixent la procédure à suivre pour
+vérifier l'efficacité des mesures prescrites à cet effet ;
+
+3. Fixent les règles générales d'hygiène et de sécurité auxquelles doivent satisfaire les autres matériels et déterminent le
+mode d'établissement des prescriptions techniques nécessaires à l'application de ces règles ;
+
+4. Organisent une procédure d'urgence permettant de s'opposer à ce que des matériels ne répondant pas aux exigences définies
+aux a et b du premier alinéa ci-dessus fassent l'objet des opérations énumérées au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-48 du 8 janvier 1965 - art. 5 (Ab)
+	  - Décret n°75-848 du 26 août 1975 - art. 1 (V)
+	  - Décret n°77-949 du 17 août 1977 - art. 4 (Ab)
+	  - Arrêté du 3 octobre 1984 - art. 4 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 1 (Ab)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 42 (Ab)
+	  - Arrêté du 21 août 1987 - art. 1 (V)
+	  - Décret n°88-989 du 17 octobre 1988 - art. 22 (V)
+	  - Arrêté du 2 décembre 1988 - art. 12 (V)
+	  - Arrêté du 1 juin 1990 - art. ANNEXE I (Ab)
+	  - Arrêté du 18 décembre 1992 - art. Annexe (VT)
+	  - Décret n°93-40 du 11 janvier 1993 - art. 7 (V)
+	  - Arrêté du 3 mars 1995 - art. 3 (VT)
+	  - Décret n°95-607 du 6 mai 1995 - art. Annexe (M)
+	  - Décret n°95-1081 du 3 octobre 1995 - art. 1 (VT)
+	  - Arrêté du 13 mai 1996 - art. 1 (Ab)
+	  - Arrêté du 13 mai 1996 - art. Annexe III (Ab)
+	  - Décret n°96-725 du 14 août 1996 - art. 37 (V)
+	  - Arrêté du 29 septembre 1997 - art. 1 (V)
+	  - Arrêté du 29 septembre 1997 - art. Annexe III (V)
+	  - Arrêté du 22 décembre 2000 - art. Annexe (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 19 (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 27 (V)
+	  - Arrêté du 10 août 1979 - art. 5 (Ab)
+	  - Arrêté du 16 janvier 1980 - art. Annexe (Ab)
+	  - Arrêté du 18 décembre 1992 - art. 4 (VT)
+	  - Arrêté du 18 décembre 1992 - art. 5 (V)
+	  - Arrêté du 18 décembre 1992 - art. Annexe II (V)
+	  - Arrêté du 26 novembre 1981 - art. 2 (Ab)
+	  - Code du travail - art. Annexe à l'article R233-84 (VT)
+	  - Code du travail - art. D233-1 (VT)
+	  - Code du travail - art. L233-1 (M)
+	  - Code du travail - art. L233-5-1 (AbD)
+	  - Code du travail - art. L233-5-3 (AbD)
+	  - Code du travail - art. L233-6 (AbD)
+	  - Code du travail - art. L235-18 (AbD)
+	  - Code du travail - art. L263-11 (M)
+	  - Code du travail - art. L263-2 (AbD)
+	  - Code du travail - art. L611-16 (AbD)
+	  - Code du travail - art. R233-104-1 (Ab)
+	  - Code du travail - art. R233-155 (VT)
+	  - Code du travail - art. R233-49 (Ab)
+	  - Code du travail - art. R233-49-3 (VT)
+	  - Code du travail - art. R233-49-4 (VT)
+	  - Code du travail - art. R233-50 (VT)
+	  - Code du travail - art. R233-51-1 (Ab)
+	  - Code du travail - art. R233-52 (M)
+	  - Code du travail - art. R233-52-1 (Ab)
+	  - Code du travail - art. R233-57 (VT)
+	  - Code du travail - art. R233-58 (VT)
+	  - Code du travail - art. R233-65 (VT)
+	  - Code du travail - art. R233-68 (VT)
+	  - Code du travail - art. R233-70 (M)
+	  - Code du travail - art. R233-73 (M)
+	  - Code du travail - art. R233-74 (M)
+	  - Code du travail - art. R233-77 (M)
+	  - Code du travail - art. R233-78 (VT)
+	  - Code du travail - art. R233-79 (VT)
+	  - Code du travail - art. R233-79-1 (VT)
+	  - Code du travail - art. R233-80 (VT)
+	  - Code du travail - art. R233-81-1 (M)
+	  - Code du travail - art. R233-82 (VT)
+	  - Code du travail - art. R233-83 (VT)
+	  - Code du travail - art. R233-83-1 (M)
+	  - Code du travail - art. R233-83-2 (VT)
+	  - Code du travail - art. R233-83-3 (VT)
+	  - Code du travail - art. R233-88 (VT)
+	  - Code du travail - art. R233-88-1 (VT)
+	  - Code du travail - art. R233-89-3 (VT)
+	  - Code du travail - art. R233-89-4 (VT)
+	  - Code du travail - art. R4312-21 (VT)
+	  - Code du travail - art. R4312-4 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 21 août 1987
+	  - TXT_SOURCE: Arrêté du 21 août 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 21 août 1987 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°92-765 du 29 juillet 1992
+	  - TXT_SOURCE: Décret n°92-765 du 29 juillet 1992 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°96-725 du 14 août 1996
+	  - TXT_SOURCE: Décret n°96-725 du 14 août 1996 - art. 36 (V)
+	  - TXT_SOURCE: Décret n°96-725 du 14 août 1996 - art. 37 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 6 (V)
+	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1992 - art. Annexe I (V)
+	  - TXT_ASSOCIE: Code du travail - art. L263-11 (M)
+	  - TXT_ASSOCIE: Code du travail - art. L263-2 (AbD)
+	  - TXT_SOURCE: Code du travail - art. R233-100 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-101 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-102 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-103 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-104 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-105 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-106 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-107 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-83 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-83-1 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-84 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-85 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-86 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-87 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-88 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-89 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-90 (M)
+	  - TXT_SOURCE: Code du travail - art. R233-91 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-92 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-93 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-94 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-95 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-97 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-98 (Ab)
+	  - TXT_SOURCE: Code du travail - art. R233-99 (Ab)
+	  - TXT_ASSOCIE: Code du travail L263-3 : SANCTIONS PENALES
 
 	**Codifié par**:
 
@@ -14398,6 +15467,42 @@ Le délai minimum de la mise en demeure est fixé à un mois.
 	**Anciens textes**:
 
 	  - Loi  1946-10-11 ART. 4
+
+
+###### Article L241-10-1
+
+Le médecin du travail est habilité à proposer des mesures individuelles telles que mutations ou transformations de postes,
+justifiées par des considérations relatives notamment à l'âge, à la résistance physique ou à l'état de santé des
+travailleurs.
+
+Le chef d'entreprise est tenu de prendre en considération ces propositions et, en cas de refus, de faire connaître les motifs
+qui s'opposent à ce qu'il y soit donné suite.
+
+En cas de difficulté ou de désaccord, la décision est prise par l'inspecteur du travail après avis du médecin-inspecteur du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°82-397 du 11 mai 1982 - art. 24 (Ab)
+	  - Arrêté du 13 décembre 1990 - art. Annexe I (V)
+	  - Code du travail - art. L122-25-1-1 (AbD)
+	  - Code du travail - art. L122-25-1-2 (AbD)
+	  - Code du travail - art. L213-5 (AbD)
+	  - Code du travail - art. R231-93 (VT)
+	  - Code du travail - art. R231-94 (VT)
+	  - Code du travail - art. R241-43 (VT)
+	  - Code du travail - art. R342-4 (VT)
+	  - Code rural - art. R717-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4624-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L241-11
@@ -14798,6 +15903,187 @@ Il peut assortir sa décision d'une astreinte qui sera liquidée au profit du Tr
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L263-2
+
+Les chefs d'établissement, directeurs, gérants ou préposés qui par leur faute personnelle, ont enfreint les dispositions des
+chapitres 1er, II et III du présent livre ainsi que les autres personnes qui, par leur faute personnelle ont enfreint les
+dispositions des articles L. 231-6, L. 231-7, L. 232-2, L. 233-5 et L. 233-7 dudit livre et des décrets en Conseil d'Etat
+pris pour leur exécution sont punis d'une amende de 500 à 15.000 F [*montant (1)*].
+
+L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise concernés par la ou les infractions relevées dans
+le procès-verbal visé aux articles L. 611-10 et L. 611-13.
+
+Conformément à l'article 5 du Code pénal, les peines prévues au présent article et à l'article L. 263-4 ne se cumulent pas
+avec celles prévues aux articles 319 et 320 du Code pénal.
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 85-835 du 7 août 1985.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
+	  - Loi n°73-1195 du 27 décembre 1973 - art. 13 (V)
+	  - Décret n°96-1133 du 24 décembre 1996 - art. 5 (V)
+	  - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code du travail - art. L231-5 (AbD)
+	  - Code du travail - art. L231-9 (M)
+	  - Code du travail - art. L263-10 (M)
+	  - Code du travail - art. L263-2-1 (AbD)
+	  - Code du travail - art. L263-4 (AbD)
+	  - Code du travail - art. L263-6 (AbD)
+	  - Code du travail - art. L742-5 (VT)
+	  - Code rural - art. R341-7 (M)
+
+	**Cite**:
+
+	  - Code pénal 5, 319, 320
+	  - Code du travail - art. L611-10 (M)
+	  - Code du travail - art. L611-13 (M)
+	  - Code du travail L231-1 à L233-7, L263-4, L611-10, L611-13
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L263-6 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-2-1
+
+Lorsqu'une des infractions énumérées à l'alinéa 1er de l'article L. 263-2, qui a provoqué la mort ou des blessures dans les
+conditions définies aux articles 319 et 320 du code pénal ou, involontairement, des blessures, coups ou maladies n'entraînant
+pas une incapacité totale de travail personnelle supérieure à trois mois [*durée*] a été commise par un préposé, le tribunal
+peut, compte tenu des circonstances de fait et des conditions de travail de l'intéressé, décider que le paiement des amendes
+prononcées et des frais de justice sera mis, en totalité ou en partie, à la charge de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code pénal 319, 320
+	  - Code du travail L263-2 AL. 1
+
+	**Cité par**:
+
+	  - Code du travail - art. L263-3-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4741-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-3
+
+En cas d'infraction aux dispositions des articles L. 231-1, L. 231-2, L. 231-4, L. 232-1, L. 232-2, L. 233-1 à L. 233-6, L.
+235-2 et L. 235-8 et des règlements prévus pour leur exécution, le jugement fixe, en outre, le délai dans lequel sont
+exécutés les travaux de sécurité et de salubrité imposés par lesdites dispositions. Ce délai ne pourra excéder dix mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 18
+	  - Code du travail 174
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L231-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L231-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L233-1-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L235-2 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L231-2 (M)
+	  - Code du travail - art. L231-4 (M)
+	  - Code du travail - art. L232-1 (AbD)
+	  - Code du travail - art. L232-2 (AbD)
+	  - Code du travail - art. L235-2 (T)
+	  - Code du travail - art. L235-8 (T)
+	  - Code du travail L231-1, L231-2, L231-4, L232-1, L232-2, L233-1 à L233-6, L235-2, L235-8
+
+	**Cité par**:
+
+	  - Code du travail - art. L362-1 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4741-4 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-3-1
+
+En cas d'accident du travail survenu dans une entreprise où ont été relevés des manquements graves ou répétés aux règles
+d'hygiène et de sécurité du travail, la juridiction saisie doit si elle ne retient pas dans les liens de la prévention la ou
+les personnes physiques poursuivies sur le fondement des dispositions du code pénal citées à l'article L. 263-2-1 faire
+obligation à l'entreprise de prendre toutes mesures pour rétablir des conditions normales d'hygiène et de sécurité du
+travail.
+
+A cet effet, la juridiction enjoint à l'entreprise de présenter, dans un délai qu'elle fixe, un plan de réalisation de ces
+mesures accompagné de l'avis motivé du comité d'entreprise et du comité d'hygiène et de sécurité ou, à défaut, des délégués
+du personnel.
+
+Après avis du directeur départemental du travail et de la main-d'oeuvre, la juridiction adopte le plan présenté. A défaut de
+présentation ou d'adoption d'un tel plan, elle condamne l'entreprise à exécuter pendant une période qui ne saurait excéder
+cinq ans un plan de nature à faire disparaître les manquements visés ci-dessus.
+
+Dans ce dernier cas, les dépenses mises à la charge de l'entreprise ne peuvent annuellement dépasser le montant [*limite*]
+
+annuel moyen des cotisations d'accidents du travail prélevé, au cours des cinq années antérieures à celle du jugement, dans
+le ou les établissements où ont été relevés les manquements aux règles d'hygiène et de sécurité visés au premier alinéa ci-
+dessus.
+
+Le contrôle de l'exécution des mesures prescrites est exercé par l'inspecteur du travail. S'il y a lieu, celui-ci saisit le
+juge des référés, qui peut ordonner la fermeture totale ou partielle de l'établissement pendant le temps nécessaire pour
+assurer ladite exécution.
+
+Le chef d'entreprise qui, dans les délais prévus, n'a pas présenté le plan visé au deuxième alinéa ci-dessus ou n'a pas pris
+les mesures nécessaires à la réalisation du plan arrêté par le juge en vertu du troisième alinéa, est puni d'une amende de
+2.000 F à 120.000 F (1) [*montant*] ainsi que des peines prévues à l'article L. 263-6.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°76-1106 du 6 décembre 1976 - art. 20 () JORF 7 décembre 1976
+
+	**Cite**:
+
+	  - Code du travail - art. L263-2-1 (M)
+	  - Code du travail - art. L263-6 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L263-5 (AbD)
+	  - Code du travail - art. L742-5 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4741-11 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L263-4
 
 En cas de récidive, les infractions aux dispositions auxquelles se réfère l'article L. 263-2 sont passibles d'un
@@ -14848,19 +16134,15 @@ Le jugement est susceptible d'appel, la Cour statue d'urgence.
 
 ###### Article L263-5
 
-Les décisions du juge des référés prévues à l'article L. 263-1 ainsi que les condamnations prononcées en application de
-l'article L. 263-4 ne peuvent, sous réserve des dispositions de l'alinéa suivant, entraîner ni rupture, ni suspension du
-contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés.
+Les décisions du juge des référés prévues aux articles L. 263-1 et L. 263-3-1 ainsi que les condamnations prononcées en
+application de l'article L. 263-4 ne peuvent, sous réserve des dispositions de l'alinéa suivant, entraîner ni rupture, ni
+suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés.
 
 Lorsque la fermeture totale et définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de
-préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus /R/A l'article L. 122-10/R/DECR.0659 23-07-1975 :
-aux articles L. 122-14-4 et L. 122-14-6// en cas de rupture du contrat de travail.
+préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-6 en cas de
+rupture du contrat de travail.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-617 1972-07-05 ART. 20
 
 	**Cité par**:
 
@@ -14870,15 +16152,50 @@ aux articles L. 122-14-4 et L. 122-14-6// en cas de rupture du contrat de travai
 
 	**Cite**:
 
-	  - Code du travail - art. L122-10 (Ab)
 	  - Code du travail - art. L122-14-4 (M)
 	  - Code du travail - art. L122-14-6 (Ab)
 	  - Code du travail - art. L263-1 (M)
+	  - Code du travail - art. L263-3-1 (M)
 	  - Code du travail - art. L263-4 (M)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. L263-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-6
+
+En cas de condamnation prononcée en application des articles L. 263-2 et L. 263-4, le tribunal ordonne l'affichage du
+jugement aux portes des magasins, usines ou ateliers du délinquant et sa publication dans tels journaux qu'il désigne, le
+tout aux frais du délinquant.
+
+Il peut, en cas de récidive, en outre, prononcer contre l'auteur de l'infraction l'interdiction d'exercer, pendant une durée
+maximale de cinq ans, certaines fonctions qu'il énumère soit dans l'entreprise, soit dans une ou plusieurs catégories
+d'entreprises qu'il définit.
+
+La violation de cette interdiction est punie d'une amende de 2000 à 60000 F et d'un emprisonnement de deux mois à deux ans ou
+de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05
+	  - Code du travail 176
+
+	**Cité par**:
+
+	  - Code du travail - art. L263-10 (AbD)
+	  - Code du travail - art. L263-3-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L263-2 (M)
+	  - Code du travail - art. L263-4 (M)
 
 	**Codifié par**:
 
@@ -14909,6 +16226,125 @@ Les articles L. 231-4, L. 231-5, L. 263-1 à L. 263-6 ne sont pas applicables au
 	  - TXT_ASSOCIE: Code du travail - art. L263-4 (AbD)
 	  - TXT_ASSOCIE: Code du travail - art. L263-5 (AbD)
 	  - TXT_ASSOCIE: Code du travail - art. L263-6 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-8
+
+Le maître d'ouvrage qui a fait construire ou aménager un bâtiment entrant dans la prévision [*exercice d'une activité
+industrielle, commerciale ou agricole*] de l'article L. 235-1 en méconnaissance de l'obligation mise à sa charge par ledit
+article est puni des peines prévues aux articles L. 480-4 et L. 480-5 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L235-1 (M)
+	  - Code de l'urbanisme - art. L480-4 (M)
+	  - Code de l'urbanisme - art. L480-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L235-1 (T)
+	  - TXT_ASSOCIE: Code du travail - art. L263-11 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4744-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-9
+
+Le maître de l'ouvrage qui a fait ouvrir un chantier ne satisfaisant pas aux dispositions de l'article L. 235-2 est puni
+d'une amende de 1.500 à 150.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 3.000 à 300.000 F (1).
+
+L'interruption du travail peut être ordonnée dans les conditions prévues à l'article L. 480-2 du Code de l'urbanisme.
+
+(1) Amende applicable depuis le 9 décembre 1976.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L235-2 (T)
+	  - Code de l'urbanisme - art. L480-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-11 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L4744-3 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-10
+
+L'entrepreneur qui n'a pas remis au maître d'oeuvre le plan prévu à l'article L. 235-3 est puni des peines prévues aux
+articles L. 263-2, L. 263-4 et L. 263-5.
+
+Il en est de même en cas d'infraction du maître de l'ouvrage ou du maître d'oeuvre aux obligations découlant des articles L.
+235-5 et L. 235-7.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L235-3 (Ab)
+	  - Code du travail - art. L235-5 (Ab)
+	  - Code du travail - art. L235-7 (M)
+	  - Code du travail - art. L263-2 (M)
+	  - Code du travail - art. L263-4 (M)
+	  - Code du travail - art. L263-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L235-3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L235-5 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L235-7 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L263-11 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L263-11
+
+Les infractions définies aux articles L. 263-8 à L. 263-10 sont constatées par les officiers de police judiciaire, par les
+inspecteurs du travail et par les personnes prévues à l'article L. 480-1 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°93-1418 du 31 décembre 1993 - art. 10 () JORF 1er janvier 1994
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L263-10 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L263-8 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L263-9 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L263-12 (AbD)
+
+	**Cite**:
+
+	  - Code du travail L263-8 A L263-10
+	  - Code de l'urbanisme - art. L480-1 (M)
 
 	**Codifié par**:
 
@@ -16918,42 +18354,6 @@ quatre jours doit être fixé en tenant compte des circonstances à partir du mi
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L231-5
-
-Avant l'expiration du délai prévu à l'article précédent, et au plus tard dans les quinze jours qui suivent la mise en
-demeure, le chef d'établissement adresse, s'il le juge convenable, une réclamation au ministre chargé du travail. Cette
-réclamation est suspensive.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°55-1188 du 3 septembre 1955 - art. 28 (V)
-	  - Décret n°75-306 du 28 avril 1975 - art. 49 (Ab)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 65 (Ab)
-	  - Code du travail - art. L231-5-1 (AbD)
-	  - Code du travail - art. L231-9 (AbD)
-	  - Code du travail - art. L263-7 (AbD)
-	  - Code du travail - art. L362-1 (AbD)
-	  - Code du travail - art. L742-5 (VT)
-	  - Code du travail - art. R231-12 (T)
-	  - Code du travail - art. R231-13 (VT)
-	  - Code du travail - art. R231-13-1 (VT)
-	  - Code du travail - art. R711-8 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-13-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 2070 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
 ###### Article L231-8
 
 Dans les entreprises qui occupent plus de 300 [*effectif*] salariés les dispositions des articles L. 436-1 et L. 436-2
@@ -17047,232 +18447,92 @@ avantage en nature.
 	  - Ordonnance  1960-11-29 ART. 1 ET 3
 
 
-#### SECURITE .
+## REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .
 
-###### Article L233-5
+###### Article L231-3-1
 
-Il est interdit d'exposer, de mettre en vente ou de vendre, de louer, de céder à quelque titre que ce soit ou d'utiliser :
+Sans préjudice de l'application, s'il y a lieu, des mesures prévues au 3. de l'article L. 231-2, tout chef d'établissement
+est tenu d'organiser une formation pratique et appropriée en matière de sécurité, au bénéfice des travailleurs qu'il
+embauche, de ceux qui changent de poste de travail ou de technique, de ceux qu'il utilise dans les cas prévus aux alinéas a à
+e de l'article L. 124-2 et, à la demande du médecin du travail, de ceux qui reprennent leur activité après un arrêt de
+travail d'une durée d'au moins vingt et un jours.
 
-- des appareils, machines et éléments de machines dangereux qui ne sont pas montés, disposés ou protégés dans des conditions
-assurant la sécurité et l'hygiène des travailleurs ;
+Le comité d'entreprise ou d'établissement et le comité d'hygiène et de sécurité ou, dans les entreprise où il n'existe pas de
+comité d'entreprise, les délégués du personnel sont obligatoirement consultés sur les programmes de formation et veillent à
+leur mise en oeuvre effective.
 
-- des produits, appareils ou dispositifs de protection contre les dangers de tous ordres auxquels sont soumis les
-travailleurs et dont l'efficacité n'a pas été reconnue.
+Le financement de ces actions est à la charge de l'employeur qui ne peut l'imputer sur la participation prévue à l'article L.
+950-1 que pour les actions de formation définies à l'article /R/L. 940-2/R/Loi  0754 : L. 900-2//.
 
-Des décrets, pris après consultation des organisations professionnelles intéressées et après avis de la commission de
-sécurité du travail ou de la commission d'hygiène industrielle, déterminent les appareils, machines ou éléments de machines,
-les produits, appareils ou dispositifs de protection auxquels sont applicables les dispositions qui précèdent et fixent les
-conditions auxquelles ces produits, appareils ou dispositifs de protection doivent satisfaire pour être reconnus efficaces.
+En fonction des risques constatés, des actions particulières de formation à la sécurité sont également conduites dans
+certains établissements avec le concours, le cas échéant, des organismes professionnels d'hygiène et de sécurité visés à
+l'article L. 231-2 (4.) et des services de prévention des caisses régionales d'assurance maladie de la sécurité sociale.
+
+L'étendue de l'obligation établie par le présent article varie selon la taille de l'établissement, la nature de son activité,
+le caractère des risques qui y sont constatés et le type des emplois occupés par les salariés concernés.
+
+Un règlement d'administration publique [*RAP*] pris en application de l'article L. 231-2 fixe les conditions dans lesquelles
+la formation prévue au présent article est organisée et dispensée.
+
+Toute modification apportée au poste de travail pour des raisons de sécurité, qui entraînerait une diminution de la
+productivité, est suivie d'une période d'adaptation de deux semaines au moins pendant laquelle tout mode de rémunération au
+rendement est interdit. La rémunération est établie sur la moyenne des deux semaines précédant la modification.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°65-48 du 8 janvier 1965 - art. 5 (Ab)
-	  - Décret n°75-848 du 26 août 1975 - art. 1 (V)
-	  - Décret n°77-949 du 17 août 1977 - art. 4 (Ab)
-	  - Arrêté du 3 octobre 1984 - art. 4 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 1 (Ab)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 42 (Ab)
-	  - Arrêté du 21 août 1987 - art. 1 (V)
-	  - Décret n°88-989 du 17 octobre 1988 - art. 22 (V)
-	  - Arrêté du 2 décembre 1988 - art. 12 (V)
-	  - Arrêté du 1 juin 1990 - art. ANNEXE I (Ab)
-	  - Arrêté du 18 décembre 1992 - art. Annexe (VT)
-	  - Décret n°93-40 du 11 janvier 1993 - art. 7 (V)
-	  - Arrêté du 3 mars 1995 - art. 3 (VT)
-	  - Décret n°95-607 du 6 mai 1995 - art. Annexe (M)
-	  - Décret n°95-1081 du 3 octobre 1995 - art. 1 (VT)
-	  - Arrêté du 13 mai 1996 - art. 1 (Ab)
-	  - Arrêté du 13 mai 1996 - art. Annexe III (Ab)
-	  - Décret n°96-725 du 14 août 1996 - art. 37 (V)
-	  - Arrêté du 29 septembre 1997 - art. 1 (V)
-	  - Arrêté du 29 septembre 1997 - art. Annexe III (V)
-	  - Arrêté du 22 décembre 2000 - art. Annexe (V)
-	  - Décret n°2005-1236 du 30 septembre 2005 - art. 19 (V)
-	  - Décret n°2005-1236 du 30 septembre 2005 - art. 27 (V)
-	  - Arrêté du 10 août 1979 - art. 5 (Ab)
-	  - Arrêté du 16 janvier 1980 - art. Annexe (Ab)
-	  - Arrêté du 18 décembre 1992 - art. 4 (VT)
-	  - Arrêté du 18 décembre 1992 - art. 5 (V)
-	  - Arrêté du 18 décembre 1992 - art. Annexe II (V)
-	  - Arrêté du 26 novembre 1981 - art. 2 (Ab)
-	  - Code du travail - art. Annexe à l'article R233-84 (VT)
-	  - Code du travail - art. D233-1 (VT)
-	  - Code du travail - art. L233-1 (M)
-	  - Code du travail - art. L233-5-1 (AbD)
-	  - Code du travail - art. L233-5-3 (AbD)
-	  - Code du travail - art. L233-6 (AbD)
-	  - Code du travail - art. L235-18 (AbD)
-	  - Code du travail - art. L263-11 (M)
-	  - Code du travail - art. L263-2 (AbD)
-	  - Code du travail - art. L611-16 (AbD)
-	  - Code du travail - art. R233-104-1 (Ab)
-	  - Code du travail - art. R233-155 (VT)
-	  - Code du travail - art. R233-49 (Ab)
-	  - Code du travail - art. R233-49-3 (VT)
-	  - Code du travail - art. R233-49-4 (VT)
-	  - Code du travail - art. R233-50 (VT)
-	  - Code du travail - art. R233-51-1 (Ab)
-	  - Code du travail - art. R233-52 (M)
-	  - Code du travail - art. R233-52-1 (Ab)
-	  - Code du travail - art. R233-57 (VT)
-	  - Code du travail - art. R233-58 (VT)
-	  - Code du travail - art. R233-65 (VT)
-	  - Code du travail - art. R233-68 (VT)
-	  - Code du travail - art. R233-70 (M)
-	  - Code du travail - art. R233-73 (M)
-	  - Code du travail - art. R233-74 (M)
-	  - Code du travail - art. R233-77 (M)
-	  - Code du travail - art. R233-78 (VT)
-	  - Code du travail - art. R233-79 (VT)
-	  - Code du travail - art. R233-79-1 (VT)
-	  - Code du travail - art. R233-80 (VT)
-	  - Code du travail - art. R233-81-1 (M)
-	  - Code du travail - art. R233-82 (VT)
-	  - Code du travail - art. R233-83 (VT)
-	  - Code du travail - art. R233-83-1 (M)
-	  - Code du travail - art. R233-83-2 (VT)
-	  - Code du travail - art. R233-83-3 (VT)
-	  - Code du travail - art. R233-88 (VT)
-	  - Code du travail - art. R233-88-1 (VT)
-	  - Code du travail - art. R233-89-3 (VT)
-	  - Code du travail - art. R233-89-4 (VT)
-	  - Code du travail - art. R4312-21 (VT)
-	  - Code du travail - art. R4312-4 (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 21 août 1987
-	  - TXT_SOURCE: Arrêté du 21 août 1987 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 21 août 1987 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°92-765 du 29 juillet 1992
-	  - TXT_SOURCE: Décret n°92-765 du 29 juillet 1992 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°96-725 du 14 août 1996
-	  - TXT_SOURCE: Décret n°96-725 du 14 août 1996 - art. 36 (V)
-	  - TXT_SOURCE: Décret n°96-725 du 14 août 1996 - art. 37 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 4 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 6 (V)
-	  - TXT_ASSOCIE: Arrêté du 18 décembre 1992 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1992 - art. Annexe I (V)
-	  - TXT_ASSOCIE: Code du travail - art. L263-11 (M)
-	  - TXT_ASSOCIE: Code du travail - art. L263-2 (AbD)
-	  - TXT_SOURCE: Code du travail - art. R233-100 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-101 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-102 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-103 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-104 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-105 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-106 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-107 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-49 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-83 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-83-1 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-84 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-85 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-86 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-87 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-88 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-89 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-90 (M)
-	  - TXT_SOURCE: Code du travail - art. R233-91 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-92 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-93 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-94 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-95 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-97 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-98 (Ab)
-	  - TXT_SOURCE: Code du travail - art. R233-99 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
 
-
-###### Article L233-6
-
-L'acheteur auquel un appareil, une machine ou un élément de machine dangereux ou bien un produit, un appareil ou dispositif
-de protection a été livré dans des conditions contraires aux dispositions de l'article L. 233-5 et des décrets pris pour son
-application, peut, nonobstant toute clause contraire, dans le délai d'une année à compter du jour de la livraison, demander
-la résolution de la vente ; le tribunal qui prononce cette résolution peut, en outre, accorder des dommages-intérêts à
-l'acheteur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L231-7 (AbD)
-
-	**Cite**:
-
-	  - Code du travail - art. L233-5 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 2066 d
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-### PENALITES
-
-#### HYGIENE ET SECURITE .
-
-###### Article L263-2
-
-Les chefs d'établissement, directeurs, gérants ou préposés qui ont enfreint les dispositions des chapitres 1er, II et III du
-titre III du présent livre ainsi que que les autres personnes qui ont enfreint les dispositions des articles L. 232-2, L.
-233-5, L. 231-6, L. 231-7 et L. 233-7 dudit livre et des règlements pris pour leur exécution sont punis d'une amende de 500 F
-à 3.000 F [*montant*].
-
-L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise concernés par la ou les infractions relevées dans
-le procès-verbal visé /R/A l'article L. 611-13/R/DECR.0808 19-09-1974 : aux articles L. 611-10 et L. 611-13// .
-
-**Liens relatifs à cet article**
-
 	**Cité par**:
 
-	  - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
-	  - Loi n°73-1195 du 27 décembre 1973 - art. 13 (V)
-	  - Décret n°96-1133 du 24 décembre 1996 - art. 5 (V)
-	  - Décret n°2002-865 du 3 mai 2002 - art. 3 (Ab)
-	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-	  - Code du travail - art. L231-5 (AbD)
-	  - Code du travail - art. L231-9 (M)
-	  - Code du travail - art. L263-10 (M)
-	  - Code du travail - art. L263-2-1 (AbD)
-	  - Code du travail - art. L263-4 (AbD)
-	  - Code du travail - art. L263-6 (AbD)
+	  - Décret n°75-306 du 28 avril 1975 - art. 11 (Ab)
+	  - Décret n°77-612 du 9 juin 1977 - art. 17 (Ab)
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 8 (V)
+	  - Décret n°80-203 du 12 mars 1980 - art. 13 (Ab)
+	  - Décret n°82-397 du 11 mai 1982 - art. 23 (Ab)
+	  - Arrêté du 3 octobre 1984 - art. 7 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 19 (Ab)
+	  - Arrêté du 25 novembre 1987 - art. 1 (Ab)
+	  - Arrêté du 28 janvier 1991 - art. 12 (VT)
+	  - Décret n°91-451 du 14 mai 1991 - art. 5 (V)
+	  - Décret n°96-98 du 7 février 1996 - art. 4 (Ab)
+	  - Décret n°2000-564 du 16 juin 2000 - art. 4 (V)
+	  - Décret n°2004-1043 du 4 octobre 2004 - art. 5 (V)
+	  - Décret n°2006-320 du 20 mars 2006 - art. 4 (V)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 47 (V)
+	  - Arrêté du 12 décembre 1985 - art. Annexe (V)
+	  - Code du travail - art. L122-3-1 (AbD)
+	  - Code du travail - art. L124-3 (AbD)
+	  - Code du travail - art. L231-8 (AbD)
+	  - Code du travail - art. L236-4 (AbD)
 	  - Code du travail - art. L742-5 (VT)
-	  - Code rural - art. R341-7 (M)
+	  - Code du travail - art. R231-32 (VT)
+	  - Code du travail - art. R231-56-9 (VT)
+	  - Code du travail - art. R231-6 (Ab)
+	  - Code du travail - art. R231-63 (VT)
+	  - Code du travail - art. R231-71 (VT)
+	  - Code du travail - art. R238-51 (VT)
+	  - Code du travail - art. R241-42 (VT)
+	  - Code du travail - art. R822-42 (VT)
+	  - Code rural - art. R717-6 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°72-617 1972-07-05 ART. 17
-	  - Code du travail 2173
+	  - Loi n°78-754 1978-07-17 ART. 1-III JORF 18 juillet 1978
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail - art. L263-4 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L263-6 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. L263-7 (M)
+	  - TXT_SOURCE: Décret n°79-846 du 28 septembre 1979 - art. 84 (VT)
 
 	**Cite**:
 
-	  - Code du travail - art. L611-10 (M)
-	  - Code du travail - art. L611-13 (M)
-	  - Code du travail L231-1 A L233-7
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. L231-2 (M)
+	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L940-2 (M)
+	  - Code du travail - art. L950-1 (M)
 
 
 ## Livre III : Placement et emploi
@@ -34044,12 +35304,18 @@ des professions libérales, des sociétés civiles, des syndicats professionnels
 
 ###### Article L611-6
 
-Les inspecteurs des lois sociales en agriculture sont chargés [*attributions*] de veiller à l'application aux professions
-agricoles de celles des dispositions du code du travail, des lois et règlements non codifiés relatifs au régime du travail
-qui sont applicables à ces professions.
+Les inspecteurs du travail placés sous l'autorité du ministre de l'agriculture sont chargés de veiller à l'application aux
+professions agricoles de celles des dispositions du code du travail et des lois et règlements non codifiés relatifs au régime
+du travail qui sont applicables à ces professions.
 
-//DECR.0493 11-06-1975 : Ils sont également chargés de veiller à l'application des conventions collectives agricoles ayant
-fait l'objet d'un arrêté d'extension// .
+Ils sont également chargés de veiller à l'application des conventions collectives agricoles ayant fait l'objet d'un arrêté
+d'extension.
+
+Ils constatent les infractions aux dispositions ci-dessus indiquées, aux dispositions générales de prévention ayant fait
+l'objet d'un arrêté d'extension du ministre de l'agriculture ainsi qu'aux mesures particulières de prévention rendues
+obligatoires par arrêté du ministre de l'argiculture pour tous les employeurs d'un secteur professionnel déterminé.
+
+Les dispositions des articles L. 611-8, L. 611-10 et L. 611-11 sont applicables à ces inspecteurs.
 
 **Liens relatifs à cet article**
 
@@ -34070,6 +35336,12 @@ fait l'objet d'un arrêté d'extension// .
 	  - Code rural - art. D719-1 (V)
 	  - Code rural - art. L719-1 (Ab)
 	  - Code rural ancien - art. 985 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L611-10 (M)
+	  - Code du travail - art. L611-11 (M)
+	  - Code du travail - art. L611-8 (M)
 
 
 ###### Article L611-7
@@ -34721,6 +35993,36 @@ Toute violation de ces obligations est punie conformément à l'article 378 du c
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. L611-12-1 (M)
+
+
+###### Article L611-12-1
+
+Les dispositions de l'article L. 611-12 sont applicables aux contrôleurs des lois sociales placés sous l'autorité des
+inspecteurs prévus à l'article L. 611-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 66 (Ab)
+	  - Décret n°96-216 du 14 mars 1996 - art. 24 (V)
+	  - Code du travail - art. R233-81 (VT)
+	  - Code rural - art. L719-1 (Ab)
+	  - Code rural ancien - art. 985 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L231-4 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L611-12 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L611-12 (M)
+	  - Code du travail - art. L611-6 (M)
 
 
 ###### Article L611-13
@@ -102445,6 +103747,64 @@ travailleur et à celui-ci d'exécuter des travaux rétribués pendant la durée
 	**Nouveaux textes**:
 
 	  - Code du travail - art. D7121-30 (V)
+
+
+### Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison
+
+#### Chapitre Ier : Surveillance médicale.
+
+###### Article D773-1
+
+La création et la constitution des services médicaux du travail interentreprises destinés uniquement à assurer la
+surveillance médicale des gardiens d'immeubles à usage d'habitation et des employés de maison, sont soumises aux règles
+applicables aux autres services interentreprises en ce qui concerne tant la définition de leur compétence territoriale que
+leur agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+
+###### Article D773-2
+
+Le président du service interentreprises doit établir chaque année dans la forme prévue par un arrêté du ministre chargé du
+travail, un rapport sur l'organisation, le fonctionnement et la gestion financière du service médical dont un exemplaire est
+transmis à l'inspecteur du travail et un exemplaire au médecin inspecteur du travail compétents.
+
+Dans les services administrés paritairement, ce rapport est transmis aux services d'inspection par le président du conseil
+d'administration avec les observations du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
+
+
+###### Article D773-4
+
+Le médecin du travail établit chaque année dans la forme prévue par un arrêté du ministre chargé du travail un rapport dont
+un exemplaire est transmis à l'inspecteur du travail et un exemplaire au médecin inspecteur du travail compétents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)
 
 
 ### Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
