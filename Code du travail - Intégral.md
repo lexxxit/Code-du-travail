@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-11-25
+Version Consolidée au 1975-12-30
 
 # Partie législative ancienne
 
@@ -10233,6 +10233,55 @@ précédent la gestion du régime d'assurance institué à l'article L. 143-11-1
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L143-11-3
+
+Le droit du salarié est indépendant de l'observation par l'employeur tant des prescriptions des articles L. 143-11 à /M/L.
+143-11-6/M/LOI  1251 27-12-1975 : L. 143-11-7// que des obligations dont il est tenu à l'égard des institutions prévues à
+l'article L. 143-11-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°73-1194 du 27 décembre 1973 - art. 3 (V) JORF 30 décembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°74-808 1974-09-19 JORF 29 SEPTEMBRE
+
+	**Modifié par**:
+
+	  - Loi n°75-1251 1975-12-27 art. 3 JORF 30 décembre 1975
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 40 (Ab)
+	  - Code du travail - art. D143-4 (VT)
+	  - Code du travail - art. L143-11-13 (VT)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. R124-22 (VT)
+
+	**Transféré par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 130 () JORF 26 janvier 1985
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-11-5 (P)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-11-7 (M)
+	  - Code du travail L143-11-1 A L143-11-6, L143-11-7
+
+
 ###### Article L143-11-4
 
 L'assurance est financée par des cotisations des employeurs qui sont assises sur les rémunérations servant de base au calcul
@@ -10428,18 +10477,12 @@ personnel, en cas de règlement judiciaire, déduction faite des prélèvements 
 
 ###### Article L143-11-6
 
-Les institutions prévues à l'article L. 143-11-2 sont subrogées dans les droits des personnes auxquelles elles ont payé leurs
-créances dans les conditions prévues à l'article L. 143-11-5.
+La garantie des institutions [*du régime d'assurance de la convention du 31-12-1958*] mentionnées à l'article L. 143-11-2 est
+limité, toutes créances du salarié confondues, à un ou des montants fixés par décret, en référence au plafond mensuel retenu
+pour le calcul des contributions du régime d'assurance chômage prévu à la section II du chapitre Ier du titre V du livre III
+du présent code.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°73-1194 du 27 décembre 1973 - art. 6 (V) JORF 30 décembre 1973
-
-	**Transféré par**:
-
-	  - Loi n°75-1251 1975-12-27 ART. 1 JORF 30 décembre 1975
 
 	**Cité par**:
 
@@ -10456,9 +10499,14 @@ créances dans les conditions prévues à l'article L. 143-11-5.
 	  - Code du travail - art. L143-9 (M)
 	  - Code du travail - art. R124-22 (VT)
 
+	**Transféré par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 130 () JORF 26 janvier 1985
+
 	**Cite**:
 
 	  - Code du travail - art. L143-11-2 (M)
+	  - Code du travail L351-10 A L351-17
 
 	**Anciens textes**:
 
@@ -10468,7 +10516,61 @@ créances dans les conditions prévues à l'article L. 143-11-5.
 
 	  - Code du travail - art. L143-11-8 (M)
 	  - Code du travail - art. L3253-18 (VD)
-	  - Code du travail L143-11-7 (1975)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE .
+
+###### Article L143-11-7
+
+Les institutions [*du régime d'assurance de la convention du 31-12-1958*] prévues à l'article L. 143-11-2 sont subrogées dans
+les droits des personnes auxquelles elles ont payé leurs créances dans les conditions prévues à l'article L. 143-11-5.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: B(LOI 75-1251 1975-12-27 JORF 30 DECEMBRE 1975)
+
+	**Cité par**:
+
+	  - Loi n°83-1097 du 20 décembre 1983 - art. 1 (P)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 123 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 228 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 76 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 79 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 88 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 118 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 121 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 150 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 96 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art. 6
+	  - Code de commerce - art. R622-21 (VD)
+	  - Code de commerce - art. R743-141 (V)
+	  - Code de commerce. - art. L621-125 (T)
+	  - Code de commerce. - art. L625-1 (VD)
+	  - Code de commerce. - art. L627-5 (T)
+	  - Code de commerce. - art. L662-4 (V)
+	  - Code de commerce. - art. R625-6 (V)
+	  - Code du travail - art. L122-32-11 (AbD)
+	  - Code du travail - art. L143-11-12 (VT)
+	  - Code du travail - art. L143-11-3 (T)
+	  - Code du travail - art. L143-11-5 (AbD)
+	  - Code du travail - art. L143-9 (M)
+	  - Code du travail - art. R124-22 (VT)
+	  - Code du travail - art. R143-4 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-11-2 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail L143-11-6 (1974)
 
 	**Codifié par**:
 
