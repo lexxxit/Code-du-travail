@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-17
+Version Consolidée au 1979-01-19
 
 # Partie législative ancienne
 
@@ -2686,6 +2686,76 @@ et au besoin après toutes mesures d'instruction qu'il estime utiles.
 	  - Code du travail - art. L122-13 (AbD)
 	  - Code du travail - art. L511-1 (AbD)
 	  - Code du travail - art. R516-45 (VT)
+
+
+###### Article L122-14-4
+
+Si le licenciement d'un salarié survient sans observation de la procédure requise à la présente section, mais pour une cause
+[*réelle et sérieuse*] répondant aux exigences de l'article L. 122-14-2, le tribunal saisi doit imposer à l'employeur
+d'accomplir la procédure prévue et accorder au salarié, à la charge de l'employeur, une indemnité qui ne peut être supérieure
+à un mois de salaire [*montant*] ; si ce licenciement survient pour une cause ne répondant pas aux exigences de l'article L.
+122-14-2, le tribunal peut proposer la réintégration du salarié dans l'entreprise, avec maintien de ses avantages acquis ; en
+cas de refus par l'une ou l'autre des parties, le tribunal octroie au salarié une indemnité. Cette indemnité [*de rupture
+abusive*], qui ne peut être inférieure aux salaires des six derniers mois, est due sans préjudice, le cas échéant, de
+l'indemnité [*minimum de licenciement*] prévue à l'article L. 122-9.
+
+Le tribunal ordonne également le remboursement par l'employeur fautif aux organismes concernés, des indemnités de chômage
+payées au travailleur licencié du jour de son licenciement au jour du jugement prononcé par le tribunal [*période*]. Ce
+remboursement est ordonné d'office par le tribunal dans le cas où les organismes concernés ne sont pas intervenus à
+l'instance ou n'ont pas fait connaître le montant des indemnités versées. Une copie certifiée conforme du jugement est
+adressée par le secrétariat du tribunal à ces organismes. Sur le fondement de ce jugement et lorsque celui-ci est exécutoire,
+les institutions qui versent les allocations de chômage peuvent poursuivre le recouvrement des indemnités devant le tribunal
+d'instance du domicile de l'employeur et selon une procédure fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°73-680 1973-07-13 art. 3 JORF 18 juillet 1973
+
+	**Modifié par**:
+
+	  - Loi n°79-44 1979-01-18 art. 17 JORF 19 janvier 1979
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 duodecies (M)
+	  - Code civil - art. 2101 (T)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2331 (V)
+	  - Code civil - art. 2375 (V)
+	  - Code de la propriété intellectuelle - art. L335-5 (V)
+	  - Code de la propriété intellectuelle - art. L521-10 (V)
+	  - Code de la propriété intellectuelle - art. L521-4 (M)
+	  - Code de la propriété intellectuelle - art. L716-11-1 (V)
+	  - Code du travail - art. D122-1 (T)
+	  - Code du travail - art. D122-16 (T)
+	  - Code du travail - art. D122-21 (T)
+	  - Code du travail - art. D122-24 (VT)
+	  - Code du travail - art. D122-6 (T)
+	  - Code du travail - art. D122-9 (VT)
+	  - Code du travail - art. L122-14-5 (AbD)
+	  - Code du travail - art. L122-14-6 (Ab)
+	  - Code du travail - art. L122-32-7 (AbD)
+	  - Code du travail - art. L122-45-2 (AbD)
+	  - Code du travail - art. L122-8 (AbD)
+	  - Code du travail - art. L123-5 (AbD)
+	  - Code du travail - art. L124-13-1 (AbD)
+	  - Code du travail - art. L263-5 (AbD)
+	  - Code du travail - art. L511-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14-2 (M)
+	  - Code du travail - art. L122-9 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail 24
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ###### Article L122-14-5
@@ -28045,88 +28115,6 @@ volontairement à titre individuel.
 	  - Décret n°73-1046 1973-11-15
 
 
-##### ALLOCATION D'AIDE PUBLIQUE .
-
-###### Article L351-5
-
-Les limites dans lesquelles l'allocation d'aide publique et la ou les majorations sont cumulables avec d'autres ressources
-sont fixées, en tant que de besoin, par le décret prévu à l'alinéa premier de l'article L. 351-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
-	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
-	  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
-	  - Décret n°79-250 du 27 mars 1979 - art. 3 (Ab)
-	  - Loi n°79-1129 du 28 décembre 1979 - art. 14 (Ab)
-	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
-	  - Ordonnance n°82-204 du 1 mars 1982
-	  - Ordonnance n°82-204 du 1 mars 1982 - art. 2 (V)
-	  - Décret n°82-340 du 16 avril 1982 - art. 6 (V)
-	  - Décret n°82-445 du 28 mai 1982 - art. 1 (M)
-	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
-	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 10 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 12 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
-	  - Décret n°83-458 du 7 juin 1983 - art. 5 (V)
-	  - Décret n°83-714 du 2 août 1983 - art. 1 (V)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Décret n°84-216 du 29 mars 1984 - art. 7 (Ab)
-	  - Décret n°85-475 du 26 avril 1985 - art. 17 (Ab)
-	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
-	  - Décret n°85-916 du 16 août 1985 - art. 4 (V)
-	  - Décret n°85-932 du 30 août 1985 - art. 15 (V)
-	  - Décret n°85-960 du 11 septembre 1985 - art. 5 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
-	  - Code de la sécurité sociale. - art. R351-12 (V)
-	  - Code de la sécurité sociale. - art. R351-13 (V)
-	  - Code de la sécurité sociale. - art. R531-16 (Ab)
-	  - Code de la sécurité sociale. - art. R532-2 (M)
-	  - Code de la sécurité sociale. - art. R755-11-1 (Ab)
-	  - Code du travail - art. D351-1 (VT)
-	  - Code du travail - art. D351-4 (Ab)
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-12 (VT)
-	  - Code du travail - art. L351-20 (MMN)
-	  - Code du travail - art. L351-21 (M)
-	  - Code du travail - art. L351-6-1 (M)
-	  - Code du travail - art. L351-6-2 (P)
-	  - Code du travail - art. L351-7 (M)
-	  - Code du travail - art. L352-3 (M)
-	  - Code du travail - art. R351-2 (M)
-	  - Code du travail - art. R365-1 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Code rural ancien - art. 1031 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 5
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5422-14 (VD)
-
-	**Cite**:
-
-	  - Code du travail L351-4 AL. 1
-
-
 ##### DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
 
 ###### Article L351-16
@@ -35132,22 +35120,36 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 
 ### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
 
-#### ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .
+#### ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES
 
 ###### Article L511-1
 
-Les conseils de prud'hommes règlent par voie de conciliation les différends qui peuvent s'élever à l'occasion du contrat de
-travail ou du contrat d'apprentissage entre les employeurs ou leurs représentants et les salariés et apprentis qu'ils
-emploient. Ils jugent les différends à l'égard desquels la conciliation n'a pas abouti.
+Les conseils de prud'hommes, juridictions électives et paritaires [*définition*], règlent par voie de conciliation les
+différends qui peuvent s'élever à l'occasion de tout contrat de travail soumis aux dispositions du présent code entre les
+employeurs, ou leurs représentants, et les salariés qu'ils emploient. Ils jugent les différends à l'égard desquels la
+conciliation n'a pas abouti.
 
-Les conseils de prud'hommes sont également compétents pour connaître les différends qui peuvent s'élever à l'occasion du
-contrat de travail entre les gens de maison et leurs employeurs.
+Lorsqu'un organisme se substitue habituellement aux obligations légales de l'employeur, il peut être mis en cause aux côtés
+de celui-ci, en cas de litige entre l'employeur et les salariés qu'il emploie.
+
+Les litiges relatifs aux licenciements mentionnés au deuxième alinéa de l'article L. 321-9 relèvent de la compétence des
+conseils de prud'hommes. Toutefois, lorsque l'issue du litige dépend de l'appréciation de la légalité de la décision
+administrative, expresse ou tacite, le conseil de prud'hommes sursoit à statuer et saisit le tribunal administratif
+compétent. Celui-ci statue dans un délai d'un mois. Si, à l'issue de ce délai, il ne s'est pas prononcé, le litige est porté
+devant le Conseil d'Etat, qui statue selon la procédure d'urgence.
 
 Leur mission comme conciliateurs et comme juges s'applique également aux différends nés entre salariés à l'occasion du
 travail.
 
-Néanmoins, ils ne peuvent connaître des actions en dommages-intérêts motivées par des accidents dont les salariés ou
-apprentis auraient été victimes.
+Néanmoins, ils ne peuvent connaître [*non compétence*] les litiges dont la connaissance est attribuée à une autre juridiction
+par la loi et notamment par le code de la sécurité sociale ou par le code rural pour ce qui concerne la mutualité sociale
+agricole et les accidents du travail, ou par le code du travail maritime.
+
+Les conseils de prud'hommes sont compétents en premier ressort quel que soit le chiffre de la demande. Toute convention
+dérogatoire, à l'exception du compromis d'arbitrage postérieur à l'expiration du contrat de travail, est réputée non écrite.
+
+Les personnels des services publics lorsqu'ils sont employés dans les conditions du droit privé relèvent de la compétence des
+conseil de prud'hommes.
 
 **Liens relatifs à cet article**
 
@@ -35160,41 +35162,33 @@ apprentis auraient été victimes.
 	  - Code du travail - art. L321-6 (M)
 	  - Code du travail - art. L517-1 (P)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du travail 4001 AL. 1, 4, 5
-	  - Loi n°1957-01-10 ART. 1
-	  - Ordonnance 58-1278 1958-12-22 ART. 1
+	  - Code du travail - art. L321-9 (M)
 
 
-###### Article L511-2
-
-Les conseils de prud'hommes doivent donner leur avis sur les questions qui leur sont posées par l'autorité administrative.
-
-Ils exercent en outre les attributions qui leur sont confiées par des lois spéciales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1411-5 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 4001 AL. 6, 7
-
+#### ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .
 
 ###### Article L511-3
 
-Les conseils de prud'hommes sont créés par décret rendu en forme de règlement d'administration publique sur la proposition
-des ministres chargés de la justice, du travail et de l'agriculture, après avis des conseils municipaux des communes
-intéressées, dans les localités où l'importance des professions devant relever de leur juridiction en justifie la nécessité.
+Il est crée au moins un conseil de prud'hommes dans le ressort de chaque tribunal de grande instance. Le ressort du conseil,
+s'il est unique, s'étend à l'ensemble de cette circonscription.
 
-Ils peuvent être réorganisés ou supprimés en la même forme.
+Pour des raisons d'ordre géographique, économique ou social, plusieurs conseils de prud'hommes peuvent être créés dans le
+ressort d'un tribunal de grande instance.
+
+//LOI 0004 05-01-1980 : Par dérogation aux deux alinéas qui précèdent, lorsque la compétence territoriale d'un conseil de
+prud'hommes s'étendait, antérieurement au 19 janvier 1979 et dans un même département, sur une partie des circonscriptions de
+plusieurs tribunaux de grande instance, le ressort de ce conseil pourra regrouper, à compter du 15 janvier 1980, des communes
+relevant précédemment de sa compétence//.
+
+Des décrets en conseil d'Etat, pris après consultation ou avis du conseil général et du conseil municipal intéressés, du
+premier président de la cour d'appel, ainsi que des organisations professionnelles et des organisations syndicales les plus
+représentatives sur le plan national, des chambres de commerce et d'industrie, de métiers et d'agriculture, portent création
+ou suppression des conseils et fixation, modification ou transfert de leur ressort et de leur siège.
+
+Chacun de ces organismes ou autorités est réputé avoir donné un avis favorable s'il n'a pas exprimé d'avis dans les trois
+mois suivant sa saisine.
 
 **Liens relatifs à cet article**
 
@@ -35211,12 +35205,6 @@ Ils peuvent être réorganisés ou supprimés en la même forme.
 	  - Code du travail - art. L513-3 (M)
 	  - Code du travail - art. R511-1 (VT)
 	  - Code du travail - art. R511-4 (VT)
-
-	**Anciens textes**:
-
-	  - Code du travail 4002
-	  - Loi n°1957-07-23
-	  - Ordonnance 1958-12-22 ART. 2
 
 
 ###### Article L511-4
@@ -35243,65 +35231,29 @@ Toutefois, ces dispositions ne sont applicables qu'aux professions industrielles
 	  - Code de la sécurité sociale. - art. D412-79 (V)
 
 
-###### Article L511-5
-
-Le décret d'institution divise s'il y a lieu, le conseil de prud'hommes en sections distinctes et autonomes et fixe leur
-composition : la section des professions industrielles, la section des professions commerciales, la section des professions
-agricoles, la section des professions diverses.
-
-Les ouvriers du commerce et de l'industrie sont classés dans la section industrielle ; les employés du commerce et de
-l'industrie dans la section commerciale ; la section agricole groupe les ouvriers et employés occupés dans une entreprise
-agricole ; la section des professions diverses, les ouvriers et employés de ces professions.
-
-Les différends entre les gens de maison et leurs employeurs sont portés devant la section commerciale ou, à défaut, devant la
-section industrielle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 4
-	  - Décret n°58-1292 1958-12-22 ART. 3 AL. 2, ART. 4 AL. 2
-	  - Loi n°1957-01-10 ART. 1 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R511-1 A R511-5
-
-
-#### ORGANISATION DES CONSEILS DE PRUD'HOMMES .
-
-###### Article L512-1
-
-Les conseils de prud'hommes sont composés, pour chaque catégorie, d'un nombre égal de salariés et d'employeurs.
-
-Il doit y avoir au moins deux prud'hommes employeurs et deux prud'hommes salariés dans chaque catégorie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1421-1 (VD)
-
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 5
-
+#### ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.
 
 ###### Article L512-2
 
-Les membres des conseils de prud'hommes sont élus pour six ans. Ils sont renouvelés par moitié tous les trois ans.
+Les conseils de prud'hommes sont divisés en cinq sections autonomes ; la section de l'encadrement, la section de l'industrie,
+la section du commerce et des services commerciaux, la section de l'agriculture et la section des activités diverses. Sans
+préjudice des dispositions particulières aux sections de l'encadrement et des activités diverses, l'activité principale de
+l'employeur détermine son appartenance à l'une des différentes sections, l'activité principale de l'entreprise l'appartenance
+des salariés auxdites sections.
 
-Lorsque le mandat des prud'hommes sortants vient à expiration avant la période fixée pour la réception de leurs successeurs,
-ils restent en fonctions jusqu'à cette réception.
+Les salariés mentionnés au troisième alinéa de l'article L. 513-1 relèvent de la section de l'encadrement.
+
+Les ouvriers et employés de l'industrie relèvent de la section de l'industrie.
+
+Les ouvriers et employés du commerce et des services commerciaux relèvent de la section du commerce et des services
+commerciaux.
+
+Les ouvriers et employés de l'agriculture relèvent de la section de l'agriculture.
+
+Les ouvriers et employés dont les employeurs n'exercent pas une activité industrielle, commerciale ou agricole, ainsi que les
+employés de maison, concierges et gardiens d'immeubles à usage d'habitation, relèvent de la section des activités diverses.
+
+Chaque section comprend au moins quatre conseillers prud'hommes employeurs et quatre conseillers prud'hommes salariés.
 
 **Liens relatifs à cet article**
 
@@ -35318,55 +35270,36 @@ ils restent en fonctions jusqu'à cette réception.
 	  - Code du travail - art. R515-2 (M)
 	  - Code du travail - art. R517-2 (VT)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°1958-12-22 ART. 6
+	  - Code du travail - art. L513-1 (M)
 
 
 ###### Article L512-3
 
-Le renouvellement triennal doit porter sur la moitié des membres salariés et sur la moitié des membres employeurs compris
-dans chaque catégorie du conseil. Dans chacune de ces catégories le sort désigne les prud'hommes qui sont remplacés la
-première fois.
+Plusieurs chambres peuvent être constituées au sein d'une même section de conseil de prud'hommes. Chaque chambre comprend au
+moins quatre conseillers employeurs et quatre conseillers salariés.
 
-Les prud'hommes sortant sont rééligibles.
+La constitution des chambres est décidée par le premier président de la cour d'appel, sur proposition de l'assemblée générale
+du conseil de prud'hommes.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: Code du travail - art. R512-1 (P)
+	  - Décret n°73-1047 1973-11-15
 
 	**Cité par**:
 
 	  - Code du travail - art. R512-1 (P)
 	  - Code du travail - art. R512-3 (VT)
 
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
 
 ###### Article L512-4
 
-Les prud'hommes réunis en assemblée générale de section, sous la présidence du doyen d'âge élisent parmi eux au scrutin
-secret,
-
-à la majorité absolue des membres présents un président et un vice-président ; si les membres présents ne sont pas en nombre
-égal pour chaque élément, le ou les plus jeunes membres de l'élément en surnombre ne prennent pas part au vote.
-
-Après deux tours de scrutin, sans qu'aucun des candidats ait obtenu la majorité absolue des membres présents le président ou
-le vice-président est au troisième tour élu à la majorité relative, à la condition de réunir la moitié des voix des membres
-présents, si, au troisième tour, il y a partage égal des voix, le conseiller le plus ancien en fonctions est élu. Si les deux
-candidats ont un temps de service égal, la préférence est accordée au plus âgé. Il en est de même dans le cas de création
-d'un nouveau conseil et d'une nouvelle section.
-
-Il n'est procédé à la nomination du président et du vice-président qu'autant que chaque élément comprend un nombre de membres
-installés égal aux trois quarts des membres qui lui sont attribués par le décret d'institution.
+Un décret fixe, pour chaque conseil de prud'hommes, le nombre des conseillers à élire par collège dans les différentes
+sections et détermine le nombre des conseillers employeurs des sections de l'industrie, du commerce et des services
+commerciaux, de l'agriculture et des activités diverses qui composent l'élément employeur de la section de l'encadrement.
 
 **Liens relatifs à cet article**
 
@@ -35378,27 +35311,21 @@ installés égal aux trois quarts des membres qui lui sont attribués par le dé
 
 	  - Code du travail - art. L1423-2 (VD)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R512-2 (M)
-
 	**Cité par**:
 
 	  - Code du travail - art. R512-2 (M)
 	  - Code du travail - art. R512-7 (M)
 	  - Code du travail - art. R515-2 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 8
-
 
 ###### Article L512-5
 
-Le président du conseil de prud'hommes est alternativement un salarié ou un employeur.
+Les conseillers prud'hommes sont élus pour six ans. Ils sont renouvelés par moitié tous les trois ans.
 
-Lorsque le président est choisi parmi les prud'hommes salariés, le vice-président ne peut l'être que parmi les prud'hommes
-employeurs et réciproquement.
+Lorsque le mandat des prud'hommes sortants vient à expiration avant la période fixée pour l'installation de leurs
+successeurs,
+
+ils restent en fonctions jusqu'à cette installation.
 
 **Liens relatifs à cet article**
 
@@ -35413,50 +35340,25 @@ employeurs et réciproquement.
 	  - Code du travail - art. L512-6 (M)
 	  - Code du travail - art. R512-7 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 9
-
-
-###### Article L512-6
-
-Le président et le vice-président sont élus pour une année [*durée du mandat*] ; ils sont rééligibles sous la condition
-d'alternance prévue à l'article L. 512-5.
-
-Ils restent en fonctions jusqu'à l'installation de leurs successeurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. L51-11-1 (Ab)
-	  - Code du travail - art. R512-2 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L512-5 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 14
-
 
 ###### Article L512-7
 
-Les secrétaires et secrétaires-adjoints de conseils de prud'hommes sont des fonctionnaires départementaux.
+Les prud'hommes réunis en assemblée générale, en assemblée de section, en assemblée de chambre, sous la présidence du doyen
+d'âge, élisent parmi eux au scrutin secret, par élément et à la majorité absolue des membres présents, un président et un
+vice-président.
 
-Le montant et les conditions d'attribution de leur traitement, leur mode de recrutement et leur régime disciplinaire sont
-fixés par décret.
+Les conseillers prud'hommes salariés élisent soit un président, soit un vice-président ayant la qualité de salarié. Les
+conseillers prud'hommes employeurs élisent soit un président, soit un vice-président ayant la qualité d'employeur.
 
-/A/A partir de la date d'application du nouveau régime de rémunération des secrétaires et des secrétaires-adjoints de
-conseils de prud'hommes, les émoluments alloués aux intéressés par les dispositions en vigueur sont perçus par eux pour le
-compte des communes qui supportent la charge de leur rémunération dans les conditions fixées par arrêtés des ministres
-chargés du travail, des finances et de l'intérieur. Toutefois, ils continuent à percevoir à leur profit les émoluments pour
-les rôles d'expédition de jugement qu'ils délivrent/A/LOI 1468 30-12-1977// .
+Après deux tours de scrutin, sans qu'aucun des candidats ait obtenu la majorité absolue des membres présents, le président ou
+le vice-président est, au troisième tour, élu à la majorité relative, à la condition de réunir la moitié des voix des membres
+présents ; si, au troisième tour, il y a partage égal des voix,
+
+le conseiller le plus ancien en fonctions est élu. Si les deux candidats ont un temps de service égal, la préférence est
+accordée au plus âgé. Il en est de même dans le cas de création d'un nouveau conseil de prud'hommes.
+
+Il n'est procédé à l'élection du président et du vice-président qu'autant que chaque élément comprend un nombre de membres
+installés égal aux trois quarts des membres qui lui sont attribués.
 
 **Liens relatifs à cet article**
 
@@ -35472,38 +35374,13 @@ les rôles d'expédition de jugement qu'ils délivrent/A/LOI 1468 30-12-1977// .
 	  - Code du travail - art. R515-2 (VT)
 	  - Code du travail - art. R515-4 (VT)
 
-	**Anciens textes**:
 
-	  - Décret n°1958-12-22 ART. 18
+###### Article L512-11
 
-
-#### ELECTION DES PRUD'HOMMES
-
-##### ELECTORAT .
-
-###### Article L513-1
-
-A condition :
-
-1. D'être inscrits sur les listes électorales établies conformément au Livre 1er, titre 1er, chapitres 1er et II du code
-électoral ;
-
-2. D'exercer depuis trois ans [*ancienneté*], apprentissage compris, une profession dénommée dans les décrets de création du
-conseil et d'exercer cette profession dans le ressort du conseil depuis un an ;
-
-- sont électeurs ouvriers [*définition*] : les ouvriers,
-
-les chefs d'équipe, les contremaîtres prenant part à l'exécution matérielle des travaux industriels et les chefs d'atelier de
-famille travaillant eux-mêmes ;
-
-- sont électeurs employés : les employés de commerce et d'industrie et les contremaîtres ne remplissant que des fonctions de
-surveillance ou de direction ;
-
-- sont électeurs employeurs : les employeurs occupant pour leur compte un ou plusieurs salariés, les associés en nom
-collectif, ceux qui gèrent ou dirigent pour le compte d'autrui une fabrique, une manufacture, un atelier, un magasin, une
-mine et généralement une entreprise industrielle ou commerciale quelconque ; les présidents des conseils d'administration,
-les membres des directions, la direction générale unique et les directeurs généraux, les ingénieurs et chefs de service tant
-dans les exploitations minières que dans les diverses industries.
+Lorsqu'un conseil de prud'hommes ne peut se constituer ou ne peut fonctionner pour quelque cause que ce soit, le premier
+président de la cour d'appel, saisi sur requête du procureur général, désigne un autre conseil de prud'hommes ou, à défaut,
+un tribunal d'instance pour connaître des affaires inscrites au rôle du conseil de prud'hommes ou dont ce conseil aurait dû
+être ultérieurement saisi.
 
 **Liens relatifs à cet article**
 
@@ -35513,71 +35390,137 @@ dans les exploitations minières que dans les diverses industries.
 
 	**Cité par**:
 
-	  - Décret n°79-394 du 17 mai 1979 - art. 10 (V)
-	  - Décret n°79-394 du 17 mai 1979 - art. 12 (V)
-	  - Décret n°79-394 du 17 mai 1979 - art. 16 (V)
-	  - Décret n°79-394 du 17 mai 1979 - art. 5 (V)
-	  - Décret n°2007-1130 du 23 juillet 2007 - art. 8 (V)
-	  - Code du travail - art. D513-4 (VT)
-	  - Code du travail - art. L122-14-1 (AbD)
-	  - Code du travail - art. L512-2 (AbD)
-	  - Code du travail - art. L513-3 (AbD)
-	  - Code du travail - art. L513-3-1 (P)
-	  - Code du travail - art. R513-11 (M)
-	  - Code du travail - art. R513-13 (VT)
-	  - Code du travail - art. R513-14 (VT)
-	  - Code du travail - art. R513-15 (Ab)
-	  - Code du travail - art. R513-21 (M)
-	  - Code du travail - art. R513-3 (VT)
-	  - Code du travail - art. R513-4 (VT)
-	  - Code du travail - art. R513-6 (VT)
-	  - Code du travail - art. R513-8 (VT)
-	  - Code du travail - art. R513-9 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code des douanes - art. 459 (M)
-
-	**Cite**:
-
-	  - Code électoral LIVRE I, TITRE I, CHAP. I, II
-
-	**Anciens textes**:
-
-	  - Décret n°1958-12-22 ART. 21
+	  - Code du travail - art. L512-12 (M)
 
 
-###### Article L513-2
+###### Article L512-12
 
-Sont électeurs agricoles ceux qui, déjà régulièrement inscrits sur les listes électorales des chambres d'agriculture dans les
-communes du ressort du conseil, exercent effectivement la profession d'agriculteur et remplissent les conditions fixées au
-premier alinéa de l'article L. 513-1.
+Lorsque le conseil de prud'hommes est de nouveau en mesure de fonctionner, le premier président de la cour d'appel saisi dans
+les mêmes conditions constate cet état de fait et fixe la date à compter de laquelle les affaires devront être à nouveau
+portées devant ce conseil.
 
-1. Electeurs ouvriers : les ouvriers agricoles ;
-
-2. Electeurs employés : les régisseurs et chefs de culture ;
-
-3. Electeurs employeurs : les exploitants agricoles qu'ils aient la qualité de propriétaire, de fermier ou de métayer.
-
-/P/LOI 0630 11-07-1975 : Par dérogation aux dispositions qui précèdent, peuvent participer aux élections des conseillers
-prud'hommes employeurs les étrangers, ressortissants d'un Etat membre de la Communauté économique européenne, qui exercent en
-France l'activité d'exploitant agricole conformément aux dispositions de droit interne prises pour l'application des articles
-52 à 58 du traité instituant la Communauté économique européenne.
-
-Pour être électeur aux conseils de prud'hommes ces ressortissants doivent :
-
-a) Remplir les conditions autres que celle de nationalité nécessaires à un Français pour être inscrit sur les listes
-électorales établies conformément au livre Ier, titre Ier,
-
-chapitres Ier et II du code électoral est sur les listes électorales des chambres d'agriculture ;
-
-b) Exercer leur profession dans les conditions prévues à l'article L. 513-1 et au présent article//.
+Le conseil de prud'hommes ou le tribunal d'instance, désigné par le premier président de la cour d'appel, demeure cependant
+saisi des affaires qui lui ont été soumises en application de l'article L. 512-11.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°63-992 1963-10-02 ART. 1
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-9 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L512-11 (M)
+
+
+#### ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.
+
+###### Article L512-13
+
+En cas d'interruption durable de leur fonctionnement ou de difficultés graves rendant ce fonctionnement impossible dans des
+conditions normales, les conseils de prud'hommes peuvent être dissous par décret motivé rendu sur la proposition du ministre
+de la justice.
+
+Dans ce cas, les élections générales doivent avoir lieu dans le délai de deux mois à partir de la date du décret de
+dissolution.
+
+Jusqu'à l'installation du nouveau conseil, les litiges sont portés devant le conseil de prud'hommes le plus proche du
+domicile du demandeur dans le même ressort de cour d'appel ou, à défaut, devant le tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-11 (VD)
+
+
+#### ELECTION DES PRUD'HOMMES
+
+##### ELECTORAT .
+
+###### Article L513-3-1
+
+Par dérogation aux dispositions des articles L. 513-1,
+
+L. 513-2 et L. 513-3 ci-dessus, les ressortissants étrangers peuvent participer aux élections des conseillers prud'hommes
+s'ils remplissent les conditions autres que celle de nationalité, prévues par les articles précités [*inscrits sur listes
+électorales, exercer une profession depuis trois ans (ancienneté)*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L513-1 (M)
+	  - Code du travail - art. L513-2 (M)
+	  - Code du travail - art. L513-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L513-5 (M)
+	  - Code du travail - art. R513-33 (VT)
+	  - Code du travail - art. R513-37 (VT)
+	  - Code du travail - art. R513-50 (VT)
+
+
+##### SCRUTIN, INSTALLATION DES PRUDHOMMES
+
+##### ELECTIONS COMPLEMENTAIRES.
+
+###### Article L513-10
+
+Les règles établies par les articles L. 10, L. 61, L. 87, L. 113, L. 114 et L. 115 du code électoral s'appliquent aux
+opérations électorales pour les conseils de prudhommes.
+
+Les dispositions de l'article L. 86 dudit code sont en outre applicables à toute personne qui aura réclamé et obtenu une
+inscription sur deux ou plusieurs listes électorales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code électoral - art. L10 (V)
+	  - Code électoral - art. L113 (M)
+	  - Code électoral - art. L114 (V)
+	  - Code électoral - art. L115 (Ab)
+	  - Code électoral - art. L61 (V)
+	  - Code électoral - art. L86 (M)
+	  - Code électoral - art. L87 (V)
+
+
+#### ELECTION DES CONSEILLERS PRUD'HOMMES
+
+##### ELIGIBILITE.
+
+###### Article L513-2
+
+Sont éligibles, à condition d'avoir la nationalité française et d'être âgées de vingt et un ans au moins :
+
+1. Les personnes qui sont inscrites sur les listes électorales prud'homales ou remplissent les conditions requises pour y
+être inscrites ;
+
+2. Les personnes ayant été inscrites sur les listes électorales prud'homales pendant trois ans au moins, pourvu qu'elles
+aient exercé l'activité au titre de laquelle elles ont été inscrites depuis moins de six ans et qu'elles n'aient encouru
+aucune des condamnations prévues aux articles L. 5 et L. 6 du code électoral.
+
+Nul ne peut être membre de plus d'un conseil de prud'hommes.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -35593,27 +35536,35 @@ b) Exercer leur profession dans les conditions prévues à l'article L. 513-1 et
 
 	**Cite**:
 
-	  - Code du travail L513-1 PAR. 1 ET 2
-	  - Code électoral LIVRE I, TITRE I, CHAP. I, II
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
 
+
+##### ETABLISSEMENT DES LISTES ELECTORALES.
 
 ###### Article L513-3
 
-Sont électeurs à la section des professions diverses s'ils remplissent les conditions fixées au premier alinéa de l'article
-L. 513-1 :
+Les électeurs sont inscrits sur la liste électorale de la commune dans laquelle ils exercent leur activité professionnelle
+principale.
 
-1. Les salariés exerçant leur activité dans les entreprises autres qu'industrielles, commerciales ou agricoles ;
+Les salariés exerçant leur activité dans plusieurs communes, travaillant en dehors de tout établissement ou dépendant de
+plusieurs employeurs, ainsi que les salariés involontairement privés d'emploi, sont inscrits sur la liste de la mairie du
+lieu de leur domicile.
 
-2. Les employés exerçant leur activité dans des entreprises autres qu'industrielles, commerciales ou agricoles ;
+L'employeur doit communiquer [*obligation*] aux maires compétents les noms des salariés qu'il emploie, en faisant mention de
+la section dont relève l'entreprise ou l'établissement. Le document établi par l'employeur mentionne, le cas échéant, la
+qualité de cadre du salarié et indique quels cadres doivent être considérés comme des électeurs employeurs au sens du
+cinquième alinéa de l'article L. 513-1.
 
-3. Les employeurs occupant pour leur compte un ou plusieurs ouvriers ou employés définis aux 1. et 2. ci-dessus ainsi que les
-personnes qui gèrent ou dirigent pour le compte d'autrui une entreprise autre qu'industrielle, commerciale ou agricole.
+Ce document est tenu pendant quinze jours à la disposition du personnel. Il est ensuite transmis aux maires compétents,
+
+avec les observations écrites des intéressés, s'il y en a.
+
+La liste électorale est établie par le maire assisté d'une commission dont la composition est fixée par décret. Les
+dispositions des articles L. 25 à L. 27 du code électoral sont applicables en cas de contestation portant sur la liste
+électorale telle qu'elle a été établie par le maire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-992 1963-10-02 ART. 1 AL. 5
 
 	**Codifié par**:
 
@@ -35647,56 +35598,29 @@ personnes qui gèrent ou dirigent pour le compte d'autrui une entreprise autre q
 
 	**Cite**:
 
-	  - Code du travail L513-1 PAR. 1 ET 2
-
-
-###### Article L513-3-1
-
-Par dérogation aux dispositions des articles L. 513-1,
-
-L. 513-2 et L. 513-3 ci-dessus, les ressortissants étrangers peuvent participer aux élections des conseillers prud'hommes
-s'ils remplissent les conditions autres que celle de nationalité, prévues par les articles précités [*inscrits sur listes
-électorales, exercer une profession depuis trois ans (ancienneté)*] .
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
+	  - Code électoral - art. L25 (V)
+	  - Code électoral - art. L27 (V)
+	  - Code électoral L25, L26, L27
 	  - Code du travail - art. L513-1 (M)
-	  - Code du travail - art. L513-2 (M)
-	  - Code du travail - art. L513-3 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. L513-5 (M)
-	  - Code du travail - art. R513-33 (VT)
-	  - Code du travail - art. R513-37 (VT)
-	  - Code du travail - art. R513-50 (VT)
 
 
-##### ELIGIBILITE .
+##### SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.
 
 ###### Article L513-4
 
-Sont éligibles, à condition d'être âgés de vingt-cinq ans [*minimum*] et de savoir lire et écrire :
+Pour l'élection des conseillers prud'hommes, les suffrages peuvent être recueillis par correspondance dans des conditions
+fixées par décret.
 
-1. Les personnes inscrites sur les listes électorales prudhommales ou remplissant les conditions requises pour y être
-inscrites ;
+Quiconque aura ordonné, organisé ou participé à la collecte des enveloppes contenant des bulletins de vote sera puni des
+peines prévues à l'article L. 116 du code électoral.
 
-2. Les personnes ayant rempli ces conditions pendant trois ans [*durée*] au moins dans le ressort, pourvu qu'elles soient de
-nationalité française et qu'elles n'aient encouru aucune des condamnations prévues aux articles L. 5 et L. 6 du code
-électoral.
+Le décret fixe également les conditions de déroulement du scrutin qui a lieu pendant le temps de travail soit à la mairie
+soit dans un local proche du lieu de travail déterminé par arrêté préfectoral.
+
+L'employeur est tenu d'autoriser les salariés à s'absenter afin de leur permettre de participer au scrutin. Cette absence ne
+peut donner lieu à aucune diminution de rémunération.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-992 1963-10-02 ART. 1 AL. 6
-	  - Décret n°1958-12-22 ART. 22
 
 	**Codifié par**:
 
@@ -35714,41 +35638,19 @@ nationalité française et qu'elles n'aient encouru aucune des condamnations pr�
 
 	**Cite**:
 
-	  - Code électoral L005 ET L006
+	  - Code électoral - art. L116 (M)
 
-
-###### Article L513-5
-
-Les ressortissants étrangers [*remplissant les conditions d'électorat nécessaires*] mentionnés à l'article L. 513-3-1 ne sont
-pas éligibles [*non*] aux conseils de prud'hommes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1441-31 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L513-3-1 (P)
-
-
-##### SCRUTIN, INSTALLATION DES PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES .
 
 ###### Article L513-6
 
-Les prud'hommes salariés sont élus par les électeurs salariés, les prud'hommes employeurs, par les électeurs employeurs,
-réunis dans des assemblées distinctes [*juridiction paritaire*] .
+L'élection des conseillers prud'hommes a lieu à la représentation proportionnelle suivant la règle de la plus forte moyenne,
+sans panachage ni vote préférentiel. Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre des
+présentations.
+
+Les candidats venant sur une liste immédiatement après le dernier candidat élu sont appelés à remplacer les conseillers élus
+sur cette liste dont le siège deviendrait vacant pour quelque cause que ce soit.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 27
 
 	**Codifié par**:
 
@@ -35762,20 +35664,13 @@ réunis dans des assemblées distinctes [*juridiction paritaire*] .
 	  - Code du travail - art. R513-36 (VT)
 	  - Code du travail - art. R513-8 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R513-8 (Ab)
-
 
 ###### Article L513-7
 
-Les élections ont lieu au scrutin de liste majoritaire et par catégorie [*modalités*] .
+Tout membre élu à la suite d'une vacance survenant en cours de mandat ne demeure en fonctions que pendant la durée du mandat
+qui avait été confié à son prédécesseur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 30
 
 	**Codifié par**:
 
@@ -35784,14 +35679,18 @@ Les élections ont lieu au scrutin de liste majoritaire et par catégorie [*moda
 
 ###### Article L513-8
 
-Tout membre élu à la suite d'une vacance survenant en cours de mandat ne demeure en fonction que [*limite*] pendant la durée
-du mandat qui avait été confié à son prédécesseur.
+S'il y a lieu de procéder à des élections complémentaires soit parce les premières élections n'ont pas permis de constituer
+ou de compléter le conseil, soit parce qu'un ou plusieurs conseillers prud'hommes élus ont refusé de se faire installer,
+
+ont démissionné ou ont été déclarés démissionnaires et si l'une de ces éventualités se reproduit, il n'est pourvu aux
+vacances qui en résultent que lors du prochain renouvellement triennal.
+
+Le conseil fonctionne quelle que soit la qualité des membres régulièrement élus ou en exercice, pourvu que leur nombre soit
+au moins égal à la moitié du nombre total des membres dont il doit être composé.
+
+La même disposition est applicable au cas où une ou plusieurs élections ont été annulées pour cause d'inéligibilité des élus.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 34
 
 	**Codifié par**:
 
@@ -35807,42 +35706,9 @@ du mandat qui avait été confié à son prédécesseur.
 
 ###### Article L513-9
 
-S'il y a lieu de procéder à des élections complémentaires,
+Les règles établies par les articles L. 10, L. 61, L. 67,
 
-soit parce que les premières élections n'ont pas permis de constituer ou de compléter le conseil, soit parce qu'un ou
-plusieurs conseillers prud'hommes élus ont refusé de se faire installer, ont démissionné ou ont été déclarés démissionnaires
-et si l'une de ces éventualités se reproduit, il n'est pourvu aux vacances qui en résultent que lors du prochain
-renouvellement triennal. Le conseil ou la section fonctionne qu'elle que soit la qualité des membres régulièrement élus ou en
-exercice, pourvu que leur nombre soit au moins égal à la moitié du nombre total des membres dont il doit être composé.
-
-La même disposition est applicable au cas où une ou plusieurs élections ont été annulées pour cause d'inéligibilité des élus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 35
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-3 (M)
-	  - Code du travail - art. R512-4 (M)
-	  - Code du travail - art. R515-1 (M)
-	  - Code du travail - art. R515-3 (M)
-
-
-##### SCRUTIN, INSTALLATION DES PRUDHOMMES
-
-##### ELECTIONS COMPLEMENTAIRES.
-
-###### Article L513-10
-
-Les règles établies par les articles L. 10, L. 61, L. 87, L. 113, L. 114 et L. 115 du code électoral s'appliquent aux
-opérations électorales pour les conseils de prudhommes.
+L. 87, L. 113 à L. 116 du code électoral s'appliquent aux opérations électorales pour les conseils de prud'hommes.
 
 Les dispositions de l'article L. 86 dudit code sont en outre applicables à toute personne qui aura réclamé et obtenu une
 inscription sur deux ou plusieurs listes électorales.
@@ -35856,417 +35722,21 @@ inscription sur deux ou plusieurs listes électorales.
 	**Cite**:
 
 	  - Code électoral - art. L10 (V)
-	  - Code électoral - art. L113 (M)
-	  - Code électoral - art. L114 (V)
-	  - Code électoral - art. L115 (Ab)
 	  - Code électoral - art. L61 (V)
+	  - Code électoral - art. L67 (V)
 	  - Code électoral - art. L86 (M)
 	  - Code électoral - art. L87 (V)
+	  - Code électoral L10, L61, L67, L87, L86, L113 à L116
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-3 (M)
+	  - Code du travail - art. R512-4 (M)
+	  - Code du travail - art. R515-1 (M)
+	  - Code du travail - art. R515-3 (M)
 
 
 #### DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
-
-###### Article L514-1
-
-Tout conseiller prud'homme qui, sans motif légitime, et après mise en demeure refuse de remplir le service auquel il est
-appelé peut être déclaré démissionnaire [*sanction*] .
-
-Le président constate [*modalités*] le refus de service par un procès-verbal contenant l'avis motivé du conseil ou de la
-section, le conseiller prud'homme préalablement entendu ou dûment appelé.
-
-Si le conseil ou la section n'émet pas son avis dans le délai d'un mois à dater de la convention, le président fait mention
-de cette abstention dans le procès-verbal qu'il transmet au procureur de la République, lequel en saisit le tribunal de
-grande instance [*compétence*] .
-
-Au vu du procès-verbal la démission est prononcée par le tribunal de grande instance en chambre du conseil, que le conseil de
-prud'hommes ait délibéré ou non. En cas de réclamation, il est statué en chambre du conseil par la cour d'appel.
-
-La réclamation doit être faite dans la quinzaine du jugement. Devant le tribunal comme devant la cour, l'intéressé doit être
-appelé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 39 AL. 1, 40 AL. 1 ET 2, 41
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°80-812 du 14 octobre 1980 - art. 5 (Ab)
-	  - Code du travail - art. D51-10-1 (VT)
-	  - Code du travail - art. D514-2 (VT)
-	  - Code du travail - art. L51-10-2 (AbD)
-	  - Code du travail - art. L511-4 (AbD)
-	  - Code du travail - art. L513-3 (AbD)
-	  - Code du travail - art. L513-4 (AbD)
-	  - Code du travail - art. L514-2 (AbD)
-	  - Code du travail - art. L531-1 (AbD)
-	  - Code du travail - art. R512-6 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L531-1 (AbD)
-
-
-###### Article L514-2
-
-Le conseiller prud'homme élu qui refuse de se faire installer donne sa démission ou est déclaré démissionnaire en vertu de
-l'article L. 514-1 est inéligible pendant un délai de trois ans à partir de son refus, de sa démission ou de la décision du
-tribunal qui le déclare démissionnaire [*point de départ*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 44
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Loi n°96-126 du 21 février 1996 - art. 2 (V)
-	  - Code du travail - art. L514-7 (M)
-	  - Code du travail - art. L531-1 (AbD)
-
-	**Cite**:
-
-	  - Code du travail - art. L514-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L531-1 (AbD)
-
-
-###### Article L514-3
-
-Tout conseiller prud'homme qui manque gravement à ses devoirs dans l'exercice de ses fonctions est appelé devant le conseil
-ou la section [*compétence*] pour s'expliquer sur les faits qui lui sont reprochés.
-
-L'initiative de cet appel appartient au président du conseil des prud'hommes et au procureur de la République.
-
-Dans le délai d'un mois à dater de la convocation, le procès-verbal de la séance de comparution est adressé par le président
-du conseil de prud'hommes au procureur de la République qui le transmet avec son avis au ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 42
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. L531-1 (AbD)
-
-	**Cité par**:
-
-	  - Loi n°2008-67 du 21 janvier 2008 - art. 5 (V)
-	  - Code du travail - art. L514-1 (M)
-	  - Code du travail - art. L514-2 (AbD)
-	  - Code du travail - art. L514-6 (M)
-	  - Code du travail - art. L531-1 (AbD)
-	  - Code du travail - art. R236-22 (VT)
-
-
-###### Article L514-4
-
-Les peines applicables aux conseillers prud'hommes sont :
-
-- la censure ;
-
-- la suspension pour un temps qui ne peut excéder six mois ;
-
-- la déchéance.
-
-La censure et la suspension [*durée*] sont prononcées par arrêté du ministre de la justice [*conditions de forme*]. La
-déchéance est prononcée par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 42 AL. 4 FIN, 43
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1441-20 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L514-6 (M)
-	  - Code du travail - art. L514-7 (AbD)
-
-
-###### Article L514-5
-
-Le conseiller prud'homme déclaré déchu ne peut plus être réélu aux mêmes fonctions [*sanction*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 45
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1441-21 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L514-7 (AbD)
-
-
-###### Article L514-6
-
-L'acceptation par un conseiller prud'homme d'un mandat impératif, à quelque époque ou sous quelque forme que ce soit,
-constitue un manquement grave à ses devoirs.
-
-Si le fait est reconnu par les juges chargés de statuer sur la validité des opérations électorales, il entraîne de plein
-droit l'annulation de l'élection de celui qui s'en est rendu coupable ainsi que son inéligibilité [*sanction*] .
-
-Si la preuve n'est rapportée qu'ultérieurement, le fait entraîne sa déchéance dans les conditions prévues aux articles L.
-514-3 et L. 514-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 46
-
-	**Créé par**:
-
-	  - Loi n°73-4 1973-01-02 JORF 3 janvier 1973) M(LOI 79-44 1979-01-18 JORF 19 janvier
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1442-11 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L514-3 (M)
-	  - Code du travail - art. L514-4 (M)
-
-
-###### Article L514-7
-
-Les conseillers prud'hommes qui refusent de se faire installer ou donnent leur démission, ou qui ont été soit déclarés
-démissionnaires, soit déchus de leurs fonctions, peuvent d'office ou sur leur demande être relevés des incapacités prévues
-par les articles L. 514-2 et L. 514-5.
-
-Les demandes en relèvement sont adressées au ministre de la justice. Elles ne sont recevables [*condition*] que s'il s'est
-écoulé un délai d'un an depuis le refus d'installation [*point de départ*], la démission ou la déclaration de démission,
-
-ou de six ans à partir de la déchéance.
-
-Toute demande rejetée après un examen au fond ne peut être renouvelée qu'après un nouveau délai d'un an dans le premier cas
-et de six ans dans le second.
-
-Le relèvement est prononcée par décret rendu après avis du conseil d'administration du ministère de la justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 47, 48, 49
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L514-2 (M)
-	  - Code du travail - art. L514-5 (M)
-
-
-###### Article L514-8
-
-Les fonctions de prud'hommes sont gratuites vis-à-vis des parties : ils ne peuvent réclamer de leur part aucun remboursement
-de frais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1442-8 (VD)
-
-
-###### Article L514-9
-
-En cas de plainte en prévarication contre les conseillers prud'hommes il est procédé contre eux [*sanction*] suivant la forme
-établie à l'égard des juges par l'article 681 du code de procédure pénale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 51
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 681 (M)
-
-
-###### Article L514-10
-
-Les articles 4 [*obligation de juger sous peine de deni de justice*] et 5 [*interdiction de se prononcer par voie
-règlementaire ou de dispositions générales*] du code civil, 126,
-
-127 et 185 du code pénal, sont applicables aux conseils de prud'hommes et à leurs membres pris individuellement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 52
-	  - Décret n°1959-07-09 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cite**:
-
-	  - Code pénal 126, 127, 185
-	  - Code civil - art. 4 (V)
-	  - Code civil - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1442-9 (VD)
-
-
-###### Article L514-11
-
-Les employeurs sont tenus [*obligation*] de laisser aux salariés de leur entreprise, membres d'un conseil de prud'hommes,
-
-le temps nécessaire pour participer aux séances des bureaux de conciliation, des bureaux de jugement, aux enquêtes, aux
-réunions de commissions et d'assemblées générales du conseil.
-
-Le temps passé par les salariés aux différentes séances du conseil et des commissions en dépendant ne leur est pas payé comme
-temps de travail. Ce temps peut être remplacé.
-
-La suspension du travail prévue au présent article n'est pas une cause de rupture par l'employeur du contrat de travail,
-
-et ce à peine de dommages-intérêts au profit du salarié [*sanction*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 39 AL. 2, 3, 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-6 (VT)
-
-
-###### Article L514-12
-
-Lorsqu'un conseil de prud'hommes ou une de ses sections ne peut se constituer ou ne peut fonctionner pour quelque cause que
-ce soit, la cour d'appel, saisie sur requête du procureur général, désigne le tribunal d'instance compétent pour connaître
-des affaires inscrites au rôle du conseil de prud'hommes et de la section ou dont ces derniers auraient dû être
-ultérieurement saisis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 52 BIS AL. 1
-	  - Décret n°1963-10-02 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. L514-13 (M)
-	  - Code du travail - art. L514-15 (AbD)
-	  - Code du travail - art. L514-6 (AbD)
-	  - Code du travail - art. R514-6 (Ab)
-
-
-###### Article L514-13
-
-Lorsque le conseil de prud'hommes ou la section du conseil de prud'hommes est de nouveau en mesure de fonctionner, la cour
-d'appel [*compétence*] saisie dans les mêmes conditions constate cet état de fait et fixe la date à compter de laquelle les
-affaires devront être à nouveau portées devant le conseil de prud'hommes ou la section.
-
-Le tribunal d'instance demeure cependant saisi des affaires qui lui ont été soumises en application de l'article L. 514-12.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 52 BIS AL. 3, 4
-
-	**Créé par**:
-
-	  - Loi n°73-4 1973-01-02 JORF 3 janvier 1973) M(LOI 79-44 1979-01-18 JORF 19 janvier
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1442-14 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L514-12 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. L514-6 (AbD)
-	  - Code du travail - art. R512-6 (VT)
-
 
 ###### Article L514-14
 
@@ -36306,312 +35776,166 @@ les secrétaires et secrétaires adjoints sont maintenus dans leurs fonctions.
 	  - TXT_ASSOCIE: Code du travail R514-1 A R514-6
 
 
-#### BUREAU DE CONCILIATION, BUREAU DE JUGEMENT .
+#### STATUT DES CONSEILLERS PRUD'HOMMES
+
+###### Article L514-1
+
+Les employeurs sont tenus de laisser aux salariés de leur entreprise, membres d'un conseil de prud'hommes, le temps
+nécessaire pour participer aux séances des bureaux de conciliation, des bureaux de jugement, aux audiences de référé, à
+l'exécution et au contrôle des mesures d'instruction, aux missions confiées au conseiller rapporteur, aux commissions et aux
+assemblées générales du conseil.
+
+Cette participation, de même que l'exercice des fonctions de conseiller prud'homme, ne sauraient être une cause de rupture
+par l'employeur du contrat de travail.
+
+Les employeurs sont en outre tenus d'accorder aux salariés de leur entreprise, membres d'un conseil de prud'hommes, sur leur
+demande et pour des besoins de la formation prévue à l'article L. 514-3, des autorisations d'absence dans la limite de six
+semaines par mandat pouvant être fractionnées. Les dispositions de l'article L. 451-2 sont applicables à ces autorisations.
+Ces absences sont rémunérées par l'employeur ;
+
+elles sont admises au titre de la participation des employeurs au financement de la formation professionnelle dans les
+conditions prévues à l'article L. 950-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°80-812 du 14 octobre 1980 - art. 5 (Ab)
+	  - Code du travail - art. D51-10-1 (VT)
+	  - Code du travail - art. D514-2 (VT)
+	  - Code du travail - art. L51-10-2 (AbD)
+	  - Code du travail - art. L511-4 (AbD)
+	  - Code du travail - art. L513-3 (AbD)
+	  - Code du travail - art. L513-4 (AbD)
+	  - Code du travail - art. L514-2 (AbD)
+	  - Code du travail - art. L531-1 (AbD)
+	  - Code du travail - art. R512-6 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L531-1 (AbD)
+
+	**Cite**:
+
+	  - Code du travail - art. L451-2 (M)
+	  - Code du travail - art. L514-3 (M)
+	  - Code du travail - art. L950-1 (M)
+
+
+###### Article L514-2
+
+Le licenciement d'un conseiller prud'homme salarié en fonction ou ayant cessé l'exercice de ses fonctions depuis moins de six
+mois ne peut intervenir que sur décision du bureau de jugement présidé par le président du tribunal de grande instance
+[*condition*] //LOI 0004 05-01-1980 : dans le ressort duquel est situé le siège du conseil de prud'hommes//.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Loi n°96-126 du 21 février 1996 - art. 2 (V)
+	  - Code du travail - art. L514-7 (M)
+	  - Code du travail - art. L531-1 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L531-1 (AbD)
+
+
+###### Article L514-3
+
+L'Etat organise, dans des conditions fixées par décret, la formation des conseillers prud'hommes et en assure le financement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 24 janvier 1991 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Code du travail - art. L531-1 (AbD)
+
+	**Cité par**:
+
+	  - Loi n°2008-67 du 21 janvier 2008 - art. 5 (V)
+	  - Code du travail - art. L514-1 (M)
+	  - Code du travail - art. L514-2 (AbD)
+	  - Code du travail - art. L514-6 (M)
+	  - Code du travail - art. L531-1 (AbD)
+	  - Code du travail - art. R236-22 (VT)
+
+
+###### Article L514-7
+
+Les conseillers prud'hommes qui refusent de se faire installer ou qui ont été soit déclarés démissionnaires, soit déchus de
+leurs fonctions peuvent d'office ou sur leur demande être relevés des incapacités prévues par les articles L. 514-4 et L.
+514-5.
+
+Les demandes en relèvement sont adressées au ministre de la justice. Elles ne sont recevables que s'il s'est écoulé un délai
+d'un an depuis le refus d'installation ou la démission, ou de six ans à partir de la déchéance.
+
+Toute demande rejetée après un examen au fond ne peut être renouvelée qu'après un nouveau délai d'un an dans le premier cas
+et de six ans dans le second.
+
+Le relèvement est prononcé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L514-4 (M)
+	  - Code du travail - art. L514-5 (M)
+
+
+#### BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE
 
 ###### Article L515-1
 
-Chaque section des conseils de prud'hommes comprend [*composition*] :
+Chaque section de conseil de prud'hommes ou, lorsqu'elle est divisée en chambres, chaque chambre comprend au moins :
 
 1. Un bureau de conciliation ;
 
 2. Un bureau de jugement.
 
+En outre, chaque conseil de prud'hommes comprend une formation de référé.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 54
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
-
-###### Article L515-2
-
-Le bureau de jugement se compose d'un nombre égal de prud'hommes employeurs et de prud'hommes salariés [*composition*],
-
-y compris le président ou le vice-président siégeant alternativement. Ce nombre est au moins de deux employeurs et de deux
-salariés [*minimum*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 57
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-
-#### PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES .
-
-###### Article L516-1
-
-Les mineurs qui ne peuvent être assistés de leur père,
-
-mère ou tuteur peuvent être autorisés par le conseil à se concilier, demander ou défendre devant lui.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 71
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1453-1 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R516-1 A R516-46
-
-
-#### COMPETENCE DES CONSEILS DE PRUD'HOMMES ET VOIES DE RECOURS CONTRE LEURS DECISIONS .
-
-###### Article L517-1
-
-Les conseils de prud'hommes sont seuls compétents, quel que soit le chiffre de la demande, pour connaître en premier ressort
-des différends visés à l'article L. 511-1 [*contrat de travail ou d'apprentissage*] . Toutefois, les différends entre les
-cadres et leurs employeurs peuvent être portés par les cadres devant les tribunaux qui, en l'absence des conseils de
-prud'hommes, auraient qualité pour en connaître.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 81 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L411-5 (M)
-	  - Code du travail - art. L51-11-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L511-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R517-1 A R517-11
-
-
-#### RECUSATION .
-
-###### Article L518-1
-
-Les conseillers prud'hommes peuvent être récusés [*condition*] :
-
-1. Quand ils ont un intérêt personnel à la contestation ;
-
-2. Quand ils sont parents ou alliés d'une des parties jusqu'au degré de cousin germain inclusivement ;
-
-3. Si, dans l'année qui a précédé la récusation, il y a eu action judiciaire, criminelle ou civile entre eux et une des
-parties, ou son conjoint ou ses parents ou alliés en ligne directe ;
-
-4. S'ils ont donné un avis écrit dans l'affaire ;
-
-5. S'ils sont employeurs, ouvriers ou employés de l'une des parties en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 92
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L732-1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L732-1 (Ab)
-	  - Code du travail - art. L1457-1 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R158-1 ET R518-2
-
-
-#### EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX SECRETAIRES, HUISSIERS ET TEMOINS .
-
-###### Article L519-1
-
-Tout secrétaire d'un conseil de prud'hommes convaincu d'avoir exigé une taxe plus forte que celle qui lui est allouée est
-puni comme concussionnaire [*sanction*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 96
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R519-1 A R519-11
-
-
-#### DEPENSES DES CONSEILS DU PRUD'HOMMES .
-
-###### Article L51-10-1
-
-Le local nécessaire aux conseils de prud'hommes est fourni par la commune où ils sont établis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 98
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1423-14 (VD)
-
-
-###### Article L51-10-2
-
-Les dépenses obligatoires pour les communes comprises dans la circonscription d'un conseil de prud'hommes sont les
-suivantes :
-
-1. Frais de premier établissement ;
-
-2. Achat des insignes ;
-
-3. Chauffage ;
-
-4. Eclairage ;
-
-5. Frais d'élection ;
-
-6. Rétribution du ou des secrétaires et du ou des secrétaires adjoints, attachés au conseil, y compris les sommes nécessaires
-à la constitution de leur pension de retraite ;
-
-7. Frais de matériel, fournitures de bureau et dépenses diverses de secrétariat, à l'exception des frais d'établissement des
-rôles d'expédition de jugements ;
-
-8. Vacations aux conseillers prud'hommes dont le montant minimum, fixé par décret, peut être relevé par arrêté préfectoral
-après avis des conseils municipaux intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 99 AL. 1 ET 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 7 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*831-1 (Ab)
-	  - CODE DES COMMUNES. - art. L221-2 (M)
-	  - Code du travail - art. L51-11-1 (Ab)
-	  - Code du travail - art. R512-35 (VT)
-
-
-###### Article L51-10-3
-
-Sont à la charge de l'Etat les dépenses relatives :
-
-1. Aux frais de déplacement des conseillers prud'hommes appelés à aller prêter serment ;
-
-2. Aux frais de déplacement du juge du tribunal d'instance agissant en vertu de l'article L. 515-3 lorsque le siège du
-conseil de prud'hommes est situé à plus de cinq kilomètres du siège du tribunal d'instance [*distance*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 99 AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Cité par**:
-
-	  - Loi n°79-44 du 18 janvier 1979 - art. 7 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L515-3 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail D51-10-1 ET D51-10-2
-
-
-#### DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
-
-###### Article L51-11-1
-
-Sans préjudice des dispositions prévues par les décrets du 24 avril 1920 et du 16 juin 1922 concernant les conseils de
-prud'hommes industriels et les conseils de prud'hommes commerciaux d'Alsace et de Lorraine, les articles L. 513-1 à L. 513-5
-et L. 517-1 sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
-	  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L517-1 (P)
-	  - Code du travail L513-1 A L513-5, L517-1
-	  - Décret n°1920-04-24
-	  - Décret n°1922-06-16
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R51-11-1 (Ab)
-
-
-### CONFLITS INDIVIDUELS - CONSEILS DE PRUD OMMES
-
-#### BUREAU DE CONCILIATION, BUREAU DE JUGEMENT .
 
 ###### Article L515-3
 
-En cas de partage [*des voix*] l'affaire est renvoyée dans les plus brefs délais devant le même bureau de jugement, présidé
-par le juge du tribunal d'instance dont le ressort comprend la commune où siège le conseil de prud'hommes. Le bureau délibère
-de nouveau avec ce magistrat et peut ordonner toutes mesures d'instruction qui paraîtraient nécessaires.
+En cas de partage, l'affaire est renvoyée devant le même bureau de conciliation, le même bureau de jugement ou la même
+formation de référé, présidé par un juge du tribunal d'instance dans le ressort duquel est situé le siège du conseil de
+prud'hommes. L'affaire doit être reprise dans le délai d'un mois.
+
+Le premier président de la cour d'appel désigne chaque année les juges chargés de ces fonctions lorsque le ressort du conseil
+comprend plusieurs tribunaux d'instance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 60
 
 	**Codifié par**:
 
@@ -36628,9 +35952,100 @@ de nouveau avec ce magistrat et peut ordonner toutes mesures d'instruction qui p
 
 	  - Code du travail - art. L1454-4 (VD)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code du travail R515-1 A R515-4
+#### DEPENSES DES CONSEILS DE PRUD'HOMMES
+
+###### Article L51-10-2
+
+Les dépenses de personnel et de fonctionnement des conseils de prud'hommes sont à la charge de l'Etat.
+
+Elles comprennent notamment :
+
+1. Les frais d'entretien des locaux, de chauffage, d'éclairage, de sanitaire et de gardiennage ;
+
+2. Les frais d'élection et, dans des conditions fixées par décret, certains frais de campagne électorale ;
+
+3. Les vacations versées aux conseillers prud'hommes et dont le taux est fixé par décret ; ce taux devra tenir compte, pour
+le temps passé par les salariés aux différentes séances du conseil et des commissions en dépendant, de la perte de
+rémunération subie par les intéressés ;
+
+4. L'achat des médailles ;
+
+5. Les frais de matériel, de documentation, de fournitures de bureau, d'installation, d'entretien et d'abonnement
+téléphonique ;
+
+6. Les frais de déplacement des conseillers prud'hommes appelés à prêter serment ;
+
+7. Les frais de déplacement des conseillers prud'hommes lorsque le siège du conseil est situé à plus de cinq kilomètres de
+leur domicile ;
+
+8. Les frais de déplacement du juge du tribunal d'instance agissant en vertu de l'article L. 515-3 lorsque le siège du
+conseil de prud'hommes est situé à plus de cinq kilomètres du siège du tribunal ;
+
+9. Les frais de déplacement des conseillers rapporteurs pour l'exercice de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 7 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*831-1 (Ab)
+	  - CODE DES COMMUNES. - art. L221-2 (M)
+	  - Code du travail - art. L51-11-1 (Ab)
+	  - Code du travail - art. R512-35 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L515-3 (M)
+
+
+#### DISPOSITIONS APPLICABLES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE
+
+###### Article L51-11-1
+
+Sans préjudice des dispositions particulières aux départements du Bas-rhin, du Haut-rhin et de la Moselle concernant les
+conseils de prud'hommes industriels et les conseils de prud'hommes commerciaux, les articles L. 512-5 et L. 512-6, L. 513-2 à
+L. 513-9, L. 514-1 à L. 514-10 sont applicables dans les départements du Haut-rhin, du Bas-rhin et de la Moselle.
+
+Les assesseurs des conseils de prud'hommes existant dans ces départements ont la qualité des conseillers prud'hommes au sens
+du présent titre.
+
+Les dépenses de fonctionnement mentionnées à l'article L. 51-10-2 et relatives aux conseils existant à la date du 1er janvier
+1978 dans les départements du Haut-rhin, du Bas-rhin et de la Moselle seront prises en charge par l'Etat à une date fixée par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-394 du 17 mai 1979 - art. 27 (V)
+	  - Décret n°79-800 du 17 septembre 1979 - art. 81 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L914-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L51-10-2 (M)
+	  - Code du travail - art. L512-5 (M)
+	  - Code du travail - art. L512-6 (M)
+	  - Code du travail L512-5, L512-6, L513-2 A L513-9, L514-1 A L514-10
+
+
+#### DISPOSITIONS FINALES
+
+###### Article L51-12-1
+
+Des décrets en Conseil d'Etat déterminent les modalités d'application des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°82-372 du 6 mai 1982 - art. 31 () JORF 7 MAI 1982
 
 
 ### CONFLITS COLLECTIFS
@@ -37647,6 +37062,767 @@ au parquet par le président de la commission de conciliation. L'infraction sera
 
 ## Livre V : Conflits du travail
 
+### Titre Ier : Conflits individuels - Conseils de prud'hommes
+
+#### Chapitre Ier : Attributions et institution des conseils de prud'hommes.
+
+###### Article L511-2
+
+Les conseils de prud'hommes doivent donner leur avis sur les questions qui leur sont posées par l'autorité administrative.
+
+Ils exercent en outre les attributions qui leur sont confiées par des lois spéciales.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1411-5 (VD)
+
+
+#### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
+
+###### Article L512-1
+
+Les conseils de prud'hommes et leurs différentes formations sont composés d'un nombre égal de salariés et d'employeurs.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1421-1 (VD)
+
+
+###### Article L512-8
+
+Le président du conseil de prud'hommes est alternativement un salarié ou un employeur. Le sort détermine la qualité de celui
+qui est élu la première fois.
+
+Lorsque le président est choisi parmi les prud'hommes salariés, le vice-président ne peut l'être que parmi les prud'hommes
+employeurs et réciproquement.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-4 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L512-10 (AbD)
+	  - Code du travail - art. L512-9 (AbD)
+	  - Code du travail - art. R512-3 (VT)
+	  - Code du travail - art. R515-2 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L512-10 (AbD)
+
+
+###### Article L512-9
+
+Le président et le vice-président sont élus pour une année. Ils sont rééligibles sous la condition d'alternance prévue à
+l'article L. 512-8.
+
+Ils restent en fonctions jusqu'à l'installation de leurs successeurs.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-6 (VD)
+	  - Code du travail L1423-6, R1423-10
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L512-10 (AbD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L512-10 (AbD)
+	  - Code du travail - art. R512-3 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L512-8 (AbD)
+
+
+###### Article L512-10
+
+Les dispositions des articles L. 512-8 et L. 512-9 sont applicables aux présidents et vice-présidents de section et de
+chambre.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-7 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L512-8 (AbD)
+	  - Code du travail - art. L512-9 (AbD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L512-8 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L512-9 (AbD)
+
+
+###### Article L512-14
+
+Le service des secrétariats-greffes des conseils de prud'hommes est assuré par des fonctionnaires de l'Etat.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L831-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail R1423-15
+
+
+#### Chapitre III : Election des conseillers prud'hommes
+
+##### Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
+
+###### Article L513-5
+
+Les prud'hommes salariés sont élus, par section, par les électeurs salariés inscrits dans chaque section et réunis dans des
+assemblées distinctes de celles des employeurs.
+
+Les électeurs employeurs inscrits dans chaque section élisent soit les conseillers de leur section, soit ceux de la section
+de l'encadrement.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1441-31 (VD)
+
+
+#### Chapitre IV : Statut des conseillers prud'hommes.
+
+###### Article L514-4
+
+Le conseiller prud'homme déclaré déchu ne peut plus être réélu [*non*] en cette qualité.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1441-20 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L514-6 (M)
+	  - Code du travail - art. L514-7 (AbD)
+
+
+###### Article L514-6
+
+L'acceptation par un conseiller prud'homme d'un mandat impératif, à quelque époque ou sous quelque forme que ce soit,
+constitue un manquement grave à ses devoirs.
+
+Si ce fait est reconnu par les juges chargés de statuer sur la validité des opérations électorales, il entraîne de plein
+droit l'annulation de l'élection de celui qui s'en est rendu coupable ainsi que son inéligibilité *sanction*.
+
+Si la preuve n'en est rapportée qu'ultérieurement, le fait entraîne sa déchéance dans les conditions prévues aux articles L.
+514-12 et L. 514-13.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1442-11 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L514-12 (M)
+	  - Code du travail - art. L514-13 (M)
+
+
+###### Article L514-8
+
+Les fonctions de conseiller prud'homme sont gratuites vis-à-vis des parties *prix*.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1442-8 (VD)
+
+
+###### Article L514-11
+
+Tout conseiller prud'homme qui, sans motif légitime, et après mise en demeure, refuse de remplir le service auquel il est
+appelé peut être déclaré démissionnaire.
+
+Le président constate le refus de service par un procès-verbal contenant l'avis motivé de la section ou de la chambre, le
+conseiller prud'homme préalablement entendu ou dûment appelé.
+
+Si la section ou la chambre n'émet pas son avis dans le délai d'un mois à dater de sa convocation, le président fait mention
+de cette abstention dans le procès-verbal qu'il transmet au procureur général près la cour d'appel, lequel en saisit cette
+dernière.
+
+Au vu du procès-verbal, la cour d'appel statue en chambre du conseil.
+
+Devant la cour d'appel, l'intéressé doit être appelé.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1442-12 (VD)
+	  - Code du travail L1442-12, R1442-2
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-6 (VT)
+
+
+###### Article L514-12
+
+Tout conseiller prud'homme qui manque gravement à ses devoirs dans l'exercice de ses fonctions est appelé devant la section
+ou la chambre pour s'expliquer sur les faits qui lui sont reprochés.
+
+L'initiative de cet appel appartient au président du conseil de prud'hommes et au procureur de la République.
+
+Dans le délai d'un mois à dater de la convocation, le procès-verbal de la séance de comparution est adressé par le président
+du conseil de prud'hommes au procureur de la République qui le transmet avec son avis au ministre de la justice.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1442-13 (VD)
+	  - Code du travail L1442-13, R1442-3
+
+	**Cité par**:
+
+	  - Code du travail - art. L514-13 (M)
+	  - Code du travail - art. L514-15 (AbD)
+	  - Code du travail - art. L514-6 (AbD)
+	  - Code du travail - art. R514-6 (Ab)
+
+
+###### Article L514-13
+
+Les peines applicables aux conseillers prud'hommes sont :
+
+La censure ;
+
+La suspension pour un temps qui ne peut excéder six mois ;
+
+La déchéance.
+
+La censure et la suspension sont prononcées par arrêté du ministre de la justice. La déchéance est prononcée par décret.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1442-14 (VD)
+	  - Code du travail L1442-14, R1442-4
+
+	**Cité par**:
+
+	  - Code du travail - art. L514-6 (AbD)
+	  - Code du travail - art. R512-6 (VT)
+
+
+#### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
+
+###### Article L515-2
+
+Le bureau de jugement se compose d'un nombre égal d'employeurs et de salariés, y compris le président ou le vice-président
+siégeant alternativement. Ce nombre est au moins de deux employeurs et de deux salariés.
+
+Le bureau de conciliation et la formation de référé se composent d'un conseiller prud'homme employeur et d'un conseiller
+prud'homme salarié *parité*.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-12 (VD)
+	  - Code du travail - art. L1423-13 (VD)
+	  - Code du travail L1423-12, L1423-13, R1423-13
+
+
+###### Article L515-4
+
+En cas de difficulté d'attribution d'un litige à l'une des sections du conseil, le président du conseil de prud'hommes
+désigne par ordonnance la section compétente.
+
+Les décisions prises en application du présent article sont des mesures d'administration judiciaire non susceptibles de
+recours.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-7 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail R1423-14
+
+
+#### Chapitre VI : Procédure devant les conseils de prud'hommes.
+
+###### Article L516-1
+
+Les mineurs qui ne peuvent être assistés de leur père, mère ou tuteur peuvent être autorisés par le conseil à se concilier,
+demander ou défendre devant lui *personnellement*.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1453-1 (VD)
+
+
+#### Chapitre VIII : Récusation.
+
+###### Article L518-1
+
+Les conseillers prud'hommes peuvent être récusés *condition* :
+
+1. Quand ils ont un intérêt personnel à la contestation, le seul fait d'être affilié à une organisation syndicale ne
+constituant pas cet intérêt personnel ;
+
+2. Quand ils sont parents ou alliés d'une des parties jusqu'au degré de cousin germain inclusivement ;
+
+3. Si, dans l'année qui a précédé la récusation, il y a eu action judiciaire, criminelle ou civile entre eux et une des
+parties ou son conjoint ou ses parents ou alliés en ligne directe ;
+
+4. S'ils ont donné un avis écrit dans l'affaire ;
+
+5. S'ils sont employeurs, cadres, ouvriers ou employés de l'une des parties en cause.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L732-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L732-1 (Ab)
+	  - Code du travail - art. L1457-1 (VD)
+
+
+#### Chapitre X : Dépenses des conseils de prud'hommes.
+
+###### Article L51-10-1
+
+Le local nécessaire aux conseils de prud'hommes est fourni par le département où ils sont établis.
+
+Toutefois, lorsque la commune a mis un local à la disposition du conseil des prud'hommes, elle ne peut le reprendre, sauf à
+la demande expresse du département où le conseil est établi.
+
+**Nota:**
+
+Ordonnance 2007-329 2007-03-12 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la
+partie réglementaire du nouveau code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1423-14 (VD)
+
+
+### Titre Ier : Conflits individuels
+
+#### Conseils de prud'hommes
+
+##### Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
+
+###### Article L512-6
+
+Le renouvellement triennal doit porter sur la moitié des membres salariés ainsi que sur la moitié des membres employeurs élus
+dans chaque section. Le sort désigne ceux qui sont remplacés la première fois. Les conseillers prud'hommes sont rééligibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Loi n°82-372 du 6 mai 1982 - art. 35 () JORF 7 MAI 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. L51-11-1 (Ab)
+	  - Code du travail - art. R512-2 (M)
+
+
+##### Chapitre IV : Statut des conseillers prud'hommes.
+
+###### Article L514-5
+
+Le conseiller prud'homme élu, qui refuse de se faire installer ou est déclaré démissionnaire d'office, est inéligible pendant
+un délai de trois ans à partir de son refus ou de la décision du tribunal qui le déclare démissionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1441-21 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L514-7 (AbD)
+
+
+###### Article L514-9
+
+En cas de plainte en prévarication contre les conseillers prud'hommes, il est procédé contre eux suivant la forme établie à
+l'égard des juges par l'article 681 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Abrogé par**:
+
+	  - Loi n°82-372 du 6 mai 1982 - art. 35 () JORF 7 MAI 1979
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 681 (M)
+
+
+###### Article L514-10
+
+Les articles 4 et 5 du code civil, 126, 127 et 185 du code pénal, sont applicables aux conseils de prud'hommes et à leurs
+membres pris individuellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code pénal 126, 127, 185
+	  - Code civil - art. 4 (V)
+	  - Code civil - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1442-9 (VD)
+
+
+##### Chapitre VI : Procédure devant les conseils de prud'hommes.
+
+###### Article L516-2
+
+Un ou deux conseillers rapporteurs peuvent être désignés afin de mettre l'affaire à même d'être jugée. Ils prescrivent toutes
+mesures nécessaires à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1454-1 (VD)
+
+
 ### Titre II : Conflits collectifs
 
 #### Chapitre Ier : La grève
@@ -38048,6 +38224,78 @@ arbitrale dans les conditions prévues au chapitre V du titre III du Livre 1er.
 	**Cite**:
 
 	  - Code du travail L135-1 A L135-5
+
+
+## CONFLITS DE TRAVAIL
+
+### CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
+
+#### ELECTION DES CONSEILLERS PRUD'HOMMES
+
+##### ELECTORAT.
+
+###### Article L513-1
+
+Pour être électeurs, les salariés et les employeurs doivent être âgés de seize ans accomplis, exercer une activité
+professionnelle ou être sous contrat d'apprentissage ou, s'ils se trouvent involontairement privés d'emploi, l'être depuis
+moins de douze mois et n'avoir encouru aucune des condamnations mentionnées aux articles L. 5 et L. 6 du code électoral.
+
+Sont électeurs dans les sections de l'industrie, du commerce et des services commerciaux, de l'agriculture et des activités
+diverses, les employés, les ouvriers, les chefs d'atelier de famille travaillant eux-mêmes, les gens de maison, les apprentis
+et plus généralement tous les salariés non visés à l'alinéa ci-dessous.
+
+Sont électeurs dans la section de l'encadrement, d'une part,
+
+les ingénieurs ainsi que les salariés qui, même s'ils n'exercent pas de commandement, ont une formation équivalente constatée
+ou non par un diplôme, d'autre part, les salariés qui, ayant acquis une formation technique, administrative, juridique,
+commerciale ou financière, exercent un commandement par délégation de l'employeur, et enfin les voyageurs, représentants et
+placiers.
+
+Sont électeurs employeurs les personnes qui emploient pour leur compte ou pour le compte d'autrui un ou plusieurs salariés.
+
+Sont également électeurs employeurs les associés en nom collectif, les présidents des conseils d'administration, les
+directeurs généraux et directeurs, les cadres détenant sur un service, un département ou un établissement de l'entreprise,
+une délégation particulière d'autorité, établie par écrit, permettant de les assimiler à un employeur.
+
+Ne peuvent participer à l'élection des conseillers employeurs de la section de l'encadrement que les employeurs occupant un
+ou plusieurs salariés relevant de ladite section. Si un employeur n'occupe qu'un ou plusieurs de ces salariés, il ne peut
+élire que les conseillers employeurs de la section de l'encadrement.
+
+Les électeurs ne votent que dans une seule section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-394 du 17 mai 1979 - art. 10 (V)
+	  - Décret n°79-394 du 17 mai 1979 - art. 12 (V)
+	  - Décret n°79-394 du 17 mai 1979 - art. 16 (V)
+	  - Décret n°79-394 du 17 mai 1979 - art. 5 (V)
+	  - Décret n°2007-1130 du 23 juillet 2007 - art. 8 (V)
+	  - Code du travail - art. D513-4 (VT)
+	  - Code du travail - art. L122-14-1 (AbD)
+	  - Code du travail - art. L512-2 (AbD)
+	  - Code du travail - art. L513-3 (AbD)
+	  - Code du travail - art. L513-3-1 (P)
+	  - Code du travail - art. R513-11 (M)
+	  - Code du travail - art. R513-13 (VT)
+	  - Code du travail - art. R513-14 (VT)
+	  - Code du travail - art. R513-15 (Ab)
+	  - Code du travail - art. R513-21 (M)
+	  - Code du travail - art. R513-3 (VT)
+	  - Code du travail - art. R513-4 (VT)
+	  - Code du travail - art. R513-6 (VT)
+	  - Code du travail - art. R513-8 (VT)
+	  - Code du travail - art. R513-9 (VT)
+
+	**Cite**:
+
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
 
 
 ## CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL
@@ -51801,23 +52049,18 @@ Ils nomment également selon les mêmes règles d'alternance un vice-président 
 
 ###### Article R512-8
 
-Il est attaché à chaque conseil un secrétaire et, s'il y a lieu, un ou plusieurs secrétaires adjoints. Dans les conseils
-[*des prud'hommes*] comprenant plusieurs sections, chaque section peut être pourvue d'un secrétaire et, au besoin, d'un ou
-plusieurs secrétaires adjoints. Les postes de secrétaire et de secrétaire adjoint sont créés et supprimés par décret rendu
-sur proposition du ministre de la justice.
+Il est attaché à chaque conseil un greffier en chef et, s'il y a lieu, un ou plusieurs secrétaires-greffiers. Dans les
+conseils comprenant plusieurs sections, chaque section peut être pourvue d'un greffier en chef et, au besoin, d'un ou
+plusieurs secrétaire-greffiers. Les postes de greffier en chef et de secrétaire-greffier sont créés et supprimés par décret
+rendu sur proposition du ministre de la justice.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-264 1971-04-02
-	  - Décret n°57-1292 1957-12-22 ART. 16
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Modifié par**:
+	**Créé par**:
 
 	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
 
@@ -51833,22 +52076,18 @@ sur proposition du ministre de la justice.
 
 ###### Article R512-9
 
-Le secrétaire assiste et tient la plume aux audiences des bureaux de conciliation et de jugement //DECR.0783 12-09-1974 :
-ainsi que, s'il y a lieu, aux audiences de référé// .
+Le greffier en chef assiste et tient la plume aux audiences des bureaux de conciliation et de jugement ainsi que, s'il y a
+lieu, aux audiences de référé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 17 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier 1979
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
 
 	**Cité par**:
 
@@ -51862,31 +52101,27 @@ ainsi que, s'il y a lieu, aux audiences de référé// .
 
 ###### Article R512-10
 
-Les secrétaires et secrétaires adjoints de conseils de prud'hommes sont nommés et mis à la retraite par arrêté préfectoral.
-Ils bénéficient du régime des congés et, le cas échéant, du régime d'assurance des fonctionnaires du département où ils
-exercent leurs fonctions.
+Les greffiers en chef et secrétaires-greffiers de conseils de prud'hommes sont nommés et mis à la retraite par arrêté
+préfectoral. Ils bénéficient du régime des congés et, le cas échéant, du régime d'assurance des fonctionnaires du département
+où ils exercent leurs fonctions.
 
-Le cumul des fonctions de notaire, d'huissier, de greffier d'une part, et de celles de secrétaire du conseil de prud'hommes,
-d'autre part, est possible sous les réserves qui sont fixées par le décret prévu à l'article L. 512-7.
+Le cumul des fonctions de notaire, d'huissier, de greffier d'une part, et de celles de greffier en chef du conseil de
+prud'hommes, d'autre part, est possible sous les réserves qui sont fixées par le décret prévu à l'article L. 512-7.
 
-Dans les conseils ou sections de conseils où il n'existe pas de secrétaire adjoint, le secrétaire peut être, en cas
-d'empêchement, suppléé par un ancien conseiller prud'homme ou un ancien secrétaire du conseil de prud'hommes désigné par le
-bureau de conciliation ou le bureau de jugement, ou à défaut, par le greffier du tribunal d'instance dont le ressort comprend
-la commune où siège le conseil.
+Dans les conseils ou sections de conseils où il n'existe pas de secrétaire-greffier, le greffier en chef peut être, en cas
+d'empêchement, suppléé par un ancien conseiller prud'homme ou un ancien greffier en chef du conseil de prud'hommes désigné
+par le bureau de conciliation ou le bureau de jugement, ou à défaut, par le greffier du tribunal d'instance dont le ressort
+comprend la commune où siège le conseil.
 
-Les conditions d'indemnisation du secrétaire ainsi désigné sont fixées par arrêté du préfet.
+Les conditions d'indemnisation ou greffier en chef ainsi désigné sont fixées par arrêté du préfet.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 18 AL. 1 , ART. 17 AL. 2 , 3
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Modifié par**:
+	**Créé par**:
 
 	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
 
@@ -52005,6 +52240,45 @@ l'engagement a été contracté.
 	  - Décret n°73-1048 1973-11-15
 
 
+###### Article R513-2
+
+Les tableaux prévus au premier alinéa de l'article précédent sont adressés au préfet, qui dresse et arrête la liste de chaque
+catégorie d'électeurs.
+
+Les listes sont déposées au /M/secrétariat/M/Loi 0044 :
+
+secrétariat-greffe// des conseils de prud'hommes ; en cas de création d'un conseil, elles sont déposées à la mairie du siège
+du conseil. En outre, la liste des électeurs de chaque commune est déposée au secrétariat de la mairie. Dans les villes
+divisées en plusieurs arrondissements municipaux, la liste des électeurs de chaque arrondissement est déposée au secrétariat
+de mairie de cet arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1292 1958-12-22 ART. 24
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
+
+	**Cité par**:
+
+	  - Décret n°2002-398 du 22 mars 2002 - art. 1 (V)
+	  - Décret n°2007-1818 du 24 décembre 2007 (V)
+	  - Décret n°2007-1818 du 24 décembre 2007 - art. 1 (V)
+	  - Code du travail - art. R513-17 (Ab)
+	  - Code du travail - art. R513-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R513-1 (M)
+
+
 ###### Article R513-3
 
 Les électeurs sont avisés du dépôt des listes par affiche apposée à la porte des mairies. Pendant les trente jours qui
@@ -52033,6 +52307,76 @@ contestée. Ils sont introduits par simple déclaration aux greffes effectuées 
 	  - Code du travail - art. L513-1 (M)
 	  - Code du travail - art. L513-2 (M)
 	  - Code du travail - art. L513-3 (M)
+
+
+###### Article R513-4
+
+Le tribunal d'instance statue dans les dix jours [*délai*]
+
+sans frais ni forme de procédure et sur simple avertissement donné par ses soins à toutes les parties intéressées.
+
+La décision est le jour même transmise au /M/secrétaire/M/Loi 0044 : greffier en chef// du conseil de prud'hommes et au maire
+de la commune intéressée, lequel, dans les trois jours de la réception, la notifie par lettre recommandée aux parties
+[*formalités*] et, dans le cas où cette sentence ordonne l'inscription sur la liste d'une personne qui n'y figurait pas,
+l'affiche à la mairie.
+
+Toutefois, si la demande portée devant le tribunal d'instance implique la solution préjudicielle d'une question qui échappe à
+sa compétence, il renvoie les parties à se pourvoir devant le tribunal compétent et fixe le délai dans lequel la partie qui
+soulève la question préjudicielle devra justifier de ses diligences. Il est procédé, en ce cas, conformément aux articles 855
+et 858 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure civile 855 ET 858
+
+	**Anciens textes**:
+
+	  - Décret n°1958-12-22 ART. 25 AL. 4, 5, 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
+
+
+###### Article R513-5
+
+La décision du tribunal d'instance n'est pas susceptible d'opposition ni d'appel. Elle peut être déférée à la Cour de
+cassation par ceux qui y ont été parties, et, en outre, dans le cas où elle ordonnerait l'inscription sur la liste d'une
+personne qui n'y figurait pas, par tout électeur inscrit sur la liste électorale de la circonscription.
+
+Le pourvoi n'est recevable que s'il est formé dans les dix jours [*délai*] de l'affichage ou de la notification de la
+décision. Il n'est pas suspensif. Il est formé par simple requête dénoncée au défendeur dans les dix jours qui suivent et
+jugé d'urgence sans frais ni consignation d'amende.
+
+L'intermédiaire d'un avocat au Conseil d'Etat et à la Cour de cassation n'est pas obligatoire.
+
+Les pièces et mémoires des parties sont transmis immédiatement et sans frais par le greffier du tribunal d'instance au
+greffier en chef de la Cour de cassation.
+
+Ce dernier transmet une copie de l'arrêt au greffier du tribunal d'instance qui en avise le maire, lequel, dans les trois
+jours de la réception, la notifie par lettre recommandée [*formalités*] aux parties et en avise le /M/secrétaire/M/loi 0044 :
+greffier en chef// du conseil des prud'hommes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1963-10-02 ART. 3 , 25 BIS
+	  - Décret n°58-1292 1958-12-22
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 JANVIER 1979
 
 
 ###### Article R513-6
@@ -55210,6 +55554,51 @@ Les arrêts et sentences de la Cour supérieure d'arbitrage sont publiés tous l
 
 #### Chapitre Ier : Etablissement du contrat.
 
+###### Article R111-1
+
+L'acte authentique d'apprentissage peut être reçu par les notaires, les secrétaires de conseils de prud'hommes et par les
+greffiers des tribunaux d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier 1979
+
+	**Cité par**:
+
+	  - Code du travail - art. R519-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail 2 al. 3
+
+
+###### Article R111-2
+
+Le contrat d'apprentissage conclu sous seing privé est établi en quatre exemplaires au moins [*condition de forme*], signés
+par les deux parties ; un pour le maître, un pour l'apprenti ou, s'il est mineur, pour son représentant légal, un pour le
+directeur départemental du travail et de la main-d'oeuvre, le quatrième devant être remis au maire qui l'adresse en franchise
+au greffier en chef du conseil de prud'hommes ou, à défaut, au greffier du tribunal d'instance du domicile du maître.
+
+L'acte sous seing privé acquiert date certaine par le visa qu'y appose le maire ou, à défaut, le secrétaire du conseil de
+prud'hommes ou le greffier du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier 1979
+
+
 ###### Article R111-3
 
 Mention du contrat d'apprentissage doit être faite par le chef d'établissement à sa date sur le livret individuel de
@@ -55337,33 +55726,6 @@ par le tribunal d'instance.
 
 
 ### Titre Ier : CONTRAT D'APPRENTISSAGE
-
-#### Chapitre Ier : DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972
-
-##### SECTION 1 : ETABLISSEMENT DU CONTRAT .
-
-###### Article R111-2
-
-Le contrat d'apprentissage conclu sous seing privé est établi en quatre exemplaires au moins [*condition de forme*], signés
-par les deux parties ; un pour le maître, un pour l'apprenti ou,
-
-s'il est mineur, pour son représentant légal, un pour le directeur départemental du travail et de la main-d'oeuvre, le
-quatrième devant être remis au maire qui l'adresse en franchise au secrétaire du conseil de prud'hommes ou, à défaut, au
-greffier du tribunal d'instance du domicile du maître.
-
-L'acte sous seing privé acquiert date certaine par le visa qu'y appose le maire ou, à défaut, le secrétaire du conseil de
-prud'hommes ou le greffier du tribunal d'instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail 2 al. 4, al. 5
-
 
 #### Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
@@ -85262,41 +85624,6 @@ Toute clause qui directement ou indirectement déroge aux dispositions qui préc
 	  - Code du travail R519-6 ET R519-7
 
 
-##### Section 4 : L'appel.
-
-###### Article R517-7
-
-Le délai d'appel est d'un mois.
-
-L'appel est formé par une déclaration que la partie ou tout mandataire fait, ou adresse par pli recommandé, au secrétariat de
-la juridiction qui a rendu le jugement.
-
-La déclaration indique [*mentions*] les nom, prénoms, profession et domicile de l'appelant ainsi que les nom et adresse des
-parties contre lesquelles l'appel est dirigé. Elle désigne, le jugement dont il est fait appel et mentionne, le cas échéant,
-
-les chefs de jugement auxquels se limite l'appel ainsi que le nom et l'adresse du représentant de l'appelant devant la cour.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R516-35 (VT)
-	  - Code du travail - art. R519-3 (Ab)
-	  - Code du travail - art. R851-3 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R517-5 (Ab)
-
-	**Anciens textes**:
-
-	  - Code du travail R517-11 (1973)
-
-
 ### Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 #### Chapitre VI : Procédure devant les conseils de prud'hommes.
@@ -85575,6 +85902,42 @@ réclamés.
 
 
 ##### Section 4 : L'appel.
+
+###### Article R517-7
+
+Le délai d'appel est d'un mois.
+
+L'appel est formé par une déclaration que la partie ou tout mandataire fait, ou adresse par pli recommandé, au secrétariat-
+greffe de la juridiction qui a rendu le jugement.
+
+La déclaration indique [*mentions*] les nom, prénoms, profession et domicile de l'appelant ainsi que les nom et adresse des
+parties contre lesquelles l'appel est dirigé. Elle désigne, le jugement dont il est fait appel et mentionne, le cas échéant,
+les chefs de jugement auxquels se limite l'appel ainsi que le nom et l'adresse du représentant de l'appelant devant la cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier 1979
+
+	**Cité par**:
+
+	  - Code du travail - art. R516-35 (VT)
+	  - Code du travail - art. R519-3 (Ab)
+	  - Code du travail - art. R851-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R517-5 (Ab)
+
+	**Anciens textes**:
+
+	  - Code du travail R517-11 (1973)
+
 
 ###### Article R517-8
 
@@ -89866,6 +90229,22 @@ travailleur sans préjudice de l'indemnité à laquelle le donneur d'ouvrage pou
 	  - Code du travail - art. R7423-1 (V)
 
 
+###### Article R721-11
+
+A l'occasion de tout différend portant sur la rémunération d'un travailleur exécutant des travaux à domicile, le conseil de
+prud'hommes ou, à défaut le tribunal d'instance rend public par affichage à la porte du prétoire le tarif d'espèce résultant
+du jugement.
+
+Tout intéressé et tout groupement professionnel sont autorisés à prendre sans frais copie de ces salaires, au secrétariat du
+conseil de prud'hommes ou au greffe du tribunal d'instance, et à les publier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
 ##### Section 5 : Dispositions spéciales à l'agriculture.
 
 ###### Article R721-12
@@ -90543,32 +90922,6 @@ mains du chef d'atelier comme sur le sien.
 	**Cite**:
 
 	  - Code du travail R723-1 A R723-7
-
-
-### Titre II : Industries de transformation
-
-#### Chapitre Ier : Travailleurs à domicile
-
-##### Section 4 : Règlement des litiges.
-
-###### Article R721-11
-
-A l'occasion de tout différend portant sur la rémunération d'un travailleur exécutant des travaux à domicile, le conseil de
-prud'hommes ou, à défaut le tribunal rend public par affichage à la porte du prétoire le tarif d'espèce résultant du
-jugement.
-
-Tout intéressé et tout groupement professionnel sont autorisés à prendre sans frais copie de ces salaires, au secrétariat du
-conseil de prud'hommes ou au greffe du tribunal d'instance, et à les publier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail 33 al. 3, al. 4
 
 
 ### Titre III : Bâtiment et travaux publics
