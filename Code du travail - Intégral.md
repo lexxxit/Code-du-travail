@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-08-07
+Version Consolidée au 1977-08-12
 
 # Partie législative ancienne
 
@@ -70668,6 +70668,321 @@ leurs interventions.
 	  - Code du travail - art. R231-7 (Ab)
 
 
+#### ORGANES CONSULTATIFS CENTRAUX
+
+##### CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS .
+
+###### Article R231-14
+
+Le conseil supérieur de la prévention des risques professionnels participe à l'élaboration de la politique nationale de
+prévention des risques professionnels.
+
+A cet effet, il propose au ministre chargé du travail toutes mesures susceptibles d'améliorer l'hygiène, la sécurité et le
+confort des travailleurs.
+
+Il est consulté sur :
+
+Les projets de loi intéressant la prévention des risques professionnels dans les établissements mentionnés à l'article L.
+231-1 du titre III du livre II du code du travail ;
+
+Les projets de règlement, à l'exception de ceux qui concernent exclusivement les professions agricoles, pris en application
+des dispositions législatives des titres III et IV du livre II du code du travail.
+
+Le projet de rapport prévu à l'article 42 de la loi du 6 décembre 1976 relative au développement de la prévention des
+accidents du travail ;
+
+Les orientations à donner aux organismes et institutions d'hygiène et de sécurité défini à l'article L. 231-2 du code du
+travail.
+
+Il suscite et favorise toute initiative de nature à améliorer la prévention des risques professionnels.
+
+Il peut être saisi par le ministre chargé du travail de toutes questions entrant dans ses compétences.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°85-968 du 27 août 1985 - art. 23 (V)
+	  - Décret n°2005-1236 du 30 septembre 2005 - art. 25 (V)
+	  - Décret n°2007-761 du 10 mai 2007 - art. 3 (V)
+	  - Code du travail - art. R231-15 (VT)
+	  - Code du travail - art. R231-19 (VT)
+	  - Code du travail - art. R231-21 (VT)
+	  - Code rural - art. D751-38 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L231-2 (M)
+	  - Code du travail L231-1 A L241-11
+	  - Loi   1976-12-06 ART. 42
+
+
+###### Article R231-15
+
+Chaque année, en vue de l'application de l'article R. 231-14, le ministre chargé du travail communique au conseil supérieur :
+
+Le bilan d'activité des services chargés de l'inspection du travail en matière de prévention des risques professionnels ;
+
+Le bilan d'activité de l'agence pour l'amélioration des conditions de travail en matière de prévention des risques
+professionnels :
+
+Les statistiques en matière d'accidents du travail et de maladies professionnelles des différents régies de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°75-306 du 28 avril 1975 - art. 49 (Ab)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 65 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. R231-14 (M)
+
+
+###### Article R231-16
+
+Le conseil supérieur de la prévention des risques professionnels est présidé par le ministre chargé du travail ou, à défaut
+par le président de la section sociale du Conseil d'Etat, vice-président du conseil supérieur. Il se compose en outre de :
+
+1. Treize [*nombre*] membres représentant les départements ministériels et organismes nationaux déterminés ainsi qu'il suit :
+
+Le directeur des relations du travail ou son représentant ;
+
+Le directeur général de la santé ou son représentant ;
+
+Le directeur de la sécurité sociale ou son représentant ;
+
+Le chef de l'inspection générale des affaires sociales ou son représentant ;
+
+Le directeur des affaires sociales au ministère de l'agriculture ou son représentant ;
+
+Le directeur des affaires criminelles ou son représentant ;
+
+Le directeur du bâtiment, des travaux publics et de la conjoncture ou son représentant ;
+
+Le directeur général de l'industrie ou son représentant ;
+
+Le directeur des mines ou son représentant ;
+
+L'inspecteur général du travail et de la main-d'oeuvre des transports ou son représentant ;
+
+Un représentant de l'agence nationale pour l'amélioration des conditions de travail désigné sur proposition du conseil
+d'administration de ladite agence ;
+
+Un représentant de la caisse nationale de l'assurance maladie des travailleurs salariés désigné sur proposition du conseil
+d'administration de ladite caisse ;
+
+Un représentant de l'institut national de recherche et de sécurité désigné sur proposition du conseil d'administration dudit
+institut.
+
+2. Dix représentants des salariés, désignés sur proposition des organisations syndicales de salariés les plus représentatives
+au plan national ;
+
+3. Dix représentants des employeurs, dont neuf représentants des entreprises privées désignés sur proposition des
+organisations d'employeurs les plus représentatives au plan national et un représentant des entreprises publiques désigné sur
+proposition du ministre chargé de l'économie nationale ;
+
+4. Quinze personnes désignées en raison de leur compétence,
+
+dont cinq spécialistes de médecine du travail.
+
+Les représentants des organismes, les représentants des employeurs, ceux des salariés, ainsi que les personnes désignées en
+raison de leur compétence sont nommés pour trois ans [*durée*]
+
+par arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-17 (VT)
+	  - Code du travail - art. R231-22 (VT)
+
+
+###### Article R231-17
+
+Le conseil supérieur constitue en son sein une commission permanente et des commissions spécialisées. Il élabore son
+règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 10 août 1979 - art. 11 (Ab)
+	  - Arrêté du 10 août 1979 - art. 14 (Ab)
+	  - Arrêté du 10 août 1979 - art. 2 (Ab)
+	  - Arrêté du 10 août 1979 - art. 5 (Ab)
+	  - Arrêté du 10 août 1979 - art. 8 (Ab)
+
+
+###### Article R231-18
+
+La commission permanente prépare les travaux du conseil supérieur et peut être consultée en son lieu et place dans les
+conditions déterminées par le réglement intérieur de ce conseil.
+
+Elle est présidée par le ministre chargé du travail et comprend, outre le président de la section sociale du Conseil d'Etat,
+vice-président :
+
+Cinq membres du conseil supérieur représentant les administrations et organismes nationaux ;
+
+Cinq membres du conseil supérieur représentants des salariés ;
+
+Cinq [*nombre*] membres du conseil supérieur représentants des employeurs ;
+
+Cinq membres du conseil supérieur choisis parmi les personnes désignées en raison de leur compétence.
+
+Les membres de la commission permanente sont désignés pour trois ans [*durée*] sur proposition du conseil supérieur, par
+arrêté du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-19
+
+Les commissions spécialisées sont constituées par arrêté du ministre chargé du travail pris après avis du conseil supérieur.
+
+Les commissions spécialisées coopèrent aux travaux du conseil supérieur et de la commission permanente. Elles effectuent soit
+à la demande du conseil supérieur ou de sa commission permanente, soit de leur propre initiative, toutes études entrant dans
+leur domaine de compétence. Elles proposent au conseil supérieur toutes mesures de prévention. Elles peuvent être consultées
+au lieu et place du conseil supérieur lorsque celui-ci leur a donné délégation à cet effet dans les conditions prévues par
+son règlement intérieur.
+
+Chaque commission spécialisée est présidée par un membre du conseil supérieur choisi parmi les personnes désignées en raison
+de leur compétence. Elle comprend au moins cinq membres du conseil supérieur représentants des salariés et cinq membres du
+conseil supérieur représentants des employeurs.
+
+Le président est assisté de deux [*nombre*] vice-présidents choisis, l'un parmi les membres représentant les salariés,
+l'autre parmi les membres représentants les employeurs. Le président, les vice-présidents et les membres des commissions
+spécialisées sont nommés par arrêté du ministre chargé du travail sur proposition du conseil supérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-21 (VT)
+
+
+###### Article R231-20
+
+Un secrétaire général du conseil supérieur est nommé par arrêté du ministre chargé du travail. Il assure le fonctionnement du
+conseil supérieur de sa commission permanente et des commissions spécialisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-21
+
+Les membres du conseil supérieur désignés en raison de leur compétence siègent personnellement.
+
+Le vice-président du conseil supérieur est supplée par un membre du Conseil d'Etat désigné par le ministre chargé du travail
+sur présentation du vice-président du conseil d'Etat.
+
+Pour chaque membre du conseil supérieur représentant un organisme national il est désigné dans les mêmes conditions et pour
+la même durée, un membre suppléant.
+
+Pour chaque membre du conseil supérieur représentant des employeurs et des salariés, il peut être désigné, dans les mêmes
+conditions et pour la même durée, trois membres suppléants au maximum.
+
+Un membre suppléant ne peut assister aux séances du conseil supérieur, de sa commission permanente ou de ses commissions
+spécialisées qu'en cas d'absence du membre titulaire et à l'exclusion de tout autre suppléant de celui-ci.
+
+Les membres du conseil supérieur représentant des employeurs et des salariés peuvent, en outre, dans toutes les formations du
+conseil, se faire assister d'un expert de leur choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-22
+
+Le conseil supérieur se réunit au moins une fois par an sur convocation du ministre chargé du travail.
+
+L'ordre du jour du conseil supérieur, de la commission permanente et des commissions spécialisées et fixé par le ministre
+soit de sa propre initiative, soit sur proposition des membres du conseil. Sauf cas d'urgence, il est adressé aux intéressés
+quinze jours au moins avant la date de la réunion.
+
+Les séances du conseil supérieur et de la commission permanente sont présidées par le ministre ou par le vice-président du
+conseil supérieur.
+
+Les séances des commissions spécialisées sont présidées par leur président ou par l'un de leurs vice-présidents dans les
+conditions fixées au règlement intérieur du conseil supérieur. Le ministre ou, à son défaut, le vice-président du conseil
+supérieur peuvent assister à ces séances. Dans ce cas ils en assurent la présidence.
+
+Pour l'étude de chaque question, le ministre, le vice-président du conseil supérieur et les présidents des commissions
+spécialisées peuvent désigner un ou plusieurs rapporteurs. Ils peuvent également constituer des sous-commissions et groupes
+de travail chargés de préparer les études et d'instruire les dossiers.
+
+Les rapporteurs et certains membres des groupes de travail peuvent, avec l'accord du ministre, être choisis en dehors du
+conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-23
+
+Le mandat des membres du conseil supérieur est renouvelable.
+
+Tout membre du conseil supérieur désigné en raison de sa compétence qui, au cours d'une même année et sans excuse valable,
+n'aurait pas assisté à trois [*nombre*] séances du conseil ou de celles de ses formations dont il fait partie, est déclaré
+démissionnaire d'office par arrêté du ministre chargé du travail.
+
+En cas de décès, démission ou perte de leur mandat, les membres sont remplacés pour la période restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R231-24
+
+Le conseil supérieur établit un rapport annuel d'activité qui est publié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
 #### SECURITE
 
 ##### MESURES D'APPLICATION .
@@ -70901,344 +71216,6 @@ de la sécurité sociale et de la santé publique.
 	**Anciens textes**:
 
 	  - Loi n°1946-10-11 ART. 2 AL. 3, ART. 3 AL. 1 ET 2
-
-
-#### CONSEIL SUPERIEUR DE LA MEDECINE DU TRAVAIL ET DE LA MAIN-D'OEUVRE .
-
-###### Article R241-1
-
-Placé auprès du ministre chargé du travail, le Conseil supérieur de la médecine du travail et de la main-d'oeuvre élabore la
-doctrine de la médecine du travail et fixe les règles générales d'action des médecins inspecteurs du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 20 avril 1995 - art. 2 (Ab)
-	  - Décret n°95-1355 du 29 décembre 1995 - art. 1 (Ab)
-	  - Décret n°98-252 du 1 avril 1998 - art. 1 (VT)
-	  - Décret n°99-320 du 26 avril 1999 - art. 2 (Ab)
-	  - Décret n°99-320 du 26 avril 1999 - art. 6 (Ab)
-	  - Code de la sécurité sociale. - art. D133-10 (VT)
-	  - Code de la sécurité sociale. - art. D133-5-3 (Ab)
-	  - Code de la sécurité sociale. - art. D412-79 (V)
-	  - Code de la sécurité sociale. - art. R133-14 (VT)
-	  - Code du travail - art. R128-7 (VT)
-	  - Code du travail - art. R241-1-1 (VT)
-	  - Code du travail - art. R241-10 (VT)
-	  - Code du travail - art. R241-10-1 (M)
-	  - Code du travail - art. R241-2 (VT)
-	  - Code du travail - art. R241-34-1 (VT)
-	  - Code du travail - art. R241-4 (VT)
-	  - Code du travail - art. R620-6-1 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°1950-12-27
-	  - Loi n°1941-10-31 ART. 4 AL. 1
-
-
-###### Article R241-2
-
-Le Conseil Supérieur de la médecine du travail et de la main-d'oeuvre est présidé par le ministre chargé du travail.
-
-Il comprend, en outre, des membres de droit et des membres nommés pour trois ans [*durée*] par le ministre :
-
-1. Membres de droit.
-
-Le président de la section sociale du Conseil d'Etat ;
-
-Le directeur général du travail et de l'emploi ;
-
-Le directeur de l'assurance maladie et des caisses de sécurité sociale ;
-
-Le représentant du ministre chargé de l'industrie ;
-
-Le représentant du ministre chargé des transports ;
-
-Le directeur de l'Office national des anciens combattants et victimes de guerre ;
-
-Le directeur de l'Institut national des recherches et de sécurité pour la prévention des accidents du travail et des maladies
-professionnelles ;
-
-Le directeur de l'Institut national de la santé et de la recherche médicale ;
-
-Le directeur de l'école nationale de la santé publique ;
-
-Les professeurs titulaires des facultés de médecine et des facultés mixtes de médecine et de pharmacie chargés de
-l'enseignement préparatoire au certificat d'études spéciales de médecine du travail ;
-
-Le médecin inspecteur général du travail et de la main-d'oeuvre ;
-
-Le chef de la division de l'hygiène et de la sécurité du travail à la direction générale du travail et de l'emploi ;
-
-Le président du Conseil national de l'ordre des médecins ou,
-
-à son défaut, le secrétaire général de ce Conseil.
-
-2. Membres nommés.
-
-Un inspecteur général du travail et de la main-d'oeuvre ;
-
-Un professeur de toxicologie et d'hygiène industrielle ;
-
-Un professeur de physiologie du travail ;
-
-Six [*nombre*] médecins diplômés de médecine du travail ayant une connaissance pratique des problèmes de la médecine du
-travail et de la main-d'oeuvre ;
-
-Cinq personnalités particulièrement qualifiées en raison de leurs connaissances scientifiques, dont deux au moins appartenant
-à un corps d'ingénieurs ;
-
-Un membre de la Confédération des syndicats médicaux français, désigné sur proposition de cette Confédération ;
-
-Un représentant de chaque syndicat représentatif des médecins du travail, désigné sur proposition de son organisation ;
-
-Cinq représentants des organisations des employeurs ;
-
-Cinq représentants des organisations des salariés ;
-
-Ces dix derniers membres sont nommés sur proposition des organisations les plus représentatives sur le plan national.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. R241-1 (VT)
-	  - Code du travail - art. R241-10 (VT)
-	  - Code du travail - art. R241-10-1 (VT)
-	  - Code du travail - art. R241-8 (M)
-	  - Code rural et de la pêche maritime - art. R717-47 (VT)
-	  - Décret n°82-397 du 11 mai 1982 - art. 11 (Ab)
-	  - Décret n°82-397 du 11 mai 1982 - art. 5-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 1
-	  - Décret n°1968-03-07
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R241-3
-
-Le ministre [*charge du travail*] est assisté de deux vice-présidents :
-
-L'un est le président de la section sociale du Conseil d'Etat ;
-
-L'autre est nommé par le ministre parmi les professeurs titulaires des facultés mixtes de médecine et de pharmacie chargés de
-l'enseignement préparatoire au certificat d'études spéciales de médecine du travail.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. R241-26 (VT)
-	  - Code du travail - art. R241-27 (VT)
-	  - Code du travail - art. R241-5 (VT)
-	  - Code du travail - art. R241-6 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 2
-	  - Décret n°1968-03-07
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R241-4
-
-Le Conseil supérieur de la médecine du travail et de la main-d'oeuvre se réunit au moins une fois par an [*périodicité*]
-
-sur convocation du ministre chargé du travail.
-
-Il est chargé de l'examen et de l'étude de toutes les questions qui lui sont soumises par le ministre et qui intéressent le
-champ d'application, le développement, le fonctionnement et le contrôle de la médecine du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R241-1 (VT)
-	  - Code du travail - art. R241-10 (VT)
-	  - Code du travail - art. R241-7 (M)
-	  - Code du travail - art. R241-8 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 3
-	  - Décret n°1961-05-31
-
-
-###### Article R241-5
-
-L'ordre du jour est arrêté par le ministre [*chargé du travail*]
-
-et sauf le cas d'urgence adressé aux intéressés quinze jours au moins [*délai*] avant la date de la réunion. Les membres du
-Conseil peuvent proposer l'inscription à l'ordre du jour des questions dont l'examen entre dans les attributions du Conseil
-supérieur.
-
-Les rapporteurs sont désignés par le ministre soit parmi les membres du Conseil supérieur, soit parmi les personnes
-qualifiées extérieures au Conseil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R241-26 (VT)
-	  - Code du travail - art. R241-27 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 4
-	  - Décret n°1961-05-31
-
-
-###### Article R241-6
-
-Une commission permanente composée de membres du Conseil supérieur peut être appelée à préparer [*attributions*] les travaux
-de celui-ci ou à procéder à des études particulières à la demande du ministre [*chargé du travail*] ou du Conseil.
-
-Le ministre peut, en outre, consulter la commission permanente sur les questions relatives à l'organisation et au
-fonctionnement des services de la médecine du travail et de la main-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 28 mars 1979 - art. 1 (V)
-	  - Arrêté du 28 mai 1997 - art. 1 (V)
-	  - Arrêté du 28 mai 1997 - art. 2 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 5-I
-	  - Décret n°1968-03-07
-
-
-###### Article R241-7
-
-La commission permanente est composée comme suit :
-
-Le directeur général du travail et de l'emploi, président ;
-
-Le directeur général de la santé publique ;
-
-Le médecin inspecteur général du travail et de la main-d'oeuvre ;
-
-L'inspecteur général du travail et de la main-d'oeuvre,
-
-membre du Conseil supérieur ;
-
-Quatre [*nombre*] médecins du travail désignés par le ministre ;
-
-Les cinq représentants des employeurs et les cinq représentants des salariés au Conseil supérieur.
-
-La commission permanente peut s'adjoindre à titre consultatif des personnes qualifiées. Des rapporteurs peuvent être désignés
-par le ministre soit parmi les membres de la commission, soit parmi les personnes qualifiées extérieures à la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 28 mars 1979 - art. 1 (V)
-	  - Arrêté du 28 mars 1979 - art. 2 (V)
-	  - Arrêté du 28 mai 1997 - art. 1 (V)
-	  - Arrêté du 28 mai 1997 - art. 2 (V)
-	  - Code du travail - art. R241-2 (M)
-	  - Code du travail - art. R241-4 (VT)
-	  - Code du travail - art. R241-6 (VT)
-	  - Code du travail - art. R241-9 (VT)
-	  - Code du travail - art. R243-2 (VT)
-	  - Décret n°2004-1247 du 22 novembre 2004 - art. 2 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 5-II
-	  - Décret n°1968-03-07
-
-
-###### Article R241-8
-
-La commission permanente peut constituer en son sein, pour l'étude des questions qui lui sont soumises, des groupes d'étude
-auxquels peuvent participer les représentants des administrations intéressées et des personnes qualifiées [*membres*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 6
-	  - Décret n°1961-05-31
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R241-9
-
-Les représentants des administrations publiques ainsi que les représentants des organisations de salariés et des employeurs
-peuvent se faire remplacer aux séances auxquelles ils sont empêchés d'assister.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R241-10
-
-Le secrétariat du conseil supérieur de la commission permanente est assuré par les services de la direction générale du
-travail et de l'emploi dans les conditions fixées par le ministre.
-
-Le secrétaire est chargé [*attribution*] notamment de veiller à la rédaction des procès-verbaux et à la distribution des
-rapports.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°2004-760 du 28 juillet 2004 - art. 32 (V)
-	  - Code du travail - art. R241-10-1 (VT)
-	  - Code du travail - art. R242-1 (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°1951-01-27 ART. 8
-	  - Décret n°1968-03-07
 
 
 #### SERVICE MEDICAL DU TRAVAIL .
