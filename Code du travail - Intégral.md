@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-08-15
+Version Consolidée au 1980-11-08
 
 # Partie législative ancienne
 
@@ -56178,6 +56178,61 @@ point de départ*].
 
 ##### Section 1 : Déclarations et justifications à fournir à l'autorité administrative.
 
+###### Article R124-1
+
+La déclaration [*de l'entrepreneur*] prévue à l'article L. 124-10 doit comporter les mentions [*obligatoires*] suivantes :
+
+a) L'indication de l'opération qui est envisagée : création d'une entreprise de travail temporaire, ouverture d'une
+succursale, d'une agence ou d'un bureau annexe, déplacement du siège ou cessation d'activité ;
+
+b) le nom, le siège et le caractère juridique de l'entreprise ainsi que, le cas échéant, la localisation de la succursale, de
+l'agence ou du bureau annexe ;
+
+c) La date d'effet de l'opération envisagée ;
+
+d) Les nom, prénoms, domicile et nationalité du ou des dirigeants de l'entreprise ou de la succursale ou de l'agence ou du
+bureau annexe concernés ;
+
+e) La désignation de l'organisme auquel l'entrepreneur de travail temporaire verse les cotisations de sécurité sociale ainsi
+que son numéro d'employeur ;
+
+f) Les domaines géographiques et professionnel dans lesquels l'entreprise entend mettre [*mis*] des travailleurs temporaires
+à la disposition d'utilisateurs ;
+
+g) Le nombre de salariés permanents [*effectifs*] que l'entreprise emploie ou envisage d'employer pour assurer le
+fonctionnement de ses propres services.
+
+La déclaration, datée et signée par le chef d'entreprise, est adressée en deux exemplaires, sous pli recommandé, à
+l'inspecteur du travail et de la main-d'oeuvre dont relève le siège de l'entreprise. Elle est adressée dans les mêmes
+conditions à l'inspecteur du travail dont relève la succursale, l'agence ou le bureau annexe dont l'ouverture est prévue.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 27 1980-11-17
+	  - SPEC_APPLI: Décret n°82-775 1982-09-10 ART. 5 : DISPOSITIONS APPLICABLES DANS LE DEPARTEMENT DE SAINT-PIERRE-ET-MIQUELON
+
+	**Anciens textes**:
+
+	  - Loi n°72-1 1972-01-03
+	  - Décret n°73-53 du 9 janvier 1973 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-876 1980-11-04 ART. 1 JORF 8 novembre 1980
+
+	**Cité par**:
+
+	  - Code du travail - art. L611-1 (M)
+	  - Code du travail - art. R124-2 (VT)
+	  - Code du travail - art. R124-6 (Ab)
+
+
 ###### Article R124-2
 
 L'inspecteur du travail et de la main-d'oeuvre, après s'être assuré de la conformité de la déclaration avec les prescriptions
@@ -56200,6 +56255,53 @@ document mentionné à l'alinéa précédent ou l'expiration du délai prévu pa
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R1251-6 (V)
+
+
+###### Article R124-3
+
+Les justifications prévues à l'article L. 124-3 (dernier alinéa) sont fournies par l'entreprise utilisatrice à l'entrepreneur
+de travail temporaire qui doit les transmettre à l'inspecteur du travail dont relève l'établissement utilisateur au plus tard
+neuf jours avant l'expiration de la durée limite de trois mois.
+
+Dans un délai de six jours à compter de la réception des justifications, l'inspecteur du travail est tenu de faire connaître
+à l'entrepreneur de travail temporaire, soit qu'il accepte les justifications produites, soit qu'il les juge mal fondées et
+n'autorise pas la prolongation du contrat de mise à disposition au-delà de trois mois, soit qu'il entend, avant de statuer,
+procéder à une enquête ou à des vérifications.
+
+S'il y a lieu à enquête ou à vérifications, il doit être procédé à ces opérations dans les trois jours ouvrables qui suivent
+l'envoi de la réponse de l'inspecteur du travail.
+
+A défaut d'une décision de l'inspecteur du travail soit dans le délai de six jours prévu au deuxième alinéa du présent
+article, soit à l'expiration du délai de trois jours prévu au troisième alinéa, les justifications transmises par
+l'entreprise utilisatrice sont réputées suffisantes.
+
+Lorsque le salarié intérimaire est mis à la disposition d'une entreprise utilisatrice pour des travaux exécutés hors de
+France, les justifications prévues à l'article L. 124-3 (dernier alinéa) sont fournies par l'entreprise utilisatrice à
+l'entrepreneur de travail temporaire qui doit les transmettre dans les conditions ci-dessus à l'inspecteur du travail dont il
+relève.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-876 1980-11-04 ART. 2 JORF 8 NOVEMBRE 1980
+
+	**Abrogé par**:
+
+	  - Décret n°82-775 1982-09-10 ART. 6 JORF 12 SEPTEMBRE 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L124-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R124-13 (M)
+	  - Code du travail - art. R152-5 (M)
 
 
 ##### Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.
@@ -70755,89 +70857,33 @@ sociale et de l'emploi, pour l'exercice de leurs attributions en matière d'appr
 
 #### TRAVAIL TEMPORAIRE
 
-##### DECLARATIONS ET JUSTIFICATIONS A FOURNIR A L'AUTORITE ADMINISTRATIVE .
-
-###### Article R124-3
-
-Les justifications [*durée du contrat excède trois mois*]
-
-prévues à l'article L. 124-3 (dernier alinéa) sont fournies par l'entreprise utilisatrice à l'entrepreneur de travail
-temporaire qui doit les transmettre à l'inspecteur du travail et de la main-d'oeuvre, au plus tard neuf jours avant
-l'expiration de la durée limite de trois mois.
-
-Dans un délai de six jours à compter de la réception des justifications, l'inspecteur du travail et de la main-d'oeuvre est
-tenu [*obligation*] de faire connaître à l'entrepreneur de travail temporaire soit qu'il accepte les justifications
-produites, soit qu'il les juge mal fondées et n'autorise pas la prolongation du contrat de travail au-delà de trois mois,
-soit qu'il entend, avant de statuer, procéder à une enquête ou à des vérifications.
-
-S'il y a lieu à enquête ou à vérifications, il doit être procédé à ces opérations dans les trois jours ouvrables qui suivent
-l'envoi de la réponse de l'inspecteur du travail et de la main-d'oeuvre.
-
-A défaut d'une décision de l'inspecteur du travail et de la main-d'oeuvre soit dans le délai de six jours prévu au deuxième
-alinéa du présent article, soit à l'expiration du délai de trois jours prévu au troisième alinéa, les justifications
-transmises par l'entreprise de travail temporaire sont réputées suffisantes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03
-	  - Décret n°73-53 du 9 janvier 1973 - art. 3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Modifié par**:
-
-	  - Décret n°80-876 1980-11-04 ART. 2 JORF 8 novembre
-
-	**Cité par**:
-
-	  - Code du travail - art. R124-13 (M)
-	  - Code du travail - art. R152-5 (M)
-
-	**Cite**:
-
-	  - Code du travail L124-3 DERNIER AL.
-
-
 ##### INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .
 
 ###### Article R124-4
 
-Pour l'application des articles L. 124-11 et L. 124-12 l'entrepreneur de travail temporaire doit [*obligation*] fournir aux
-services ci-après désignés dont relèvent son entreprise ou les succursales, agences ou bureaux annexes de celle-ci, les
-éléments d'information suivants :
+Pour l'application des articles L. 124-11 et L. 124-12 [*déclaration administrative*], l'entrepreneur de travail temporaire
+doit, dans les huit premiers jours de chaque mois [*délai point de départ*] adresser à l'inspecteur du travail ainsi qu'à
+l'antenne ou à la section locale de l'Agence nationale pour l'emploi dont relèvent son entreprise ou les succursales, agences
+ou bureaux annexes de celle-ci, un relevé des contrats de mise à disposition conclus avec des utilisateurs ou prolongés au
+cours du mois précédent, comportant [*mentions obligatoires*] :
 
-a) Chaque semaine, à l'antenne ou à la section locale de l'Agence nationale pour l'emploi [*ANPE*] ou, à défaut, au service
-de la main-d'oeuvre, un relevé des contrats conclus avec des salariés et tendant à les mettre à la disposition provisoire
-d'utilisateurs ; ce relevé comporte [*mentions*] pour chaque salarié, l'indication des nom, prénoms, qualification
-professionnelle, sexe, nationalité et dates du début de la mission ;
+Pour l'entreprise utilisatrice, la raison sociale, l'adresse ainsi que l'activité principale exercée ;
 
-b) Dans les huit premiers jours de chaque mois, à l'inspecteur du travail et de la main-d'oeuvre, un relevé des contrats de
-mise à la disposition conclus avec des utilisateurs, au cours du mois précédent, comportant la durée de ces contrats, la
-nature des postes occupés et l'identité des entreprises utilisatrices ;
+Pour chaque salarié intérimaire, l'indication des nom, prénoms, adresse, sexe, âge, nationalité et emploi occupé ainsi que la
+date de début et de la durée de la mission.
 
-c) Avant la fin du premier mois de chaque trimestre [*délai*]
-
-à l'inspecteur du travail et de la main-d'oeuvre, la justification du paiement des charges dont il était redevable au titre
-de la sécurité sociale, pour le trimestre précédent.
+Il doit, en outre, adresser, avant la fin du premier mois de chaque trimestre, à l'inspecteur du travail la justification de
+paiement des charges dont il était redevable au titre de la sécurité sociale pour le trimestre précédent [*document*].
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1 1972-01-03
-	  - Décret n°73-53 du 9 janvier 1973 - art. 4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°80-876 1980-11-04 ART. 3 JORF 8 novembre
+	  - Décret n°80-876 1980-11-04 ART. 3 JORF 8 novembre rectificatif JORF 14 décembre p. 10994
 
 	**Cité par**:
 
@@ -101912,9 +101958,9 @@ formation.
 
 ###### Article D124-1
 
-A défaut de sa détermination par voie de convention collective à la date du 5 janvier 1973, le taux minimum de l'indemnité de
-précarité d'emploi prévue à l'article L. 124-5 susvisé du code du travail est fixé à 4 p. 100 du salaire brut perçu pour
-chaque mission effectivement accomplie par le salarié lié par un contrat de travail temporaire.
+Le taux minimum de l'indemnité de précarité d'emploi prévue à l'article L. 124-5 du code du travail, est porté à 10 p. 100 du
+salaire brut perçu pour chaque mission effectivement accomplie par le salarié lié par un contrat de travail temporaire
+[*montant*].
 
 **Liens relatifs à cet article**
 
@@ -101925,7 +101971,6 @@ chaque mission effectivement accomplie par le salarié lié par un contrat de tr
 	**Anciens textes**:
 
 	  - Code du travail - art. D124-2 (T)
-	  - Code du travail - art. L124-5 (M)
 
 	**Cite**:
 
