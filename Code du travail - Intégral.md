@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-02-26
+Version Consolidée au 1978-03-16
 
 # Partie législative ancienne
 
@@ -34950,31 +34950,33 @@ La même disposition est applicable au cas où une ou plusieurs élections ont �
 	  - Code du travail - art. R515-3 (M)
 
 
+##### SCRUTIN, INSTALLATION DES PRUDHOMMES
+
+##### ELECTIONS COMPLEMENTAIRES.
+
 ###### Article L513-10
 
-Les règles établies par l'article 24 de la loi du 5 avril 1884 sur l'organisation municipale, l'article 1er, alinéas 1, 5 et
-7 et les articles 12, 13 et 14 de la loi du 29 juillet 1913, modifiée par la loi du 31 mars 1914 sur le secret, la liberté et
-la sincérité du vote s'appliquent aux opérations électorales sur les conseils des prudhommes.
+Les règles établies par les articles L. 10, L. 61, L. 87, L. 113, L. 114 et L. 115 du code électoral s'appliquent aux
+opérations électorales pour les conseils de prudhommes.
+
+Les dispositions de l'article L. 86 dudit code sont en outre applicables à toute personne qui aura réclamé et obtenu une
+inscription sur deux ou plusieurs listes électorales.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 32
 
 	**Codifié par**:
 
 	  - Décret n°73-1047 1973-11-15
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail R513-1 A R513-15
-
 	**Cite**:
 
-	  - Loi   1884-04-05 ART. 24
-	  - Loi   1913-07-29 ART. 1 AL. 1, 5, 7, ART. 12, 13, 14
-	  - Loi   1914-03-31
+	  - Code électoral - art. L10 (V)
+	  - Code électoral - art. L113 (M)
+	  - Code électoral - art. L114 (V)
+	  - Code électoral - art. L115 (Ab)
+	  - Code électoral - art. L61 (V)
+	  - Code électoral - art. L86 (M)
+	  - Code électoral - art. L87 (V)
 
 
 #### DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
@@ -50736,48 +50738,6 @@ opère le recensement général des votes et proclame les résultats.
 	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
 
 
-###### Article R513-13
-
-Les règles établies par les articles 13, 18 à 23, 25, 26 ($ 1 et 3) 27 à 29 de la loi du 5 avril 1884 sur l'organisation
-municipale et par l'article 1er (alinéas 2, 3, 4 et 6), les articles 3 à 9 et 17 de la loi du 29 juillet 1913 modifiée et 7
-de la loi du 31 mars 1914, sur le secret, la liberté et la sincérité du vote, s'appliquent aux opérations électorales pour
-les conseils de prudhommes.
-
-Dans les trois jours [*délai*] qui suivent la réception du procès-verbal des élections, le préfet transmet des copies
-certifiées de ce procès-verbal au procureur général et au secrétaire du conseil de prudhommes.
-
-Les protestations contre les élections sont formées, instruites et jugées conformément à l'article 36 du décret du 3 août
-1961.
-
-Avis de l'arrêt est donné au préfet.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. R512-5 (M)
-	  - Code du travail - art. R531-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
-
-	**Cite**:
-
-	  - Décret  1961-08-03 ART. 36
-	  - Loi   1884-04-05 ART. 13, 18 A 23, 25, 26 PAR. 1 ET 3, 27 A 29
-	  - Loi   1913-07-13 ART. 1 AL. 2, 3, 4, 6 ART. 3 A 9, 17
-	  - Loi   1914-03-31 ART. 7
-
-	**Anciens textes**:
-
-	  - Décret n°58-1292 1958-12-22 ART. 32
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ###### Article R513-14
 
 Si une ou plusieurs vacances se produisent dans le conseil par suite d'annulation des premières élections, il est procédé à
@@ -51955,6 +51915,76 @@ attribuées aux témoins appelés à déposer en matière civile.
 
 	  - Code du travail - art. R519-2 (V)
 	  - Code du travail R519-2 (1980)
+
+
+### CONFLITS INDIVIDUELS - CONSEIL DE PRUDHOMMES
+
+#### ELECTION DES PRUDHOMMES
+
+##### SCRUTIN, INSTALLATION DES PRUDHOMMES, ELECTIONS COMPLEMENTAIRES.
+
+###### Article R513-13
+
+Les règles établies par les articles L. 27, L. 36, L. 54, L. 60, L. 62, L. 63, L. 64, L. 65, L. 66, L. 69, L. 257, R. 19, R.
+24, R. 40 premier alinéa, R. 42, R. 44, R. 48, R. 49, R. 52, R. 53, R. 54, R. 56, R. 57, R. 59, R. 61, R. 64, R. 65, R. 67,
+R. 68 et R. 118 du code électoral s'appliquent aux opérations électorales pour les conseils de prudhommes.
+
+Dans les trois jours qui suivent la réception du procès-verbal des élections [*délai point de départ*] le préfet transmet des
+copies certifiées de ce procès-verbal au procureur général et au secrétaire du conseil des prudhommes.
+
+Les protestations contre les élections sont formées, instruites et jugées conformément à l'article 36 du décret du 3 août
+1961.
+
+Avis de l'arrêt est donné au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code électoral - art. L257 (V)
+	  - Code électoral - art. L27 (V)
+	  - Code électoral - art. L36 (V)
+	  - Code électoral - art. L54 (V)
+	  - Code électoral - art. L60 (M)
+	  - Code électoral - art. L62 (V)
+	  - Code électoral - art. L63 (M)
+	  - Code électoral - art. L64 (M)
+	  - Code électoral - art. L65 (M)
+	  - Code électoral - art. L66 (V)
+	  - Code électoral - art. L69 (V)
+	  - Code électoral - art. R*19 (M)
+	  - Code électoral - art. R*24 (M)
+	  - Code électoral - art. R118 (V)
+	  - Code électoral - art. R42 (M)
+	  - Code électoral - art. R44 (M)
+	  - Code électoral - art. R48 (V)
+	  - Code électoral - art. R49 (V)
+	  - Code électoral - art. R52 (M)
+	  - Code électoral - art. R53 (Ab)
+	  - Code électoral - art. R54 (M)
+	  - Code électoral - art. R56 (M)
+	  - Code électoral - art. R57 (V)
+	  - Code électoral - art. R59 (V)
+	  - Code électoral - art. R61 (M)
+	  - Code électoral - art. R64 (V)
+	  - Code électoral - art. R65 (M)
+	  - Code électoral - art. R67 (V)
+	  - Code électoral - art. R68 (V)
+	  - Code électoral R19, R24, R40 AL. 1, R42, R44, R48, R49
+	  - Décret  1961-08-03 ART. 36
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-5 (M)
+	  - Code du travail - art. R531-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
 
 
 ### CONFLITS INDIVIDUELS - CONSEILS DE PRUD OMMES
@@ -76973,18 +77003,19 @@ garanti prévu à l'article L. 141-8.
 
 Les frais d'hébergement supportés par les travailleurs inscrits comme demandeurs d'emploi et admis à suivre un stage [*de
 conversion*] ouvrant droit aux rémunérations prévues par l'article L. 960-3 et dispensé dans un centre de formation qui
-n'assure pas l'hébergement des stagiaires sont remboursés, sur justification, dans la limite journalière de trois fois
-[*montant*] le minimum garanti [*SMIC*] prévu à l'article L. 141-8 lorsque l'éloignement du centre interdit aux intéressés de
-regagner chaque soir leur résidence habituelle.
-
-//DECR.0014 05-01-1977 : Lorsque le centre de formation qui n'assure pas l'hébergement des stagiaires est amené à faire
-l'avance des frais d'hébergement, il est remboursé des sommes versées, dans les limites prévues à l'alinéa précédent.
+n'assure pas l'hébergement à titre gratuit des stagiaires, sont remboursés, sur justification, dans la limite journalière de
+trois fois le minimum garanti prévu à l'article L. 141-8, lorsque l'éloignement du centre interdit aux intéressés de regagner
+chaque soir leur résidence habituelle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
 
 	**Cite**:
 
@@ -76995,10 +77026,6 @@ l'avance des frais d'hébergement, il est remboursé des sommes versées, dans l
 
 	  - Code du travail - art. R322-18-1 (VT)
 	  - Code du travail - art. R322-18-2 (VT)
-
-	**Anciens textes**:
-
-	  - Décret  1970-03-16 ART. 18
 
 
 ### PRIME DE MOBILITE DES JEUNES .
