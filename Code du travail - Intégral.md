@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-05-18
+Version Consolidée au 1977-07-01
 
 # Partie législative ancienne
 
@@ -70604,6 +70604,32 @@ Ces conventions ne peuvent prendre effet avant la date de notification de l'arr�
 
 ## Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
 
+### Titre Ier : Les syndicats professionnels
+
+#### Chapitre Ier : Statut juridique des syndicats.
+
+###### Article R411-1
+
+Le dépôt prévu à l'article L. 411-3 a lieu à la mairie de la localité où le syndicat est établi.
+
+Communication des statuts doit être donnée par le maire, au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code des assurances - art. R322-119-1 (V)
+	  - Code du travail - art. R461-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R461-1 (V)
+
+
 ### Titre III : Les comités d'entreprise
 
 #### Chapitre IV : Fonctionnement.
@@ -81976,36 +82002,6 @@ En cas de pluralité de contraventions entraînant des peines de récidive, l'am
 ## LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
 
 ### LES SYNDICATS PROFESSIONNELS
-
-#### STATUT JURIDIQUE DES SYNDICATS .
-
-###### Article R411-1
-
-Le dépôt prévu à l'article L. 411-3 a lieu à la mairie de la localité où le syndicat est établi et à Paris, à la préfecture
-de Paris.
-
-Communication des statuts doit être donnée par le maire ou le préfet de Paris, au procureur de la République [*formalités
-obligatoires*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code des assurances - art. R322-119-1 (V)
-	  - Code du travail - art. R461-1 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R461-1 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 3
-
 
 #### EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .
 
