@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-01-25
+Version Consolidée au 1980-02-28
 
 # Partie législative ancienne
 
@@ -80970,279 +80970,6 @@ chargé du travail et du ministre chargé du budget.
 	  - Décret  1962-12-29 ART. 151 A 189
 
 
-### AGENCE NATIONALE POUR L'EMPLOI *ANPE* .
-
-###### Article R330-2
-
-Le comité de gestion se réunit à la diligence de son président et au moins une fois par trimestre [*périodicité*].
-
-Les délibérations ne sont valables que si les deux tiers [*quorum*] des membres au moins participent à la séance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R330-3
-
-La commission permanente du comité supérieur de l'emploi prévue à l'article L. 322-2 est le comité consultatif de l'Agence.
-
-Le comité de gestion est saisi des avis et propositions du comité consultatif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L322-2 (M)
-
-
-###### Article R330-4
-
-Le directeur général [*attributions*] reçoit délégation du président du comité de gestion à l'effet de :
-
-- représenter l'Agence en justice et dans tous les actes de la vie civile ;
-
-- ordonnancer les recettes et les dépenses ;
-
-- assurer, sous réserve des dispositions de l'article R. 330-6, la gestion de l'ensemble des services de l'Agence ;
-
-- gérer le personnel de celle-ci ;
-
-- //DECR.1048 07-09-1977 : prendre les décisions en matière d'attribution, de liquidation et de paiement des bons de
-transport gratuit et des indemnités pour recherche d'emploi prévus aux articles R. 322-15 et R. 322-16 du présent code// .
-
-Le directeur général de l'agence peut lui-même déléguer sa signature aux chefs des centres régionaux et des sections locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-578 1967-07-13 ART. 5
-	  - Décret n°67-1014 1967-11-21 ART. 4
-	  - Décret n°72-445 1972-05-15 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. R322-15 (M)
-	  - Code du travail - art. R322-16 (M)
-	  - Code du travail - art. R330-6 (M)
-
-
-###### Article R330-5
-
-Les centres régionaux et les sections locales de l'Agence sont dirigés, sous l'autorité des directeurs régionaux et
-départementaux du travail et de la main-d'oeuvre par des chefs de centre et des chefs de section.
-
-Les chefs de centre et de section assurent dans leur circonscription les missions dévolues à l'Agence.
-
-Les directeurs régionaux du travail et de la main-d'oeuvre coordonnent en outre les actions interdépartementales des centres
-et sections de l'agence et proposent aux préfets de régions les programmes annuels et pluriannuels d'investissements des
-centres régionaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R312-2 (M)
-
-
-###### Article R330-6
-
-Les directeurs régionaux font rapport aux comités régionaux de la formation professionnelle, de la promotion sociale et de
-l'emploi institués par l'article 3 de la loi n. 66-892 du 3 décembre 1966 sur l'activité des centres régionaux de l'Agence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-892 du 3 décembre 1966 - art. 3, v. init.
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R330-4 (M)
-	  - Code du travail - art. R330-8 (Ab)
-
-
-###### Article R330-7
-
-Le budget de l'agence est préparé par le directeur général de l'agence. Il est présenté par chapitre conformément à la
-nomenclature du plan comptable de l'Agence.
-
-Un même chapitre ne doit comprendre que des dépenses ou des recettes de même nature.
-
-Les décisions relatives aux matières énumérées ci-après ne sont exécutoires qu'après approbation [*préalable*] par le
-ministre chargé de l'économie et des finances et par le ministre chargé du travail :
-
-- budget et décisions modificatives ;
-
-- emprunts ;
-
-- compte financier ;
-
-- acquisition et aliénations immobilières ;
-
-- prises, cessions et extensions de participation financières.
-
-Dans le cas où le budget n'a pas été approuvé par l'autorité de tutelle avant le début de l'année [*date limite*], les
-opérations de recettes et de dépenses sont effectuées sur la base du budget de l'exercice précédent. Toutefois, après accord
-du contrôleur d'Etat, ces opérations peuvent être effectuées dans la limite du projet non encore approuvé si elles résultent
-de l'application de mesures arrêtées pour le budget de l'Etat au titre des subventions allouées à l'Agence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 7
-	  - Décret n°72-445 1972-05-15 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R330-8
-
-Sous réserve des dispositions du présent titre, le fonctionnement financier et comptable de l'Agence est assuré dans les
-conditions fixées par les articles 154 à 160, 162 à 166, 169 à 189, 198, 205 et 206 du décret n. 62-1587 du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
-
-//DECR.1048 07-09-1977 : Les modalités de la mise à disposition et de l'utilisation des crédits du fonds national de l'emploi
-destinés à assurer le paiement des aides à la mobilité propres aux articles R. 322-15 et R. 322-16 sont fixées par un arrêté
-conjoint du ministre du travail et du ministre chargé des finances//.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 1962-12-29 ART. 154 A 160, 162 A 166, 169 A 189
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 198 (M)
-	  - Code du travail - art. R322-15 (M)
-	  - Code du travail - art. R322-16 (M)
-	  - Code du travail R330-1 A R330-12
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R312-2 (Ab)
-
-
-###### Article R330-9
-
-Les marchés conclus par l'Agence sont passés dans les formes et conditions prescrites pour les marchés de l'Etat.
-
-Il est institué une commission consultative des marchés, commune à l'agence et à l'association nationale pour la formation
-professionnelle des adultes. Sa composition est fixée par un arrêté conjoint du ministre chargé de l'économie et des finances
-et du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. R200-22 (Ab)
-
-
-###### Article R330-10
-
-L'agent comptable est nommé par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du
-travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R330-11
-
-Des règles de recettes et de dépenses peuvent être créées par arrêté conjoint du ministre chargé de l'économie et des
-finances et du ministre chargé du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R330-12
-
-L'agence est soumise au contrôle économique et financier défini par le décret n. 55-733 du 26 mai 1955 relatif au contrôle
-économique et financier de l'Etat. En tant que de besoin, un arrêté du ministre chargé de l'économie et des finances fixe les
-modalités spéciales d'exercice du contrôle sur l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-733 1955-05-26
-
-	**Anciens textes**:
-
-	  - Décret n°67-1014 1967-11-21 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
 ### MAIN-DOEUVRE ETRANGERES
 
 #### TRAVAILLEURS ETRANGERS .
@@ -94176,6 +93903,194 @@ travail, de l'intérieur et de l'agriculture.
 	**Cité par**:
 
 	  - Code du travail - art. R883-1 (VT)
+
+
+#### Chapitre III : Garantie de ressources des travailleurs sans emploi.
+
+###### Article R833-1
+
+Les dispositions en vigueur en métropole pour l'indemnisation du chômage peuvent s'appliquer dans les départements d'outre-
+mer aux travailleurs privés d'emploi, y compris les salariés agricoles et les gens de maison et les personnes à la recherche
+d'un premier emploi.
+
+Les prestations dont ils peuvent bénéficier sont constituées par l'allocation de base, l'allocation spéciale, la garantie de
+ressources et l'allocation forfaitaire.
+
+Le financement de ces allocations est assuré dans les conditions du droit commun, c'est-à-dire par :
+
+- une contribution des employeurs et des salariés ;
+
+- une participation de l'Etat globale et forfaitaire au régime mis en place pour chaque département, égale à 26 p. 100 des
+dépenses, constatées sur une année [*montant*].
+
+Toutefois, en cas d'accroissement des dépenses dû à l'augmentation du nombre des allocataires, la participation de l'Etat au
+financement des dépenses supplémentaires est portée à un tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. R833-4 (VT)
+	  - Code du travail - art. R833-7 (VT)
+
+
+###### Article R833-2
+
+Dans chaque département la mise en place du régime d'assurance chômage est assurée par un accord conclu, au plan national, à
+l'initiative des représentants locaux et nationaux des employeurs et des salariés.
+
+Un règlement annexé à l'accord détermine pour chaque régime départemental les prestations susceptibles d'être servies compte
+tenu de la situation économique et sociale locale. Il fixe les conditions d'ouverture des droits auxdites prestations, les
+taux et les durées d'indemnisation.
+
+Chaque régime fixe le taux des contributions correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°76-555 du 25 juin 1976 - art. 4-2 (Ab)
+	  - Décret n°78-957 du 5 septembre 1978 - art. 10 (Ab)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 18 (V)
+	  - Code de la sécurité sociale. - art. R755-10 (M)
+	  - Code du travail - art. R833-5 (VT)
+	  - Code du travail - art. R833-6 (VT)
+	  - Code du travail - art. R833-7 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R833-5 (V)
+
+
+###### Article R833-3
+
+La gestion des régimes d'assurance est confiée aux institutions résultant de la convention du 31 décembre 1958. Celles-ci
+recouvrent les contributions et paient les prestations retenus par chaque régime départemental.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+
+###### Article R833-4
+
+Une convention entre l'Etat et l'UNEDIC précisera le montant et les conditions de versement de la subvention de l'Etat prévue
+à l'article R. 833-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R833-1
+
+
+###### Article R833-5
+
+A défaut des accords prévus à l'article R. 833-2 ci-dessus, le Gouvernement prendra par voie réglementaire des mesures
+adaptées à la situation économique et sociale de chaque département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R833-2 (V)
+
+
+###### Article R833-6
+
+Un avenant à l'accord visé à l'article L. 351-9 et les accords prévus à l'article R. 833-2 ci-dessus, peuvent prévoir le
+transfert des droits de la métropole dans les départements d'outre-mer ainsi que de ces départements dans la métropole ou
+d'un département d'outre-mer à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+
+###### Article R833-7
+
+Les articles L. 351-1, L. 351-3, L. 351-4, L. 351-7, L. 351-8, L. 351-10, L. 351-14, L. 351-15, L. 351-17, L. 351-18, L.
+351-20, L. 351-21, L. 352-1 à L. 352-5, L. 365-1, L. 365-2, L. 773-2 (quatrième alinéa), R. 351-1 à R. 351-15 et R. 365-1
+sont applicables dans les départements d'outre-mer, sous réserve des modifications suivantes :
+
+- à l'article L. 351-3, au lieu de : "de la convention sus-indiquée", lire : "d'un accord visé à l'article R. 833-2" ;
+
+- à l'article L. 351-7, supprimer : "visés au cinquième alinéa de l'article L. 351-5" ;
+
+- à l'article L. 351-10, au lieu de : "articles L. 351-5 et L. 351-6", lire : "des accords prévus à l'article R. 833-2" ;
+
+- à l'article L. 351-17, au lieu de : "Champ d'application territorial de la section I du présent chapitre", lire "Champ
+d'application territorial de l'article R. 833-1" ; au même alinéa du même article les mots : "définies à la section I du
+présent chapitre", sont remplacés par les mots : "définies en application de l'article R. 833-2" ; au second alinéa du même
+article, au lieu de :
+
+"sous le régime de l'article L. 351-2", lire : "sous les régimes prévus à l'article R. 833-2" ;
+
+- à l'article L. 351-18, au lieu de : "du régime", lire : "d'un ou des régimes" ;
+
+- à l'article L. 351-21, au lieu de : "L. 351-5 et L. 351-6", lire : "R. 833-1 et R. 833-2"; au lieu de : "et L. 351-6",
+lire : "et fixées par le règlement visé à l'article R. 833-2" ;
+
+- à l'article L. 352-3, au lieu de : "L. 351-5 et L. 351-6", lire : "R. 833-1 et R. 833-2" ; au lieu de : "L. 351-12", lire :
+
+"R. 833-1" ;
+
+- à l'article L. 365-2, au lieu de : "L. 351-12", lire :
+
+"R. 833-1" ;
+
+- à l'article R. 351-2, supprimer : "prévue à l'article L. 351-5" ;
+
+- à l'article R. 351-13, au lieu de : "L. 351-2 et L. 351-9", lire : "R. 833-2" ;
+
+- à l'article R. 351-14, au lieu de : "par la présente section", lire "par les articles R. 833-1 et R. 833-2" ;
+
+- à l'article R. 351-15, au lieu de : "L. 351-9", lire :
+
+"R. 833-2" ; au lieu de : "par les institutions mentionnées à l'article L. 351-2", lire : "par les accords visés à l'article
+R. 833-2" ;
+
+- à l'article R. 365-1, supprimer : "et du dernier alinéa de l'article R. 351-21" ; au lieu de : "L. 351-12", lire :
+
+"R. 833-1".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
 
 
 ### Titre VIII : Pénalités
