@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-08-12
+Version Consolidée au 1976-08-12 00:00:01 +0200
 
 # Partie législative ancienne
 
@@ -94854,18 +94854,25 @@ conclu en ce domaine entre des organisations professionnelles et syndicales les 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 	  - TXT_ASSOCIE: Code du travail - art. D212-10 (V)
 	  - TXT_ASSOCIE: Code du travail - art. D212-11 (V)
 	  - TXT_ASSOCIE: Code du travail - art. D212-12 (T)
 	  - TXT_ASSOCIE: Code du travail - art. D212-6 (V)
 	  - TXT_ASSOCIE: Code du travail - art. D212-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3121-7 (V)
 
 	**Cité par**:
 
@@ -94879,18 +94886,9 @@ Le repos compensateur prévu à l'article L. 212-5-1 doit être pris en dehors d
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-	  - TXT_ASSOCIE: Code du travail - art. D212-10 (M)
-	  - TXT_ASSOCIE: Code du travail - art. D212-12 (T)
-	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
-	  - TXT_ASSOCIE: Code du travail - art. D212-9 (V)
-	  - TXT_ASSOCIE: Code du travail - art. L212-5-1 (M)
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -94898,6 +94896,18 @@ Le repos compensateur prévu à l'article L. 212-5-1 doit être pris en dehors d
 	  - Code du travail - art. D212-11 (VT)
 	  - Code du travail - art. D212-12 (T)
 	  - Code du travail - art. D212-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3121-9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-5-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L212-5-1 (M)
 
 
 ###### Article D212-7
@@ -94915,14 +94925,17 @@ l'article D. 212-9 ci-après.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-	  - TXT_ASSOCIE: Code du travail - art. D212-5 (V)
+	  - Code du travail - art. D212-9
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3121-11 (V)
 
 
 ###### Article D212-8
