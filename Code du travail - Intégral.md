@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-08-12
+Version Consolidée au 1977-08-26
 
 # Partie législative ancienne
 
@@ -61089,6 +61089,94 @@ d'hygiène et de sécurité et de participation des chefs d'établissements aux 
 	  - Code du travail R231-1 à R231-10
 
 
+##### Section 2 : Mises en demeure de l'inspection du travail.
+
+###### Article R231-12
+
+La mise en demeure prévue à l'article L. 231-5 est notifiée au chef d'établissement par l'inspecteur du travail qui la
+transcrit sur le registre prévu à l'article L. 620-3.
+
+Son délai d'exécution ne peut être inférieur [*limite*] à quatre jours ouvrables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_SOURCE: Arrêté du 29 juin 1992
+	  - TXT_SOURCE: Arrêté du 29 juin 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 juin 1992 - art. 3 (V)
+
+	**Transféré par**:
+
+	  - Décret n°92-571 du 29 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+	**Cité par**:
+
+	  - Arrêté du 29 juin 1992 - art. 1 (V)
+	  - Code du travail - art. R231-12-4 (VT)
+	  - Code du travail - art. R263-2 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-5 (Ab)
+	  - Code du travail - art. L620-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-13 (M)
+	  - Code du travail - art. R231-13 (T)
+
+
+###### Article R231-13
+
+La réclamation du chef d'établissement contre une mise en demeure notifiée en application des articles L. 231-4 et L. 231-5
+est faite par lettre recommandée avec demande d'avis de réception ; la date de présentation de la lettre recommandée
+constitue le point de départ du délai défini à l'alinéa ci-après.
+
+Le directeur régional du travail et de la main-d'oeuvre ou le fonctionnaire de contrôle assimilé prévu à l'article L. 611-1
+(3. alinéa) statue dans le délai de vingt et un jours ; si les nécessités de l'instruction de la réclamation l'exigent, ce
+délai peut être prolongé d'une nouvelle période de vingt et un jours ; il en est alors donné avis au chef d'établissement par
+lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Transféré par**:
+
+	  - Décret n°92-571 du 29 juin 1992 - art. 1 () JORF 1er juillet 1992
+
+	**Cite**:
+
+	  - Code du travail - art. L231-4 (M)
+	  - Code du travail - art. L231-5 (Ab)
+	  - Code du travail - art. L611-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. R231-12 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R231-13-1 (M)
+	  - Code du travail - art. R231-13-1 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. R263-2 (VT)
+
+
 #### Chapitre III : Sécurité
 
 ##### Section 1 : Objets pesants.
@@ -65764,6 +65852,36 @@ F (1).
 	  - Code du travail L234-1 à L234-5, R232-30
 
 
+###### Article R263-2
+
+Le chef d'établissement sera puni d'une amende de 3.000 F à 6.000 F [*1*] [*montant*] lorsque, à l'expiration du délai prévu
+à l'article R. 231-12, il n'aura pas été satisfait à la mise en demeure.
+
+L'amende est appliquée autant de fois qu'il y a de salariés directement exposés à la situation dangereuse visée par la mise
+en demeure.
+
+En cas de récidive, il pourra être prononcé une peine d'emprisonnement d'une durée de un mois à deux mois [*durée*] et une
+amende de 6.000 F à 12.000 F [*1*] ou une de ces deux peines seulement.
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R231-12 (M)
+
+
 #### Chapitre IV : Médecine du travail
 
 ###### Article R264-1
@@ -70309,50 +70427,6 @@ est prise par le directeur régional du travail et de la main-d'oeuvre [*autorit
 
 
 ### HYGIENE ET SECURITE
-
-###### Article R231-12
-
-La réclamation mentionnée à l'article L. 231-5 est soumise, après enquête, soit à la commission d'hygiène industrielle ou à
-la commission de sécurité du travail [*compétence*] soit, en cas d'urgence constatée par le ministre chargé du travail, à un
-groupe restreint de l'une ou de l'autre de ces commissions.
-
-Lorsque l'exécution de la mise en demeure implique des transformations importantes portant notamment sur le gros oeuvre de
-l'établissement, le ministre accorde au réclamant le délai qui aura été reconnu nécessaire et suffisant par la commission
-d'hygiène industrielle, la commission de sécurité du travail ou, le cas échéant, par le groupe restreint susvisé. La durée de
-ce délai ne dépassera jamais dix-huit mois [*limite*] .
-
-Notification de la décision est faite au chef d'établissement dans la forme administrative ; avis en est donné à l'inspecteur
-[*modalité*] .
-
-La composition de chaque groupe restreint est fixée par le ministre chargé du travail sur proposition de la commission dont
-il relève.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 29 juin 1992
-	  - TXT_SOURCE: Arrêté du 29 juin 1992 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 29 juin 1992 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 29 juin 1992 - art. 1 (V)
-	  - Code du travail - art. R231-12-4 (VT)
-	  - Code du travail - art. R263-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R231-13 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. R231-5 (M)
-
 
 #### COMITES D'HYGIENE ET DE SECURITE .
 
