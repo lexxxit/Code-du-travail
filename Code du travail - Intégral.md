@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-30 00:00:01 +0100
+Version Consolidée au 1981-02-01
 
 # Partie législative ancienne
 
@@ -64090,6 +64090,51 @@ place des organes mécaniques à l'arrêt.
 	  - Code du travail - art. R233-5 (M)
 
 
+###### Article R233-5
+
+A l'exclusion des presses mobiles à usage spécifiquement agricole, chaque machine [*presse à mouvement alternatif de tous
+systèmes*] mentionnée à l'article R. 233-4 fait l'objet de visites générales périodiques trimestrielles [*contrôle*] afin que
+soit décelée en temps utile, de façon qu'il puisse y être porté remède, toute défectuosité susceptible d'occasionner un
+accident.
+
+Toutefois la périodicité des visites peut être réduite jusqu'à un mois, sur mise en demeure de l'inspecteur du travail.
+
+Les visites sont effectuées par un personnel spécialement désigné par le chef d'établissement et sous la responsabilité de
+celui-ci.
+
+Le résultat des visites est consigné sur un registre de sécurité ouvert par le chef d'établissement et tenu constamment à la
+disposition de l'inspecteur du travail et du comité de sécurité de l'établissement, s'il en existe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1913-07-10 ART. 12 a AL. 3, 4, 5 ET 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+
+	**Modifié par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 3 () JORF 1er novembre date d'entrée en vigueur 1er février 1981
+
+	**Cité par**:
+
+	  - Décret n°95-607 du 6 mai 1995 - art. Annexe (M)
+	  - Arrêté du 22 décembre 2000 - art. Annexe (V)
+	  - Code du travail - art. R233-47 (M)
+	  - Code du travail - art. R233-48 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R233-4 (M)
+
+
 ###### Article R233-6
 
 Autant que possible aucun ouvrier ne doit être habituellement occupé à un travail quelconque dans le plan de rotation ou aux
@@ -66708,6 +66753,22 @@ En cas de froid, des moyens de chauffage suffisants sont aménagés pour les emp
 	  - Code du travail - art. R234-4-1 (VT)
 
 
+###### Article R234-4-1
+
+Les dispositions de l'article R. 234-4 [*interdiction d'emploi*] s'appliquent à tous les stands de vente des établissements
+agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 4 () JORF 1er novembre 1980 en vigueur le 1er février 1981
+
+
 ##### Section 2 : Limitation des charges.
 
 ###### Article R234-5
@@ -66954,6 +67015,23 @@ Au travail d'alimentation en marche des scies, machines à cylindres, broyeurs, 
 	  - Code du travail - art. D4153-21 (V)
 
 
+###### Article R234-12-1
+
+Les jeunes travailleurs de moins de dix-huit ans ne peuvent être employés à la conduite de tracteurs agricoles ou forestiers
+non munis de dispositifs de protection contre le renversement ainsi que des moissonneuses-batteuses et autres machines à
+usage agricole comportant des fonctions ou mouvements multiples [*interdiction d'emploi*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 5 () JORF 1ER novembre date d'entrée en vigueur 1ER février 1981
+
+
 ###### Article R234-13
 
 Les jeunes travailleurs de moins de seize ans [*âge*] ne peuvent être employés à tourner des roues verticales, des treuils ou
@@ -66972,6 +67050,24 @@ l'opérateur.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. D4153-20 (V)
+
+
+###### Article R234-13-1
+
+Dans les établissements et exploitations agricoles, il est interdit d'admettre les jeunes travailleurs de moins de seize ans
+à la conduite de tondeuses et d'engins automoteurs à essieu unique. Dans ces mêmes établissements, les jeunes travailleurs de
+moins de seize ans ne peuvent être occupés aux travaux dans les puits, conduites de gaz, canaux de fumée, cuves, réservoirs,
+citernes, fosses et galeries. Les travaux d'élagage et d'éhoupage sont interdits aux jeunes de moins de seize ans [*âge*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 6 () JORF 1ER novembre date d'entrée en vigueur 1ER février 1981
 
 
 ###### Article R234-14
@@ -67343,6 +67439,57 @@ Soude caustique : fabrication et manipulation.
 	**Cité par**:
 
 	  - Code du travail - art. R234-22 (VT)
+
+
+###### Article R234-22
+
+Les jeunes travailleurs de moins de dix-huit ans [*âge*], apprentis munis d'un contrat d'apprentissage, ainsi que les élèves
+fréquentant les établissements d'enseignement technique y compris les établissements d'enseignement technique agricole,
+publics ou privés peuvent être autorisés à utiliser au cours de leur formation professionnelle les machines ou appareils dont
+l'usage est proscrit par les articles précédents. Ces autorisations sont accordées par l'inspecteur du travail, après avis
+favorable du médecin du travail ou du médecin chargé de la surveillance des élèves ; en outre, une autorisation du professeur
+ou du moniteur d'atelier est requise pour chaque emploi.
+
+Des mesures doivent être prises pour assurer l'efficacité du contrôle exercé par le professeur ou le moniteur d'atelier.
+
+Les dérogations individuelles accordées en vertu du premier alinéa du présent article sont renouvelables chaque année. Elles
+sont révocables à tout moment si les conditions qui les ont fait accorder cessent d'être remplies.
+
+Il peut être dérogé dans les mêmes formes et conditions aux interdictions édictées par les articles R. 234-20, R. 234-21.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 9 1976-10-19
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+	  - TXT_SOURCE: Code du travail - art. R117-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 8 () JORF 1er novembre 1980 date d'entrée en vigueur 1er février 1981
+
+	**Cité par**:
+
+	  - Décret n°82-397 du 11 mai 1982 - art. 5-1 (Ab)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 3 (Ab)
+	  - Décret n°87-361 du 27 mai 1987 - art. 12 (V)
+	  - Arrêté du 15 mars 1999 - art. ANNEXE (Ab)
+	  - Décret n°2003-812 du 26 août 2003 - art. 15 (Ab)
+	  - Arrêté du 2 mars 2004 - art. ANNEXE (V)
+	  - Arrêté du 30 juillet 1974 - art. Annexe art. 24 (Ab)
+	  - Code de l'éducation - art. D331-15 (M)
+	  - Code du travail - art. R117-9 (VT)
+	  - Code du travail - art. R231-77 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R234-20 (V)
+	  - Code du travail - art. R234-21 (V)
 
 
 ###### Article R234-23
@@ -68943,6 +69090,188 @@ Un mois pour les mises en demeure fondées sur les dispositions des articles R. 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+
+
+##### SECTION 7 : DISPOSITIONS PARTICULIERES AUX ETABLISSEMENTS AGRICOLES.
+
+###### Article R232-46
+
+Pour l'application aux établissements agricoles de la section I ci-dessus, ne sont pas considérés comme locaux fermés
+affectés au travail [*définition*], au sens de cette section, les serres, caves, champignonnières et tous les locaux fermés
+dans lesquels sont mises en oeuvre des techniques de production agricole incompatibles avec l'application de ces
+dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+	  - Décret n°92-333 du 31 mars 1992 - art. 6 (V)
+	  - Code du travail - art. R232-47 (T)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 9 : DIFFERE LA DATE D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 2 () JORF 1ER NOVEMBRE date d'entrée en vigueur 1ER FEVRIER 1981
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R232-12 (T)
+
+	**Cite**:
+
+	  - Code du travail R232-1 A R232-15
+
+
+###### Article R232-48
+
+Lorsque les travailleurs sont exposés aux intempéries en raison des conditions d'exécution du travail, l'employeur
+[*obligation*] est tenu de mettre à leur disposition des moyens de protection individuelle, dont les caractéristiques
+techniques sont, en tant que de besoin, fixées par des arrêtés du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 9 : DIFFERE LA DATE D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 2 () JORF 1ER novembre 1980 Date d'entrée en vigueur 1ER février 1981
+
+	**Transféré par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 4 () JORF 3 octobre 1987
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R232-12-4 (T)
+
+
+###### Article R232-49
+
+Les dispositions des articles R. 232-23 à 25 ne sont applicables qu'au cas où le travail est effectué dans les locaux de
+l'exploitation, de l'entreprise ou de l'établissement agricole ou à proximité de ceux-ci et, si ce n'est pas le cas, lorsque
+les salariés y prennent et finissent leur travail de façon habituelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 9 : DIFFERE LA DATE D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 2 () JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 19810
+
+	**Transféré par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 4 () JORF 3 octobre 1987
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R232-12-5 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. R232-23 (Ab)
+	  - Code du travail - art. R232-24 (Ab)
+	  - Code du travail - art. R232-25 (Ab)
+
+
+###### Article R232-50
+
+Pour l'application de l'article R. 232-27, le chef du service départemental du travail et de la protection sociale agricoles
+peut également tenir compte des impossibilités techniques liées à la nature ou à la situation de l'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 9 : DIFFERE LA DATE D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 2 () JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 1981
+
+	**Transféré par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 4 () JORF 3 octobre 1987
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R232-12-6 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. R232-27 (Ab)
+
+
+###### Article R232-51
+
+Les dispositions de l'article R. 232-28 ne sont applicables qu'au cas où le travail est effectué dans les locaux de
+l'exploitation, de l'entreprise ou de l'établissement agricole, ou à proximité de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°77-1321 du 29 novembre 1977 - art. 16 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 ART. 9 : DIFFERE LA DATE D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 2 () JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 1981
+
+	**Transféré par**:
+
+	  - Décret n°87-809 du 1 octobre 1987 - art. 4 () JORF 3 octobre 1987
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R232-12-7 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. R232-28 (Ab)
 
 
 #### Chapitre II : HYGIENE SECTION 4 : SIEGES.
