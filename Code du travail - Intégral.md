@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-29
+Version Consolidée au 1979-03-22
 
 # Partie législative ancienne
 
@@ -63778,6 +63778,58 @@ ceux-ci par l'intéressé. Cette attestation est remise à l'employeur au moment
 
 ##### Section 1 : Comités d'hygiène et de sécurité.
 
+###### Article R231-1
+
+Un comité d'hygiène et de sécurité est constitué obligatoirement dans les établissements mentionnés à l'article L. 231-1,
+lorsque ces établissements appartiennent à l'une des catégories suivantes :
+
+a) Etablissements industriels occupant habituellement au moins 50 salariés [*effectif*] ;
+
+b) Exploitations et établissements agricoles occupant habituellement au moins 50 salariés et définis à l'article 1144 du code
+rural (1er, 2°, 3°, 5°, 9° et 10° ainsi que, parmi les établissements figurant à l'article 1144-7) les coopératives
+agricoles, les sociétés d'intérêt collectif agricoles et les sociétés agricoles diverses occupant habituellement au moins 50
+salariés ;
+
+c) Autres établissements occupant habituellement au moins 100 salariés.
+
+Sur proposition de l'inspecteur du travail, le directeur départemental du travail et de la main-d'oeuvre peut imposer la
+création d'un comité d'hygiène et de sécurité dans les entreprises ou établissements occupant des effectifs inférieurs aux
+nombres ci-dessus, lorsque cette mesure est nécessaire, notamment en raison de la nature des travaux de l'agencement ou de
+l'équipement des locaux.
+
+La décision du directeur départemental est assortie d'un délai d'exécution qui ne peut être inférieur à quinze jours.
+
+Dans les établissements où sont institués des comités d'entreprise ou des comités d'établissement, chaque comité d'hygiène et
+de sécurité fonctionne comme commission spécialisée du comité d'entreprise ou du comité d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1144, 1144-7
+	  - Code du travail - art. L231-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 :abroge l'article r231-1 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-56-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R232-1-14 (M)
+
+
 ###### Article R231-2
 
 Dans les établissements industriels occupant habituellement plus de 1.500 salariés [*effectif*] le comité d'entreprise ou le
@@ -63807,6 +63859,354 @@ l'inspecteur du travail.
 	**Abrogé par**:
 
 	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+
+###### Article R231-3
+
+Chaque comité ou section comprend :
+
+a) Le chef d'établissement ou son représentant, président ;
+
+b) Le ou les médecins du travail assurant la surveillance médicale du personnel de l'établissement dans lequel un comité ou
+une section est constitué ;
+
+c) Le conseiller du travail ainsi que le responsable de la formation s'ils existent dans l'établissement ;
+
+d) Un agent désigné par le chef d'établissement, assurant le secrétariat du comité ou de la section. Cet agent est, s'il
+existe, le chef du service de sécurité du travail ou l'agent chargé de la sécurité du travail ;
+
+e) Des représentants du personnel à raison de :
+
+Trois [*nombre*] représentants, dont un du personnel de maîtrise ou des cadres dans les établissements ou parties
+d'établissement occupant 500 salariés au plus [*effectif*].
+
+Six représentants, dont deux du personnel de maîtrise ou des cadres, dans les établissements ou parties d'établissement
+occupant de 501 à 1 500 salariés ;
+
+Neuf représentants, dont trois du personnel de maîtrise ou des cadres, dans les établissements ou parties d'établissement
+occupant plus de 1 500 salariés.
+
+L'inspecteur du travail peut autoriser des dérogations à la proportion entre les représentants du personnel de maîtrise ou
+des cadres et ceux des autres catégories de personnel.
+
+En outre, tout comité ou toute section peut faire appel, à titre consultatif, au concours de toute personne qui lui
+paraîtrait qualifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 :abroge l'article r231-3 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+
+###### Article R231-4
+
+Les représentants du personnel au comité d'hygiène et de sécurité ou à la section sont désignés par un collège constitué par
+les membres élus du comité d'entreprise ou du comité d'établissement et les délégués du personnel. Ils sont choisis en raison
+de leurs connaissances et de leurs aptitudes en matière d'hygiène et de sécurité du travail. S'il n'existe pas de comité
+d'entreprise ou de comité d'établissement, les représentants du personnel au comité d'hygiène et de sécurité sont élus dans
+les mêmes conditions que les représentants du personnel au comité d'entreprise. 
+
+Les membres des comités d'hygiène et de sécurité ou de leurs sections sont désignés pour une durée de deux ans. Leur mandat
+est renouvelable. Si pendant la durée normale de son mandat un membre cesse ses fonctions, il est remplacé dans le délai d'un
+mois, pour la période de mandat restant à courir, selon la procédure définie à l'alinéa précédent. 
+
+La liste nominative des membres de chaque comité d'hygiène et de sécurité ou section doit être affichée dans les locaux
+affectés au travail. Elle doit comporter, en outre, les indications relatives à l'emplacement de travail habituel des membres
+du comité ou de la section    .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 :abroge l'article r231-4 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+
+###### Article R231-5
+
+Les missions incombant à chaque comité d'hygiène et de sécurité ou à chaque section sont les suivantes :
+
+1° Le comité ou la section procède à l'analyse des risques professionnels auxquels sont exposés les salariés de
+l'établissement.    A cette fin, le chef d'établissement présente, chaque année, au comité ou à la section un rapport sur
+l'évolution des risques professionnels au cours des trois dernières années.
+
+Un arrêté du ministre chargé du travail fixe les informations qui devront figurer audit rapport.
+
+2° Le comité ou la section procède ou fait procéder à une enquête à l'occasion de chaque accident grave ou de chaque maladie
+professionnelle ou à caractère professionnelle grave, c'est-à-dire ayant entraîné mort d'homme ou paraissant devoir entraîner
+une incapacité permanente ou ayant révélé l'existence d'un danger grave, même si les conséquences ont pu en être évitées.
+
+Il en est de même en cas d'accident ou de maladie professionnelle ou à caractère professionnel et non visé à l'alinéa
+précédent mais présentant un caractère répété à un même poste de travail ou à des postes de travail similaires ou dans une
+même fonction ou des fonctions similaires.
+
+Chaque enquête est conduite par deux membres du comité, l'un représentant le chef d'établissement, l'autre représentant le
+personnel, qui peuvent être assistés par d'autres membres du comité ou de la section.
+
+Il est procédé lors de cette enquête à l'analyse des risques professionnels en vue de proposer toutes mesures propres à
+satisfaire aux dispositions des articles L. 232-1 et L. 233-1 et des règlements pris pour leur application et, le cas
+échéant, des formations à la sécurité appropriées répondant aux dispositions des articles R. 231-35, R. 231-36 et R. 231-37
+au bénéfice des salariés concernés.
+
+Le comité ou la section doit se prononcer sur les conclusions des enquêtes et sur les suites qui leur auront été données.
+
+3° Le comité ou la section procède à l'inspection de l'établissement en vue de s'assurer [*contrôle*] :
+
+De l'application des prescriptions législatives et réglementaires et des consignes concernant l'hygiène et la sécurité et
+notamment du respect des prescriptions réglementaires pour les vérifications des machines, installations et appareils qui
+doivent faire l'objet de vérifications périodiques ;
+
+Du bon entretien et du bon usage des dispositifs de protection.
+
+La fréquence des inspections doit être au moins égale à celle des réunions ordinaires du comité ou de la section.
+
+4° Le comité ou la section suscite toutes initiatives portant notamment sur les méthodes et procédés de travail les plus
+sûrs, le choix et l'adaptation du matériel, de l'appareillage et de l'outillage nécessaire aux travaux exécutés,
+l'aménagement des postes de travail.
+
+5° Le comité ou la section développe par tous moyens efficaces le sens du risque professionnel et l'esprit de sécurité ; il
+est consulté, préalablement à leur mise en oeuvre sur les programmes de formation à la sécurité et leurs modifications,
+établis en application des articles R. 231-35, R. 231-36 et R. 231-37 ; à cet effet, il examine, en temps utile, des
+documents précisant, pour chaque action de formation, sa durée et les moyens prévus pour la réaliser. Le comité veille à leur
+mise en oeuvre effective.
+
+6° Le comité ou la section veille à ce que toutes les mesures utiles soient prises pour assurer l'instruction et le
+perfectionnement du personnel dans les domaines de l'hygiène et de la sécurité.
+
+7° Le comité ou la section s'assure de l'organisation et de l'instruction des équipes chargées des services d'incendie et de
+sauvetage et veille à l'observation des consignes de ces services.
+
+Chaque comité ou section est consulté sur la teneur de tous les documents se rattachant à sa mission, notamment les
+règlements et consignes d'hygiène et de sécurité. Ces documents sont également communiqués à l'inspecteur du travail qui doit
+exiger le retrait ou la modification des clauses non compatibles avec les dispositions législatives et réglementaires
+relatives à l'hygiène et à la sécurité du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 : abroge l'article r231-5 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 1980 - art. 2 (Ab)
+	  - Arrêté du 25 janvier 1980 - art. Annexe I (Ab)
+	  - Code du travail - art. R231-12 (M)
+	  - Code du travail - art. R231-8 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L232-1 (AbD)
+	  - Code du travail - art. L233-1 (M)
+	  - Code du travail - art. R231-35 (V)
+	  - Code du travail - art. R231-36 (V)
+	  - Code du travail - art. R231-37 (V)
+
+
+###### Article R231-6
+
+Chaque année, le chef de l'établissement soumet, pour avis, au comité d'hygiène et de sécurité ou à la section un programme
+annuel de prévention des risques professionnels.
+
+Ce programme est établi à partir de l'analyse définie à l'article R. 231-5 (1°) et, s'il y a lieu, des informations sur les
+conditions d'hygiène et de sécurité figurant au bilan social défini à l'article L. 438-1.
+
+Il fixe la liste détaillée des réalisations ou actions à entreprendre, pour l'année à venir, afin de satisfaire aux
+prescriptions des articles L. 232-1, L. 233-1 et L. 231-3-1. Il précise pour chaque réalisation ou action ses conditions
+d'exécution et son coût estimé.
+
+Le chef d'établissement transmet ce programme au comité d'entreprise accompagné de l'avis formulé par le comité ou la section
+[*information*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+	**Cité par**:
+
+	  - Arrêté du 10 octobre 1974 - art. 2 (Ab)
+	  - Code du travail - art. R231-32 (VT)
+	  - Code du travail - art. R231-8 (Ab)
+	  - Code du travail - art. R231-9 (Ab)
+	  - Code du travail - art. R437-1 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-3-1 (M)
+	  - Code du travail - art. L232-1 (AbD)
+	  - Code du travail - art. L233-1 (M)
+	  - Code du travail - art. L438-1 (M)
+	  - Code du travail R231-5 AL. 1, L438-1, L232-1, L233-1, L231-3-1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°1983-09-23 ART. 4 : abroge l'article r231-6 à compter du 1er juillet 1985
+
+
+###### Article R231-7
+
+Indépendamment des missions imparties au comité d'hygiène et de sécurité ou à la section, un représentant du personnel au
+sein du comité qui constate une cause de danger imminent en avise le chef de service intéressé et, s'il existe, l'agent
+chargé des questions de sécurité. Le ou les agents ainsi alertés sont tenus de procéder immédiatement à un contrôle en
+compagnie du représentant du personnel ayant signalé le danger [*mission*].
+
+L'intervention ainsi que les observations de l'agent alerté sont consignées sur le registre dont la tenue est prévue à
+l'alinéa 1er de l'article R. 231-9 ci-après, sans préjudice de l'exécution des mesures prévues à l'article L. 231-9.
+
+Les représentants du personnel au sein du comité peuvent demander au chef d'établissement de leur communiquer les conclusions
+des analyses [*des nouvelles conditions de circulation et d'exploitation*] et réalisées en application des articles R. 231-40
+et R. 231-41. Ces demandes sont consignées sur le registre mentionné à l'alinéa précédent.
+
+Le comité d'hygiène et de sécurité ou la section examine les suites données aux interventions de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART.4 : abroge l'article r231-7 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+	**Cite**:
+
+	  - Code du travail - art. L231-9 (M)
+	  - Code du travail - art. R231-40 (V)
+	  - Code du travail - art. R231-41 (V)
+	  - Code du travail - art. R231-9 (M)
+
+
+###### Article R231-8
+
+Chaque comité d'hygiène et de sécurité ou chaque section se réunit à l'initiative de son président, au moins une fois par
+trimestre [*périodicité*] sauf dérogation accordée par l'inspecteur du travail. Le comité ou la section compétente doit
+également être réuni à la suite de tout accident ayant entraîné ou ayant pu entraîner des conséquences graves. Il peut l'être
+également à la demande motivée de deux de ses membres représentant le personnel [*condition*].
+
+Les réunions ont lieu dans l'établissement, dans un local approprié et, sauf cas exceptionnels justifiés par l'urgence,
+pendant les heures de travail.
+
+Les ordres du jour des réunions ordinaires, établis par le président et le secrétaire, sont communiqués aux membres du comité
+représentant le personnel et adressés à l'inspecteur du travail quinze jours au moins avant la date fixée pour chaque
+réunion. Celui-ci peut, de sa propre initiative, assister aux réunions du comité.
+
+Ces ordres du jour doivent notamment comporter :
+
+L'examen des conditions de réalisation du programme de prévention des risques professionnels défini à l'article R. 231-6 ;
+
+L'organisation de missions individuelles et la désignation des membres du comité, représentants du personnel, qui en sont
+chargés ;
+
+L'examen des accidents et des maladies professionnelles survenus depuis la précédente réunion ordinaire ;
+
+Les résultats des missions et inspections effectuées pendant la même période ;
+
+L'examen du compte trimestriel d'activité du comité pour l'accomplissement des missions définies à l'article R. 231-5.
+
+Le temps passé aux réunions ainsi que celui qui est consacré aux missions prévues à l'article R. 231-5 sont rémunérés comme
+temps de travail pour les membres du comité ou de la section représentant le personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 : abroge l'article r231-8 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+	**Cite**:
+
+	  - Code du travail - art. R231-5 (M)
+	  - Code du travail - art. R231-6 (M)
+
+
+###### Article R231-9
+
+Les procès-verbaux des séances de chaque comité ou de chaque section et les rapports établis par leurs soins dans les cas
+prévus à l'article R. 231-5 (2° et 3°) sont consignés sur un registre. Il en est de même pour le rapport présenté par le chef
+d'établissement en application de l'article R. 231-5 (1°) et du programme établi en application de l'article R. 231-6. Ce
+registre est tenu à la disposition de l'inspecteur du travail et des agents des services de prévention des caisses régionales
+d'assurance maladie ainsi que les statistiques accidents du travail et maladies professionnelles.
+
+Tout membre du comité d'hygiène et de sécurité peut, à tout moment, demander communication du registre des mises en demeure
+prévu à l'article L. 620-3 du présent code.
+
+Les registres tenues en application de prescriptions réglementaires imposant la vérification de certains appareils machines
+et installations sont présentés au comité d'hygiène et de sécurité ainsi que les rapports auxquels ces registres font
+référence.
+
+En outre, le comité doit être informé par son président des observations de l'inspecteur et du contrôleur du travail, de
+l'ingénieur conseil et du contrôleur de sécurité de la caisse régionale d'assurance-maladie au cours de la réunion qui suit
+leurs interventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 : abroge l'article r231-9 à compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
+
+	**Cite**:
+
+	  - Code du travail - art. L620-3 (M)
+	  - Code du travail - art. R231-6 (M)
+	  - Code du travail L620-3, R231-5 AL. 1, 2 ET 3, R231-6
+
+	**Cité par**:
+
+	  - Code du travail - art. R231-7 (Ab)
 
 
 ###### Article R231-10
@@ -63883,6 +64283,34 @@ d'hygiène et de sécurité et de participation des chefs d'établissements aux 
 	**Cite**:
 
 	  - Code du travail R231-1 à R231-10
+
+
+###### Article R231-11-1
+
+Pour l'application des articles qui précèdent aux exploitations et établissements agricoles, sont substitués
+[*composition*] :
+
+Le ministre chargé de l'agriculture au ministre chargé du travail ;
+
+Les techniciens conseils et les agents chargés du contrôle de la prévention en agriculture aux ingénieurs conseils et
+contrôleurs de sécurité des caisses régionales d'assurance maladie ;
+
+Les comités techniques nationaux de prévention des accidents du travail et des maladies professionnelles des salariés
+agricoles aux comités techniques nationaux et régionaux de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-844 1983-09-23 ART. 4 : abroge l'article R231-11-1 a compter du 1er juillet 1985
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 date d'entrée en vigueur 1er JUILLET 1985
 
 
 ##### Section 2 : Mises en demeure de l'inspection du travail.
@@ -64143,6 +64571,264 @@ En cas de décès, démission ou perte de leur mandat, les membres sont remplac�
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+
+##### Section 4 : Formation à la sécurité.
+
+###### Article R231-33
+
+Sans préjudice de l'article R. 231-32 (alinéas 2 et 3), dans les branches d'activité où existe un organisme professionnel
+d'hygiène et de sécurité, au sens de l'article L. 231-2 (4°) du code du travail, celui-ci est chargé de promouvoir la
+formation à la sécurité et d'apporter notamment son concours technique pour sa mise en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R231-34
+
+La formation à la sécurité a pour objet d'instruire le salarié des précautions à prendre pour assurer sa propre sécurité et,
+le cas échéant, celle des autres personnes occupées dans l'établissement.
+
+A cet effet, les informations, enseignements et instructions nécessaires lui sont donnés, dans les conditions fixées aux
+articles R. 231-35, R. 231-36 et R. 231-37, en ce qui concerne les conditions de circulation dans l'entreprise, l'exécution
+de son travail et les dispositions qu'il doit prendre en cas d'accident ou de sinistre.
+
+En fonction des risques à prévenir, l'utilité des mesures de sécurité prescrites par l'employeur lui est expliquée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article R231-35
+
+Sans préjudice des articles R. 233-39 et R. 233-40, la formation à la sécurité relative à la circulation des personnes a pour
+objet d'informer le salarié, à partir des risques auxquels il est exposé, des règles de circulation des véhicules et engins
+de toute nature sur les lieux de travail et dans l'établissement, de lui montrer les chemins d'accès aux lieux dans lesquels
+il sera appelé à travailler et aux locaux sociaux, de lui préciser les issues et dégagements de secours à utiliser pour le
+cas de sinistre et de lui donner, si la nature des activités exercées le justifie, des instructions d'évacuation pour les cas
+notamment d'explosion, de dégagement accidentel de gaz ou liquides inflammables ou toxiques.
+
+Cette formation est dispensée dans l'établissement, lors de l'embauche ou chaque fois que nécessaire dans les cas prévus à
+l'article L. 231-3-1 (1er alinéa).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Code du travail - art. R231-34 (VT)
+	  - Code du travail - art. R231-38 (M)
+	  - Code du travail - art. R231-39 (VT)
+	  - Code du travail - art. R231-40 (VT)
+	  - Code du travail - art. R231-42 (VT)
+	  - Code du travail - art. R231-44 (VT)
+	  - Code du travail - art. R231-45 (VT)
+	  - Code du travail - art. R231-5 (Ab)
+
+
+###### Article R231-36
+
+La formation à la sécurité relative à l'exécution du travail a pour objet d'enseigner au salarié, à partir des risques
+auxquels il est exposé, les comportements et les gestes les plus sûrs en ayant recours, si possible, à des démonstrations, de
+lui expliquer les modes opératoires retenus s'ils ont une incidence sur sa sécurité ou celle des autres salariés, de lui
+montrer le fonctionnement des dispositifs de protection et de secours et de lui expliquer les motifs de leur emploi.
+
+Cette formation doit s'intégrer dans la formation ou les instructions professionnelles que reçoit le salarié ; elle est
+dispensée sur les lieux du travail ou, à défaut, dans les conditions équivalentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Code du travail - art. R231-34 (VT)
+	  - Code du travail - art. R231-38 (M)
+	  - Code du travail - art. R231-39 (VT)
+	  - Code du travail - art. R231-41 (VT)
+	  - Code du travail - art. R231-42 (VT)
+	  - Code du travail - art. R231-44 (VT)
+	  - Code du travail - art. R231-45 (VT)
+	  - Code du travail - art. R231-5 (Ab)
+	  - Code du travail - art. R233-13-31 (VT)
+	  - Code du travail - art. R233-13-37 (VT)
+
+
+###### Article R231-37
+
+La formation à la sécurité a également pour objet de préparer le salarié sur la conduite à tenir lorsqu'une personne est
+victime d'un accident ou d'une intoxication sur les lieux du travail.
+
+Cette formation est dispensée dans le mois qui suit l'affectation du salarié à son emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Code du travail - art. R231-34 (VT)
+	  - Code du travail - art. R231-38 (M)
+	  - Code du travail - art. R231-39 (VT)
+	  - Code du travail - art. R231-41 (VT)
+	  - Code du travail - art. R231-42 (VT)
+	  - Code du travail - art. R231-44 (VT)
+	  - Code du travail - art. R231-45 (VT)
+	  - Code du travail - art. R231-5 (Ab)
+	  - Code du travail - art. R233-13-31 (VT)
+	  - Code du travail - art. R233-13-37 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R4141-17 (V)
+	  - Code du travail - art. R4141-20 (V)
+
+
+##### Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.
+
+###### Article R231-38
+
+Les salariés embauchés ou ceux employés [*travailleurs temporaire*] dans les cas prévus aux alinéas a à e de l'article L.
+124-2 bénéficient d'une formation à la sécurité répondant aux dispositions de l'article R. 231-35.
+
+Indépendamment des dispositions de l'alinéa 1er, les salariés visés à cet alinéa et affectés à des tâches comportant, pour
+tout ou partie, l'emploi de machines, portatives ou non, des manipulations ou utilisations de produits chimiques, des
+opérations de manutention, des travaux d'entretien des matériels et des installations de l'établissement, la conduite de
+véhicules, d'appareils de levage ou d'engins de toute nature, des travaux mettant en contact avec des animaux dangereux,
+bénéficient d'une formation à la sécurité répondant aux dispositions des articles R. 231-36 et R. 231-37.
+
+Les salariés qui changent de poste de travail ou de technique et qui sont ainsi exposés à des risques nouveaux, ou qui sont
+affectés, pour tout ou partie, à des tâches définies à l'alinéa 2 bénéficient d'une formation à la sécurité répondant aux
+dispositions de l'article R. 231-36 et R. 231-37 complétée, s'il y a modification du lieu de travail, par une formation
+répondant aux dispositions de l'article R. 231-35 [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Code du travail - art. R231-41 (VT)
+	  - Code du travail - art. R231-45 (VT)
+	  - Code du travail - art. R231-89 (VT)
+	  - Code du travail - art. R233-3 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L124-2 (M)
+	  - Code du travail - art. R231-35 (V)
+	  - Code du travail - art. R231-36 (V)
+	  - Code du travail - art. R231-37 (V)
+
+
+###### Article R231-39
+
+Des formations à la sécurité appropriées répondant aux dispositions des articles R. 231-35, R. 231-36 et R. 231-37 ou
+spécifiques sont organisées à la demande du médecin du travail, dans les conditions définies à l'article R. 231-44, au profit
+des salariés qui reprennent leur activité après un arrêt de travail d'une durée d'au moins vingt et un jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 du 3 septembre 1984 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Code du travail - art. R231-44 (VT)
+	  - Code du travail - art. R231-45 (VT)
+	  - Code du travail - art. R231-89 (VT)
+
+
+##### Sous-section 4 : De l'organisation et du contrôle.
+
+###### Article R231-44
+
+L'employeur organise [*obligation*], dans les conditions fixées à l'article R. 231-32, les actions de formation à la sécurité
+répondant aux dispositions des articles R. 231-35 à R. 231-37.
+
+Le médecin du travail et l'agent de sécurité, s'il existe, sont associés par l'employeur à l'élaboration de ces actions. Le
+médecin du travail [*attribution*] définit les actions spécifiques prévues à l'article R. 231-39.
+
+Les formations dispensées tiennent compte de la formation, de la qualification, de l'expérience professionnelles et de la
+langue parlée ou lue des salariés appelés à en bénéficier.
+
+Le temps passé à ces formations est considéré comme temps de travail [*rémunération*] ; elles s'effectuent pendant l'horaire
+normal de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-816 1984-09-03 art. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 17 (Ab)
+	  - Code du travail - art. R231-39 (VT)
 
 
 #### Chapitre III : Sécurité
@@ -73211,320 +73897,6 @@ est prise par le directeur régional du travail et de la main-d'oeuvre [*autorit
 
 ### HYGIENE ET SECURITE
 
-#### COMITES D'HYGIENE ET DE SECURITE .
-
-###### Article R231-1
-
-Un comité d'hygiène et de sécurité est constitué obligatoirement dans les établissements mentionnés à l'article L. 231-1,
-lorsque ces établissements appartiennent à l'une des catégories suivantes :
-
-a) Etablissements industriels occupant habituellement au moins 50 [*effectifs*] salariés.
-
-b) Autres établissements occupant habituellement au moins 300 salariés.
-
-Sur proposition de l'inspecteur du travail, le directeur départemental du travail et de la main-d'oeuvre peut imposer la
-création d'un comité d'hygiène et de sécurité dans les entreprises ou établissements occupant des effectifs inférieurs aux
-nombres ci-dessus lorsque cette mesure est nécessaire notamment en raison de la nature des travaux, de l'agencement ou de
-l'équipement des locaux.
-
-La décision du directeur départemental est assortie d'un délai d'exécution qui ne peut être inférieur à quinze jours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L231-1 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R231-56-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. R232-1-14 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R232-31 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R232-42 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R232-43 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R233-1 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-23 (Ab)
-
-
-###### Article R231-3
-
-Dans les établissements où sont institués des comités d'entreprise ou des comités d'établissement, chaque comité d'hygiène et
-de sécurité fonctionne comme commission spécialisée du comité d'entreprise ou du comité d'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-
-
-###### Article R231-4
-
-Chaque comité ou section comprend [*composition*] :
-
-a) Le chef d'établissement ou son représentant, président.
-
-b) Le ou les médecins du travail assurant la surveillance médicale du personnel de l'établissement dans lequel un comité ou
-une section est constitué.
-
-c) Le conseiller du travail ainsi que le responsable de la formation s'ils existent dans l'établissement.
-
-d) Un agent désigné par le chef d'établissement, assurant le secrétariat du comité ou de la section. Cet agent est, s'il
-existe, le chef du service de sécurité du travail ou l'agent chargé de la sécurité du travail.
-
-e) Des représentants du personnel à raison de :
-
-Trois [*nombre*] représentants dont un du personnel de maîtrise ou des cadres, dans les établissements ou parties
-d'établissement occupant 500 [*effectifs*] salariés au plus ;
-
-Six représentants, dont deux du personnel de maîtrise ou des cadres, dans les établissements ou partie d'établissement
-occupant de 501 à 1.500 salariés ;
-
-Neuf représentants, dont trois du personnel de maîtrise ou des cadres, dans les établissements ou parties d'établissement
-occupant plus de 1.500 salariés.
-
-L'inspecteur du travail peut autoriser des dérogations à la proportion entre les représentants du personnel de maîtrise ou
-des cadres et ceux des autres catégories de personnel.
-
-En outre, tout comité ou toute section peut faire appel, à titre consultatif, au concours de toute personne qui lui
-paraîtrait qualifiée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R233-47 (M)
-
-
-###### Article R231-5
-
-Les représentants du personnel au comité d'hygiène et de sécurité ou à la section sont désignés par un collège constitué par
-les membres élus du comité d'entreprise ou du comité d'établissement et les délégués du personnel. Ils sont choisis en raison
-de leurs connaissances et de leurs aptitudes en matière d'hygiène et de sécurité du travail [*critères*]. S'il n'existe pas
-de comité d'entreprise ou de comité d'établissement, les représentants du personnel au comité d'hygiène et de sécurité sont
-élus dans les mêmes conditions que les représentants du personnel au comité d'entreprise.
-
-Les membres des comités d'hygiène et de sécurité ou de leurs sections sont désignés pour une durée de deux ans. Leur mandat
-est renouvelable. Si, pendant la durée normale de son mandat un membre cesse ses fonctions, il est remplacé dans le délai
-d'un mois, pour la période de mandat restant à courir, selon la procédure définie à l'alinéa précédent.
-
-La liste nominative des membres de chaque comité d'hygiène et de sécurité ou section doit être affichée [*publicité*] dans
-les locaux affectés au travail. Elle doit comporter, en outre, les indications relatives à l'emplacement de travail habituel
-des membres du comité ou de la section.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 25 janvier 1980 - art. 2 (Ab)
-	  - Arrêté du 25 janvier 1980 - art. Annexe I (Ab)
-	  - Code du travail - art. R231-12 (M)
-	  - Code du travail - art. R231-8 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-
-
-###### Article R231-6
-
-Les missions incombant à chaque comité d'hygiène et de sécurité ou à chaque section sont les suivantes :
-
-1. Le comité ou la section procède lui-même ou fait procéder à une enquête à l'occasion de chaque accident ou de chaque
-maladie professionnelle grave, c'est-à-dire ayant entraîné mort d'homme ou paraissant devoir entraîner une incapacité
-permanente ou ayant révélé l'existence d'un danger grave, même si les conséquences ont pu en être évitées. Chaque enquête est
-conduite par deux [*nombre*] membres du comité, l'un représentant le chef d'établissement, l'autre représentant le personnel,
-qui peuvent être assistés par d'autres membres du comité ou de la section.
-
-Le comité ou la section doit se prononcer [*obligation*] sur les conclusions des enquêtes et sur les suites qui leur auront
-été données.
-
-2. Le comité ou la section procède à l'inspection de l'établissement en vue de s'assurer :
-
-De l'application des prescriptions législatives et réglementaires et des consignes concernant l'hygiène et la sécurité et
-notamment du respect des prescriptions réglementaires pour les vérifications des machines, installations et appareils qui
-doivent faire l'objet de vérifications périodiques ;
-
-Du bon entretien et du bon usage des dispositifs de protection.
-
-La fréquence des inspections doit être au moins égale à celle des réunions ordinaires du comité ou de la section.
-
-3. Le comité ou la section suscite toutes initiatives portant notamment sur les méthodes et procédés de travail les plus
-sûrs, le choix et l'adaptation du matériel, de l'appareillage et de l'outillage nécessaires aux travaux exécutés,
-l'aménagement des postes de travail.
-
-4. Le comité ou la section développe par tous moyens efficaces le sens du risque professionnel et l'esprit de sécurité ; il
-veille et concourt au besoin à l'information des nouveaux embauchés, des travailleurs affectés à de nouvelles tâches ou dans
-de nouveaux ateliers, au sujet des risques auxquels ils peuvent être exposés et des moyens de s'en protéger.
-
-5. Le comité ou la section veille à ce que toutes mesures utiles soient prises pour assurer l'instruction et le
-perfectionnement du personnel dans les domaines de l'hygiène et de la sécurité.
-
-6. Le comité ou la section s'assure de l'organisation et de l'instruction des équipes chargées des services d'incendie et de
-sauvetage et veille à l'observation des consignes de ces services.
-
-Chaque comité ou section est consulté sur la teneur de tous les documents se rattachant à sa mission, notamment les
-règlements et consignes d'hygiène et de sécurité. Ces documents sont également communiqués à l'inspecteur du travail
-[*contrôle*] qui doit exiger le retrait ou la modification des clauses non compatibles avec les dispositions législatives et
-réglementaires relatives à l'hygiène et à la sécurité du travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 10 octobre 1974 - art. 2 (Ab)
-	  - Code du travail - art. R231-32 (VT)
-	  - Code du travail - art. R231-8 (Ab)
-	  - Code du travail - art. R231-9 (Ab)
-	  - Code du travail - art. R437-1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-
-
-###### Article R231-7
-
-Indépendamment des missions ainsi définies, si un représentant du personnel au sein du comité constate une cause de danger
-imminent, il en avise le chef de service intéressé et, s'il existe, l'agent chargé des questions de sécurité. Le ou les
-agents ainsi alertés sont tenus [*obligations*] de procéder immédiatement à un contrôle en compagnie du représentant du
-personnel ayant signalé le danger.
-
-L'intervention ainsi que les observations de l'agent alerté sont consignées sur le registre [*des procès verbaux et rapports
-du comité*] dont la tenue est prévue à l'alinéa 1er de l'article R. 231-9 ci-après, sans préjudice de l'exécution des mesures
-prévues à l'article L. 231-9.
-
-Le comité ou la section examine les suites données aux interventions de ses membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L231-9 (M)
-	  - Code du travail R231-9 AL. 1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-
-
-###### Article R231-8
-
-Chaque comité d'hygiène et de sécurité ou chaque section se réunit à l'initiative de son président, au moins une fois par
-trimestre [*fréquence*] sauf dérogation accordée par l'inspecteur du travail. Le comité ou la section compétente doit
-également être réuni à la suite de tout accident ayant entraîné ou ayant pu entraîner des conséquences graves. Il peut l'être
-également à la demande motivée de deux [*nombre*] de ses membres représentant le personnel.
-
-Les réunions ont lieu dans l'établissement, dans un local approprié et, sauf cas exceptionnels justifiés par l'urgence,
-pendant les heures de travail.
-
-Les ordres du jour des réunions ordinaires, établis par le président et le secrétaire, sont communiqués aux membres du comité
-représentant le personnel et adressés à l'inspecteur du travail quinze jours au moins avant la date fixée pour chaque réunion
-[*délai, point de départ*] Celui-ci peut, de sa propre initiative, assister aux réunions du comité.
-
-Ces ordres du jour doivent notamment comporter [*mentions*] :
-
-L'examen du projet de programme des actions relatives à l'hygiène et à la sécurité pour l'année à venir ; 
-
-L'organisation de missions individuelles et la désignation des membres du comité, représentants du personnel, qui en sont
-chargés ;
-
-L'examen des accidents et des maladies professionnelles survenus depuis la précédente réunion ordinaire ; 
-
-Les résultats des missions et inspections effectuées pendant la même période ; 
-
-L'examen du compte rendu trimestriel d'activité du comité pour l'accomplissement des missions définies à l'article R. 231-6.
-
-Le temps passé aux réunions ainsi que celui qui est consacré aux missions prévues à l'article R. 231-6 sont rémunérés comme
-temps de travail pour les membres du comité ou de la section représentant le personnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. R231-6 (M)
-
-
-###### Article R231-9
-
-Les procès-verbaux des séances de chaque comité ou de chaque section et les rapports établis par leurs soins dans les cas
-prévus aux 1  et 2  de l'article R. 231-6 sont consignés sur un registre. Ce registre est tenu à la disposition de
-l'inspecteur du travail ainsi que les statistiques d'accidents du travail et des maladies professionnelles.
-
-Tout membre du comité d'hygiène et de sécurité peut, à tout moment, demander communication du registre des mises en demeure
-prévu à l'article L. 620-3 du présent code.
-
-Les registres tenus en application des prescriptions réglementaires imposant la vérification de certains appareils, machines
-et installations sont présentés au comité d'hygiène et de sécurité ainsi que les rapports auxquels ces registres font
-référence.
-
-En outre, le comité doit être informé par son président des observations de l'inspecteur et du contrôleur du travail, de
-l'ingénieur-conseil et du contrôleur de sécurité de la caisse régionale d'assurance maladie au cours de la réunion qui suit
-leurs interventions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L620-3 (M)
-	  - Code du travail R231-6 PAR. 1 ET 2
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R231-11 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail - art. R231-7 (Ab)
-
-
 #### ORGANES CONSULTATIFS CENTRAUX
 
 ##### CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS .
@@ -74306,6 +74678,38 @@ au chef d'entreprise et aux membres du comité [*formalité*].
 	**Cité par**:
 
 	  - Code du travail - art. R432-10 (VT)
+
+
+#### Chapitre VII : Amélioration des conditions de travail.
+
+###### Article R437-1
+
+Le comité d'entreprise [*attributions information*] ou sa commission spéciale prévue à l'article L. 437-1 peut examiner le
+programme annuel d'amélioration des conditions de travail prévu à l'article L. 437-2 conjointement avec le programme de
+prévention des risques professionnels défini à l'article R. 231-6.
+
+Dans ce but, les membres du comité d'entreprise ou de sa commission spéciale et les membres du comité d'hygiène et de
+sécurité peuvent, s'ils en sont d'accord, tenir une séance commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°83-844 du 23 septembre 1983 - art. 4 () JORF 25 SEPTEMBRE 1983 en vigueur le 1er juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L437-1 (M)
+	  - Code du travail - art. L437-2 (Ab)
+	  - Code du travail - art. R231-6 (M)
 
 
 #### Chapitre VIII : Bilan social.
