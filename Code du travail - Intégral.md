@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-01-26
+Version Consolidée au 1974-03-01
 
 # Partie législative ancienne
 
@@ -87341,6 +87341,34 @@ de fer français [*SNCF*].
 	  - Code du travail - art. D142-1
 
 
+#### Chapitre III : PAIEMENT DU SALAIRE
+
+##### SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
+
+###### Article D143-1
+
+Le plafond mensuel prévu aux alinéas 1er et 2 de l'article L. 143-10 du code du travail est fixé à deux fois le plafond
+retenu, par mois, pour le calcul des cotisations de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3253-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-10
+
+
 ## CONVENTIONS RELATIVES AU TRAVAIL
 
 ### CONTRAT D'APPRENTISSAGE
@@ -87451,28 +87479,6 @@ logement à huit fois ce même taux ; l'évaluation des autres prestations en na
 	**Cité par**:
 
 	  - Décret n°95-182 du 21 février 1995 - art. 4 (V)
-
-
-#### PAIEMENT DU SALAIRE
-
-##### PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
-
-###### Article D143-1
-
-Le plafond mensuel prévu aux alinéas 1er et 2 de l'article L. 143-10 du présent code est fixé à la somme des portions de
-rémunérations mensuelles insaisissables et incessibles, calculées conformément aux dispositions de l'article R. 145-1, soit à
-la somme de 1.466,63 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. R145-1 (M)
 
 
 ## Livre II : Réglementation du travail
