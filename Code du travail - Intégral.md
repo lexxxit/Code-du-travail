@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-01-03
+Version Consolidée au 1975-01-04
 
 # Partie législative ancienne
 
@@ -1766,6 +1766,141 @@ utiles*] conformément aux dispositions de l'article L. 122-14-3.
 
 	  - Code du travail - art. L122-14-7 (M)
 	  - Code du travail - art. L1237-2 (VD)
+
+
+###### Article L122-14
+
+L'employeur, ou son représentant, qui envisage de licencier un salarié doit, avant toute décision, convoquer l'intéressé par
+lettre recommandée [*condition de forme*] en lui indiquant l'objet de la convocation. Au cours de l'entretien, l'employeur
+est tenu d'indiquer le ou les motifs de la décision envisagée [*obligation de motivation*] et de recueillir les explications
+du salarié.
+
+Lors de cette audition, le salarié peut se faire assister par une personne de son choix appartenant au personnel de
+l'entreprise.
+
+En cas de licenciement pour motif économique, la demande d'autorisation mentionnée à l'article L. 321-7 ne peut être adressée
+par l'employeur à l'autorité administrative compétente qu'après l'entretien visé au premier alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-5 1975-01-03 art. 5 JORF 4 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
+	  - Décret n°82-397 du 11 mai 1982 - art. 15 (Ab)
+	  - Décret n°83-1160 du 26 décembre 1983 - art. 65 (V)
+	  - Décret n°93-852 du 17 juin 1993 - art. Annexe, art. 12 (Ab)
+	  - Arrêté du 30 décembre 1993 - art. 3 (V)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 25 (V)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 78 (V)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 1 (VT)
+	  - Arrêté du 31 décembre 1986 - art. 1 (V)
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+	  - Code du travail - art. D122-1 (VT)
+	  - Code du travail - art. D122-2 (VT)
+	  - Code du travail - art. L12-10-1 (AbD)
+	  - Code du travail - art. L122-14-1 (AbD)
+	  - Code du travail - art. L122-14-14 (AbD)
+	  - Code du travail - art. L122-14-16 (AbD)
+	  - Code du travail - art. L122-14-17 (AbD)
+	  - Code du travail - art. L122-14-18 (AbD)
+	  - Code du travail - art. L122-14-5 (AbD)
+	  - Code du travail - art. L122-14-6 (Ab)
+	  - Code du travail - art. L122-41 (AbD)
+	  - Code du travail - art. L321-4-2 (M)
+	  - Code du travail - art. L321-6 (M)
+	  - Code du travail - art. L321-6-1 (Ab)
+	  - Code du travail - art. L322-4-20 (AbD)
+	  - Code du travail - art. L412-18 (AbD)
+	  - Code du travail - art. L425-1 (AbD)
+	  - Code du travail - art. L436-1 (AbD)
+	  - Code du travail - art. L721-6 (M)
+	  - Code du travail - art. L773-19 (AbD)
+	  - Code du travail - art. L773-27 (AbD)
+	  - Code du travail - art. R122-2 (M)
+	  - Code du travail - art. R122-2-1 (VT)
+	  - Code du travail - art. R241-31-2 (VT)
+	  - Code du travail - art. R321-10 (VT)
+	  - Code du travail - art. R412-6 (VT)
+	  - Code du travail - art. R436-1 (VT)
+	  - Code du travail - art. R436-10 (VT)
+	  - Code du travail maritime - art. 102-10 (V)
+	  - Code rural - art. R717-51 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°89-861 du 27 novembre 1989
+	  - TXT_SOURCE: Code du travail - art. D122-1 (V)
+	  - TXT_SOURCE: Code du travail - art. D122-2 (V)
+	  - TXT_SOURCE: Code du travail - art. D122-3 (V)
+	  - TXT_SOURCE: Code du travail - art. D122-4 (V)
+	  - TXT_SOURCE: Code du travail - art. D122-5 (V)
+	  - TXT_SOURCE: Code du travail - art. D122-5-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L122-14-7 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L122-14-1
+
+L'employeur qui décide de licencier un salarié doit notifier le licenciement par lettre recommandée avec demande d'avis de
+réception ; la date de présentation de la lettre recommandée fixe le point de départ du délai-congé.
+
+Cette lettre ne peut être expédiée moins d'un jour franc [*délai*] après la date pour laquelle le salarié a été convoqué en
+application des dispositions de l'article L. 122-14.
+
+En cas de licenciement pour motif économique, cette lettre ne peut être expédiée qu'après réception de l'autorisation de
+l'autorité administrative compétente ou le défaut de réponse prévu à l'article L. 321-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°73-680 1973-07-13 art. 3 JORF 18 juillet 1973
+
+	**Modifié par**:
+
+	  - Loi n°75-5 1975-01-03 art. 6 JORF 4 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 25-1 (V)
+	  - Loi n°86-797 du 3 juillet 1986 - art. 4 (V)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 25 (V)
+	  - Décret n°2006-440 du 14 avril 2006 - art. 1 (VD)
+	  - Arrêté du 31 décembre 1986 - art. 1 (V)
+	  - Code du travail - art. L122-14-2 (AbD)
+	  - Code du travail - art. L773-19 (AbD)
+	  - Code du travail - art. L933-6 (AbD)
+	  - Code du travail - art. R321-10 (VT)
+	  - Code du travail maritime - art. 102-11 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (Ab)
+	  - Code du travail - art. L321-9 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail 24
 
 
 ###### Article L122-14-2
@@ -18411,6 +18546,149 @@ Ces bureaux sont régis par les dispositions du code de la santé publique.
 
 ### Titre II : Emploi
 
+#### Chapitre Ier : CONTROLE DE L'EMPLOI .
+
+###### Article L321-7
+
+Quelle que soit l'entreprise ou la profession et sauf en cas de règlement judiciaire ou de liquidation des biens, tout
+licenciement, individuel ou collectif, fondé sur un motif économique, d'ordre conjoncturel ou structurel, est subordonné à
+une autorisation de l'autorité administrative compétente [*condition*] .
+
+En cas de règlement judiciaire ou de liquidation de biens, le syndic ou l'employeur doit [*obligation*] informer l'autorité
+administrative compétente avant d'envoyer les lettres de licenciement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-591 du 4 juillet 1984 - art. 7 (M)
+	  - Décret n°84-1110 du 11 décembre 1984 - art. 7 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 148 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 153 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 45 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 63 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 118 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 64 (M)
+	  - Loi n°2003-6 du 3 janvier 2003 - art. 1 (V)
+	  - Code du travail - art. D322-6 (VT)
+	  - Code du travail - art. L122-14 (M)
+	  - Code du travail - art. L122-14-3 (AbD)
+	  - Code du travail - art. L321-11 (M)
+	  - Code du travail - art. L321-17 (AbD)
+	  - Code du travail - art. L321-2 (AbD)
+	  - Code du travail - art. L321-4-1 (AbD)
+	  - Code du travail - art. L321-6 (AbD)
+	  - Code du travail - art. L321-7 (AbD)
+	  - Code du travail - art. L321-7-1 (AbD)
+	  - Code du travail - art. R321-10 (P)
+	  - Code du travail - art. R321-2 (VT)
+	  - Code du travail - art. R321-21 (VT)
+	  - Code du travail - art. R321-23 (VT)
+	  - Code du travail - art. R321-4 (VT)
+	  - Code du travail - art. R321-5 (VT)
+	  - Code du travail - art. R436-5 (VT)
+	  - Code du travail maritime - art. 102-10 (M)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1233-57 (VD)
+	  - Code du travail - art. L321-8 (AbD)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 94 : dispositions applicables aux entreprises d'armement maritime
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-10
+
+En cas de règlement judiciaire ou de liquidation des biens d'une entreprise de plus de dix salariés, l'employeur, ou le
+syndic, doit réunir le comité d'entreprise ou, à défaut, les délégués du personnel et l'informer du calendrier prévisionnel
+des licenciements collectifs éventuels.
+
+L'employeur, ou le syndic, ne peut adresser de lettres de licenciement avant d'avoir procédé à cette information.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 148 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 153 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 45 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 63 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 118 (M)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 64 (M)
+	  - Code du travail - art. L321-11 (M)
+	  - Code du travail - art. R321-10 (P)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1233-91 (VD)
+	  - Code du travail - art. L321-9 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L321-6 (T)
+	  - Code du travail - art. L321-6-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 94 : dispositions applicables aux entreprises d'armement maritime
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-11
+
+Sera puni d'une amende de 1.000 F à 3.000 F, prononcée autant de fois qu'il y a de salariés concernés par la ou les
+infractions visées ci-dessous, l'employeur qui :
+
+1. Aura procédé à un licenciement sans avoir présenté la demande d'autorisation prévue à l'article L. 321-7 ou malgré un
+refus d'autorisation ;
+
+2. Aura présenté une demande d'autorisation de licenciement sans avoir, au préalable, procédé aux consultations prévues à
+l'article L. 321-3 ;
+
+3. N'aura pas observé les dispositions du dernier alinéa de l'article L. 321-9.
+
+Sera passible des mêmes peines l'employeur ou le syndic qui n'aura pas observé les dispositions prévues à l'article L.
+321-10.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L321-10 (M)
+	  - Code du travail - art. L321-3 (M)
+	  - Code du travail - art. L321-7 (M)
+	  - Code du travail - art. L321-9 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L321-3 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L321-6 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L321-7 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L321-7-1 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. L321-9 (AbD)
+	  - SPEC_APPLI: Code du travail maritime 94 : dispositions applicables aux entreprises d'armement maritime
+
+	**Cité par**:
+
+	  - Code du travail - art. R321-11 (P)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### Chapitre II : Fonds national de l'emploi
 
 ##### Section 1 : Fonds national de l'emploi.
@@ -18583,6 +18861,44 @@ du travail au 1er mai 2008.
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
+
+
+##### PRIME DE MOBILITE DES JEUNES
+
+##### SECTION 3 : CHOMAGE PARTIEL.
+
+###### Article L322-11
+
+En vue d'éviter des licenciements pour cause économique touchant certaines professions dans certaines régions atteintes ou
+menacées d'un grave déséquilibre de l'emploi, des actions de prévention peuvent être engagées pour une durée déterminée, dans
+des conditions fixées par décret.
+
+Ces actions peuvent comporter notamment la prise en charge partielle par l'Etat, par voie de conventions conclues avec les
+organismes professionnels ou interprofessionnels ou avec les entreprises, des indemnités complémentaires dues aux
+travailleurs victimes d'une réduction d'activité au-dessous de la durée légale du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 19 mai 1987 - art. ANNEXE (V)
+	  - Décret n°97-636 du 31 mai 1997 - art. 1 (Ab)
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 28 novembre 1986 - art. annexe (Ab)
+	  - Code du travail - art. D322-11 (VT)
+	  - Code du travail - art. D322-17 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°90-367 du 27 avril 1990
+	  - TXT_SOURCE: Décret n°90-367 du 27 avril 1990 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°90-367 du 27 avril 1990 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°94-498 du 20 juin 1994
+	  - TXT_SOURCE: Code du travail - art. D322-13 (V)
 
 
 #### Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
@@ -20298,6 +20614,292 @@ l'autorisation préalable de l'autorité administrative compétente.
 	  - Décret n°73-1046 1973-11-15
 
 
+###### Article L321-3
+
+Dans les entreprises ou établissements agricoles, industriels ou commerciaux, publics ou privés, dans les offices publics et
+ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels, les associations de quelque
+nature que ce soit, où sont occupés habituellement plus de dix salariés et moins de cinquante salariés [*effectifs*], les
+employeurs qui projettent d'y effectuer un licenciement pour motif économique d'ordre conjoncturel ou structurel sont tenus
+[*obligation*] de réunir et de consulter les délégués du personnel lorsque le nombre de licenciements envisagé est au moins
+égal à dix dans une même période de trente jours.
+
+Sans préjudice des dispositions de l'article L. 432-4, dans les entreprises ou professions mentionnées ci-dessus où sont
+occupés habituellement au moins cinquante salariés, les employeurs qui projettent d'y effectuer un licenciement dans les
+conditions visées à l'alinéa précédent sont tenus de réunir et de consulter le comité d'entreprise.
+
+Lorsqu'il n'existe pas de comité d'entreprise et notamment lorsque l'inspecteur du travail a été saisi d'un procès-verbal de
+carence dans les conditions prévues par l'article L. 433-13 du présent code, le projet de licenciement collectif est soumis
+aux délégués du personnel.
+
+**Nota:**
+
+[*NOTA - Code du travail L321-11 : sanction.
+
+Loi 86-1320 du 30 décembre 1986 art. 22 : dispositions transitoires.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-797 du 3 juillet 1986 - art. 4 (V)
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 118 (Ab)
+	  - Loi n°2003-6 du 3 janvier 2003 - art. 1 (V)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 1 (VT)
+	  - Code du travail - art. L311-5 (M)
+	  - Code du travail - art. L311-6 (M)
+	  - Code du travail - art. L321-10 (T)
+	  - Code du travail - art. L321-11 (M)
+	  - Code du travail - art. L321-2 (AbD)
+	  - Code du travail - art. L321-4 (AbD)
+	  - Code du travail - art. L321-4-2 (M)
+	  - Code du travail - art. L321-5 (M)
+	  - Code du travail - art. L321-6 (M)
+	  - Code du travail - art. L321-6-1 (Ab)
+	  - Code du travail - art. L321-7 (AbD)
+	  - Code du travail - art. L321-7-1 (AbD)
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. L321-9 (AbD)
+	  - Code du travail - art. L434-6 (AbD)
+	  - Code du travail - art. R321-21 (VT)
+	  - Code du travail - art. R321-4 (VT)
+	  - Code du travail - art. R436-2 (VT)
+	  - Code du travail maritime - art. 94 (M)
+	  - Code monétaire et financier - art. L142-9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L433-13 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 94 :dispositions applicables aux entreprises d'armement maritime
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-4
+
+L'employeur est tenu d'adresser aux représentants du personnel, avec la convocation à la réunion prévue à l'article L. 321-3,
+tous renseignements utiles sur les licenciements projetés.
+
+Il doit, en tous cas, indiquer [*mentions obligatoires*] :
+
+La ou les raisons économiques, financières ou techniques du projet de licenciement ;
+
+Le nombre de travailleurs dont le licenciement est envisagé ;
+
+Les catégories professionnelles concernées ;
+
+Le nombre de travailleurs, permanents ou non, employés dans l'établissement, et    Le calendrier prévisionnel des
+licenciements.
+
+L'employeur doit simultanément porter à la connaissance des représentants du personnel les mesures qu'il envisage de prendre,
+d'une part pour éviter les licenciements ou en limiter le nombre et, d'autre part, pour faciliter le reclassement du
+personnel dont le licenciement ne pourrait être évité.
+
+Ces informations seront simultanément portées à la connaissance de l'autorité administrative compétente, à laquelle sera
+également adressé le procès-verbal de la réunion prévue à l'article L. 321-3. Ce procès-verbal devra comporter les avis,
+suggestions et propositions des représentants du personnel.
+
+**Nota:**
+
+[*NOTA - Loi 86-1320 du 30 décembre 1986 art. 22 : dispositions transitoires.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 10 juin 1988 - art. 2 (V)
+	  - Arrêté du 9 juin 1988 - art. 2 (V)
+	  - Arrêté du 9 juin 1988 - art. 3 (V)
+	  - Loi n°2003-6 du 3 janvier 2003 - art. 2 (V)
+	  - Arrêté du 18 décembre 1984 - art. 2 (V)
+	  - Arrêté du 25 juin 1984 - art. 2 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 duodecies (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 80 duodecies (M)
+	  - Code du travail - art. L122-14-3 (AbD)
+	  - Code du travail - art. L320-3 (AbD)
+	  - Code du travail - art. L321-10 (T)
+	  - Code du travail - art. L321-4-1 (AbD)
+	  - Code du travail - art. L321-6 (AbD)
+	  - Code du travail - art. L321-7 (AbD)
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. L321-9 (AbD)
+	  - Code du travail - art. R321-10 (VT)
+	  - Code du travail - art. R321-3 (VT)
+	  - Code du travail - art. R321-4 (VT)
+	  - Code du travail - art. R321-8 (M)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-3 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 94 : dispositions applicables aux entreprises d'armement maritime
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-5
+
+Dans les entreprises ou établissements mentionnés à l'article L. 321-3 où sont occupés habituellement au moins cinquante
+salariés [*effectifs*], un délai [*légal de réflexion*] doit obligatoirement  s'écouler entre la consultation des
+représentants du personnel prévue audit article et la demande d'autorisation de licenciement collectif visée à l'article L.
+321-8 [*condition*]. Ce délai ne peut être inférieur à quinze jours [*minimum*], sans préjudice des dispositions plus
+favorables prévues par accords contractuels.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°86-797 1986-07-03 art. 1 JORF 4 juillet 1986 en vigueur le 1er janvier 1987
+
+	**Cité par**:
+
+	  - Code du travail - art. L321-13-1 (Ab)
+	  - Code du travail - art. L321-4 (M)
+	  - Code du travail - art. L321-4-1 (M)
+	  - Code du travail - art. L321-7 (M)
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. R321-4 (VT)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-3 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 94 : dispositions applicables aux entreprises d'armement maritime
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-6
+
+Des décrets en Conseil d'Etat peuvent fixer les mesures d'adaptation nécessaires à l'application des dispositions de la
+présente loi dans les entreprises [*obligation*] qui sont tenues de constituer un comité d'entreprise ou des organismes qui
+en tiennent lieu en vertu soit de dispositions législatives ou réglementaires autres que celles qui figurent au code de
+travail, soit de stipulations conventionnelles.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 6 () JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Décret n°2006-440 du 14 avril 2006 - art. 1 (VD)
+	  - Arrêté du 31 décembre 1986 - art. 1 (V)
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (T)
+	  - Code civil - art. 2375 (V)
+	  - Code du travail - art. D322-2 (VT)
+	  - Code du travail - art. L122-14-1 (AbD)
+	  - Code du travail - art. L321-15 (M)
+	  - Code du travail - art. L321-4 (AbD)
+	  - Code du travail - art. L321-6-1 (Ab)
+	  - Code du travail - art. L321-7 (AbD)
+	  - Code du travail - art. L321-7-1 (AbD)
+	  - Code du travail - art. L322-3 (Ab)
+	  - Code du travail - art. L511-1 (AbD)
+	  - Code du travail - art. L512-3 (AbD)
+	  - Code du travail - art. R321-2 (VT)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L321-10 (AbD)
+	  - Code du travail - art. L321-10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-9
+
+Pour toutes les demandes de licenciements collectifs portant sur les cas visés à l'article L. 321-3 du présent code,
+l'autorité administrative compétente dispose d'un délai de trente jours, à compter de la date d'envoi de la demande de
+licenciement, pour vérifier les conditions d'application de la procédure de concertation, la réalité des motifs invoqués pour
+justifier les licenciements, ainsi que la portée des mesures de reclassement et d'indemnisation envisagées et pour faire
+connaître à l'employeur soit son accord, soit son refus d'autorisation.
+
+Pour toutes les autres demandes de licenciement pour cause économique, l'autorité administrative dispose d'un délai de sept
+jours, renouvelable une fois, pour vérifier la réalité du motif économique invoqué et pour faire connaître soit son accord,
+soit son refus d'autorisation.
+
+Des lettres de licenciement ne peuvent être adressées par l'employeur aux salariés concernés qu'après réception de l'accord
+de l'autorité administrative compétente, ou à défaut de réponse de celle-ci qu'après expiration des délais prévus aux alinéas
+précédents.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 44 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 148-4 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 153 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 45 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 63 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 118 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 64 (Ab)
+	  - Arrêté du 16 août 1999 - art. Annexe (V)
+	  - Loi n°2003-6 du 3 janvier 2003 - art. 1 (V)
+	  - Loi n°2003-6 du 3 janvier 2003 - art. 2 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 204 (Ab)
+	  - Code de commerce - art. L642-5 (V)
+	  - Code de commerce. - art. L621-37 (Ab)
+	  - Code de commerce. - art. L621-64 (Ab)
+	  - Code de commerce. - art. L622-10 (M)
+	  - Code de commerce. - art. L622-5 (M)
+	  - Code de commerce. - art. L631-17 (V)
+	  - Code de commerce. - art. L631-19 (VD)
+	  - Code de commerce. - art. L641-4 (V)
+	  - Code de commerce. - art. R631-36 (V)
+	  - Code du travail - art. L122-14-1 (M)
+	  - Code du travail - art. L320-3 (AbD)
+	  - Code du travail - art. L321-11 (M)
+	  - Code du travail - art. L321-12 (Ab)
+	  - Code du travail - art. L321-2 (AbD)
+	  - Code du travail - art. L511-1 (M)
+	  - Code du travail - art. R321-6 (VT)
+	  - Code du travail - art. R321-8 (M)
+	  - Code du travail - art. R436-2 (VT)
+	  - Code du travail maritime - art. 102-11 (Ab)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1233-58 (VD)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L321-10 (T)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-3 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 94 : dispositions applicables aux entreprises d'armement maritime
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
 
 ##### SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.
@@ -21237,6 +21839,34 @@ qualités professionnelles.
 	**Cite**:
 
 	  - Code du travail L122-33 A L122-42
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L321-12
+
+Lorsque l'employeur prononce un ou plusieurs licenciements pour cause économique sans qu'ait été présentée une demande
+d'autorisation à l'autorité administrative, ou en méconnaissance des dispositions du dernier alinéa de l'article L. 321-9, le
+salarié a droit, indépendamment des indemnités prévues par les lois, règlements et conventions en vigueur, à des dommages et
+intérêts pour rupture abusive du contrat.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L1236-8 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. L321-13 (VT)
+	  - Code du travail - art. R321-11 (P)
+	  - Code du travail maritime - art. 94 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-9 (M)
 
 	**Codifié par**:
 
