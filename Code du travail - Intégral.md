@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-03-01
+Version Consolidée au 1974-03-15
 
 # Partie législative ancienne
 
