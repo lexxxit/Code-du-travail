@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-09-29
+Version Consolidée au 1974-09-29 00:00:01 +0100
 
 # Partie législative ancienne
 
@@ -58076,57 +58076,6 @@ sous réserve de l'avis favorable du médecin du travail.
 	  - Code du travail - art. D4153-47 (Ab)
 
 
-#### Chapitre IV : DISPOSITIONS PARTICULIERES AUX JEUNES TRAVAILLEURS
-
-##### SECTION 4 : TRAVAUX INTERDITS AUX JEUNES TRAVAILLEURS.
-
-###### Article R234-22
-
-Les jeunes travailleurs de moins de dix-huit ans [*âge*], apprentis munis d'un contrat d'apprentissage, ainsi que les élèves
-fréquentant les établissements d'enseignement technique, publics ou privés peuvent être autorisés à utiliser au cours de leur
-formation professionnelle les machines ou appareils dont l'usage est prescrit par les articles précédents. Ces autorisations
-sont accordées par l'inspecteur du travail, après avis favorable du médecin du travail ou du médecin chargé de la
-surveillance des élèves ; en outre, une autorisation du professeur ou du moniteur d'atelier est requise pour chaque emploi.
-Des mesures doivent être prises pour assurer l'efficacité du contrôle exercé par le professeur ou le moniteur d'atelier.
-
-Les dérogations individuelles accordées en vertu du premier alinéa du présent article sont renouvelables chaque année. Elles
-sont révocables à tout moment si les conditions qui les ont fait accorder cessent d'être remplies.
-
-Il peut être dérogé dans les mêmes formes et conditions aux interdictions édictées par les articles R. 234-20, R. 234-21.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1958-07-19 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°82-397 du 11 mai 1982 - art. 5-1 (Ab)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 3 (Ab)
-	  - Décret n°87-361 du 27 mai 1987 - art. 12 (V)
-	  - Arrêté du 15 mars 1999 - art. ANNEXE (Ab)
-	  - Décret n°2003-812 du 26 août 2003 - art. 15 (Ab)
-	  - Arrêté du 2 mars 2004 - art. ANNEXE (V)
-	  - Arrêté du 30 juillet 1974 - art. Annexe art. 24 (Ab)
-	  - Code de l'éducation - art. D331-15 (M)
-	  - Code du travail - art. R117-9 (VT)
-	  - Code du travail - art. R231-77 (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. R117-9 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R234-20 (V)
-	  - Code du travail - art. R234-21 (V)
-
-
 ### Titre III : HYGIENE
 
 #### Chapitre II : HYGIENE
@@ -78315,13 +78264,24 @@ susceptibles d'être sanctionnées au titre des dispositions de cet article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. R1227-7 (V)
+	  - Code du travail - art. R3173-1 (V)
+	  - Code du travail - art. R3173-2 (V)
+	  - Code du travail - art. R4741-3 (V)
+	  - Code du travail - art. R8114-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R632-1
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances (abrogé par le décret 86-134 du 28 janvier 1986 art. 10)
 	  - TXT_ASSOCIE: Code du travail - art. R632-1 (V)
 
 
@@ -78635,9 +78595,13 @@ L'arrêté prévu à l'alinéa précédent ne pourra être pris que quinze jours
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L712-10
 
 	**Cité par**:
 
@@ -78691,9 +78655,13 @@ appelés à présenter leurs observations.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L712-10
 
 	**Cité par**:
 
@@ -78795,9 +78763,15 @@ aux alinéas précédents, notifier sa candidature à l'ingénieur en chef des m
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L712-11
+	  - Code du travail - art. L712-17
+	  - Code du travail - art. R712-17
 
 
 ###### Article R712-17
@@ -79826,22 +79800,23 @@ jours, elle pourra être rattachée, par le même arrêté, à la circonscriptio
 Par application des articles L. 712-9, R. 712-11, R. 712-22 et des articles R. 712-38, R. 712-40 et R. 712-56, il doit être
 procédé à de nouvelles élections pour les circonscriptions souterraines ou de la surface qui sont créées ou modifiées entre
 les élections générales de délégués. Ces élections partielles ont lieu au scrutin de liste avec représentation
-proportionnelle lorsque cette création ou modification intéresse au moins [*minimum limite*] trois circonscriptions voisines
-de même nature, dans le cas contraire elles sont faites au scrutin de liste majoritaire à deux tours [*mode de scrutin*].
+proportionnelle lorsque cette création ou modification intéresse au moins trois circonscriptions voisines de même nature,
+dans le cas contraire elles sont faites au scrutin de liste majoritaire à deux tours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°1949-03-11 ART. 38
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. L712-9
+	  - Code du travail - art. R712-11
+	  - Code du travail - art. R712-22
+	  - Code du travail - art. R712-38
+	  - Code du travail - art. R712-40
+	  - Code du travail - art. R712-56
 
 
 ###### Article R712-60
@@ -79863,11 +79838,11 @@ circonscription avait été élu au scrutin de liste avec représentation propor
 
 La décision du préfet déclarant démissionnaire un délégué mineur ou un délégué permanent de la surface en raison d'une
 invalidité permanente supérieure à 60 p. 100 ou d'une affection silicotique doit être notifiée à l'intéressé par lettre
-recommandée avec demande d'avis de réception [*condition de forme*].
+recommandée avec demande d'avis de réception.
 
-La démission prend effet quinze jours après cette notification [*date mise en vigueur*]. Celle-ci doit mentionner que le
-délégué peut, s'il s'y croit fondé, demander au préfet, dans ce délai de quinze jours et par lettre recommandée avec demande
-d'avis de réception, son maintien en fonctions jusqu'à la fin de son mandat.
+La démission prend effet quinze jours après cette notification. Celle-ci doit mentionner que le délégué peut, s'il s'y croit
+fondé, demander au préfet, dans ce délai de quinze jours et par lettre recommandée avec demande d'avis de réception, son
+maintien en fonctions jusqu'à la fin de son mandat.
 
 La demande du délégué doit être motivée ; elle est, le cas échéant, assortie de la désignation d'un médecin choisi par le
 délégué pour sièger au sein de la commission médicale prévue à l'article R. 712-63 pour l'examen de sa demande.
@@ -79876,41 +79851,33 @@ La demande mentionnée à l'alinéa précédent suspend l'application de la déc
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 1
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. R712-63
 
 
 ###### Article R712-62
 
-Le préfet doit [*obligation*] se prononcer sur la demande [*de maintien en fonctions*] au plus tard dans les six semaines qui
-suivent sa réception, sur rapport complémentaire de l'ingénieur en chef des mines et après avis d'une commission médicale
-dont la composition est fixée à l'article R. 712-63.
+Le préfet doit se prononcer sur la demande au plus tard dans les six semaines qui suivent sa réception, sur rapport
+complémentaire de l'ingénieur en chef des mines et après avis d'une commission médicale dont la composition est fixée à
+l'article R. 712-63.
 
 A l'expiration de ce délai de six semaines, la décision du préfet prononçant la démission d'office du délégué est regardée
 comme retirée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 2
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. R712-63
 
 
 ###### Article R712-63
@@ -79980,9 +79947,9 @@ réunion.
 
 ###### Article R712-65
 
-Le préfet notifie sa décision au délégué par lettre recommandée avec demande d'avis de réception [*formalités*].
+Le préfet notifie sa décision au délégué par lettre recommandée avec demande d'avis de réception.
 
-Le rejet de la demande doit être motivé ; il prend effet quinze jours après sa notification [*date entrée en vigueur*].
+Le rejet de la demande doit être motivé ; il prend effet quinze jours après sa notification.
 
 Celle-ci doit mentionner que le délégué peut, s'il s'y croit fondé, adresser, dans ce délai de quinze jours et par lettre
 recommandée avec demande d'avis de réception, un recours au ministre chargé du travail contre la décision préfectorale.
@@ -79991,46 +79958,34 @@ Ce recours suspend l'application de la décision préfectorale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-66
 
-Le ministre doit [*obligation*] faire connaître sa décision dans les six semaines qui suivent la réception du recours, après
-avoir pris l'avis d'une commission médicale nationale, dont la composition est fixée à l'article R. 712-67.
+Le ministre doit faire connaître sa décision dans les six semaines qui suivent la réception du recours, après avoir pris
+l'avis d'une commission médicale nationale, dont la composition est fixée à l'article R. 712-67.
 
 A l'expiration de ce délai de six semaines, la décision du préfet prononçant la démission d'office du délégué est regardée
 comme retirée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 6
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. R712-67
 
 
 ###### Article R712-67
 
 La commission médicale nationale, présidée par un médecin inspecteur régional du travail et de la main-d'oeuvre désigné par
-le ministre, comprend [*composition*] :
+le ministre, comprend :
 
 Le médecin conseil national de la caisse autonome nationale de la sécurité sociale dans les mines ou, à défaut, un médecin de
 cette caisse désigné par lui ;
@@ -80042,17 +79997,9 @@ soit parmi les spécialistes inscrits sur une liste établie par le conseil nati
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -80061,7 +80008,7 @@ soit parmi les spécialistes inscrits sur une liste établie par le conseil nati
 
 ###### Article R712-68
 
-La commission est convoquée par son président au moins huit jours à l'avance [*délai minimum*].
+La commission est convoquée par son président au moins huit jours à l'avance.
 
 Elle doit avoir connaissance de tous les éléments du dossier de l'intéressé et peut recueillir tous les compléments
 d'information qu'elle estime utiles.
@@ -80074,39 +80021,22 @@ Le président transmet l'avis de la commission au ministre dans les quarante-hui
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ###### Article R712-69
 
-La décision du ministre est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception [*conditions de
-forme*].
+La décision du ministre est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception.
 
 Elle est immédiatement exécutoire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret n°73-871 1973-08-29 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ### Titre II : Industries de transformation et d'élaboration
@@ -89431,22 +89361,21 @@ L'évaluation des autres prestations en nature est fixée par convention collect
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-504 1968-06-01
-	  - Décret n°73-641 1973-07-11 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
 	**Cité par**:
 
 	  - Décret n°95-182 du 21 février 1995 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D3231-15 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L141-8
 
 
 #### Chapitre Ier : Salaire minimum de croissance
@@ -89770,17 +89699,18 @@ enfants à tous travaux répétitifs ou exécutés dans une ambiance ou à un ry
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°72-1168 1972-12-23
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Code du travail - art. D211-1
+	  - Code du travail - art. D211-2
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. D4153-4 (V)
 
 
 ###### Article D211-4
@@ -89795,17 +89725,13 @@ rémunération. Elle doit porter l'accord écrit et signé du représentant lég
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°72-1168 1972-12-23
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. D4153-5 (V)
 
 
 ###### Article D211-5
@@ -89820,17 +89746,13 @@ l'employeur respecte, dans l'exécution du contrat, les obligations résultant d
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°72-1168 1972-12-23
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. R4153-6 (V)
 
 
 ###### Article D211-6
@@ -89841,17 +89763,13 @@ relatifs à la réglementation du travail et notamment à ceux qui protègent la
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°72-1168 1972-12-23
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Code du travail - art. D4153-7 (V)
 
 
 #### Chapitre II : DUREE DU TRAVAIL
@@ -94695,13 +94613,13 @@ d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1048 1973-11-15
+	  - Arrêté  1967-01-03 JORF 13 JANVIER
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
 
 
 ##### Paragraphe 4 : Incompatibilités.
