@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1975-01-25
+Version Consolidée au 1975-03-04
 
 # Partie législative ancienne
 
@@ -94510,6 +94510,198 @@ selon la nature des questions étudiées, des représentants d'administrations o
 	**Cité par**:
 
 	  - Code du travail - art. D322-4 (VT)
+
+
+### FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .
+
+###### Article D322-11
+
+Un arrêté conjoint du ministre de l'économie et des finances et du ministre du travail détermine les zones géographiques
+atteintes ou menacées d'un grave déséquilibre de l'emploi où peuvent être engagées en application de l'article L. 322-11 des
+actions de prévention destinées à éviter des licenciements pour cause économique. A l'intérieur de ces zones, un arrêté pris
+par chaque préfet de région déterminera les professions touchées par ce déséquilibre, après consultation du comité régional
+de la formation professionnelle, de la promotion sociale et de l'emploi.
+
+Par arrêté conjoint, le ministre de l'économie et des finances et le ministre du travail pourront, après consultation de la
+commission permanente du comité supérieur de l'emploi et conclusion d'une convention cadre avec un organisme professionnel ou
+interprofessionnel, constater qu'une ou plusieurs professions répondent dans leur ensemble aux conditions visées à l'article
+L. 322-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 26 janvier 1981
+	  - TXT_SOURCE: Arrêté du 26 janvier 1981 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1983
+	  - TXT_SOURCE: Arrêté du 7 février 1983 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 19 mai 1987 - art. ANNEXE (V)
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 28 novembre 1986 - art. annexe (Ab)
+	  - Code du travail - art. D322-14 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L322-11 (M)
+
+
+###### Article D322-12
+
+L'employeur qui désire obtenir le bénéfice des dispositions du 2. alinéa de l'article L. 322-11 doit en faire la demande au
+service départemental du travail et de la main-d'oeuvre, en produisant toutes justifications utiles sur les raisons
+économiques, financières ou techniques du ou des licenciements auxquels il envisagerait de procéder.
+
+L'employeur est tenu [*obligation*] de consulter le comité d'entreprise ou d'établissement ou à défaut les délégués du
+personnel sur la demande de convention présentée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 28 novembre 1986 - art. annexe (Ab)
+
+	**Cite**:
+
+	  - Code du travail L322-11 AL. 2
+
+
+###### Article D322-13
+
+Dans la mesure où les motifs invoqués pour justifier les licenciements sont reconnus fondés par le service départemental du
+travail et de la main-d'oeuvre, une convention peut être conclue avec l'entreprise, à l'effet d'éviter les licenciements ou
+d'en réduire le nombre.
+
+Sous réserve que l'employeur s'engage à maintenir dans leur emploi les travailleurs intéressés pour une certaine durée,
+
+cette convention peut prévoir la prise en charge partielle par l'Etat, pour une durée équivalente qui ne saurait toutefois
+excéder six mois [*maximum*], renouvelables une fois, des indemnités complémentaires versées par l'entreprise en application
+d'un accord dûment agréé à tout ou partie des travailleurs victimes d'une réduction d'activité au-dessous de la durée légale
+de travail.
+
+Dans tous les cas, le nombre d'heures prises en charge ne peut excéder le contingent annuel d'heures [*maximum*]
+indemnisables déterminé en conformité des dispositions de l'article R. 351-26.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 1 avril 1987
+	  - TXT_SOURCE: Arrêté du 1 avril 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE, 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE, 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE, 3 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE, 4 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE, 5 (V)
+	  - TXT_SOURCE: Arrêté du 19 mai 1987 - art. ANNEXE, 6 (V)
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°90-367 du 27 avril 1990 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°92-354 du 1 avril 1992
+	  - TXT_SOURCE: Arrêté du 14 février 1985
+	  - TXT_SOURCE: Arrêté du 14 février 1985 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 février 1986
+	  - TXT_SOURCE: Arrêté du 26 février 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 février 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 26 juin 1984
+	  - TXT_SOURCE: Arrêté du 26 juin 1984 - art. 1 (P)
+	  - TXT_SOURCE: Arrêté du 26 juin 1984 - art. 2 (P)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1986
+	  - TXT_SOURCE: Arrêté du 28 novembre 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1986 - art. annexe (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 19 mai 1987 - art. 1 (V)
+	  - Arrêté du 19 mai 1987 - art. ANNEXE, 6 (V)
+	  - Décret n°90-367 du 27 avril 1990 - art. 1 (V)
+	  - Arrêté du 12 août 1985 - art. 1 (Ab)
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 28 novembre 1986 - art. 1 (Ab)
+	  - Arrêté du 28 novembre 1986 - art. annexe (Ab)
+	  - Code du travail - art. D322-14 (VT)
+	  - Code du travail - art. D322-15 (VT)
+	  - Code du travail - art. D322-16 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R351-26 (P)
+
+
+###### Article D322-15
+
+Les conventions prévues à l'article D. 323-13 précédent sont conclues au nom de l'Etat par le préfet [*compétence*] ou sur
+délégation de celui-ci par le directeur départemental du travail et de la main-d'oeuvre.
+
+Les dépenses correspondantes sont imputées sur le crédit budgétaire intitulé Fonds national de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 28 novembre 1986 - art. annexe (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. D322-13 (M)
+
+
+###### Article D322-16
+
+Pour l'application des articles D. 322-13 et D. 322-14 ci-dessus, une convention type est établie par arrêté du ministre du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 19 mai 1987 - art. ANNEXE (V)
+	  - Arrêté du 12 août 1985 - art. Annexe (Ab)
+	  - Arrêté du 28 avril 1980 - art. 1 (V)
+	  - Arrêté du 28 novembre 1986 - art. annexe (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 avril 1980
+	  - TXT_SOURCE: Arrêté du 28 avril 1980 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 avril 1980 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. D322-13 (M)
+	  - Code du travail - art. D322-14 (M)
 
 
 ### DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS
