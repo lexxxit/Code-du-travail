@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-07-17
+Version Consolidée au 1980-07-18
 
 # Partie législative ancienne
 
@@ -81896,6 +81896,97 @@ handicapé sont pris en compte soit pour le calcul du pourcentage obligatoire d'
 	**Anciens textes**:
 
 	  - Décret n°1962-07-26 ART. 37
+
+
+##### PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS.
+
+###### Article R323-59-1
+
+Le salaire que doit percevoir le travailleur handicapé occupant un emploi de travail protégé, prévu par l'article L. 323-29,
+ne peut en aucun cas être inférieur à la moitié du salaire normalement alloué au travailleur valide accomplissant la même
+tache [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-550 1980-07-15 ART. 1 JORF 18 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-29 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-59-2 (Ab)
+
+
+###### Article R323-59-2
+
+Le salaire minimum prévu à l'article précédent est fixé pour chaque travailleur par le directeur départemental du travail et
+de l'emploi [*autorité compétente*] sur avis motivé de la commission technique d'orientation et de reclassement
+professionnel. Cet avis est émis au vu d'un rapport de l'inspection du travail sur les conditions dans lesquelles doit être
+exécuté le contrat de travail du travailleur handicapé.
+
+En ce qui concerne les professions agricoles mentionnées à l'article L. 323-12, le directeur départemental du travail et de
+l'emploi exerce les attributions qui lui sont conférées à l'alinéa ci-dessus en accord avec le chef du service départemental
+de l'inspection du travail et de la protection sociale agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-550 1980-07-15 ART. 1 JORF 18 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-12 (M)
+	  - Code du travail - art. R323-59-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-59-3 (Ab)
+
+
+###### Article R323-59-3
+
+Le travailleur handicapé embauché dans un emploi de travail protégé, est soumis à une période d'adaptation, ne pouvant
+excéder six mois [*durée*], à l'issue de laquelle le salaire minimum qu'il doit percevoir est réexaminé dans les conditions
+définies à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°80-550 1980-07-15 ART. 1 JORF 18 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-59-2 (M)
 
 
 ##### ETABLISSEMENTS SPECIALISES .
