@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-10-01 00:00:01 +0100
+Version Consolidée au 1974-11-20
 
 # Partie législative ancienne
 
@@ -20982,6 +20982,26 @@ Les caractéristiques et les conditions d'attribution desdits labels sont fixée
 	**Anciens textes**:
 
 	  - Loi   1957-11-23 ART. 25
+
+
+##### SECTION 2 bis : HANDICAPES SOCIAUX.
+
+###### Article L323-35 bis
+
+Les dispositions de la sous-section 4 Travail protégé de la section II du présent chapitre sont, dans les conditions définies
+par voie réglementaire, applicables aux personnes reçues [*bénéficiaires*] dans un des centres d'hébergement et de
+réadaptation sociale prévus à l'article 185 du code de la famille et de l'aide sociale ou qui sortent d'un de ces centres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail L323-29 A L323-33
+	  - Code de la famille et de l'aide sociale. - art. 185 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ##### SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.
