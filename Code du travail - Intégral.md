@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1979-07-06
 
 # Partie législative ancienne
 
@@ -111683,6 +111683,30 @@ chaque département d'outre-mer.
 	**Cite**:
 
 	  - Code du travail
+
+
+##### Section 2 : Règles particulières à la répartition des pourboires.
+
+###### Article D814-4
+
+Les modalités d'application dans les départements [*outre-mer*] de la Guadeloupe, de la Guyane, de la Martinique, de la
+Réunion et de Saint-Pierre-et-Miquelon des dispositions de l'article R. 147-2 prévues par catégories professionnelles par
+voie de convention collective ou de décret en conseil d'état pris après consultation des organisations d'employeurs et de
+travailleurs sont déterminées par arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-592 1948-03-30 ART. 2 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-559 du 30 juin 1979 - art. 1 (V)
 
 
 ### Titre II : Réglementation du travail
