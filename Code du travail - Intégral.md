@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1982-05-09
+Version Consolidée au 1982-06-11
 
 # Partie législative ancienne
 
@@ -89471,6 +89471,64 @@ des dépenses du budget du ministère de la justice en vue de l'encaissement ou 
 	  - Décret n°80-196 du 10 mars 1980 - art. 1 () JORF 14 MARS
 
 
+##### Chapitre III : Election des prud'hommes
+
+##### Section 1 : Electorat, éligibilité et établissement des listes électorales
+
+##### Paragraphe 1 : Electorat.
+
+###### Article R513-9
+
+Les salariés mentionnés au troisième alinéa de l'article R. 513-1 sont électeurs au titre de la section de l'encadrement sans
+que soit prise en considération l'activité de l'entreprise ou de l'établissement dont ils dépendent.
+
+Les employeurs qui ne comptent dans leur personnel que des salariés relevant de la section de l'encadrement ne peuvent voter
+qu'au titre de cette section. Peuvent être inscrits, à leur demande, au titre de la section de l'encadrement, les employeurs
+dont un salarié au moins relève de ladite section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. R513-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-7 (M)
+	  - Code du travail - art. R513-7 annexe 1 (M)
+
+
+###### Article R513-10
+
+Sont électeurs au titre de la section des activités diverses les salariés mentionnés au sixième alinéa de l'article L. 512-2
+[*les ouvriers et employés dont les employeurs n'exercent pas une activité industrielle, commerciale ou agricole, ainsi que
+les employés de maison, concierges et gardiens d'immeubles à usage d'habitation*].
+
+Sont électeurs au titre de la même section les employeurs qui ne relèvent pas des autres sections.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L512-2 (M)
+
+
 ### Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 #### Chapitre Ier : Attributions et institution des conseils de prud'hommes.
@@ -89550,6 +89608,36 @@ Le siège et le ressort des conseils de prud'hommes sont fixés conformément au
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R1422-4 (V)
+
+
+###### Article R512-2
+
+La date de l'élection générale pour le renouvellement des conseils de prud'hommes prévu au premier alinéa de l'article L.
+513-4 est fixée par décret pris après avis des organisations professionnelles et syndicales les plus représentatives sur le
+plan national ; cette élection a lieu dans le courant du mois de décembre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 1 JORF 11 JUIN 1982
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L512-4 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L513-4 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R51-11-1 (Ab)
+	  - Code du travail - art. R513-119 (M)
 
 
 ###### Article R512-4
@@ -90063,6 +90151,810 @@ prévues pour les fonctionnaires de leur catégorie par le décret n° 66-619 du
 	**Cité par**:
 
 	  - Arrêté du 19 décembre 2005 - art. Annexe (V)
+
+
+#### Chapitre III : Election des prud'hommes
+
+##### Section 1 : Electorat, éligibilité et établissement des listes électorales
+
+##### Paragraphe 1 : Electorat.
+
+###### Article R513-1
+
+Nul ne peut être admis à voter s'il n'est inscrit sur une liste électorale prud'homale [*condition d'électorat*].
+
+Toutefois, par dérogation à la disposition de l'alinéa précédent, sont admis à voter, quoique non inscrits et sous réserve du
+contrôle de leur identité, conformément à l'article L. 62 du code électoral, les électeurs porteurs d'une décision du juge du
+tribunal d'instance ordonnant leur inscription ou d'un arrêt de la Cour de cassation annulant un jugement qui aurait prononcé
+leur radiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (Ab)
+	  - Code du travail - art. R513-2 (M)
+	  - Code du travail - art. R513-7 (M)
+	  - Code du travail - art. R513-9 (M)
+
+
+###### Article R513-3
+
+Sont assimilées à des périodes d'activité professionnelle pour l'application de l'article L. 513-1 les périodes de suspension
+du contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+
+###### Article R513-4
+
+Nul ne peut être inscrit sur la liste électorale prud'homale à la fois en qualité d'employeur et en qualité de salarié *non
+cumul, interdiction*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+
+###### Article R513-5
+
+Sans préjudice des dispositions propres aux sections de l'encadrement et des activités diverses, la répartition par section
+des électeurs salariés qui sont employés dans une seule entreprise et des électeurs employeurs qui exercent une seule
+activité professionnelle s'effectue d'après l'activité principale des entreprises *critères*.
+
+Lorsqu'une entreprise comprend plusieurs établissements, les salariés et les employeurs de chacun de ces établissements sont
+électeurs au titre de la section correspondant à l'activité principale de cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+
+###### Article R513-6
+
+Lorsqu'un employeur exerce des activités professionnelles multiples, la section au titre de laquelle il est électeur est
+déterminée par son activité principale.
+
+Lorsqu'un salarié exerce son activité professionnelle dans plusieurs entreprises, la section au titre de laquelle il est
+électeur est déterminée comme s'il n'était employé que dans l'entreprise où s'exerce son activité principale.
+
+L'activité principale de l'employeur est celle de ses activités professionnelles au titre de laquelle il occupe le plus grand
+nombre de salariés.
+
+L'activité principale du salarié est celle dont il a tiré au cours du premier trimestre de l'année de l'élection la majeure
+partie des revenus que lui ont procurés au cours de la même période l'ensemble de ses activités salariées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+
+###### Article R513-7
+
+Sous réserve des dispositions des articles R. 513-8 et R. 513-9, l'activité principale des entreprises et des établissements
+est présumée résulter du numéro de classement dans la nomenclature d'activités qui leur est attribuée dans le répertoire tenu
+par l'institut national de la statistique et des études économiques en application du décret n° 73-314 du 14 mars 1973 à la
+date du 31 mars de l'année de l'élection générale.
+
+Les entreprises et les établissements qui exercent à titre principal une des activités incluses dans le tableau joint en
+annexe I relèvent de la section de l'industrie ; ceux qui exercent à titre principal une des activités incluses dans le
+tableau joint en annexe II relèvent de la section du commerce et des services commerciaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 art. 2 JORF 11 juin 1982
+
+
+###### Article R513-8
+
+Relèvent de la section de l'agriculture les entreprises ou les établissements qui, au titre de leur activité principale,
+emploient un ou plusieurs salariés [*agricoles*] entrant dans les catégories prévues aux 1° à 7° et 9° de l'article 1144 du
+code rural.
+
+Relèvent également de ladite section, en qualité d'employeurs, les métayers qui occupent un ou plusieurs salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L513-6 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-7 (M)
+	  - Code du travail - art. R513-7 annexe 1 (M)
+
+	**Cite**:
+
+	  - Code rural 1144
+
+
+##### Paragraphe 3 : Etablissement des listes électorales.
+
+###### Article R513-21
+
+Dans les dix jours de l'affichage prévu à l'article R. 513-20 [*délai de prescription*], tout électeur de la commune ou le
+commissaire de la République peut réclamer l'inscription ou la radiation d'un électeur omis ou indûment inscrit. Il peut
+contester le rattachement à une section d'un électeur, d'une entreprise ou d'un établissement.
+
+Les recours sont formés devant le tribunal d'instance [*compétent*] dans le ressort duquel est située la commune dont la
+liste est contestée.
+
+Les électeurs mineurs peuvent présenter une réclamation ou défendre à une réclamation dirigée contre eux, sans autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. R513-20 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-24 (VT)
+	  - Code du travail - art. R513-25 (VT)
+	  - Code du travail - art. R513-26 (VT)
+
+
+###### Article R513-22
+
+Le recours est formé par déclaration orale ou écrite, faite, remise ou adressée au secrétariat-greffe du tribunal d'instance
+[*procédure obligatoire*]. La déclaration indique les nom, prénoms et adresse du requérant, la qualité en laquelle il agit et
+l'objet du recours ; si celui-ci concerne un autre électeur que le requérant, elle précise en outre les nom, prénoms et
+adresse de cet électeur [*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-21 (VT)
+
+
+###### Article R513-23
+
+Dans les dix jours du recours [*délai*], le tribunal d'instance statue sans forme, sans frais et sur simple avertissement
+donné trois jours à l'avance à toutes les parties intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-21 (M)
+	  - Code du travail - art. R513-21-2 (M)
+
+
+###### Article R513-24
+
+La décision prise par le tribunal d'instance est notifiée dans les trois jours par le secrétariat-greffe au requérant et,
+s'il y a lieu, à l'électeur intéressé par lettre recommandée avec demande d'avis de réception. Le secrétariat-greffe en donne
+avis au commissaire de la République et au maire dans le même délai.
+
+La décision n'est pas susceptible d'opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-21 (VT)
+
+
+###### Article R513-25
+
+Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance [*délai*].
+Il n'est pas suspensif.
+
+Les dispositions des articles R. 15-2 à R. 15-6 du code électoral sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code électoral - art. R15-2 (M)
+	  - Code électoral - art. R15-3 (M)
+	  - Code électoral - art. R15-4 (M)
+	  - Code électoral - art. R15-5 (M)
+	  - Code électoral - art. R15-6 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-26 (VT)
+
+
+###### Article R513-26
+
+Les délais fixés par les articles R. 513-21 [*délai d'inscription ou de radiation d'un électeur*] et R. 513-25 [*délai de
+pourvoi en cassation*] sont calculés et prorogés conformément aux dispositions des articles 640, 641 et 642 du nouveau code
+de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code civil - art. 640 (V)
+	  - Code civil - art. 641 (V)
+	  - Code civil - art. 642 (V)
+	  - Code du travail - art. R513-21 (M)
+	  - Code du travail - art. R513-25 (M)
+
+
+###### Article R513-27
+
+Le juge du tribunal d'instance, directement saisi, a compétence pour statuer jusqu'au jour du scrutin sur les réclamations
+présentées en application de l'article L. 34 du code électoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2002-395 du 22 mars 2002 - art. 61 () JORF 24 mars 2002
+
+	**Cite**:
+
+	  - Code électoral - art. L34 (V)
+
+
+###### Article R513-28
+
+Tout électeur de la commune peut, à ses frais, prendre communication et copie de la liste électorale prud'homale à condition
+de s'engager à ne pas en faire un usage qui ne soit strictement lié à l'élection prud'homale.
+
+A l'expiration du délai de huit jours suivant l'affichage des résultats du scrutin, la liste électorale ne peut plus être
+consultée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+
+##### SECTION 1 : ELECTORAT
+
+##### PARAGRAPHE 1 : ELECTORAT.
+
+###### Article R513-2
+
+Les conditions pour être électeur s'apprécient au 31 mai de l'année de l'élection générale [*date*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Décret n°2002-398 du 22 mars 2002 - art. 1 (V)
+	  - Décret n°2007-1818 du 24 décembre 2007 (V)
+	  - Décret n°2007-1818 du 24 décembre 2007 - art. 1 (V)
+	  - Code du travail - art. R513-17 (Ab)
+	  - Code du travail - art. R513-7 (VT)
+
+
+##### SECTION 1 : ETABLISSEMENT DES LISTES ELECTORALES
+
+##### PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
+
+###### Article R513-11
+
+En vue de l'établissement de la liste électorale, chaque employeur adresse au plus tard le 31 juillet de l'année de
+l'élection générale, aux maires compétents, des états distincts énumérant respectivement :
+
+- les cadres qui sont électeurs employeurs au sens du cinquième alinéa de l'article L. 513-1 du code du travail, avec
+l'indication de la section dans laquelle ils sont inscrits ;
+
+- le personnel d'encadrement défini au troisième alinéa de l'article L. 513-1 du code du travail ;
+
+- les autres salariés.
+
+Toutefois, par dérogation à l'alinéa précédent, lorsque les salariés recensés par l'employeur exercent leurs activités dans
+plusieurs communes ou lorsqu'ils travaillent en dehors de tout établissement, leurs noms sont portés sur des états distincts.
+
+Sont portés sur un état distinct les salariés qui déclarent dépendre de plusieurs employeurs. Sont présumés dépendre de
+plusieurs employeurs, sauf déclaration contraire de leur part, les salariés qui travaillent moins de vingt heures par semaine
+dans l'entreprise considérée.
+
+Lorsque l'entreprise comprend plusieurs établissements les états mentionnés au premier alinéa ci-dessus sont dressés par
+établissement. Ces états font mention de la section dont relève l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Décret n°82-491 du 9 juin 1982 - art. 1 (V)
+	  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V)
+	  - Décret n°87-112 du 18 février 1987 - art. 1 (V)
+	  - Décret n°92-230 du 12 mars 1992 - art. 1 (V)
+	  - Décret n°2002-397 du 22 mars 2002 - art. 1 (V)
+	  - Décret n°2002-398 du 22 mars 2002 - art. 2 (V)
+	  - Décret n°2007-1130 du 23 juillet 2007 - art. 5 (V)
+	  - Code du travail - art. R513-12 (M)
+	  - Code du travail - art. R513-14 (M)
+	  - Code du travail - art. R513-15 (Ab)
+	  - Code du travail - art. R513-16 (M)
+	  - Code du travail - art. R513-18 (M)
+	  - Code du travail - art. R513-30 (Ab)
+	  - Code du travail - art. R531-1 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L513-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
+
+
+###### Article R513-12
+
+Préalablement à la transmission au maire des états mentionnés à l'article R. 513-11, l'employeur prend, après consultation
+des organisations syndicales de salariés représentatives dans l'entreprise, toute mesure utile en vue de faire connaître au
+personnel que ces états sont ouverts à la consultation [*information*]. Celle-ci ne peut avoir lieu pendant la période
+annuelle de fermeture de l'entreprise pour congés.
+
+Les états peuvent être consultés dans leur intégralité.
+
+Dans les entreprises ou les établissements occupant habituellement plus de dix salariés [*effectif*], le personnel est
+prévenu de l'ouverture de la période de consultation par voie d'affichage dans les lieux de travail.
+
+Les états sont arrêtés à l'expiration du délai de quinze jours pendant lequel ils sont tenus à la disposition du personnel.
+
+L'employeur joint aux états mentionnés à l'article R. 513-11 les observations écrites des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. R513-11 (Ab)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-13 (M)
+	  - Code du travail - art. R513-14 (M)
+	  - Code du travail - art. R513-16 (VT)
+	  - Code du travail - art. R531-1 (VT)
+	  - Code du travail - art. R531-2 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
+
+
+###### Article R513-13
+
+Dans les entreprises ou les établissements occupant habituellement plus de dix salariés [*effectif*], l'employeur dresse un
+procès-verbal des conditions dans lesquelles a été organisée la consultation prévue à l'article R. 513-12. Ce procès-verbal,
+qui mentionne la date à laquelle les états ont été envoyés au maire, est affiché dans les lieux de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. R512-5 (M)
+	  - Code du travail - art. R531-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R513-12 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
+
+
+###### Article R513-14
+
+Les états et les observations mentionnés à l'article R. 513-12 doivent être adressés au plus tard le 31 juillet de l'année de
+l'élection générale [*date limite*] aux maires compétents :
+
+S'il s'agit des états mentionnés au premier alinéa de l'article R. 513-11, au maire de la commune dans le ressort de laquelle
+l'entreprise ou l'établissement a son siège [*autorité compétente*] ;
+
+S'il s'agit des états mentionnés aux deuxième et troisième alinéas de l'article R. 513-11, aux maires des communes dans
+lesquelles les électeurs salariés intéressés ont leurs domiciles respectifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V)
+	  - Code du travail - art. R513-16 (M)
+	  - Code du travail - art. R513-18 (M)
+	  - Code du travail - art. R531-1 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. R513-11 (Ab)
+	  - Code du travail - art. R513-12 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. R531-1 (V)
+
+
+###### Article R513-15
+
+Chaque employeur adresse, au plus tard le 31 juillet de l'année de l'élection générale [*date limite*], au maire de la
+commune où il exerce son activité professionnelle principale un état en vue de sa propre inscription. Il précise la section
+dont il relève.
+
+Cette disposition ne s'applique pas aux salariés ayant la qualité d'électeur employeur au sens du cinquième alinéa de
+l'article L. 513-1 du code du travail.
+
+Si, par application du sixième alinéa de l'article L. 513-1 du code du travail, l'employeur a la faculté d'opter entre la
+section correspondant à son activité professionnelle principale et la section de l'encadrement, il indique celle des deux
+sections au titre de laquelle il entend être électeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Décret n°82-491 du 9 juin 1982 - art. 1 (V)
+	  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V)
+	  - Décret n°87-112 du 18 février 1987 - art. 1 (V)
+	  - Code du travail - art. R513-15-2 (VT)
+	  - Code du travail - art. R513-15-3 (VT)
+	  - Code du travail - art. R513-16 (M)
+	  - Code du travail - art. R513-18 (M)
+	  - Code du travail - art. R513-30 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L513-1 (M)
+
+
+###### Article R513-16
+
+Au vu des états qui lui ont été communiqués par les employeurs en application des articles R. 513-14 et R. 513-15 et des
+demandes dont il est saisi en application de l'article R. 513-17, le maire, assisté de la commission prévue au sixième alinéa
+de l'article L. 513-3, inscrit sur la liste électorale les salariés et les employeurs qui remplissent les conditions légales
+pour être électeurs et pour exercer leur droit de vote dans la commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L513-3 (M)
+	  - Code du travail - art. R513-14 (Ab)
+	  - Code du travail - art. R513-15 (Ab)
+	  - Code du travail - art. R513-17 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-18 (M)
+
+
+###### Article R513-17
+
+Les salariés involontairement privés d'emploi [*chômeurs*] au 31 mai de l'année de l'élection générale demandent, au plus
+tard le 31 juillet de cette même année [*date limite*], leur inscription sur la liste électorale de la mairie du lieu de leur
+domicile.
+
+A cet effet, ils joignent, à leur demande présentée sur un état particulier, leur dernier bulletin de paie ou indiquent,
+
+à défaut, le nom, l'adresse et l'activité de la dernière entreprise dans laquelle ils ont travaillé.
+
+Est considéré comme involontairement privé d'emploi [*définition*] le salarié attestant sur l'honneur être à la recherche
+d'un emploi et n'avoir pas quitté volontairement sans motif reconnu légitime sa dernière activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Décret n°82-491 du 9 juin 1982 - art. 1 (V)
+	  - Décret n°82-687 du 30 juillet 1982 - art. 1 (V)
+	  - Décret n°87-112 du 18 février 1987 - art. 1 (V)
+	  - Décret n°92-230 du 12 mars 1992 - art. 1 (V)
+	  - Décret n°2002-397 du 22 mars 2002 - art. 1 (V)
+	  - Décret n°2002-398 du 22 mars 2002 - art. 3 (V)
+	  - Code du travail - art. R513-16 (M)
+	  - Code du travail - art. R513-18 (M)
+	  - Code du travail - art. R513-30 (Ab)
+
+
+###### Article R513-18
+
+La commission administrative prévue au sixième alinéa de l'article L. 513-3 est composée du maire ou de son représentant,
+d'un électeur employeur titulaire ou suppléant et d'un électeur salarié, titulaire ou suppléant.
+
+Les employeurs et les salariés, titulaires et suppléants,
+
+sont nommés par le conseil municipal, sur proposition du maire, parmi les électeurs inscrits sur la liste électorale
+prud'homale de la commune.
+
+En outre, les organisations professionnelles et syndicales les plus représentatives sur le plan national peuvent désigner un
+représentant qui participe aux travaux de la commission avec voix consultative.
+
+Le nombre des bureaux de vote est déterminé par le commissaire de la République dans des conditions fixées par décret. Compte
+tenu du sectionnement électoral, et afin de préparer les travaux de la commission administrative, il peut être créé des sous-
+commissions composées de la même façon et selon les mêmes modalités que la commission elle-même.
+
+En cas d'impossibilité de composer la commission conformément aux dispositions des alinéas 2 et 3 ci-dessus, le conseil
+municipal peut faire appel à toute personne inscrite sur la liste électorale établie en application du code électoral.
+
+Le secrétariat de la commission est assuré par un agent de la commune.
+
+La commission examine les états adressés aux maires en vertu des articles R. 513-14 et R. 513-15 ainsi que les demandes dont
+il est saisi en application de l'article R. 513-17.
+
+Elle soumet au maire un projet de liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L513-3 (M)
+	  - Code du travail - art. R513-14 (Ab)
+	  - Code du travail - art. R513-15 (Ab)
+	  - Code du travail - art. R513-17 (M)
+
+
+###### Article R513-19
+
+Le maire établit la liste électorale en procédant à l'inscription dans chaque section des électeurs salariés et des électeurs
+employeurs. Il arrête cette liste le 30 septembre de l'année de l'élection générale. Il en transmet un exemplaire au
+commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-20 (VT)
+
+
+###### Article R513-20
+
+Le 1er octobre de l'année de l'élection générale [*date*], la liste électorale de chaque commune est déposée au secrétariat
+de la mairie [*lieu*] en vue de sa consultation par toute personne intéressée. Dans les villes divisées en plusieurs
+arrondissements municipaux, la liste des électeurs de chaque arrondissement est déposée au secrétariat de la mairie ou de la
+mairie annexe de cet arrondissement.
+
+Le même jour, le maire avise les électeurs par voie d'affichage, du dépôt de la liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Cité par**:
+
+	  - Code du travail - art. R513-21 (M)
+	  - Code du travail - art. R513-43 (VT)
+	  - Code du travail - art. R531-2 (VT)
+
+
+###### Article R513-29
+
+La liste électorale, rectifiée, s'il y a lieu, pour tenir compte des décisions judiciaires, est close le 31 octobre [*date*]
+
+de l'année de l'élection générale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+
+###### Article R513-30
+
+Les états mentionnés aux articles R. 513-11, R. 513-15 et R. 513-17 doivent être conformes aux modèles fixés par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 2 JORF 11 JUIN 1982
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-112 du 18 février 1987
+	  - TXT_SOURCE: Décret n°87-112 du 18 février 1987 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°87-112 du 18 février 1987 - art. ANNEXE (V)
+	  - TXT_SOURCE: Décret n°92-230 du 12 mars 1992
+	  - TXT_SOURCE: Décret n°92-230 du 12 mars 1992 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R513-11 (Ab)
+	  - Code du travail - art. R513-15 (Ab)
+	  - Code du travail - art. R513-17 (M)
 
 
 #### Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
@@ -91181,6 +92073,62 @@ le médiateur ainsi choisi et lui transmet le dossier constitué sur le différe
 
 
 ### Titre III : Pénalités
+
+#### Chapitre Ier : Conflits individuels - Conseils de prud'hommes.
+
+###### Article R531-2
+
+La publication ou la diffusion des mentions relatives aux personnes à l'occasion de la consultation des états et de la liste
+électorale, prévue aux articles R. 513-12 et R. 513-20, ainsi que l'utilisation de la liste à des fins autres que des fins
+électorales seront punies des peines prévues pour les contraventions de la quatrième classe [*(1) montant*].
+
+L'amende pourra être prononcée autant de fois qu'il y aura d'irrégularités.
+
+**Nota:**
+
+[(1) voir l'article 131-13 du code pénal. ]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 3 JORF 11 JUIN 1982
+
+
+#### Chapitre Ier : Conflits individuels
+
+##### Conseils de prud'hommes.
+
+###### Article R531-1
+
+L'employeur qui aura contrevenu aux dispositions des alinéas 4 et 5 de l'article L. 513-3 et des articles R. 513-11 à R.
+513-14 sera puni des peines prévues pour les contraventions de la quatrième classe.
+
+En cas d'infraction aux dispositions des alinéas 4 et 5 de l'article L. 513-3, l'amende pourra être prononcée autant de fois
+qu'il y aura d'irrégularités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°82-490 1982-06-09 ART. 3 JORF 11 JUIN 1982
+
+	**Cite**:
+
+	  - Code du travail - art. L513-3 (M)
+	  - Code du travail - art. R513-11 (Ab)
+	  - Code du travail - art. R513-12 (Ab)
+	  - Code du travail - art. R513-13 (M)
+	  - Code du travail - art. R513-14 (Ab)
+
 
 #### Chapitre II : Conflits collectifs
 
@@ -118487,6 +119435,284 @@ collèges d'enseignement technique et de l'article R. 322-9.
 
 
 # Annexes
+
+## Livre 5 : Conflits du travail
+
+### Titre 1 : Conflits individuels - Conseils de prud'hommes
+
+#### Chapitre 3 : Election des prud'hommes
+
+##### SECTION 1 : ELECTORAT
+
+##### PARAGRAPHE 1 : ELECTORAT
+
+###### Article R513-7 annexe 1
+
+Sous réserve des dispositions des articles R. 513-8 et R. 513-9, l'activité principale des entreprises et des établissements
+est présumée résulter du numéro de classement dans la nomenclature d'activités qui leur est attribuée dans le répertoire tenu
+par l'institut national de la statistique et des études économiques en application du décret n° 73-314 du 14 mars 1973 à la
+date du 31 mai 1982.
+
+Les entreprises et les établissements qui exercent à titre principal une des activités incluses dans le tableau joint en
+annexe I relèvent de la section de l'industrie ; ceux qui exercent à titre principal une des activités incluses dans le
+tableau joint en annexe II relèvent de la section du commerce et des services commerciaux.
+
+ANNEXE I                         -----    Tableau des activités relevant de la section de l'industrie.
+
+-----    Les activités incluses dans le tableau ci-après sont définies par référence à la nomenclature d'activités approuvée
+par le décret n° 73-1036 du 9 novembre 1973 :
+
+==================================================================
+
+<table>
+  <tbody>
+    <tr>
+      <td> : : DEFINITION :</td>
+    </tr>
+    <tr>
+      <td> : : par référence :</td>
+    </tr>
+    <tr>
+      <td> : INTITULE : au niveau 100 :</td>
+    </tr>
+    <tr>
+      <td> : : activités :</td>
+    </tr>
+    <tr>
+      <td> : : (N.A.P. 1973) :</td>
+    </tr>
+    <tr>
+      <td> :---------------------------------------------:------------------:</td>
+    </tr>
+    <tr>
+      <td> : Pêche : 03 :</td>
+    </tr>
+    <tr>
+      <td> : Production de combustibles minéraux solides : :</td>
+    </tr>
+    <tr>
+      <td> : et cokéfaction : 04 :</td>
+    </tr>
+    <tr>
+      <td> : Production de pétrole et de gaz naturel : 05 :</td>
+    </tr>
+    <tr>
+      <td> : Production et distribution d'électricité, : :</td>
+    </tr>
+    <tr>
+      <td> : distribution de gaz et d'eau : 06 à 08 :</td>
+    </tr>
+    <tr>
+      <td> : Production de minerais et métaux ferreux, : :</td>
+    </tr>
+    <tr>
+      <td> : première transformation de l'acier : 09 à 11 :</td>
+    </tr>
+    <tr>
+      <td> : Production de minerais, métaux et : :</td>
+    </tr>
+    <tr>
+      <td> : demi-produits non ferreux : 12 et 13 :</td>
+    </tr>
+    <tr>
+      <td> : Production de matériaux de construction et : :</td>
+    </tr>
+    <tr>
+      <td> : minéraux divers : 14 et 15 :</td>
+    </tr>
+    <tr>
+      <td> : Industrie du verre : 16 :</td>
+    </tr>
+    <tr>
+      <td> : Chimie de base, production de fils et : :</td>
+    </tr>
+    <tr>
+      <td> : fibres artificiels et synthétiques : 17 et 43 :</td>
+    </tr>
+    <tr>
+      <td> : Parachimie et industrie pharmaceutique : 18 et 19 :</td>
+    </tr>
+    <tr>
+      <td> : Fonderie et travail des métaux : 20 et 21 :</td>
+    </tr>
+    <tr>
+      <td> : Construction mécanique : 22 à 25 et 34 :</td>
+    </tr>
+    <tr>
+      <td> : Construction électrique et électronique : 27 à 30 :</td>
+    </tr>
+    <tr>
+      <td> : Construction de véhicules automobiles et : :</td>
+    </tr>
+    <tr>
+      <td> : d'autres matériels de transport terrestre : 31 :</td>
+    </tr>
+    <tr>
+      <td> : Construction navale et aéronautique, : :</td>
+    </tr>
+    <tr>
+      <td> : armement : 32 et 33, 26 :</td>
+    </tr>
+    <tr>
+      <td> : Industries agricoles et alimentaires : 35 à 42 :</td>
+    </tr>
+    <tr>
+      <td> : Industries textile, de l'habillement, du : :</td>
+    </tr>
+    <tr>
+      <td> : cuir et de la chaussure : 42 à 47 :</td>
+    </tr>
+    <tr>
+      <td> : Industries du bois et de l'ameublement ; : :</td>
+    </tr>
+    <tr>
+      <td> : industries diverses : 48, 49 et 54 :</td>
+    </tr>
+    <tr>
+      <td> : Industrie du papier et du carton : 50 :</td>
+    </tr>
+    <tr>
+      <td> : Imprimerie, presse, édition : 51 :</td>
+    </tr>
+    <tr>
+      <td> : Industrie du caoutchouc et de la : :</td>
+    </tr>
+    <tr>
+      <td> : transformation des matières plastiques : 52 et 53 :</td>
+    </tr>
+    <tr>
+      <td> : Industrie de mise en oeuvre du bâtiment et : :</td>
+    </tr>
+    <tr>
+      <td> : du génie civil et agricole : 55 :</td>
+    </tr>
+  </tbody>
+</table>
+
+==================================================================
+
+**Nota:**
+
+NOTA : activités NAP comprises : 07, 10, 23, 24, 28, 29,
+
+36, 37, 38, 39, 40, 41, 43, 44, 45, 46.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°73-314 1973-03-14
+	  - Décret n°73-1036 1973-11-09
+	  - Code du travail - art. R513-8 (Ab)
+	  - Code du travail - art. R513-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 art. 2 JORF 11 juin 1982
+
+
+### Titre 1 : Conflits individuels
+
+#### Conseils de prud'hommes
+
+##### Chapitre 3 : Election des prud'hommes
+
+##### Section 1 : Electorat, éligibilité et établissement des listes électorales
+
+##### Paragraphe 1 : Electorat.
+
+###### Article R513-7 annexe 2
+
+Les activités incluses dans le tableau ci-après sont définies par référence à la nomenclature d'activités approuvée par le
+décret n° 73-1036 du 9 novembre 1973 :
+
+==================================================================
+
+<table>
+    <tbody>
+      <tr>
+        <td> :                                             :    DEFINITION    :</td>
+      </tr>
+      <tr>
+        <td> :                                             :   par référence  :</td>
+      </tr>
+      <tr>
+        <td> :                 INTITULE                    :   au niveau 100  :</td>
+      </tr>
+      <tr>
+        <td> :                                             :    activités     :</td>
+      </tr>
+      <tr>
+        <td> :                                             :   (N.A.P. 1973)  :</td>
+      </tr>
+      <tr>
+        <td> :---------------------------------------------:------------------:</td>
+      </tr>
+      <tr>
+        <td> : Commerce de gros alimentaire                :         57       :</td>
+      </tr>
+      <tr>
+        <td> : Commerce de gros non alimentaire            :      58 à 60     :</td>
+      </tr>
+      <tr>
+        <td> : Commerce de détail alimentaire              :      61 et 62    :</td>
+      </tr>
+      <tr>
+        <td> : Commerce de détail non alimentaire          :      63 et 64    :</td>
+      </tr>
+      <tr>
+        <td> : Réparation et commerce de l'automobile      :         65       :</td>
+      </tr>
+      <tr>
+        <td> : Hôtels, cafés, restaurants                 :         67       :</td>
+      </tr>
+      <tr>
+        <td> : Transports                                  :       68 à 74    :</td>
+      </tr>
+      <tr>
+        <td> : Télécommunications et postes                :         75       :</td>
+      </tr>
+      <tr>
+        <td> : Location et crédit-bail mobiliers           :         80       :</td>
+      </tr>
+      <tr>
+        <td> : Location et crédit-bail immobiliers         :         81       :</td>
+      </tr>
+      <tr>
+        <td> : Assurances                                  :         88       :</td>
+      </tr>
+      <tr>
+        <td> : Organismes financiers                       :         89       :</td>
+      </tr>
+      <tr>
+        <td> : Services commerciaux divers                 :    56, 66, 76,   :</td>
+      </tr>
+      <tr>
+        <td> :                                             :    78, 79, 87    :</td>
+      </tr>
+    </tbody>
+  </table>
+
+==================================================================
+
+**Nota:**
+
+[*Nota : activités NAP comprises : 59, 69, 70, 71, 72, 73*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Modifié par**:
+
+	  - Décret n°82-490 1982-06-09 art. 2 JORF 11 juin 1982
+
 
 ## Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
 
