@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-01-03
 
 # Partie législative ancienne
 
@@ -3182,6 +3182,110 @@ du travail au 1er mai 2008.
 	**Anciens textes**:
 
 	  - Code du travail 28
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.
+
+###### Article L122-24-1
+
+Les employeurs sont tenus de laisser à leurs salariés, candidats à l'Assemblée nationale ou au Sénat, le temps nécessaire
+pour participer à la campagne électorale dans la limite de vingt jours ouvrables.
+
+Le salarié bénéficie à sa convenance des dispositions de l'alinéa précédent, à condition que chaque absence soit au moins
+d'une demi-journée entière. Il doit avertir son employeur vingt-quatre heures au moins avant le début de chaque absence.
+
+Sur demande de l'intéressé, la durée de ces absences est imputée sur celle du congé payé annuel dans la limite des droits
+qu'il a acquis à ce titre à la date du premier tour de scrutin. Lorsqu'elles ne sont pas imputées sur le congé payé annuel,
+les absences ne sont pas rémunérées ; elles donnent alors lieu à récupération en accord avec l'employeur.
+
+La durée de ces absences est assimilée à une période de travail effectif pour la détermination des droits à congés payés
+ainsi que des droits liés à l'ancienneté résultant des dispositions législatives, réglementaires et conventionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 19 (Ab)
+
+
+###### Article L122-24-2
+
+Le contrat de travail d'un salarié membre de l'Assemblée nationale ou du Sénat est, sur sa demande, suspendu jusqu'à
+l'expiration de son mandat, s'il justifie d'une ancienneté minimale d'une année chez l'employeur à la date de son entrée en
+fonction.
+
+La suspension prend effet quinze jours après la notification qui en est faite à l'employeur, à la diligence du salarié, par
+lettre recommandée avec demande d'avis de réception.
+
+Le salarié doit manifester son intention de reprendre son emploi en adressant à son employeur une lettre recommandée avec
+demande d'avis de réception au plus tard dans les deux mois qui suivent l'expiration de son mandat [*délai point de départ*].
+
+Il retrouve son précédent emploi, ou un emploi analogue assorti d'une rémunération équivalente, dans les deux mois suivant la
+date à laquelle il a avisé son employeur. Il bénéficie de tous les avantages acquis par les salariés de sa catégorie durant
+l'exercice de son mandat. Il bénéficie en outre, en tant que de besoin, d'une réadaptation professionnelle en cas de
+changement de techniques ou de méthodes de travail.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables [*non*] lorsque le mandat a été renouvelé, à moins que la
+durée de la suspension prévue au premier alinéa de cet article n'ait été, pour quelque cause que ce soit, inférieure à cinq
+ans. Il en est de même lorsque le salarié membre de l'une des assemblées visées au premier alinéa est élu dans l'autre. A
+l'expiration du ou des mandats renouvelés, le salarié peut cependant solliciter son réembauchage dans les forme et délai
+prévus au troisième alinéa du présent article. L'employeur est alors tenu, pendant un an, de l'embaucher par priorité dans
+les emplois auxquels sa qualification lui permet de prétendre et de lui accorder, en cas de réemploi, le bénéfice de tous les
+avantages qu'il avait acquis au moment de son départ.
+
+Un décret fixera les conditions dans lesquelles les droits des salariés, notamment en matière de prévoyance et de retraite,
+leur seront conservés durant la durée du mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 19 (Ab)
+	  - CODE DES COMMUNES. - art. L121-44 (Ab)
+	  - Code de la mutualité - art. L114-24 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-36 (V)
+	  - Code général des collectivités territoriales - art. L2123-9 (V)
+	  - Code général des collectivités territoriales - art. L3123-7 (V)
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 7 (Ab)
+
+
+###### Article L122-24-3
+
+Les dispositions de la présente section sont applicables aux agents non titulaires de l'Etat et aux personnels des
+collectivités locales, des établissements et entreprises publics, pour autant qu'ils ne bénéficient pas déjà de dispositions
+plus favorables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L121-44 (Ab)
+	  - Code de la mutualité - art. L114-24 (M)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-36 (V)
+	  - Code général des collectivités territoriales - art. L2123-9 (V)
+	  - Code général des collectivités territoriales - art. L3123-7 (V)
+	  - Ordonnance n°82-1114 du 23 décembre 1982 - art. 19 (Ab)
+	  - Loi n°1871-08-10. du 10 août 1871 - art. 7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L3142-54 (VD)
+
+	**Cite**:
+
+	  - Code du travail L122-24-1 A L122-24-3
 
 	**Codifié par**:
 
