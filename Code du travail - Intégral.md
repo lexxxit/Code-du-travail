@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1980-12-03
+Version Consolidée au 1981-01-01
 
 # Partie législative ancienne
 
@@ -28501,6 +28501,63 @@ réglementaire.
 	**Cite**:
 
 	  - Code du travail L351-1 A L351-11-2
+
+
+##### CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.
+
+###### Article L351-22
+
+Les salariés involontairement privés d'emploi continuent de bénéficier des allocations [*chômage*] visées aux sections I et
+III du présent chapitre :
+
+1. Lorsqu'ils créent ou reprennent, à condition d'en exercer effectivement le contrôle, une entreprise industrielle,
+commerciale, artisanale ou agricole, soit à titre individuel, soit dans le cadre d'une société ou d'une société coopérative
+ouvrière de production ;
+
+2. Lorsqu'ils entreprennent l'exercice d'une autre profession non salariée.
+
+Le versement des allocations susmentionnées est maintenu dans la limite des droits restant à courir sans pouvoir excéder les
+six premiers mois de la nouvelle activité [*durée*]. Il s'effectue en une fois, immédiatement après la constatation de la
+création ou de la reprise de l'entreprise, ou de l'exercice de la nouvelle activité non salariée, par le directeur
+départemental du travail et de l'emploi.
+
+Un salarié privé d'emploi peut bénéficier des dispositions ci-dessus au plus deux fois par période de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°79-10 1979-01-03
+
+	**Cité par**:
+
+	  - Loi n°79-10 du 3 janvier 1979 - art. 2 (Ab)
+	  - Loi n°79-10 du 3 janvier 1979 - art. 3 (Ab)
+	  - Loi n°79-10 du 3 janvier 1979 - art. 4 (V)
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 11 (V)
+	  - Décret n°87-236 du 3 avril 1987 - art. 1 (Ab)
+	  - Décret n°87-236 du 3 avril 1987 - art. 4 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 quinquies A (M)
+	  - Code du travail - art. D351-4 (Ab)
+	  - Code du travail - art. D351-5 (Ab)
+	  - Code du travail - art. D351-7 (Ab)
+	  - Code du travail - art. D351-8 (Ab)
+	  - Code du travail - art. L122-32-12 (M)
+	  - Code du travail - art. L352-4 (AbD)
+
+	**Créé par**:
+
+	  - Loi n°80-1035 1980-12-22 ART. 1 JORF 23 DECEMBRE 1980 date d'entrée en vigueur 1ER janvier 1981
+
+	**Cite**:
+
+	  - Code du travail - art. L351-16 (P)
+	  - Code du travail - art. L351-17 (T)
+	  - Code du travail L351-1 A L351-11-2, L351-16, L351-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 #### REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .
@@ -66494,6 +66551,69 @@ Toutefois cette disposition n'est pas applicable dans le cas où les doubleurs s
 	**Nouveaux textes**:
 
 	  - Code du travail - art. D4153-21 (V)
+
+
+###### Article R234-18
+
+Sur les chantiers de bâtiment et de travaux publics y compris ceux qui dépendent d'un établissement agricole, il est interdit
+d'employer les jeunes travailleurs de moins de dix-huit ans [*âge*] à des travaux en élévation de quelque nature que ce soit,
+sans que leur aptitude à ces travaux ait été médicalement constatée.
+
+Une consigne écrite détermine les conditions d'emploi et de surveillance des intéressés.
+
+Toutes mesures de sécurité doivent être prises conformément aux dispositions législatives et réglementaires ou aux règles de
+l'art, avant le commencement et au cours de l'exécution de ces travaux.
+
+Il est également interdit d'employer les jeunes travailleurs de moins de dix-huit ans :
+
+Aux travaux à la corde à noeuds, aux sellettes, nacelles suspendues et échafaudages volants, échelles suspendues et plates-
+formes ;
+
+Aux travaux de montage et démontage des échafaudages et de tous autres dispositifs protecteurs ;
+
+Aux travaux de montage-levage en élévation ;
+
+Aux travaux de montage et démontage d'appareils de levage et à la conduite de ces appareils autres que les élévateurs guidés
+fonctionnant en cage close. Il ne pourra être confié aux jeunes travailleurs la mission de faire des signaux au conducteur
+desdits appareils, ainsi que d'arrimer, d'accrocher ou de recevoir les charges en élévation ;
+
+A la conduite des engins, véhicules de manutention et de terrassement ;
+
+Aux travaux de ponçage et bouchardage de pierres dures ;
+
+Aux travaux de démolition ;
+
+Aux travaux de percement des galeries souterraines, travaux de terrassement en fouilles étroites et profondes, travaux de
+boisage de fouilles et galeries, travaux d'étaiement, travaux dans les égouts ;
+
+Aux travaux au rocher, notamment perforation et abattage.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret  1958-07-19 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-857 1980-10-30 art. 1 date d'entrée en vigueur 1er février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1
+
+	**Modifié par**:
+
+	  - Décret n°80-857 du 30 octobre 1980 - art. 7 () JORF 1er novembre date d'entrée en vigueur le 1er février 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D4153-36 (V)
+	  - Code du travail - art. R4153-48 (Ab)
 
 
 ###### Article R234-19
@@ -105302,6 +105422,181 @@ Le taux horaire de l'allocation spécifique pour privation partielle d'emploi pr
 
 	  - Code du travail - art. L141-8 (AbD)
 	  - Code du travail - art. L351-19 (MMN)
+
+
+##### Section 5 : Création d'entreprises par les salariés privés d'emploi.
+
+###### Article D351-4
+
+Sont admises au bénéfice de l'article L. 351-22 les personnes en cours d'indemnisation dont la privation involontaire
+d'emploi est consécutive à la perte d'un emploi salarié et qui, de ce chef, bénéficient d'une des allocations visées aux
+articles L. 351-5, L. 351-6, L. 351-6-1, L. 351-6-2, L. 351-16 et L. 351-17.
+
+Peuvent également bénéficier des dispositions de l'article L. 351-22 les salariés en cours de préavis de licenciement qui
+auraient perçu l'une des allocations précitées s'ils n'avaient pas demandé à bénéficier dudit article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-53 1981-01-23 ART. 1 JORF 25 janvier date d'entrée en vigueur 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Décret n°94-224 du 21 mars 1994 - art. 3 (Ab) JORF 22 mars 1994
+
+	**Cité par**:
+
+	  - Code du travail - art. D351-6 (P)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-16 (P)
+	  - Code du travail - art. L351-17 (T)
+	  - Code du travail - art. L351-22 (M)
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. L351-6 (M)
+	  - Code du travail - art. L351-6-1 (M)
+	  - Code du travail - art. L351-6-2 (P)
+
+
+###### Article D351-5
+
+Le montant de l'aide mentionnée à l'article L. 351-22 est déterminé conformément aux mesures prises pour l'application des
+articles L. 351-9 et L. 351-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-53 1981-01-23 art. 1 JORF 25 janvier date d'entrée en vigueur 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Décret n°94-224 du 21 mars 1994 - art. 3 (Ab) JORF 22 mars 1994
+
+	**Cité par**:
+
+	  - Code du travail - art. D351-4 (P)
+	  - Code du travail - art. D351-6 (P)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-16 (P)
+	  - Code du travail - art. L351-22 (M)
+	  - Code du travail - art. L351-9 (M)
+
+
+###### Article D351-6
+
+La condition de contrôle [*de l'entreprise par le salarié*] mentionnée à l'alinéa 2 de l'article L. 351-22 est satisfaite si
+le ou les salariés involontairement privés d'emploi détiennent, individuellement ou collectivement, au minimum la moitié du
+capital lorsque l'entreprise est sous forme sociale [*preuve*].
+
+Cette condition est également remplie si le salarié privé d'emploi exerce dans la société une fonction de dirigeant, tout en
+détenant au moins un tiers du capital de celle-ci.
+
+Les parts de capital acquises par le conjoint, les ascendants ou les descendants sont prises en compte pour l'examen de la
+condition de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-53 1981-01-23 ART. 1 JORF 25 janvier date d'entrée en vigueur 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Décret n°94-224 du 21 mars 1994 - art. 3 (Ab) JORF 22 mars 1994
+
+	**Cité par**:
+
+	  - Décret n°2007-483 du 30 mars 2007 - art. 2 (V)
+	  - Décret n°2007-483 du 30 mars 2007 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du travail L351-22 al. 2
+
+
+###### Article D351-7
+
+Pour bénéficier des dispositions de l'article L. 351-22, les salariés privés d'emploi [*qui veulent créer une entreprise et
+continuer à bénéficier des allocations de chômage*] doivent en faire préalablement la demande auprès du directeur
+départemental du travail et de l'emploi ou auprès du chef du service départemental du travail et de la protection sociale
+agricoles [*autorités compétentes*] lorsqu'il s'agit de la création ou de la reprise d'une exploitation agricole.
+
+L'instruction des demandes est assurée par celui-ci, en liaison avec les institutions visées à l'article L. 351-2 [*UNEDIC,
+ASSEDIC*], ou, le cas échéant, les employeurs visés aux articles L. 351-16 et L. 351-17.
+
+Le directeur départemental du travail et de l'emploi ou le chef de service départemental du travail et de la protection
+sociale agricoles délivrent une attestation de "salarié privé d'emploi créateur d'entreprise" [*documents*] permettant aux
+créateurs d'entreprise de bénéficier des avantages prévus aux articles 2, 3 et 4 de la loi du 3 janvier 1979 modifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°79-10 1979-01-03 art. 2, 3 et 4
+	  - Loi n°79-10 du 3 janvier 1979 - art. 2, v. init.
+	  - Code du travail - art. L351-16 (P)
+	  - Code du travail - art. L351-17 (T)
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-22 (M)
+
+	**Créé par**:
+
+	  - Décret n°81-53 1981-01-23 ART. 1 date d'entrée en vigueur 1er Janvier JORF 25 janvier 1981
+
+	**Abrogé par**:
+
+	  - Décret n°94-224 du 21 mars 1994 - art. 3 (Ab) JORF 22 mars 1994
+
+
+###### Article D351-8
+
+Les salariés privés d'emploi qui auront souscrit, dès la création ou la reprise de l'entreprise, une part de capital social
+et qui, en raison de nécessités économiques, sont amenés à occuper un emploi dans celle-ci à une date différée d'au plus six
+mois [*délai*], peuvent bénéficier des dispositions de l'article L. 351-22 à compter d'une date ultérieure à la création ou à
+la reprise de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°79-530 du 3 juillet 1979 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°81-53 1981-01-23 art. 1 JORF 25 janvier date d'entrée en vigueur 1er janvier 1981
+
+	**Abrogé par**:
+
+	  - Décret n°94-224 du 21 mars 1994 - art. 3 (Ab) JORF 22 mars 1994
+
+	**Cite**:
+
+	  - Code du travail - art. L351-22 (M)
 
 
 #### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.
