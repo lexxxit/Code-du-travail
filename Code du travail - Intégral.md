@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-10-01
+Version Consolidée au 1978-10-12
 
 # Partie législative ancienne
 
@@ -61079,31 +61079,6 @@ Celui-ci statue par un arrêté motivé qu'il notifie dans la huitaine aux étab
 	**Nouveaux textes**:
 
 	  - Code du travail - art. R3132-17 (V)
-
-
-###### Article R221-3
-
-L'arrêté préfectoral prévu aux articles R. 221-1 et R. 221-2 peut être déféré au tribunal administratif dans la quinzaine
-[*délai*] de sa notification aux intéressés.
-
-Le tribunal administratif statue dans le mois qui suit la date du recours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L221-8 (AbD)
-	  - Code du travail 2037
-	  - Décret  1953-11-28 ART. 1
-
-	**Cite**:
-
-	  - Code du travail - art. R221-1 (M)
-	  - Code du travail - art. R221-2 (V)
 
 
 ###### Article R221-4
