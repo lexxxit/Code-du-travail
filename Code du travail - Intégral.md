@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-21
+Version Consolidée au 1979-01-29
 
 # Partie législative ancienne
 
@@ -108893,6 +108893,65 @@ précèdent, sont applicables aux entreprises et aux travailleurs mentionnés à
 
 	  - Décret  1936-10-14 ART. 8
 	  - Loi   1936-06-20
+
+
+#### Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.
+
+###### Article D744-1
+
+Sont considérés comme établissements portuaires, pour l'application du présent chapitre, les ports autonomes et les
+établissements publics ou collectivités publiques concessionnaires des outillages publics des ports maritimes de commerce et
+de pêche.
+
+Les articles L. 212-5-1 et D. 212-5 à D. 212-12 du code du travail sont applicables au personnel de ces établissements, sous
+réserve des dispositions qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D744-2
+
+Dans les ports où, par suite des nécessités de l'exploitation, ont été institués des aménagements d'horaires comportant des
+systèmes de crédit-repos, les heures de travail effectuées au-delà de la durée hebdomadaire définie à l'article L. 212-5-1 du
+code du travail n'ouvrent droit au repos compensateur institué par ledit article que dans la mesure où elles ne font pas
+l'objet, dans le cadre des systèmes locaux de crédit-repos, d'une compensation de durée au moins égale à l'intérieur de
+l'année civile.
+
+Les crédits-repos acquis en fin d'année peuvent toutefois être soldés dans les trois premiers mois de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D744-3
+
+Le repos compensateur acquis au titre de l'article L. 212-5-1 du code du travail peut être pris par demi-journée, comptant
+pour quatre heures de repos.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ### Titre III : Transports et télécommunications
