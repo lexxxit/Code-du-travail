@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-01-29
+Version Consolidée au 1978-02-02
 
 # Partie législative ancienne
 
@@ -57396,6 +57396,67 @@ doit être envoyé par lettre recommandée avec demande d'avis de réception.
 	  - Code du travail - art. R122-11 (VT)
 
 
+###### Article R122-10
+
+Les propositions d'embauchage par priorité faites par l'employeur conformément à l'article L. 122-28 doivent être envoyées au
+salarié par lettre recommandée avec demande d'avis de réception.
+
+Le refus par le salarié de ces propositions doit être envoyé à l'employeur dans la même forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°78-103 1978-01-25 JORF 2 FEVRIER 1978 RECTIFICATIF JORF 26 FEVRIER
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+	  - TXT_ASSOCIE: Code du travail R152-3 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail - art. L122-28 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R122-11 (VT)
+
+
+###### Article R122-11
+
+Lorsqu'un père salarié sollicite le congé parental d'éducation prévu à l'article L. 122-28-1, la mère doit adresser à
+l'employeur de l'intéressé une lettre recommandée avec demande d'avis de réception indiquant qu'elle ne peut en bénéficier
+elle-même ou qu'elle y renonce.
+
+Les formalités prévues aux articles L. 122-25 à L. 122-28-1 aux articles R. 122-9, R. 122-10 et au premier alinéa du présent
+article sont réputées accomplies au jour de l'expédition de la lettre recommandée avec demande d'avis de réception [*date
+point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Cet article est caduc du fait de la modification de l'article L. 122-28-1
+	  - TXT_ASSOCIE: Loi n°77-766 du 12 juillet 1977 - art. 6 (V)
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : dispositions applicables dans le territoire de la Nouvelle-Calédonie
+	  - TXT_ASSOCIE: Code du travail R152-3 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. R122-10 (M)
+	  - Code du travail - art. R122-9 (M)
+	  - Code du travail L122-25 A L122-28-1
+
+
 #### Chapitre IV : Travail temporaire
 
 ##### Section 1 : Déclarations et justifications à fournir à l'autorité administrative.
@@ -58529,6 +58590,35 @@ emprisonnement [*durée*] de un mois à deux mois.
 	**Anciens textes**:
 
 	  - Décret n°72-985 1972-10-24 art. 37
+
+
+##### Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants
+
+###### Article R152-3
+
+Sans préjudice de l'application de l'article L. 122-30 [*attribution de dommages et intérêts*] (alinéa 1er), est passible
+d'une amende de 3.000 F à 6.000 F (1) [*montant*] pouvant être portée à 12.000 F (1) en cas de récidive, l'employeur qui
+contrevient aux dispositions des articles L. 122-25 à L. 122-28-4 et aux dispositions des articles R. 122-9 à R. 122-11.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+	  - TXT_ASSOCIE: Code du travail - art. L122-28-7 (AbD)
+	  - TXT_ASSOCIE: Code du travail - art. R122-11 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R122-11-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-30 (M)
+	  - Code du travail L122-25 A L122-28-4, L122-30, R122-9 A R122-11
 
 
 ##### Section 3 : Marchandage.
@@ -67785,60 +67875,6 @@ l'attestation [*des organismes de sécurité sociale*] prévue à l'article L. 1
 
 #### CONTRAT DE TRAVAIL
 
-##### FEMMES EN COUCHES .
-
-###### Article R122-10
-
-Les propositions d'embauchage par priorité faites par l'employeur conformément à l'article L. 122-28 doivent être envoyées à
-la femme par lettre recommandée avec demande d'avis de réception.
-
-Le refus par la femme de ces propositions doit être envoyé à l'employeur dans la même forme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-643 1968-07-09 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L122-28 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. R122-11 (VT)
-
-
-###### Article R122-11
-
-Les formalités prévues aux articles L. 122-25 à L. 122-28 et aux articles R. 122-9 et R. 122-10 sont réputées [*présomption*]
-accomplies au jour de l'expédition de la lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-643 1968-07-09 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°77-766 du 12 juillet 1977 - art. 6 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. R122-10 (M)
-	  - Code du travail - art. R122-9 (M)
-	  - Code du travail L122-25 A L122-28
-
-
 ##### REGLEMENT INTERIEUR .
 
 ###### Article R122-13
@@ -68984,37 +69020,6 @@ visa.
 
 #### CONTRAT DE TRAVAIL
 
-##### LOUAGE DE SERVICES
-
-##### REGLES PARTICULIERES AUX FEMMES EN COUCHES .
-
-###### Article R152-3
-
-Sans préjudice de l'application de l'article L. 122-30, 1er alinéa, est passible d'une amende de 600 F à 1.000 F [*montant*],
-pouvant être portée à 2.000 F en cas de récidive, l'employeur qui contrevient aux dispositions des articles L. 122-25 à L.
-122-28 et aux dispositions des articles R. 122-9 à R. 122-11.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-643 1968-07-09 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L122-28-7 (AbD)
-	  - TXT_ASSOCIE: Code du travail - art. R122-11 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R122-11-1 (V)
-
-	**Cite**:
-
-	  - Code du travail L122-30 AL. 1
-
-
 ##### TRAVAIL TEMPORAIRE .
 
 ###### Article R152-5
@@ -69551,6 +69556,50 @@ s'agit d'un recours de recrutement du personnel enseignant relevant du ministèr
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+
+##### SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
+
+###### Article R323-118
+
+Lorsque la demande d'aide financière concerne la compensation des charges supplémentaires d'encadrement, elle est adressée au
+préfet du département où est situé l'établissement, accompagnée de la justification des dépenses afférentes à ce supplément
+d'encadrement [*formalités*] .
+
+L'aide financière susceptible d'être accordée ne peut concerner que la seule période durant laquelle la présence d'un
+encadrement supplémentaire est nécessaire pour assurer l'adaptation à l'emploi des travailleurs handicapés.
+
+Cette aide ne peut excéder 50 p. 100 [*montant limite*] des dépenses d'encadrement supplémentaire afférentes à la période ci-
+dessus définie.
+
+Le préfet [*compétence*] soumet la demande à l'avis du comité départemental de la formation professionnelle, de la promotion
+sociale et de l'emploi ; il statue lorsque l'aide susceptible d'être accordée n'excède pas un montant déterminé par arrêté
+conjoint du ministre chargé des finances et du ministre chargé du travail.
+
+Lorsque l'aide financière susceptible d'être accordée excède ledit montant, le préfet transmet la demande avec les résultats
+de l'instruction et l'avis du comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi au
+ministre chargé du travail qui statue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 29 (Ab)
+	  - Code du travail - art. L323-9 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 1983 - art. 1 (Ab)
+	  - Arrêté du 18 septembre 1984 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 18 septembre 1984
+	  - TXT_SOURCE: Arrêté du 18 septembre 1984 - art. 1 (V)
 
 
 ### Titre IV : MAIN-D'OEUVRE ETRANGERE
@@ -77339,6 +77388,103 @@ prévues à l'article R. 321-10.
 
 #### TRAVAILLEURS HANDICAPES .
 
+###### Article R323-33-12
+
+Les équipes de préparation et de suite du reclassement mentionnées à l'article L. 323-11-II apportent leur soutien aux
+personnes handicapées, à toutes les étapes du processus de leur réadaptation, en vue de faciliter, compte tenu de leurs
+aspirations et de leurs aptitudes, leur accès à une vie professionnelle et sociale stable.
+
+A cet effet, notamment, les équipes de préparation et de suite du reclassement :
+
+Aident les personnes handicapées à surmonter les difficultés personnelles ou sociales susceptibles de faire obstacle à leur
+réadaptation ;
+
+Donnent en permanence à ces personnes toutes informations utiles à leur reclassement et les suivent dans leurs démarches ;
+
+Recherchent les institutions spécialisées et les entreprises susceptibles de leur donner les moyens d'une insertion
+professionnelle, informent ces institutions et entreprises des aptitudes des personnes handicapées à la recherche d'un
+emploi, conseillent les entreprises dans la détermination des postes de travail accessibles aux handicapés ;
+
+Vérifient périodiquement les conditions dans lesquelles se réalise l'insertion professionnelle des personnes qu'elles
+suivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail L323-11 II
+
+
+###### Article R323-33-13
+
+Une ou plusieurs équipes de préparation et de suite du reclassement sont constituées dans chaque département. Sous réserve
+des dispositions du dernier alinéa ci-dessous et dans la mesure où d'autres financements ne sont pas prévus, leurs dépenses
+de fonctionnement sont à la charge du budget de l'Etat.
+
+Les équipes sont constituées soit par le directeur départemental du travail et de l'emploi, dans le cadre de l'administration
+publique du travail et de l'emploi, soit par un organisme public ou privé agréé à cet effet par le préfet, sur proposition du
+directeur départemental du travail et de l'emploi.
+
+Dans ce dernier cas, l'agrément est subordonné à la conclusion [*condition*] d'une convention entre l'organisme en cause et
+l'Etat représenté par le préfet. Cette convention doit prévoir la prise en charge par l'organisme de 25 p. 100 au moins
+[*montant*] des dépenses de fonctionnement de l'équipe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R323-33-14
+
+Les équipes de préparation et de suite du reclassement comprennent [*composition*] obligatoirement un assistant de service
+social et un prospecteur placier spécialisé de l'Agence nationale pour l'emploi [*ANPE*] ou une personne ayant une
+qualification équivalente désignée à cet effet par ladite agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R323-33-15
+
+Les équipes de préparation et de suite du reclassement adressent, chaque année [*périodicité*], un rapport d'activité
+[*formalité*] au directeur départemental du travail et de l'emploi et au président de la commission technique d'orientation
+et de reclassement professionnel de leur département.
+
+Un rapport sur l'activité de l'ensemble des équipes est soumis chaque année par le ministre du travail au conseil supérieur
+pour le reclassement professionnel et social des travailleurs handicapés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
 ##### READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .
 
 ###### Article R323-34
@@ -79907,6 +80053,96 @@ dans les conditions définies par le présent paragraphe.
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+##### APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
+
+###### Article R323-116
+
+L'aide financière que l'Etat peut accorder en application de l'article L. 323-9 (dernier alinéa) [*pour la mise ou la remise
+au travail en milieu ordinaire de production des travailleurs handicapés*] est soumise aux conditions ci-après fixées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 29 (Ab)
+	  - Code du travail - art. L323-9 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+##### APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
+
+###### Article R323-117
+
+Lorsque la demande d'aide financière est présentée au titre de la deuxième phrase du dernier alinéa de l'article L. 323-9
+[*aide concernant, notamment l'adaptation des machines ou des outillages, l'aménagement des postes de travail, y compris
+l'équipement individuel nécessaire pour occuper ces postes et les accès aux lieux de travail*] elle est adressée au préfet du
+département où est situé l'établissement, accompagnée d'une description technique du projet et d'un devis estimatif
+[*formalités*].
+
+Le montant de l'aide financière susceptible d'être accordée ne peut excéder 80 p. 100 du coût de l'adaptation ou de
+l'aménagement envisagé par application des dispositions du dernier alinéa de l'article L. 323-9.
+
+Le préfet soumet la demande à l'avis du comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi.
+
+Lorsque l'aide financière susceptible d'être accordée n'excède pas un montant déterminé par arrêté conjoint du ministre
+chargé des finances et du ministre chargé du travail, la décision est prise par le préfet.
+
+Lorsque l'aide financière susceptible d'être accordée excède le montant susindiqué, le préfet transmet la demande avec les
+résultats de l'instruction et l'avis du comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi au ministre chargé du travail qui statue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 29 (Ab)
+	  - Code du travail - art. L323-9 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 1983 - art. 1 (Ab)
+	  - Arrêté du 18 septembre 1984 - art. 1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 18 septembre 1984
+	  - TXT_SOURCE: Arrêté du 18 septembre 1984 - art. 1 (V)
+
+
+###### Article R323-119
+
+Les dispositions des articles R. 323-116 à R. 323-118 sont applicables aux demandes d'aide financière présentées par les
+collectivités locales ou les établissements publics définis à l'article 29 de la loi n. 75-534 du 30 juin 1975.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 29 (Ab)
+	  - Code du travail - art. L323-9 (Ab)
+	  - Code du travail R323-116 A R323-118
 
 	**Liens**:
 
@@ -104020,6 +104256,84 @@ Le préfet est chargé d'organiser le secrétariat de la commission département
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°88-77 du 22 janvier 1988 - art. annexe 1 (V)
+
+
+##### SECTION 2 : TRAVAILLEURS HANDICAPES
+
+##### SOUS-SECTION 4 : TRAVAIL PROTEGE.
+
+###### Article D323-25-3
+
+Les travailleurs handicapés employés dans un atelier protégé peuvent, avec leur accord et en vue d'une embauche éventuelle,
+être mis à la disposition d'un autre employeur.
+
+Les conditions de cette mise à disposition sont fixées par des contrats écrits que l'organisme gestionnaire de l'atelier
+protégé passe, d'une part, avec l'employeur utilisateur, d'autre part, avec le travailleur handicapé.
+
+Ces contrats sont passés pour une durée de trois mois renouvelable une fois. Ils sont soumis au visa de l'inspecteur du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article D323-25-4
+
+Le contrat liant l'organisme gestionnaire à l'employeur utilisateur doit préciser notamment [*mentions obligatoires*] :
+
+a) Le nombre de travailleurs demandés, les qualifications professionnelles requises, le lieu, l'horaire et les
+caractéristiques particulières des travaux à accomplir ;
+
+b) La nature des travaux incompatibles avec certains types de handicaps ;
+
+c) Les modalités de rémunération de la prestation de service ;
+
+d) Les conditions d'une offre d'embauche à l'issue du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-25-3 (VT)
+
+
+###### Article D323-25-5
+
+Le contrat liant l'organisme gestionnaire de l'atelier protégé avec le travailleur handicapé doit préciser notamment
+[*mentions obligatoires*] :
+
+a) La qualification professionnelle du salarié ;
+
+b) La nature, le lieu, l'horaire et les caractéristiques particulières du travail à accomplir ;
+
+c) Les éléments et les modalités de paiement de la rémunération due au salarié ;
+
+d) Les conditions d'une offre d'embauche à l'issue du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 
 ## PLACEMENT ET EMPLOI
