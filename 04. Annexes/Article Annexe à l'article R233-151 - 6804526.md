@@ -1,4 +1,4 @@
-# Article R233-151 annexe
+# Article Annexe à l'article R233-151
 
 Les équipements de protection individuelle doivent assurer, dans les conditions d'utilisation conformes à leur destination,
 une protection adéquate contre les risques encourus.
@@ -9,9 +9,9 @@ une protection adéquate contre les risques encourus.
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-768 du 29 juillet 1992 - art. 2 (V) JORF 7 août 1992 en vigueur le 1er janvier 1993
+	  - Décret n°93-40 1993-01-11 art. 4 IV, art. 5 II JORF 13 janvier 1993 en vigueur le 15 janvier 1993
 
 	**Liens**:
 

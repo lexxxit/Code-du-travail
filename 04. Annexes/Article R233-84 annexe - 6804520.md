@@ -154,6 +154,10 @@ fonction des utilisations prévues.
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Modifié par**:
+
+	  - Décret n°93-40 1993-01-11 art. 4 II, art. 5 I JORF 13 janvier 1993 en vigueur le 15 janvier 1993
+
 	**Cite**:
 
 	  - Code du travail - art. R233-83 (M)

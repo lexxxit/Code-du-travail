@@ -1,4 +1,4 @@
-# Article R233-151 annexe
+# Article Annexe à l'article R233-151
 
 2.0. Application.
 
@@ -134,13 +134,9 @@ risques telles qu'elles sont prévues par la présente annexe.
 
 	  - Décret n°73-1048 1973-11-15
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°92-768 1992-07-29 annexe
-
-	**Créé par**:
-
-	  - Décret n°92-768 du 29 juillet 1992 - art. 2 (V) JORF 7 août 1992 en vigueur le 1er janvier 1993
+	  - Décret n°93-40 1993-01-11 art. 4 IV, art. 5 II JORF 13 janvier 1993 en vigueur le 15 janvier 1993
 
 	**Liens**:
 

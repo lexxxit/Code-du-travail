@@ -828,6 +828,6 @@ générale et de la perspicacité que l'on peut raisonnablement attendre de ces 
 
 	  - Décret n°92-767 1992-07-29 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-767 du 29 juillet 1992 - art. 2 (V) JORF 7 août 1992 en vigueur le 1er janvier 1993
+	  - Décret n°93-40 1993-01-11 art. 4 II, art. 5 I JORF 13 janvier 1993 en vigueur le 15 janvier 1993
