@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-01-25 00:00:01 +0100
+Version Consolidée au 1981-01-29
 
 # Partie législative ancienne
 
@@ -18847,29 +18847,30 @@ croûte ainsi que des périodes d'inaction dans les industries et commerces dét
 
 ##### AMENAGEMENT DU TEMPS DE TRAVAIL .
 
+##### TRAVAIL A TEMPS PARTIEL.
+
 ###### Article L212-4-2
 
-L'aménagement par l'employeur, à titre permanent ou temporaire, d'horaires de travail réduits applicables aux seuls salariés
-qui en font la demande donne lieu à l'application des règles spéciales définies à l'article L. 212-4-3 et à l'article et à
-l'article 19 de la loi n. 73-1195 du 27 décembre 1973 sous réserve que soient effectivement remplies les conditions
-suivantes :
+Des horaires de travail à temps partiel inférieurs à la durée normale de travail dans l'établissement ou l'atelier et à la
+durée légale du travail peuvent être pratiqués, après avis, lorsqu'ils existent, du comité d'entreprise, ou, à défaut, des
+délégués du personnel [*consultation*] ; cet avis est transmis dans un délai de quinze jours à l'autorité administrative
+compétente. Ils sont proposés aux salariés de l'établissement ou de l'entreprise qui demandent à en bénéficier, avant d'être
+offerts aux demandeurs d'emploi.
 
-Les horaires réduits doivent être compris entre la moitié et les trois quarts de la durée légale hebdomadaire de travail ou,
+Les salariés employés à temps partiel bénéficient des droits accordés par la loi et les conventions collectives aux salariés
+occupés à temps complet, sous réserve d'adaptation éventuellement prévue par un accord collectif en ce qui concerne les
+droits conventionnels.
 
-en agriculture, de la durée équivalente ;
+Compte tenu de la durée de leur travail et de leur ancienneté dans l'entreprise, leur rémunération [*montant*] est
+proportionnelle à celle du salarié qui, à qualification égale, occupe à temps complet un emploi équivalent dans
+l'établissement ou l'entreprise.
 
-Ces horaires ne peuvent concerner que des postes de travail répondant à des conditions de rémunération qui sont fixées par le
-décret [*en Conseil d'Etat*] prévu à l'article L. 212-4-4.
+Pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est décomptée pour les salariés employés à temps
+partiel comme s'ils avaient été occupés à temps complet.
 
-Ces horaires réduits ne peuvent être appliqués qu'avec l'accord du comité d'entreprise, ou, s'il n'en existe pas, des
-délégués du personnel.
-
-Lorsque le comité d'entreprise, ou, s'il n'en existe pas,
-
-les délégués du personnel ont refusé l'accord ci-dessus exigé,
-
-le chef d'entreprise peut demander à l'inspecteur du travail et de la main-d'oeuvre, ou au fonctionnaire chargé de
-l'inspection du travail dans l'entreprise concernée d'autoriser l'application des horaires litigieux.
+L'indemnité de licenciement et l'indemnité de départ à la retraite des salariés ayant été occupés à temps complet et à temps
+partiel dans la même entreprise sont calculées proportionnellement aux périodes d'emploi effectuées selon l'une et l'autre de
+ces deux modalités depuis leur entrée dans l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -18952,10 +18953,6 @@ l'inspection du travail dans l'entreprise concernée d'autoriser l'application d
 	  - Code rural - art. R741-4 (V)
 	  - Code rural ancien - art. 1031-3 (Ab)
 
-	**Cite**:
-
-	  - Loi n°73-1195 du 27 décembre 1973 - art. 19 (Ab)
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°75-466 du 9 juin 1975
@@ -18968,6 +18965,10 @@ l'inspection du travail dans l'entreprise concernée d'autoriser l'application d
 	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
@@ -18975,9 +18976,18 @@ l'inspection du travail dans l'entreprise concernée d'autoriser l'application d
 
 ###### Article L212-4-3
 
-En matière de législation du travail et pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est
-décomptée pour les salariés employés à temps réduit en application de l'article L. 212-4-2 comme s'ils avaient été occupés à
-temps complet [*calcul*] .
+Le contrat de travail des salariés à temps partiel est un contrat écrit [*condition de forme*] ; il mentionne, notamment, la
+durée hebdomadaire du travail, les conditions dans lesquelles sa répartition est établie ainsi que les limites dans
+lesquelles peuvent être effectuées des heures complémentaires au-delà du temps de travail régulier prévu par le contrat et
+dans le cadre éventuellement déterminé par un accord collectif [*mentions obligatoires*]. Le refus d'effectuer les heures
+complémentaires proposées par l'employeur au-delà des limites fixées par le contrat ne constitue pas une faute ou un motif de
+licenciement.
+
+La durée totale de travail des salariés à temps partiel, heures complémentaires comprises, ne peut excéder [*maximum*], la
+durée légale du travail ni la durée normale de travail dans l'établissement ou l'atelier.
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les mesures d'application des articles L. 212-4-1 à L.
+212-4-3.
 
 **Liens relatifs à cet article**
 
@@ -19016,7 +19026,6 @@ temps complet [*calcul*] .
 	  - Code du travail - art. L129-6 (AbD)
 	  - Code du travail - art. L212-16 (VT)
 	  - Code du travail - art. L212-17 (AbD)
-	  - Code du travail - art. L212-4-2 (M)
 	  - Code du travail - art. L212-4-3 (M)
 	  - Code du travail - art. L212-4-4 (VD)
 	  - Code du travail - art. L212-4-7 (T)
@@ -19040,6 +19049,10 @@ temps complet [*calcul*] .
 	  - Code rural ancien - art. 1000-6 (Ab)
 	  - Code rural et de la pêche maritime - art. L712-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
@@ -19051,6 +19064,11 @@ temps complet [*calcul*] .
 	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
 	  - TXT_SOURCE: Décret n°98-497 du 22 juin 1998
 
+	**Cite**:
+
+	  - Code du travail - art. L212-4-1 (AbD)
+	  - Code du travail - art. L212-4-2 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
@@ -19058,7 +19076,12 @@ temps complet [*calcul*] .
 
 ###### Article L212-4-4
 
-Les mesures d'application des articles L. 212-4-1 à L. 212-4-3 font l'objet de décrets en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles les salariés à temps partiel entrent en compte dans
+l'effectif du personnel des entreprises ou établissements dont ils relèvent, en vue de l'application à ces entreprises ou
+établissements des obligations subordonnées par la législation du travail à des conditions d'effectif minimum de salariés. En
+ce qui concerne l'application des dispositions relatives à la représentation du personnel et à l'exercice des droits
+syndicaux, l'effectif des salariés est calculé en divisant la masse totale des horaires inscrits dans les contrats de travail
+des salariés de l'entreprise par la durée légale du travail ou la durée normale si celle-ci lui est inférieure.
 
 **Liens relatifs à cet article**
 
@@ -19086,8 +19109,13 @@ Les mesures d'application des articles L. 212-4-1 à L. 212-4-3 font l'objet de 
 	  - Code du travail - art. L932-1 (AbD)
 	  - Code du travail - art. R261-3-1 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
 	**Liens**:
 
+	  - TXT_ASSOCIE: Loi n°81-64 du 28 janvier 1981 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
 	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
 	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
@@ -19100,9 +19128,44 @@ Les mesures d'application des articles L. 212-4-1 à L. 212-4-3 font l'objet de 
 
 	  - Code du travail - art. L212-4-8 (Ab)
 
-	**Cite**:
 
-	  - Code du travail L212-4-1 A L212-4-3
+###### Article L212-4-5
+
+Les salariés à temps complet qui souhaitent occuper ou reprendre un emploi à temps partiel et les salariés à temps partiel
+qui souhaitent occuper ou reprendre un emploi à temps complet dans le même établissement ou, à défaut, dans la même
+entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Créé par**:
+
+	  - Loi n°81-64 du 28 janvier 1981 - art. 2 () JORF 29 JANVIER 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 32 (V)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L432-4-2 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L212-4-9 (AbD)
 
 
 ##### HEURES SUPPLEMENTAIRES .
