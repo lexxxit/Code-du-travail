@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-12-23
+Version Consolidée au 1978-12-27
 
 # Partie législative ancienne
 
@@ -57323,6 +57323,44 @@ l'enseignement technologique correspondant aux métiers dont la spécificité d'
 	  - Décret n°73-1048 1973-11-15
 
 
+###### Article R119-35
+
+La demande d'agrément, prévue à l'article L. 117-5, de l'employeur, accompagnée de l'avis du comité d'entreprise, s'il en
+existe un, est adressée au secrétariat du comité départemental de la formation professionnelle, de la promotion sociale et de
+l'emploi par l'intermédiaire soit de la chambre de métiers, soit de la chambre de commerce et d'industrie, soit de la chambre
+d'agriculture dont relève l'employeur. Cet organisme assure l'instruction de la demande et y joint son avis qui porte
+notamment sur la possibilité pour l'employeur de former simultanément le nombre d'apprentis mentionné par lui.
+
+Les plafonds d'emploi simultané d'apprentis prévu à l'article R. 117-1 sont fixés par le comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi après avis soit de la chambre des métiers, soit de la chambre de
+commerce et d'industrie soit de la chambre d'agriculture intéressée.
+
+Ces plafonds sont déterminés par métiers, en tenant compte, d'une part et s'il y a lieu des différents types d'entreprise
+existant dans le métier considéré et, d'autre part, de la relation qui doit être maintenue au sein de l'entreprise ou de
+l'établissement entre le nombre des apprentis et le nombre des personnes qualifiées dans le métier faisant l'objet de la
+formation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+	  - Décret n°72-1208 du 27 décembre 1972 - art. 5 ()
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L117-5 (M)
+	  - Code du travail - art. R117-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R119-36 (M)
+
+
 ###### Article R119-36
 
 L'agrément [*par le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi*] prévu à
@@ -57417,6 +57455,46 @@ professionnelle, de la promotion sociale et de l'emploi compétents.
 
 	  - Code du travail - art. L115-2 (M)
 	  - Code du travail - art. R117-6 (M)
+
+
+###### Article R119-39
+
+L'employeur doit transmettre les exemplaires originaux du contrat d'apprentissage à la chambre de métiers, à la chambre de
+commerce et d'industrie ou à la chambre d'agriculture dont il relève. La chambre compétente rassemble les contrats de ses
+ressortissants, à charge pour elle de recueillir le visa du directeur du centre de formation d'apprentis valant l'attestation
+de l'inscription de l'apprenti, d'examiner la conformité de ces contrats à la loi et aux règlements et de les soumettre,
+
+avec son avis, à l'enregistrement de la direction départementale du travail et de la main-d'oeuvre, de l'inspection
+départementale des lois sociales en agriculture, ou de l'administration chargée du contrôle de la législation du travail et
+des lois sociales pour les branches d'activité qui ne relèvent pas des directions ou inspections susénoncées.
+
+Les originaux du contrat doivent parvenir au service chargé de l'enregistrement au plus tard dans le délai de deux mois à
+compter de la date du début de l'apprentissage.
+
+Pour tenir compte des circonstances locales, le contrat type mentionné à l'article R. 117-11 prévoit la mention du métier
+pour l'apprentissage duquel le contrat est proposé et celle de l'avis selon le cas de la chambre de commerce et d'industrie,
+
+de la chambre de métiers ou de la chambre d'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+	  - Décret n°72-1208 du 27 décembre 1972 - art. 9 ()
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°80-912 du 21 novembre 1980 - art. 9 (V)
+	  - Code du travail - art. R119-36 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R117-11 (M)
 
 
 ###### Article R119-40
@@ -109923,6 +110001,48 @@ le compte de liquidation.
 
 ##### De l'agrément de l'employeur.
 
+###### Article D811-32
+
+L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
+l'établissement. Cette demande précise    : 
+
+a) Les nom et prénoms de l'employeur ou la dénomination de l'entreprise quand celle-ci est une société ; 
+
+b) Le nombre de salariés de l'entreprise, autres que les apprentis ; 
+
+c) Les noms et qualifications professionnelles des personnes responsables de la formation des apprentis ; 
+
+d) Le nombre d'apprentis que l'employeur est à même d'accueillir simultanément, dans la limite du plafonnement prévu à
+l'alinéa suivant. 
+
+En vue d'assurer la qualité de la formation pratique donnée aux apprentis, le comité départemental de la formation
+professionnelle, de la promotion sociale et de l'emploi fixe, pour chaque branche professionnelle, un ou des plafonds
+d'emploi simultané d'apprentis, après consultation soit de la chambre de métiers, soit de la chambre de commerce et de
+l'industrie, soit de la chambre d'agriculture intéressée. 
+
+Ces plafonds sont déterminés en tenant compte d'une part, et s'il y a lieu, des différents types d'entreprises existant dans
+la branche considérée, d'autre part de la relation qui doit être maintenue au sein de l'entreprise ou de l'établissement
+entre le nombre des apprentis et le nombre des personnes qualifiées dans le métier faisant l'objet de la formation.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L117-5 (M)
+
+
 ###### Article D811-33
 
 La demande, accompagnée de l'avis du comité d'entreprise, s'il en existe un, est adressée au secrétariat du comité
@@ -110140,7 +110260,89 @@ où il a été saisi, la dérogation est réputée accordée.
 	  - Code du travail - art. L117-13 (M)
 
 
+##### Avis d'orientation
+
+##### Certificat médical.
+
+###### Article D811-40
+
+Le contrat d'apprentissage doit être accompagné du certificat de la visite médicale d'embauche et de l'avis d'orientation
+[*formalité obligatoire, examen médical*] prévu à l'article L. 117-3 (alinéa 2). Cet avis est délivré, à la suite d'un examen
+individuel, par un centre public d'information et d'orientation ou par un centre créé en application de l'article 39 du code
+de l'artisanat. Il porte notamment sur l'aptitude de l'apprenti à suivre la formation envisagée.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-42 (M)
+
+	**Cite**:
+
+	  - Code du travail L117-3 AL. 2
+	  - Code de l'artisanat - art. 39 (M)
+
+
 ##### Du contenu des contrats d'apprentissage.
+
+###### Article D811-41
+
+Le contrat d'apprentissage fait l'objet d'un écrit sous seing privé établi en trois [*nombre*] exemplaires originaux. Chacun
+des exemplaires originaux doit être signé par l'employeur, par l'apprenti ainsi que par le représentant légal de celui-ci
+[*conditions de forme*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+
+###### Article D811-42
+
+Le contrat d'apprentissage doit contenir les stipulations et indications obligatoires contenues dans le contrat type annexé
+au présent titre (1).
+
+(1) Le contrat type est publié au Journal officiel (NC) de ce jour.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-47 (Ab)
+
 
 ###### Article D811-43
 
@@ -110760,6 +110962,80 @@ autre organisme public ou privé qui, à la même date, contribue déjà à la f
 	  - Code du travail D811-1 A D811-80
 
 
+###### Article D811-62
+
+Les accords provisoires conclus par le préfet de département ont pour objet d'habiliter les organismes mentionnés à l'article
+ci-dessus à accueillir les apprentis ayant souscrit un contrat d'apprentissage avant une date qui sera fixée par chaque
+accord et qui ne pourra être postérieure au 1er octobre 1979 [*date limite*].
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-61 (Ab)
+
+
+###### Article D811-63
+
+Les accords provisoires peuvent être soit des accords simples, soit des accords de transformation.
+
+Les accords simples prévoient et organisent le maintien du fonctionnement de cours professionnels ou d'autres organismes de
+formation en attendant la mise en place d'un centre de formation d'apprentis susceptible d'accueillir les apprentis du
+secteur intéressé.
+
+Les accords de transformation prévoient la conclusion, avant le 1er octobre 1979, d'une convention comportant la
+transformation d'un ou de plusieurs cours professionnels, ou organismes de formation préexistants, en un centre de formation
+d'apprentis, ou l'intégration desdits cours ou organismes dans un centre de formation d'apprentis déjà créé ou en cours de
+création.
+
+Dans l'attente de la conclusion de l'un de ces accords, ou de la convention régie par les dispositions de la section I du
+présent chapitre, les organismes visés à l'article D. 811-61 peuvent être autorisés pour la période du 1er octobre 1973 au 30
+juin 1974 à continuer la formation des apprentis selon les mêmes modalités que pendant l'année scolaire 1972-1973.
+
+La demande d'autorisation doit être adressée au préfet de département avant le 1er octobre 1973 [*date limite*].
+L'autorisation est réputée accordée si une décision de refus n'a pas été notifiée au demandeur dans le mois suivant la
+réception de cette demande.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. D811-61 (Ab)
+	  - Code du travail D811-1 A D811-50, D811-61
+
+
 ###### Article D811-64
 
 Le préfet peut dénoncer les accords provisoires [*sanction*] , après mise en demeure non suivie d'effet, pour méconnaissance
@@ -110889,6 +111165,42 @@ employeurs assujettis à la taxe d'apprentissage.
 
 
 ##### Des accords de transformation.
+
+###### Article D811-68
+
+L'accord de transformation définit les conditions dans lesquelles les cours ou organismes de formation sont appelés à une
+date fixée par ledit accord et qui ne peut être postérieure au 1er octobre 1979 [*date limite*] :
+
+Soit à être transformés en centres de formation d'apprentis ;
+
+Soit à être intégrés dans un ou des centres déjà créés ou à créer.
+
+Dans ce dernier cas, le ou les organismes signataires de l'accord s'engagent soit à passer avec le ou les gestionnaires de ce
+ou de ces centres une convention organisant cette intégration, soit à participer à la constitution du ou des organismes
+gestionnaires du ou des nouveaux centres.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cité par**:
+
+	  - Code du travail - art. D811-78 (Ab)
+
 
 ###### Article D811-69
 
@@ -111204,6 +111516,40 @@ personnel possède les compétences requises et qu'il satisfasse aux exigences d
 
 	  - Code du travail - art. D811-68 (M)
 	  - Code du travail - art. D811-74 (Ab)
+
+
+##### Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.
+
+###### Article D811-79
+
+A compter du 1er octobre 1973 et jusqu'au 1er octobre 1979 [*période*] les employeurs ne pourront souscrire des contrats
+d'apprentissage que s'ils ont [*condition*] préalablement déposé la demande d'agrément prévue à l'article L. 117-5.
+
+Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi devra statuer sur cette
+demande dans le délai d'un an. Eventuellement, en cas de refus d'agrément, il précisera si les contrats en cours peuvent être
+exécutés jusqu'à leur terme.
+
+**Nota:**
+
+[*Nota - Décret 90-496 du 20 juin 1990, article 1 : les articles D811-1 à D811-80 sont remplacés par l'article D811.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°71-576 1971-07-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Abrogé par**:
+
+	  - Décret n°90-496 du 20 juin 1990 - art. 1 () JORF 22 juin 1990 en vigueur le 1er juillet 1990
+
+	**Cite**:
+
+	  - Code du travail - art. L117-5 (M)
 
 
 ##### Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
@@ -112189,142 +112535,6 @@ Les modalités d'application des dispositions des articles R. 761-4 et suivants 
 
 #### APPRENTISSAGE
 
-##### CONTRAT D'APPRENTISSAGE
-
-##### AGREMENT DE L'EMPLOYEUR .
-
-###### Article D811-32
-
-L'agrément prévu à l'article L. 117-5 est demandé par l'employeur au préfet du département du siège de l'entreprise ou de
-l'établissement. Cette demande [*contenu*] précise notamment :
-
-Le nombre d'apprentis que l'employeur est susceptible d'accueillir simultanément ;
-
-Sur la base d'une liste établie par le comité départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi, les éléments de nature à établir que l'équipement de l'entreprise, ses techniques d'exploitation et les conditions
-d'emploi de la main-d'oeuvre sont susceptibles de permettre,
-
-dans des conditions satisfaisantes, la formation pratique des apprentis ;
-
-Les noms et qualifications professionnelles de la ou des personnes responsables de la formation des apprentis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L117-5 (M)
-
-
-##### AVIS D'ORIENTATION .
-
-###### Article D811-40
-
-L'avis d'orientation [*contenu*] prévu par l'article L. 117-3 (alinéa 2) est délivré, à la suite d'un examen individuel, par
-un centre public d'information et d'orientation ou par un centre créé en application de l'article 39 du code de l'artisanat.
-Il porte notamment sur l'aptitude de l'apprenti à suivre la formation envisagée. Il doit être accompagné d'un certificat
-établi par le médecin du centre ou par un médecin du travail ou de la santé scolaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D811-42 (M)
-
-	**Cite**:
-
-	  - Code du travail L117-3 AL.  2
-	  - Code de l'artisanat - art. 39 (M)
-
-
-##### CONTENU DES CONTRATS D'APPRENTISSAGE .
-
-###### Article D811-41
-
-Le contrat d'apprentissage est constaté par un écrit sous seing privé et est établi au moins en trois exemplaires originaux
-[*nombre minimum*]. Chacun des exemplaires originaux doit être signé par l'employeur et par l'apprenti ainsi que par le
-représentant légal de celui-ci [*condition de forme*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article D811-42
-
-Doivent obligatoirement figurer dans le contrat d'apprentissage les mentions suivantes :
-
-Les nom et prénoms de l'employeur ou la raison sociale de l'entreprise, l'adresse du siège de l'entreprise et celle de
-l'établissement où s'effectue l'apprentissage ;
-
-La désignation de la formation assurée par la mention du diplôme de l'enseignement technologique auquel conduit cette
-formation ;
-
-La date de l'agrément accordé par le comité départemental de la formation professionnelle, de la promotion sociale et de
-l'emploi ;
-
-Les nom, prénoms, date de naissance et domicile de l'apprenti ;
-
-Les nom, prénoms, domicile de ses père et mère ou de son représentant légal ;
-
-La désignation de l'organisme qui a délivré l'avis d'orientation prévu à l'article D. 811-40 ;
-
-La mention du dernier établissement scolaire fréquenté et la date de fin des études ;
-
-La date de début de l'apprentissage et la durée du contrat ;
-
-La dénomination et l'adresse du centre de formation d'apprentis auquel a été inscrit le titulaire du contrat ainsi que
-l'identification de la section assurant la formation définie au contrat ;
-
-Lorsqu'une dérogation a été demandée en application de l'article D. 811-39, l'indication de la date de la décision intervenue
-ou, en cas de décision implicite, de celle à laquelle la demande de dérogation a été reçue par l'autorité désignée audit
-article ;
-
-Lorsque le contrat constitue la prorogation d'un contrat antérieur, la date de l'avis circonstancié du directeur du centre de
-formation d'apprentis que prévoit l'article L. 117-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. D811-39 (Ab)
-	  - Code du travail - art. D811-40 (M)
-	  - Code du travail - art. L117-9 (M)
-
-	**Cité par**:
-
-	  - Code du travail - art. D811-47 (Ab)
-
-
 ##### DISPOSITIONS FINANCIERES .
 
 ###### Article D811-52
@@ -112379,124 +112589,6 @@ minimal applicable pendant la prolongation est celui afférent à la troisième 
 
 	  - Code du travail - art. L117-13 (M)
 	  - Code du travail - art. L117-9 (M)
-
-
-##### DISPOSITIONS PROVISOIRES
-
-##### ACCORDS PROVISOIRES .
-
-###### Article D811-62
-
-Les accords provisoires conclus par le préfet de département ont pour objet d'habiliter les organismes mentionnés à l'article
-ci-dessus à accueillir les apprentis ayant souscrit un contrat d'apprentissage avant une date qui sera fixée par chaque
-accord et qui ne pourra être postérieure au 1er octobre 1977 [*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. D811-61 (Ab)
-
-
-###### Article D811-63
-
-Les accords provisoires peuvent être soit des accords simples, soit des accords de transformation.
-
-Les accords simples prévoient et organisent le maintien du fonctionnement de cours professionnels ou d'autres organismes de
-formation en attendant la mise en place d'un centre de formation d'apprentis susceptible d'accueillir les apprentis du
-secteur intéressé.
-
-Les accords de transformation prévoient la conclusion, avant le 1er octobre 1977, d'une convention comportant la
-transformation d'un ou de plusieurs cours professionnels, ou organismes de formation préexistants, en un centre de formation
-d'apprentis, ou l'intégration desdits cours ou organismes dans un centre de formation d'apprentis déjà créé ou en cours de
-création.
-
-Dans l'attente de la conclusion de l'un de ces accords, ou de la convention régie par les dispositions de la section I du
-présent chapitre, les organismes visés à l'article D. 811-61 peuvent être autorisés pour la période du 1er octobre 1973 au 30
-juin 1974 à continuer la formation des apprentis selon les mêmes modalités que pendant l'année scolaire 1972-1973.
-
-La demande d'autorisation doit être adressée au préfet de département avant le 1er octobre 1973 [*date limite*].
-L'autorisation est réputée accordée si une décision de refus n'a pas été notifiée au demandeur dans le mois suivant la
-réception de cette demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. D811-61 (Ab)
-	  - Code du travail D811-1 A D811-50, D811-61
-
-
-##### ACCORDS DE TRANSFORMATION .
-
-###### Article D811-68
-
-L'accord de transformation définit les conditions dans lesquelles les cours ou organismes de formation sont appelés à une
-date fixée par ledit accord et qui ne peut être postérieure au 1er octobre 1977 [*date limite*] :
-
-Soit à être transformés en centres de formation d'apprentis ;
-
-Soit à être intégrés dans un ou des centres déjà créés ou à créer.
-
-Dans ce dernier cas, le ou les organismes signataires de l'accord s'engagent soit à passer avec le ou les gestionnaires de ce
-ou de ces centres une convention organisant cette intégration, soit à participer à la constitution du ou des organismes
-gestionnaires du ou des nouveaux centres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cité par**:
-
-	  - Code du travail - art. D811-78 (Ab)
-
-
-##### DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .
-
-###### Article D811-79
-
-A compter du 1er octobre 1973 et jusqu'au 1er octobre 1977 [*période*] les employeurs ne pourront souscrire des contrats
-d'apprentissage que s'ils ont [*condition*] préalablement déposé la demande d'agrément prévue à l'article L. 117-5.
-
-Le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi devra statuer sur cette
-demande dans le délai d'un an. Eventuellement, en cas de refus d'agrément, il précisera si les contrats en cours peuvent être
-exécutés jusqu'à leur terme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-576 1971-07-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Cite**:
-
-	  - Code du travail - art. L117-5 (M)
 
 
 ## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente
