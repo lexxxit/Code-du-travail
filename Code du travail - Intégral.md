@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1978-01-24
+Version Consolidée au 1978-01-25
 
 # Partie législative ancienne
 
@@ -78071,6 +78071,132 @@ l'article L. 323-28.
 	  - Décret n°70-1338 1970-12-14 ART. 1
 
 
+###### Article R323-58-1
+
+Les établissements, organismes, services et employeurs mentionnés à l'article L. 323-12 peuvent, par décision du préfet, être
+exonérés partiellement de l'obligation relative à la priorité d'emploi des travailleurs handicapés, dans la mesure où ils
+passent des contrats de fournitures, de sous-traitance ou de prestations de services avec des ateliers protégés, des centres
+de distribution de travail à domicile ou les centres d'aide par le travail mentionné à l'article 167 du code de la famille et
+l'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L323-12 (M)
+	  - Code de la famille et de l'aide sociale. - art. 167 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-58-4 (Ab)
+
+
+###### Article R323-58-2
+
+L'exonération [*partielle de priorité d'emploi*] ne peut être supérieure aux deux tiers du pourcentage fixé en application de
+l'article L. 323-19, apprécié sur la base de la durée légale du travail [*montant*].
+
+Toutefois, lorsque les établissements organismes, services et employeurs énumérés à l'article L. 323-12 sont également, en
+vertu de l'article L. 323-2, assujettis aux dispositions des articles R. 323-1 et suivants relatives aux mutilés de guerre,
+l'exonération ne peut pas excéder la moitié du pourcentage maximum global dans la limite duquel leur double obligation
+d'emploi est appréciée, par application de l'article R. 323-43 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. L322-12 (M)
+	  - Code du travail - art. L323-19 (Ab)
+	  - Code du travail - art. L323-2 (M)
+	  - Code du travail - art. R323-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-58-3 (Ab)
+
+
+###### Article R323-58-3
+
+Le nombre de travailleurs handicapés que l'employeur est dispensé d'occuper en application de l'article L. 323-19 est égal,
+sous réserve de la limite fixée ci-dessus à l'article R. 323-58-2, au nombre de salariés ayant un rendement normal et
+accomplissant une durée normale de travail qui, dans l'entreprise de cet employeur, serait nécessaire pour exécuter les
+tâches confiées à un atelier protégé, à un centre de distribution de travail à domicile ou à un centre d'aide par le travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-58-2 (M)
+	  - Code du travail L223-19
+
+
+###### Article R323-58-4
+
+Le prix des fournitures, travaux et services prévus aux contrats [*permettant d'être exonéré de l'obligation de priorité
+d'emploi*] mentionnés à l'article R. 323-58-1 doit être établi, au minimum, sur la base des prix de revient constatés dans
+l'établissement donneur d'ouvrage ou, à défaut, dans la profession pour la réalisation des travaux prévus auxdits contrats,
+déduction faite des frais de commercialisation et du coût des éléments fournis par le donneur d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-58-1 (M)
+
+
+###### Article R323-58-5
+
+Pour ouvrir droit à l'exonération [*partielle de la priorité d'emploi*], les contrats susmentionnés doivent [*conditions*]
+être passés selon des modèles agréés par arrêté conjoint des ministres chargés du travail, de la santé, de l'industrie et de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 8 août 1979 - art. 1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances, sous réserve que les mots :"par arrêté conjoint des ministres chargés du travail de l'industrie, de la santé et de l'agriculture" s
+
+
 ##### TRAVAIL PROTEGE
 
 ##### EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .
@@ -78143,78 +78269,216 @@ Selon les nécessités de leur production, les ateliers protégés peuvent embau
 
 ###### Article R323-61
 
-Les établissements de travail protégé et les centres de distribution de travail à domicile sont tenus [*obligations*] de
-faire parvenir chaque année [*période*] au ministre chargé du travail un rapport d'activité et de se soumettre au contrôle
-technique des agents du ministère chargé du travail.
+Les ateliers protégés et les centres de distribution de travail à domicile doivent satisfaire aux conditions techniques de
+fonctionnement qui sont déterminées par arrêté du ministre du travail.
+
+Chaque atelier protégé et chaque centre de distribution de travail est placé sous l'autorité d'un responsable, sans préjudice
+des responsabilités incombant à l'organisme gestionnaire. Quand un centre de distribution de travail ou une section de centre
+d'aide par le travail sont annexés à un atelier protégé, ils peuvent être placés sous l'autorité du même responsable.
+
+Chaque atelier protégé et chaque centre de distribution de travail fait l'objet d'une comptabilité distincte, qui est tenue
+conformément aux prescriptions du plan comptable général.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R344-12 (V)
 
-	**Anciens textes**:
 
-	  - Décret  1962-07-26 ART. 39
+###### Article R323-63
+
+Les subventions prévues à l'article L. 323-31 ne peuvent être allouées qu'à des établissements agréés dans les conditions
+prévues à l'article précédent et donnent lieu, dans chaque cas, à l'établissement d'une convention précisant notamment
+l'objet de la subvention et les modalités du contrôle exercé par la collectivité publique ou l'organisme qui accorde la
+subvention.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
 
+	**Liens**:
 
-###### Article R323-62
-
-Les subventions [*aux ateliers protégés et centres de distribution de travail à domicile*] prévues à l'article L. 323-31, ne
-peuvent être allouées qu'à des établissements agréés, dans des conditions fixées à l'article R. 323-60 et donnent lieu dans
-chaque cas à l'établissement d'une convention [*contenu*] précisant l'objet de la subvention et les modalités du contrôle
-exercé par la collectivité publique ou l'organisme qui accorde la subvention.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code du travail - art. D323-28 (VT)
-	  - Code du travail - art. D910-19 (VT)
-	  - Code du travail - art. D910-5 (Ab)
-	  - Code du travail - art. R323-63 (M)
-	  - Code du travail - art. R323-64 (VT)
-	  - Décret n°2006-150 du 13 février 2006 - art. 4 (V)
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
 
 	**Cite**:
 
 	  - Code du travail - art. L323-31 (M)
-	  - Code du travail - art. R323-60 (P)
-
-	**Anciens textes**:
-
-	  - Décret  1962-07-26 ART. 40
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-
-###### Article R323-63
-
-Les arrêtés du ministre chargé du travail ayant pour objet l'attribution, sur les crédits inscrits à cet effet au budget de
-son département, de subventions à des établissements agréés de travail protégé, sont pris sur avis de la section permanente
-du Conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés.
-
-Il est tenu compte, lors de cette attribution, des autres subventions que ces établissements pourraient recevoir.
-
-**Liens relatifs à cet article**
+	  - Code du travail - art. R323-62 (P)
 
 	**Cité par**:
 
 	  - Code du travail - art. R323-63-1 (Ab)
 
-	**Anciens textes**:
 
-	  - Décret  1962-07-26 ART. 41
+###### Article R323-63-1
+
+I. - Les conventions passées par l'Etat en application de l'article R. 323-63, en vue de subventionner l'investissement ou le
+fonctionnement d'un atelier protégé ou d'un centre de distribution de travail à domicile, ne peuvent être conclues qu'après
+avis de la section permanente du conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés
+[*condition préalable*].
+
+II. - Lorsque la subvention de l'Etat a pour objet une participation financière aux dépenses de fonctionnement de l'atelier
+protégé ou du centre de distribution de travail à domicile, elle est calculée au vu des résultats du compte d'exploitation et
+en prenant en considération notamment le surcroît de charges résultant de l'emploi de travailleurs à capacité professionnelle
+réduite. Pour la première année, la convention peut prévoir le versement d'une avance dès le début du fonctionnement.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-63 (P)
+
+
+###### Article R323-63-2
+
+Les organismes gestionnaires des ateliers protégés et des centres de distribution de travail à domicile sont tenus de faire
+parvenir chaque année au ministre chargé du travail un rapport [*formalité obligatoire*] de l'activité de ces ateliers et
+centres et de se soumettre au contrôle des agents de ce même ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+
+###### Article R323-63-3
+
+Par application de l'article L. 323-30, dernier alinéa, et sur décision de la commission technique d'orientation et de
+reclassement professionnel, un atelier protégé peut embaucher, pour une période d'essai, des personnes handicapées, notamment
+dans le cas où leur capacité de travail n'atteint pas, au moment où la commission précitée s'est prononcée, la capacité de
+travail minimale fixée par le décret prévu au premier alinéa de l'article L. 323-30 mais paraît pouvoir être atteinte au
+terme de la période d'essai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. R323-63-4 (Ab)
+	  - Code du travail - art. R323-63-5 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L323-30 AL. FINAL
+
+
+###### Article R323-63-4
+
+La période d'essai prévue à l'article R. 323-63-3 peut durer six mois au plus [*maximum*] .
+
+La période doit être mise à profit, tant par l'atelier protégé que par l'intéressé, pour rechercher les tâches dans
+lesquelles l'intéressé peut, compte tenu de son handicap, atteindre le meilleur rendement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-63-3 (M)
+
+
+###### Article R323-63-5
+
+A l'expiration de la période d'essai, prévue à l'article R. 323-63-3, l'inspecteur du travail dans la circonscription duquel
+l'essai a eu lieu établit un rapport, après consultation du responsable de l'atelier protégé.
+
+Dans le mois suivant de la période d'essai [*délai point de départ*], la commission technique d'orientation et de
+reclassement professionnel prend sa décision au vu de ce rapport et se prononce soit pour l'embauche de l'intéressé par
+l'atelier protégé, soit pour le renouvellement d'un essai, soit pour une nouvelle orientation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail - art. R323-63-3 (M)
+
+
+##### ETABLISSEMENTS PROTEGES.
+
+###### Article R323-62
+
+La demande tendant à obtenir l'agrément [*pour sa création*] prévu par l'article L. 323-31 est adressée au préfet du
+département où sera situé l'atelier protégé ou le centre de distribution de travail à domicile. Le préfet la transmet, après
+enquête, au ministre chargé du travail [*formalités*].
+
+Après consultation de la section permanente du conseil supérieur pour le reclassement professionnel et social des
+travailleurs handicapés, le ministre prononce, s'il y a lieu, l'agrément.
+
+L'établissement ne peut commencer ses opérations d'embauche ou de production avant d'avoir obtenu l'agrément qu'il a
+sollicité.
+
+Le retrait de l'agrément peut être prononcée par le ministre du travail après que l'organisme gestionnaire a été mis à même
+de présenter les observations et après avis de la section permanente du conseil supérieur pour le reclassement professionnel
+et social des travailleurs handicapés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-631 1984-07-16 ART. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Décret n°2006-150 du 13 février 2006 - art. 4 (V)
+	  - Code du travail - art. D323-28 (VT)
+	  - Code du travail - art. D910-19 (VT)
+	  - Code du travail - art. D910-5 (Ab)
+	  - Code du travail - art. R323-63 (M)
+	  - Code du travail - art. R323-64 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L323-31 (M)
 
 
 ##### LABELS .
@@ -101834,6 +102098,53 @@ sociales en agriculture sont également habilités [*attributions*] à exercer c
 	**Abrogé par**:
 
 	  - Décret n°81-52 1981-01-23 art. 1 JORF 25 janvier
+
+
+###### Article D323-25-1
+
+Le pourcentage de la capacité normale de travail que doit, en application de l'article L. 323-30, atteindre un travailleur
+handicapé pour être admis dans un atelier protégé est égal au tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Abrogé par**:
+
+	  - Décret n°2006-152 du 13 février 2006 - art. 4 () JORF 14 février 2006 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L323-30 (M)
+
+
+###### Article D323-25-2
+
+Le salaire minimum que doit percevoir, en application de l'article L. 323-32, troisième alinéa, un travailleur handicapé dans
+un atelier protégé ou dans un centre de distribution de travail à domicile, est égal [*montant*] au salaire minimum de
+croissance déterminé en application des articles L. 141-1 et suivants, affecté du même pourcentage que celui du rendement
+atteint par l'intéressé par rapport à un rendement normal. Ce salaire minimum ne peut en aucun cas être inférieur au tiers du
+salaire minimum de croissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cite**:
+
+	  - Code du travail L141-1 et suivants
 
 
 ##### Section 3 : Emploi obligatoire des pères de famille.
