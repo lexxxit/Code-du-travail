@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1974-11-20
+Version Consolidée au 1974-12-28
 
 # Partie législative ancienne
 
@@ -16111,94 +16111,6 @@ pendant la journée de travail le temps et la liberté nécessaire au respect de
 
 	  - Code du travail 2018
 	  - Ordonnance  1967-09-27
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-### CONDITIONS
-
-#### DUREE
-
-##### HEURES SUPPLEMENTAIRES.
-
-###### Article L212-8
-
-Les attributions du ministre chargé du travail et des inspecteurs du travail et de la main-d'oeuvre qui résultent de
-l'article L. 212-7 ci-dessus, sont exercées par le ministre chargé de l'agriculture et par les inspecteurs et contrôleurs des
-lois sociales en agriculture en ce qui concerne les entreprises, sociétés ou organismes mentionnés à l'alinéa 2 de l'article
-L. 212-1 ci-dessus.
-
-Dans ces mêmes entreprises, sociétés et organismes, les inspecteurs et contrôleurs des lois sociales en agriculture sont
-habilités à contrôler les infractions aux dispositions de la présente section, ainsi qu'à celles des décrets prévus à
-l'article L. 212-1, alinéa 2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°83-40 du 26 janvier 1983 - art. 4 (VT)
-	  - Décret n°83-40 du 26 janvier 1983 - art. 5 (Ab)
-	  - Décret n°83-1111 du 19 décembre 1983 - art. 3 (Ab)
-	  - Décret n°91-342 du 3 avril 1991 - art. 4 (Ab)
-	  - Décret n°91-342 du 3 avril 1991 - art. 5 (Ab)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 10 (M)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 8 (M)
-	  - Décret n°95-1073 du 28 septembre 1995 - art. 9 (M)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (V)
-	  - Loi n°2000-37 du 19 janvier 2000 - art. 8 (V)
-	  - Décret n°2000-82 du 31 janvier 2000 - art. 1 (An)
-	  - Décret n°2000-89 du 2 février 2000 - art. 8 (V)
-	  - Décret n°2000-118 du 14 février 2000 - art. 4 (V)
-	  - Arrêté du 24 décembre 2002 - art. 2 (Ab)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 11 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 15-2 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 4 (V)
-	  - Décret n°2003-849 du 4 septembre 2003 - art. 9-2 (V)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 2 (VT)
-	  - Décret n°2003-1242 du 22 décembre 2003 - art. 4 (VT)
-	  - Loi n°2004-626 du 30 juin 2004 - art. 5 (V)
-	  - Décret n°2004-821 du 18 août 2004 - art. 3 (V)
-	  - Loi n°2016-1088 du 8 août 2016 - art. 12 (V)
-	  - Code de la sécurité sociale. - art. D241-12 (Ab)
-	  - Code de la sécurité sociale. - art. D241-20 (Ab)
-	  - Code de la sécurité sociale. - art. D241-27 (VT)
-	  - Code du travail - art. D212-19 (VT)
-	  - Code du travail - art. D212-23 (VT)
-	  - Code du travail - art. D212-25 (VT)
-	  - Code du travail - art. L142-1 (AbD)
-	  - Code du travail - art. L212-10 (M)
-	  - Code du travail - art. L212-18 (VT)
-	  - Code du travail - art. L212-4-7 (AbD)
-	  - Code du travail - art. L212-6 (AbD)
-	  - Code du travail - art. L212-8-1 (Ab)
-	  - Code du travail - art. L212-8-2 (Ab)
-	  - Code du travail - art. L212-8-3 (Ab)
-	  - Code du travail - art. L212-8-4 (Ab)
-	  - Code du travail - art. L212-8-5 (AbD)
-	  - Code du travail - art. L212-9 (T)
-	  - Code du travail - art. L223-2 (AbD)
-	  - Code du travail - art. L223-9 (AbD)
-	  - Code du travail - art. L441-4 (AbD)
-	  - Code du travail - art. L620-2 (AbD)
-	  - Code du travail maritime - art. 24-2 (V)
-	  - Code rural ancien - art. 993-2 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code du travail - art. L212-8-2 (Ab)
-	  - TXT_ASSOCIE: Code du travail - art. R212-2 (M)
-
-	**Cite**:
-
-	  - Code du travail L212-1 ET L212-7
-
-	**Nouveaux textes**:
-
-	  - Code rural - art. L713-14 (M)
-	  - Code rural - art. L713-15 (M)
-	  - Code rural - art. L713-16 (V)
 
 	**Codifié par**:
 
@@ -44503,6 +44415,73 @@ l'article L. 433-13.
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L951-8 (AbD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+### Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
+
+###### Article L950-4
+
+I.- Lorsque les dépenses justifiées par l'employeur en application de l'article L. 950-2 sont inférieures à la participation
+fixée par ledit article, l'employeur [*obligation*] est tenu d'effectuer au Trésor un versement égal à la différence
+constatée.
+
+//LOI  1114 27-12-1974 :
+
+Les sommes engagées par un employeur au titre d'une convention passée avec un organisme formateur n'ont de caractère
+libératoire que dans la mesure où [*condition*] cet organisme effectue les dépenses correspondantes avant la date de la
+régularisation de la convention.
+
+Le versement au Trésor à raison de l'insuffisance éventuelle doit être opéré en même temps que le dépôt de la déclaration de
+l'année de cette régularisation//.
+
+Dans le cas où l'employeur ne rapporte pas la preuve mise à sa charge par l'article L. 950-3, le versement auquel il est
+tenu, en application de l'alinéa précédent, est majoré de 50 p.100. Cette majoration ne peut être inférieure à la moitié de
+la contribution due au titre de l'année considérée.
+
+Le versement est opéré en même temps que le dépôt de la déclaration prévue à l'article L. 950-7.
+
+Ce versement est établi et recouvré selon les modalités ainsi que sous les sûretés, garanties et sanctions applicables aux
+taxes sur le chiffre d'affaires.
+
+II.- Les réclamations sont présentées, instruites et jugées comme en matière de taxe sur le chiffre d'affaires. Elles sont
+communiquées pour avis au service chargé du contrôle de la validité des dépenses faites au titre de l'article L. 950-2
+lorsque le litige porte sur le montant de la participation consentie par l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire  1972-09-04
+
+	**Anciens textes**:
+
+	  - Loi n°71-575 du 16 juillet 1971 - art. 16 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-1114 du 27 décembre 1974 - art. 26 () JORF 28 DECEMBRE 1974
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 85 (Ab)
+	  - Code du travail - art. L950-2-2 (T)
+	  - Code du travail - art. L950-9 (Ab)
+	  - Code du travail - art. R950-15 (T)
+	  - Code du travail - art. R950-19 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L950-2 (M)
+	  - Code du travail - art. L950-3 (M)
+	  - Code du travail - art. L950-7 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L951-9 (AbD)
 
 	**Codifié par**:
 
