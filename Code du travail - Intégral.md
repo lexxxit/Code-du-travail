@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1979-01-04
+Version Consolidée au 1979-01-17
 
 # Partie législative ancienne
 
@@ -22399,6 +22399,1026 @@ professions libérales, des sociétés civiles, des syndicats professionnels et 
 
 ### Titre V : TRAVAILLEURS PRIVES D'EMPLOI
 
+#### Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+
+##### SECTION 1 : DISPOSITIONS GENERALES.
+
+###### Article L351-2
+
+Le revenu de remplacement est pris en charge par les institutions résultant de la convention du 31 décembre 1958 ayant créé
+le régime national interprofessionnel d'allocations spéciales aux travailleurs sans emploi de l'industrie et du commerce.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CONVENTION 1958-12-31
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+	  - Décret n°46-2959 du 31 décembre 1946 - art. 113 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+	  - Décret n°51-727 du 6 juin 1951 - art. 3 (Ab)
+	  - Loi n°79-587 du 11 juillet 1979 - art. 6 (VT)
+	  - Décret n°79-880 du 10 octobre 1979 - art. 3 (V)
+	  - Décret n°79-880 du 10 octobre 1979 - art. 5 (V)
+	  - Décret n°80-169 du 27 février 1980 - art. 4 (V)
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (Ab)
+	  - Loi n°82-155 du 11 février 1982 - art. 39 (V)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (MMN)
+	  - Décret n°82-445 du 28 mai 1982 - art. 2 (Ab)
+	  - Décret n°82-446 du 28 mai 1982 - art. 4 (Ab)
+	  - Décret n°82-575 du 29 juin 1982 - art. 1 (V)
+	  - Décret n°82-940 du 4 novembre 1982 - art. 1 (Ab)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 1 (M)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (M)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 1 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 15 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 2 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 3 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 4 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 5 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 6 (V)
+	  - Décret n°83-553 du 30 juin 1983 - art. 1 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 97 bis (M)
+	  - Décret n°84-345 du 7 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-345 du 7 mai 1984 - art. 2 (Ab)
+	  - Décret n°85-300 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-300 du 5 mars 1985 - art. 2 (V)
+	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
+	  - Loi n°86-824 du 11 juillet 1986 - art. 5 (V)
+	  - Loi n°87-563 du 17 juillet 1987 - art. 8 (V)
+	  - Loi - art. 125 (V)
+	  - Loi n°91-1407 du 31 décembre 1991 - art. 9 (V)
+	  - Décret n°92-187 du 27 février 1992 - art. 1 (V)
+	  - Décret n°92-969 du 7 septembre 1992 - art. 1 (V)
+	  - Décret n°93-593 du 26 mars 1993 - art. 1 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 3 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 4 (V)
+	  - Loi - art. 4 (Ab)
+	  - Arrêté du 13 mars 1997 - art. 12 (V)
+	  - Décret n°98-311 du 23 avril 1998 - art. 1 (Ab)
+	  - Décret n°98-312 du 23 avril 1998 - art. 1 (V)
+	  - Arrêté du 29 décembre 1998 - art. 1 (V)
+	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
+	  - Décret n°2002-4 du 3 janvier 2002 - art. 1 (V)
+	  - Arrêté du 24 décembre 2002 - art. 3 (Ab)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
+	  - Arrêté du 18 février 2005 - art. 1 (V)
+	  - Loi n°2006-586 du 23 mai 2006 - art. 3 (VT)
+	  - Décret n°2006-933 du 28 juillet 2006 - art. 11 (V)
+	  - Décret n°2006-941 du 28 juillet 2006 - art. 11 (V)
+	  - Décret n°2007-1516 du 22 octobre 2007 - art. 1 (VT)
+	  - Arrêté du 18 décembre 2008 - art. 2 (Ab)
+	  - Arrêté du 5 avril 2011 - art. 2 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 968 B (Ab)
+	  - Code de l'éducation - art. L911-7 (V)
+	  - Code de l'éducation - art. R914-130 (M)
+	  - Code de la sécurité sociale. - art. D161-1-2 (V)
+	  - Code de la sécurité sociale. - art. D412-92 (M)
+	  - Code de la sécurité sociale. - art. L131-2 (M)
+	  - Code de la sécurité sociale. - art. L311-5 (V)
+	  - Code de la sécurité sociale. - art. L351-3 (V)
+	  - Code de la sécurité sociale. - art. R115-1 (V)
+	  - Code de la sécurité sociale. - art. R351-12 (V)
+	  - Code de la sécurité sociale. - art. R351-13 (V)
+	  - Code de la sécurité sociale. - art. R723-24 (V)
+	  - Code de la sécurité sociale. - art. R861-1 (V)
+	  - Code de procédure pénale - art. R304 (V)
+	  - Code de procédure pénale - art. R79 (V)
+	  - Code du travail - art. D351-7 (Ab)
+	  - Code du travail - art. D811-1 (VT)
+	  - Code du travail - art. L124-11 (VT)
+	  - Code du travail - art. L128-1 (VT)
+	  - Code du travail - art. L351-12 (Ab)
+	  - Code du travail - art. L351-13 (Ab)
+	  - Code du travail - art. L351-14 (M)
+	  - Code du travail - art. L351-17 (MMN)
+	  - Code du travail - art. L351-18 (Ab)
+	  - Code du travail - art. L351-19 (AbD)
+	  - Code du travail - art. L351-2-1 (MMN)
+	  - Code du travail - art. L351-20 (AbD)
+	  - Code du travail - art. L351-21 (VT)
+	  - Code du travail - art. L351-23 (AbD)
+	  - Code du travail - art. L351-24 (M)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L352-4 (MMN)
+	  - Code du travail - art. L352-5 (AbD)
+	  - Code du travail - art. L812-1 (V)
+	  - Code du travail - art. L961-1 (M)
+	  - Code du travail - art. R128-5 (VT)
+	  - Code du travail - art. R322-7-2 (VT)
+	  - Code du travail - art. R351-10 (M)
+	  - Code du travail - art. R351-11 (M)
+	  - Code du travail - art. R351-12 (M)
+	  - Code du travail - art. R351-13 (M)
+	  - Code du travail - art. R351-15 (M)
+	  - Code du travail - art. R351-16 (Ab)
+	  - Code du travail - art. R351-17 (Ab)
+	  - Code du travail - art. R351-27 (M)
+	  - Code du travail - art. R351-39 (VT)
+	  - Code du travail - art. R351-5 (VT)
+	  - Code du travail - art. R351-7 (M)
+	  - Code du travail - art. R351-9 (M)
+	  - Code du travail - art. R812-7 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Code rural - art. R712-9 (V)
+	  - Code rural ancien - art. 1000-6 (Ab)
+	  - Code rural et de la pêche maritime - art. L712-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5421-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### SECTION 2 : DISPOSITIONS FINANCIERES.
+
+###### Article L351-12
+
+Le financement du régime national interprofessionnel d'aide aux travailleurs privés d'emploi est assuré, d'une part, par une
+contribution des employeurs et des salariés assise sur les rémunérations brutes plafonnées et dont le taux est fixé par les
+institutions visées à l'article L. 351-2 et, d'autre part, par une subvention forfaitaire et globale de l'Etat.
+
+La subvention de l'Etat suit, à régime constant et à nombre d'allocataires constant, la même évolution que la contribution
+globale des employeurs et des salariés.
+
+Lorsque les dépenses sont supérieures aux recettes envisagées en raison d'un accroissement des charges à régime constant, le
+complément de ressources est obtenu pour les deux tiers par un relèvement de la contribution des employeurs et des salariés
+et pour un tiers par un accroissement de la subvention de l'Etat.
+
+Si les dépenses sont inférieures aux recettes envisagées, à régime constant, les contribution et subvention sont réduites
+dans les mêmes proportions qu'à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (Ab)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 4 (Ab)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (Ab)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (AbD)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 45 (V)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 97 (V)
+	  - Décret n°84-410 du 30 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-522 du 27 juin 1984 - art. 1 (Ab)
+	  - Décret n°84-1026 du 22 novembre 1984 - art. 5 (V)
+	  - Décret n°84-1057 du 30 novembre 1984 - art. 13 (Ab)
+	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
+	  - Décret n°86-400 du 12 mars 1986 - art. 4 (V)
+	  - Décret n°87-670 du 14 août 1987 - art. 11 (Ab)
+	  - Décret n°87-1025 du 17 décembre 1987 - art. 2 (Ab)
+	  - Décret n°89-129 du 27 février 1989 - art. 9 (Ab)
+	  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
+	  - Décret n°92-1194 du 4 novembre 1992 - art. 17 (V)
+	  - Décret n°93-701 du 27 mars 1993 - art. 9 (Ab)
+	  - Décret n°94-281 du 11 avril 1994 - art. 2 (V)
+	  - Loi n°94-629 du 25 juillet 1994 - art. 15 (V)
+	  - Loi n°95-116 du 4 février 1995 - art. 93 (Ab)
+	  - Décret n°95-979 du 25 août 1995 - art. 8 (V)
+	  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
+	  - Arrêté du 18 mars 1996 - art. 1 (V)
+	  - Décret n°96-394 du 7 mai 1996 - art. 3 (V)
+	  - Décret n°96-433 du 17 mai 1996 - art. 3 (V)
+	  - Décret n°96-1087 du 10 décembre 1996 - art. 8 (V)
+	  - Décret n°97-185 du 25 février 1997 - art. 8 (V)
+	  - Arrêté du 25 juillet 1997 - art. Annexe, art. 35 bis (V)
+	  - Décret n°98-358 du 12 mai 1998 - art. 3 (V)
+	  - Décret n°98-359 du 12 mai 1998 - art. 3 (V)
+	  - Décret n°99-328 du 29 avril 1999 - art. 3 (V)
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
+	  - Loi n°2003-322 du 9 avril 2003 - art. 3 (V)
+	  - Décret n°2003-1109 du 21 novembre 2003 - art. 51 (V)
+	  - Loi n°2004-734 du 26 juillet 2004 - art. 3 (V)
+	  - Décret n°2005-900 du 2 août 2005 - art. 19 (V)
+	  - Décret n°2005-900 du 2 août 2005 - art. 20 (V)
+	  - Décret n°2005-902 du 2 août 2005 - art. 19 (V)
+	  - Décret n°2005-902 du 2 août 2005 - art. 20 (V)
+	  - Décret n°2005-904 du 2 août 2005 - art. 19 (V)
+	  - Décret n°2005-904 du 2 août 2005 - art. 20 (V)
+	  - Décret n°2005-1054 du 29 août 2005 - art. 1 (V)
+	  - Décret n°2007-1056 du 28 juin 2007 - art. 11 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (M)
+	  - Code de la santé publique - art. R6152-418 (V)
+	  - Code de la sécurité sociale. - art. L241-13 (V)
+	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
+	  - Code de la sécurité sociale. - art. L241-6-2 (M)
+	  - Code de la sécurité sociale. - art. L241-6-4 (V)
+	  - Code de la sécurité sociale. - art. R241-0-1 (VD)
+	  - Code de la sécurité sociale. - art. R532-2 (M)
+	  - Code du service national - art. L130-4 (M)
+	  - Code du travail - art. D980-11 (Ab)
+	  - Code du travail - art. D981-9 (Ab)
+	  - Code du travail - art. L322-12 (Ab)
+	  - Code du travail - art. L322-4-1 (M)
+	  - Code du travail - art. L322-4-11 (T)
+	  - Code du travail - art. L322-4-13 (Ab)
+	  - Code du travail - art. L322-4-15-1 (AbD)
+	  - Code du travail - art. L322-4-21 (AbD)
+	  - Code du travail - art. L322-4-3 (Ab)
+	  - Code du travail - art. L322-4-4 (M)
+	  - Code du travail - art. L322-4-8 (AbD)
+	  - Code du travail - art. L351-4 (AbD)
+	  - Code du travail - art. L352-3 (M)
+	  - Code du travail - art. L365-2 (AbD)
+	  - Code du travail - art. L365-3 (VT)
+	  - Code du travail - art. L620-9 (VT)
+	  - Code du travail - art. L832-2 (VT)
+	  - Code du travail - art. R351-20 (VT)
+	  - Code du travail - art. R351-26 (VT)
+	  - Code du travail - art. R365-1 (M)
+	  - Code du travail - art. R833-7 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance 84-106 1984-02-16 art. 10 JORF 17 février 1984 date d'entrée en vigueur 1er avril 1984
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-524 du 28 juin 1984
+	  - TXT_SOURCE: Décret n°84-524 du 28 juin 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-524 du 28 juin 1984 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+
+###### Article L351-13
+
+Une convention entre l'Etat et les institutions visées à l'article L. 351-2 précise notamment le montant et les conditions de
+versement de la subvention de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Décret n°84-417 du 30 mai 1984 - art. 2 (Ab)
+	  - Décret n°84-1026 du 22 novembre 1984 - art. 5 (V)
+	  - Décret n°84-1180 du 26 décembre 1984 - art. 2 (Ab)
+	  - Décret n°85-600 du 10 juin 1985 - art. 2 (Ab)
+	  - Décret n°85-600 du 10 juin 1985 - art. 3 (V)
+	  - Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
+	  - Code du travail - art. L118-6 (AbD)
+	  - Code du travail - art. L351-16 (P)
+	  - Code du travail - art. L351-6-1 (M)
+	  - Code du travail - art. L365-2 (AbD)
+	  - Code du travail - art. R351-35 (M)
+	  - Code du travail - art. R365-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 84-106 1984-02-16 art. 10 JORF 17 février 1984 date d'entrée en vigueur 1er avril 1984
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984
+	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°84-417 du 30 mai 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984
+	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Code du travail R365-1 (PENALITES)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+
+###### Article L351-14
+
+Les employeurs soumis à l'obligation établie par l'article L. 351-3 sont tenus de déclarer aux institutions de l'article L.
+351-2 les rémunérations servant de base au calcul de la contribution incombant tant aux employeurs qu'aux salariés.
+
+Ces contributions sont dues à compter de la date d'embauchage de chaque salarié.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°79-10 du 3 janvier 1979 - art. 3 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Loi n°2002-311 du 5 mars 2002 - art. 1 (V)
+	  - Loi n°2008-126 du 13 février 2008 - art. 7 (VD)
+	  - Loi n°2008-126 du 13 février 2008 - art. 5 (V)
+	  - Code de la sécurité sociale. - art. L142-2 (VD)
+	  - Code du travail - art. L351-12 (AbD)
+	  - Code du travail - art. L351-21 (VT)
+	  - Code du travail - art. L354-1 (VT)
+	  - Code du travail - art. R365-1 (M)
+	  - Code du travail - art. R620-6 (VT)
+	  - Code du travail - art. R833-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L351-15
+
+Toute action [*en justice*] ou poursuite intentée contre un employeur pour infraction aux dispositions du présent chapitre,
+du chapitre correspondant de la partie R et des décrets pris pour l'application desdits chapitres est obligatoirement
+précédée d'une mise en demeure par lettre recommandée avec avis de réception qui invite l'intéressé à régulariser sa
+situation dans les quinze jours [*délai*].
+
+La mise en demeure ne peut concerner que les périodes d'emploi comprises dans les cinq ans qui précèdent la date de son envoi
+[*point de départ, délai de prescription*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Code du travail - art. R351-35 (M)
+	  - Code du travail - art. R833-7 (VT)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L351-17 (T)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5422-8 (VD)
+
+	**Cite**:
+
+	  - Code du travail L351-1 A L351-21
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.
+
+###### Article L351-17
+
+Dans le champ d'application territorial de la section I du présent chapitre, les salariés des entreprises, sociétés et
+organismes définis à l'article 164-1 A de l'ordonnance n° 58-1374 du 30 décembre 1958, les salariés relevant soit des
+établissements publics à caractère industriel et commercial des collectivités locales, soit des sociétés d'économie mixte
+dans lesquelles ces collectivités ont une participation majoritaire, ainsi que les salariés non statutaires des services à
+caractère industriel et commercial gérés par les chambres de commerce et d'industrie ainsi que, nonobstant l'article L.
+351-18 ci-dessus, les salariés non statutaires des chambres d'agriculture et les salariés des établissements et services
+d'utilité agricole de ces chambres ont droit, en cas de licenciement, à une indemnisation dont les conditions d'attribution
+et de calcul sont identiques à celles qui sont définies à la section I du présent chapitre.
+
+Les employeurs sus-indiqués ont la faculté de ne pas se placer sous le régime de l'article L. 351-2 et d'assurer le service
+de cette indemnisation soit directement, soit par l'intermédiaire des institutions de l'article L. 351-2 en vertu d'une
+convention conclue avec elles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
+	  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
+	  - Arrêté du 30 décembre 1970 - art. 16 (V)
+	  - Loi n°79-1129 du 28 décembre 1979 - art. 14 (Ab)
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
+	  - Ordonnance n°82-40 du 16 janvier 1982 - art. 2 (V)
+	  - Loi n°82-155 du 11 février 1982 - art. 39 (V)
+	  - Ordonnance n°82-270 du 26 mars 1982 - art. 9 (V)
+	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (M)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 4 (Ab)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (MMN)
+	  - Décret n°82-445 du 28 mai 1982 - art. 1 (M)
+	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
+	  - Décret n°82-804 du 22 septembre 1982 - art. 10 (Ab)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (MMN)
+	  - Décret n°82-1054 du 13 décembre 1982 - art. 2 (Ab)
+	  - Décret n°82-1055 du 16 décembre 1982 - art. 1 (Ab)
+	  - Décret n°83-397 du 19 mai 1983 - art. 21 (M)
+	  - Décret n°83-398 du 19 mai 1983 - art. 12 (Ab)
+	  - Décret n°83-502 du 17 juin 1983 - art. 2 (Ab)
+	  - Décret n°83-502 du 17 juin 1983 - art. 3 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Décret n°85-475 du 26 avril 1985 - art. 17 (Ab)
+	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
+	  - Décret n°85-916 du 16 août 1985 - art. 4 (V)
+	  - Décret n°85-932 du 30 août 1985 - art. 15 (V)
+	  - Décret n°85-960 du 11 septembre 1985 - art. 5 (V)
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. L114-15 (VD)
+	  - Code de la sécurité sociale. - art. R351-12 (V)
+	  - Code de la sécurité sociale. - art. R351-13 (V)
+	  - Code de la sécurité sociale. - art. R531-16 (Ab)
+	  - Code de la sécurité sociale. - art. R532-2 (M)
+	  - Code de la sécurité sociale. - art. R755-11-1 (Ab)
+	  - Code du travail - art. D351-4 (Ab)
+	  - Code du travail - art. D351-7 (Ab)
+	  - Code du travail - art. L351-17-1 (AbD)
+	  - Code du travail - art. L351-18 (AbD)
+	  - Code du travail - art. L351-22 (M)
+	  - Code du travail - art. L351-3 (MMN)
+	  - Code du travail - art. R351-29 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Code rural ancien - art. 1031 (M)
+	  - Livre des procédures fiscales - art. L134 A (M)
+
+	**Cite**:
+
+	  - Ordonnance 58-1374 1958-12-30 ART. 164-1 a
+	  - Code du travail - art. L351-11 (M)
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail L351-1 A L351-11-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L351-15 (M)
+
+	**Anciens textes**:
+
+	  - Code du travail - art. L351-19 (MMN)
+	  - Code du travail - art. L351-19 (T)
+
+
+##### SECTION 4 : DISPOSITIONS DIVERSES.
+
+###### Article L351-18
+
+En cas de décision ou d'absence de décision des parties signataires ou des institutions visées à l'article L. 351-2 mettant
+en cause le fonctionnement du régime, les mesures propres à assurer ce fonctionnement sont, à titre exceptionnel et
+provisoire, prises par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2880 du 10 décembre 1946 - art. 31-4 (Ab)
+	  - Arrêté du 30 décembre 1970 - art. 11 ter (V)
+	  - Loi n°77-704 du 5 juillet 1977 - art. 1 (V)
+	  - Loi n°78-698 du 6 juillet 1978 - art. 1 (P)
+	  - Décret n°79-169 du 2 mars 1979 - art. 6 (V)
+	  - Décret n°82-940 du 4 novembre 1982 - art. 1 (Ab)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 1 (V)
+	  - Décret n°83-553 du 30 juin 1983 - art. 1 (V)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code du travail - art. L122-11 (AbD)
+	  - Code du travail - art. L124-11 (M)
+	  - Code du travail - art. L311-7 (VT)
+	  - Code du travail - art. L351-17 (M)
+	  - Code du travail - art. L351-19 (T)
+	  - Code du travail - art. L351-20 (P)
+	  - Code du travail - art. L365-3 (VT)
+	  - Code du travail - art. R312-6 (VT)
+	  - Code du travail - art. R351-15 (VT)
+	  - Code du travail - art. R351-29 (VT)
+	  - Code du travail - art. R351-30 (VT)
+	  - Code du travail - art. R351-33 (VT)
+	  - Code du travail - art. R351-38 (VT)
+	  - Code du travail - art. R351-39 (M)
+	  - Code du travail - art. R833-7 (VT)
+	  - Livre des procédures fiscales - art. L134 A (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982
+	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 84-106 1984-02-16 art. 12 JORF 17 février 1984 en vigueur 1er avril 1984 rectificatif JORF 25 février 1984
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L351-16 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L351-21
+
+Les institutions visées à l'article L. 351-2 procèdent à la constitution, au bénéfice des travailleurs privés d'emploi, des
+dossiers d'admission aux prestations prévues aux articles L. 351-5 et L. 351-6 et ouvrent les droits auxdites prestations
+après vérification des conditions mentionnées à l'article L. 351-4 et L. 351-6. Les opérations de contrôle de la recherche
+d'emploi prévue aux articles L. 351-1 et L. 351-7 sont effectuées par des agents publics placés sous l'autorité du ministre
+chargé du travail.
+
+Pour l'exercice de leur mission, ces agents ont accès aux renseignements détenus par les administrations sociales et
+fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°82-935 du 29 octobre 1982 - art. 2 (VD)
+	  - Décret n°83-670 du 22 juillet 1983 - art. 2 (VD)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 50 (Ab)
+	  - Arrêté du 6 mars 1987 - art. 1 (V)
+	  - Décret n°87-236 du 3 avril 1987 - art. 1 (Ab)
+	  - Décret n°87-236 du 3 avril 1987 - art. 4 (Ab)
+	  - Arrêté du 15 septembre 1987 - art. 10 (V)
+	  - Décret n°87-1025 du 17 décembre 1987 - art. 1 (Ab)
+	  - Arrêté du 12 décembre 1988 - art. 1 (M)
+	  - Arrêté - art. 1 (V)
+	  - Décret n°92-969 du 7 septembre 1992 - art. 1 (V)
+	  - Arrêté du 24 mars 1993 - art. 7 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 2 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 3 (V)
+	  - Décret n°93-1319 du 13 décembre 1993 - art. 4 (V)
+	  - Loi n°94-126 du 11 février 1994 - art. 1 (V)
+	  - Loi n°94-126 du 11 février 1994 - art. 32 (V)
+	  - Loi n°94-126 du 11 février 1994 - art. 4-1 (V)
+	  - Loi n°95-116 du 4 février 1995 - art. 92 (V)
+	  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
+	  - Loi n°98-657 du 29 juillet 1998 - art. 25 (V)
+	  - Arrêté du 1 avril 1999 - art. 10 (V)
+	  - Arrêté du 1 avril 1999 - art. 11 (V)
+	  - Arrêté du 20 avril 1999 - art. 8 (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 15 (VD)
+	  - Loi - art. 49 (VD)
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 5 (V)
+	  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
+	  - Loi n°2004-627 du 30 juin 2004 - art. 2 (V)
+	  - Loi n°2004-804 du 9 août 2004 - art. 10 (Ab)
+	  - Décret n°2004-1332 du 6 décembre 2004 - art. 1 (V)
+	  - Décret n°2004-1332 du 6 décembre 2004 - art. 2 (V)
+	  - Décret n°2004-1332 du 6 décembre 2004 - art. 3 (V)
+	  - Décret n°2004-1332 du 6 décembre 2004 - art. 5 (V)
+	  - Décret n°2004-1332 du 6 décembre 2004 - art. 6 (V)
+	  - Décret n°2004-1332 du 6 décembre 2004 - art. 7 (V)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 3 (V)
+	  - Arrêté du 18 avril 2005 - art. 1 (V)
+	  - Ordonnance n°2005-395 du 28 avril 2005 - art. 1 (V)
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 3 (AbD)
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 1 (V)
+	  - Loi n°2006-339 du 23 mars 2006 - art. 32 (V)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 13 (VT)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (V)
+	  - Décret n°2007-686 du 4 mai 2007 - art. 1 (V)
+	  - Décret n°2007-686 du 4 mai 2007 - art. 2 (V)
+	  - Loi n°2008-126 du 13 février 2008 - art. 6 (V)
+	  - Loi n°2008-126 du 13 février 2008 - art. 8 (VD)
+	  - Arrêté du 13 juin 2014 (V)
+	  - Code de commerce - art. L926-2 (M)
+	  - Code de commerce. - art. L621-43 (T)
+	  - Code de commerce. - art. L622-24 (VD)
+	  - Code de commerce. - art. L926-3 (M)
+	  - Code de commerce. - art. L936-8 (M)
+	  - Code de commerce. - art. L956-4 (M)
+	  - Code de l'éducation - art. L214-13 (V)
+	  - Code de la sécurité sociale. - art. L114-12 (V)
+	  - Code de la sécurité sociale. - art. L114-12-1 (V)
+	  - Code de la sécurité sociale. - art. L133-5 (M)
+	  - Code de la sécurité sociale. - art. L133-5-1 (M)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
+	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
+	  - Code de la sécurité sociale. - art. L133-7 (V)
+	  - Code de la sécurité sociale. - art. L243-7 (V)
+	  - Code du travail - art. D322-17 (VT)
+	  - Code du travail - art. D322-2 (VT)
+	  - Code du travail - art. D322-20 (VT)
+	  - Code du travail - art. D322-22-11 (M)
+	  - Code du travail - art. D322-4 (VT)
+	  - Code du travail - art. D322-5 (VT)
+	  - Code du travail - art. D322-6 (VT)
+	  - Code du travail - art. D351-1 (M)
+	  - Code du travail - art. D981-6 (VT)
+	  - Code du travail - art. L124-11 (AbD)
+	  - Code du travail - art. L143-11-12 (VT)
+	  - Code du travail - art. L143-11-4 (VT)
+	  - Code du travail - art. L143-11-7 (V)
+	  - Code du travail - art. L311-1 (VT)
+	  - Code du travail - art. L311-1-1 (VT)
+	  - Code du travail - art. L311-1-2 (VT)
+	  - Code du travail - art. L311-10-1 (AbD)
+	  - Code du travail - art. L311-8 (Ab)
+	  - Code du travail - art. L311-9 (AbD)
+	  - Code du travail - art. L321-13 (VT)
+	  - Code du travail - art. L321-13-1 (Ab)
+	  - Code du travail - art. L321-4-2 (VT)
+	  - Code du travail - art. L322-11 (AbD)
+	  - Code du travail - art. L322-3 (Ab)
+	  - Code du travail - art. L322-4-12 (VT)
+	  - Code du travail - art. L322-4-15-6 (AbD)
+	  - Code du travail - art. L322-4-6-3 (Ab)
+	  - Code du travail - art. L351-10-1 (VT)
+	  - Code du travail - art. L351-12 (VT)
+	  - Code du travail - art. L351-13-1 (VT)
+	  - Code du travail - art. L351-18 (AbD)
+	  - Code du travail - art. L351-22 (AbD)
+	  - Code du travail - art. L351-26 (Ab)
+	  - Code du travail - art. L351-5-1 (VD)
+	  - Code du travail - art. L351-6-2 (AbD)
+	  - Code du travail - art. L351-9-4 (AbD)
+	  - Code du travail - art. L352-4 (AbD)
+	  - Code du travail - art. L352-5 (VT)
+	  - Code du travail - art. L353-1 (Ab)
+	  - Code du travail - art. L365-3 (VT)
+	  - Code du travail - art. L961-1 (VT)
+	  - Code du travail - art. L961-2 (VT)
+	  - Code du travail - art. L983-2 (VT)
+	  - Code du travail - art. R124-4-1 (VT)
+	  - Code du travail - art. R152-6 (VT)
+	  - Code du travail - art. R152-6-1 (VT)
+	  - Code du travail - art. R311-3-1 (VT)
+	  - Code du travail - art. R311-4-10 (Ab)
+	  - Code du travail - art. R311-4-2 (M)
+	  - Code du travail - art. R311-4-4 (VT)
+	  - Code du travail - art. R311-4-6 (M)
+	  - Code du travail - art. R311-4-9 (Ab)
+	  - Code du travail - art. R311-7-1 (VT)
+	  - Code du travail - art. R312-6 (VT)
+	  - Code du travail - art. R322-12 (VT)
+	  - Code du travail - art. R322-17-11 (VT)
+	  - Code du travail - art. R322-17-14 (VT)
+	  - Code du travail - art. R351-15 (M)
+	  - Code du travail - art. R351-28 (VT)
+	  - Code du travail - art. R351-30 (An)
+	  - Code du travail - art. R351-31 (An)
+	  - Code du travail - art. R351-5 (VT)
+	  - Code du travail - art. R351-6 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Code du travail - art. R834-1 (M)
+	  - Code du travail - art. R961-10 (VT)
+	  - Code du travail - art. R961-8 (VT)
+	  - Code du travail - art. R961-9 (VT)
+	  - Code du travail - art. R962-1 (VT)
+	  - Code rural - art. L313-1 (V)
+	  - Code rural - art. L313-3 (V)
+	  - Livre des procédures fiscales - art. L134 A (M)
+	  - Livre des procédures fiscales - art. L134 B (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993
+	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 10 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 11 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 6 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 7 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 8 (V)
+	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-1 (M)
+	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L351-4 (M)
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. L351-6 (M)
+	  - Code du travail - art. L351-7 (MMN)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L351-20 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.
+
+###### Article L351-3
+
+Sous réserve des dispositions des articles L. 351-16 et L. 351-17, tout employeur entrant dans le champ d'application
+territorial de la convention sus-indiquée est tenu d'assurer contre le risque de privation d'emploi tout salarié dont
+l'engagement résulte d'un contrat de travail, y compris les travailleurs salariés détachés à l'étranger, ainsi que les
+travailleurs salariés français expatriés.
+
+Les institutions prévues à l'article L. 351-2 ne peuvent refuser les adhésions données en application de l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-798 du 28 juillet 1978 - art. 10 (Ab)
+	  - Décret n°79-580 du 10 juillet 1979 - art. 1 (V)
+	  - Loi n°79-575 du 10 juillet 1979 - art. 1 (V)
+	  - Ordonnance n°82-40 du 16 janvier 1982 - art. 2 (V)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 4 (Ab)
+	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (Ab)
+	  - Décret n°82-804 du 22 septembre 1982 - art. 10 (Ab)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (AbD)
+	  - Décret n°82-1055 du 16 décembre 1982 - art. 1 (Ab)
+	  - Décret n°83-397 du 19 mai 1983 - art. 21 (M)
+	  - Décret n°83-398 du 19 mai 1983 - art. 12 (Ab)
+	  - Décret n°83-502 du 17 juin 1983 - art. 2 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Loi n°84-53 du 26 janvier 1984 - art. 45 (V)
+	  - Décret n°84-157 du 2 mars 1984 - art. 1 (Ab)
+	  - Ordonnance n°84-198 du 21 mars 1984 - art. 11 (V)
+	  - Décret n°84-216 du 29 mars 1984 - art. 5 (Ab)
+	  - Décret n°84-218 du 29 mars 1984 - art. 1 (Ab)
+	  - Décret n°84-343 du 7 mai 1984 - art. 1 (Ab)
+	  - Décret n°84-343 du 7 mai 1984 - art. 2 (Ab)
+	  - Décret n°84-343 du 7 mai 1984 - art. 3 (Ab)
+	  - Décret n°84-525 du 28 juin 1984 - art. 1 (Ab)
+	  - Décret n°85-475 du 26 avril 1985 - art. 12 (Ab)
+	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
+	  - Décret n°86-558 du 14 mars 1986 - art. 1 (Ab)
+	  - Décret n°87-236 du 3 avril 1987 - art. 1 (Ab)
+	  - Décret n°88-368 du 15 avril 1988 - art. 10 (V)
+	  - Arrêté du 12 décembre 1988 - art. 1 (V)
+	  - Décret n°90-105 du 30 janvier 1990 - art. 1 (M)
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 41 (V)
+	  - Arrêté du 6 janvier 1992 - art. 1 (V)
+	  - Arrêté du 6 janvier 1992 - art. 2 (V)
+	  - Décret n°92-1194 du 4 novembre 1992 - art. 17 (V)
+	  - Décret n°94-281 du 11 avril 1994 - art. 1 (V)
+	  - Loi n°95-116 du 4 février 1995 - art. 92 (V)
+	  - Décret n°95-925 du 19 août 1995 - art. 4-1 (Ab)
+	  - Arrêté du 31 mai 1997 - art. 1 (V)
+	  - Loi n°98-1194 du 23 décembre 1998 - art. 4 (V)
+	  - Décret n°99-247 du 29 mars 1999 - art. 2 (V)
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
+	  - Loi n°2004-627 du 30 juin 2004 - art. 2 (V)
+	  - Décret n°2005-894 du 2 août 2005 - art. 3 (VT)
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 3 (VT)
+	  - Loi n°2006-339 du 23 mars 2006 - art. 32 (V)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
+	  - Décret n°2006-418 du 7 avril 2006 - art. 14 (V)
+	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 10 (VT)
+	  - Décret n°2007-153 du 5 février 2007 - art. 1 (Ab)
+	  - Décret n°2007-153 du 5 février 2007 - art. 2 (Ab)
+	  - Arrêté du 1 septembre 1986 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (V)
+	  - Code de commerce. - art. L626-6 (V)
+	  - Code de commerce. - art. L643-3 (V)
+	  - Code de commerce. - art. R626-10 (V)
+	  - Code de commerce. - art. R626-9 (V)
+	  - Code de l'action sociale et des familles - art. R262-11-2 (VT)
+	  - Code de l'aviation civile - art. R426-15-3 (VD)
+	  - Code de la construction et de l'habitation. - art. R351-13 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14 (V)
+	  - Code de la sécurité sociale. - art. D531-19 (V)
+	  - Code de la sécurité sociale. - art. D842-2 (Ab)
+	  - Code de la sécurité sociale. - art. D842-5 (Ab)
+	  - Code de la sécurité sociale. - art. L135-2 (MMN)
+	  - Code de la sécurité sociale. - art. R135-16 (M)
+	  - Code de la sécurité sociale. - art. R524-9 (VT)
+	  - Code de la sécurité sociale. - art. R531-13 (T)
+	  - Code de la sécurité sociale. - art. R532-7 (V)
+	  - Code de la sécurité sociale. - art. R755-10 (Ab)
+	  - Code de la sécurité sociale. - art. R833-5 (Ab)
+	  - Code de la sécurité sociale. - art. R861-8 (VD)
+	  - Code du service national - art. L130-4 (M)
+	  - Code du travail - art. D311-6 (VT)
+	  - Code du travail - art. L311-7-5 (VT)
+	  - Code du travail - art. L321-13 (VT)
+	  - Code du travail - art. L322-4-19 (AbD)
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-10-2 (VT)
+	  - Code du travail - art. L351-12 (VT)
+	  - Code du travail - art. L351-14 (VT)
+	  - Code du travail - art. L351-15 (AbD)
+	  - Code du travail - art. L351-16 (AbD)
+	  - Code du travail - art. L351-17 (MMN)
+	  - Code du travail - art. L351-21 (AbD)
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. L351-9 (M)
+	  - Code du travail - art. L352-3 (AbD)
+	  - Code du travail - art. L353-1 (Ab)
+	  - Code du travail - art. L354-1 (AbD)
+	  - Code du travail - art. L961-5 (AbD)
+	  - Code du travail - art. R311-3-2 (M)
+	  - Code du travail - art. R351-1 (VT)
+	  - Code du travail - art. R351-1-1 (VT)
+	  - Code du travail - art. R351-10 (M)
+	  - Code du travail - art. R351-11 (M)
+	  - Code du travail - art. R351-12 (Ab)
+	  - Code du travail - art. R351-15-3 (VT)
+	  - Code du travail - art. R351-16 (VT)
+	  - Code du travail - art. R351-17 (Ab)
+	  - Code du travail - art. R351-19-1 (VT)
+	  - Code du travail - art. R351-2 (Ab)
+	  - Code du travail - art. R351-20 (VT)
+	  - Code du travail - art. R351-22 (VT)
+	  - Code du travail - art. R351-26 (VT)
+	  - Code du travail - art. R351-28 (VT)
+	  - Code du travail - art. R351-38 (Ab)
+	  - Code du travail - art. R351-41 (VT)
+	  - Code du travail - art. R351-42 (VT)
+	  - Code du travail - art. R351-8 (VT)
+	  - Code du travail - art. R365-1 (VT)
+	  - Code du travail - art. R783-3 (VT)
+	  - Code du travail - art. R831-1 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Livre des procédures fiscales - art. L134 B (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 10 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 11 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 12 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2-1 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2-2 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2-3 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 3 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 4 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 5 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 6 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 7 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 8 (V)
+	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 9 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
+	  - TXT_ASSOCIE: Code du travail R365-1 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+
+##### SECTION 1 : DISPOSITIONS GENERALES
+
+###### Article L351-7
+
+Sauf dans le cas des bénéficiaires de la garantie de ressources visés au cinquième alinéa de l'article L. 351-5, le droit au
+revenu de remplacement s'éteint lorsque, sans motif légitime, le bénéficiaire de ce revenu refuse d'accepter un emploi
+offert, de suivre une action de formation prévue aux 1° et 3° à 6° de l'article L. 900-2 ou de répondre aux convocations des
+services ou organismes compétents.
+
+Il en est de même en cas de fraude ou de fausse déclaration.
+
+Les sommes indûment perçues donnent lieu à répétition.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Code du travail - art. L351-21 (MMN)
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. R833-7 (VT)
+	  - Livre des procédures fiscales - art. L134 A (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5422-7 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L900-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES
+
+###### Article L351-8
+
+Le droit des travailleurs privés d'emploi au revenu de remplacement est indépendant du respect par l'employeur des
+obligations qui pèsent sur lui en application du présent chapitre et des dispositions réglementaires et conventionnelles
+prises pour son exécution.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
+	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Ordonnance n°84-198 du 21 mars 1984 - art. 11 (V)
+	  - Loi n°95-116 du 4 février 1995 - art. 92 (V)
+	  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
+	  - Décret n°97-139 du 13 février 1997 - art. 2 (V)
+	  - Décret n°2000-601 du 30 juin 2000 - art. 3 (V)
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 3 (VT)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
+	  - Décret n°2007-3 du 1 janvier 2007 - art. 2 (V)
+	  - Décret n°2007-844 du 14 mai 2007 - art. 1 (Ab)
+	  - Loi n°2008-126 du 13 février 2008 - art. 6 (V)
+	  - Code de la construction et de l'habitation. - art. R351-14 (V)
+	  - Code de la sécurité sociale. - art. R531-13 (T)
+	  - Code de la sécurité sociale. - art. R532-7 (V)
+	  - Code de la sécurité sociale. - art. R755-10 (Ab)
+	  - Code du travail - art. L311-1-1 (VT)
+	  - Code du travail - art. L311-7-5 (VT)
+	  - Code du travail - art. L311-7-8 (VT)
+	  - Code du travail - art. L321-4-2 (VT)
+	  - Code du travail - art. L351-14 (VT)
+	  - Code du travail - art. L351-15 (AbD)
+	  - Code du travail - art. L351-20 (AbD)
+	  - Code du travail - art. L351-21 (VT)
+	  - Code du travail - art. L354-1 (VT)
+	  - Code du travail - art. R351-1 (VT)
+	  - Code du travail - art. R351-4 (VT)
+	  - Code du travail - art. R620-6 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Code rural - art. R514-8 (T)
+	  - Code rural et de la pêche maritime - art. R514-12 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 #### Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.
 
 ###### Article L352-1
@@ -22498,6 +23518,64 @@ prévues aux articles L. 133-13 et L. 133-14.
 	**Anciens textes**:
 
 	  - Ordonnance 1959-01-07 art. 3
+
+
+###### Article L352-5
+
+Les conditions du contrôle auquel seront soumis les organismes visés à l'article L. 351-2 sont déterminées par la voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5427-9 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+#### Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.
+
+###### Article L352-4
+
+Un arrêté conjoint des ministres chargés des finances et du travail détermine les mesures propres à assurer la sécurité et la
+liquidité des réserves des institutions visées à l'article L. 351-2.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. D352-3 (VT)
+	  - Code du travail - art. D352-7 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5427-10 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
 ### Titre VI : PENALITES
@@ -22780,6 +23858,70 @@ Les infractions aux dispositions de l'article L. 341-7-1 sont punies des peines 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L5224-4 (VD)
+
+
+#### Chapitre V : Travailleurs privés d'emploi.
+
+###### Article L365-1
+
+Est passible d'un emprisonnement de six jours à deux mois [*durée*] et d'une amende de 1.000 F à 20.000 F (1) [*montant*] ou
+de l'une de ces deux peines seulement quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir ou faire
+obtenir ou tenter de faire obtenir des allocations d'aide aux travailleurs privés d'emploi qui ne sont pas dues, sans
+préjudice des peines résultant de l'application d'autres lois s'il échet. Le tribunal pourra en outre ordonner la restitution
+des sommes indûment perçues.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 40, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. L114-15 (V)
+	  - Code du travail - art. L325-1 (AbD)
+	  - Code du travail - art. L365-3 (VT)
+	  - Code du travail - art. R351-4 (M)
+	  - Code du travail - art. R833-7 (VT)
+
+
+###### Article L365-2
+
+En cas de récidive dans le délai de trois ans, l'employeur qui a indûment retenu par devers lui la contribution ouvrière
+prévue à l'article L. 351-12 et précomptée sur le salaire, est puni d'un emprisonnement de deux mois à deux ans [*durée*] et
+d'une amende de 6.000 F à 15.000 F (1) [*montant*] ou de l'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 1972-07-05 art. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cite**:
+
+	  - Code du travail - art. L351-12 (M)
+	  - Code du travail - art. L351-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5429-2 (VD)
+
+	**Cité par**:
+
+	  - Code du travail - art. R833-7 (VT)
 
 
 ## Livre III : PLACEMENT
@@ -26012,20 +27154,100 @@ journaux qu'il désigne [*sanctions*]// .
 
 #### GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
 
-###### Article L351-1
+###### Article L351-19
 
-En complément des mesures tendant à faciliter leur reclassement ou leur conversion, les travailleurs involontairement privés
-d'emploi ont droit à un revenu de remplacement dans les conditions fixées ci-après.
+Les salariés qui, tout en restant liés à leur employeur par un contrat de travail, subissent une perte de salaire imputable
+soit à la fermeture temporaire de l'établissement qui les emploie, soit à la réduction de l'horaire de travail habituellement
+pratiqué dans l'établissement en deçà de la durée légale du travail, bénéficient, dans des conditions fixées par décret en
+Conseil d'Etat, d'une allocation spécifique qui est à la charge de l'Etat.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2880 du 10 décembre 1946 - art. 31-4 (Ab)
+	  - Arrêté du 30 décembre 1970 - art. 11 ter (V)
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (Ab)
+	  - Ordonnance n°84-198 du 21 mars 1984 - art. 10 (V)
+	  - Décret n°84-344 du 7 mai 1984 - art. 1 (V)
+	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
+	  - Code de la construction et de l'habitation. - art. R351-13 (M)
+	  - Code de la sécurité sociale. - art. L131-2 (V)
+	  - Code de la sécurité sociale. - art. R532-2 (M)
+	  - Code du travail - art. D322-14 (M)
+	  - Code du travail - art. D351-3 (M)
+	  - Code du travail - art. L122-11 (AbD)
+	  - Code du travail - art. L351-20 (P)
+	  - Code du travail - art. R351-18 (T)
+	  - Code du travail - art. R351-21 (T)
+	  - Code du travail - art. R351-50 (M)
+	  - Code du travail - art. R351-53 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984
+	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984 - art. 3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L351-17 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
 
+
+###### Article L351-20
+
+Le travailleur bénéficiaire d'allocations journalières peut être obligé de fournir une contrepartie en travail. Dans la
+mesure où ce travail dépasse deux heures par jour, il est rémunéré sur la base du salaire correspondant à la moitié du
+salaire moyen mensuel départemental applicable dans la résidence du travailleur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-939 du 4 novembre 1982 - art. 1 (VT)
+	  - Loi n°2006-339 du 23 mars 2006 - art. 18 (V)
+	  - Arrêté du 17 janvier 2007 - art. 2 (V)
+	  - Décret n°2007-1940 du 26 décembre 2007 - art. 3 (V)
+	  - Code de l'action sociale et des familles - art. L214-7 (VT)
+	  - Code de l'action sociale et des familles - art. L262-11 (V)
+	  - Code de l'action sociale et des familles - art. R262-6 (V)
+	  - Code de la sécurité sociale. - art. L524-5 (VT)
+	  - Code de la sécurité sociale. - art. R524-3 (VT)
+	  - Code du travail - art. L311-7 (VT)
+	  - Code du travail - art. L365-1 (VT)
+	  - Code du travail - art. L832-9 (AbD)
+	  - Code du travail - art. R351-12 (VT)
+	  - Code du travail - art. R351-13 (VT)
+	  - Code du travail - art. R351-17 (VT)
+	  - Code du travail - art. R351-19 (VT)
+	  - Code du travail - art. R351-25 (P)
+	  - Code du travail - art. R351-35 (VT)
+	  - Code du travail - art. R833-7 (VT)
+
 	**Anciens textes**:
 
-	  - Ordonnance n°67-580 du 13 juillet 1967 - art. 1, v. init.
+	  - Code du travail - art. L351-21 (T)
+	  - Loi   1940-10-11 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### DISPOSITIONS GENERALES
+
+###### Article L351-1
+
+En complément des mesures tendant à faciliter leur reclassement ou leur conversion, les travailleurs involontairement privés
+d'emploi ont droit à un revenu de remplacement, sous réserve d'être à la recherche d'un emploi.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -26066,492 +27288,6 @@ d'emploi ont droit à un revenu de remplacement dans les conditions fixées ci-a
 
 	  - Code du travail - art. L5421-1 (VD)
 
-
-###### Article L351-2
-
-Sous réserve des dispositions de l'article L. 351-9, peuvent seuls bénéficier de ce revenu de remplacement les travailleurs
-involontairement privés d'emploi qui sont inscrits comme demandeurs d'emploi auprès des services compétents.
-
-Ce revenu comporte, d'une part une allocation d'aide publique versée dans les conditions prévues à la section I ci-après,
-d'autre part, une allocation d'assurance versée dans les conditions prévues aux sections II et III.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
-	  - Décret n°46-2959 du 31 décembre 1946 - art. 113 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
-	  - Décret n°51-727 du 6 juin 1951 - art. 3 (Ab)
-	  - Loi n°79-587 du 11 juillet 1979 - art. 6 (VT)
-	  - Décret n°79-880 du 10 octobre 1979 - art. 3 (V)
-	  - Décret n°79-880 du 10 octobre 1979 - art. 5 (V)
-	  - Décret n°80-169 du 27 février 1980 - art. 4 (V)
-	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (Ab)
-	  - Loi n°82-155 du 11 février 1982 - art. 39 (V)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (MMN)
-	  - Décret n°82-445 du 28 mai 1982 - art. 2 (Ab)
-	  - Décret n°82-446 du 28 mai 1982 - art. 4 (Ab)
-	  - Décret n°82-575 du 29 juin 1982 - art. 1 (V)
-	  - Décret n°82-940 du 4 novembre 1982 - art. 1 (Ab)
-	  - Loi n°82-939 du 4 novembre 1982 - art. 1 (M)
-	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (M)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 1 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 15 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 2 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 3 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 4 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 5 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 6 (V)
-	  - Décret n°83-553 du 30 juin 1983 - art. 1 (V)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 97 bis (M)
-	  - Décret n°84-345 du 7 mai 1984 - art. 1 (Ab)
-	  - Décret n°84-345 du 7 mai 1984 - art. 2 (Ab)
-	  - Décret n°85-300 du 5 mars 1985 - art. 1 (V)
-	  - Décret n°85-300 du 5 mars 1985 - art. 2 (V)
-	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
-	  - Loi n°86-824 du 11 juillet 1986 - art. 5 (V)
-	  - Loi n°87-563 du 17 juillet 1987 - art. 8 (V)
-	  - Loi - art. 125 (V)
-	  - Loi n°91-1407 du 31 décembre 1991 - art. 9 (V)
-	  - Décret n°92-187 du 27 février 1992 - art. 1 (V)
-	  - Décret n°92-969 du 7 septembre 1992 - art. 1 (V)
-	  - Décret n°93-593 du 26 mars 1993 - art. 1 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 3 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 4 (V)
-	  - Loi - art. 4 (Ab)
-	  - Arrêté du 13 mars 1997 - art. 12 (V)
-	  - Décret n°98-311 du 23 avril 1998 - art. 1 (Ab)
-	  - Décret n°98-312 du 23 avril 1998 - art. 1 (V)
-	  - Arrêté du 29 décembre 1998 - art. 1 (V)
-	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
-	  - Décret n°2002-4 du 3 janvier 2002 - art. 1 (V)
-	  - Arrêté du 24 décembre 2002 - art. 3 (Ab)
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
-	  - Arrêté du 18 février 2005 - art. 1 (V)
-	  - Loi n°2006-586 du 23 mai 2006 - art. 3 (VT)
-	  - Décret n°2006-933 du 28 juillet 2006 - art. 11 (V)
-	  - Décret n°2006-941 du 28 juillet 2006 - art. 11 (V)
-	  - Décret n°2007-1516 du 22 octobre 2007 - art. 1 (VT)
-	  - Arrêté du 18 décembre 2008 - art. 2 (Ab)
-	  - Arrêté du 5 avril 2011 - art. 2 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 968 B (Ab)
-	  - Code de l'éducation - art. L911-7 (V)
-	  - Code de l'éducation - art. R914-130 (M)
-	  - Code de la sécurité sociale. - art. D161-1-2 (V)
-	  - Code de la sécurité sociale. - art. D412-92 (M)
-	  - Code de la sécurité sociale. - art. L131-2 (M)
-	  - Code de la sécurité sociale. - art. L311-5 (V)
-	  - Code de la sécurité sociale. - art. L351-3 (V)
-	  - Code de la sécurité sociale. - art. R115-1 (V)
-	  - Code de la sécurité sociale. - art. R351-12 (V)
-	  - Code de la sécurité sociale. - art. R351-13 (V)
-	  - Code de la sécurité sociale. - art. R723-24 (V)
-	  - Code de la sécurité sociale. - art. R861-1 (V)
-	  - Code de procédure pénale - art. R304 (V)
-	  - Code de procédure pénale - art. R79 (V)
-	  - Code du travail - art. D351-7 (Ab)
-	  - Code du travail - art. D811-1 (VT)
-	  - Code du travail - art. L124-11 (VT)
-	  - Code du travail - art. L128-1 (VT)
-	  - Code du travail - art. L351-12 (Ab)
-	  - Code du travail - art. L351-13 (Ab)
-	  - Code du travail - art. L351-14 (M)
-	  - Code du travail - art. L351-17 (MMN)
-	  - Code du travail - art. L351-18 (Ab)
-	  - Code du travail - art. L351-19 (AbD)
-	  - Code du travail - art. L351-2-1 (MMN)
-	  - Code du travail - art. L351-20 (AbD)
-	  - Code du travail - art. L351-21 (VT)
-	  - Code du travail - art. L351-23 (AbD)
-	  - Code du travail - art. L351-24 (M)
-	  - Code du travail - art. L351-3 (M)
-	  - Code du travail - art. L352-4 (MMN)
-	  - Code du travail - art. L352-5 (AbD)
-	  - Code du travail - art. L812-1 (V)
-	  - Code du travail - art. L961-1 (M)
-	  - Code du travail - art. R128-5 (VT)
-	  - Code du travail - art. R322-7-2 (VT)
-	  - Code du travail - art. R351-10 (M)
-	  - Code du travail - art. R351-11 (M)
-	  - Code du travail - art. R351-12 (M)
-	  - Code du travail - art. R351-13 (M)
-	  - Code du travail - art. R351-15 (M)
-	  - Code du travail - art. R351-16 (Ab)
-	  - Code du travail - art. R351-17 (Ab)
-	  - Code du travail - art. R351-27 (M)
-	  - Code du travail - art. R351-39 (VT)
-	  - Code du travail - art. R351-5 (VT)
-	  - Code du travail - art. R351-7 (M)
-	  - Code du travail - art. R351-9 (M)
-	  - Code du travail - art. R812-7 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Code rural - art. R712-9 (V)
-	  - Code rural ancien - art. 1000-6 (Ab)
-	  - Code rural et de la pêche maritime - art. L712-1 (VD)
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-9 (M)
-	  - Code du travail L351-3 A L351-20
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5421-2 (VD)
-
-
-###### Article L351-21
-
-Le travailleur bénéficiaire d'allocations journalières peut être obligé de fournir une contrepartie en travail. Dans la
-mesure où ce travail dépasse deux heures par jour, il est rémunéré sur la base du salaire correspondant à la moitié du
-salaire moyen mensuel départemental applicable dans la résidence du travailleur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°82-935 du 29 octobre 1982 - art. 2 (VD)
-	  - Décret n°83-670 du 22 juillet 1983 - art. 2 (VD)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 50 (Ab)
-	  - Arrêté du 6 mars 1987 - art. 1 (V)
-	  - Décret n°87-236 du 3 avril 1987 - art. 1 (Ab)
-	  - Décret n°87-236 du 3 avril 1987 - art. 4 (Ab)
-	  - Arrêté du 15 septembre 1987 - art. 10 (V)
-	  - Décret n°87-1025 du 17 décembre 1987 - art. 1 (Ab)
-	  - Arrêté du 12 décembre 1988 - art. 1 (M)
-	  - Arrêté - art. 1 (V)
-	  - Décret n°92-969 du 7 septembre 1992 - art. 1 (V)
-	  - Arrêté du 24 mars 1993 - art. 7 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 2 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 3 (V)
-	  - Décret n°93-1319 du 13 décembre 1993 - art. 4 (V)
-	  - Loi n°94-126 du 11 février 1994 - art. 1 (V)
-	  - Loi n°94-126 du 11 février 1994 - art. 32 (V)
-	  - Loi n°94-126 du 11 février 1994 - art. 4-1 (V)
-	  - Loi n°95-116 du 4 février 1995 - art. 92 (V)
-	  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
-	  - Loi n°98-657 du 29 juillet 1998 - art. 25 (V)
-	  - Arrêté du 1 avril 1999 - art. 10 (V)
-	  - Arrêté du 1 avril 1999 - art. 11 (V)
-	  - Arrêté du 20 avril 1999 - art. 8 (V)
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 15 (VD)
-	  - Loi - art. 49 (VD)
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 5 (V)
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 24 (V)
-	  - Loi n°2004-627 du 30 juin 2004 - art. 2 (V)
-	  - Loi n°2004-804 du 9 août 2004 - art. 10 (Ab)
-	  - Décret n°2004-1332 du 6 décembre 2004 - art. 1 (V)
-	  - Décret n°2004-1332 du 6 décembre 2004 - art. 2 (V)
-	  - Décret n°2004-1332 du 6 décembre 2004 - art. 3 (V)
-	  - Décret n°2004-1332 du 6 décembre 2004 - art. 5 (V)
-	  - Décret n°2004-1332 du 6 décembre 2004 - art. 6 (V)
-	  - Décret n°2004-1332 du 6 décembre 2004 - art. 7 (V)
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 3 (V)
-	  - Arrêté du 18 avril 2005 - art. 1 (V)
-	  - Ordonnance n°2005-395 du 28 avril 2005 - art. 1 (V)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 3 (AbD)
-	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 1 (V)
-	  - Loi n°2006-339 du 23 mars 2006 - art. 32 (V)
-	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 13 (VT)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (V)
-	  - Décret n°2007-686 du 4 mai 2007 - art. 1 (V)
-	  - Décret n°2007-686 du 4 mai 2007 - art. 2 (V)
-	  - Loi n°2008-126 du 13 février 2008 - art. 6 (V)
-	  - Loi n°2008-126 du 13 février 2008 - art. 8 (VD)
-	  - Arrêté du 13 juin 2014 (V)
-	  - Code de commerce - art. L926-2 (M)
-	  - Code de commerce. - art. L621-43 (T)
-	  - Code de commerce. - art. L622-24 (VD)
-	  - Code de commerce. - art. L926-3 (M)
-	  - Code de commerce. - art. L936-8 (M)
-	  - Code de commerce. - art. L956-4 (M)
-	  - Code de l'éducation - art. L214-13 (V)
-	  - Code de la sécurité sociale. - art. L114-12 (V)
-	  - Code de la sécurité sociale. - art. L114-12-1 (V)
-	  - Code de la sécurité sociale. - art. L133-5 (M)
-	  - Code de la sécurité sociale. - art. L133-5-1 (M)
-	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
-	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
-	  - Code de la sécurité sociale. - art. L133-7 (V)
-	  - Code de la sécurité sociale. - art. L243-7 (V)
-	  - Code du travail - art. D322-17 (VT)
-	  - Code du travail - art. D322-2 (VT)
-	  - Code du travail - art. D322-20 (VT)
-	  - Code du travail - art. D322-22-11 (M)
-	  - Code du travail - art. D322-4 (VT)
-	  - Code du travail - art. D322-5 (VT)
-	  - Code du travail - art. D322-6 (VT)
-	  - Code du travail - art. D351-1 (M)
-	  - Code du travail - art. D981-6 (VT)
-	  - Code du travail - art. L124-11 (AbD)
-	  - Code du travail - art. L143-11-12 (VT)
-	  - Code du travail - art. L143-11-4 (VT)
-	  - Code du travail - art. L143-11-7 (V)
-	  - Code du travail - art. L311-1 (VT)
-	  - Code du travail - art. L311-1-1 (VT)
-	  - Code du travail - art. L311-1-2 (VT)
-	  - Code du travail - art. L311-10-1 (AbD)
-	  - Code du travail - art. L311-8 (Ab)
-	  - Code du travail - art. L311-9 (AbD)
-	  - Code du travail - art. L321-13 (VT)
-	  - Code du travail - art. L321-13-1 (Ab)
-	  - Code du travail - art. L321-4-2 (VT)
-	  - Code du travail - art. L322-11 (AbD)
-	  - Code du travail - art. L322-3 (Ab)
-	  - Code du travail - art. L322-4-12 (VT)
-	  - Code du travail - art. L322-4-15-6 (AbD)
-	  - Code du travail - art. L322-4-6-3 (Ab)
-	  - Code du travail - art. L351-10-1 (VT)
-	  - Code du travail - art. L351-12 (VT)
-	  - Code du travail - art. L351-13-1 (VT)
-	  - Code du travail - art. L351-18 (AbD)
-	  - Code du travail - art. L351-22 (AbD)
-	  - Code du travail - art. L351-26 (Ab)
-	  - Code du travail - art. L351-5-1 (VD)
-	  - Code du travail - art. L351-6-2 (AbD)
-	  - Code du travail - art. L351-9-4 (AbD)
-	  - Code du travail - art. L352-4 (AbD)
-	  - Code du travail - art. L352-5 (VT)
-	  - Code du travail - art. L353-1 (Ab)
-	  - Code du travail - art. L365-3 (VT)
-	  - Code du travail - art. L961-1 (VT)
-	  - Code du travail - art. L961-2 (VT)
-	  - Code du travail - art. L983-2 (VT)
-	  - Code du travail - art. R124-4-1 (VT)
-	  - Code du travail - art. R152-6 (VT)
-	  - Code du travail - art. R152-6-1 (VT)
-	  - Code du travail - art. R311-3-1 (VT)
-	  - Code du travail - art. R311-4-10 (Ab)
-	  - Code du travail - art. R311-4-2 (M)
-	  - Code du travail - art. R311-4-4 (VT)
-	  - Code du travail - art. R311-4-6 (M)
-	  - Code du travail - art. R311-4-9 (Ab)
-	  - Code du travail - art. R311-7-1 (VT)
-	  - Code du travail - art. R312-6 (VT)
-	  - Code du travail - art. R322-12 (VT)
-	  - Code du travail - art. R322-17-11 (VT)
-	  - Code du travail - art. R322-17-14 (VT)
-	  - Code du travail - art. R351-15 (M)
-	  - Code du travail - art. R351-28 (VT)
-	  - Code du travail - art. R351-30 (An)
-	  - Code du travail - art. R351-31 (An)
-	  - Code du travail - art. R351-5 (VT)
-	  - Code du travail - art. R351-6 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Code du travail - art. R834-1 (M)
-	  - Code du travail - art. R961-10 (VT)
-	  - Code du travail - art. R961-8 (VT)
-	  - Code du travail - art. R961-9 (VT)
-	  - Code du travail - art. R962-1 (VT)
-	  - Code rural - art. L313-1 (V)
-	  - Code rural - art. L313-3 (V)
-	  - Livre des procédures fiscales - art. L134 A (M)
-	  - Livre des procédures fiscales - art. L134 B (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993
-	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°93-1319 du 13 décembre 1993 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 10 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 11 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 4 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 6 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 7 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 8 (V)
-	  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 9 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L351-20 (M)
-	  - Code du travail - art. L351-20 (P)
-
-	**Anciens textes**:
-
-	  - Loi   1940-10-11 ART. 7
-
-
-##### ALLOCATION D'AIDE PUBLIQUE .
-
-###### Article L351-3
-
-Les dépenses résultant de l'aide publique aux travailleurs sans emploi sont à la charge de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 3
-
-	**Cité par**:
-
-	  - Décret n°78-798 du 28 juillet 1978 - art. 10 (Ab)
-	  - Décret n°79-580 du 10 juillet 1979 - art. 1 (V)
-	  - Loi n°79-575 du 10 juillet 1979 - art. 1 (V)
-	  - Ordonnance n°82-40 du 16 janvier 1982 - art. 2 (V)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 4 (Ab)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (Ab)
-	  - Décret n°82-804 du 22 septembre 1982 - art. 10 (Ab)
-	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (AbD)
-	  - Décret n°82-1055 du 16 décembre 1982 - art. 1 (Ab)
-	  - Décret n°83-397 du 19 mai 1983 - art. 21 (M)
-	  - Décret n°83-398 du 19 mai 1983 - art. 12 (Ab)
-	  - Décret n°83-502 du 17 juin 1983 - art. 2 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 45 (V)
-	  - Décret n°84-157 du 2 mars 1984 - art. 1 (Ab)
-	  - Ordonnance n°84-198 du 21 mars 1984 - art. 11 (V)
-	  - Décret n°84-216 du 29 mars 1984 - art. 5 (Ab)
-	  - Décret n°84-218 du 29 mars 1984 - art. 1 (Ab)
-	  - Décret n°84-343 du 7 mai 1984 - art. 1 (Ab)
-	  - Décret n°84-343 du 7 mai 1984 - art. 2 (Ab)
-	  - Décret n°84-343 du 7 mai 1984 - art. 3 (Ab)
-	  - Décret n°84-525 du 28 juin 1984 - art. 1 (Ab)
-	  - Décret n°85-475 du 26 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
-	  - Décret n°86-558 du 14 mars 1986 - art. 1 (Ab)
-	  - Décret n°87-236 du 3 avril 1987 - art. 1 (Ab)
-	  - Décret n°88-368 du 15 avril 1988 - art. 10 (V)
-	  - Arrêté du 12 décembre 1988 - art. 1 (V)
-	  - Décret n°90-105 du 30 janvier 1990 - art. 1 (M)
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 41 (V)
-	  - Arrêté du 6 janvier 1992 - art. 1 (V)
-	  - Arrêté du 6 janvier 1992 - art. 2 (V)
-	  - Décret n°92-1194 du 4 novembre 1992 - art. 17 (V)
-	  - Décret n°94-281 du 11 avril 1994 - art. 1 (V)
-	  - Loi n°95-116 du 4 février 1995 - art. 92 (V)
-	  - Décret n°95-925 du 19 août 1995 - art. 4-1 (Ab)
-	  - Arrêté du 31 mai 1997 - art. 1 (V)
-	  - Loi n°98-1194 du 23 décembre 1998 - art. 4 (V)
-	  - Décret n°99-247 du 29 mars 1999 - art. 2 (V)
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
-	  - Loi n°2004-627 du 30 juin 2004 - art. 2 (V)
-	  - Décret n°2005-894 du 2 août 2005 - art. 3 (VT)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 3 (VT)
-	  - Loi n°2006-339 du 23 mars 2006 - art. 32 (V)
-	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
-	  - Décret n°2006-418 du 7 avril 2006 - art. 14 (V)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 10 (VT)
-	  - Décret n°2007-153 du 5 février 2007 - art. 1 (Ab)
-	  - Décret n°2007-153 du 5 février 2007 - art. 2 (Ab)
-	  - Arrêté du 1 septembre 1986 - art. 1 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (V)
-	  - Code de commerce. - art. L626-6 (V)
-	  - Code de commerce. - art. L643-3 (V)
-	  - Code de commerce. - art. R626-10 (V)
-	  - Code de commerce. - art. R626-9 (V)
-	  - Code de l'action sociale et des familles - art. R262-11-2 (VT)
-	  - Code de l'aviation civile - art. R426-15-3 (VD)
-	  - Code de la construction et de l'habitation. - art. R351-13 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14 (V)
-	  - Code de la sécurité sociale. - art. D531-19 (V)
-	  - Code de la sécurité sociale. - art. D842-2 (Ab)
-	  - Code de la sécurité sociale. - art. D842-5 (Ab)
-	  - Code de la sécurité sociale. - art. L135-2 (MMN)
-	  - Code de la sécurité sociale. - art. R135-16 (M)
-	  - Code de la sécurité sociale. - art. R524-9 (VT)
-	  - Code de la sécurité sociale. - art. R531-13 (T)
-	  - Code de la sécurité sociale. - art. R532-7 (V)
-	  - Code de la sécurité sociale. - art. R755-10 (Ab)
-	  - Code de la sécurité sociale. - art. R833-5 (Ab)
-	  - Code de la sécurité sociale. - art. R861-8 (VD)
-	  - Code du service national - art. L130-4 (M)
-	  - Code du travail - art. D311-6 (VT)
-	  - Code du travail - art. L311-7-5 (VT)
-	  - Code du travail - art. L321-13 (VT)
-	  - Code du travail - art. L322-4-19 (AbD)
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-10-2 (VT)
-	  - Code du travail - art. L351-12 (VT)
-	  - Code du travail - art. L351-14 (VT)
-	  - Code du travail - art. L351-15 (AbD)
-	  - Code du travail - art. L351-16 (AbD)
-	  - Code du travail - art. L351-17 (MMN)
-	  - Code du travail - art. L351-21 (AbD)
-	  - Code du travail - art. L351-5 (M)
-	  - Code du travail - art. L351-9 (M)
-	  - Code du travail - art. L352-3 (AbD)
-	  - Code du travail - art. L353-1 (Ab)
-	  - Code du travail - art. L354-1 (AbD)
-	  - Code du travail - art. L961-5 (AbD)
-	  - Code du travail - art. R311-3-2 (M)
-	  - Code du travail - art. R351-1 (VT)
-	  - Code du travail - art. R351-1-1 (VT)
-	  - Code du travail - art. R351-10 (M)
-	  - Code du travail - art. R351-11 (M)
-	  - Code du travail - art. R351-12 (Ab)
-	  - Code du travail - art. R351-15-3 (VT)
-	  - Code du travail - art. R351-16 (VT)
-	  - Code du travail - art. R351-17 (Ab)
-	  - Code du travail - art. R351-19-1 (VT)
-	  - Code du travail - art. R351-2 (Ab)
-	  - Code du travail - art. R351-20 (VT)
-	  - Code du travail - art. R351-22 (VT)
-	  - Code du travail - art. R351-26 (VT)
-	  - Code du travail - art. R351-28 (VT)
-	  - Code du travail - art. R351-38 (Ab)
-	  - Code du travail - art. R351-41 (VT)
-	  - Code du travail - art. R351-42 (VT)
-	  - Code du travail - art. R351-8 (VT)
-	  - Code du travail - art. R365-1 (VT)
-	  - Code du travail - art. R783-3 (VT)
-	  - Code du travail - art. R831-1 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Livre des procédures fiscales - art. L134 B (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 10 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 11 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 12 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2-1 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2-2 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 2-3 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 3 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 4 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 5 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 6 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 7 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 8 (V)
-	  - TXT_ASSOCIE: Décret n°99-247 du 29 mars 1999 - art. 9 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
-
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
@@ -26559,28 +27295,10 @@ Les dépenses résultant de l'aide publique aux travailleurs sans emploi sont à
 
 ###### Article L351-4
 
-Pour être admis au bénéfice de l'allocation publique les travailleurs doivent satisfaire à des conditions d'âge, d'aptitude
-au travail, d'activité préalable et de privation d'emploi qui sont précisées par un décret en Conseil d'Etat.
-
-Ce décret détermine également le délai de carence.
-
-//LOI  1281 30-12-1975 : Les détenus libérés peuvent également être admis au bénéfice de cette allocation, après avis de la
-commission de l'application des peines ou, s'il s'agit d'un prévenu, du ministère public, à des conditions qui seront fixées
-par décret en Conseil d'Etat. Toutefois, sont exclues du bénéfice de ces dispositions les personnes qui ont été libérées
-après exécution d'une peine privative de liberté prononcée pour l'un des crimes ou délits prévus par les articles 354, 334-1,
-335, 462 du code pénal et L. 627 du code de la santé publique, ainsi que celles qui ont été condamnées à deux peines de
-réclusion criminelle ou trois peines d'emprisonnement sans sursis pour délit de droit commun dès lors que la dernière
-infraction a été commise postérieurement à l'incarcération précédente// .
-
-L'allocation d'aide publique comprend une allocation principale à laquelle s'ajoutent une ou des majorations liées à
-l'existence de personnes ou enfants à charge. Le taux de l'allocation principale et celui de la ou des majorations sont fixés
-par voie réglementaire.
+Pour être admis à bénéficier du revenu de remplacement, les travailleurs privés d'emploi doivent satisfaire à des conditions
+d'âge, d'aptitude au travail, d'activité préalable et de privation d'emploi.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 4
 
 	**Cité par**:
 
@@ -26747,11 +27465,6 @@ par voie réglementaire.
 	  - Code du travail - art. R365-1 (VT)
 	  - Code du travail - art. R833-7 (VT)
 
-	**Cite**:
-
-	  - Code pénal 354, 334-1, 335, 462
-	  - Code de la santé publique - art. L627 (M)
-
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L5422-13 (VD)
@@ -26765,93 +27478,24 @@ par voie réglementaire.
 	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L351-5
-
-Les limites dans lesquelles l'allocation d'aide publique et la ou les majorations sont cumulables avec d'autres ressources
-sont fixées, en tant que de besoin, par le décret prévu à l'alinéa premier de l'article L. 351-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
-	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
-	  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
-	  - Décret n°79-250 du 27 mars 1979 - art. 3 (Ab)
-	  - Loi n°79-1129 du 28 décembre 1979 - art. 14 (Ab)
-	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
-	  - Ordonnance n°82-204 du 1 mars 1982
-	  - Ordonnance n°82-204 du 1 mars 1982 - art. 2 (V)
-	  - Décret n°82-340 du 16 avril 1982 - art. 6 (V)
-	  - Décret n°82-445 du 28 mai 1982 - art. 1 (M)
-	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
-	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 10 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 12 (V)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
-	  - Décret n°83-458 du 7 juin 1983 - art. 5 (V)
-	  - Décret n°83-714 du 2 août 1983 - art. 1 (V)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Décret n°84-216 du 29 mars 1984 - art. 7 (Ab)
-	  - Décret n°85-475 du 26 avril 1985 - art. 17 (Ab)
-	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
-	  - Décret n°85-916 du 16 août 1985 - art. 4 (V)
-	  - Décret n°85-932 du 30 août 1985 - art. 15 (V)
-	  - Décret n°85-960 du 11 septembre 1985 - art. 5 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
-	  - Code de la sécurité sociale. - art. R351-12 (V)
-	  - Code de la sécurité sociale. - art. R351-13 (V)
-	  - Code de la sécurité sociale. - art. R531-16 (Ab)
-	  - Code de la sécurité sociale. - art. R532-2 (M)
-	  - Code de la sécurité sociale. - art. R755-11-1 (Ab)
-	  - Code du travail - art. D351-1 (VT)
-	  - Code du travail - art. D351-4 (Ab)
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-12 (VT)
-	  - Code du travail - art. L351-20 (MMN)
-	  - Code du travail - art. L351-21 (M)
-	  - Code du travail - art. L351-6-1 (M)
-	  - Code du travail - art. L351-6-2 (P)
-	  - Code du travail - art. L351-7 (M)
-	  - Code du travail - art. L352-3 (M)
-	  - Code du travail - art. R351-2 (M)
-	  - Code du travail - art. R365-1 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Code rural ancien - art. 1031 (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 5
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5422-14 (VD)
-
-	**Cite**:
-
-	  - Code du travail L351-4 AL. 1
-
-
 ###### Article L351-6
 
-Le droit à l'allocation d'aide publique s'éteint lorsque, sans motif légitime, le bénéficiaire de cette allocation refuse
-d'accepter un emploi offert, de suivre un cycle de formation ou de perfectionnement professionnels ou de répondre aux
-convocations du service compétent. Il en est de même s'il y a fraude ou fausse déclaration.
+Peuvent bénéficier d'une allocation forfaitaire pendant une durée limitée les jeunes à la recherche d'un emploi, âgés de
+seize ans au moins, satisfaisant à des conditions de formation initiale ou ayant suivi un stage de formation professionnelle
+ou ayant accompli depuis un délai maximum leur service national, ou justifiant qu'ils apportent effectivement à leur famille
+une aide indispensable au soutien de celle-ci.
 
-Les sommes indûment perçues donnent lieu à répétition.
+Les détenus libérés peuvent également être admis au bénéfice de cette allocation, après avis de la commission de
+l'application des peines ou, s'il s'agit d'un prévenu, du ministère public, à des conditions qui seront fixées par décret en
+Conseil d'Etat. Toutefois, sont exclues du bénéfice de ces dispositions les personnes qui ont été libérées après exécution
+d'une peine privative de liberté prononcée pour l'un des crimes ou délits prévus par les articles 334, 334-1, 335, 355, 462
+du code pénal et L. 627 du code de la santé publique, ainsi que celles qui ont été condamnées à deux peines de réclusion
+criminelle ou trois peines d'emprisonnement sans sursis pour délit de droit commun dès lors que la dernière infraction a été
+commise postérieurement à l'incarcération précédente.
+
+Peuvent bénéficier de cette allocation, les femmes qui sont, depuis moins de deux ans, veuves, divorcées, séparées
+judiciairement ou célibataires assumant la charge d'au moins un enfant, qui satisfont à des conditions de formation initiale
+ou qui, à l'issue d'un stage de formation professionnelle, n'ont pu obtenir un emploi.
 
 **Liens relatifs à cet article**
 
@@ -26903,9 +27547,10 @@ Les sommes indûment perçues donnent lieu à répétition.
 	  - Code du travail - art. R351-5-1 (VT)
 	  - Code du travail - art. R833-7 (VT)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Ordonnance 67-580 1967-07-13 ART. 6
+	  - Code pénal 334, 334-1, 335, 355, 462
+	  - Code de la santé publique - art. L627 (M)
 
 	**Liens**:
 
@@ -26913,55 +27558,96 @@ Les sommes indûment perçues donnent lieu à répétition.
 	  - TXT_SOURCE: Code du travail - art. L353-2 (AbD)
 
 
-###### Article L351-8
+###### Article L351-6-1
 
-Le service de l'allocation d'aide publique peut être assuré par l'intermédiaire des institutions mentionnées au premier
-alinéa de l'article L. 351-11 selon des modalités à déterminer par voie de convention.
+A titre exceptionnel, le régime prévu par la présente loi peut se voir confier l'indemnisation de certaines catégories de
+personnes à la recherche d'un emploi n'entrant pas dans son champ d'application.
+
+Ces catégories d'allocataires perçoivent soit l'allocation de base visée à l'article L. 351-5, soit l'allocation forfaitaire
+visée à l'article L. 351-6.
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les catégories de bénéficiaires des dispositions du présent
+article.
+
+Dans la mesure où l'application de ces dispositions se traduit par la prise en charge de catégories qui n'auraient pas,
+antérieurement à l'intervention de la loi n° 79-32 du 16 janvier 1979, été couvertes par le régime d'aide publique aux
+travailleurs privés d'emploi institué par l'ordonnance n° 67-580 du 13 juillet 1967, un avenant à la convention prévue à
+l'article L. 351-13 prévoira une participation financière supplémentaire de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 8
-
 	**Cité par**:
 
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Ordonnance n°84-198 du 21 mars 1984 - art. 11 (V)
-	  - Loi n°95-116 du 4 février 1995 - art. 92 (V)
-	  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
-	  - Décret n°97-139 du 13 février 1997 - art. 2 (V)
-	  - Décret n°2000-601 du 30 juin 2000 - art. 3 (V)
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 3 (VT)
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
+	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
+	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (MMN)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 15 (V)
+	  - Ordonnance n°84-198 du 21 mars 1984 - art. 9 (V)
+	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
 	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
-	  - Décret n°2007-3 du 1 janvier 2007 - art. 2 (V)
-	  - Décret n°2007-844 du 14 mai 2007 - art. 1 (Ab)
-	  - Loi n°2008-126 du 13 février 2008 - art. 6 (V)
-	  - Code de la construction et de l'habitation. - art. R351-14 (V)
-	  - Code de la sécurité sociale. - art. R531-13 (T)
-	  - Code de la sécurité sociale. - art. R532-7 (V)
-	  - Code de la sécurité sociale. - art. R755-10 (Ab)
-	  - Code du travail - art. L311-1-1 (VT)
-	  - Code du travail - art. L311-7-5 (VT)
-	  - Code du travail - art. L311-7-8 (VT)
-	  - Code du travail - art. L321-4-2 (VT)
-	  - Code du travail - art. L351-14 (VT)
-	  - Code du travail - art. L351-15 (AbD)
-	  - Code du travail - art. L351-20 (AbD)
-	  - Code du travail - art. L351-21 (VT)
-	  - Code du travail - art. L354-1 (VT)
-	  - Code du travail - art. R351-1 (VT)
-	  - Code du travail - art. R351-4 (VT)
-	  - Code du travail - art. R620-6 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Code rural - art. R514-8 (T)
-	  - Code rural et de la pêche maritime - art. R514-12 (T)
+	  - Code de la sécurité sociale. - art. R351-12 (V)
+	  - Code de la sécurité sociale. - art. R351-13 (V)
+	  - Code des pensions de retraite des marins frança... - art. L12 (VT)
+	  - Code du travail - art. D351-4 (Ab)
+	  - Code du travail - art. L351-2 (MMN)
+	  - Code du travail - art. L351-4 (MMN)
+	  - Code du travail - art. L351-5 (MMN)
 
 	**Cite**:
 
-	  - Code du travail L351-11 AL. 1
+	  - Ordonnance 67-580 1967-07-13
+	  - Loi n°79-32 1979-01-16
+	  - Code du travail - art. L351-13 (M)
+	  - Code du travail - art. L351-6 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L351-6-2
+
+I - Des prolongations de droits sont accordées, par mesure individuelle, à l'expiration de la durée d'indemnisation prévue
+aux articles L. 351-5 et L. 351-6, et en fonction des difficultés particulières de réemploi des intéressés.
+
+II - Des prolongations de caractère collectif peuvent de même être accordées par convention particulière, conclue au niveau
+national et professionnel, et agréée par les pouvoirs publics dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
+	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 6 (V)
+	  - Code de la sécurité sociale. - art. R351-12 (V)
+	  - Code de la sécurité sociale. - art. R351-13 (V)
+	  - Code du travail - art. D351-4 (Ab)
+
+	**Liens**:
+
+	  - PEREMPTION: Ordonnance 84-106 1984-02-16 ART. 5 JORF 17 FEVRIER date d'entrée en vigueur 1 AVRIL 1984
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. L351-6 (M)
 
 	**Codifié par**:
 
@@ -26970,12 +27656,16 @@ alinéa de l'article L. 351-11 selon des modalités à déterminer par voie de c
 
 ###### Article L351-9
 
-Le décret en Conseil d'Etat prévu à l'alinéa premier de l'article L. 351-4 détermine les conditions dans lesquelles
-l'allocation d'aide publique peut être versée aux travailleurs qui, tout en restant liés à leur employeur par un contrat de
-travail, subissent une perte de salaire imputable soit à la fermeture temporaire de l'établissement qui les emploie, soit à
-la réduction de l'horaire de travail habituellement pratiqué dans l'établissement en-deça de la durée légale du travail.
+Le régime national interprofessionnel d'allocations spéciales aux travailleurs sans emploi de l'industrie et du commerce créé
+par la convention du 31 décembre 1958 est modifié et complété en tant que de besoin par un accord conclu et agréé dans les
+conditions prévues par les articles L. 352-1 et suivants.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CONVENTION 1958-12-31
+	  - Code du travail - art. L352-1 (M)
 
 	**Cité par**:
 
@@ -27077,10 +27767,6 @@ la réduction de l'horaire de travail habituellement pratiqué dans l'établisse
 	  - Code du travail - art. R833-7 (VT)
 	  - Livre des procédures fiscales - art. L134 B (M)
 
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 9
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°84-216 du 29 mars 1984
@@ -27106,45 +27792,19 @@ la réduction de l'horaire de travail habituellement pratiqué dans l'établisse
 	  - TXT_SOURCE: Décret n°86-110 du 24 janvier 1986 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°86-110 du 24 janvier 1986 - art. 2 (Ab)
 
-	**Cite**:
-
-	  - Code du travail L351-4 AL. 1
-
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
 
 
-##### ALLOCATION D'ASSURANCE .
-
 ###### Article L351-10
 
-Sous réserve des dispositions de la section III, tout employeur occupant un ou des salariés dans le champ d'application
-territorial de la convention mentionnée à l'article L. 351-11, est tenu d'assurer contre le risque de privation d'emploi le
-ou les salariés dont il utilise les services en vertu d'un contrat de travail et dont les rémunérations sont soumises par
-application des dispositions législatives et réglementaires en vigueur au versement forfaitaire établi par l'article 231 du
-code général des impôts.
-
-//LOI  1116 27-12-1974 : Nonobstant les dispositions du premier alinéa ci-dessus, bénéficient également de la présente
-section les salariés agricoles énumérés à l'article 1144 du code rural dont les rémunérations quelles qu'en soient les
-modalités ne sont pas soumises au versement forfaitaire prévu à l'article 231 du code général des impôts (1)// .
-
-(1) N.B. : Des modalités provisoires d'application du deuxième alinéa de l'article L. 351-10 du code du travail pourront être
-prévues par accord entre les organisations intéressées d'employeurs et de salariés pendant une période expirant le 31
-décembre 1977. Cet accord pourra également exclure de son application les travailleurs occasionnels visés à l'article 1157 du
-code rural, ou certaines catégories de travailleurs saisonniers.
-
-Les dispositions de la présente section ne sont pas applicables aux employeurs et personnes définis à l'article 1532,
-deuxième alinéa du code général des impôts, ni à ces personnes elles-mêmes. //LOI 0505 17-05-1977 : Elles ne s'appliquent pas
-non plus aux assistantes maternelles employées par des particuliers ni à ces derniers// .
+Un décret en Conseil d'Etat détermine les conditions selon lesquelles un travailleur est considéré comme étant à la recherche
+d'un emploi, les conditions dans lesquelles sont cumulables, d'une part, les prestations de sécurité sociale ou d'aide
+sociale, d'autre part, les allocations résultant des articles L. 351-5 et L. 351-6, ainsi que les conditions dans lesquelles
+les bénéficiaires de l'allocation de garantie de ressources ont droit aux prestations de sécurité sociale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 231, 1532 AL. 2
-	  - Code rural 1144
-	  - Code du travail L351-18 A L351-20
 
 	**Codifié par**:
 
@@ -27273,10 +27933,6 @@ non plus aux assistantes maternelles employées par des particuliers ni à ces d
 	  - Code du travail - art. R961-6 (VT)
 	  - Livre des procédures fiscales - art. L134 B (M)
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-580 du 13 juillet 1967 - art. 11, v. init.
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°84-218 du 29 mars 1984
@@ -27298,27 +27954,32 @@ non plus aux assistantes maternelles employées par des particuliers ni à ces d
 	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
 	  - TXT_SOURCE: Code du travail - art. R351-14 (V)
+	  - TXT_ASSOCIE: Code du travail R365-1 (PENALITES)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. L351-6 (M)
 
 
 ###### Article L351-11
 
-Nonobstant la définition limitative du champ d'application professionnel de la convention mentionnée ci-après tout employeur
-relevant du premier alinéa de l'article L. 351-10 dans les deux mois suivant l'embauchage du premier salarié doit adhérer aux
-institutions du régime d'assurances résultant de la convention du 31 décembre 1958 ayant créé le régime national
-interprofessionnel d'allocation spéciale aux travailleurs sans emploi du commerce et de l'industrie et qui a été agréée
-conformément aux dispositions du chapitre II du présent titre.
-
-Ces institutions ne peuvent refuser les adhésions données par application de l'alinéa précédent.
+Pour certaines branches d'activité jusqu'alors exclues du régime de l'allocation d'assurance antérieurement à la publication
+de la loi n. 79-32 du 16 janvier 1979, les avenants à la convention du 31 décembre 1958 et les règlements pris pour son
+application peuvent, lorsque le caractère propre de ces branches d'activité rend nécessaires des mesures d'adaptation,
+établir des règles particulières en ce qui concerne l'ouverture des droits à prestation, le taux et la durée de celles-ci,
+ainsi que pour la détermination des obligations des employeurs et la date d'applicabilité à ces branches dudit régime.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CONVENTION 1958-12-31
+	  - Loi n°79-32 1979-01-16
 
 	**Codifié par**:
 
 	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 12
 
 	**Cité par**:
 
@@ -27343,21 +28004,53 @@ Ces institutions ne peuvent refuser les adhésions données par application de l
 	  - TXT_SOURCE: Décret n°84-342 du 7 mai 1984 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°84-342 du 7 mai 1984 - art. 3 (Ab)
 	  - TXT_SOURCE: Décret n°84-342 du 7 mai 1984 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Code du travail R365-1 (PENALITES)
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L5423-33 (VD)
 
+
+###### Article L351-11-1
+
+Les dispositions des articles L. 351-1 à L. 351-11 sont applicables aux travailleurs salariés français détachés à l'étranger
+qui ont été maintenus par leurs employeurs au régime de l'assurance chômage.
+
+**Liens relatifs à cet article**
+
 	**Cite**:
 
-	  - Code du travail L352-1 A L352-5
+	  - Code du travail L351-1 A L351-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
 
 
-###### Article L351-12
+###### Article L351-11-2
 
-Le droit du salarié à l'allocation d'assurance est indépendant de l'observation par l'employeur tant des prescriptions de la
-présente section et des dispositions de la convention précédemment mentionnée, que de celles des avenants et règlements
-dèfinissant les conditions d'application du régime d'assurances.
+Les dispositions des articles L. 351-1 à L. 351-11 sont applicables aux travailleurs salariés expatriés, résidant à
+l'étranger, qui, lors de leur retour en France, se trouvent privés d'emploi, sous réserve qu'ils aient été employés par une
+entreprise qui les ait fait bénéficier du régime de l'assurance chômage ou, à défaut, lorsque les intéressés ont adhéré
+volontairement à titre individuel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail - art. R351-17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+##### ALLOCATION D'AIDE PUBLIQUE .
+
+###### Article L351-5
+
+Les limites dans lesquelles l'allocation d'aide publique et la ou les majorations sont cumulables avec d'autres ressources
+sont fixées, en tant que de besoin, par le décret prévu à l'alinéa premier de l'article L. 351-4.
 
 **Liens relatifs à cet article**
 
@@ -27365,238 +28058,91 @@ dèfinissant les conditions d'application du régime d'assurances.
 
 	  - Décret n°73-1046 1973-11-15
 
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 13
-
 	**Cité par**:
 
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (Ab)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 4 (Ab)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (Ab)
-	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (AbD)
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
+	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
+	  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
+	  - Décret n°79-250 du 27 mars 1979 - art. 3 (Ab)
+	  - Loi n°79-1129 du 28 décembre 1979 - art. 14 (Ab)
+	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
+	  - Ordonnance n°82-204 du 1 mars 1982
+	  - Ordonnance n°82-204 du 1 mars 1982 - art. 2 (V)
+	  - Décret n°82-340 du 16 avril 1982 - art. 6 (V)
+	  - Décret n°82-445 du 28 mai 1982 - art. 1 (M)
+	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
+	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 10 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 12 (V)
+	  - Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
+	  - Décret n°83-458 du 7 juin 1983 - art. 5 (V)
+	  - Décret n°83-714 du 2 août 1983 - art. 1 (V)
 	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
 	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 45 (V)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 97 (V)
-	  - Décret n°84-410 du 30 mai 1984 - art. 1 (Ab)
-	  - Décret n°84-522 du 27 juin 1984 - art. 1 (Ab)
-	  - Décret n°84-1026 du 22 novembre 1984 - art. 5 (V)
-	  - Décret n°84-1057 du 30 novembre 1984 - art. 13 (Ab)
+	  - Décret n°84-216 du 29 mars 1984 - art. 7 (Ab)
+	  - Décret n°85-475 du 26 avril 1985 - art. 17 (Ab)
 	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
-	  - Décret n°86-400 du 12 mars 1986 - art. 4 (V)
-	  - Décret n°87-670 du 14 août 1987 - art. 11 (Ab)
-	  - Décret n°87-1025 du 17 décembre 1987 - art. 2 (Ab)
-	  - Décret n°89-129 du 27 février 1989 - art. 9 (Ab)
-	  - Loi n°92-675 du 17 juillet 1992 - art. 20 (Ab)
-	  - Décret n°92-1194 du 4 novembre 1992 - art. 17 (V)
-	  - Décret n°93-701 du 27 mars 1993 - art. 9 (Ab)
-	  - Décret n°94-281 du 11 avril 1994 - art. 2 (V)
-	  - Loi n°94-629 du 25 juillet 1994 - art. 15 (V)
-	  - Loi n°95-116 du 4 février 1995 - art. 93 (Ab)
-	  - Décret n°95-979 du 25 août 1995 - art. 8 (V)
-	  - Loi n°96-126 du 21 février 1996 - art. 1 (V)
-	  - Arrêté du 18 mars 1996 - art. 1 (V)
-	  - Décret n°96-394 du 7 mai 1996 - art. 3 (V)
-	  - Décret n°96-433 du 17 mai 1996 - art. 3 (V)
-	  - Décret n°96-1087 du 10 décembre 1996 - art. 8 (V)
-	  - Décret n°97-185 du 25 février 1997 - art. 8 (V)
-	  - Arrêté du 25 juillet 1997 - art. Annexe, art. 35 bis (V)
-	  - Décret n°98-358 du 12 mai 1998 - art. 3 (V)
-	  - Décret n°98-359 du 12 mai 1998 - art. 3 (V)
-	  - Décret n°99-328 du 29 avril 1999 - art. 3 (V)
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
-	  - Loi n°2003-322 du 9 avril 2003 - art. 3 (V)
-	  - Décret n°2003-1109 du 21 novembre 2003 - art. 51 (V)
-	  - Loi n°2004-734 du 26 juillet 2004 - art. 3 (V)
-	  - Décret n°2005-900 du 2 août 2005 - art. 19 (V)
-	  - Décret n°2005-900 du 2 août 2005 - art. 20 (V)
-	  - Décret n°2005-902 du 2 août 2005 - art. 19 (V)
-	  - Décret n°2005-902 du 2 août 2005 - art. 20 (V)
-	  - Décret n°2005-904 du 2 août 2005 - art. 19 (V)
-	  - Décret n°2005-904 du 2 août 2005 - art. 20 (V)
-	  - Décret n°2005-1054 du 29 août 2005 - art. 1 (V)
-	  - Décret n°2007-1056 du 28 juin 2007 - art. 11 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - Décret n°85-916 du 16 août 1985 - art. 4 (V)
+	  - Décret n°85-932 du 30 août 1985 - art. 15 (V)
+	  - Décret n°85-960 du 11 septembre 1985 - art. 5 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (M)
-	  - Code de la santé publique - art. R6152-418 (V)
-	  - Code de la sécurité sociale. - art. L241-13 (V)
-	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
-	  - Code de la sécurité sociale. - art. L241-6-2 (M)
-	  - Code de la sécurité sociale. - art. L241-6-4 (V)
-	  - Code de la sécurité sociale. - art. R241-0-1 (VD)
+	  - Code de la sécurité sociale. - art. R351-12 (V)
+	  - Code de la sécurité sociale. - art. R351-13 (V)
+	  - Code de la sécurité sociale. - art. R531-16 (Ab)
 	  - Code de la sécurité sociale. - art. R532-2 (M)
-	  - Code du service national - art. L130-4 (M)
-	  - Code du travail - art. D980-11 (Ab)
-	  - Code du travail - art. D981-9 (Ab)
-	  - Code du travail - art. L322-12 (Ab)
-	  - Code du travail - art. L322-4-1 (M)
-	  - Code du travail - art. L322-4-11 (T)
-	  - Code du travail - art. L322-4-13 (Ab)
-	  - Code du travail - art. L322-4-15-1 (AbD)
-	  - Code du travail - art. L322-4-21 (AbD)
-	  - Code du travail - art. L322-4-3 (Ab)
-	  - Code du travail - art. L322-4-4 (M)
-	  - Code du travail - art. L322-4-8 (AbD)
-	  - Code du travail - art. L351-4 (AbD)
-	  - Code du travail - art. L352-3 (M)
-	  - Code du travail - art. L365-2 (AbD)
-	  - Code du travail - art. L365-3 (VT)
-	  - Code du travail - art. L620-9 (VT)
-	  - Code du travail - art. L832-2 (VT)
-	  - Code du travail - art. R351-20 (VT)
-	  - Code du travail - art. R351-26 (VT)
-	  - Code du travail - art. R365-1 (M)
-	  - Code du travail - art. R833-7 (VT)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°84-524 du 28 juin 1984
-	  - TXT_SOURCE: Décret n°84-524 du 28 juin 1984 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°84-524 du 28 juin 1984 - art. 2 (Ab)
-
-	**Cite**:
-
-	  - Code du travail L351-10 A L351-17
-
-
-###### Article L351-13
-
-L'assurance est financée par des contributions des employeurs et des salariés. Ces contributions sont assises sur les
-rémunérations définies à l'article L. 351-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 14
-
-	**Cité par**:
-
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Décret n°84-417 du 30 mai 1984 - art. 2 (Ab)
-	  - Décret n°84-1026 du 22 novembre 1984 - art. 5 (V)
-	  - Décret n°84-1180 du 26 décembre 1984 - art. 2 (Ab)
-	  - Décret n°85-600 du 10 juin 1985 - art. 2 (Ab)
-	  - Décret n°85-600 du 10 juin 1985 - art. 3 (V)
-	  - Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
-	  - Code du travail - art. L118-6 (AbD)
-	  - Code du travail - art. L351-16 (P)
+	  - Code de la sécurité sociale. - art. R755-11-1 (Ab)
+	  - Code du travail - art. D351-1 (VT)
+	  - Code du travail - art. D351-4 (Ab)
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-12 (VT)
+	  - Code du travail - art. L351-20 (MMN)
+	  - Code du travail - art. L351-21 (M)
 	  - Code du travail - art. L351-6-1 (M)
-	  - Code du travail - art. L365-2 (AbD)
-	  - Code du travail - art. R351-35 (M)
-	  - Code du travail - art. R365-1 (M)
+	  - Code du travail - art. L351-6-2 (P)
+	  - Code du travail - art. L351-7 (M)
+	  - Code du travail - art. L352-3 (M)
+	  - Code du travail - art. R351-2 (M)
+	  - Code du travail - art. R365-1 (VT)
+	  - Code du travail - art. R833-7 (VT)
+	  - Code rural ancien - art. 1031 (M)
+
+	**Anciens textes**:
+
+	  - Ordonnance 67-580 1967-07-13 ART. 5
 
 	**Liens**:
 
-	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984
-	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°84-343 du 7 mai 1984 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°84-417 du 30 mai 1984 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984
-	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°84-1180 du 26 décembre 1984 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985
-	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°85-600 du 10 juin 1985 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°87-315 du 7 mai 1987 - art. 1 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-10 (M)
-
-
-###### Article L351-14
-
-Les employeurs soumis à l'obligation instituée par l'article L. 351-10 sont tenus de déclarer aux organismes prévus à
-l'alinéa premier de l'article L. 351-11, dans les conditions qui sont déterminées par voie réglementaire, les rémunérations
-servant de base aux contributions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 15
-
-	**Cité par**:
-
-	  - Loi n°79-10 du 3 janvier 1979 - art. 3 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Loi n°2002-311 du 5 mars 2002 - art. 1 (V)
-	  - Loi n°2008-126 du 13 février 2008 - art. 7 (VD)
-	  - Loi n°2008-126 du 13 février 2008 - art. 5 (V)
-	  - Code de la sécurité sociale. - art. L142-2 (VD)
-	  - Code du travail - art. L351-12 (AbD)
-	  - Code du travail - art. L351-21 (VT)
-	  - Code du travail - art. L354-1 (VT)
-	  - Code du travail - art. R365-1 (M)
-	  - Code du travail - art. R620-6 (VT)
-	  - Code du travail - art. R833-7 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail L351-10, L351-11 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L351-15
-
-Compte tenu des règles posées par les articles L. 351-10 à L. 351-14, l'adhésion aux institutions et le régime de l'assurance
-sont régis par la convention précédemment mentionnée par ses avenants agréés conformément aux dispositions de l'article L.
-252-2 et par les règlements pris pour leur application et agréés dans les mêmes conditions.
-
-Pour certaines branches d'activité n'entrant pas dans le champ d'application de la section II et ne relevant pas déjà du
-régime d'assurance indiqué à l'alinéa premier de l'article L. 351-11, les règlements prévus à l'alinéa qui précède peuvent,
-lorsque le caractère propre de ces branches rend nécessaires des mesures d'adaptation, établir des règles particulières
-concernant les conditions d'ouverture du droit à l'allocation, le droit d'entrée, les taux et la répartition des
-contributions des employeurs et des salariés ainsi que le taux et la durée des prestations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L351-17 (T)
-	  - Ordonnance 67-580 1967-07-13 ART. 16
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+	  - TXT_ASSOCIE: Code du travail - art. R365-1 (V)
 
 	**Nouveaux textes**:
 
-	  - Code du travail - art. L5422-8 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. R351-35 (M)
-	  - Code du travail - art. R833-7 (VT)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
+	  - Code du travail - art. L5422-14 (VD)
 
 	**Cite**:
 
-	  - Code du travail L351-10 A L351-14
+	  - Code du travail L351-4 AL. 1
 
-	**Codifié par**:
 
-	  - Décret n°73-1046 1973-11-15
-
+##### DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
 
 ###### Article L351-16
 
-Les contributions [*des employeurs et des salariés*] prévues à l'article L. 351-13 sont dues à compter de la date
-d'embauchage du premier salarié.
+Dans le champ d'application territorial [*de la convention du 31-12-1958*] de la section I du présent chapitre, les agents
+civils non fonctionnaires de l'Etat et de ses établissements publics, administratifs, ainsi que les agents non titulaires des
+collectivités locales et des autres établissements publics administratifs, ont droit, en cas de licenciement et à condition
+d'avoir été employés de manière permanente, à une indemnisation dont les conditions d'attribution et de calcul analogues à
+celles qui sont définies à la section I du présent chapitre sont déterminées par décret en Conseil d'Etat.
+
+Cette allocation est servie par la collectivité ou l'organisme employeur.
+
+Les dispositions de l'alinéa précédent sont également applicables aux personnels qui ont accompli un service continu pendant
+une durée déterminée alors même qu'ils n'ont pas été employés à titre permanent. Les catégories de personnels intéressées,
+les conditions d'ouverture du droit à l'allocation et notamment la durée de service continu exigé sont déterminées par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -27680,11 +28226,6 @@ d'embauchage du premier salarié.
 	  - Code rural ancien - art. 1031 (M)
 	  - Livre des procédures fiscales - art. L134 A (M)
 
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 17
-	  - Code du travail - art. L351-18 (T)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°80-897 du 18 novembre 1980
@@ -27759,275 +28300,55 @@ d'embauchage du premier salarié.
 	  - TXT_SOURCE: Décret n°83-976 du 10 novembre 1983 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°83-976 du 10 novembre 1983 - art. 9 (Ab)
 	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
+	  - TXT_ASSOCIE: Code du travail - art. R351-39 (M)
+	  - TXT_ASSOCIE: Code du travail R365-1 (PENALITES)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code du travail - art. L351-13 (M)
+	  - Code du travail - art. L351-18 (T)
 
 	**Nouveaux textes**:
 
 	  - Code du travail - art. L5421-3 (VD)
 
-
-###### Article L351-17
-
-Toute action ou poursuite intentée contre un employeur pour infraction aux dispositions du présent chapitre, du chapitre
-correspondant de la partie R et des décrets pris pour l'application desdits chapitres est obligatoirement précédée d'une mise
-en demeure par lettre recommandée avec avis de réception qui invite l'intéressé à régulariser sa situation dans les quinze
-jours.
-
-La mise en demeure ne peut concerner que les périodes d'emploi comprises dans les cinq ans qui précèdent la date de son
-envoi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 74 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 58 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 77 (M)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 81 (Ab)
-	  - Décret n°51-727 du 6 juin 1951 - art. 3 (M)
-	  - Ordonnance n°67-706 du 21 août 1967 - art. 13 (M)
-	  - Arrêté du 30 décembre 1970 - art. 16 (V)
-	  - Loi n°79-1129 du 28 décembre 1979 - art. 14 (Ab)
-	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (M)
-	  - Ordonnance n°82-40 du 16 janvier 1982 - art. 2 (V)
-	  - Loi n°82-155 du 11 février 1982 - art. 39 (V)
-	  - Ordonnance n°82-270 du 26 mars 1982 - art. 9 (V)
-	  - Ordonnance n°82-283 du 26 mars 1982 - art. 1 (M)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 4 (Ab)
-	  - Ordonnance n°82-290 du 30 mars 1982 - art. 5 (MMN)
-	  - Décret n°82-445 du 28 mai 1982 - art. 1 (M)
-	  - Décret n°82-628 du 21 juillet 1982 - art. 15 (V)
-	  - Décret n°82-629 du 21 juillet 1982 - art. 5 (V)
-	  - Décret n°82-804 du 22 septembre 1982 - art. 10 (Ab)
-	  - Loi n°82-939 du 4 novembre 1982 - art. 2 (MMN)
-	  - Décret n°82-1054 du 13 décembre 1982 - art. 2 (Ab)
-	  - Décret n°82-1055 du 16 décembre 1982 - art. 1 (Ab)
-	  - Décret n°83-397 du 19 mai 1983 - art. 21 (M)
-	  - Décret n°83-398 du 19 mai 1983 - art. 12 (Ab)
-	  - Décret n°83-502 du 17 juin 1983 - art. 2 (Ab)
-	  - Décret n°83-502 du 17 juin 1983 - art. 3 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 4 (Ab)
-	  - Décret n°83-976 du 10 novembre 1983 - art. 7 (Ab)
-	  - Décret n°85-475 du 26 avril 1985 - art. 17 (Ab)
-	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
-	  - Décret n°85-916 du 16 août 1985 - art. 4 (V)
-	  - Décret n°85-932 du 30 août 1985 - art. 15 (V)
-	  - Décret n°85-960 du 11 septembre 1985 - art. 5 (V)
-	  - Ordonnance n°2016-160 du 18 février 2016 - art. 1 (V)
-	  - Code de la sécurité sociale. - art. L114-15 (VD)
-	  - Code de la sécurité sociale. - art. R351-12 (V)
-	  - Code de la sécurité sociale. - art. R351-13 (V)
-	  - Code de la sécurité sociale. - art. R531-16 (Ab)
-	  - Code de la sécurité sociale. - art. R532-2 (M)
-	  - Code de la sécurité sociale. - art. R755-11-1 (Ab)
-	  - Code du travail - art. D351-4 (Ab)
-	  - Code du travail - art. D351-7 (Ab)
-	  - Code du travail - art. L351-17-1 (AbD)
-	  - Code du travail - art. L351-18 (AbD)
-	  - Code du travail - art. L351-22 (M)
-	  - Code du travail - art. L351-3 (MMN)
-	  - Code du travail - art. R351-29 (VT)
-	  - Code du travail - art. R833-7 (VT)
-	  - Code rural ancien - art. 1031 (M)
-	  - Livre des procédures fiscales - art. L134 A (M)
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 20
-	  - Code du travail - art. L351-19 (T)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L351-15 (M)
-	  - Code du travail - art. L351-15 (P)
-
 	**Cite**:
 
-	  - Code du travail L351-1 A L351-21
-
-
-##### DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
-
-###### Article L351-18
-
-Dans le champ d'application territorial défini à l'article L. 351-10 ci-dessus, les agents civils non fonctionnaires de
-l'Etat et de ses établissements publics, administratifs, ainsi que les agents non titulaires des collectivités locales et des
-autres établissements publics administratifs, ont droit, en cas de licenciement et à condition d'avoir été employés de
-manière permanente, à une allocation dont les conditions d'attribution et de calcul analogues à celles de l'allocation de la
-section précédente sont déterminées par décret en Conseil d'Etat.
-
-Cette allocation est servie par la collectivité ou l'organisme employeur.
-
-Les dispositions de l'alinéa précédent sont également applicables aux personnels qui ont accompli un service continu pendant
-une durée déterminée alors même qu'ils n'ont pas été employés à titre permanent. Les catégories de personnels intéressées,
-les conditions d'ouverture du droit à l'allocation et notamment la durée de service continu exigé sont déterminées par voie
-réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 30 décembre 1970 - art. 11 ter (V)
-	  - Décret n°46-2880 du 10 décembre 1946 - art. 31-4 (Ab)
-	  - Loi n°77-704 du 5 juillet 1977 - art. 1 (V)
-	  - Loi n°78-698 du 6 juillet 1978 - art. 1 (P)
-	  - Décret n°79-169 du 2 mars 1979 - art. 6 (V)
-	  - Décret n°82-940 du 4 novembre 1982 - art. 1 (Ab)
-	  - Décret n°82-991 du 24 novembre 1982 - art. 1 (V)
-	  - Décret n°83-553 du 30 juin 1983 - art. 1 (V)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L124-11 (M)
-	  - Code du travail - art. L311-7 (VT)
-	  - Code du travail - art. L351-17 (M)
-	  - Code du travail - art. L351-19 (T)
-	  - Code du travail - art. L351-20 (P)
-	  - Code du travail - art. L365-3 (VT)
-	  - Code du travail - art. R312-6 (VT)
-	  - Code du travail - art. R351-15 (VT)
-	  - Code du travail - art. R351-29 (VT)
-	  - Code du travail - art. R351-30 (VT)
-	  - Code du travail - art. R351-33 (VT)
-	  - Code du travail - art. R351-38 (VT)
-	  - Code du travail - art. R351-39 (M)
-	  - Code du travail - art. R833-7 (VT)
-	  - Livre des procédures fiscales - art. L134 A (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-580 du 13 juillet 1967 - art. 21, v. init.
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982
-	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°82-940 du 4 novembre 1982 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 10 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 11 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 12 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 13 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 14 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 15 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 16 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 17 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 18 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 8 (V)
-	  - TXT_SOURCE: Décret n°82-991 du 24 novembre 1982 - art. 9 (V)
-	  - TXT_ASSOCIE: Code du travail - art. R351-39 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail L351-10 A L351-17
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L351-16 (M)
-	  - Code du travail - art. L351-16 (P)
-
-
-###### Article L351-20
-
-Les prestations prévues aux articles L. 351-18 et L. 351-19 sont versées, déduction faite, le cas échéant, des allocations
-d'assurance pour perte d'emploi relevant de régimes spéciaux de garantie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 23
-	  - Code du travail - art. L351-21 (T)
-
-	**Cité par**:
-
-	  - Loi n°82-939 du 4 novembre 1982 - art. 1 (VT)
-	  - Loi n°2006-339 du 23 mars 2006 - art. 18 (V)
-	  - Arrêté du 17 janvier 2007 - art. 2 (V)
-	  - Décret n°2007-1940 du 26 décembre 2007 - art. 3 (V)
-	  - Code de l'action sociale et des familles - art. L214-7 (VT)
-	  - Code de l'action sociale et des familles - art. L262-11 (V)
-	  - Code de l'action sociale et des familles - art. R262-6 (V)
-	  - Code de la sécurité sociale. - art. L524-5 (VT)
-	  - Code de la sécurité sociale. - art. R524-3 (VT)
-	  - Code du travail - art. L311-7 (VT)
-	  - Code du travail - art. L365-1 (VT)
-	  - Code du travail - art. L832-9 (AbD)
-	  - Code du travail - art. R351-12 (VT)
-	  - Code du travail - art. R351-13 (VT)
-	  - Code du travail - art. R351-17 (VT)
-	  - Code du travail - art. R351-19 (VT)
-	  - Code du travail - art. R351-25 (P)
-	  - Code du travail - art. R351-35 (VT)
-	  - Code du travail - art. R833-7 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L351-18 (T)
-	  - Code du travail - art. L351-19 (MMN)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
+	  - Code du travail L351-1 A L351-11-2
 
 
 #### REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .
 
 ###### Article L352-3
 
-Les allocations spéciales aux travailleurs sans emploi versées pour l'application d'un accord agréé par le ministre,
-conformément à l'article L. 352-2, sont insaisissables et incessibles dans les conditions fixées aux articles L. 145-1 à L.
-145-3 du présent code.
+Les prestations mentionnées aux articles L. 351-5 et L. 351-6 sont insaisissables et incessibles dans les conditions fixées
+aux articles L. 145-1 à L. 145-3 du présent code. Elles sont exonérées du versement forfaitaire sur les salaires et des
+cotisations de sécurité sociale //LOI  1129 28-12-1979 : sous réserve de l'article 12 de l'ordonnance n° 67-706 du 21 août
+1967, de l'article L. 3-2 du code de la sécurité sociale et de l'article 1031 du code rural// ; les régles fixées à
+l'articles 158-5 du code général des impôts leurs sont applicables.
 
-Elles sont exonérées du versement forfaitaire sur les salaires et des cotisations de sécurité sociale ; les règles fixées à
-l'article L. 158-5 du code général des impôts leur sont applicables.
+Les contributions des employeurs prévues à l'article L. 351-12 ne sont passibles ni du versement forfaitaire sur les salaires
+ni des cotisations de sécurité sociale. Elles sont déductibles pour l'établissement de l'impôt sur le revenu des personnes
+physiques ou de l'impôt sur des sociétés dû par ces employeurs.
 
-Les contributions payées par les employeurs en vertu des accords prévus au premier alinéa du présent article et destinées à
-financer le versement des allocations ne sont passibles ni du versement forfaitaire sur les salaires ni des cotisations de
-sécurité sociale. Elles sont déductibles, pour l'établissement de l'impôt sur le revenu des personnes physiques ou de l'impôt
-sur les sociétés dû par ces employeurs.
-
-Les contributions payées dans les mêmes conditions par les travailleurs sont déductibles pour l'établissement de la surtaxe
-progressive due par les intéressés.
+Les contributions payées dans les mêmes conditions par les travailleurs sont déductibles pour l'établissement de l'impôt sur
+le revenu des personnes physiques dû par les intéressés.
 
 Les dispositions des alinéas 2 et 3 ci-dessus sont applicables aux allocations et contributions versées en vue d'indemniser
-la privation partielle d'emploi lorsque cette indemnisation résulte d'accords professionnels nationaux ou régionaux.
+la privation partielle d'emploi, lorsque cette indemnisation résulte d'accords professionnels, ou interprofessionnels,
+nationaux ou régionaux.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 158-5
-	  - Code du travail - art. L352-2 (M)
-	  - Code du travail L145-1 A L145-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
+	  - CGI 158 AL. 5
+	  - Ordonnance 67-706 1967-08-21
+	  - Code du travail - art. L351-12 (M)
+	  - Code du travail - art. L351-5 (M)
+	  - Code du travail - art. L351-6 (M)
+	  - Code du travail L351-5, L351-6, L351-12, L145-1 A L145-3
+	  - Code de la sécurité sociale L3-2
+	  - Code rural 1031
 
 	**Cité par**:
 
@@ -28053,148 +28374,13 @@ la privation partielle d'emploi lorsque cette indemnisation résulte d'accords p
 	  - Code du travail - art. R322-1 (VT)
 	  - Code du travail - art. R322-7-2 (VT)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 1959-01-07 ART. 4
-	  - Ordonnance 67-580 1967-07-13 ART. 25
+	  - Loi n°79-1129 1979-12-28 ART. 8 JORF 29 DECEMBRE 1979
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la sécurité sociale. - art. R351-12 (M)
-
-
-###### Article L352-4
-
-Un arrêté conjoint des ministres chargés des finances et du travail détermine les mesures propres à assurer la sécurité et la
-liquidité des réserves des caisses instituées en vertu de l'accord prévu à l'article L. 352-2 et présenté à l'agrément.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. D352-3 (VT)
-	  - Code du travail - art. D352-7 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L352-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5427-10 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance  1959-01-07 ART. 5
-
-
-###### Article L352-5
-
-Les conditions de contrôle auquel seront soumis les organismes créés par des accords agréés suivant la procédure fixée à
-l'article L. 352-2 sont déterminées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L352-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5427-9 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Anciens textes**:
-
-	  - Ordonnance  1959-01-07 ART. 6
-
-
-### TRAVAILLEURS PRIVES D'EMPLOIS
-
-#### GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
-
-##### DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
-
-###### Article L351-19
-
-Dans le champ d'application territorial défini à l'article L. 351-10, les salariés des entreprises, sociétés et organismes
-définis à l'article 164-1 a de l'ordonnance n. 58-1374 du 30 décembre 1958, les salariés relevant soit des établissements
-publics à caractère industriel et commercial des collectivités locales, soit des sociétés d'économie mixte dans lesquelles
-ces collectivités ont une participation majoritaire, ainsi que les salariés non statutaires des services à caractère
-industriel et commercial gérés par les chambres de commerce et d'industrie ainsi que, nonobstant l'article L. 351-18 ci-
-dessus,  : les salariés non statutaires des chambres d'agriculture et les salariés des établissements et services d'utilité
-agricole de ces chambres ont droit, en cas de licenciement, à une allocation dont les conditions d'attribution et de calcul
-sont identiques à celles de l'allocation de la section précédente.
-
-Les employeurs susindiqués qui ne relèvent pas du régime mentionné à l'article L. 351-11 ou qui n'y adhéreraient pas assurent
-le service de cette allocation soit directement, soit par l'intermédiaire des institutions citées à l'article L. 351-11 ci-
-dessus, en vertu d'une convention conclue avec elles.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°46-2880 du 10 décembre 1946 - art. 31-4 (Ab)
-	  - Arrêté du 30 décembre 1970 - art. 11 ter (V)
-	  - Loi n°82-1 du 4 janvier 1982 - art. 6 (Ab)
-	  - Ordonnance n°84-198 du 21 mars 1984 - art. 10 (V)
-	  - Décret n°84-344 du 7 mai 1984 - art. 1 (V)
-	  - Décret n°85-566 du 31 mai 1985 - art. 1 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis D (M)
-	  - Code de la construction et de l'habitation. - art. R351-13 (M)
-	  - Code de la sécurité sociale. - art. L131-2 (V)
-	  - Code de la sécurité sociale. - art. R532-2 (M)
-	  - Code du travail - art. D322-14 (M)
-	  - Code du travail - art. D351-3 (M)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L351-20 (P)
-	  - Code du travail - art. R351-18 (T)
-	  - Code du travail - art. R351-21 (T)
-	  - Code du travail - art. R351-50 (M)
-	  - Code du travail - art. R351-53 (M)
-
-	**Cite**:
-
-	  - Ordonnance 58-1374 1958-12-30 ART. 164-1 a
-	  - Code du travail - art. L351-10 (M)
-	  - Code du travail - art. L351-11 (M)
-	  - Code du travail - art. L351-18 (T)
-	  - Code du travail L351-10 A L351-17
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 22
-	  - Loi n°72-1207 1972-12-23
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984
-	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°84-344 du 7 mai 1984 - art. 3 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L351-17 (M)
-	  - Code du travail - art. L351-17 (T)
 
 	**Codifié par**:
 
@@ -47751,6 +47937,28 @@ adaptations nécessaires à leur application dans les départements d'outre-mer.
 	  - Code du travail L324-9 A L324-15
 
 
+#### Chapitre III : Garantie de ressources des travailleurs privés d'emploi.
+
+###### Article L833-1
+
+Un décret en Conseil d'Etat apportera aux dispositions du titre V du livre III du présent code les adaptations nécessaires à
+leur application dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 67-580 1967-07-13 ART. 26
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5524-10 (VD)
+
+
 ### Titre VIII : Pénalités
 
 #### Chapitre II : Réglementation du travail.
@@ -47847,32 +48055,6 @@ celle mentionnée sur ladite carte.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code du travail - art. R883-1 (V)
-
-
-#### GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
-
-###### Article L833-1
-
-Un décret en Conseil d'Etat apportera aux dispositions des articles L. 351-1 à L. 351-18 les adaptations nécessaires à leur
-application dans les départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 67-580 1967-07-13 ART. 26
-
-	**Codifié par**:
-
-	  - Décret n°73-1047 1973-11-15
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L5524-10 (VD)
-
-	**Cite**:
-
-	  - Code du travail L351-1 A L351-18
 
 
 ## Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
