@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1981-11-14
+Version Consolidée au 1981-12-13
 
 # Partie législative ancienne
 
@@ -108181,6 +108181,261 @@ travail ; il pourra notamment limiter le nombre de personnes habilitées à effe
 
 
 ## Livre V : Conflits du travail
+
+### Titre Ier : Conflits individuels - Conseils de prud'hommes
+
+#### Chapitre IV : Statut des conseillers prud'hommes.
+
+###### Article D514-5
+
+L'organisme chargé du stage doit délivrer au salarié une attestation constatant la fréquentation effective du stage par
+l'intéressé. Cette attestation est remise à l'employeur au moment de la reprise du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Créé par**:
+
+	  - Décret  n°2007-483 du 30 mars 2007 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D1442-8 (M)
+
+
+###### Article D514-6
+
+Les conseillers prud'hommes salariés bénéficiant des congés prévus à l'article D. 514-4 ne sont pas pris en compte pour la
+fixation du nombre des bénéficiaires du congé de formation, tel qu'il résulte des articles L. 930-1-2, L. 930-1-3 et L.
+930-1-8 du code du travail, ni pour celle du congé d'éducation ouvrière, tel qu'il résulte de l'article L. 451-1 du code du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 du 15 novembre 1973, v. init.
+
+	**Créé par**:
+
+	  - Décret n°81-1095 du 11 décembre 1981 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. D1442-9 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. D514-4
+	  - Code du travail - art. L451-1
+	  - Code du travail - art. L930-1-2
+	  - Code du travail - art. L930-1-3
+	  - Code du travail - art. L930-1-8
+
+
+### Titre Ier : Conflits individuels
+
+#### Conseils de prud'hommes
+
+##### Chapitre IV : Statut des conseillers prud'hommes.
+
+###### Article D514-1
+
+La formation des conseillers prud'hommes peut être assurée [*organismes compétents*] :
+
+a) Par des établissements publics ou instituts de formation des personnels de l'Etat ;
+
+b) Par des établissements publics d'enseignement supérieur ;
+
+c) Par des organismes privés à but non lucratif rattachés aux organisations professionnelles et aux organisations syndicales
+les plus représentatives au plan national, se consacrant exclusivement à ladite formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-1095 du 11 décembre 1981 - art. 1 () JORF 13 DECEMBRE 1981
+
+	**Cité par**:
+
+	  - Arrêté du 2 juillet 2003 - art. 1 (V)
+	  - Arrêté du 2 juillet 2003 - art. 2 (V)
+	  - Décret n°2008-822 du 21 août 2008 - art. 1 (V)
+	  - Code du travail - art. D514-2 (VT)
+	  - Code du travail - art. D514-3 (VT)
+	  - Code du travail - art. D514-4 (VT)
+
+
+###### Article D514-2
+
+Pour bénéficier des dispositions de l'article D. 514-3 et pour ouvrir aux conseillers prud'hommes salariés les droits prévus
+à l'article L. 514-1, 3e alinéa, les établissements et organismes [*de formation*] mentionnés aux b et c de l'article D.
+514-1 doivent être agréés par arrêté du ministre chargé du travail [*condition d'exercice*].
+
+L'agrément est donné pour une période de trois ans [*durée*]. Sans préjudice de la dénonciation éventuelle des conventions
+prévues à l'article D. 514-3, il peut être retiré à la fin de chaque année civile en fonction des résultats des contrôles
+effectués.
+
+L'établissement ou l'organisme demandeur présente un dossier établi conformément à un modèle fixé par arrêté du ministre de
+la justice et du ministre chargé du travail.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1981-12-11 : MODELE DE DOSSIER D'AGREMENT
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. Annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. Annexe 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-1095 du 11 décembre 1981 - art. 1 () JORF 13 DECEMBRE 1981
+
+	**Cite**:
+
+	  - Code du travail - art. D514-1 (M)
+	  - Code du travail - art. D514-3 (M)
+	  - Code du travail - art. L514-1 (M)
+
+
+###### Article D514-3
+
+Des conventions annuelles sont conclues entre les établissements et organismes [*de formation*] mentionnés à l'article D.
+514-1 et le ministre chargé du travail, dans la limite des crédits prévus à cet effet. Chaque convention fixe, à titre
+prévisionnel [*mentions obligatoires*] :
+
+La nature, le programme, la durée, ainsi que le nombre de journées par stagiaire ;
+
+Les moyens pédagogiques et techniques mis en oeuvre ;
+
+L'aide financière globale de l'Etat.
+
+Cette aide financière est calculée sur la base d'un montant forfaitaire par jour de formation et par stagiaire fixé par
+arrêté du ministre chargé du travail et du ministre chargé du budget. Elle comprend notamment les dépenses d'enseignement et
+d'organisation matérielle des stages ainsi que les frais de déplacement et de séjour des stagiaires.
+
+Les conventions précisent également les modalités du contrôle, notamment administratif et financier, des stages de formation
+donnant lieu au versement de l'aide financière de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-1095 du 11 décembre 1981 - art. 1 () JORF 13 DECEMBRE 1981
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. Annexe 1 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 1981 - art. Annexe 2 (V)
+	  - TXT_SOURCE: Arrêté du 25 février 1987
+	  - TXT_SOURCE: Arrêté du 25 février 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 février 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 février 1987 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 janvier 1989
+	  - TXT_SOURCE: Arrêté du 16 janvier 1989 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 janvier 1989 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 janvier 1989 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 8 janvier 1990 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 8 février 1999
+	  - TXT_ASSOCIE: Arrêté du 8 février 1999 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 8 février 1999 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 8 février 1999 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 25 février 1987 - art. 1 (Ab)
+	  - Arrêté du 21 avril 1988 - art. 1 (Ab)
+	  - Arrêté du 16 janvier 1989 - art. 1 (Ab)
+	  - Arrêté du 8 janvier 1990 - art. 1 (Ab)
+	  - Arrêté du 24 janvier 1991 - art. 1 (Ab)
+	  - Arrêté du 19 février 1992 - art. 1 (Ab)
+	  - Arrêté du 28 décembre 1992 - art. 1 (Ab)
+	  - Arrêté du 5 janvier 1994 - art. 1 (Ab)
+	  - Arrêté du 2 janvier 1995 - art. 1 (Ab)
+	  - Arrêté du 29 février 1996 - art. 1 (Ab)
+	  - Arrêté du 15 janvier 1997 - art. 1 (Ab)
+	  - Arrêté du 21 janvier 1998 - art. 1 (Ab)
+	  - Arrêté du 8 février 1999 - art. 1 (V)
+	  - Décret n°2003-803 du 26 août 2003 - art. 3 (Ab)
+	  - Arrêté du 21 mars 1985 - art. 1 (Ab)
+	  - Arrêté du 21 mars 1985 - art. 2 (Ab)
+	  - Arrêté du 28 février 1986 - art. 1 (Ab)
+	  - Arrêté du 28 mars 1984 - art. 1 (P)
+	  - Code de l'action sociale et des familles - art. R315-66 (M)
+	  - Code de la santé publique - art. D6144-81 (M)
+	  - Code de la santé publique - art. D714-19-3 (Ab)
+	  - Code du travail - art. D514-2 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. D514-1 (M)
+
+
+###### Article D514-4
+
+La durée totale d'absence d'un conseiller prud'homme salarié pour sa participation à un ou plusieurs stages de formation dans
+les établissements et organismes mentionnés à l'article D. 514-1 ne pourra dépasser au cours d'une même année civile
+l'équivalent de deux semaines.
+
+L'employeur est avisé par l'intéressé, par lettre avec accusé de réception, au moins trente jours à l'avance, en cas de durée
+d'absence égale ou supérieure à trois journées de travail consécutives et au moins quinze jours à l'avance dans les autres
+cas.
+
+La lettre doit préciser la date et la durée du stage ainsi que le nom de l'établissement ou l'organisme responsable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Créé par**:
+
+	  - Décret n°81-1095 du 11 décembre 1981 - art. 1 () JORF 13 DECEMBRE 1981
+
+	**Cite**:
+
+	  - Code du travail - art. D514-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. D514-6 (VT)
+	  - Code du travail - art. D514-7 (VT)
+
 
 ### Titre II : Conflits collectifs
 
