@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1976-07-10
+Version Consolidée au 1976-07-11
 
 # Partie législative ancienne
 
@@ -6123,994 +6123,6 @@ textes, seul le texte rédigé dans la langue du salarié étranger peut être i
 	**Anciens textes**:
 
 	  - Code du travail 1019 al. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-#### REGLES PROPRES AU CONTRAT DE TRAVAIL .
-
-###### Article L122-1
-
-On ne peut engager ses services qu'à temps ou pour une entreprise déterminée.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 8 (V)
-	  - Décret n°83-1267 du 30 décembre 1983 - art. 15 (VT)
-	  - Décret n°2000-118 du 14 février 2000 - art. 14 (V)
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 92 (V)
-	  - Code de la santé publique - art. L6161-7 (Ab)
-	  - Code de la santé publique - art. L715-7 (Ab)
-	  - Code de la sécurité sociale. - art. L241-6-1 (Ab)
-	  - Code du travail - art. D121-3 (Ab)
-	  - Code du travail - art. L122-2 (M)
-	  - Code du travail - art. L122-3 (M)
-	  - Code du travail - art. L122-3-11 (T)
-	  - Code du travail - art. L122-3-12 (AbD)
-	  - Code du travail - art. L122-3-13 (AbD)
-	  - Code du travail - art. L122-3-14 (T)
-	  - Code du travail - art. L122-3-4 (M)
-	  - Code du travail - art. L122-3-5 (T)
-	  - Code du travail - art. L122-3-8 (T)
-	  - Code du travail - art. L152-1-3 (T)
-	  - Code du travail - art. L152-1-4 (AbD)
-	  - Code du travail - art. L322-4-8-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L121-4 (AbD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L152-1-4 (AbD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1020
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-2
-
-La durée du /M/louage de service/M/DECRET 808 1974-09-19 :
-
-contrat de travail// est, sauf convention contraire, réglée suivant l'usage des lieux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-680 1973-07-13 JORF 18 juillet
-	  - Code du travail 1021
-
-	**Transféré par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Arrêté du 11 mai 1984 - art. 1 (V)
-	  - Décret n°84-358 du 11 mai 1984 - art. 2 (V)
-	  - Décret n°84-591 du 4 juillet 1984 - art. 7 (V)
-	  - Décret n°84-1110 du 11 décembre 1984 - art. 7 (V)
-	  - Loi n°95-116 du 4 février 1995 - art. 93 (Ab)
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 1 (Ab)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 4 (V)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 4 (VT)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code de l'action sociale et des familles - art. L344-2-5 (M)
-	  - Code du travail - art. D121-1 (Ab)
-	  - Code du travail - art. D121-3 (Ab)
-	  - Code du travail - art. D322-24 (VT)
-	  - Code du travail - art. L12-10-1 (AbD)
-	  - Code du travail - art. L122-1 (AbD)
-	  - Code du travail - art. L122-3-1 (AbD)
-	  - Code du travail - art. L122-3-12 (AbD)
-	  - Code du travail - art. L122-3-13 (AbD)
-	  - Code du travail - art. L122-3-14 (T)
-	  - Code du travail - art. L122-3-4 (AbD)
-	  - Code du travail - art. L152-1-3 (T)
-	  - Code du travail - art. L152-1-4 (AbD)
-	  - Code du travail - art. L320-2-1 (AbD)
-	  - Code du travail - art. L322-4-12 (VT)
-	  - Code du travail - art. L322-4-14 (T)
-	  - Code du travail - art. L322-4-15-4 (AbD)
-	  - Code du travail - art. L322-4-16 (M)
-	  - Code du travail - art. L322-4-16-1 (AbD)
-	  - Code du travail - art. L322-4-20 (AbD)
-	  - Code du travail - art. L322-4-3 (M)
-	  - Code du travail - art. L322-4-4 (Ab)
-	  - Code du travail - art. L322-4-7 (VT)
-	  - Code du travail - art. L322-4-8 (AbD)
-	  - Code du travail - art. L322-4-8-1 (T)
-	  - Code du travail - art. L322-4-9 (Ab)
-	  - Code du travail - art. L832-2 (VT)
-	  - Code du travail - art. L932-1-1 (VT)
-	  - Code du travail - art. L980-6 (T)
-	  - Code du travail - art. L981-1 (M)
-	  - Code du travail - art. L981-2 (AbD)
-	  - Code du travail - art. L981-4 (VD)
-	  - Code du travail - art. L981-6 (M)
-	  - Code du travail - art. L981-7 (M)
-	  - Code du travail - art. L992-9 (AbD)
-	  - Code du travail - art. R122-3 (M)
-	  - Code rural - art. L718-3 (VD)
-	  - Code rural ancien - art. 1000-6 (Ab)
-	  - Code rural et de la pêche maritime - art. L712-1 (VD)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°85-399 du 3 avril 1985 - art. 8 (V)
-	  - TXT_ASSOCIE: Code du travail - art. L152-1-4 (AbD)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L121-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-3
-
-L'engagement d'un ouvrier ne peut excéder un an [*durée limite*], à moins qu'il ne soit contremaître, conducteur des autres
-ouvriers ou qu'il n'ait un traitement et des conditions stipulés par un acte exprès.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 janvier 1979
-
-	**Cité par**:
-
-	  - Loi n°79-11 du 3 janvier 1979 - art. 8 (V)
-	  - Décret n°99-109 du 18 février 1999 - art. 4 (V)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code du travail - art. D121-2 (Ab)
-	  - Code du travail - art. L121-5 (M)
-	  - Code du travail - art. L122-3-11 (T)
-	  - Code du travail - art. L122-3-12 (T)
-	  - Code du travail - art. L122-3-13 (AbD)
-	  - Code du travail - art. L122-3-14 (T)
-	  - Code du travail - art. L124-2-2 (Ab)
-	  - Code du travail - art. L152-1-3 (T)
-	  - Code du travail - art. L152-1-4 (AbD)
-	  - Code du travail - art. L231-3-1 (AbD)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 8 (V)
-	  - TXT_SOURCE: Décret n°99-109 du 18 février 1999 - art. 9 (V)
-	  - TXT_ASSOCIE: Code du travail - art. L152-1-4 (AbD)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L121-6 (Ab)
-	  - Code du travail - art. L1242-6 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-##### RESILIATION DU CONTRAT DE TRAVAIL A DUREE INDETERMINEE .
-
-###### Article L122-5
-
-Dans le cas de résiliation à l'initiative du salarié, l'existence et la durée du délai-congé résultent soit de la loi, soit
-de la convention collective, soit du règlement de travail en agriculture prévu aux articles 983 à 991 du code rural. En
-l'absence de dispositions légales, de convention collective ou de règlement de travail relatifs au délai-congé, cette
-existence et cette durée résultent des usages pratiqués dans la localité et la profession.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-680 1973-07-13 ART. 3
-	  - Code du travail 24 C
-
-	**Modifié par**:
-
-	  - Décret n°74-808 1974-09-19 ART. 4 JORF 29 septembre 1979
-
-	**Cité par**:
-
-	  - Code du travail - art. L122-2 (M)
-	  - Code du travail - art. L122-6 (AbD)
-	  - Code du travail - art. L321-13 (VT)
-	  - Code du travail - art. L321-13-1 (M)
-	  - Code du travail - art. L322-4-6-2 (Ab)
-	  - Code du travail - art. L323-26 (Ab)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R721-5 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1237-1 (VD)
-
-	**Cite**:
-
-	  - Code rural 983 A 991
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-6
-
-Dans le cas de licenciement pour un motif autre qu'une faute grave, le salarié a droit ;
-
-1. S'il justifie chez le même employeur d'une ancienneté de services continus inférieure à six mois à un délai-congé
-déterminé comme il est dit à l'article L. 122-5 ;
-
-2. S'il justifie chez le même employeur d'une ancienneté de services continus comprise entre six mois et moins de deux ans à
-un délai-congé d'un mois ;
-
-3. S'il justifie chez le même employeur d'une ancienneté de services continus d'au moins deux ans, à un délai-congé de deux
-mois.
-
-Les dispositions des 2. et 3. ci-dessus ne sont applicables qu'à défaut de loi, de contrat de travail, de convention
-collective, de règlement de travail en agriculture ou d'usages conduisant soit à un délai-congé, soit à une condition
-d'ancienneté de services, plus favorable pour le travailleur intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-680 1973-07-13
-	  - Code du travail L122-5 AL. 2
-
-	**Modifié par**:
-
-	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
-
-	**Cité par**:
-
-	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
-	  - Loi n°98-1194 du 23 décembre 1998 - art. 41 (V)
-	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
-	  - CODE DES COMMUNES. - art. L422-6 (V)
-	  - Code civil - art. 2101 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code du travail - art. L12-10-1 (AbD)
-	  - Code du travail - art. L122-10 (AbD)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L122-14-13 (VT)
-	  - Code du travail - art. L122-2 (M)
-	  - Code du travail - art. L122-3 (M)
-	  - Code du travail - art. L122-7 (AbD)
-	  - Code du travail - art. L122-8 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L321-4-2 (VT)
-	  - Code du travail - art. L322-4-20 (AbD)
-	  - Code du travail - art. L323-7 (AbD)
-	  - Code du travail - art. L761-4 (AbD)
-	  - Code du travail - art. R122-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-1 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-7
-
-Toute clause d'un contrat individuel ou d'un règlement intérieur fixant un délai-congé inférieur à celui qui résulte des
-dispositions de l'article L. 122-6 ou une condition d'ancienneté de services supérieure à celle qu'énoncent ces dispositions
-est nulle de plein droit [*sanction*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L422-6 (V)
-	  - Code du travail - art. L122-6 (Ab)
-	  - Code du travail - art. L122-8 (M)
-	  - Code du travail - art. R122-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1024 E
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-8
-
-L'inobservation du délai-congé [*sanction*] ouvre droit, sauf faute grave du salarié, à une indemnité compensatrice ne se
-confondant ni avec l'indemnité de licenciement de l'article L. 122-9 ni avec la réparation prévue aux articles L. 122-14-4 et
-L. 122-14-6.
-
-L'inobservation du délai-congé n'a pas, dans ce cas, pour conséquence d'avancer la date à laquelle le contrat prend fin.
-
-En conséquence, la dispense par l'employeur de l'exécution du travail pendant le délai-congé ne doit entraîner jusqu'à
-l'expiration de ce délai aucune diminution des salaires et avantages que le salarié aurait reçus s'il avait accompli son
-travail.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
-
-	**Cité par**:
-
-	  - Loi n°80-1058 du 23 décembre 1980 - art. 8 (Ab)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 18 (M)
-	  - Ordonnance n°2006-433 du 13 avril 2006 - art. 9 (VT)
-	  - CODE DES COMMUNES. - art. L422-6 (V)
-	  - Code civil - art. 2101 (T)
-	  - Code civil - art. 2104 (T)
-	  - Code civil - art. 2331 (V)
-	  - Code civil - art. 2375 (V)
-	  - Code du travail - art. L122-3-1 (M)
-	  - Code du travail - art. L122-32-6 (AbD)
-	  - Code du travail - art. L122-9-1 (AbD)
-	  - Code du travail - art. L143-10 (AbD)
-	  - Code du travail - art. L341-6-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-14-4 (M)
-	  - Code du travail - art. L122-14-6 (Ab)
-	  - Code du travail - art. L122-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-9
-
-Le salarié lié par contrat de travail à durée indéterminée et qui est licencié alors qu'il compte deux ans d'ancienneté
-ininterrompue au service du même employeur [*condition*] a droit, sauf en cas de faute grave à une indemnité minimum de
-licenciement, dont le taux et les modalités de calcul en fonction de la rémunération perçue antérieurement à la rupture du
-contrat de travail sont fixés par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-680 1973-07-13
-	  - Code du travail - art. L122-7 (Ab)
-	  - Code du travail L122-7 AL. 1 (1973)
-
-	**Modifié par**:
-
-	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
-
-	**Cité par**:
-
-	  - Loi n°78-763 du 19 juillet 1978 - art. 17 (V)
-	  - Loi n°80-1058 du 23 décembre 1980 - art. 8 (Ab)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 24 (VT)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 6-2 (VT)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 18 (M)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 45 (V)
-	  - Loi n°84-53 du 26 janvier 1984 - art. 66 (V)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 52 (V)
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 7 (V)
-	  - Loi n°99-586 du 12 juillet 1999 - art. 63 (Ab)
-	  - Loi n°2001-2 du 3 janvier 2001 - art. 9 (V)
-	  - Loi n°2002-6 du 4 janvier 2002 - art. 3 (M)
-	  - Loi - art. 126 (V)
-	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
-	  - Loi n°2005-846 du 26 juillet 2005 - art. 1 (V)
-	  - Ordonnance n°2005-893 du 2 août 2005 - art. 2 (VT)
-	  - Loi n°2006-396 du 31 mars 2006 - art. 8 (V)
-	  - Code civil - art. 2101 (T)
-	  - Code civil - art. 2104 (T)
-	  - Code civil - art. 2331 (V)
-	  - Code civil - art. 2375 (V)
-	  - Code de la sécurité sociale. - art. L161-9 (M)
-	  - Code du travail - art. L122-10 (AbD)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L122-12 (AbD)
-	  - Code du travail - art. L122-14-13 (VT)
-	  - Code du travail - art. L122-14-4 (AbD)
-	  - Code du travail - art. L122-32-6 (AbD)
-	  - Code du travail - art. L122-45-2 (AbD)
-	  - Code du travail - art. L122-8 (AbD)
-	  - Code du travail - art. L122-9-1 (AbD)
-	  - Code du travail - art. L123-5 (AbD)
-	  - Code du travail - art. L321-4-2 (VT)
-	  - Code du travail - art. L341-6-1 (M)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R122-1 (M)
-	  - Code du travail - art. R122-2 (VT)
-	  - Décret n°1986-11-19 du 19 novembre 1986 - art. 1 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2002-785 du 3 mai 2002
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-9 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-10
-
-Pour l'application des 2. et 3. de l'article L. 122-6 [*ancienneté de services continus d'au moins six mois*] et pour celle
-de l'article L. 122-8 les circonstances qui, en vertu soit de dispositions législatives ou réglementaires, soit de
-conventions collectives, soit d'usages, soit de stipulations contractuelles, entraînent la suspension du contrat de travail,
-ne sont pas regardées comme interrompant l'ancienneté du salarié. Toutefois, la période de suspension n'entre pas en compte
-dans la durée d'ancienneté exigée pour bénéficier des dispositions rappelées ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-680 1973-07-13
-	  - Code du travail - art. L122-7 (Ab)
-	  - Code du travail L122-7 AL. 2 (1973)
-
-	**Modifié par**:
-
-	  - Décret n°74-808 1974-09-19 art. 4 JORF 29 septembre 1974
-
-	**Cité par**:
-
-	  - Loi n°2004-1486 du 30 décembre 2004 - art. 18 (VT)
-	  - Code du travail - art. L122-11 (AbD)
-	  - Code du travail - art. L122-23 (AbD)
-	  - Code du travail - art. L263-5 (M)
-	  - Code du travail - art. L721-6 (M)
-	  - Code du travail - art. R122-3 (M)
-	  - Code du travail maritime - art. 102-2 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-9 (Ab)
-	  - Code du travail L122-6 PAR. 2 ET 3
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1234-11 (VD)
-	  - Code du travail - art. L1234-8 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-##### (REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)
-
-###### Article L122-28
-
-A l'expiration du délai de /M/huit semaines ou éventuellement de douze semaines après l'accouchement,/M/LOI  0625
-11-07-1975 :
-
-suspension du contrat prévu au premier alinéa//LOI  0617 09-07-1976 : et au troisième alinéa// de l'article L. 122-26//, la
-femme peut, en vue d'élever son enfant, s'abstenir sans délai-congé et sans avoir de ce fait à payer une indemnité de
-rupture, de reprendre son emploi. Elle doit alors, quinze jours au moins avant le terme de la période de suspension [*délai*]
-avertir son employeur [*condition préalable*]  par lettre recommandée avec demande d'avis de réception qu'elle ne reprendra
-pas son emploi au terme de la suspension de son contrat. En pareil cas, elle peut, dans l'année suivant ce terme, solliciter
-dans les mêmes formes son réembauchage ; l'employeur est alors tenu [*obligation*] pendant un an, de l'embaucher par priorité
-dans les emplois auxquels sa qualification lui permet de prétendre et de lui accorder, en cas de réemploi, le bénéfice de
-tous les avantages qu'elle avait acquis au moment de son départ.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Modifié par**:
-
-	  - Loi n°75-625 1975-07-11 ART. 6 JORF 13 juillet 1975
-
-	**Cité par**:
-
-	  - Loi n°77-766 du 12 juillet 1977 - art. 3 (V)
-	  - Décret n°84-591 du 4 juillet 1984 - art. 10 (V)
-	  - Décret n°84-1110 du 11 décembre 1984 - art. 10 (V)
-	  - Loi n°85-17 du 4 janvier 1985 - art. 7 (Ab)
-	  - Décret n°93-852 du 17 juin 1993 - art. Annexe, art. 23 (Ab)
-	  - Code du travail - art. L122-28-4 (T)
-	  - Code du travail - art. L122-28-7 (AbD)
-	  - Code du travail - art. R122-10 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-26 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 1029 IV
-
-
-##### PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
-
-###### Article L122-26
-
-La femme a le droit de suspendre le contrat de travail pendant une période qui commence six semaines avant la date présumée
-de l'accouchement et se termine huit semaines après la date de celui-ci. Si un état pathologique, attesté [*condition*] par
-certificat médical comme résultant de la grossesse ou des couches, le rend nécessaire, la période de suspension est augmentée
-de la durée de cet état pathologique sans pouvoir excéder huit semaines avant la date présumée de l'accouchement et douze
-semaines après la date de celui-ci.
-
-Quand l'accouchement a lieu avant la date présumée la période de suspension du contrat de travail pourra être prolongée
-jusqu'à l'accomplissement des quatorze semaines de suspension du contrat auxquelles la salariée a droit.
-
-//LOI  0617 09-07-1976 : La femme à qui un service départemental d'aide sociale à l'enfance ou une oeuvre d'adoption
-autorisée confie un enfant en vue de son adoption a le droit de suspendre le contrat de travail pendant une période de huit
-semaines au plus à dater de l'arrivée de l'enfant à son foyer [*point de départ*]//.
-
-La femme devra avertir [*obligation*] l'employeur du motif de son absence et de la date à laquelle elle entend remettre en
-vigueur son contrat de travail.
-
-//LOI  0625 11-07-1975 : Dans le cas où pendant sa grossesse la femme a fait l'objet d'un changement d'affectation [*exigé
-par son état de santé médicalement constaté*] dans les conditions prévues au premier alinéa de l'article L. 122-25-1, elle
-est réintégrée dans l'emploi occupé avant cette affectation lorsqu'elle reprend son travail à l'issue de la période de
-suspension définie au présent article//.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°68-960 du 11 octobre 1968 - art. 11 bis (V)
-	  - Loi n°84-2 du 2 janvier 1984 - art. 16 (Ab)
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 10 (MMN)
-	  - Ordonnance n°86-1134 du 21 octobre 1986 - art. 2 (MMN)
-	  - Décret n°87-544 du 17 juillet 1987 - art. 11 (MMN)
-	  - Décret n°89-392 du 14 juin 1989 - art. 2 (V)
-	  - Décret n°90-1215 du 20 décembre 1990 - art. 92 (V)
-	  - Décret n°95-182 du 21 février 1995 - art. 15 (V)
-	  - Loi n°2004-1370 du 20 décembre 2004 - art. 32 (V)
-	  - Décret n°2008-239 du 6 mars 2008 - art. 1
-	  - Arrêté du 19 février 1986 - art. Annexe (V)
-	  - Code de l'action sociale et des familles - art. R243-13 (V)
-	  - Code de la sécurité sociale. - art. L571-3 (Ab)
-	  - Code du service national - art. R*233-1 (V)
-	  - Code du travail - art. D341-5-15 (V)
-	  - Code du travail - art. L122-25-1-1 (AbD)
-	  - Code du travail - art. L122-25-2 (AbD)
-	  - Code du travail - art. L122-26-1 (AbD)
-	  - Code du travail - art. L122-27 (AbD)
-	  - Code du travail - art. L122-28 (AbD)
-	  - Code du travail - art. L122-28-1 (AbD)
-	  - Code du travail - art. L123-2 (AbD)
-	  - Code du travail - art. L124-4-3 (AbD)
-	  - Code du travail - art. L223-1 (AbD)
-	  - Code du travail - art. L226-1 (AbD)
-	  - Code du travail - art. L441-2 (AbD)
-	  - Code du travail - art. L442-4 (AbD)
-	  - Code du travail - art. L620-10 (Ab)
-	  - Code du travail - art. R122-9 (VT)
-	  - Code du travail - art. R442-6 (M)
-
-	**Modifié par**:
-
-	  - Loi n°75-625 1975-07-11 ART. 4 JORF 13 juillet 1975
-	  - Loi n°76-617 du 9 juillet 1976 - art. 7 () JORF 10 juillet 1976
-
-	**Cite**:
-
-	  - Code du travail - art. L122-25-1 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 1029 II
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-31
-
-Un décret en Conseil d'Etat détermine les modalités d'application des dispositions /M/qui précèdent/M/LOI  0766 12-07-1977 :
-des articles L. 122-25 à L. 122-28-4// et le régime des sanctions applicables à l'employeur qui a méconnu lesdites
-dispositions.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1225-72 (VD)
-
-	**Cité par**:
-
-	  - Code du travail - art. L773-2 (M)
-
-	**Anciens textes**:
-
-	  - Code du travail 1029 VI
-
-	**Cite**:
-
-	  - Code du travail L122-25 A L122-28-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-##### REGLEMENT INTERIEUR .
-
-###### Article L122-33
-
-L'établissement d'un règlement intérieur est obligatoire [*champ d'application*] :
-
-1. Dans les entreprises industrielles et commerciales employant habituellement au moins vingt salariés [*effectifs*];
-
-2. Dans les établissements mentionnés à l'article L. 321-2 et dans les conditions déterminées audit article;
-
-3. Dans les offices  publics et ministériels pour les employeurs des professions libérales, les syndicats professionnels et
-associations de quelque nature que ce soit, employant habituellement au moins vingt salariés.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. D223-5 (VT)
-	  - Code du travail - art. L230-3 (AbD)
-	  - Code du travail - art. R122-16 (VT)
-	  - Code du travail - art. R122-17 (T)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. L321-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 a
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-34
-
-Un règlement spécial peut être établi pour chacune des divisions de l'entreprise ou pour chaque catégorie de personnel.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. L122-37 (AbD)
-	  - Code du travail - art. L122-39 (AbD)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 a al. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-35
-
-Un règlement intérieur ne peut être introduit qu'après avoir été soumis [*condition préalable*] à l'avis du comité
-d'entreprise, s'il existe, ou, à défaut, à l'avis des délégués du personnel.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. L122-37 (AbD)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 a AL. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-36
-
-Le règlement intérieur doit indiquer la date [*mention obligatoire*] à partir de laquelle il entre en vigueur. Cette date
-doit être postérieure de deux semaines à l'accomplissement des formalités de dépôt et de publicité.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. L122-37 (AbD)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. R122-14 (M)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1321-4 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 a AL. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-37
-
-En même temps qu'il fait l'objet des mesures de publicité prévues à l'article précédent, le règlement intérieur doit être
-adressé à l'inspecteur du travail et de la main-d'oeuvre [*contrôle*].
-
-Celui-ci peut exiger le retrait ou la modification des dispositions du règlement intérieur contraires aux lois et règlements.
-
-La décision de l'inspecteur du travail peut faire l'objet d'un recours devant le directeur régional du travail et de la main-
-d'oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. R122-15 (M)
-	  - Code du travail - art. R122-16 (Ab)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 a AL. 7, 8 ET 9
-
-
-###### Article L122-38
-
-Les dispositions précédentes [*contrôle de l'inspecteur du travail*] s'appliquent également à toute modification apportée à
-un règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. L611-1 (M)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 a AL. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-
-###### Article L122-39
-
-Il est interdit à tout employeur de sanctionner par des amendes les manquements aux prescriptions d'un règlement intérieur.
-
-/A/Toutefois, les amendes sont licites lorsque [*conditions*]
-
-le directeur régional du travail et de la main-d'oeuvre :
-
-1. A autorisé le maintien d'un régime d'amendes là où il existait antérieurement à la promulgation de la loi du 5 février
-1932 ;
-
-2. Autorise la création ou l'institution d'un tel régime dans des établissements créés après la promulgation de cette loi. Le
-directeur régional du travail et de la main-d'oeuvre prend sa décision après avis des organisations patronales et ouvrières
-de la profession et de la région/A/Loi 0753 17-07-1978//.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 51
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Décret n°86-1103 du 2 octobre 1986 - art. 20 (Ab)
-	  - Code du travail - art. L122-40 (Ab)
-	  - Code du travail - art. L122-41 (M)
-	  - Code du travail - art. R152-4 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L122-41 (M)
-	  - TXT_ASSOCIE: Code du travail - art. R152-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1321-5 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 AL. 1 ET 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Cite**:
-
-	  - Loi n°1932-02-05
-
-
-###### Article L122-40
-
-Lorsqu'elles sont autorisées [*par le directeur régional du travail et de la main-d'oeuvre*] en application des dispositions
-précédentes les amendes ne peuvent être prévues qu'aux conditions ci-après :
-
-1. Elles ne peuvent être prescrites que pour des manquements à la discipline et aux prescriptions relatives à l'hygiène et à
-la sécurité des travailleurs.
-
-Leur taux doit être fixé par un règlement intérieur régulièrement établi ;
-
-2. Le total des amendes infligées dans la même journée ne peut excéder [*limite*] le quart du salaire journalier ;
-
-3. Le produit des amendes est versé dans une caisse de secours au profit du personnel.
-
-//DECR.1046 15-11-1973 ART. 5 : Les amendes infligées par l'employeur au personnel dans les conditions fixées par l'article
-L. 121-39 pour manquement au règlement intérieur sont mentionnées sur un registre spécial, avec indication de leur
-attribution.
-
-Ce registre doit [*obligation*] être constamment tenu à la disposition des inspecteurs du travail et de la main-d'oeuvre
-[*contrôle*]//.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 51
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L122-39 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L122-41 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1331-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 AL. 3, 4, 5 ET 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1046 1973-11-15
-
-	**Modifié par**:
-
-	  - Décret n°73-1046 1973-11-15 ART. 5 JORF 21 novembre 1973
-
-
-###### Article L122-42
-
-L'autorisation [*amendes pour manquements au règlement intérieur*] est de droit lorsque les amendes sanctionnent
-exclusivement l'inobservation des prescriptions législatives et réglementaires relatives à l'hygiène et à la sécurité des
-travailleurs et lorsqu'il est en outre satisfait aux autres conditions auxquelles l'autorisation est subordonnée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 51
-
-	**Cité par**:
-
-	  - Loi n°82-689 du 4 août 1982 - art. 5 (V)
-	  - Code du travail - art. L152-1 (M)
-	  - Code du travail - art. L152-1-3 (T)
-	  - Code du travail - art. L152-1-4 (T)
-	  - Code du travail - art. L152-1-5 (AbD)
-
-	**Nouveaux textes**:
-
-	  - Code du travail - art. L1331-2 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code du travail - art. L152-1-5 (AbD)
-
-	**Anciens textes**:
-
-	  - Code du travail 1022 b AL. 9
 
 	**Codifié par**:
 
@@ -20291,6 +19303,62 @@ Miquelon.
 
 ##### SECTION 1 : TRAVAILLEURS ETRANGERS.
 
+###### Article L341-7
+
+Sans préjudice des poursuites judiciaires qui pourront être intentées à son encontre, l'employeur qui aura occupé un
+travailleur étranger en violation des dispositions de l'article L. 341-6, premier alinéa, sera tenu d'acquitter une
+contribution spéciale au bénéfice de l'office national d'immigration. Le montant de cette contribution spéciale ne saurait
+être inférieur à 500 fois le taux horaire du minimum garanti prévu à l'article L. 141-8.
+
+Un décret en Conseil d'Etat fixera les modalités d'application du présent article.
+
+**Nota:**
+
+Nota - Code du travail L831-1 : Dispositions applicables dans les départements d'outre-mer ainsi qu'à Saint-Pierre-et-
+Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 21 quinquies (Ab)
+	  - Code de justice administrative. - art. R312-16 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L626-1 (V)
+	  - Code des tribunaux administratifs et des cours adm - art. R60 (Ab)
+	  - Code du travail - art. D341-1 (M)
+	  - Code du travail - art. L341-11 (AbD)
+	  - Code du travail - art. L341-6-4 (AbD)
+	  - Code du travail - art. L831-1 (AbD)
+	  - Code du travail - art. R341-22 (VT)
+	  - Code du travail - art. R341-27 (VT)
+	  - Code du travail - art. R341-28 (M)
+	  - Code du travail - art. R341-29 (VT)
+	  - Code du travail - art. R341-33 (T)
+	  - Code du travail - art. R341-34 (T)
+	  - Code du travail - art. R341-35 (T)
+	  - Code du travail - art. R364-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°90-1008 du 8 novembre 1990
+	  - TXT_SOURCE: Décret n°90-1008 du 8 novembre 1990 - art. 3 (V)
+	  - TXT_ASSOCIE: Code du travail - art. R364-1 (M)
+	  - TXT_ASSOCIE: Code du travail R364-1 : SANCTIONS PENALES
+
+	**Cite**:
+
+	  - Code du travail - art. L141-8 (AbD)
+	  - Code du travail L341-6 AL. 1
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L8253-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
 ###### Article L341-7-1
 
 Il est interdit à tout employeur de se faire rembourser par un travailleur étranger soit la redevance forfaitaire qu'il a
@@ -20950,6 +20018,55 @@ commandes pour des ventes au détail [*condition*].
 
 
 #### Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
+
+###### Article L364-1
+
+Toute infraction aux dispositions de l'article L. 341-3 (alinéa 3) est punie d'une amende de 2.000 F à 20.000 F (1). 
+
+La récidive est punie d'une amende de 4.000 F à 40.000 F (1) et d'un emprisonnement de deux mois à six mois ou de l'une de
+ces deux peines seulement.
+
+Le tribunal peut prononcer, en outre, l'interdiction d'exercer l'activité d'entrepreneur de travail temporaire pour une durée
+de deux ans à dix ans. 
+
+Sont passibles d'une amende de 4.000 F à 30.000 F (1) et d'un emprisonnement de deux mois à six mois, ou de l'une de ces deux
+peines seulement, ceux qui, directement ou par personne interposée, contreviennent à l'interdiction prononcée en application
+de l'alinéa qui précède.
+
+Dans tous les cas, le tribunal peut ordonner, aux frais de la personne condamnée, l'affichage du jugement aux portes des
+établissements de l'entreprise et sa publication dans les journaux qu'il désigne.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+Nota : Loi 93-1313 du 20 décembre 1993 art. 34 : la présente loi fait référence à la loi 92-1336 du 16 décembre 1992 (entrée
+en vigueur du code pénal) qui dispose dans son article 373 que la présente version de l'article L364-1 reste en vigueur
+jusqu'au 1er mars 1995 pour les Territoires d'Outre-Mer et la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-617 du 5 juillet 1972 - art. 43, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Code du travail - art. L364-7 (AbD)
+	  - Code du travail - art. L364-8 (AbD)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L5224-1 (VD)
+
+	**Cite**:
+
+	  - Code du travail L341-3 AL. 3
+
 
 ###### Article L364-4
 
