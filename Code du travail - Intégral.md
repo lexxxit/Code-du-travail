@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1977-03-31
+Version Consolidée au 1977-04-15
 
 # Partie législative ancienne
 
@@ -98940,6 +98940,30 @@ admission en stage.
 	  - Code du travail - art. D5213-16 (Ab)
 
 
+###### Article D323-6
+
+Le montant de la prime de reclassement est fixé à une somme comprise entre  500 et 1.000 F en fonction notamment des
+ressources dont peut disposer le bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1048 1973-11-15
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
+
+	**Cité par**:
+
+	  - Code du travail - art. D323-8 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. R323-32 (M)
+
+
 ###### Article D323-7
 
 La demande d'attribution de la prime de reclassement est adressée par l'intéressé à la commission  technique d'orientation et
@@ -101119,39 +101143,6 @@ Le préfet est chargé d'organiser le secrétariat de la commission département
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°88-77 du 22 janvier 1988 - art. annexe 1 (V)
-
-
-##### SECTION 2 : TRAVAILLEURS HANDICAPES
-
-##### SOUS-SECTION 2 : READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
-
-###### Article D323-6
-
-Le montant de la prime de reclassement est fixé à une somme comprise entre 300 F et 750 F  en fonction notamment des
-ressources dont peut disposer le bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1048 1973-11-15
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-632 1984-07-16 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances
-
-	**Cité par**:
-
-	  - Code du travail - art. D323-8 (VT)
-
-	**Cite**:
-
-	  - Code du travail - art. R323-32 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1962-11-24 art. 3
-	  - Décret n°70-1091 1970-11-30
 
 
 ## PLACEMENT ET EMPLOI
