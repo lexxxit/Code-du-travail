@@ -1,5 +1,5 @@
 # Code du travail  
-Version Consolidée au 1973-12-21
+Version Consolidée au 1973-12-30
 
 # Partie législative ancienne
 
@@ -14638,6 +14638,266 @@ croûte ainsi que des périodes d'inaction dans les industries et commerces dét
 	  - Loi n°1942-08-28 art. 1
 
 
+##### AMENAGEMENT DU TEMPS DE TRAVAIL .
+
+###### Article L212-4-2
+
+L'aménagement par l'employeur, à titre permanent ou temporaire, d'horaires de travail réduits applicables aux seuls salariés
+qui en font la demande donne lieu à l'application des règles spéciales définies à l'article L. 212-4-3 et à l'article et à
+l'article 19 de la loi n. 73-1195 du 27 décembre 1973 sous réserve que soient effectivement remplies les conditions
+suivantes :
+
+Les horaires réduits doivent être compris entre la moitié et les trois quarts de la durée légale hebdomadaire de travail ou,
+
+en agriculture, de la durée équivalente ;
+
+Ces horaires ne peuvent concerner que des postes de travail répondant à des conditions de rémunération qui sont fixées par le
+décret [*en Conseil d'Etat*] prévu à l'article L. 212-4-4.
+
+Ces horaires réduits ne peuvent être appliqués qu'avec l'accord du comité d'entreprise, ou, s'il n'en existe pas, des
+délégués du personnel.
+
+Lorsque le comité d'entreprise, ou, s'il n'en existe pas,
+
+les délégués du personnel ont refusé l'accord ci-dessus exigé,
+
+le chef d'entreprise peut demander à l'inspecteur du travail et de la main-d'oeuvre, ou au fonctionnaire chargé de
+l'inspection du travail dans l'entreprise concernée d'autoriser l'application des horaires litigieux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°51-727 du 6 juin 1951 - art. 1 bis (Ab)
+	  - Décret n°72-230 du 24 mars 1972 - art. 1 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 1 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 2 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 3 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 4 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 5 (Ab)
+	  - Décret n°76-1282 du 29 décembre 1976 - art. 2-1 (Ab)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
+	  - Loi n°81-64 du 28 janvier 1981 - art. 5 (V)
+	  - Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - Arrêté du 20 décembre 1982 - art. 1 (V)
+	  - Décret n°85-300 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-301 du 5 mars 1985 - art. 1 (V)
+	  - Décret n°85-347 du 19 mars 1985 - art. 3 (Ab)
+	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
+	  - Décret n°90-607 du 12 juillet 1990 - art. 6 (V)
+	  - Décret n°91-1146 du 7 novembre 1991 - art. 1 (V)
+	  - Décret n°93-238 du 22 février 1993 - art. 1 bis (V)
+	  - Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 43 (V)
+	  - Décret n°94-774 du 30 août 1994 - art. 1 (Ab)
+	  - Décret n°94-774 du 30 août 1994 - art. 7 (Ab)
+	  - Loi n°95-95 du 1 février 1995 - art. 63 (Ab)
+	  - Décret n°95-912 du 8 août 1995 - art. 1 (V)
+	  - Décret n°95-925 du 19 août 1995 - art. 5 (Ab)
+	  - Décret n°95-950 du 25 août 1995 - art. 1 (V)
+	  - Décret n°95-950 du 25 août 1995 - art. 7 (V)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 1 (Ab)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 7 (Ab)
+	  - Décret n°98-1024 du 12 novembre 1998 - art. 3 (V)
+	  - Décret n°2000-118 du 14 février 2000 - art. 13 (V)
+	  - Décret n°2002-400 du 25 mars 2002 - art. 2 (Ab)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 24 (V)
+	  - Décret n°2006-1501 du 29 novembre 2006 - art. 3 (V)
+	  - CODE DES COMMUNES. - art. R233-99 (Ab)
+	  - CODE DES COMMUNES. - art. R263-22 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 163 nonies (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 YL (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 ZY bis (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies V 5 (P)
+	  - Code de la construction et de l'habitation. - art. R*313-1 (V)
+	  - Code de la sécurité sociale. - art. L241-3-1 (M)
+	  - Code de la sécurité sociale. - art. L242-8 (M)
+	  - Code de la sécurité sociale. - art. L351-15 (V)
+	  - Code de la sécurité sociale. - art. R241-0-1 (V)
+	  - Code de la sécurité sociale. - art. R242-7 (V)
+	  - Code de la sécurité sociale. - art. R242-8 (V)
+	  - Code de la sécurité sociale. - art. R243-6 (V)
+	  - Code du travail - art. Annexe à l'article R438-1 (VT)
+	  - Code du travail - art. D981-10 (M)
+	  - Code du travail - art. L122-32-12 (AbD)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-4 (M)
+	  - Code du travail - art. L212-4-7 (AbD)
+	  - Code du travail - art. L223-9 (AbD)
+	  - Code du travail - art. L322-12 (Ab)
+	  - Code du travail - art. L322-4-15-4 (M)
+	  - Code du travail - art. L322-4-8 (M)
+	  - Code du travail - art. L412-5 (M)
+	  - Code du travail - art. L421-2 (M)
+	  - Code du travail - art. L431-2 (M)
+	  - Code du travail - art. R212-1 (Ab)
+	  - Code du travail - art. R814-2 (VT)
+	  - Code du travail - art. R831-2 (VT)
+	  - Code du travail - art. R950-1 (M)
+	  - Code du travail maritime - art. 24-1 (V)
+	  - Code général des collectivités territoriales - art. D2333-102 (V)
+	  - Code général des collectivités territoriales - art. R2531-20 (V)
+	  - Code rural - art. L741-24 (Ab)
+	  - Code rural - art. R*741-50 (M)
+	  - Code rural - art. R*741-56 (Ab)
+	  - Code rural - art. R741-4 (V)
+	  - Code rural ancien - art. 1031-3 (Ab)
+
+	**Cite**:
+
+	  - Loi n°73-1195 du 27 décembre 1973 - art. 19 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°75-466 du 9 juin 1975
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°93-451 du 24 mars 1993 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-4-3
+
+En matière de législation du travail et pour la détermination des droits liés à l'ancienneté, la durée de celle-ci est
+décomptée pour les salariés employés à temps réduit en application de l'article L. 212-4-2 comme s'ils avaient été occupés à
+temps complet [*calcul*] .
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 55-10 (Ab)
+	  - Décret n°92-1205 du 16 novembre 1992 - art. 11 (Ab)
+	  - Loi n°92-1446 du 31 décembre 1992 - art. 3 (V)
+	  - Loi n°93-1313 du 20 décembre 1993 - art. 5 (M)
+	  - Arrêté du 12 avril 1994 - art. 3 (V)
+	  - Décret n°94-774 du 30 août 1994 - art. 1 (Ab)
+	  - Décret n°94-774 du 30 août 1994 - art. 7 (Ab)
+	  - Décret n°95-925 du 19 août 1995 - art. 5 (Ab)
+	  - Décret n°95-950 du 25 août 1995 - art. 1 (V)
+	  - Décret n°95-950 du 25 août 1995 - art. 7 (V)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 1 (Ab)
+	  - Décret n°95-1188 du 6 novembre 1995 - art. 7 (Ab)
+	  - Loi n°2000-37 du 19 janvier 2000 - art. 14 (V)
+	  - Décret n°2000-217 du 7 mars 2000 - art. 7 (Ab)
+	  - CODE DES COMMUNES. - art. R*121-26 (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 YL (P)
+	  - Code de la sécurité sociale. - art. D133-5 (M)
+	  - Code de la sécurité sociale. - art. D133-7 (V)
+	  - Code de la sécurité sociale. - art. D241-23 (Ab)
+	  - Code de la sécurité sociale. - art. L133-5-1 (M)
+	  - Code de la sécurité sociale. - art. L133-5-2 (V)
+	  - Code de la sécurité sociale. - art. L133-5-3 (AbD)
+	  - Code de la sécurité sociale. - art. L133-5-4 (VT)
+	  - Code de la sécurité sociale. - art. L133-5-5 (AbD)
+	  - Code de la sécurité sociale. - art. L242-9 (M)
+	  - Code de la sécurité sociale. - art. R351-40 (V)
+	  - Code du travail - art. D322-22-3 (M)
+	  - Code du travail - art. L122-32-16-1 (AbD)
+	  - Code du travail - art. L128-1 (VT)
+	  - Code du travail - art. L129-2 (M)
+	  - Code du travail - art. L129-6 (AbD)
+	  - Code du travail - art. L212-16 (VT)
+	  - Code du travail - art. L212-17 (AbD)
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code du travail - art. L212-4-3 (M)
+	  - Code du travail - art. L212-4-4 (VD)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L322-12 (Ab)
+	  - Code du travail - art. L322-4 (M)
+	  - Code du travail - art. L812-1 (V)
+	  - Code du travail - art. L932-1 (AbD)
+	  - Code du travail - art. R212-1 (Ab)
+	  - Code du travail - art. R261-3-1 (VT)
+	  - Code du travail - art. R814-2 (VT)
+	  - Code du travail - art. R831-2 (M)
+	  - Code général des collectivités territoriales - art. D4134-26 (V)
+	  - Code général des collectivités territoriales - art. R2123-7 (V)
+	  - Code général des collectivités territoriales - art. R2123-8 (T)
+	  - Code général des collectivités territoriales - art. R3123-6 (V)
+	  - Code général des collectivités territoriales - art. R4135-6 (M)
+	  - Code général des impôts, CGI. - art. 81 quater (Ab)
+	  - Code rural - art. R*741-50 (M)
+	  - Code rural - art. R*741-56 (Ab)
+	  - Code rural - art. R712-8 (V)
+	  - Code rural ancien - art. 1000-6 (Ab)
+	  - Code rural et de la pêche maritime - art. L712-1 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°98-497 du 22 juin 1998
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+
+###### Article L212-4-4
+
+Les mesures d'application des articles L. 212-4-1 à L. 212-4-3 font l'objet de décrets en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1046 1973-11-15
+
+	**Cité par**:
+
+	  - Décret n°75-466 du 9 juin 1975 - art. 1 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 2 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 3 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 4 (Ab)
+	  - Décret n°75-466 du 9 juin 1975 - art. 5 (Ab)
+	  - Loi n°81-64 du 28 janvier 1981 - art. 4 (V)
+	  - Décret n°86-1247 du 5 décembre 1986 - art. 3 (V)
+	  - Décret n°2003-849 du 4 septembre 2003 - art. 24 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter C (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter D (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 235 ter E (M)
+	  - Code du travail - art. L212-16 (VT)
+	  - Code du travail - art. L212-17 (AbD)
+	  - Code du travail - art. L212-4-2 (M)
+	  - Code du travail - art. L212-4-7 (T)
+	  - Code du travail - art. L932-1 (AbD)
+	  - Code du travail - art. R261-3-1 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°81-540 du 12 mai 1981 - art. 9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du travail - art. L212-4-8 (Ab)
+
+	**Cite**:
+
+	  - Code du travail L212-4-1 A L212-4-3
+
+
 ##### HEURES SUPPLEMENTAIRES .
 
 ###### Article L212-5
@@ -27656,6 +27916,49 @@ habituelle d'interruption de l'activité du salarié.
 	  - TXT_ASSOCIE: Code du travail - art. L463-1 (T)
 	  - TXT_ASSOCIE: Code du travail - art. L483-1 (AbD)
 	  - TXT_ASSOCIE: Code du travail R436-1 A R436-7
+
+
+#### AMELIORATION DES CONDITIONS DE TRAVAIL .
+
+###### Article L437-1
+
+Sans préjudice de l'application des règles figurant à l'article L. 432-4 du code du travail, le comité d'entreprise est
+associé à la recherche de solutions aux problèmes concernant la durée et les horaires de travail, notamment le travail de
+nuit, l'organisation matérielle, l'ambiance et les facteurs physiques du travail soit directement, soit par l'intermédiaire
+d'une commission spéciale qu'il crée à cet effet conformément aux articles L. 434-3 et R. 432-7 du code du travail.
+
+Le comité d'entreprise est à ce titre obligatoirement consulté avant l'introduction de nouvelles méthodes d'organisation du
+travail, avant toute transformation importante de postes de travail découlant de la modification de l'outillage ou de
+l'organisation du travail, avant les modifications des cadences et des normes de productivité, liées ou non à la rémunération
+du travail, ainsi qu'avant la réalisation de tout aménagement important intéressant l'ambiance et la sécurité du travail.
+
+La création de la commission spéciale prévue à l'alinéa 1er du présent article est obligatoire dans les entreprises qui
+occupent plus de 300 salariés [*effectifs*]. Cette commission se réunit au moins deux fois par an [*périodicité*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1047 1973-11-15
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE A *suite* (V)
+	  - Arrêté du 8 décembre 1977 - art. ANNEXE B *suite* (V)
+	  - Décret n°82-397 du 11 mai 1982 - art. 27 (M)
+	  - Loi n°82-1097 du 23 décembre 1982 - art. 11 (V)
+	  - Code du travail - art. Annexe à l'article R438-1 (VT)
+	  - Code du travail - art. L200-7 (AbD)
+	  - Code du travail - art. L437-2 (Ab)
+	  - Code du travail - art. R241-45 (Ab)
+	  - Code du travail - art. R437-1 (Ab)
+	  - Code du travail - art. R822-45 (VT)
+
+	**Cite**:
+
+	  - Code du travail - art. L432-4 (T)
+	  - Code du travail - art. L434-3 (T)
+	  - Code du travail - art. R432-7 (M)
 
 
 ### INTERESSEMENT ET PARTICIPATION
